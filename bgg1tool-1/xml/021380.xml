@@ -1,0 +1,723 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="21380">
+   <yearpublished>2005</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Conquest of the Fallen Lands</name>
+       <name  sortindex="1">Geroi temnih zemel (Герои тёмных земель)</name>
+         
+   <description>In Conquest of the Fallen Lands, you and your fellow players have a task to free a land invaded by vile hordes of monsters, and win back the treasures they plundered._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game board is composed of hex tiles representing orc scouting parties, encampments, fortifications, dragons, etc. Each tile has a difficulty level._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Players take turns conquering these tiles by playing troop cards on them. Each conquered tile creates new opportunities to tackle tougher tiles around it, both for you and your opponents (so you have to be careful!)._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Conquering a tile gets you a reward equal to its difficulty level. This money is used in the game to purchase assets and abilities, and it is also used to determine who has won this game, once it's over._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;A number of magic cards introduce a variety of special effects and abilities that can greatly benefit the players._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game includes two rule sets, Normal and Advanced, that play very differently:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    The Normal game is very accessible; it is a lighter game that plays with little downtime and yet has a lot of strategic depth. _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    The Advanced rules lead to a more complex game that can sometimes be a bit of a brain burner. It also moves at a much slower pace._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/awPr3dqbS1IGtvDNS_8l6OdqIYA=/fit-in/200x150/pic147417.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/WVGZ3elMpYxomngpD54EJVMS5VM=/0x0/pic147417.jpg</image>
+      
+                   <boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+               <boardgamepublisher objectid="6129">Assa Games</boardgamepublisher>
+               <boardgamedesigner objectid="6462">Andrei Burago</boardgamedesigner>
+               <boardgameartist objectid="9731">Josh Cappel</boardgameartist>
+                      <boardgameversion objectid="22413">English second edition</boardgameversion>
+               <boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+               <boardgamecategory objectid="1035">Medieval</boardgamecategory>
+               <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+               <boardgamepublisher objectid="35331">Neskuchnie igri (Нескучные игры)</boardgamepublisher>
+               <boardgameartist objectid="64324">Wayne O Connor</boardgameartist>
+                      <boardgameversion objectid="342658">Russian edition</boardgameversion>
+                      <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="22">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="9" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="1" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="1" />
+     <result value="8" numvotes="5" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>740</usersrated>
+     <average>6.80507</average>
+     <bayesaverage>5.98283</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2254" bayesaverage="5.98283" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1013" bayesaverage="6.08698" />
+            
+           </ranks>
+     
+     <stddev>1.31647</stddev>
+     <median>0</median>
+     <owned>899</owned>
+     <trading>81</trading>
+     <wanting>68</wanting>
+     <wishing>292</wishing>
+     <numcomments>337</numcomments>
+     <numweights>99</numweights>
+     <averageweight>2.3636</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sat, 31 Dec 2005 08:36:35 +0000</listdate>
+    <saledate>Fri, 03 Feb 2006 21:46:47 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Oct 2006 16:08:14 +0000</listdate>
+    <saledate>Mon, 16 Oct 2006 19:58:24 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap
+Fall 2006 edition
+Shipping Priority Mail $10 into the US, $15 Canada, $30 worldwide</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Oct 2006 01:55:29 +0000</listdate>
+    <saledate>Wed, 25 Oct 2006 22:43:36 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>new</condition>
+    <notes>Fall 2006 edition
+New in shrink wrap
+Shipping $10 in the US, $15 Canada, $30 worldwide</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Feb 2007 01:17:38 +0000</listdate>
+    <saledate>Sat, 26 May 2007 21:02:52 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>This game is brand new and manufacturer sealed. Combined shipping may be available on multiple purchases. Other shipping arrangements are available upon request but may vary in cost. Pennsylvania shipping addresses should include 6% sales tax.
+**VERY FAST SHIPPING - 2-4 business days once payment received**</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jun 2007 14:02:18 +0000</listdate>
+    <saledate>Fri, 19 Sep 2008 08:49:41 +0000</saledate>
+    <price currency='USD'>33.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+CONQUEST OF THE FALLEN LANDS: 33.95
+Assa Games [ASG 0001]
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jul 2007 18:24:29 +0000</listdate>
+    <saledate>Wed, 25 Feb 2009 19:48:01 +0000</saledate>
+    <price currency='EUR'>44.99</price>
+    <condition>new</condition>
+    <notes>New improved version !!!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Nov 2007 15:10:25 +0000</listdate>
+    <saledate>Sun, 29 Jun 2008 08:27:10 +0000</saledate>
+    <price currency='EUR'>49.9</price>
+    <condition>new</condition>
+    <notes>The game is new and still in shrink
+Shipping to France : 7 Euros
+Shipping to Europa : 9 Euros
+Shipping to rest of the world : 13 Euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jan 2008 02:33:18 +0000</listdate>
+    <saledate>Wed, 20 Aug 2008 05:11:02 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played - good as new.
+Buyer to pay for Insurance (optional) but I won_T_E_M_P_T_A_G_#039;t be held responsible for uninsured items that get lost in the post (haven_T_E_M_P_T_A_G_#039;t lost one yet though).
+I will accept Direct Deposit from Australian Buyers
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Apr 2008 19:36:02 +0000</listdate>
+    <saledate>Mon, 14 Jul 2008 10:45:58 +0000</saledate>
+    <price currency='USD'>33.75</price>
+    <condition>new</condition>
+    <notes>Brand new shrink wrapped copy of the Assa Games edition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Sep 2008 22:23:22 +0000</listdate>
+    <saledate>Tue, 24 Feb 2009 05:34:43 +0000</saledate>
+    <price currency='USD'>27.99</price>
+    <condition>verygood</condition>
+    <notes>The game is in very good condition. The cards have a little sign of wear, but frankly most of them came that way when I bought the game.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Sep 2008 19:52:49 +0000</listdate>
+    <saledate>Mon, 24 Nov 2008 04:32:08 +0000</saledate>
+    <price currency='USD'>33.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+CONQUEST OF THE FALLEN LANDS: $33.95
+Assa Games [ASG 0001]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Oct 2008 21:16:52 +0000</listdate>
+    <saledate>Fri, 19 Dec 2008 04:34:46 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Opened, punched but unplayed copy.  Buyer to pay priority mail with delivery confirmation shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Nov 2008 03:58:12 +0000</listdate>
+    <saledate>Mon, 01 Dec 2008 06:35:54 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>verygood</condition>
+    <notes>Box damage and rulebook is creased, bot otherwise in Like New condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Nov 2008 04:02:47 +0000</listdate>
+    <saledate>Mon, 17 Nov 2008 22:13:04 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Only played once. Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Jan 2009 17:34:52 +0000</listdate>
+    <saledate>Sat, 31 Jan 2009 04:17:43 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played several times but still in excellent shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Aug 2009 19:40:31 +0000</listdate>
+    <saledate>Thu, 07 Jan 2010 15:40:45 +0000</saledate>
+    <price currency='GBP'>30.99</price>
+    <condition>new</condition>
+    <notes>UK 1st class £5.30
+UK parcel post £4.60
+Europe
+£8.70</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Sep 2009 19:59:04 +0000</listdate>
+    <saledate>Thu, 10 Sep 2009 00:04:41 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>reserved for auction win</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Oct 2009 04:18:45 +0000</listdate>
+    <saledate>Wed, 28 Oct 2009 12:30:20 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>likenew</condition>
+    <notes>This item is reserved for Kdean1, who won items at auction.
+Price is for Conquest of Fallen Lands, Ilium, and Buccaneer</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Feb 2010 23:30:50 +0000</listdate>
+    <saledate>Mon, 07 Mar 2011 03:15:08 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>auction item reserved for paladimelliot ONLY</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Apr 2010 08:07:59 +0000</listdate>
+    <saledate>Mon, 13 Jun 2011 12:42:03 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes>Punched but never played</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Jun 2010 03:09:00 +0000</listdate>
+    <saledate>Sat, 26 Jun 2010 02:13:13 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>good</condition>
+    <notes>Game sold to auction winner Geek TengoLaVida</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Jun 2010 05:14:47 +0000</listdate>
+    <saledate>Sat, 26 Jun 2010 07:41:00 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Reserved for paperemail</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Aug 2010 00:02:36 +0000</listdate>
+    <saledate>Thu, 19 Aug 2010 00:26:07 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>For CyanideNow. Unused, but the game doesn_T_E_M_P_T_A_G_#039;t have a component list so I can_T_E_M_P_T_A_G_#039;t verify completeness. As such I_T_E_M_P_T_A_G_#039;m listing as _T_E_M_P_T_A_G_quot;acceptable_T_E_M_P_T_A_G_quot;, though I_T_E_M_P_T_A_G_#039;m pretty sure everything is there. Box has some bowing and scuffing. Cards have some wear.  Shipping is included with your other purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Sep 2010 18:06:00 +0000</listdate>
+    <saledate>Sat, 16 Apr 2011 18:57:26 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>Only played once and in excellent condition throughout.
+Postage to UK £6
+Payment via Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Mar 2011 18:48:17 +0000</listdate>
+    <saledate>Thu, 24 Mar 2011 00:55:59 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>This is for fhsIV only.  </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 May 2011 08:49:38 +0000</listdate>
+    <saledate>Sat, 04 Jun 2011 02:01:45 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Aug 2011 16:39:51 +0000</listdate>
+    <saledate>Thu, 18 Aug 2011 05:08:16 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>For auction winner hauruck only Please!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jan 2012 16:59:43 +0000</listdate>
+    <saledate>Mon, 02 Jan 2012 03:42:31 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened, but never played.  Great condition.
+For user Doctor_Zaius  via triplets auction</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Feb 2012 08:01:38 +0000</listdate>
+    <saledate>Sun, 12 Feb 2012 10:21:51 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Unpunched, never played</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Mar 2012 20:19:50 +0000</listdate>
+    <saledate>Thu, 01 Mar 2012 21:14:05 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>All pieces are in storage containers/bags and in pristine shape. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Aug 2012 22:40:03 +0000</listdate>
+    <saledate>Mon, 13 Aug 2012 10:34:23 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>for user warpi9 only pls</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Sep 2012 13:59:02 +0000</listdate>
+    <saledate>Sun, 16 Sep 2012 10:47:55 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>for user VShadowHeart only pls </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Sep 2012 04:28:43 +0000</listdate>
+    <saledate>Tue, 25 Sep 2012 06:06:39 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>This is for Raechel Coon - who won this item in my auction.  I will only accept payment from her.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Oct 2012 00:22:51 +0000</listdate>
+    <saledate>Sat, 13 Oct 2012 15:22:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Auction win reserved for Orangemoose</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Oct 2012 17:15:14 +0000</listdate>
+    <saledate>Sun, 02 Dec 2012 05:23:15 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Never Played</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Nov 2012 01:30:03 +0000</listdate>
+    <saledate>Thu, 01 Nov 2012 03:23:12 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Andrei Palmer</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Dec 2012 17:56:01 +0000</listdate>
+    <saledate>Tue, 11 Dec 2012 04:57:38 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Damion101</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Dec 2012 15:03:54 +0000</listdate>
+    <saledate>Wed, 12 Dec 2012 20:36:55 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played a couple times. Great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Dec 2012 18:07:19 +0000</listdate>
+    <saledate>Sun, 08 Dec 2013 07:15:19 +0000</saledate>
+    <price currency='USD'>33.99</price>
+    <condition>new</condition>
+    <notes>Assa Games (AGG0001)
+Conquest of the Fallen Lands is an exciting new board game for 3 to 5 players. It is easy to learn, fun to play, and a typical game ends in about an hour. Even so, this game has the richness, atmosphere and depth of a larger-scale wargame. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Jan 2013 12:45:36 +0000</listdate>
+    <saledate>Thu, 07 Feb 2013 08:30:36 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR LEONARD MOSES II
+Game is in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Feb 2013 17:23:36 +0000</listdate>
+    <saledate>Wed, 13 Feb 2013 04:36:34 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This is for the auction winner: Damion101
+Congrats and thanks for the bid!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Feb 2013 03:46:04 +0000</listdate>
+    <saledate>Fri, 22 Feb 2013 16:47:09 +0000</saledate>
+    <price currency='USD'>17.99</price>
+    <condition>likenew</condition>
+    <notes>100% perfectly like new, played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Apr 2013 15:03:14 +0000</listdate>
+    <saledate>Mon, 29 Apr 2013 18:44:18 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Jun 2013 12:59:56 +0000</listdate>
+    <saledate>Tue, 24 Sep 2013 17:41:35 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Only played 2 times but but has wear on the lid and bottom.  The containers come with the game!!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Jul 2013 12:58:59 +0000</listdate>
+    <saledate>Fri, 02 Aug 2013 03:15:02 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Items reserved for winner of Geeklist auction: 
+Conquest of the Fallen Lands
+Goldbrau
+Nightfall
+Stonehenge
+Thebes
+S_T_E_M_P_T_A_G_amp;H: $31.00</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Aug 2013 06:55:04 +0000</listdate>
+    <saledate>Thu, 03 Apr 2014 09:55:44 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Sep 2013 13:28:17 +0000</listdate>
+    <saledate>Wed, 25 Sep 2013 15:18:23 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>for user tcollett only pls</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 May 2014 21:57:08 +0000</listdate>
+    <saledate>Wed, 25 Jun 2014 02:02:44 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Never-played. No damage to box or components. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jun 2014 18:03:49 +0000</listdate>
+    <saledate>Mon, 02 Jun 2014 19:13:05 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/173804/item/3240093#3240093]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED - Because you can_T_E_M_P_T_A_G_#039;t play money: An Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Jun 2014 00:34:26 +0000</listdate>
+    <saledate>Fri, 08 Aug 2014 20:17:20 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>The components were punched, but the game was never played. This is the 2nd Edition. I know that some reviewers thought that this game works for 2-players, but after reading the rules I just didn_T_E_M_P_T_A_G_#039;t think it would go over well with my husband as a 2-player game. The one box corner is dinged (not bad at all and the components are unaffected, but I wanted to mention it) - this is the way the game was shipped to me. Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Mar 2012 08:34:34 +0000</listdate>
+    <saledate>Fri, 17 Oct 2014 15:54:00 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Oct 2014 19:33:34 +0000</listdate>
+    <saledate>Mon, 20 Oct 2014 23:35:16 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 May 2014 00:42:51 +0000</listdate>
+    <saledate>Sun, 26 Oct 2014 22:51:56 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Out of shrink, mint
+Assa Games, 2nd edition</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Jan 2015 17:41:44 +0000</listdate>
+    <saledate>Fri, 02 Jan 2015 18:51:44 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/183425/item/3616159#3616159]Item for Geeklist _T_E_M_P_T_A_G_quot;My First Auction - Probably the First of Many.... Ends 12/30_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Hey there. Sorry that this expired. I was rustling up some boxes for the last few items to ship and ran out of time. Please re-purchase the item and I_T_E_M_P_T_A_G_#039;ll confirm and quote you a price with shipping by tomorrow.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Feb 2015 20:12:43 +0000</listdate>
+    <saledate>Tue, 03 Feb 2015 02:53:55 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Reserved for FelixInc</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Mar 2015 13:28:18 +0000</listdate>
+    <saledate>Sat, 14 Mar 2015 16:38:26 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This is from the geeklist auction: Everything Must Go!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Apr 2013 02:21:03 +0000</listdate>
+    <saledate>Fri, 17 Apr 2015 19:39:14 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened and unplayed. Cards are sleeved.
+SELLERS TERMS AND CONDITIONS:
+ 
+PAYMENT TERMS: Payment is due within 3 days of the date you placed the order. Please do not purchase if you do not intend to pay, or cannot pay within this time frame. 
+PAYMENT METHODS: PayPal
+ SHIPPING: Buyer is responsible for all shipping cost. Tracking is required for all items. Please geekmail your ship to address. Ships from 07043
+ INSURANCE: Insurance is optional on all items, unless noted. Buyer assumes risk if insurance is not chosen.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 May 2015 00:56:53 +0000</listdate>
+    <saledate>Mon, 04 May 2015 16:40:49 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190488/item/3867199#3867199]Item for Geeklist _T_E_M_P_T_A_G_quot;200+ games, Pickup in STL/Geekway available, Ships From STL, Ends 4pm CDT Sunday May 3rd_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For donjamcdix only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Jul 2015 21:21:57 +0000</listdate>
+    <saledate>Wed, 29 Jul 2015 15:51:37 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Like new condition, all components are accounted for, box is glossy and undamaged. Game in pristine condition. SHIPS FAST, WITH TRACKING.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Sep 2015 03:54:53 +0000</listdate>
+    <saledate>Sun, 13 Sep 2015 15:52:08 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/196310/item/4119228#4119228]Item for Geeklist _T_E_M_P_T_A_G_quot;Unplayed games - my loss is your gain - ends 9/12_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Aug 2015 01:50:57 +0000</listdate>
+    <saledate>Thu, 17 Sep 2015 14:15:01 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>For user GraveParadise only
+Version: Second Edition (2006)
+Condition: Components are like new, box has minor shelf wear.
+Shipping: $12.65 or less, depending on zip code</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Dec 2006 01:58:56 +0000</listdate>
+    <saledate>Mon, 26 Oct 2015 16:22:37 +0000</saledate>
+    <price currency='USD'>49.9</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap. Priority mail shipping in the US is $8.10. Contact me for international shipping rates.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Jun 2015 03:35:01 +0000</listdate>
+    <saledate>Thu, 29 Oct 2015 16:16:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Jul 2015 02:58:52 +0000</listdate>
+    <saledate>Sat, 28 Nov 2015 06:59:19 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and in excellent condition.
+Please make any requests for additional information about the item prior to purchasing.
+If you are a new BGG User, please geekmail me prior to purchasing.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Jan 2016 07:56:56 +0000</listdate>
+    <saledate>Fri, 29 Jan 2016 14:39:08 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/203921/item/4405652#4405652]Item for Geeklist _T_E_M_P_T_A_G_quot;Pre-Superbowl Auction (US Only) (Ends Jan 28th after 6pm PST)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Apr 2016 20:05:13 +0000</listdate>
+    <saledate>Wed, 20 Apr 2016 23:54:05 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>Played a few times.
+Reserved for NinjaPirateAssassin</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jan 2016 20:57:19 +0000</listdate>
+    <saledate>Thu, 30 Jun 2016 09:53:22 +0000</saledate>
+    <price currency='USD'>22.99</price>
+    <condition>likenew</condition>
+    <notes>shrink removed but never played. excellent condition. shipping 11.00</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jul 2016 01:52:14 +0000</listdate>
+    <saledate>Wed, 27 Jul 2016 03:04:52 +0000</saledate>
+    <price currency='USD'>18.99</price>
+    <condition>likenew</condition>
+    <notes>Out of shrink, never played, cool dry non smoking household. Shipping is USPS flat rate, $16 to continental US.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 May 2016 03:02:38 +0000</listdate>
+    <saledate>Mon, 22 Aug 2016 17:51:28 +0000</saledate>
+    <price currency='CAD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Apr 2016 02:19:24 +0000</listdate>
+    <saledate>Tue, 20 Sep 2016 14:48:48 +0000</saledate>
+    <price currency='USD'>5.99</price>
+    <condition>verygood</condition>
+    <notes>Game is in great shape, looks like it has been played once or twice.  Estimated shipping of $13.45.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Nov 2016 20:56:02 +0000</listdate>
+    <saledate>Thu, 01 Dec 2016 03:47:54 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/217133/item/5029463#5029463]Item for Geeklist _T_E_M_P_T_A_G_quot;[CLOSED] One Dope in Queens, Nov 2016 NYC (includes wargames, ameritrash, euros, etc.)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Dec 2016 04:17:00 +0000</listdate>
+    <saledate>Thu, 22 Dec 2016 14:51:24 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/218345/item/5083238#5083238]Item for Geeklist _T_E_M_P_T_A_G_quot;Cleaning out the Closet 2016 auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for user MaryPatriceJoanne. Please do not buy if you are not them. Thanks!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Jun 2017 14:36:31 +0000</listdate>
+    <saledate>Sun, 11 Jun 2017 16:26:58 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/225115/item/5376986#5376986]Item for Geeklist _T_E_M_P_T_A_G_quot;Local pick up or Origins delivery auction!!  No ship_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 May 2015 03:43:34 +0000</listdate>
+    <saledate>Sat, 14 Oct 2017 00:15:40 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This item is for a winner of my recent auction: DoralFL</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Jan 2018 05:23:08 +0000</listdate>
+    <saledate>Sat, 03 Feb 2018 03:08:51 +0000</saledate>
+    <price currency='USD'>19.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

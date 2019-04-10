@@ -1,0 +1,982 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="136000">
+   <yearpublished>2013</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>30</playingtime>
+   <minplaytime>30</minplaytime>
+   <maxplaytime>30</maxplaytime>
+   <age>14</age>
+       <name  sortindex="1">Rivet Wars</name>
+       <name primary="true" sortindex="1">Rivet Wars: Eastern Front</name>
+       <name  sortindex="1">Rivet Wars: El Frente del Este</name>
+       <name  sortindex="1">Rivet Wars: Front de l_T_E_M_P_T_A_G_#039;Est</name>
+         
+   <description>Rivet Wars is a miniatures boardgame that springs forth from the warped imagination of Ted Terranova - set on a world that never quite left World War I but with crazy technology like walking tanks, diesel powered armor, unicycled vehicles and armor plated cavalry!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Don't let the cute visuals fool you, it's a world full of angst, war-torn camaraderie and dark humor._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Rivet Wars is at its heart a strategy game, with both players deploying units each round to counter the threats set forth by their opponent and stay one tactical step ahead._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Heavily influenced by Ted's experience working on RTS games like Rise of Nations, players gather resources (bunkers and capture points) and use these to deploy streams of new units!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;There's an ebb and flow on the tactical landscape and you can stock up surprises for your opponent to be unleashed even as he thinks he's winning!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/GxnUewyIdP3PDxz0P4Utk_JQtQw=/fit-in/200x150/pic1528364.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/8wuP7ccwy08nl1tCSUnO5rqHuDE=/0x0/pic1528364.jpg</image>
+      
+            <boardgamefamily objectid="26464">Alternate History</boardgamefamily>
+               <boardgamefamily objectid="5601">Anime _T_E_M_P_T_A_G_amp; Manga</boardgamefamily>
+               <boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+               <boardgamepublisher objectid="21608">CMON Limited</boardgamepublisher>
+               <boardgamefamily objectid="25158">Components: Miniatures</boardgamefamily>
+               <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+               <boardgamepodcastepisode objectid="103312">D6G Ep 129: Rivet Wars Interview _T_E_M_P_T_A_G_amp;amp; Bioshock: Infinite Board Game Review</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgamepublisher objectid="2973">Edge Entertainment</boardgamepublisher>
+               <boardgameversion objectid="194165">English edition</boardgameversion>
+               <boardgamepodcastepisode objectid="132192">Episode 2: Last Night On Earth, Lost Boys, and Galaxy Trucker</boardgamepodcastepisode>
+               <boardgameversion objectid="265407">French edition</boardgameversion>
+               <boardgamepodcastepisode objectid="104933">GenCon 2013 - Zombicide</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="127563">GenCon 2014 - Cool Mini or Not</boardgamepodcastepisode>
+               <boardgameversion objectid="276707">German edition</boardgameversion>
+                                    <boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+                             <boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+               <boardgamepodcastepisode objectid="135604">MOBG 24 Best of 2014 (21-01-15)</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+                             <boardgamedesigner objectid="68953">Bill Podurgiel</boardgamedesigner>
+                                    <boardgameexpansion objectid="212278">Rivet Wars: Atomic Robo</boardgameexpansion>
+               <boardgameexpansion objectid="175190">Rivet Wars: Babygirl</boardgameexpansion>
+               <boardgameexpansion objectid="165048">Rivet Wars: Battle of Brighton</boardgameexpansion>
+               <boardgameexpansion objectid="169471">Rivet Wars: Clockwork Soldiers vs. Plague Troopers</boardgameexpansion>
+               <boardgameexpansion objectid="196441">Rivet Wars: Elsa Frost vs. Cher Ami</boardgameexpansion>
+               <boardgameexpansion objectid="165049">Rivet Wars: Heavy Metal</boardgameexpansion>
+               <boardgameexpansion objectid="167275">Rivet Wars: M3 Vertical Tank vs. Landkrieger</boardgameexpansion>
+               <boardgameaccessory objectid="196440">Rivet Wars: Macleod_T_E_M_P_T_A_G_#039;s Guards vs. Baron Munchen Guards</boardgameaccessory>
+               <boardgameexpansion objectid="212277">Rivet Wars: R-100</boardgameexpansion>
+               <boardgameexpansion objectid="165319">Rivet Wars: Reme Funck</boardgameexpansion>
+               <boardgameexpansion objectid="169650">Rivet Wars: Rosie the Riveter</boardgameexpansion>
+               <boardgameexpansion objectid="165047">Rivet Wars: Second Wave</boardgameexpansion>
+               <boardgameexpansion objectid="165042">Rivet Wars: Spearhead</boardgameexpansion>
+               <boardgameexpansion objectid="167273">Rivet Wars: Sturmrad vs. M7 Boss</boardgameexpansion>
+               <boardgameaccessory objectid="165050">Rivet Wars: Terrain Pack</boardgameaccessory>
+               <boardgameexpansion objectid="165388">Rivet Wars: The Jetpacker</boardgameexpansion>
+               <boardgameexpansion objectid="175191">Rivet Wars: The Man in Charge</boardgameexpansion>
+               <boardgameexpansion objectid="165318">Rivet Wars: The Red Baron</boardgameexpansion>
+               <boardgameexpansion objectid="165422">Rivet Wars: The Treasure Hunter</boardgameexpansion>
+               <boardgameexpansion objectid="212279">Rivet Wars: The Veteran</boardgameexpansion>
+               <boardgameaccessory objectid="167333">Rivet Wars: Tile Set</boardgameaccessory>
+               <boardgameexpansion objectid="165043">Rivet Wars: War Room</boardgameexpansion>
+                      <boardgameversion objectid="251185">Spanish edition</boardgameversion>
+               <boardgamedesigner objectid="66052">Ted Terranova</boardgamedesigner>
+                      <boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+               <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+               <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="13" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="3" />
+     <result value="12" numvotes="3" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>788</usersrated>
+     <average>7.09546</average>
+     <bayesaverage>6.08453</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1881" bayesaverage="6.08453" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="428" bayesaverage="6.49111" />
+              <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="332" bayesaverage="6.3322" />
+            
+           </ranks>
+     
+     <stddev>1.48068</stddev>
+     <median>0</median>
+     <owned>2451</owned>
+     <trading>133</trading>
+     <wanting>62</wanting>
+     <wishing>312</wishing>
+     <numcomments>235</numcomments>
+     <numweights>49</numweights>
+     <averageweight>2.4286</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sun, 08 Sep 2013 21:19:43 +0000</listdate>
+    <saledate>Sun, 12 Jan 2014 23:21:09 +0000</saledate>
+    <price currency='USD'>225</price>
+    <condition>new</condition>
+    <notes>This is for the Blizkreig Pledge of Kickstarter version. Please see http://www.kickstarter.com/projects/coolminiornot/rivet-wars for more details. Includes all KS exclusives _T_E_M_P_T_A_G_amp; bonuses that come with the package.
+Shipping: Should be able to change the shipping address in the KS Pledge making it free. Otherwise, buyer is responsible for actual shipping charges. Buyer is also responsible for all commissions.
+If you want to buy anything more (Optional Item) to the pledge, please let me know and we should be able to add them.
+Note: Game is not released yet and it is a pre-order. Please see the Kickstarter for more details on estimated shipping date.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Dec 2013 19:16:28 +0000</listdate>
+    <saledate>Tue, 07 Jan 2014 02:45:32 +0000</saledate>
+    <price currency='USD'>238</price>
+    <condition>new</condition>
+    <notes>This is for the Blitzkrieg KS pledge AND extras.  
+I have the Base Set in shrink, and by Q1 2014, will have some KS extras (Verttanks, Lanskriegers, Alternate Infantry pack) and exclusives (Jetpacker, and most stretch goal characters) that will be selling at a mighty price.  Secure yours today at my discounted price.  I just need the money now.
+If youd rather ship as one package once I recieve the extras in 2014, you_T_E_M_P_T_A_G_#039;ll get a 10% savings off your tot all. 
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Dec 2013 21:44:50 +0000</listdate>
+    <saledate>Tue, 14 Jan 2014 16:54:35 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>new</condition>
+    <notes>_T_E_M_P_T_A_G_quot;Rivet Wars Dice Tower_T_E_M_P_T_A_G_quot; from Tectonic Craft Studios ...
+for more informations see their homepage ..
+imported 3 of those Babies to the EU to save on the huge amount of shipping - now I´m selling two of ´em - let the dice roll the steam punk way ... 
+Paypal and bank transfer</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Mar 2014 23:04:32 +0000</listdate>
+    <saledate>Mon, 17 Mar 2014 06:44:36 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>This game has been opened and punched but not played. This is the retail edition of the game.
+I will ship via UPS, USPS or Fed Ex at my discretion. Shipping will be $16. This box is heavy and does not fit in a flat rate shipping box. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Mar 2014 02:04:54 +0000</listdate>
+    <saledate>Sat, 21 Jun 2014 01:02:31 +0000</saledate>
+    <price currency='USD'>74.95</price>
+    <condition>new</condition>
+    <notes>A new in shrink copy of Rivet Wars. This miniature boardgame is a blast to play. It is fast, easy and fun to play. I will pay for shipping via FedEx Ground to anywhere in the continental U.S.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Apr 2014 04:34:49 +0000</listdate>
+    <saledate>Mon, 14 Apr 2014 12:21:17 +0000</saledate>
+    <price currency='USD'>61.49</price>
+    <condition>new</condition>
+    <notes>Cool Mini Or Not (CMNR001)
+Rivet Wars is a miniatures board game that springs forth from the warped imagination of Ted Terranova - set on a world that never quite left World War I but with crazy technology like walking tanks, diesel powered armor, unicycle vehicles and armor plated cavalry! Don_T_E_M_P_T_A_G_#039;t let the cute visuals fool you, it_T_E_M_P_T_A_G_#039;s a world full of angst, war-torn camaraderie and dark humor. Rivet Wars is at its heart a strategy game, with both players deploying units each round to counter the threats set forth by their opponent and stay one tactical step ahead. Heavily influenced by Ted_T_E_M_P_T_A_G_#039;s experience working on RTS games like Rise of Nations, players gather resources (bunkers and capture points) and use these to deploy streams of new units! There_T_E_M_P_T_A_G_#039;s an ebb and flow on the tactical landscape and you can stock up surprises for your opponent to be unleashed even as he thinks he_T_E_M_P_T_A_G_#039;s winning! </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 May 2014 14:31:49 +0000</listdate>
+    <saledate>Tue, 06 May 2014 15:23:21 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>likenew</condition>
+    <notes>for whiskeybane only
+Rivet Wars: Blitzkrieg Kickstarter pledge level.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 May 2014 19:16:59 +0000</listdate>
+    <saledate>Tue, 27 May 2014 19:34:06 +0000</saledate>
+    <price currency='USD'>180</price>
+    <condition>new</condition>
+    <notes>For Dan M (DrunkDwarves) only.
+Rivet Wars Blitzkrieg Kickstarter plus Tilepack Omega and Jetpacker add-ons.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Jul 2014 15:03:32 +0000</listdate>
+    <saledate>Tue, 01 Jul 2014 15:42:40 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>For auction winner only ...
+http://boardgamegeek.com/geeklist/175248/closed-marvel-dice-masters-complete-collection-ori</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Aug 2014 17:33:54 +0000</listdate>
+    <saledate>Thu, 11 Sep 2014 01:39:10 +0000</saledate>
+    <price currency='USD'>300</price>
+    <condition>likenew</condition>
+    <notes>This is all of the blitzkrieg pledge level from Kickstarter that has shipped to date. Includes:
+Rivet Wars Eastern Front Boxed set - opened but like new. 
+All of the following are unopened:
+War Room (heroes)
+Reme Funck (biplane)
+The Red Baron (biplane)
+Spearhead 
+Terrain Pack
+Blitzkrieg Box
+Message if you need more info but see the Kickstarter page for pics, etc.
+Shipping is free to the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Sep 2014 02:55:52 +0000</listdate>
+    <saledate>Tue, 16 Sep 2014 10:58:05 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>RESERVED for jgortner
+- Surplus base units from Blitzkreig package
+- One terrain set (NIS)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Sep 2014 18:36:53 +0000</listdate>
+    <saledate>Thu, 18 Sep 2014 20:32:26 +0000</saledate>
+    <price currency='USD'>135</price>
+    <condition>new</condition>
+    <notes>Blitzkrieg box (not base game)
+RWKS15 box
+Reserved for DrunkDwarves</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Sep 2014 05:05:38 +0000</listdate>
+    <saledate>Tue, 23 Sep 2014 13:05:57 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Reserved for roselindo
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Sep 2014 05:08:20 +0000</listdate>
+    <saledate>Tue, 23 Sep 2014 05:09:46 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>M3 Vertical Tank vs. Landkrieger
+Reserved for Walt Mulder</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Sep 2014 05:08:56 +0000</listdate>
+    <saledate>Tue, 23 Sep 2014 05:09:46 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Rivet Wars 
+Sturmrad vs. M7 Boss
+Reserved for Walt Mulder</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Sep 2014 05:09:43 +0000</listdate>
+    <saledate>Tue, 23 Sep 2014 11:55:00 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Rivet Wars Elsa Frost vs. Cher Ami
+Reserved for nichol
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Oct 2014 00:17:12 +0000</listdate>
+    <saledate>Tue, 14 Oct 2014 22:54:47 +0000</saledate>
+    <price currency='USD'>300</price>
+    <condition>new</condition>
+    <notes>I have the following for sale, all new in box.
+1 Rivet Wars Blitzkrieg Pledge Level, asking $300 shipped. 
+In addition to all the Blitzkrieg level stretch goals It includes the following extras, Elsa Frost Vs. Cher Ami, The Jet Packer (KS Exclusive), Macleod_T_E_M_P_T_A_G_#039;s Guard Vs. Baron Munchin_T_E_M_P_T_A_G_#039;s Guard, Sturmrad Vs M7 Boss, M3 Vertical Tank Vs. LandKrieger, and 1 promo Treasure Hunter
+I also have an extra base set that has been opened that I will include with this purchase.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Nov 2014 06:50:16 +0000</listdate>
+    <saledate>Sat, 08 Nov 2014 11:09:08 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>for auction winner shallowz only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Oct 2014 21:47:13 +0000</listdate>
+    <saledate>Mon, 17 Nov 2014 23:32:29 +0000</saledate>
+    <price currency='USD'>329</price>
+    <condition>new</condition>
+    <notes>Did you miss the Kickstarter? Here_T_E_M_P_T_A_G_#039;s your chance to correct that! 
+This bundle is for a KS Blitzkreig level of Rivet Wars, and tons of add-ons!
+I_T_E_M_P_T_A_G_#039;m just trying to recoup most of my expense, so this lot is listed for LESS than the price I paid for it.
+Everything is NIB/NIS, except the external shrink has been removed from the base game only.
+I_T_E_M_P_T_A_G_#039;m listing everything using the names of the boxes the items were received in (because they combined many stretch goals into retail packages). 
+Rivet Wars base game
+Terrain Pack (2)
+Tile Set
+War Room
+Battle of Brighton
+Heavy Metal
+Faction Dice (4 ea, 8 total)
+The following boxes make up what will be the _T_E_M_P_T_A_G_#039;Second Wave_T_E_M_P_T_A_G_#039; retail box (listed on MM and rivet wars.com):
+Elsa Frost vs. Cher Ami
+MacLeod_T_E_M_P_T_A_G_#039;s Guards vs. Baron Munchen Gurads (6 ea instead of retail 4 ea)
+Strumrad vs. M7 Boss (3 ea instead of retail 2 ea)
+M3 Vertical Tank vs. Landskrieger (3 ea instead of retail 2 ea)
+Included but not available online:
+The Red Baron
+Reme Funck
+The Jetpacker
+Additional non-retail stretch goals (all of these items are included!):
+3 Clockwork Soldiers _T_E_M_P_T_A_G_amp; 3 Plague Troopers
+Battle of Brighton KS roundup (2 flying units and two AA plugs for each army)
+Blitzkreig box (contains all the KS Exclusive characters and extra units from stretch goals (that aren_T_E_M_P_T_A_G_#039;t in retail packaging), as well as the litho, patches, faction dice [listed above], etc.)
+- General Patson plug
+- General Romler plug
+- Vet fig and plug
+- R100 fig and plug
+- Baby Girl fig and plug
+- Man in charge fig and plug
+- Rosie Riveter and plug
+- Atomic Robo
+- Uncle Rivet
+- Iron Chancellor
+- 1MT-1 Ostrich
+- 1 Sturmpanzer
+- 4 Rocket bikes
+- 4 Monowheels
+- 2 Artillery
+- 2 Machine guns
+- 12 Allied Infantry
+- 12 Blight Infantry
+Secret Mission cards
+Buyer will pay shipping. GM me with zip code for a quote.
+International: GM me before purchasing to be sure I can ship to your country and for a shipping quote.
+I combine shipping when there_T_E_M_P_T_A_G_#039;s room!
+All of my games are cared for in an OCD fashion in a smoke-free, pet free home!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Sep 2014 22:38:10 +0000</listdate>
+    <saledate>Sun, 30 Nov 2014 02:35:11 +0000</saledate>
+    <price currency='USD'>525</price>
+    <condition>likenew</condition>
+    <notes>This is the kickstarter Blitzkrieg pledge level plus numerous add-ons.  Buyer will pay shipping fees (estimated $35 within United States).  Note the shrink wrap has been removed on the base game, but all other packages are unopened.  Please feel free to ask me any questions.  The package includes the following:
+Base game
+KS Extras:  Lithograph, Blitzkrieg Box, Terrain Pack, Spearhead, War Room, Red Baron, Reme Funck, and Clockwork Soldiers vs. Plague Troopers
+Battle of Brighton (plus extra troops as a kickstarter bonus)
+Heavy Metal
+Tilepack Omega
+Jetpacker
+Cpl. Cher Ami vs. Captain Elsa Frost
+M3 Vertical Tank vs. Landkrieger Pack
+Sturmrad vs. M7 Boss Pack
+Rivet Wars Hardcover Art Book
+Allied and Blight Turret Plugs Pack
+Here is a description of the contents included in the base pledge from the website:
+https://www.kickstarter.com/projects/coolminiornot/rivet-wars
+Items included in Blitzkrieg:
+1 Game ($100 value)
+The Vet and plug ($15 value) - Kickstarter/con exclusive
+R100 and plug ($15 value) - Kickstarter/con exclusive
+Babygirl and plug ($15 value) - Kickstarter/con exclusive
+Man in Charge and plug ($15 value) - Kickstarter/con exclusive
+1 extra Ostrich tank ($20 value)
+1 extra Sturmpanzer ($20 value)
+Faction patches ($5 value)
+Custom dice ($10 value)
+24 extra infantry ($30 value)
+4 Mountaineers and 4 Trench Raiders ($30)
+8 extra cavalry ($20 value)
+Patston in Walker ($15 value)
+Romler in Scout Car ($15 value)
+4 pairs Canine units ($20 value)
+4 Extra Vehicles ($20 value)
+1 Lithograph ($5 value)
+150 page PDF Artbook ($5)
+Rosie and Rosie plug ($15) - Kickstarter/con exclusive
+Atomic Robo ($15) - Kickstarter/con exclusive
+Two turret emplacements and plugs ($10)
+Lt Brasseuldun ($15)
+Baron Munchen and plug ($15)
+Lt McCleod and plug ($15)
+Red Baron ($15)
+Reme Funck ($15)
+Uncle Rivet ($10) Kickstarter/con exclusive
+Iron Chancellor ($10) Kickstarter/con exclusive
+Terror Nova ($10) Kickstarter/con exclusive
+Cruel Minie ($10) Kickstarter/con exclusive
+Total value = $520 (so far)
+Additionally, several other items are included:
+Battle of Brighton (MSRP $80)  (http://www.miniaturemarket.com/catalog/product/view/id/41855/s/cmnrw0008/)
+Plus an additional KS bonus of 2 scouts and an AA turret per faction
+Heavy Metal (MSRP $45)  (http://www.miniaturemarket.com/catalog/product/view/id/41856/s/cmnrw0010/)
+Tilepack Omega inclues:
+Tile Set Expansion (MSRP $25) (http://www.miniaturemarket.com/catalog/product/view/id/41854/s/cmnrw0007/)
+Terrain Pack Expansion (MSRP $40) (http://www.miniaturemarket.com/catalog/product/view/id/41853/s/cmnrw0005/)
+Plus additional KS bonus of extra mission and action cards
+Jetpacker - Kickstarter Exclusive
+Cpl. Cher Ami vs. Captain Elsa Frost (Not listed for sale anywhere as of the start of this posting)
+M3 Vertical Tank vs. Landkrieger Pack (Not listed for sale anywhere as of the start of this posting)
+Includes 3 of each unit
+Sturmrad vs. M7 Boss Pack (Not listed for sale anywhere as of the start of this posting)
+Includes 3 of each unit
+Rivet Wars Hardcover Art Book (Not listed for sale anywhere as of the start of this posting)
+Allied and Blight Turret Plugs Pack (Not listed for sale anywhere as of the start of this posting)
+Includes 2x turret plug and 2x turret base for each faction</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Jan 2015 20:34:22 +0000</listdate>
+    <saledate>Mon, 19 Jan 2015 13:51:53 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes>Retail version
+Shrinkwrapped and in stock
+Language: English
+Within The Netherlands Euro 4,- per shipment (Kiala or DHL4you) or 6,75 per shipment (PostNL).
+Shipment to Belgium by Kiala is Euro 7,50.
+For other shipment methods and/or destinations or looking for another boardgame title please inquire.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Jan 2015 20:19:40 +0000</listdate>
+    <saledate>Tue, 27 Jan 2015 21:12:53 +0000</saledate>
+    <price currency='USD'>300</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Jan 2015 16:38:52 +0000</listdate>
+    <saledate>Sun, 08 Mar 2015 11:51:50 +0000</saledate>
+    <price currency='EUR'>230</price>
+    <condition>new</condition>
+    <notes>RIVET WARS INCLUDED CORE GAME BOX CONTENTS (Core Box is opened in very good condition, all other boxes are new and still sealed)
+38 highly-detailed plastic miniatures
+• 34-page rulebook
+• 16 stat cards
+• 2 stat dashboards
+• 24 Action! cards
+• 10 Secret Mission cards
+• 9 double-sided tiles
+• 1 tracking tile
+• 6 bunker markers
+• 6 strategic objective markers
+• 6 minefield markers
+• 6 tank trap markers
+• 6 razor wire Markers
+• 12 flag tokens
+• 5 gas plastic markers
+• 4 victory plastic markers
+• 24 damage plastic markers
+• 6 six-sided dice
+RIVET WARS ADDTIONAL ITEMS INCLUDED IN THE KICKSTARTER BLITZKRIEG SET:
+•The Vet and plug ($15 value) - Kickstarter/con exclusive
+•R100 and plug ($15 value) – Kickstarter/con exclusive
+•Babygirl and plug ($15 value) - Kickstarter/con exclusive
+•Man in Charge and plug ($15 value) - Kickstarter/con exclusive
+•1 extra Ostrich tank ($20 value)
+•1 extra Sturmpanzer ($20 value)
+•Faction patches ($5 value)
+•24 extra infantry ($30 value)
+•4 Mountaineers and 4 Trench Raiders ($30)
+•8 extra cavalry ($20 value)
+•Patston in Walker ($15 value)
+•Romler in Scout Car ($15 value)
+•4 pairs Canine units ($20 value)
+•4 Extra Vehicles ($20 value)
+•1 Lithograph ($5 value)
+•150 page hardcover Artbook  ($25)
+•Rosie and Rosie plug ($15) - Kickstarter/con exclusive
+•Atomic Robo ($15) – Kickstarter/con exclusive
+•Two turret emplacements and plugs ($10)
+•Lt Brasseuldun ($15)
+•Baron Munchen and plug ($15)
+•Lt McCleod and plug ($15)
+•Uncle Rivet ($10) Kickstarter/con exclusive
+•Iron Chancellor ($10) Kickstarter/con exclusive
+•Terror Nova ($10) Kickstarter/con exclusive
+•Cruel Minie ($10) Kickstarter/con exclusive
+•Clockwork Soldiers ($40) Kickstarter/gift exclusive
+•Plague Troopers ($40) Kickstarter/gift exclusive
+- War Room
+- Elsa Frost vs. Cher Ami
+- The Jetpacker
+- MacLeod_T_E_M_P_T_A_G_#039;s Guards vs. Baron Munchen Guards
+- Spearhead
+- Terrain Pack</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Mar 2015 23:09:13 +0000</listdate>
+    <saledate>Mon, 23 Mar 2015 17:48:43 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>acceptable</condition>
+    <notes>German Version
+ 
+The game is complete and the components in good condition but the lid of the box has 2 rips in the corners (2 cm and 5 cm)
+Shipping to Germany costs: 5,99€</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Mar 2015 20:36:09 +0000</listdate>
+    <saledate>Thu, 26 Mar 2015 23:20:19 +0000</saledate>
+    <price currency='USD'>275</price>
+    <condition>likenew</condition>
+    <notes>Includes (All Still Sealed unless specified) (Unwilling to break up)
+- Base game opened with markers punched out tiles still shrink-wrapped
+- Red Baron _T_E_M_P_T_A_G_amp; Funch
+- Jetpacker
+- Blitzkrieg completion pack with all applicable special characters
+- Clockwork and Zombie Soldiers
+- Battle of Brighton and complete pack
+- Sturmrad _T_E_M_P_T_A_G_amp; M7
+- McLeod _T_E_M_P_T_A_G_amp; Munchen Guard (alt sculps)
+- Vert Tanks _T_E_M_P_T_A_G_amp; Land Krieger
+- Spearhead
+- Extra Tiles
+- Elsa Frost _T_E_M_P_T_A_G_amp; Ami
+- War Room
+- Heavy Metal
+- Terrain Pack (x2)
+- Special Dice _T_E_M_P_T_A_G_amp; Extra Secret Cards
+- And a sew on badge!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Apr 2015 04:39:47 +0000</listdate>
+    <saledate>Tue, 28 Apr 2015 04:41:36 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>For DeathWarden ONLY - Rivet Wars and Gloom auction wins</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 May 2015 15:47:12 +0000</listdate>
+    <saledate>Fri, 01 May 2015 16:02:23 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/189519/item/3874195#3874195]Item for Geeklist _T_E_M_P_T_A_G_quot;Central South King County, WA Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Jan 2015 06:46:48 +0000</listdate>
+    <saledate>Sun, 31 May 2015 23:08:48 +0000</saledate>
+    <price currency='USD'>324.99</price>
+    <condition>new</condition>
+    <notes>[b]((((((({ WAS 374.99 NOW $50 OFF SALE UNTIL 4/30/15  })))))))[/b]
+YOU ARE BUYING:
+[b]RIVET WARS CORE GAME + KICKSTARTER BLITZKRIEG PLEDGE LEVEL + BONUS FIGURE NOBODY HAS!!![/b]
+So many miniature chibi Army figures ready to fight on your side!!!
+[b]RIVET WARS INCLUDED CORE GAME BOX CONTENTS ($100 VALUE):[/b]
+38 highly-detailed plastic miniatures 
+• 34-page rulebook 
+• 16 stat cards 
+• 2 stat dashboards 
+• 24 Action! cards 
+• 10 Secret Mission cards 
+• 9 double-sided tiles 
+• 1 tracking tile 
+• 6 bunker markers 
+• 6 strategic objective markers 
+• 6 minefield markers 
+• 6 tank trap markers 
+• 6 razor wire Markers 
+• 12 flag tokens 
+• 5 gas plastic markers 
+• 4 victory plastic markers 
+• 24 damage plastic markers 
+• 6 six-sided dice
+[b]RIVET WARS ADDTIONAL ITEMS INCLUDED IN THE KICKSTARTER BLITZKRIEG SET:[/b]
+•[b]SPECIAL: The Treasure Hunter - Retail Store Exclusive Promo ($40 Value)[/b]
+•The Vet and plug ($15 value) - Kickstarter/con exclusive
+•R100 and plug ($15 value) – Kickstarter/con exclusive
+•Babygirl and plug ($15 value) - Kickstarter/con exclusive
+•Man in Charge and plug ($15 value) - Kickstarter/con exclusive
+•1 extra Ostrich tank ($20 value)
+•1 extra Sturmpanzer ($20 value)
+•Faction patches ($5 value)
+•Custom dice ($10 value)
+•24 extra infantry ($30 value)
+•4 Mountaineers and 4 Trench Raiders ($30)
+•8 extra cavalry ($20 value)
+•Patston in Walker ($15 value)
+•Romler in Scout Car ($15 value)
+•4 pairs Canine units ($20 value)
+•4 Extra Vehicles ($20 value)
+•1 Lithograph ($5 value)
+•150 page PDF Artbook (DL) ($5)
+•Rosie and Rosie plug ($15) - Kickstarter/con exclusive
+•Atomic Robo ($15) – Kickstarter/con exclusive
+•Two turret emplacements and plugs ($10)
+•Lt Brasseuldun ($15)
+•Baron Munchen and plug ($15)
+•Lt McCleod and plug ($15)
+•Red Baron ($15)
+•Reme Funck ($15)
+•Uncle Rivet ($10) Kickstarter/con exclusive
+•Iron Chancellor ($10) Kickstarter/con exclusive
+•Terror Nova ($10) Kickstarter/con exclusive
+•Cruel Minie ($10) Kickstarter/con exclusive
+•[b]Clockwork Soldiers ($40) Kickstarter/gift exclusive[/b]
+•[b]Plague Troopers ($40) Kickstarter/gift exclusive[/b]
+•Total value = minimum est value $640 (so far)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Jun 2015 18:18:52 +0000</listdate>
+    <saledate>Fri, 17 Jul 2015 00:54:14 +0000</saledate>
+    <price currency='GBP'>46.99</price>
+    <condition>likenew</condition>
+    <notes>Rivet Wars: Eastern Front
+Opened, but unplayed. Box and contents are in immacultate, mint condition.
+P+P will be £2.99 via Hermes. Uk only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Jun 2015 05:34:44 +0000</listdate>
+    <saledate>Thu, 23 Jul 2015 22:12:27 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened and punched cardboard pieces  all units still in the plastic trays . Never played
+Only 7.00 UPS shipping also have battle of Brighton  expansion for sale will make a deal for the bundle</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Apr 2015 12:58:02 +0000</listdate>
+    <saledate>Sun, 02 Aug 2015 08:56:38 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes>GERMAN EDITION INCLUDING WAR ROOM expansion (in english).
+Played twice, excellent condition.
+Bank transfer prefered, PayPal accepted.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Oct 2015 01:32:12 +0000</listdate>
+    <saledate>Thu, 08 Oct 2015 21:02:49 +0000</saledate>
+    <price currency='USD'>634</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197446/item/4180819#4180819]Item for Geeklist _T_E_M_P_T_A_G_quot;New House Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Includes Rum and Bones, Mirrax, Vegas, Conquest of Pangea, Jab, Age of Gods, and Sheriff of Nottingham
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Feb 2015 07:51:32 +0000</listdate>
+    <saledate>Wed, 02 Dec 2015 16:29:04 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>likenew</condition>
+    <notes>Like new, played only a couple of times. 
+Shipping should be around $12, maybe a little more, depending.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Mar 2015 10:15:36 +0000</listdate>
+    <saledate>Thu, 03 Dec 2015 14:25:21 +0000</saledate>
+    <price currency='USD'>350</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter Blitzkrieg plus Add-ons
+Includes 
+1. Extra Omega tile pack. 
+2. Battle of Brighton
+3. Second Wave
+4. Spearhead
+5. War room
+6. Clockwork soldiers and Plague Troopers
+7. M3 Vertical Tank vs. Landkrieger
+8. Jetpacker
+9. Remember Funk
+10. Red Baron
+11. Sturmrad vs. M7 Boss
+12. Rosie Riveter
+More</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jan 2016 22:59:34 +0000</listdate>
+    <saledate>Thu, 03 Mar 2016 23:27:59 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Cards sleeved.
+Box top has one corner taped, but contents are like new. Includes all original packing materials to protect miniatures.
+I need to charge $15 to ship this game.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Mar 2016 00:59:53 +0000</listdate>
+    <saledate>Sat, 12 Mar 2016 17:36:13 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>received in an auction, everything looks complete. a piece look complete .
+shipping would be $11</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Apr 2016 23:59:02 +0000</listdate>
+    <saledate>Thu, 19 May 2016 16:03:37 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>likenew</condition>
+    <notes>This is the entire kickstarter set. The main box and one or two of the expansions were opened to look at, but most everything else was not touched, still in shrink wrap.
+I dont really see a comparable on ebay or here, so if you have another offer, let me know. 
+If you are in the Los Angeles area, we can do a pick up.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Jun 2016 21:20:00 +0000</listdate>
+    <saledate>Wed, 08 Jun 2016 22:54:43 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>good</condition>
+    <notes>For: wilsons9
+This sale has been auto-generated for the auction: [geekurl=/geeklist/209355/item/4652506#4652506]Item for Geeklist _T_E_M_P_T_A_G_quot;( Ended) Culling the collection auction (USA only) 50+ games includes Thunderstone Adv, Descent and Arkham Horror lots, Ground Floor, Rolling Freight, Eclipse and more!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Feb 2016 10:58:42 +0000</listdate>
+    <saledate>Tue, 14 Jun 2016 15:32:49 +0000</saledate>
+    <price currency='EUR'>42.5</price>
+    <condition>verygood</condition>
+    <notes>I have several other Rivet Wars items for sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Aug 2016 21:17:58 +0000</listdate>
+    <saledate>Sat, 27 Aug 2016 01:11:47 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>new</condition>
+    <notes>Kickstarter includes all kickstarter items and addition, this is a complete collection never played and in mint condition, smoke free environment.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Aug 2016 16:22:05 +0000</listdate>
+    <saledate>Sat, 27 Aug 2016 16:40:52 +0000</saledate>
+    <price currency='USD'>165</price>
+    <condition>likenew</condition>
+    <notes>Reserved for ltsketch
+Includes Zombicide Set 2: Survivors and Zombivors</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jan 2014 19:22:25 +0000</listdate>
+    <saledate>Thu, 15 Sep 2016 16:18:56 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>new</condition>
+    <notes>Attention, you´re not buying the Rivet Wars Core Game here, merely the limited Dice Tower under license from Tectonic Craft Studios in the U.S.
+_T_E_M_P_T_A_G_quot;Rivet Wars Dice Tower_T_E_M_P_T_A_G_quot; from Tectonic Craft Studios ...
+for more informations and photos see their homepage ..
+imported 3 of those Babies to the EU to save on the huge amount of shipping - now I´m selling two of ´em - let the dice roll the steam punk way ... 
+*** Shipment:
+I´m packing with greatest care to ensure that your games arrive in perfect condition.
+International shipping rates (DHL, all prices in Euro):
+Letter (up to 0,5 kg): 3,45 € worldwide
+Letter (up to 1,0 kg): 7,00 € worldwide
+Letter (up to 2,0 kg): 17,00 € worldwide
++++ inscribed letter: add 2,05 € = insured till 20,00 €
+or insribed letter: add 3,85 € = insured till 25,00 
+or extra insurence: add 1,50 € für every 100,00 € insurance.
+Small Parcel (up to 2,0 kg): 8,90 € (EU) or 15,90 € (worldwide)
++++ no full insurence possible (only up to 35 Euro for additional 2,00 €)
+Parcel (up to 5,0 kg): 16,99 € (EU) or 29,99 € (Rest of Europe) or 35,99 € (USA/CAN) oder 42,99 € (Rest of World)
+Parcel (up to 10,0 kg): 21,99 € (EU) or 34,99 € (Rest of Europe) or 47,99 € (USA/CAN) oder 59,99 € (Rest of World)
+Parcel (up to 20,0 kg): 31,99 € (EU) or 49,99 € (Rest of Europe) or 68,99 € (USA/CAN) oder 92,99 € (Rest of World)
+Parcel (up to 31,5 kg): 41,99 € (EU) or 54,99 € (Rest of Europe) or 93,99 € (USA/CAN) oder 124,99 € (Rest of World)
+Insured till 500,00 € only in EU
++++ add 8,50 € for insurance (Rest of Europe) or 18 € (USA/CAN) or 24 € (Rest of World)
+Shipping in Germany (DHL, all prices in Euro):
+Brief (up to 0,05 kg): 0,90 €
+Großbrief (up to 0,5 kg): 1,45 €
+Warensendung (up to 0,5 kg): 1,90 €
+Maxibrief (up to 1,0 kg): 2,40 €
+Maxibrief (up to 2,0 kg): 4,60 €
++++ inscribed letter: add 2,05 € = insured till 20,00 €
+or insribed letter: add 3,85 € = insured till 25,00 
+or extra insurence: add 1,50 € für every 100,00 € insurance.
+Päckchen (up to 2,0 kg): 4,10 €
++++ no insurence possible
+Paket (up to 2,0 kg): 4,90 €
+Paket (up to 10,0 kg): 6,99 €
+Paket (up to 20,0 kg): 11,99 €
+Paket (up to 31,5 kg): 13,99 €
+Insured till 500,00 €
+NO ADDITIONAL FEES FOR PACKAGE!
+*** Payment:
+Within Euro-zone the EU-standard-bank-transfer (SEPA, IBAN/BIC) is recommended, 
+it´s quick, save and causes no fees. 
+Paypal is certainly also possible, fees within EU are 0,35 Euro + 1,9% of the total.
+Worldwide (outside the EURO-zone) Paypal is recommended.
+Paypal -fees are 0,35 Euro + (3,9% - 5,2%) of the total.
+For nearly all countries outside Europe, apart from USA and Canada (both 3,9%), the rate is 5.2%.
+The fees of the payment method you choose and the real shipping costs you have to pay.
+Thank you. Stephan.
+ Paypal and bank transfer
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Nov 2016 01:07:09 +0000</listdate>
+    <saledate>Wed, 02 Nov 2016 16:50:06 +0000</saledate>
+    <price currency='USD'>36.5</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/211305/item/4738363#4738363]Item for Geeklist _T_E_M_P_T_A_G_quot;The Purge II: Late Spring Cleaning (USA Only)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Added the $12.50 shipping cost you calculated.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jan 2017 01:26:57 +0000</listdate>
+    <saledate>Sun, 01 Jan 2017 01:39:32 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/218894/item/5098953#5098953]Item for Geeklist _T_E_M_P_T_A_G_quot;Post Christmas/ Hanukkah Auction!   ENDING IN THE NEW YEAR!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jan 2017 18:15:20 +0000</listdate>
+    <saledate>Mon, 10 Apr 2017 22:08:09 +0000</saledate>
+    <price currency='USD'>140</price>
+    <condition>likenew</condition>
+    <notes>This contains the core game plus spearhead, M3 Vertical Tank vs. LandKriger, and Sturmrad vs. M7 Boss. Shipping is included in the price. There might be a couple of hit tokens missing.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Jun 2017 17:12:49 +0000</listdate>
+    <saledate>Sat, 17 Jun 2017 22:49:02 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>Factory shrinked.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Sep 2017 08:28:04 +0000</listdate>
+    <saledate>Fri, 29 Sep 2017 20:34:25 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>Played once; shipping Germany: 5€; shipping Europe: ca. 15€</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Sep 2017 18:27:36 +0000</listdate>
+    <saledate>Fri, 03 Nov 2017 08:36:00 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>Payment via money order or paypal friends.
+Shipping within germany: 5,- inside EU: 16,-</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Aug 2017 14:12:08 +0000</listdate>
+    <saledate>Fri, 24 Nov 2017 22:29:31 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Unplayed, perfect condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Dec 2017 17:19:15 +0000</listdate>
+    <saledate>Wed, 03 Jan 2018 20:29:38 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>verygood</condition>
+    <notes>This sale contains Rivet Wars Eastern Front Core Game (Very Good Condition) plus
+- Blitzkrieg Box from the Kickstarter (contents see photo)
+- Heavy Metal Expansion (New - Sealed)
+- Battle of Brighton Expansion (New - Sealed)
+- Spearhead Expansion (New - Sealed)
+- M3 Vertical Tank VS Landkrieger Expansion (New - Sealed)
+- Reme Funk Expansion (New - Sealed)
+Payment possible also by Bank Transfer and cash on pickup. Items can be picked up directly in Frankfurt, Germany.
+Approximate Shipping Costs (TBC):
+- Germany: 6 Euros
+- EU: 16 Euros
+- Rest of Europe: At least 30 Euros
+This is a private sale</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Nov 2017 09:42:53 +0000</listdate>
+    <saledate>Sun, 25 Mar 2018 00:23:10 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Accepted payments : paypal friends option or bank transfer.
+Shipping within Germany will be 6 Euro (without Islands)
+For shipping elsewhere please ask me about shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Mar 2018 02:25:04 +0000</listdate>
+    <saledate>Fri, 30 Mar 2018 15:14:53 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>new</condition>
+    <notes>Unopened - New in Shrink.
+Ships from North Bay, Ontario. Local Pickup available.
+PM me with your postal code for a shipping estimate.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Apr 2018 15:06:22 +0000</listdate>
+    <saledate>Mon, 23 Apr 2018 16:29:57 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239278/item/6080745#6080745]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction (US - 50014 Ames, IA) ends 4/22/18_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 May 2018 23:28:37 +0000</listdate>
+    <saledate>Sun, 03 Jun 2018 20:46:18 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>verygood</condition>
+    <notes>Includes a few other items with the inserts taken out so that it would fit in less space. Three boxes, Rivet Wars Easter Front, Battle of Brighton (slightly crushed), and Heavy Metal. 
+Actual contents:
+Rivet Wars: Eastern Front
+Battle of Brighton
+Heavy Metal
+Spearhead
+War Room
+Terrain Pack</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 May 2018 15:55:16 +0000</listdate>
+    <saledate>Sat, 09 Jun 2018 20:47:47 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>New but not in shrink.
+Shipping _T_E_M_P_T_A_G_amp; Packaging 7€ in Germany.
+International buyers please ask before you buy since shipping might be expensive.
+Will ship worldwide.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 May 2018 13:09:31 +0000</listdate>
+    <saledate>Wed, 20 Jun 2018 22:31:26 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Aug 2018 21:00:51 +0000</listdate>
+    <saledate>Sun, 09 Sep 2018 12:39:42 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>likenew</condition>
+    <notes>Have the following unused:
+Terrain Pack x3
+Spearhead x2
+Battle of Brighton
+Jet packer x2
+Art Book
+Blitzkrieg box x2
+Clockwork soldiers x2
+The Treasure Hunter
+MacLeods Guards vs Baron Munchen Guards
+M3 Vertical Tank vs Landkrieger
+Elsa Frost vs Cher Ami
+Heavy Metal
+Sturmrad vs M7 Boss
+War room x2
+Red Baron x2
+Reme Funck x2
+Tile Set
+Rivet Wars Eastern Front (base set) x2
+I do not have an estimate for shipping costs, but it will not be cheap given the bulk.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Aug 2018 20:45:51 +0000</listdate>
+    <saledate>Tue, 02 Oct 2018 20:00:57 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes>German edition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Oct 2018 22:16:39 +0000</listdate>
+    <saledate>Mon, 29 Oct 2018 22:41:07 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>new</condition>
+    <notes>Hi, 
+this is for the Essen-Auction trade we did. If you don_T_E_M_P_T_A_G_#039;t mind, please buy this item in the marketplace so that BGG can get their commission and we can give feedback.
+Thanks for the easy trade! 
+Cheers, Marc</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

@@ -1,0 +1,732 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="19854">
+   <yearpublished>2005</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>8</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Federation Commander: Klingon Border</name>
+         
+   <description>From the designer of Star Fleet Battles, Federation Commander is the fast moving game of starship combat in the Star Fleet Universe.  Mounted game boards, laminated full color ship control cards and gorgeous full color counters highlight this re-imagining of the Star Fleet Universe with 21st century production values._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This was the initial product for Federation Commander, and was the original base set.  There are other base sets and expansions for the Federation Commander Series._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Much effort has gone into streamlining the game - there are 8 impulses rather than 32.  One die roll allocates up to 10 points of damage, rather than 2 dice per damage point that strikes the ship.   Color coded charts and ship cards reduce the mental overhead of remembering what goes where._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Gone is the tax form of energy allocation, replaced by a free flowing dynamic _T_E_M_P_T_A_G_amp;quot;on the fly_T_E_M_P_T_A_G_amp;quot; power allocation system.  Maneuver has had countless special cases removed and streamlined._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This is not an introduction to Star Fleet Battles, but a re-imagining of starship combat in the Star Fleet Universe, redesigned from the ground up to appeal to a wider audience and reduce rules lawyer-ism._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Included in the rules are the 'free form_T_E_M_P_T_A_G_amp;quot; (hexless) movement rules that have been in use for years; the hex map is scaled for miniatures bases, and the game is designed to be easy to port over to miniatures adaptations._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/ZwuHQPY3L6Vzloay2ftpzhK8AmI=/fit-in/200x150/pic100449.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/rGNISB-KYoX5G8wy4HCb2w5Nhqo=/0x0/pic100449.jpg</image>
+      
+            <boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+               <boardgameversion objectid="43246">Amarillo Design Bureau Rules Revision 4 edition</boardgameversion>
+               <boardgameversion objectid="43247">Amarillo Design Bureau Rules Revision 5 edition</boardgameversion>
+               <boardgameversion objectid="88310">Amarillo Design Bureau Rules Revision 6 Edition</boardgameversion>
+               <boardgamepublisher objectid="25">Amarillo Design Bureau, Inc.</boardgamepublisher>
+               <boardgameversion objectid="22862">Amarillo first edition</boardgameversion>
+               <boardgamedesigner objectid="675">Stephen V. Cole</boardgamedesigner>
+               <boardgameexpansion objectid="45682">Deluxe Space Battle Maps</boardgameexpansion>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+                             <boardgamepodcastepisode objectid="104630">Episodio 11 – Especial verano 2013: Juegos no jugados</boardgamepodcastepisode>
+               <boardgameartist objectid="3484">Mark Evans (I)</boardgameartist>
+               <boardgamefamily objectid="23">Federation Commander</boardgamefamily>
+               <boardgameexpansion objectid="28160">Federation Commander: Battleships Attack</boardgameexpansion>
+               <boardgameexpansion objectid="22093">Federation Commander: Boosters</boardgameexpansion>
+               <boardgameexpansion objectid="35112">Federation Commander: Briefing #1</boardgameexpansion>
+               <boardgameexpansion objectid="43225">Federation Commander: Briefing #2</boardgameexpansion>
+               <boardgameexpansion objectid="29563">Federation Commander: Distant Kingdoms</boardgameexpansion>
+               <boardgameexpansion objectid="60471">Federation Commander: Hydran Attack</boardgameexpansion>
+               <boardgameexpansion objectid="21371">Federation Commander: Klingon Attack</boardgameexpansion>
+               <boardgameexpansion objectid="35399">Federation Commander: Orion Attack</boardgameexpansion>
+               <boardgameexpansion objectid="41213">Federation Commander: Reference Rulebook</boardgameexpansion>
+               <boardgameexpansion objectid="138138">Federation Commander: Reinforcements Attack</boardgameexpansion>
+               <boardgameexpansion objectid="21372">Federation Commander: Romulan Attack</boardgameexpansion>
+               <boardgameintegration objectid="21373">Federation Commander: Romulan Border</boardgameintegration>
+               <boardgameexpansion objectid="142865">Federation Commander: Tactics Manual</boardgameexpansion>
+               <boardgameexpansion objectid="27146">Federation Commander: Tholian Attack</boardgameexpansion>
+               <boardgameexpansion objectid="102055">Federation Commander: Transports Attacked</boardgameexpansion>
+               <boardgameexpansion objectid="74114">Federation Commander: War and Peace</boardgameexpansion>
+                      <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+               <boardgamepodcastepisode objectid="70098">I_T_E_M_P_T_A_G_#039;ve Been Diced! episode 27: An expanding universe of expansions</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="99524">I_T_E_M_P_T_A_G_#039;ve Been Diced! episode 45: Noble failures, and Eclipse on the iPad</boardgamepodcastepisode>
+               <boardgamecategory objectid="1064">Movies / TV / Radio theme</boardgamecategory>
+                             <boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+               <boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+                      <boardgameexpansion objectid="56010">Star Fleet Battles: Module H1 – Megahex</boardgameexpansion>
+               <boardgamefamily objectid="95">Star Fleet Universe</boardgamefamily>
+               <boardgamefamily objectid="7392">Star Trek</boardgamefamily>
+               <boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+                      <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+                      <boardgameintegration objectid="21373" inbound="true">Federation Commander: Romulan Border</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="7">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="8">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="8+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="2" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>534</usersrated>
+     <average>7.3904</average>
+     <bayesaverage>6.04162</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2030" bayesaverage="6.04162" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="208" bayesaverage="6.84229" />
+              <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="348" bayesaverage="6.29495" />
+            
+           </ranks>
+     
+     <stddev>1.50151</stddev>
+     <median>0</median>
+     <owned>1029</owned>
+     <trading>26</trading>
+     <wanting>81</wanting>
+     <wishing>269</wishing>
+     <numcomments>226</numcomments>
+     <numweights>100</numweights>
+     <averageweight>3.36</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sun, 15 Jan 2006 16:41:59 +0000</listdate>
+    <saledate>Sun, 15 Jan 2006 21:21:54 +0000</saledate>
+    <price currency='USD'>27.5</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Jun 2006 18:53:56 +0000</listdate>
+    <saledate>Sat, 29 Jul 2006 18:53:02 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>Unpunched/Unplayed.
+I will ship USPS Priority Mail.   International buyers, please check with me on shipping before purchasing.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Oct 2006 05:36:19 +0000</listdate>
+    <saledate>Sun, 12 Nov 2006 23:23:42 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>Game is complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 May 2007 03:17:45 +0000</listdate>
+    <saledate>Fri, 04 May 2007 18:10:07 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Comes with Deluxe Space Battle Maps.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2007 18:08:04 +0000</listdate>
+    <saledate>Sun, 21 Jun 2009 22:50:55 +0000</saledate>
+    <price currency='EUR'>53.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Nov 2008 02:38:53 +0000</listdate>
+    <saledate>Thu, 05 Mar 2009 09:14:53 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>Opened but otherwise in mint condition. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Jun 2009 03:25:19 +0000</listdate>
+    <saledate>Tue, 16 Jun 2009 03:27:16 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>Box sleeve slightly worn at corners. Game and box themselves in great condition. Never played. Counters unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jun 2009 21:11:28 +0000</listdate>
+    <saledate>Fri, 10 Jul 2009 16:19:09 +0000</saledate>
+    <price currency='USD'>40.49</price>
+    <condition>new</condition>
+    <notes>Amarillo Design Bureau (ADB 4001)
+New captains are sent to fight pirates. Bold captains are sent to fight Klingons. Are You a Bold Captain?
+New Game Value: Everything is designed for FAST play and to allow players to learn the game in under an hour. The dynamic _T_E_M_P_T_A_G_quot;Pay as you Go_T_E_M_P_T_A_G_quot; energy system does not bog down game play. Damage allocation is done by a fast _T_E_M_P_T_A_G_quot;one die_T_E_M_P_T_A_G_quot; system.
+This product does not require any other products for use. All other Federation Commander products will work with Romulan Border or Klingon Border.
+Components: 60-page Rev-4 rulebook, 216 half-inch and 40 one-inch full color die cut playing pieces, two full-color double-sided laminated player reference cards, sixteen full color double-sided laminated ship cards, six 8.5x11 hard-mounted double-sided map panels, two dice, paperclips for energy track, wipe-off marker.
+Improvements over earlier editions of Klingon Border: Higher-quality map panels, real wipe-off marker, and the latest revision rulebook with all updates integrated. Who will buy it? Veterans of Star Fleet Battles, players of Federation Commander: Romulan Border, fans of Star Trek, and fans of miniatures starship games.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jul 2009 10:38:03 +0000</listdate>
+    <saledate>Thu, 03 Jun 2010 22:18:06 +0000</saledate>
+    <price currency='GBP'>28</price>
+    <condition>verygood</condition>
+    <notes>Partially Punched.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Dec 2009 00:49:38 +0000</listdate>
+    <saledate>Mon, 26 Nov 2012 14:08:30 +0000</saledate>
+    <price currency='EUR'>53.99</price>
+    <condition>new</condition>
+    <notes>English game.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Mar 2010 12:01:23 +0000</listdate>
+    <saledate>Wed, 02 Jun 2010 07:25:44 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>likenew</condition>
+    <notes>English game. Hardly played and in top condition.
+Shipping costs:
+Germany 6 Euros
+Europe 13,5 Euros</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Sep 2010 15:54:14 +0000</listdate>
+    <saledate>Thu, 09 Sep 2010 20:26:51 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Whole bunch of Federation Commander stuff including figures (the ships) looking to sell it all in one shot. Message me for a list.
+Sold as a group only for $25.00 plus shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Oct 2010 22:23:18 +0000</listdate>
+    <saledate>Tue, 23 Nov 2010 14:22:49 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>Counters Punched Slip box slight tear</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Dec 2010 22:39:24 +0000</listdate>
+    <saledate>Fri, 17 Dec 2010 05:29:16 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Never been played.  Everything is perfect except for paper cover around box which has a small tear.  Any excess shipping is refunded.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Dec 2010 20:23:05 +0000</listdate>
+    <saledate>Tue, 11 Jan 2011 03:19:59 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Unpunched and unplayed.  The components are pristine.  The box sleeve has some very slight edge wear.
+Will ship by priority mail and you will pay exactly what the post office charges me.  Send me a geekmail with your address for the shipping charge.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Jan 2011 19:12:25 +0000</listdate>
+    <saledate>Mon, 24 Jan 2011 00:07:27 +0000</saledate>
+    <price currency='EUR'>29.9</price>
+    <condition>verygood</condition>
+    <notes>Game has been played once, a few counters have been punched, but 95% still on the sheet, top condition, English edition.
+Shipping will be € 4 to Germany or € 8,60 to the rest of the EU via DHL as a small parcel.
+Payment either via PayPal or (international) bank transfer.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Apr 2011 06:27:23 +0000</listdate>
+    <saledate>Fri, 01 Apr 2011 11:34:07 +0000</saledate>
+    <price currency='USD'>140</price>
+    <condition>verygood</condition>
+    <notes>This is for user chriswtham.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 May 2011 22:01:51 +0000</listdate>
+    <saledate>Wed, 18 May 2011 02:06:14 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>For user hskrfn822 only</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Jun 2011 21:55:51 +0000</listdate>
+    <saledate>Sun, 12 Jun 2011 13:21:17 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>for Redgar in auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Aug 2011 00:37:36 +0000</listdate>
+    <saledate>Mon, 08 Aug 2011 18:48:39 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>79) Federation Commander: Klingon Border
+For ladue only.  Related to _T_E_M_P_T_A_G_#039;THE BIG ONE_T_E_M_P_T_A_G_#039; auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Aug 2011 22:32:36 +0000</listdate>
+    <saledate>Wed, 31 Aug 2011 11:55:37 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>new</condition>
+    <notes>Brand New! Latest Edition Box Set
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard Shipping to USA48: $9.00
+Shipping Carrier: UPS</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Oct 2011 01:56:15 +0000</listdate>
+    <saledate>Sun, 15 Apr 2012 20:03:25 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>new</condition>
+    <notes>Brand New! 2011 Release, 6th Edition
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard Shipping to USA48: $9.00</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Apr 2012 18:00:14 +0000</listdate>
+    <saledate>Thu, 26 Apr 2012 18:06:53 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>good</condition>
+    <notes>Fed Comm lot.  
+Reserved for Farsol
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jun 2012 22:28:35 +0000</listdate>
+    <saledate>Sat, 15 Sep 2012 18:11:45 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>verygood</condition>
+    <notes>Private sale to northquick
+Huge lot of what was originally 31 differently sold items.
+Some items were consolidated, in particular a lot of the counters into counter trays and the ship displays (some counters are in the tray, some still on the original countersheets). Included is a counter tray, and some plastic slider bits to help keep track of info, and a plastic bin to hold the counters and ship displays.
+1. Klingon Border base set (complete, though the original rulebook has wear from reading)
+2. Romulan Border base set (complete, though the rulebook_T_E_M_P_T_A_G_#039;s cover was misprinted a bit, but the inside is fine)
+3. Megahex module H1 - new
+4. Space Battle Maps Captians Module W
+5. Romulan Attack
+6. Klingon Attack
+7. Tholian Attack
+8. Battleships Attack!
+9.-12. Captians Logs 32,33,34,and 35 (first 4 Fed.Commander issues iirc)
+13.-31. Ship display booster packs 0-18. 0 was for some protype rules. All cards for 1-18 are included, though packs 7-9 are missing just the little cover sheet that says booster packs 7-9 (no game info lost, it was just a cover sheet that the ship displays were put in. the inside of the sheet was blank. Booster packs 16-18 are all still in the shrink.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Aug 2012 01:24:32 +0000</listdate>
+    <saledate>Tue, 04 Sep 2012 02:49:44 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>1st Edition.  Outer sleeve has some shelf wear.  Contents are in great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Nov 2012 19:27:19 +0000</listdate>
+    <saledate>Thu, 22 Nov 2012 23:01:34 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>for RichardHMarshall only</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Dec 2012 06:19:44 +0000</listdate>
+    <saledate>Fri, 29 Mar 2013 13:07:04 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>good</condition>
+    <notes>The box has a slight tear, and shelf wear.  The contents has been checked and bagged.  I charge a flat $12 for shipping.  Combined shipping available. Please message me with any questions.  Thank you for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Feb 2013 16:22:14 +0000</listdate>
+    <saledate>Thu, 18 Apr 2013 22:12:55 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Mar 2013 05:31:28 +0000</listdate>
+    <saledate>Tue, 26 Mar 2013 10:58:56 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>Reserved for philosoph.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Apr 2013 03:53:56 +0000</listdate>
+    <saledate>Mon, 15 Apr 2013 05:45:46 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>Auction Item Reserved for Jeremy Fridy</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Jul 2013 14:20:44 +0000</listdate>
+    <saledate>Thu, 11 Jul 2013 20:36:20 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Amarillo Design Bureau (ADB4001)
+The new fast-paced starship combat game for a new generation of gaming! Everything is designed for simplicity, lack of clutter, and fast play. One die roll resolves ten points of damage. Ship diagrams are color coded. Energy allocation is done on the fly. There are only eight fire-decision steps per turn. Boxed product, includes 40 full-color 1_T_E_M_P_T_A_G_quot; playing pieces with full color CGI art, plus 216 full-color 1/2_T_E_M_P_T_A_G_quot; ammunition and tracking markers. Also includes 16 full-color laminated ship diagrams (no photocopies needed). Each is printed on both sides, with the full-size squadron-scale ship on one side and the faster-playing fleet-scale ship on the other side. There are two laminated full-color player reference cards with the charts needed for play, dice, a wipe-off marker, and some paperclips. There is a 52-page illustrated rulebook in larger size type. Includes a six-panel full-color mounted map board with 1.25_T_E_M_P_T_A_G_quot; hexes on one side and 0.625_T_E_M_P_T_A_G_quot; hexes on the other side. (There are starship playing pieces of both scales.) This is the first _T_E_M_P_T_A_G_quot;building block_T_E_M_P_T_A_G_quot; in the new Federation Commander game system. Klingon Attack is an expansion adding more ships, scenarios, and maps. The booster packs provide extra ships (and some new ones). Squadron Boxes 1+2+3 provide one miniature for each type of ship in Klingon Border. Border Box 1 provides 24 miniatures (filling out the complete set of 40 that matches the game and boosters 1+2+3). </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Aug 2013 16:57:49 +0000</listdate>
+    <saledate>Wed, 07 Aug 2013 18:51:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Federation Commander: Klingon Border - Amarillo Design Bureau Rules Revision 4 edition (2006) | English
+For auction winner _T_E_M_P_T_A_G_quot;White Elk_T_E_M_P_T_A_G_quot; ONLY
+Condition: Very good
+Details: Punched and complete. All chits have been counted and are present. Two dry erase markers are included, not sure if they are the originals or not. 25 paper clips are included, if you want to use them to track energy use. Includes Revision 4 of the rules. Box is in good condition, a label has been applied to the end with the game title on it. After being punched not everything fits in the box, so the chits and such are in another bag.
+Extras included:
+*Six of the reusable ship card sleeves as described in this thread. http://www.boardgamegeek.com/thread/459484/reusable-sleeve-f...
+*Turn tracking sheet mounted on a comic book backer board from here. http://www.boardgamegeek.com/filepage/17223/fedcom_turn_trac...
+*Additional ship printouts on standard paper for: 4x Large Freighter and 4x Small Freighter.
+*Additional ship printouts on card stock for:
+-Fleet scale Federation Destroyer
+-Squadron scale Federation Destroyer
+-Fleet Scale Federation Dreadnought
+-Fleet Scale Klingon C7 Heavy Battlecruiser
+-Fleet Scale Federation New Heavy Cruiser
+-Fleet Scale Klingon SD7 Strike Cruiser
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Aug 2013 22:15:47 +0000</listdate>
+    <saledate>Fri, 17 Jan 2014 23:29:16 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>Unplayed, unused, all in pristine condition, except manual (has heavy wear from reading)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Oct 2013 02:11:55 +0000</listdate>
+    <saledate>Tue, 29 Oct 2013 02:27:16 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This item is for Jacovis, won via 3 Star Trek Games mini-Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Dec 2013 02:40:28 +0000</listdate>
+    <saledate>Fri, 15 Aug 2014 16:46:45 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Amarillo Design Bureau (ADB4001)
+The new fast-paced starship combat game for a new generation of gaming! Everything is designed for simplicity, lack of clutter, and fast play. One die roll resolves ten points of damage. Ship diagrams are color coded. Energy allocation is done on the fly. There are only eight fire-decision steps per turn. Boxed product, includes 40 full-color 1_T_E_M_P_T_A_G_quot; playing pieces with full color CGI art, plus 216 full-color 1/2_T_E_M_P_T_A_G_quot; ammunition and tracking markers. Also includes 16 full-color laminated ship diagrams (no photocopies needed). Each is printed on both sides, with the full-size squadron-scale ship on one side and the faster-playing fleet-scale ship on the other side. There are two laminated full-color player reference cards with the charts needed for play, dice, a wipe-off marker, and some paperclips. There is a 52-page illustrated rulebook in larger size type. Includes a six-panel full-color mounted map board with 1.25_T_E_M_P_T_A_G_quot; hexes on one side and 0.625_T_E_M_P_T_A_G_quot; hexes on the other side. (There are starship playing pieces of both scales.) This is the first _T_E_M_P_T_A_G_quot;building block_T_E_M_P_T_A_G_quot; in the new Federation Commander game system. Klingon Attack is an expansion adding more ships, scenarios, and maps. The booster packs provide extra ships (and some new ones). Squadron Boxes 1+2+3 provide one miniature for each type of ship in Klingon Border. Border Box 1 provides 24 miniatures (filling out the complete set of 40 that matches the game and boosters 1+2+3). </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Mar 2014 11:12:55 +0000</listdate>
+    <saledate>Wed, 02 Jul 2014 16:21:08 +0000</saledate>
+    <price currency='EUR'>53.99</price>
+    <condition>new</condition>
+    <notes>Federation Commander: Klingon Border
+Amarillo Design Bureau Rules Revision 6 Edition
+Publisher: Amarillo Design Bureau, Inc.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Feb 2015 18:01:46 +0000</listdate>
+    <saledate>Sat, 21 Feb 2015 18:28:01 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187570/item/3748794#3748794]Item for Geeklist _T_E_M_P_T_A_G_quot;Kicking It ol_T_E_M_P_T_A_G_#039; School Auction of World Wide Wonders_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Shipping of $20, total us$65 with paypal via jay.bee@hotmail.ca and thank you for your bid! :)
+best regards,  
+Jon
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Mar 2015 02:44:26 +0000</listdate>
+    <saledate>Sat, 28 Mar 2015 19:15:12 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>All components in Very Good condition, don_T_E_M_P_T_A_G_#039;t think this coy has ever been played.  The majority of the counters are nicely clipped.  Box sleeve has some whitening and minor tears.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Aug 2014 23:54:09 +0000</listdate>
+    <saledate>Mon, 30 Mar 2015 06:20:26 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>A few years back, I thought I would get back in to the wargames of my youth, including SFB...
+Anyway, this is Rev 4 of Klingon Border.  Game is opened.  Game pieces have been punched (sorted, and stashed in baggies).  Game has otherwise never been played and has been pretty much just stashed in the closet.  So much for going back to the wargames of your youth.
+So you_T_E_M_P_T_A_G_#039;re looking at a complete game in great shape where the pieces have been punched out for you.  Even includes the two remarkably-small d6 ... hey ADB, think you could have found SMALLER dice?
+Shipping is your choice, but the listed price does NOT include shipping, which will be worked out after the sale.  This is fairly hefty game, just a warning.  
+(Most games can fit in a USPS Priority Shipping medium box, which costs $12.65 to ship.)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Apr 2012 22:36:51 +0000</listdate>
+    <saledate>Mon, 04 May 2015 16:36:01 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>new</condition>
+    <notes>Brand New! 2011 Release, 6th Edition
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $9.95</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Feb 2015 03:50:19 +0000</listdate>
+    <saledate>Fri, 21 Aug 2015 20:41:59 +0000</saledate>
+    <price currency='AUD'>100</price>
+    <condition>verygood</condition>
+    <notes>Includes:
+   - Federation Commander: Klingon Border
+   - Federation Commander: Klingon Attack
+   - Boosters 1 - 6.
+Boosters 1 - 3 have the ship cards for Klingon Border, while boosters 4 - 6 have the ship cards for Klingon Attack.
+Game is not in the original boxes, but is in hard plastic cases.
+Will ship to Australia only. Game will be packed well _T_E_M_P_T_A_G_amp; shipping will be by parcel post (happy to provide shipping estimate based on destination). Pickup available in Sydney West area (Blacktown).Happy to answer any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Nov 2015 22:42:34 +0000</listdate>
+    <saledate>Tue, 10 Nov 2015 15:20:43 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197039/item/4172237#4172237]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Thank you.  I_T_E_M_P_T_A_G_#039;ll be there Tuesday onwards</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Dec 2015 18:15:28 +0000</listdate>
+    <saledate>Wed, 02 Dec 2015 09:14:15 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>One Play.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Nov 2015 23:10:45 +0000</listdate>
+    <saledate>Mon, 14 Dec 2015 18:14:07 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>punched, never played. original owner, non smoker. 
+I ship via USPS Priority mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Apr 2016 12:54:47 +0000</listdate>
+    <saledate>Fri, 08 Apr 2016 21:20:52 +0000</saledate>
+    <price currency='GBP'>43</price>
+    <condition>verygood</condition>
+    <notes>Complete* and in very good condition - only played with a couple of times.
+I also have the following for sale and would consider a combined price (I would actually prefer to sell as a job lot)  -
+- Klingon Attack £23.00 (also listed separately)
+- Romulan Space £30.00
+- Border Box #1 (contains 24 metal mini_T_E_M_P_T_A_G_#039;s) = £72.00
+If you are interested in any of the above drop me a gm and I will adjust the price accordingly.
+* Not sure if I have all of the original boxes - I consolidated everything into a _T_E_M_P_T_A_G_#039;Really Useful_T_E_M_P_T_A_G_#039; box. I will check for the boxes, if it_T_E_M_P_T_A_G_#039;s important.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Apr 2016 10:16:26 +0000</listdate>
+    <saledate>Wed, 13 Apr 2016 18:23:14 +0000</saledate>
+    <price currency='GBP'>67</price>
+    <condition>likenew</condition>
+    <notes>For user StarTrekNut - border box minis.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 May 2016 00:10:12 +0000</listdate>
+    <saledate>Tue, 24 May 2016 01:09:16 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208104/item/4594982#4594982]Item for Geeklist _T_E_M_P_T_A_G_quot;Geek ADD_T_E_M_P_T_A_G_#039;s Garage cleanup game sale_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Federation Commander
+Conan CCG
+Star Trek CCG</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Sep 2015 12:08:10 +0000</listdate>
+    <saledate>Tue, 14 Jun 2016 20:24:31 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>Never played.
+Postage will be 6€ within Germany, 16€ within the EU.
+Contact me for other shipping quotes.
+Paypal (+3€ Paypal fee) or bank transfer possible (IBAN / BIC).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Jun 2016 11:14:49 +0000</listdate>
+    <saledate>Sat, 06 Aug 2016 14:54:37 +0000</saledate>
+    <price currency='EUR'>59.99</price>
+    <condition>new</condition>
+    <notes>Federation Commander: Klingon Border_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Amarillo Design Bureau Rules Revision 6 Edition_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Publisher: Amarillo Design Bureau, Inc.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Mar 2016 14:39:15 +0000</listdate>
+    <saledate>Sat, 06 Aug 2016 17:20:06 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Box sleeve has wear and tear, but the components are very good.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 May 2016 14:57:15 +0000</listdate>
+    <saledate>Fri, 12 Aug 2016 17:03:50 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>good</condition>
+    <notes>Klingon Border _T_E_M_P_T_A_G_amp; Romulan border boxed games.
+Boxes a bit worn, contents all fine. Can send photos if required.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Sep 2016 21:32:25 +0000</listdate>
+    <saledate>Sat, 19 Nov 2016 15:13:15 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+Shipping cost to the UK will be £3.95.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Dec 2016 19:30:11 +0000</listdate>
+    <saledate>Sat, 31 Dec 2016 19:17:57 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>+ shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Dec 2016 17:43:27 +0000</listdate>
+    <saledate>Tue, 24 Jan 2017 16:37:10 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>verygood</condition>
+    <notes>Punched but 100% complete!
+Happy Gaming!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Feb 2017 04:41:56 +0000</listdate>
+    <saledate>Mon, 27 Feb 2017 05:04:33 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222232/item/5231446#5231446]Item for Geeklist _T_E_M_P_T_A_G_quot;Ones Upon an Auction #004 | Ch..ch..ch..ch..changes..._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Oct 2016 20:56:51 +0000</listdate>
+    <saledate>Tue, 07 Mar 2017 15:25:04 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>likenew</condition>
+    <notes>MEGA PACK, includes the following:
+Federation Commander: Klingon Border + Federation Commander: Romulan Border + Federation Commander: Academy + Distant Kingdoms + Reference Rulebook
+Unplayed.
+Shipping inside the EU: 15€
+Shipping inside Austria: 5€
+Payment via PayPal: Buyer pays fees.
+Wire transfer (IBAN) prefered.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Apr 2017 00:57:10 +0000</listdate>
+    <saledate>Sun, 21 May 2017 15:57:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Like new, just missing shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Aug 2016 10:25:56 +0000</listdate>
+    <saledate>Mon, 28 Aug 2017 06:20:06 +0000</saledate>
+    <price currency='EUR'>59.99</price>
+    <condition>new</condition>
+    <notes>Federation Commander: Klingon Border_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Amarillo Design Bureau Rules Revision 6 Edition_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Publisher: Amarillo Design Bureau, Inc.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Jun 2017 21:00:05 +0000</listdate>
+    <saledate>Fri, 01 Sep 2017 06:33:28 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>likenew</condition>
+    <notes>Unpunched.
+I accept only Payment through Paypal without any charge or payment in hand if you live in Madrid.
+Shipping and handling:
+1-España 9 euros paquete azul.Posible recogida en mano si vives en Madrid.
+2-Europe:23 Eur (Registered mail).
+3-USA,Japan,Australia:28 $ USD (registered mail)
+The games shall be sent next saturday after the payment has been received.
+I offer combined shipping if you win more than one item.
+I´m selling my personal collection.Most of the games are in new or like new condition (unpunched and never played with the boxes and the components in very good to perfect shape)
+Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Nov 2017 23:40:55 +0000</listdate>
+    <saledate>Thu, 09 Nov 2017 04:21:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>If purchased with Romulan Border, the price is $50 for both.  For an addition $15, will include 5 booster packs.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Nov 2017 19:45:44 +0000</listdate>
+    <saledate>Mon, 11 Dec 2017 16:27:37 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>acceptable</condition>
+    <notes>Box is worn, contents in good shape.  Rule book is printed out.  Shipping will be $14 to continental US address only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Aug 2018 17:29:09 +0000</listdate>
+    <saledate>Sat, 06 Oct 2018 00:03:26 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Rules Revision-3 version (2006), unpunched and unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Oct 2018 23:12:26 +0000</listdate>
+    <saledate>Wed, 17 Oct 2018 00:09:35 +0000</saledate>
+    <price currency='USD'>28.75</price>
+    <condition>likenew</condition>
+    <notes>like new- never played, never punched</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Jun 2018 18:19:06 +0000</listdate>
+    <saledate>Thu, 25 Oct 2018 14:15:17 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Slip cover has a tear - box is fine.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

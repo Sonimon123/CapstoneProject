@@ -1,0 +1,652 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="1491">
+   <yearpublished>1991</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>9</maxplayers>
+   <playingtime>150</playingtime>
+   <minplaytime>150</minplaytime>
+   <maxplaytime>150</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Outpost</name>
+         
+   <description>Players compete to build the best outpost.  They must build and staff factories to produce resources which are then used to build more factories and purchase any of 13 outpost improvements which give different advantages (ranging from production technologies, resource storage, and increased population maximums to resource producing stations).  Improvements are purchased through auctions, and each player may win several per round.  There are 3 phases in the game, and with each phase after the first a new set of improvements are available to purchase.  Each staffed factory and improvement is worth a certain number of victory points (ranging from 1 pt for an ore factory to 20 points for a moon base) and the first player to reach 75 points wins._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This game's mechanisms were later reused in The Scepter of Zavandor and, to a lesser extent, in Phoenicia._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/XwezXWwNvzEf_lxNER83j7xf8l0=/fit-in/200x150/pic1083946.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/p_JcmNFd0MKDpjSVqcVjWQNxAyg=/0x0/pic1083946.jpg</image>
+      
+            <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+               <boardgamepodcastepisode objectid="101144">BGTG 136 - 100 Great Games, part 3 (with Stephen Glenn and Mark Jackson)</boardgamepodcastepisode>
+               <boardgameartist objectid="11925">Karim Chakroun</boardgameartist>
+               <boardgameartist objectid="3621">Michael D. Moore</boardgameartist>
+               <boardgamecategory objectid="1021">Economic</boardgamecategory>
+               <boardgameversion objectid="119931">English  20th Anniversary edition</boardgameversion>
+               <boardgameversion objectid="30715">English first edition (3-8p)</boardgameversion>
+                      <boardgamepodcastepisode objectid="227767">Ep. 10: PacifiCon Game Expo</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="227765">Ep. 12: The Strongman of Stronghold Games</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="227727">Episode #48 Abstract Games</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="227725">Episode #50: Convention Games</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="211877">Episode 14: The 10th Anniversary Definitive Limited Collector_T_E_M_P_T_A_G_#039;s Edition Fan Appreciation Director_T_E_M_P_T_A_G_#039;s Cut Between Turns Exclusive Special Presentation Redux</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="227751">Episode 25: Engine Building Games</boardgamepodcastepisode>
+                                    <boardgamedesigner objectid="201">James Hlavaty</boardgamedesigner>
+               <boardgameartist objectid="51904">Damian Isherwood</boardgameartist>
+                             <boardgamedesigner objectid="51435">Timothy Moore</boardgamedesigner>
+                                           <boardgameimplementation objectid="13884">The Scepter of Zavandor</boardgameimplementation>
+               <boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamepublisher objectid="11652">Stronghold Games</boardgamepublisher>
+               <boardgamepodcastepisode objectid="65046">The Spiel at Essen 2011 - Stronghold Games</boardgamepodcastepisode>
+                      <boardgamepublisher objectid="90">TimJim Games</boardgamepublisher>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="22">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="11" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="9" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="13" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="13" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="15" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="11" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="7">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="8">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="10" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+   
+  <results numplayers="9">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="11" />
+    </results>     
+   
+  <results numplayers="9+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="1" />
+     <result value="16" numvotes="1" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1111</usersrated>
+     <average>6.8349</average>
+     <bayesaverage>6.14433</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1696" bayesaverage="6.14433" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="817" bayesaverage="6.26446" />
+            
+           </ranks>
+     
+     <stddev>1.68977</stddev>
+     <median>0</median>
+     <owned>1547</owned>
+     <trading>79</trading>
+     <wanting>90</wanting>
+     <wishing>265</wishing>
+     <numcomments>406</numcomments>
+     <numweights>116</numweights>
+     <averageweight>3.1207</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 07 Aug 2003 21:11:15 +0000</listdate>
+    <saledate>Fri, 08 Aug 2003 11:04:43 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>new</condition>
+    <notes>This much-sought 1992 TimJim classic is in pristine condition, still in shrinkwrap! This would by a premier showpiece in any game collection.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Jun 2006 05:32:14 +0000</listdate>
+    <saledate>Tue, 25 Jul 2006 16:04:31 +0000</saledate>
+    <price currency='USD'>150</price>
+    <condition>verygood</condition>
+    <notes>The box has taken some hits, but the contents are superb.  The game is punched, but it all appears to be there.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jun 2008 12:32:11 +0000</listdate>
+    <saledate>Sun, 01 Jun 2008 14:26:00 +0000</saledate>
+    <price currency='GBP'>99</price>
+    <condition>likenew</condition>
+    <notes>Everything is in excellent condition - hardly played.  Even the box is only showing the slightest signs of wear.
+Weight inc packing 1355g
+UK Parcel Post  £5.20  
+UK First class  £6.00  
+Surface Worldwide£8.92  
+Europe Airmail  £8.91  
+USA Airmail  £15.67  
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Jan 2009 21:07:15 +0000</listdate>
+    <saledate>Thu, 18 Jun 2009 02:43:42 +0000</saledate>
+    <price currency='USD'>170</price>
+    <condition>verygood</condition>
+    <notes>Played once, and I believe it to be complete. And I say this EVEN THOUGH the counter mix does not match that listed in the ruleset. I have checked with a number of other owners of the game, and their sets all come out to about the same counter mix. 
+Specifically:
+140 Population Counters present (rules claim 149)
+153 Factory Counters Present (rules claim 253)
+  - broken out as :
+    - 20 Orange
+    - 34 Blue
+    - 45 Gray
+    - 29 Yellow
+    - 25 Green
+The above numbers basically match those given in this list:
+http://www.boardgamegeek.com/file/info/19983
+and this reply: http://www.boardgamegeek.com/article/3024668#3024668
+Further, all Production, Colony Upgrade, and Purchase Order cards are present. 
+Given the value and rarity of the game, Insurance required, Tracking optional but strongly advised. All Shipping to be paid by the buyer.
+Of course, I will entertain reasonable counter-offers.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Apr 2009 04:38:31 +0000</listdate>
+    <saledate>Tue, 14 Apr 2009 10:53:45 +0000</saledate>
+    <price currency='USD'>150</price>
+    <condition>likenew</condition>
+    <notes>Game is unpunched and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Nov 2009 21:17:09 +0000</listdate>
+    <saledate>Mon, 09 Nov 2009 08:43:21 +0000</saledate>
+    <price currency='GBP'>139</price>
+    <condition>verygood</condition>
+    <notes>Game is in excellent condition - there is just the slightest wear to the outer box.  Contents look unplayed.  All the components are present and correct.
+ 
+Weight inc packing 1210g
+UK Parcel Post  £5.41 
+UK First class  £5.45 
+Surface Worldwide  £8.95 
+Europe Airmail  £8.39 
+USA Airmail  £15.68 
+Shipping costs shown are for an individual game. I will combine shipping as best I can. Large packages (5kg, say 6 games) are very cost-effective to ship internationally via DHL. Ask if you want a detailed price. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Dec 2009 19:52:57 +0000</listdate>
+    <saledate>Sat, 30 Jan 2010 03:05:20 +0000</saledate>
+    <price currency='USD'>195</price>
+    <condition>new</condition>
+    <notes>Brand-spanking NEW in shrinkwrap - from Jim Hlavaty_T_E_M_P_T_A_G_#039;s extra copies. (Jim of TimJim Games). 
+If you want a letter stating it_T_E_M_P_T_A_G_#039;s from his personal collection of games, I will include that. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Apr 2011 18:52:33 +0000</listdate>
+    <saledate>Tue, 12 Apr 2011 18:32:21 +0000</saledate>
+    <price currency='EUR'>119.99</price>
+    <condition>new</condition>
+    <notes>English version from TimJim Games. _T_E_M_P_T_A_G_quot;Outpost_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Apr 2011 23:57:31 +0000</listdate>
+    <saledate>Thu, 22 Dec 2011 22:42:36 +0000</saledate>
+    <price currency='USD'>99</price>
+    <condition>verygood</condition>
+    <notes>All pieces are unpunched. Game box has wear on the outside and some corners have damage, but the box is in tact. Buyer to pay actual shipping from ZIP 53221.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Jun 2011 19:58:24 +0000</listdate>
+    <saledate>Sat, 19 Nov 2011 05:55:34 +0000</saledate>
+    <price currency='GBP'>70</price>
+    <condition>likenew</condition>
+    <notes>Original version. Unpunched. Great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Dec 2011 00:09:02 +0000</listdate>
+    <saledate>Fri, 27 Apr 2012 13:16:43 +0000</saledate>
+    <price currency='USD'>36.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+OUTPOST: $36.95 ...in stock now...no waiting!!!
+Stronghold Games [SG 2003]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jan 2012 16:38:02 +0000</listdate>
+    <saledate>Thu, 19 Jan 2012 06:49:15 +0000</saledate>
+    <price currency='USD'>28.95</price>
+    <condition>new</condition>
+    <notes>new, in shrink, box slightly damaged in shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jan 2012 22:25:04 +0000</listdate>
+    <saledate>Thu, 13 Dec 2012 23:07:50 +0000</saledate>
+    <price currency='USD'>38.97</price>
+    <condition>new</condition>
+    <notes>Brand New!
+Stonghold Games Edition - 20th Anniversary Deluxe
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $9.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jan 2012 00:49:10 +0000</listdate>
+    <saledate>Sun, 22 Jan 2012 19:41:18 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Unplayed, yet punched. Box is in mint with no wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2012 16:22:02 +0000</listdate>
+    <saledate>Sat, 08 Sep 2012 10:49:12 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Stronghold Games (SG2 003)
+As a Commander on a remote Outpost, your mission is to build and expand your colony to its fullest.  Purchase Factories and run them with either Humans colonists or Robots. Produce resources from your Factories to generate credits to continue to expand your Outpost. Bid on the all-important Colony upgrades on your way to becoming The Outpost Director!
+ </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Apr 2012 12:58:03 +0000</listdate>
+    <saledate>Mon, 23 Apr 2012 14:23:32 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Reserved for dersheid.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Apr 2012 05:57:56 +0000</listdate>
+    <saledate>Thu, 26 Apr 2012 12:03:18 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Reserved for mcpranno</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jun 2012 01:39:27 +0000</listdate>
+    <saledate>Fri, 27 Jul 2012 20:35:38 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>unopened/sealed in shrink
+English 20th Anniversary edition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jun 2012 10:57:08 +0000</listdate>
+    <saledate>Tue, 02 Apr 2013 20:29:27 +0000</saledate>
+    <price currency='EUR'>26.5</price>
+    <condition>new</condition>
+    <notes>2-9 players (Stronghold Games)
+20th Anniversary Deluxe Edition
+Languages: English</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jun 2012 07:45:10 +0000</listdate>
+    <saledate>Wed, 13 Feb 2013 23:37:30 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Game components (as far as I can tell) are complete and in mint condition. The cards are in two sealed packs.
+First edition - Timjim
+Shipping to UK destination £6</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jul 2012 14:23:13 +0000</listdate>
+    <saledate>Sun, 22 Jul 2012 19:53:57 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This item is for docandy31 only, from a geeklist auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Nov 2012 04:10:14 +0000</listdate>
+    <saledate>Thu, 21 Feb 2013 03:15:49 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>Played once.  Comes from a pet and smoke free home. $8.00 flat rate shipping. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Dec 2012 03:20:24 +0000</listdate>
+    <saledate>Tue, 11 Dec 2012 04:03:51 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played a few time. In Very good condition
+Stronghold Games English 20th Anniversary edition
+reserved for dcall
++ $10.50 for shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Dec 2012 22:50:12 +0000</listdate>
+    <saledate>Mon, 09 Sep 2013 15:00:38 +0000</saledate>
+    <price currency='USD'>33.99</price>
+    <condition>new</condition>
+    <notes>Brand New! Stonghold Games Edition - 20th Anniversary Deluxe
+FYI: Top of box has been creased and split just above and to the left of the manufacturer logo. Suspect no component damage. Game still sealed from factory.
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $10.95</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Jan 2013 05:21:07 +0000</listdate>
+    <saledate>Sun, 10 Feb 2013 17:07:00 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>RESERVED FOR AUCTION WINNER RADYNSKI
+Stronghold games. New in shrink.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Mar 2013 18:58:53 +0000</listdate>
+    <saledate>Wed, 19 Jun 2013 02:15:13 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Stronghold edition.  Excellent condition. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Apr 2013 15:19:57 +0000</listdate>
+    <saledate>Fri, 05 Apr 2013 14:33:22 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>Sold from my geeklist auction to nwoninja</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jul 2013 01:03:42 +0000</listdate>
+    <saledate>Mon, 01 Jul 2013 22:52:38 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>likenew</condition>
+    <notes>For auction winner only. 
+The Ares Project, Outpost: 48
+S_T_E_M_P_T_A_G_amp;H: $18</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Sep 2013 05:10:26 +0000</listdate>
+    <saledate>Wed, 09 Jul 2014 12:44:33 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Reserved for bryan and sarah
+Outpost plus Famiglia</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Dec 2013 18:54:03 +0000</listdate>
+    <saledate>Wed, 11 Dec 2013 03:56:35 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>new</condition>
+    <notes>Reserved for user Dogbreath.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Apr 2014 03:22:06 +0000</listdate>
+    <saledate>Wed, 16 Apr 2014 14:27:35 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>For Bryan Thunkd only!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Aug 2014 22:21:20 +0000</listdate>
+    <saledate>Mon, 04 Aug 2014 22:32:24 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>outpost and speicherstadt
+auction item only for user eastwoodk</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Mar 2014 08:22:35 +0000</listdate>
+    <saledate>Fri, 21 Nov 2014 17:46:11 +0000</saledate>
+    <price currency='GBP'>16</price>
+    <condition>good</condition>
+    <notes>English 20th Anniversary edition in very good condition.
+Lightly played. Box has a bit of shelf wear.
+Unfortunately I have misplaced the dice, it comes with a D4, a D10 and a D12. They are fairly easy to substitute as they are only used to randomise which auction items will be added each round so you don_T_E_M_P_T_A_G_#039;t need the result of a particular type of dice during the game itself.
+Other than the dice everything else is included, along with the kicker expansion which the new edition comes with.
+UK postage £5.00
+Courier for multiple games between £5.00 and £7.00
+Please contact me for international postage options
+Collection possible from West London
+Payment via bank transfer or paypal (buyer to add 5% towards paypal fees)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Oct 2014 18:20:21 +0000</listdate>
+    <saledate>Sat, 06 Dec 2014 05:28:11 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>Opened, complete, played six times.  All resource cards (except the three very rare ones that aren_T_E_M_P_T_A_G_#039;t used much) are sleeved.  Played twice without sleeves on the resource cards, then played four times with sleeves.  Techs and kickers in like new condition (or very close).  If there was an insert in the box, it is long gone.  Tokens are bagged neatly and nicely.
+Shipping: This will ship via USPS, Regional Rate B or Flat Rate or even regular. My guess is $7-15 to ship, fully insured, depending on how far you are from zip code 46516.
+Payment: I take Paypal, USPS Money Orders, and Walmart Money Orders. Bitcoin works too.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Aug 2013 18:18:13 +0000</listdate>
+    <saledate>Thu, 15 Jan 2015 14:52:56 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Jan 2015 21:20:53 +0000</listdate>
+    <saledate>Sun, 15 Feb 2015 21:33:10 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Like New condition.  Ships USPS priority.  Check my rating and buy with confidence!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Apr 2015 07:54:32 +0000</listdate>
+    <saledate>Thu, 09 Apr 2015 00:10:44 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This is for JJL_washDC only for his auction wins.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Apr 2015 12:02:52 +0000</listdate>
+    <saledate>Sun, 12 Apr 2015 12:10:57 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Reserved for user NotJeff from the Long View Spring Clean Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Dec 2014 14:36:27 +0000</listdate>
+    <saledate>Mon, 20 Apr 2015 17:13:00 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>verygood</condition>
+    <notes>Unpunched in worn box with remnants of tape used to seal.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Mar 2015 12:02:18 +0000</listdate>
+    <saledate>Sun, 14 Jun 2015 19:43:03 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>Played twice.
+UK postage £3</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Jun 2015 13:50:50 +0000</listdate>
+    <saledate>Tue, 30 Jun 2015 18:15:30 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played once, all components in excellent condition.  Box has creasing on bottom half, one side.
+Game weighs 2.75 pounds and dimensions are 12.5 x 12 x 2.5 inches and ships from 53597 zip code.  You can estimate shipping costs via USPS - those dimensions are for the unpackaged game, so add some weight and dimensions for final package.
+Payment via PayPal or Amazon gift card, depending on feedback and account age of buyer.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jun 2015 17:10:13 +0000</listdate>
+    <saledate>Tue, 04 Aug 2015 13:14:04 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Still in shrinkwrap</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Oct 2012 08:38:54 +0000</listdate>
+    <saledate>Sun, 25 Oct 2015 02:36:08 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>new</condition>
+    <notes>New games from Essen! Low shipment! 
+(as long as supply lasts)
+Prices are including 21% VAT (for shipments outside the EU VAT is not applicable).
+Shipping and payment upon agreement. If you email us, we can give you an estimate of the shipping costs, which are pretty good thanks to our central location within Europe (games below 2kg usually between 6-8E). We prefer payment through IBAN, but Paypal with 4% surcharge is also possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Aug 2015 10:30:37 +0000</listdate>
+    <saledate>Sun, 25 Oct 2015 13:08:40 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Oct 2014 09:08:18 +0000</listdate>
+    <saledate>Wed, 30 Mar 2016 21:52:47 +0000</saledate>
+    <price currency='EUR'>34</price>
+    <condition>likenew</condition>
+    <notes>Has never been used, just unpacked and the tokens unpunched.
+Complete.
+For international shiping rates see homepage of DHL.
+Payment via PayPal or Bank Transfer.
+Ungespielt, wurde nur ausgepackt und die Tokens aus den Stanzbögen gelöst.
+Komplett.
+Versand innerhalb Deutschlands: 6,- Euro
+Bezahlung via Paypal oder Überweisung.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 May 2016 02:01:48 +0000</listdate>
+    <saledate>Tue, 17 May 2016 04:49:43 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208682/item/4623721#4623721]Item for Geeklist _T_E_M_P_T_A_G_quot;Collection Way Too Large Auction (US Only + Stratigicon Pickup) Ends 5/16_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Mar 2017 13:38:18 +0000</listdate>
+    <saledate>Tue, 28 Mar 2017 14:10:40 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223620/item/5301104#5301104]Item for Geeklist _T_E_M_P_T_A_G_quot;[CAN/USA] Last for the Quarter Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For user PahToots only.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 May 2017 02:29:29 +0000</listdate>
+    <saledate>Mon, 01 May 2017 04:44:36 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>reserved for auction winner Jasnis</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Sep 2017 04:11:15 +0000</listdate>
+    <saledate>Fri, 01 Sep 2017 05:25:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229113/item/5593874#5593874]Item for Geeklist _T_E_M_P_T_A_G_quot;The Biggest (No -Ship) Los Angeles Auction Buy-Sell-Trade Sept 1-4 Gateway Strategicon @LA Airport Hilton Over 500+ Games_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Oct 2017 07:02:15 +0000</listdate>
+    <saledate>Sun, 12 Nov 2017 16:52:44 +0000</saledate>
+    <price currency='GBP'>19.99</price>
+    <condition>verygood</condition>
+    <notes>Please request postage fee prior to purchase ...
+Payment by Paypal only ...
+Thank you ...</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jun 2016 17:27:44 +0000</listdate>
+    <saledate>Wed, 29 Nov 2017 06:48:12 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>opened but never played. All components complete and in great condition. Image available upon request.
+Flat shipping fee $13 for Continental USA. Free shipping with purchase of $150+. 
+Combined shipping available. Also available for pick up in NYC.
+I accept Paypal, Venmo, Google wallet and Chase Quickpay.
+Price is negotiable if you buy multiple games.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jul 2018 01:14:14 +0000</listdate>
+    <saledate>Wed, 04 Jul 2018 20:32:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Paypal or Venmo accepted.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Aug 2018 13:32:54 +0000</listdate>
+    <saledate>Mon, 20 Aug 2018 17:05:31 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>This item is for pick up at Essen Games fair for Morten K (Tigrillo) only as arranged via the Essen thread.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Sep 2018 21:29:11 +0000</listdate>
+    <saledate>Mon, 21 Jan 2019 01:54:06 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays actual shipping via USPS, UPS, or FedEx. Shipping from Chicago, IL, USA. Local pickup is available.
+Shipping to other countries is expensive. It could be as much as $30-$60+ depending on where it_T_E_M_P_T_A_G_#039;s going and the weight of package. Please feel free to message me about the shipping cost before buying. 
+PayPal, Zelle, or Venmo, or message me if you prefer another online method and I_T_E_M_P_T_A_G_#039;ll look into it.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Dec 2018 13:13:07 +0000</listdate>
+    <saledate>Sun, 27 Jan 2019 23:37:35 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played.
+Check out my game collection at https://boardgamegeek.com/collection/user/Racinrod?own=1_T_E_M_P_T_A_G_amp;subtype=boardgame_T_E_M_P_T_A_G_amp;gallery=large_T_E_M_P_T_A_G_amp;ff=1
+I_T_E_M_P_T_A_G_#039;m willing to sell MOST games in my collection at whatever the average sale price is as sold through BGG. If there is a game you might be interested in purchasing, message me here through BGG and I_T_E_M_P_T_A_G_#039;ll get back to you on price.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

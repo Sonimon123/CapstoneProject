@@ -1,0 +1,878 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="119781">
+   <yearpublished>2012</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>13</age>
+       <name primary="true" sortindex="1">Legacy: Gears of Time</name>
+         
+   <description>Legacy: Gears of Time is a strategic card game, mechanically rooted in its time travel theme. Players each play cards from their own hand, draw from a central draw pile, move and play technologies on a single timeline, while placing their influence cubes on existing technologies._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Legacy is played on a timeline that grows at the end of each of 4 rounds. Players take turns during a round consisting of 3 actions each. During each turn, you may travel back in time, play a technology card from your hand, influence an existing technology, or draw two cards (keeping only one)._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;As you travel back in time, Technologies are played from your hand by paying their discard cost. Any technologies you play generate influence for you automatically._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Having more influence than your opponents is the key to claiming rewards for a technology! At the end of each round, rewards are given for each technology and its dependencies. One Influence cube from each technology will come off at the end of each round, forming your influence pool to be used in future rounds to influence existing technologies. Keep in mind, a technology is only considered successful if all of its dependencies exist previously on the timeline._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Since there are several copies of each technology, you may be able to preempt and eliminate an existing copy by playing yours earlier in the timeline!  Be sure there is room for your new technology, though; each time-frame has a capacity equal to it's distance from the present._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;There are also a few rare but powerful Fate cards, each allowing you to break the rules in interesting ways. Fate cards have no discard cost and don't require an action to be played._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;By strategically influencing existing technologies, adapting to your opponents actions, and carefully choosing when to go further back in time, you will find yourself victorious over your rivals! History remains intact until the Ancient Machine demands you return to the past to rebuild history, and your Legacy, once more._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Summary:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     4 Rounds_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     4 Turns per Round_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     3 Actions per Turn (any mix of the following):_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;         Travel back in Time_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;         Play a Technology card_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;         Influence an existing Technology_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;         Draw two cards (keep one)_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/aeiSLrbUBcKAOB8s6BwGvl5LSxc=/fit-in/200x150/pic1315362.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/D0MguzaDXOv5saauy4BJsFdQY_A=/0x0/pic1315362.png</image>
+      
+            <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+                      <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+               <boardgameartist objectid="58094">Shamas Demoret</boardgameartist>
+                      <boardgameversion objectid="152201">English first edition</boardgameversion>
+                      <boardgameversion objectid="208869">English second edition</boardgameversion>
+               <boardgamepodcastepisode objectid="162290">Episode 2 - Star Wars Special And Imperial Assault Review</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="94961">Episode 51 - Future Time</boardgamepodcastepisode>
+               <boardgamecategory objectid="1020">Exploration</boardgamecategory>
+               <boardgamepublisher objectid="21756">Floodgate Games</boardgamepublisher>
+                             <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+               <boardgamedesigner objectid="58140">Ben Harkins</boardgamedesigner>
+               <boardgameaccessory objectid="146647">Legacy Action Tracking Promo</boardgameaccessory>
+               <boardgameexpansion objectid="134033">Legacy: Forbidden Machines</boardgameexpansion>
+                      <boardgameexpansion objectid="138186">Legacy: Forbidden Machines – Deep Vault</boardgameexpansion>
+                             <boardgameexpansion objectid="129463">Legacy: Gears of Time – GenCon Indy Promo Card</boardgameexpansion>
+               <boardgameexpansion objectid="121085">Legacy: Gears of Time – Kickstarter Backer Promo Card</boardgameexpansion>
+               <boardgameexpansion objectid="121086">Legacy: Gears of Time – Mini-Expansion</boardgameexpansion>
+               <boardgameartist objectid="58178">Steve Maggart</boardgameartist>
+               <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+                      <boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+                      <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamepodcastepisode objectid="90928">The One About a Little _T_E_M_P_T_A_G_quot;Guy Time_T_E_M_P_T_A_G_quot;</boardgamepodcastepisode>
+               <boardgamefamily objectid="6258">Time Travel</boardgamefamily>
+               <boardgameartist objectid="39902">Peter Wocken</boardgameartist>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="26">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="15" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="15" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="15" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="10" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="15" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="8">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="6" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="3" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>895</usersrated>
+     <average>7.07748</average>
+     <bayesaverage>6.16283</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1649" bayesaverage="6.16283" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="780" bayesaverage="6.30366" />
+            
+           </ranks>
+     
+     <stddev>1.24847</stddev>
+     <median>0</median>
+     <owned>1499</owned>
+     <trading>95</trading>
+     <wanting>92</wanting>
+     <wishing>403</wishing>
+     <numcomments>310</numcomments>
+     <numweights>58</numweights>
+     <averageweight>2.8448</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sat, 01 Sep 2012 05:37:33 +0000</listdate>
+    <saledate>Sun, 02 Sep 2012 05:45:59 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Opened, played once, in excellent condition.  Includes the kickstarter bonus cards and mini expansions. Gotta clear some games out to make room for new ones, so my loss is your gain. Shipping is $7.00. If you purchase more than one game I_T_E_M_P_T_A_G_#039;ll try to consolidate packages to save shipping . Paypal only please. And sorry, I don_T_E_M_P_T_A_G_#039;t sell to buyers outside of the US.
+Thanks for looking.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Sep 2012 23:51:24 +0000</listdate>
+    <saledate>Tue, 06 Nov 2012 16:52:25 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>new</condition>
+    <notes>Brand new, still sealed Kickstarer version. Comes with mini-expansion deck, indie Gen Con and Kickstarter promo cards. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Nov 2012 15:25:42 +0000</listdate>
+    <saledate>Tue, 27 Nov 2012 12:19:24 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>For sale to user Harleymo only. Ships via USPS Flat Rate Priority w/ Delivery Confirmation.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Dec 2012 01:49:54 +0000</listdate>
+    <saledate>Sat, 29 Dec 2012 13:25:19 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>For user Bogie1494
+Send Paypal payment to travmacdaddy@hotmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Mar 2013 03:26:17 +0000</listdate>
+    <saledate>Fri, 15 Mar 2013 20:08:45 +0000</saledate>
+    <price currency='USD'>33.99</price>
+    <condition>new</condition>
+    <notes>Floodgate Games (FGGLGT01)
+In the world of Legacy: Gears of Time, the course of history is maintained by the operators of the Ancient Machine. As an Antiquitect, the machine binds you to the present while you travel back through time. Charged with influencing the activities of the past, you are resolute in ensuring that the technological advancement of the world remains intact. Excellent planning, adaptability and influence are key to returning to the present with the greatest Legacy, claiming victory over your rivals! Legacy is a strategic card game mechanically rooted in its time travel theme. Players navigate the timeline, establishing and influencing technologies, to ensure increasingly elaborate technology chains remain intact. At the end of each round players score Legacy points for having the most influence over a technology, and for each time a more advanced technologies depends on it; the highest scoring player at the end of the game is the winner! </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Mar 2013 00:37:53 +0000</listdate>
+    <saledate>Wed, 20 Mar 2013 00:02:20 +0000</saledate>
+    <price currency='USD'>33.99</price>
+    <condition>new</condition>
+    <notes>Floodgate Games (FGGLGT01)
+In the world of Legacy: Gears of Time, the course of history is maintained by the operators of the Ancient Machine. As an Antiquitect, the machine binds you to the present while you travel back through time. Charged with influencing the activities of the past, you are resolute in ensuring that the technological advancement of the world remains intact. Excellent planning, adaptability and influence are key to returning to the present with the greatest Legacy, claiming victory over your rivals! Legacy is a strategic card game mechanically rooted in its time travel theme. Players navigate the timeline, establishing and influencing technologies, to ensure increasingly elaborate technology chains remain intact. At the end of each round players score Legacy points for having the most influence over a technology, and for each time a more advanced technologies depends on it; the highest scoring player at the end of the game is the winner! </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Apr 2013 10:12:39 +0000</listdate>
+    <saledate>Sun, 14 Jul 2013 19:23:39 +0000</saledate>
+    <price currency='GBP'>29.95</price>
+    <condition>new</condition>
+    <notes>OFFER OF THE WEEK
+Incl. 2x Packs of Legacy card sleeves (see image)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 May 2013 14:53:30 +0000</listdate>
+    <saledate>Fri, 21 Jun 2013 16:39:04 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition, cards sleeved with high-quality UltraPro sleeves.  Includes the Gencon 2012 Exclusive Promo Card.
+Shipping $7.50-$9.50 depending on location.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 May 2013 02:09:10 +0000</listdate>
+    <saledate>Mon, 06 May 2013 02:28:50 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>for barbarianprince
+Thank you!!!
+Also includes:
+Wits and Wagers
+Shipping for Legacy will be $6
+There will be a separate shipping charge for Wits and Wagers</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 May 2013 14:09:56 +0000</listdate>
+    <saledate>Sun, 12 May 2013 15:50:22 +0000</saledate>
+    <price currency='GBP'>27</price>
+    <condition>likenew</condition>
+    <notes>Reserved for floatingvicar from the European Seller Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Jul 2013 16:59:40 +0000</listdate>
+    <saledate>Mon, 29 Jul 2013 18:55:31 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>For User Nate Hendon
+(nphend)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Aug 2013 09:04:40 +0000</listdate>
+    <saledate>Tue, 27 Aug 2013 09:30:09 +0000</saledate>
+    <price currency='GBP'>24</price>
+    <condition>likenew</condition>
+    <notes>Played only once, all components in the bags. Shipping to the UK address is £5. For shipping cost to other countries, please ask. Contains 2 unopened packs of sleeves for the cards (this game always comes with them).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Aug 2013 17:08:17 +0000</listdate>
+    <saledate>Fri, 23 Aug 2013 17:47:17 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Dec 2013 19:23:48 +0000</listdate>
+    <saledate>Fri, 14 Feb 2014 07:41:18 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Floodgate Games (FGGLGT02)
+In the world of Legacy: Gears of Time, the course of history is maintained by the operators of the Ancient Machine. As an Antiquitect, the machine binds you to the present while you travel back through time. Charged with influencing the activities of the past, you are resolute in ensuring that the technological advancement of the world remains intact. Excellent planning, adaptability and influence are key to returning to the present with the greatest Legacy, claiming victory over your rivals! Legacy is a strategic card game mechanically rooted in its time travel theme. Players navigate the timeline, establishing and influencing technologies, to ensure increasingly elaborate technology chains remain intact. At the end of each round players score Legacy points for having the most influence over a technology, and for each time a more advanced technologies depends on it; the highest scoring player at the end of the game is the winner! </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Dec 2013 17:46:53 +0000</listdate>
+    <saledate>Thu, 19 Dec 2013 12:14:51 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened Never played unwanted Gift</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Jan 2014 17:46:24 +0000</listdate>
+    <saledate>Thu, 23 Jan 2014 18:54:33 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>bundle of Legacy:Gears of Time and Legacy:Forbidden Machines Kickstarter edition
+For user allumbra only.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Feb 2014 03:41:35 +0000</listdate>
+    <saledate>Sat, 01 Mar 2014 20:19:50 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>likenew</condition>
+    <notes>Will only sell with expansion</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Feb 2014 13:17:49 +0000</listdate>
+    <saledate>Mon, 07 Apr 2014 21:28:32 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Floodgate Games (FGGLGT02)
+In the world of Legacy: Gears of Time, the course of history is maintained by the operators of the Ancient Machine. As an Antiquitect, the machine binds you to the present while you travel back through time. Charged with influencing the activities of the past, you are resolute in ensuring that the technological advancement of the world remains intact. Excellent planning, adaptability and influence are key to returning to the present with the greatest Legacy, claiming victory over your rivals! Legacy is a strategic card game mechanically rooted in its time travel theme. Players navigate the timeline, establishing and influencing technologies, to ensure increasingly elaborate technology chains remain intact. At the end of each round players score Legacy points for having the most influence over a technology, and for each time a more advanced technologies depends on it; the highest scoring player at the end of the game is the winner! </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Feb 2014 22:33:08 +0000</listdate>
+    <saledate>Fri, 28 Feb 2014 20:06:49 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Reserved for tobyjason.
+Includes expansions.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Mar 2014 20:11:11 +0000</listdate>
+    <saledate>Wed, 26 Mar 2014 20:55:56 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Also in the same box are the Forbidden Machines and Deep Vault expansions.
+UK p_T_E_M_P_T_A_G_amp;p £5.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Mar 2014 06:51:59 +0000</listdate>
+    <saledate>Sat, 29 Mar 2014 11:38:10 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>Reserved for quietcorn - auction winner.
+Includes Forbidden Machines and Kickstarter backer promo. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Apr 2014 23:23:43 +0000</listdate>
+    <saledate>Thu, 10 Apr 2014 17:24:18 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Floodgate Games (FGGLGT02)
+ In the world of Legacy: Gears of Time, the course of history is maintained by the operators of the Ancient Machine. As an Antiquitect, the machine binds you to the present while you travel back through time. Charged with influencing the activities of the past, you are resolute in ensuring that the technological advancement of the world remains intact. Excellent planning, adaptability and influence are key to returning to the present with the greatest Legacy, claiming victory over your rivals! Legacy is a strategic card game mechanically rooted in its time travel theme. Players navigate the timeline, establishing and influencing technologies, to ensure increasingly elaborate technology chains remain intact. At the end of each round players score Legacy points for having the most influence over a technology, and for each time a more advanced technologies depends on it; the highest scoring player at the end of the game is the winner! 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Apr 2014 00:28:44 +0000</listdate>
+    <saledate>Wed, 30 Apr 2014 15:21:03 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Floodgate Games (FGGLGT02)
+ In the world of Legacy: Gears of Time, the course of history is maintained by the operators of the Ancient Machine. As an Antiquitect, the machine binds you to the present while you travel back through time. Charged with influencing the activities of the past, you are resolute in ensuring that the technological advancement of the world remains intact. Excellent planning, adaptability and influence are key to returning to the present with the greatest Legacy, claiming victory over your rivals! Legacy is a strategic card game mechanically rooted in its time travel theme. Players navigate the timeline, establishing and influencing technologies, to ensure increasingly elaborate technology chains remain intact. At the end of each round players score Legacy points for having the most influence over a technology, and for each time a more advanced technologies depends on it; the highest scoring player at the end of the game is the winner! </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Apr 2014 18:30:49 +0000</listdate>
+    <saledate>Tue, 20 May 2014 16:12:58 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Floodgate Games (FGGLGT02)
+ In the world of Legacy: Gears of Time, the course of history is maintained by the operators of the Ancient Machine. As an Antiquitect, the machine binds you to the present while you travel back through time. Charged with influencing the activities of the past, you are resolute in ensuring that the technological advancement of the world remains intact. Excellent planning, adaptability and influence are key to returning to the present with the greatest Legacy, claiming victory over your rivals! Legacy is a strategic card game mechanically rooted in its time travel theme. Players navigate the timeline, establishing and influencing technologies, to ensure increasingly elaborate technology chains remain intact. At the end of each round players score Legacy points for having the most influence over a technology, and for each time a more advanced technologies depends on it; the highest scoring player at the end of the game is the winner! 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 May 2014 06:41:45 +0000</listdate>
+    <saledate>Sun, 31 Aug 2014 04:05:39 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Floodgate Games (FGGLGT02)
+ In the world of Legacy: Gears of Time, the course of history is maintained by the operators of the Ancient Machine. As an Antiquitect, the machine binds you to the present while you travel back through time. Charged with influencing the activities of the past, you are resolute in ensuring that the technological advancement of the world remains intact. Excellent planning, adaptability and influence are key to returning to the present with the greatest Legacy, claiming victory over your rivals! Legacy is a strategic card game mechanically rooted in its time travel theme. Players navigate the timeline, establishing and influencing technologies, to ensure increasingly elaborate technology chains remain intact. At the end of each round players score Legacy points for having the most influence over a technology, and for each time a more advanced technologies depends on it; the highest scoring player at the end of the game is the winner! </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Jun 2014 04:50:38 +0000</listdate>
+    <saledate>Sat, 02 Aug 2014 06:19:35 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Played once. In perfect condition.
+This is for the retail version, second printing.
+Shipping will be $12 in the US. Probably less in CA or nearby states.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jul 2014 17:02:47 +0000</listdate>
+    <saledate>Tue, 22 Jul 2014 17:04:43 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/176155/item/3323076#3323076]Item for Geeklist _T_E_M_P_T_A_G_quot;Small auction for people that like small auctions ENDS 7.21.14_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Payment via Paypal to 1984scarvalho@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Jul 2014 13:28:48 +0000</listdate>
+    <saledate>Fri, 25 Jul 2014 13:55:52 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>Charity auction winner
+Marketplace for user TMVM
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Aug 2014 03:22:05 +0000</listdate>
+    <saledate>Sat, 09 Aug 2014 03:58:45 +0000</saledate>
+    <price currency='USD'>32.71</price>
+    <condition>verygood</condition>
+    <notes>Reserved for fcschmidt
+20 for the game
+12.71 for prioirty 2-day flat rate shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Aug 2014 10:14:52 +0000</listdate>
+    <saledate>Sat, 09 Aug 2014 20:45:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Reserved for fcschmidt
+Please add 12.71 for shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Aug 2014 20:10:35 +0000</listdate>
+    <saledate>Mon, 18 Aug 2014 16:31:40 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>winning auction listing for clarkkent22</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Aug 2014 17:05:52 +0000</listdate>
+    <saledate>Sun, 07 Sep 2014 01:46:43 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Punched but unplayed.  Includes Forbidden Machines expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Aug 2014 11:53:53 +0000</listdate>
+    <saledate>Sun, 07 Sep 2014 16:21:53 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Floodgate Games (FGGLGT02)
+In the world of Legacy: Gears of Time, the course of history is maintained by the operators of the Ancient Machine. As an Antiquitect, the machine binds you to the present while you travel back through time. Charged with influencing the activities of the past, you are resolute in ensuring that the technological advancement of the world remains intact. Excellent planning, adaptability and influence are key to returning to the present with the greatest Legacy, claiming victory over your rivals! Legacy is a strategic card game mechanically rooted in its time travel theme. Players navigate the timeline, establishing and influencing technologies, to ensure increasingly elaborate technology chains remain intact. At the end of each round players score Legacy points for having the most influence over a technology, and for each time a more advanced technologies depends on it; the highest scoring player at the end of the game is the winner!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Sep 2014 18:29:31 +0000</listdate>
+    <saledate>Thu, 11 Sep 2014 18:39:08 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>For user dustyu
+Send Paypal payment to travmacdaddy@hotmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Sep 2014 07:46:17 +0000</listdate>
+    <saledate>Tue, 04 Nov 2014 21:39:18 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>Only played a three times. Shipping costs will be 20eu max.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Dec 2014 03:08:45 +0000</listdate>
+    <saledate>Thu, 15 Jan 2015 01:23:34 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>verygood</condition>
+    <notes>This game is in great shape. Games are shipped within two business days of payment receipt. 
+Optional: I will include the Forbidden Machines expansion for $10.00 if requested</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Jan 2015 00:20:02 +0000</listdate>
+    <saledate>Mon, 02 Feb 2015 08:23:12 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>Auction winner mabell_yah</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Feb 2015 18:00:10 +0000</listdate>
+    <saledate>Sun, 15 Feb 2015 09:16:10 +0000</saledate>
+    <price currency='EUR'>26</price>
+    <condition>verygood</condition>
+    <notes>Shipping Germany free 
+Shipping EU 10 Euro</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Feb 2015 05:30:47 +0000</listdate>
+    <saledate>Tue, 24 Feb 2015 07:02:36 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>reserved for benjamininja
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Feb 2015 02:48:17 +0000</listdate>
+    <saledate>Mon, 02 Mar 2015 07:02:43 +0000</saledate>
+    <price currency='USD'>18.99</price>
+    <condition>likenew</condition>
+    <notes>Complete and in near mint condition.  Opened, but not played.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Feb 2015 03:10:37 +0000</listdate>
+    <saledate>Sat, 07 Mar 2015 22:57:39 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Item in fantastic shape, from a non-smoking home.  Played a few times, but handled with care.
+Kickstarter edition, and includes the promo cards that came with.
+Item shipped via UPS Ground.  I get excellent rates at work, and anywhere in the US is between $5 and $10.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Mar 2015 23:58:29 +0000</listdate>
+    <saledate>Fri, 27 Mar 2015 20:16:38 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>new</condition>
+    <notes>In shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Sep 2014 23:18:12 +0000</listdate>
+    <saledate>Fri, 10 Apr 2015 17:52:46 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Floodgate Games (FGGLGT02)
+In the world of Legacy: Gears of Time, the course of history is maintained by the operators of the Ancient Machine. As an Antiquitect, the machine binds you to the present while you travel back through time. Charged with influencing the activities of the past, you are resolute in ensuring that the technological advancement of the world remains intact. Excellent planning, adaptability and influence are key to returning to the present with the greatest Legacy, claiming victory over your rivals! Legacy is a strategic card game mechanically rooted in its time travel theme. Players navigate the timeline, establishing and influencing technologies, to ensure increasingly elaborate technology chains remain intact. At the end of each round players score Legacy points for having the most influence over a technology, and for each time a more advanced technologies depends on it; the highest scoring player at the end of the game is the winner!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Apr 2015 03:54:34 +0000</listdate>
+    <saledate>Mon, 13 Apr 2015 19:15:34 +0000</saledate>
+    <price currency='CAD'>26</price>
+    <condition>verygood</condition>
+    <notes>For user derekbturner only.
+Includes Legacy: Gears of Time + promos, expansion
+This sale has been auto-generated for the auction: [geekurl=/geeklist/189315/item/3816985#3816985]Item for Geeklist _T_E_M_P_T_A_G_quot;CAN/US - Moving Time Games Auction - Assault on Hoth, Goldland, La Isla, + more!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Apr 2015 02:55:56 +0000</listdate>
+    <saledate>Tue, 21 Apr 2015 02:58:21 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/189806/item/3845226#3845226]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction - Almost under 200 _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Jun 2015 17:47:14 +0000</listdate>
+    <saledate>Mon, 15 Jun 2015 18:41:26 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190695/item/3941271#3941271]Item for Geeklist _T_E_M_P_T_A_G_quot;2015 Dice Tower Convention Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Jun 2015 16:48:56 +0000</listdate>
+    <saledate>Sun, 12 Jul 2015 12:35:04 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>This is the KickStarter edition. It has KickStarter and BGG con technology cards. I_T_E_M_P_T_A_G_#039;m not sure whether these were KS exclusives.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Jan 2015 16:15:25 +0000</listdate>
+    <saledate>Thu, 23 Jul 2015 20:27:43 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>new</condition>
+    <notes>In shrink
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus max. 3 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Apr 2015 01:06:33 +0000</listdate>
+    <saledate>Sun, 02 Aug 2015 14:04:35 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Floodgate Games (FGGLGT02)
+In the world of Legacy: Gears of Time, the course of history is maintained by the operators of the Ancient Machine. As an Antiquitect, the machine binds you to the present while you travel back through time. Charged with influencing the activities of the past, you are resolute in ensuring that the technological advancement of the world remains intact. Excellent planning, adaptability and influence are key to returning to the present with the greatest Legacy, claiming victory over your rivals! Legacy is a strategic card game mechanically rooted in its time travel theme. Players navigate the timeline, establishing and influencing technologies, to ensure increasingly elaborate technology chains remain intact. At the end of each round players score Legacy points for having the most influence over a technology, and for each time a more advanced technologies depends on it; the highest scoring player at the end of the game is the winner!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Oct 2015 15:50:43 +0000</listdate>
+    <saledate>Sat, 24 Oct 2015 22:20:58 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198619/item/4234135#4234135]Item for Geeklist _T_E_M_P_T_A_G_quot;BUY IT(Dead of Winter, Deus, War of the Ring and more) all with BINS, also some crappy free games too_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Oct 2015 20:44:40 +0000</listdate>
+    <saledate>Wed, 28 Oct 2015 14:14:34 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>for travandallie</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Nov 2015 03:51:54 +0000</listdate>
+    <saledate>Tue, 10 Nov 2015 04:07:38 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This item is from the BGG.Con Virtual Flea Market Geeklist
+Please do not purchase if you did not win this item.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Dec 2015 06:03:53 +0000</listdate>
+    <saledate>Fri, 18 Dec 2015 17:33:24 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>This item is for user armadaman only, from the _T_E_M_P_T_A_G_quot;Two Boardgames Cannot Occupy the Same Space at Once_T_E_M_P_T_A_G_quot; US only Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jan 2016 13:03:11 +0000</listdate>
+    <saledate>Thu, 25 Feb 2016 13:40:31 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Includes Forbidden Machines expansion.  All components and box are in excellent condition.
+Reserved for Sir Benabus.
+Payment and delivery scheduled for Tennessee Game Days XI.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Mar 2016 03:25:09 +0000</listdate>
+    <saledate>Tue, 15 Mar 2016 06:54:35 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>Reserved for MrCloudy. Includes sleeves, expansion, and other extras. 
+This sale has been auto-generated for the auction: [geekurl=/geeklist/206283/item/4512485#4512485]Item for Geeklist _T_E_M_P_T_A_G_quot;Flash Auction #11 - _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Mar 2016 01:24:59 +0000</listdate>
+    <saledate>Tue, 22 Mar 2016 17:40:03 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/206413/item/4516553#4516553]Item for Geeklist _T_E_M_P_T_A_G_quot;Spring Break Auction: Low starting bids_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Feb 2016 11:13:06 +0000</listdate>
+    <saledate>Mon, 23 May 2016 04:39:05 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>likenew</condition>
+    <notes>Opened, but unplayed.
+Feel free to message me if you have any questions.
+Shipping:
+Please ask for the details! Shipping depends on destination and total weight.
+(Germany 5,99€ DHL, most other EU countries 16€).
+I will accept payment via Paypal (if you pay the fees / or send money to friends) or Bank Transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 May 2016 16:58:40 +0000</listdate>
+    <saledate>Wed, 15 Jun 2016 14:58:33 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>For Gary Pressler Only.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Jul 2016 16:08:10 +0000</listdate>
+    <saledate>Sun, 17 Jul 2016 12:28:24 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Gen Con delivery. Includes Gen Con promo</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 May 2014 11:48:24 +0000</listdate>
+    <saledate>Wed, 24 Aug 2016 11:02:13 +0000</saledate>
+    <price currency='EUR'>49.99</price>
+    <condition>new</condition>
+    <notes>Legacy: Gears of Time
+English second edition
+Publisher: Floodgate Games</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2016 13:20:05 +0000</listdate>
+    <saledate>Tue, 11 Oct 2016 17:41:18 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Listing is specifically for Kusanagi888 who won it in _T_E_M_P_T_A_G_quot;Clearing the Shelves_T_E_M_P_T_A_G_quot; auction 10/10. Includes all expansions.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2016 19:21:58 +0000</listdate>
+    <saledate>Sat, 15 Oct 2016 06:32:04 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>Includes Expansion: Legacy: Forbidden Machines.
+For Game_Greg Only.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Sep 2016 15:52:29 +0000</listdate>
+    <saledate>Mon, 24 Oct 2016 17:09:02 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened but un-played and un-punched. This also includes many extras including the Expansion _T_E_M_P_T_A_G_quot;Forbidden Machines_T_E_M_P_T_A_G_quot; Forbidden Machine Foil Promo Cards and two packs of Forbidden Machine Card Sleeves (un-opened). The box for the expansion is NOT included.
+Item is in very good condition. I treat my games very well. If there are components inside the game they are most likely bagged in 4mm, thick bags.  I ship via USPS, which is most cost effective. When I ship things I take extra measurers to mitigate any potential shipping damage. Shipping from 98012.
+Here’s some shipping ESTIMATES to help you get an idea of what it will cost. Your distance from my Zip Code (98012) and box weight are the biggest factors in price. Please ask ahead of time if you want to know your shipping! If you place an order and cancel it after I provide you with shipping, you will get negative feedback. 
+Small Card Game (i.e. 6 nimmt or Hanabi) $3-$6  / USPS First Class or Priority Bubble Mailer 
+Thin Medium Sized  (i.e. Concept, Las Vegas) $8-$10 / Priority Mail
+Thick Medium Sized (i.e. Istanbul, King of Tokyo, Russian Railroads) $10-$13 / Priority Mail
+Big Box Games (i.e. Ticket to Ride, 7 Wonders) $16-$18 / Priority Mail or Parcel Post
+Oversized or Odd Shaped Boxes ($22-$25) / Parcel Post</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Nov 2016 17:43:58 +0000</listdate>
+    <saledate>Wed, 23 Nov 2016 18:10:01 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Includes expansion.
+Private listing for John Silveira from auction purchase.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Oct 2016 12:27:34 +0000</listdate>
+    <saledate>Tue, 13 Dec 2016 09:19:06 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>Auction win for user markbesada
+Do not buy if you are not user markbesada</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Sep 2016 10:07:07 +0000</listdate>
+    <saledate>Tue, 10 Jan 2017 00:19:42 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Includes legacy - Forbidden Machine
+Light box wear
+Buyer pays postage, price to be arranged</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jan 2017 06:06:13 +0000</listdate>
+    <saledate>Wed, 18 Jan 2017 06:57:55 +0000</saledate>
+    <price currency='USD'>27.97</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Feb 2017 01:06:56 +0000</listdate>
+    <saledate>Wed, 15 Feb 2017 17:15:04 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/221036/item/5190315#5190315]Item for Geeklist _T_E_M_P_T_A_G_quot;Con of the North 2017 No-Ship Auction and Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jan 2017 23:45:34 +0000</listdate>
+    <saledate>Tue, 21 Feb 2017 17:53:34 +0000</saledate>
+    <price currency='GBP'>19.99</price>
+    <condition>verygood</condition>
+    <notes>Shipping in the UK is £5.99</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jan 2016 22:49:22 +0000</listdate>
+    <saledate>Sun, 05 Mar 2017 17:38:11 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>New in shrink. Shipping is $10 for one game, and $15 for multiple games.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Mar 2017 04:53:08 +0000</listdate>
+    <saledate>Tue, 14 Mar 2017 12:24:03 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222798/item/5256812#5256812]Item for Geeklist _T_E_M_P_T_A_G_quot;New_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Mar 2017 06:46:35 +0000</listdate>
+    <saledate>Fri, 31 Mar 2017 20:32:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>this item is for fefecat</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Jan 2017 01:19:14 +0000</listdate>
+    <saledate>Mon, 29 May 2017 02:12:02 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>likenew</condition>
+    <notes>No shrink, but cards, box and components in great condition. This bundle includes the expansion: _T_E_M_P_T_A_G_quot;Legacy: Forbidden Machines_T_E_M_P_T_A_G_quot;. Selling as part of the _T_E_M_P_T_A_G_quot;collect less, play more_T_E_M_P_T_A_G_quot; philosophy that_T_E_M_P_T_A_G_#039;s now the law in my game room! $13.50 USPS shipping. Thanks for lookin_T_E_M_P_T_A_G_#039;, take care,,,</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Jun 2017 22:42:00 +0000</listdate>
+    <saledate>Wed, 14 Jun 2017 00:21:10 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>This game was won via auction and includes Forbidden Machines.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Jul 2017 16:46:39 +0000</listdate>
+    <saledate>Tue, 18 Jul 2017 19:58:16 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/227564/item/5501690#5501690]Item for Geeklist _T_E_M_P_T_A_G_quot;Flash Auction - ends Sunday, July 16 - Free shipping at $100 - US only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Jul 2017 21:08:56 +0000</listdate>
+    <saledate>Sat, 12 Aug 2017 19:03:39 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>new, still in original shrink-wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Sep 2017 15:19:19 +0000</listdate>
+    <saledate>Mon, 18 Dec 2017 16:41:10 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Includes shipping to UK mainland destinations.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Aug 2015 10:54:00 +0000</listdate>
+    <saledate>Wed, 24 Jan 2018 18:16:50 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Feb 2018 16:09:22 +0000</listdate>
+    <saledate>Sun, 18 Feb 2018 09:47:32 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Reserved for sidusov</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Apr 2015 03:41:47 +0000</listdate>
+    <saledate>Mon, 26 Mar 2018 23:22:46 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>INCLUDES THE FORBIDDEN MACHINES EXPANSION
+All cards have been sleeved in Legacy: Gears of Time custom sleeves. Includes the full Forbidden Machines expansion. All components in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Jan 2018 00:34:55 +0000</listdate>
+    <saledate>Fri, 06 Apr 2018 02:44:37 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Played once.
+Buyer pays actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Apr 2018 23:01:27 +0000</listdate>
+    <saledate>Thu, 17 May 2018 04:27:13 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Shipping is $10</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2018 23:36:46 +0000</listdate>
+    <saledate>Sat, 30 Jun 2018 16:41:10 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>My entire collection is for sale! Will beat almost any price on the marketplace. Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jul 2018 14:24:29 +0000</listdate>
+    <saledate>Sun, 22 Jul 2018 22:03:11 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>***. This item has been reserved for user Xarou  ***
+*** Please don_T_E_M_P_T_A_G_#039;t purchase unless you are user Xarou ***
+Excellent condition, like new, opened but never played.
+All cards are sleeved with the Original sleeves for the expansion.
+Includes the following expansions:
++ GenCon Indy Promo Card (2012)
++ Deep Vault (2013)
++ Legacy: Gears of Time – Mini-Expansion (2012)
++ Deep Vault Technologies Promo Cards</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jun 2018 07:05:50 +0000</listdate>
+    <saledate>Wed, 01 Aug 2018 18:51:46 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Legacy: Gears of Time - in excellent condition, played only 2-3 times. Box comes with a custom made foam core insert (which has room for the expansion as well).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Sep 2017 20:42:53 +0000</listdate>
+    <saledate>Tue, 07 Aug 2018 23:38:47 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>INCLUDES the Forbidden Machines expansion, packed in base game box (expansion box NOT included).
+Like new condition. Components punched, sorted/bagged but never played.
+Comes from a smoke-free, pet-free home.
+Shipping is USPS Priority Mail 2-Day Medium Flat Rate Box - $13.60</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Nov 2017 00:51:33 +0000</listdate>
+    <saledate>Mon, 24 Sep 2018 17:01:38 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Includes Forbidden Machines Expansion, NIS, as well as two sets of Legacy card sleeves, also NIS.
+New in shrink. Buyer pays actual shipping via USPS, UPS, or FedEx. Shipping from Chicago, IL, USA. Local pickup is available.
+Shipping to other countries is expensive. It could be as much as $30-$60+ depending on where it_T_E_M_P_T_A_G_#039;s going and the weight of package. Please feel free to message me about the shipping cost before buying. 
+PayPal, Zelle, or Venmo, or message me if you prefer another online method and I_T_E_M_P_T_A_G_#039;ll look into it.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Jul 2016 05:00:10 +0000</listdate>
+    <saledate>Fri, 28 Sep 2018 08:01:43 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap.  Also includes the Forbidden Machines expansion, also brand new in shrinkwrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Feb 2018 10:06:30 +0000</listdate>
+    <saledate>Sun, 30 Sep 2018 01:57:30 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Includes Forbidden Machines, Deep Vault, Geb Con Indy Promo, Kickstarter Backer Promo, and the Mini-Expansion. All stored,in tge base game box.
+Ships from 50023</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Aug 2018 05:18:04 +0000</listdate>
+    <saledate>Thu, 25 Oct 2018 04:24:24 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>This is for an excellent copy of Legacy: Gears of Time that also includes the Forbidden Machine expansion as well as the Forbidden Machine: Deep Vault Promo set. It was only played twice.
+Photos available upon request.
+Buyer pays shipping using whichever service they would prefer. I am in Chicago, IL (Zip Code 60625) if you would like to estimate what the shipping costs would be. I am not a store! I do not have shipping rates at my fingertips so it takes me exactly as much time as it would take you to figure out how much it would cost to ship using whichever service you prefer. The game weighs approximately 3 pounds so figure an extra pound or so of packing material.
+I have several items for sale at the moment. Discounts on both the games and shipping if you purchase multiple items! See my listings here:
+https://boardgamegeek.com/geekmarket/user/Rapscallion_69</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

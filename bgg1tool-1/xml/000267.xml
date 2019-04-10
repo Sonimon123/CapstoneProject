@@ -1,0 +1,656 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="267">
+   <yearpublished>1998</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Tycoon</name>
+         
+   <description>In Tycoon, players are businessmen traveling around the world, doing what businessmen do: making money.  In this case, business is defined as opening hotels and factories in major cities, like Sydney, Cairo, and New York._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Players are seeking to build hotels in as many cities as possible while also building the first or second most hotels in given cites to earn money, which is also your score. Additional money can be earned by building factories in each city, but these are limited in number._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;During the course of the game players will take turns buying and/or using plane tickets to move about the board's nine cities. A number of tickets are displayed in rows, divided into two types: The more expensive scheduled flights which allow you to move directly to the printed city, or move your token a number of city spaces orthogonally on the board. Cheaper charter flights allow movement directly between the two city spaces printed on the ticket. You may buy tickets at any time during your turn, and you are not required to move but must do so before taking any regular actions; you may also use any many tickets in a turn as you wish._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The regular actions include building hotels and factories. Hotels are built on a u-shaped track. When a hotel is built on a red space the building that is oldest/furthest back on the track is removed. Players with the first and second most hotels on the track will be the only ones to score, with ties broken by the player with the earliest bulding on the track. There are only two factory spaces per city, and they will score points equal to the second place of the hotel scoring. In lieu of any actions or flying, or if you simply have no money, you may also take out loans; this removes your token from the board and forces you to use the more costly scheduled flights to return to the board._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;At the start of the game players are given all of their factories. Each round players are given a set number of hotels in addition to any they have left over from the previous round. When any player has built all of the hotels in front of them a scoring occurs. After three scorings the game ends and the player with the most money is the winner._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/I3G4WWM2YCAyNevx8h0oGHC3Iag=/fit-in/200x150/pic102645.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/LEprN8ZSkvMAcvMb8OyHl9VDAQI=/0x0/pic102645.jpg</image>
+      
+            <boardgamehonor objectid="8673">1998 Spiel des Jahres Recommended</boardgamehonor>
+               <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgameimplementation objectid="29972">El Capitán</boardgameimplementation>
+                                    <boardgameversion objectid="32082">Dutch/French/English Jumbo edition</boardgameversion>
+               <boardgamecategory objectid="1021">Economic</boardgamecategory>
+                      <boardgamepodcastepisode objectid="90417">Episode 005</boardgamepodcastepisode>
+                                                                <boardgamepublisher objectid="335">Jumbo</boardgamepublisher>
+               <boardgameversion objectid="164117">Jumbo English/Chinese edition 1996</boardgameversion>
+               <boardgameversion objectid="24293">Jumbo German edition</boardgameversion>
+               <boardgameversion objectid="262924">Jumbo German Second Auswahlliste-SdJ edition</boardgameversion>
+               <boardgameversion objectid="246958">Jumbo Nordic edition 1998</boardgameversion>
+               <boardgamedesigner objectid="7">Wolfgang Kramer</boardgamedesigner>
+                             <boardgamedesigner objectid="139">Horst-Rainer Rösner</boardgamedesigner>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="3" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="1" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="4" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>643</usersrated>
+     <average>6.80601</average>
+     <bayesaverage>5.95304</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2384" bayesaverage="5.95304" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1027" bayesaverage="6.07227" />
+            
+           </ranks>
+     
+     <stddev>1.16535</stddev>
+     <median>0</median>
+     <owned>978</owned>
+     <trading>88</trading>
+     <wanting>34</wanting>
+     <wishing>67</wishing>
+     <numcomments>246</numcomments>
+     <numweights>79</numweights>
+     <averageweight>2.6456</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 06 May 2003 21:20:39 +0000</listdate>
+    <saledate>Wed, 22 Oct 2003 18:49:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>++++++++USA SPECIAL+++++++++++
+2 to 5 day shipping to the USA only $ 7.00
+Next available shipping windows: 10/08 - 10/16 - 10/30
+Please feel free to ask if you need more details.
+If you wish regular shipping from Germany (EUR 8.20 within Europe or $13.30 worldwide) please take off 20% of the quoted price. Delivery time varies from 1 to 5 weeks.
+For more detailed information (insurance - airmail - combined shipping) please feel free to contact me. 
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Oct 2003 18:46:37 +0000</listdate>
+    <saledate>Wed, 10 Dec 2003 18:40:32 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>in shrink, no damages
+13$ woldwide surfacemail</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Nov 2003 06:45:12 +0000</listdate>
+    <saledate>Mon, 15 Dec 2003 16:58:17 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 May 2004 17:04:07 +0000</listdate>
+    <saledate>Sun, 13 Jun 2004 20:18:33 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>still in shrink. Great, overlooked game!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Sep 2004 12:51:28 +0000</listdate>
+    <saledate>Sun, 22 May 2005 07:36:07 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>verygood</condition>
+    <notes>Shipping is EUR 8.60 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Sep 2004 20:01:20 +0000</listdate>
+    <saledate>Sat, 26 Nov 2005 18:58:36 +0000</saledate>
+    <price currency='EUR'>22.99</price>
+    <condition>likenew</condition>
+    <notes>never played +++++ german version, but game parts are almost language independent and you can find translations on boardgamegeek +++++ will be shipped with insurance +++++ payment for usa, canada, asia or australia : paypal or cash (by letter, exchanged already into euros) or bank transfer +++++ payment for other non-euro-countries : cash (by letter, exchanged already into euros) or bank transfer +++++ payment for european countries, that have euro : cash (by letter) or bank transfer (wich by the way is cost-free !) +++++ payment for germany : personal pick up in berlin or bank transfer +++++ foreign buyers beware : german postal sadly is very expensive for foreign packages (about 18 - 45 euros, it depends on, where the package has to be shipped and the weight), pleask at for shipping prices, before you buy !) +++++ shipping inside germany will cost 8 euros, including insurance</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 May 2005 06:47:09 +0000</listdate>
+    <saledate>Mon, 28 Nov 2005 03:21:13 +0000</saledate>
+    <price currency='USD'>33.3</price>
+    <condition>new</condition>
+    <notes>I´m offering the german edition by JUMBO
+Shipping is EUR 9 within Europe or EUR 13 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click robbirob and then the more info button
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jul 2005 16:35:28 +0000</listdate>
+    <saledate>Tue, 02 Aug 2005 14:44:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Jul 2005 20:33:09 +0000</listdate>
+    <saledate>Mon, 29 Aug 2005 06:46:33 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Still sealed, Jumbo version. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Sep 2005 05:12:57 +0000</listdate>
+    <saledate>Sun, 12 Feb 2006 23:08:12 +0000</saledate>
+    <price currency='USD'>27.5</price>
+    <condition>verygood</condition>
+    <notes>In Excellent shape, only played a few times.
+Email me at danger-mouse@comcast.net with any questions.
+Actual shipping costs plus $1.50 handling.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Sep 2005 02:47:52 +0000</listdate>
+    <saledate>Sat, 31 Dec 2005 00:48:43 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>good</condition>
+    <notes>Components are complete and in excellent condition.  Box has minor shelf wear and one corner is dinged a bit.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Sep 2005 05:06:30 +0000</listdate>
+    <saledate>Thu, 29 Sep 2005 18:28:50 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Still sealed, box is in superb shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Sep 2005 23:52:22 +0000</listdate>
+    <saledate>Fri, 06 Jan 2006 14:45:32 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Still sealed, in perfect condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Nov 2005 09:49:41 +0000</listdate>
+    <saledate>Wed, 29 Mar 2006 22:00:46 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap but box is not in mint condition. A few tears in the shrinkwrap; one corner of box show some wear. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Nov 2005 10:55:33 +0000</listdate>
+    <saledate>Mon, 07 Nov 2005 08:22:31 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>verygood</condition>
+    <notes>complete
+1126 gr.
+small package (usually for normal sized games)
+surface mail only - up to. 2.000 gr.)
+Europe/World - € 8.60/12.90
+duration Europe/World - up to 2 weeks/up to 7 weeks
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jan 2006 00:24:53 +0000</listdate>
+    <saledate>Wed, 18 Jan 2006 07:32:26 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>still sealed, in perfect condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Aug 2006 21:57:34 +0000</listdate>
+    <saledate>Thu, 03 Aug 2006 00:09:54 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>Some minor scuffing. Complete. OOP.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Oct 2006 10:05:06 +0000</listdate>
+    <saledate>Mon, 16 Oct 2006 14:29:57 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>VG
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Oct 2006 19:55:29 +0000</listdate>
+    <saledate>Tue, 24 Jul 2007 00:52:36 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Box has a little wear and damage with 2 broken corners, but components are complete and unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Nov 2006 21:39:17 +0000</listdate>
+    <saledate>Wed, 16 May 2007 17:23:13 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>verygood</condition>
+    <notes>A note on the condition: the game is still in shrink. However, it has some noticable wear on the box. Not completely broken, but white spots. The game components are not affected.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Nov 2006 00:05:41 +0000</listdate>
+    <saledate>Tue, 19 Dec 2006 15:22:36 +0000</saledate>
+    <price currency='EUR'>19.99</price>
+    <condition>verygood</condition>
+    <notes>opened, but never played and game components look like new. box has one split corner +++++ german version, but game components are completely language independent anyway and you can download rules translations from boardgamegeek +++++ will be shipped insured ++++++++++ international payment : paypal OR direct bank to bank transfer (wich is cost-free inside european union by the way) OR cash (in a registered letter, exchanged into euros already) +++++ payment for germany : paypal OR personal pick up in berlin OR direct bank to bank transfer +++++ for all : no checks ! ++++++++++ international buyers beware : though german postal is relatively fast, they sadly aren´t cheap. it costs bewteen 19 - 37 euros for parcels up to a weight of 5 kg (= about 4 big boxed boardgames). price depends on where the package has to be shipped, so please ask for prices, before you hit the buy button ! +++++ insured shipment inside germany costs 8 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Apr 2007 21:27:03 +0000</listdate>
+    <saledate>Sat, 14 Apr 2007 21:19:30 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played twice.  Box, components in excellent condition.  Buyer to pay actual shipping costs from Ohio.  Thanks! -Steve</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Apr 2007 15:53:16 +0000</listdate>
+    <saledate>Tue, 24 Apr 2007 07:17:11 +0000</saledate>
+    <price currency='USD'>35.25</price>
+    <condition>new</condition>
+    <notes>Still in original shrinkwrap.   US buyer agrees to pay USPS Priority Mail shipping.   International bidders please contact me about shipping before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Oct 2007 13:27:47 +0000</listdate>
+    <saledate>Sat, 13 Oct 2007 00:03:25 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Oct 2007 06:05:01 +0000</listdate>
+    <saledate>Sun, 28 Oct 2007 19:45:50 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>New in shrink. (shrink has a few tears)
+Buyer pays actual shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 May 2008 13:10:23 +0000</listdate>
+    <saledate>Wed, 14 Jan 2009 17:05:21 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes>P _T_E_M_P_T_A_G_amp; P to UK is £6.50</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jun 2008 17:40:35 +0000</listdate>
+    <saledate>Mon, 28 Jul 2008 21:48:44 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap.  Game rules are in English, German, French.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Jul 2008 03:07:57 +0000</listdate>
+    <saledate>Mon, 20 Oct 2008 17:04:36 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Aug 2008 08:48:36 +0000</listdate>
+    <saledate>Sun, 17 Aug 2008 13:33:59 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>verygood</condition>
+    <notes>Opened but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Sep 2008 05:48:24 +0000</listdate>
+    <saledate>Sun, 29 Mar 2009 21:44:52 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>likenew</condition>
+    <notes>Complete in very, very good condition. Components neatly bagged.
+Will ship via USPS Priority at actual cost from the 94024 zip code. I will ship the day of or the day after I receive payment.
+Will combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Sep 2008 20:54:41 +0000</listdate>
+    <saledate>Sun, 05 Oct 2008 19:49:31 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>German edition. Complete. Played once or twice. Box in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Oct 2008 22:59:48 +0000</listdate>
+    <saledate>Wed, 15 Oct 2008 00:15:33 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>Item has already been sold in the GeekList auction, so unless you won it there, please do not buy this item!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Nov 2008 16:00:24 +0000</listdate>
+    <saledate>Sun, 07 Dec 2008 12:41:40 +0000</saledate>
+    <price currency='GBP'>2</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jan 2009 12:47:57 +0000</listdate>
+    <saledate>Sat, 04 Apr 2009 16:47:40 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>excellent shape, multilingual edition that includes original english rules</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Apr 2009 19:02:56 +0000</listdate>
+    <saledate>Fri, 16 Apr 2010 20:27:29 +0000</saledate>
+    <price currency='GBP'>7</price>
+    <condition>likenew</condition>
+    <notes>Game is in excellent condition.  All the components are present and correct.  English version.
+ 
+Weight inc packing 1410g
+UK Parcel Post  £5.20 
+UK First class  £6.00 
+Surface Worldwide  £9.19 
+Europe Airmail  £9.21 
+USA Airmail  £16.27 
+Shipping costs shown are for an individual game. I will combine shipping as best I can. Large packages (5kg, say 6 games) are very cost-effective to ship internationally via DHL. Ask if you want a detailed price. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Sep 2009 20:26:02 +0000</listdate>
+    <saledate>Sun, 06 Sep 2009 08:43:23 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Slight tear on the front of the box, otherwise this game is complete and in excellent condition. A classic Kramer game!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Feb 2010 21:01:46 +0000</listdate>
+    <saledate>Mon, 15 Feb 2010 23:32:42 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>new</condition>
+    <notes>Tycoon
+This excellent Wolfgang Kramer title is new in shrink.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 May 2010 22:32:14 +0000</listdate>
+    <saledate>Sun, 31 Jul 2011 20:56:01 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>likenew</condition>
+    <notes>Played once from new.  Complete.
+Ship UK Only.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Jun 2010 22:34:50 +0000</listdate>
+    <saledate>Wed, 28 Jul 2010 21:18:15 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>good</condition>
+    <notes>Buyer pays actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Sep 2010 15:02:34 +0000</listdate>
+    <saledate>Fri, 03 Feb 2012 05:49:55 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Great game without the eye-hurting Doyle art!
+New and in shrink, although the wrap is kinda torn up and there is some denting on one corner edge of the box!
+USPS Priority Shipping: est. $15</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Apr 2011 21:54:52 +0000</listdate>
+    <saledate>Mon, 25 Apr 2011 23:32:54 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>This for GaryP who won the game on a BGG auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Jun 2011 17:24:28 +0000</listdate>
+    <saledate>Thu, 11 Oct 2012 09:37:38 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>new</condition>
+    <notes>German edition.
+New _T_E_M_P_T_A_G_amp; shrink wrapped.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jul 2011 13:15:10 +0000</listdate>
+    <saledate>Sun, 21 Aug 2011 12:07:09 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>good</condition>
+    <notes>Jumbo game from 1998. Rules in English and Chinese. Game otherwise language independent.
+Box lid has minor scuffs on edges, but has a tear approx 5*2cm where someone has removed a sticker. Contents are in very good condition and are complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jul 2012 21:11:33 +0000</listdate>
+    <saledate>Wed, 25 Jul 2012 23:28:20 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>for user pharmakon only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Sep 2012 03:52:47 +0000</listdate>
+    <saledate>Fri, 02 Nov 2012 17:55:13 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Heavy shelf wear, game unplayed and complete.
+I_T_E_M_P_T_A_G_#039;m an avid game collector in a smoke-free home and take good care of my games.  Unless otherwise noted above, game is complete with little or no shelf wear or damaged components.  High-resolution picture available upon request.  
+Domestic US shipping is actual shipping cost for approx. 66oz (incl. box) to your zip code from 30082 plus $3 for box and packaging (I will finalize after you order).  International shipping will be actual price plus USD$6.00 (for the box and hassle, sorry, it is much more effort on my end).  Contact me if you have any questions about shipping.
+Must pay me via PayPal (I will cover the fees).  I have many other games up for sale and in most cases I can combine shipping for some significant savings, but please check with me and provide your zip code for details.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Aug 2013 04:20:38 +0000</listdate>
+    <saledate>Mon, 18 Nov 2013 17:54:29 +0000</saledate>
+    <price currency='EUR'>9.75</price>
+    <condition>verygood</condition>
+    <notes>German version, components are language independent.
+Box shows little wear. Game has hardly been played. Everything there in nice shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Mar 2014 20:10:27 +0000</listdate>
+    <saledate>Mon, 20 Jul 2015 05:42:34 +0000</saledate>
+    <price currency='EUR'>9.99</price>
+    <condition>verygood</condition>
+    <notes>I´m offering the german edition by JUMBO
+shipping rates:
+Germany = 4,5 Euro
+EU countries = 15 Euro
+worldwide = 19 Euro
+game weight: 1200 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Aug 2015 02:06:32 +0000</listdate>
+    <saledate>Thu, 05 Nov 2015 15:13:15 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>Multi-Language Edition - An old copy. Cover has 2 split corners with tape on it and wear on all the sides. Bottom has 1 split corner. Everything is there and has an extra yellow _T_E_M_P_T_A_G_amp; red hotel.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Nov 2015 04:40:15 +0000</listdate>
+    <saledate>Mon, 30 Nov 2015 18:53:24 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>acceptable</condition>
+    <notes>This listing reserved for auction victor: backpacker
+Payable with Cash during local pickup or Paypal ahead of time if that is desired.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Dec 2015 05:53:43 +0000</listdate>
+    <saledate>Wed, 03 Feb 2016 16:57:33 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+Buyer pays actual shipping from 08876.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Oct 2017 12:24:21 +0000</listdate>
+    <saledate>Sun, 22 Oct 2017 18:37:33 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>For MrScottx only.
+Out with the Old and In with the New Game Auction #3 winner.
+USPS Priority Mailing and PayPal fees to be covered by winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Oct 2017 20:36:06 +0000</listdate>
+    <saledate>Sat, 16 Dec 2017 01:36:00 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Apr 2017 15:13:38 +0000</listdate>
+    <saledate>Sat, 06 Jan 2018 01:52:43 +0000</saledate>
+    <price currency='EUR'>7</price>
+    <condition>new</condition>
+    <notes>Payment:
+Bank transfer via IBAN + BIC / Überweisung
+PayPal
+General Information:
+I sell this item as a private seller. I can not give any guarantees or refunds. Diesen Artikel verkaufe ich als Privatperson. Eine Garantie oder eine Ruecknahme biete ich nicht an.
+Ich versende Spiele in folgende Länder: / I ship board games and board game expansions to the following countries:
+In case you live in a different country please contact me before you buy an item.
+Shipping/Versand
+nach Deutschland (ohne Inseln):
+Maxibrief (unversichert): EUR 2,60
+Hermes-Paket (max. 50 cm laengste + kuerzeste Seite): EUR 4,70
+DHL-Paket (versichert):
+0 - 10 Kg EUR 6,00
+10 - 20 Kg EUR 12,00
+------------------------------------------------------------
+to Europe (EU): Belgium, Croatia, Czech Republic, Denmark, Finland, France, Greece, Great Britain, Hungary, Ireland, Italy, Luxembourg, The Netherlands, Österreich, Poland, Portugal, Sweden, Slovakia, Slovenia, Spain:
+Registered Letter:
+0 - 0.5 Kg EUR 6,20
+0.5 - 1 Kg EUR 9,50
+Small Parcel / Paeckchen (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 11,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 16,00
+5 - 10 Kg EUR 21,00
+10 - 20 Kg EUR 32,00
+------------------------------------------------------------
+to Norway, Switzerland/Schweiz and other countries in Europe:
+Registered Letter:
+0 - 0.5 Kg EUR 6,20
+0.5 - 1 Kg EUR 9,50
+Small Parcel (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 16,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 27,00
+5 - 10 Kg EUR 34,00
+10 - 20 Kg EUR 49,00
+------------------------------------------------------------
+to the U.S.A. and Canada:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 6.20
+0.5 - 1 Kg EUR 9.50
+Small Parcel (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.00
+DHL Parcel:
+0 - 5 Kg EUR 35.00
+5 - 10 Kg EUR 47.00
+10 - 20 Kg EUR 68.00
+------------------------------------------------------------
+to Australia, Brazil, Japan, New Zealand:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 6.20
+0.5 - 1 Kg EUR 9.50
+Small parcel (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.00
+DHL Parcel:
+0 - 5 Kg EUR 42.00
+5 - 10 Kg EUR 59.00
+10 - 20 Kg EUR 92.00
+------------------------------------------------------------</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Jan 2018 20:29:27 +0000</listdate>
+    <saledate>Thu, 08 Feb 2018 12:02:06 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>verygood</condition>
+    <notes>Please send a message if you are interested and ask for shipping costs to your location. Payment can be done by bank transfer or Pay pal. If you have any other question, please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jul 2018 16:51:52 +0000</listdate>
+    <saledate>Thu, 02 Aug 2018 16:21:56 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Game is in great shape.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Feb 2018 21:05:59 +0000</listdate>
+    <saledate>Sun, 05 Aug 2018 12:34:08 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Jan 2018 01:19:18 +0000</listdate>
+    <saledate>Tue, 18 Sep 2018 18:15:28 +0000</saledate>
+    <price currency='GBP'>3</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Mar 2018 06:50:55 +0000</listdate>
+    <saledate>Thu, 27 Dec 2018 20:49:31 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>good</condition>
+    <notes>Game components are complete and in very good condition except rules (English) are copies.
+Box lightly scuffed
+Not sure which edition
+Shipping to most UK destinations £ 4.50</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

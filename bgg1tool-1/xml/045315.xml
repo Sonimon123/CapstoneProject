@@ -1,0 +1,2742 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="45315">
+   <yearpublished>2009</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Dungeon Lords</name>
+       <name  sortindex="1">Vládci podzemí</name>
+       <name  sortindex="1">Władcy Podziemi</name>
+       <name  sortindex="1">ダンジョン・ロード</name>
+       <name  sortindex="1">地城領主</name>
+         
+   <description>In Dungeon Lords, you are an evil dungeonlord who is trying to build the best dungeon out there. You hire monsters, build rooms, buy traps and defeat the do-gooders who wish to bring you down._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;From the publisher's webpage:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Have you ever ventured with party of heroes to conquer dungeons, gain pride, experiences and of course rich treasure? And has it ever occurred to you how hard it actually is to build and manage such underground complex filled with corridors and creatures? No? Well now you can try. Put yourself in role of the master of underground, summon your servants, dig complex of tunnels and rooms, set traps, hire creatures and try to stop filthy heroes from conquering and plundering your precious creation. We can guarantee you will look on dark corners, lairs and their inhabitant from completely different perspective!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Each turn, players use a hand of cards to choose where to place their worker.  Actions vary from mining gold, hiring monsters, buying traps etc.  Each action has three spots available - with each spot having different effects (e.g. mining gold lets you mine more gold in each spot)._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;When using the cards, two cards will become locked and will not be able to be used next turn._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;There are 4 turns to place actions for each game _T_E_M_P_T_A_G_amp;quot;year_T_E_M_P_T_A_G_amp;quot; and two game years in a whole game._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Each turn is identified as a _T_E_M_P_T_A_G_amp;quot;season_T_E_M_P_T_A_G_amp;quot;.  Each season, players will get to see the heroes and events to come in the following season.  Thus allowing them to prepare._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;At the end of each season (after the first), heroes will be allocated to each player according to their level of evil.  Heroes range from mighty heroes to sneaky thieves.  Each hero has their own power for which the player needs to prepare for._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Finally, at the end of each year, the heroes will travel down into the dungeon to fight._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Scoring in the game is based upon what you have built, the monsters you have hired and the heroes you have captured._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/9YaIeZc1Nbl4sN3V-JGp1umjTuk=/fit-in/200x150/pic569340.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/9mRy3799HYRbJBawNp1a5rJeLXc=/0x0/pic569340.jpg</image>
+      
+            <boardgamepublisher objectid="7345">Czech Games Edition</boardgamepublisher>
+               <boardgamehonor objectid="8751">2010 Golden Geek Best Board Game Artwork/Presentation Nominee</boardgamehonor>
+               <boardgamehonor objectid="8759">2010 Golden Geek Best Strategy Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="8760">2010 Golden Geek Best Thematic Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="8756">2010 Golden Geek Most Innovative Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="13166">2010 Hra roku Nominee</boardgamehonor>
+               <boardgamehonor objectid="12826">2010 International Gamers Awards - General Strategy; Multi-player Nominee</boardgamehonor>
+               <boardgamehonor objectid="18811">2010 JoTa Best Artwork Nominee</boardgamehonor>
+               <boardgamehonor objectid="19795">2010 Lys Passioné Finalist</boardgamehonor>
+               <boardgamehonor objectid="21021">2010 Spiel der Spiele Hit für Experten Recommended</boardgamehonor>
+               <boardgamehonor objectid="13217">2010 Tric Trac de Bronze</boardgamehonor>
+               <boardgamehonor objectid="13218">2010 Tric Trac Nominee</boardgamehonor>
+               <boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+               <boardgamepodcastepisode objectid="150976">An Entourage of Swift Canoes</boardgamepodcastepisode>
+                                    <boardgameversion objectid="342774">Chinese edition</boardgameversion>
+               <boardgamedesigner objectid="789">Vlaada Chvátil</boardgamedesigner>
+               <boardgameartist objectid="12692">David Cochard</boardgameartist>
+               <boardgamepodcastepisode objectid="85912">Cubepushers - Episode 4: Let the Nerd-Rage Flow</boardgamepodcastepisode>
+               <boardgameversion objectid="100644">Czech edition</boardgameversion>
+                             <boardgamepodcastepisode objectid="6005">D6G Ep 57: Mulling Mechanics: Battlefield Friction _T_E_M_P_T_A_G_amp;amp; Dungeon Lords Detailed Review</boardgamepodcastepisode>
+               <boardgamefamily objectid="13498">Dungeon Lords</boardgamefamily>
+                                                         <boardgameexpansion objectid="161730">Dungeon Lords: Dungeon-Setup Tiles</boardgameexpansion>
+               <boardgameexpansion objectid="126839">Dungeon Lords: Festival Season</boardgameexpansion>
+               <boardgamecompilation objectid="161617">Dungeon Lords: Happy Anniversary</boardgamecompilation>
+               <boardgameexpansion objectid="162529">Dungeon Lords: Kickstarter Expansion Pack</boardgameexpansion>
+               <boardgameexpansion objectid="130084">Dungeon Lords: Minions Bearing Gifts</boardgameexpansion>
+               <boardgameaccessory objectid="138366">Dungeon Lords: Stickers</boardgameaccessory>
+               <boardgameexpansion objectid="120963">Dungeon Lords: The New Paladins</boardgameexpansion>
+               <boardgamecategory objectid="1021">Economic</boardgamecategory>
+               <boardgameversion objectid="20589">English first edition</boardgameversion>
+                                                                <boardgameversion objectid="343508">English second edition</boardgameversion>
+                                           <boardgamepodcastepisode objectid="252168">Ep 070 _T_E_M_P_T_A_G_amp;ndash; 3rd Anniversary Special _T_E_M_P_T_A_G_amp;amp; Tournament to the Death!!!</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="135730">Episode 41: Scoville and Party Games</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="169818">Episode 83 -- All Ramshackle and Worry Free</boardgamepodcastepisode>
+                      <boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+               <boardgamecategory objectid="1046">Fighting</boardgamecategory>
+                                           <boardgameversion objectid="26249">French edition</boardgameversion>
+                                                         <boardgameversion objectid="25507">German edition</boardgameversion>
+                                                                                                   <boardgameversion objectid="220258">German second edition</boardgameversion>
+                             <boardgamepublisher objectid="5530">Giochi Uniti</boardgamepublisher>
+               <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+                      <boardgamepublisher objectid="264">Heidelberger Spieleverlag</boardgamepublisher>
+               <boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+               <boardgamepublisher objectid="6275">HomoLudicus</boardgamepublisher>
+               <boardgamepodcastepisode objectid="90551">House Rules 47: Discussing the Top Five</boardgamepodcastepisode>
+               <boardgamecategory objectid="1079">Humor</boardgamecategory>
+               <boardgamepublisher objectid="8923">IELLO</boardgamepublisher>
+               <boardgameversion objectid="206218">Italian edition</boardgameversion>
+               <boardgameversion objectid="51777">Japanese edition</boardgameversion>
+               <boardgamepodcastepisode objectid="150416">Low Player Count - Ep. 6 - Mano a Mano: Co-op or Competitive</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="152297">Low Player Count - Ep. 7 - The Good, The Bad, and the Dummy</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="234313">MeepleCore Podcast Episode 50 - 2nd year anniversary, Publisher Praise: GF9, What makes a game a classic, and more!</boardgamepodcastepisode>
+               <boardgamepublisher objectid="7992">MINDOK</boardgamepublisher>
+               <boardgamepodcastepisode objectid="124583">MN 0010 Listener Feedback and 4 Favorite Game Designers</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="135604">MOBG 24 Best of 2014 (21-01-15)</boardgamepodcastepisode>
+                             <boardgamepublisher objectid="30552">One Moment Games</boardgamepublisher>
+               <boardgameversion objectid="91086">Polish edition</boardgameversion>
+                                                  <boardgamepublisher objectid="7466">Rebel</boardgamepublisher>
+                                                         <boardgamepodcastepisode objectid="13163">Season 2: Episode #5 Back at the Franklin!</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+               <boardgameversion objectid="29114">Spanish edition with _T_E_M_P_T_A_G_quot;Construye tu mazmorra_T_E_M_P_T_A_G_quot;</boardgameversion>
+                             <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamepublisher objectid="3888">Stratelibri</boardgamepublisher>
+               <boardgamepodcastepisode objectid="253700">TGT 104 On Topic: Euro, Work, and Why Feedback</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="187711">The Good, The Board and The Whips, Chains, and Hunger Pains: Episode 79 “Punishment in Games”</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="163511">The Good, The Board and the “Short List”: Episode 40 “Joe’s Top Games”</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="156872">The Good, The Board, and the Game That’s Better Than You Say It Is: Episode 29 Underrated Games</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="152654">The Good, The Board, and the Gushy: Episode 11 Vlaada Chvatil</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="152643">Theme! Episode 24</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+               <boardgamepodcastepisode objectid="177270">Top 5 Games You Need To Play More Than Once To Appreciate</boardgamepodcastepisode>
+                             <boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+               <boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="285">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="146" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="18" />
+     <result value="Recommended" numvotes="120" />
+     <result value="Not Recommended" numvotes="87" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="16" />
+     <result value="Recommended" numvotes="165" />
+     <result value="Not Recommended" numvotes="48" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="248" />
+     <result value="Recommended" numvotes="22" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="111" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="80">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="2" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="21" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="52" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="64">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="1" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="2" />
+     <result value="10" numvotes="12" />
+     <result value="12" numvotes="23" />
+     <result value="14" numvotes="23" />
+     <result value="16" numvotes="2" />
+     <result value="18" numvotes="1" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>11904</usersrated>
+     <average>7.42384</average>
+     <bayesaverage>7.22766</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="196" bayesaverage="7.22766" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="144" bayesaverage="7.264" />
+            
+           </ranks>
+     
+     <stddev>1.41533</stddev>
+     <median>0</median>
+     <owned>13126</owned>
+     <trading>441</trading>
+     <wanting>526</wanting>
+     <wishing>2996</wishing>
+     <numcomments>2566</numcomments>
+     <numweights>889</numweights>
+     <averageweight>3.5456</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 23 Oct 2009 20:25:15 +0000</listdate>
+    <saledate>Sat, 24 Oct 2009 16:53:08 +0000</saledate>
+    <price currency='EUR'>44</price>
+    <condition>new</condition>
+    <notes>The game is new and still in shrink. It_T_E_M_P_T_A_G_#039;s the english edition
+Shipping to France : 7 Euros
+Shipping to Europa : 9 Euros
+Shipping to rest of the World : 13 Euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Oct 2009 06:00:52 +0000</listdate>
+    <saledate>Mon, 26 Oct 2009 10:25:51 +0000</saledate>
+    <price currency='EUR'>44.9</price>
+    <condition>new</condition>
+    <notes>mint!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Oct 2009 02:10:21 +0000</listdate>
+    <saledate>Sat, 31 Oct 2009 18:40:23 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+DUNGEON LORDS: $39.95 (pre-order)
+Z-Man Games (2009)
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: DEC 2009
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Oct 2009 21:47:45 +0000</listdate>
+    <saledate>Sun, 01 Nov 2009 18:36:03 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+DUNGEON LORDS: $39.95 (pre-order)
+Z-Man Games (2009)
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: DEC 2009
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Nov 2009 18:14:23 +0000</listdate>
+    <saledate>Sun, 22 Nov 2009 01:05:52 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>PREORDER!  We will ship the day the game is relased!  MSRP is $65 on this, get it for just $39.95 on preorder!
+Buyer to pay via www.paypal.com to maydaygames@gmail.com and add $10.95 shipping.  
+Canada shipping for $24 and Worldwide for $47.00</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Nov 2009 22:26:18 +0000</listdate>
+    <saledate>Tue, 24 Nov 2009 05:29:46 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>PREORDER! We will ship the day the game is relased! MSRP is $65 on this, get it for just $39.95 on preorder!
+Buyer to pay via www.paypal.com to maydaygames@gmail.com and add $10.95 shipping. 
+Canada shipping for $24 and Worldwide for $47.00
+Yes we can combine orders at significant shipping discounts.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2009 14:38:25 +0000</listdate>
+    <saledate>Sun, 29 Nov 2009 00:01:33 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+DUNGEON LORDS: $37.95 (pre-order)
+Z-Man Games (2009)
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: DEC 2009
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Dec 2009 09:46:16 +0000</listdate>
+    <saledate>Thu, 07 Jan 2010 09:19:27 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>likenew</condition>
+    <notes>Excellent Unplayed Condition
+UK Postage 7.50</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Dec 2009 03:21:41 +0000</listdate>
+    <saledate>Sat, 19 Dec 2009 18:57:50 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>Zman edition.  New in shrink.  Purchased at BGG.con.  
+I will ship ASAP so you can get it by Christmas if purchased soon. Shipping by USPS Priority mail is $14. Will consider other shipping options as long as you_T_E_M_P_T_A_G_#039;re willing to pay the cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Dec 2009 04:24:50 +0000</listdate>
+    <saledate>Tue, 29 Dec 2009 20:02:48 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>likenew</condition>
+    <notes>Played once. Components like new and bagged. 
+Buyer pays shipping. Will ship USPS unless other, cheaper option is available. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jan 2010 13:51:15 +0000</listdate>
+    <saledate>Wed, 20 Jan 2010 01:28:48 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+DUNGEON LORDS: $37.95 (pre-order)
+Z-Man Games (2009)
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: JAN 2010
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jan 2010 14:48:39 +0000</listdate>
+    <saledate>Wed, 27 Jan 2010 16:27:03 +0000</saledate>
+    <price currency='GBP'>42.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £7.00  postage to UK.
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a  2.5% discount for purchases over £50 and  5% for purchases over £100. All items (700+ unique games) I list are in stock and will be posted within 24 working hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jan 2010 22:26:49 +0000</listdate>
+    <saledate>Sat, 23 Jan 2010 01:08:20 +0000</saledate>
+    <price currency='USD'>43.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7044)
+Have you ever ventured with party of heroes to conquer dungeons, gain pride, experiences and of course rich treasure? And have it ever occurred to you how hard it actually is to build and manage such underground complex filled with corridors and creatures? No? Well now you can try. Put yourself in role of the master of underground, summon your servants, dig complex of tunnels and rooms, set traps, hire creatures and try to stop filthy heroes from conquering and plundering your precious creation. We can guarantee you will look on dark corners, lairs and their inhabitant from completely different perspective!
+Dungeon Lords is 90 minute long game for 2 to 4 players. It’s a rather complex game enjoyable mostly for experienced gamers.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jan 2010 04:55:01 +0000</listdate>
+    <saledate>Thu, 21 Jan 2010 05:43:12 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $39.95 ...in stock now!  ...no waiting!!!
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jan 2010 06:00:35 +0000</listdate>
+    <saledate>Thu, 21 Jan 2010 15:33:31 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $39.95 ...in stock now! ...no waiting!!!
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jan 2010 22:24:28 +0000</listdate>
+    <saledate>Wed, 03 Feb 2010 22:29:11 +0000</saledate>
+    <price currency='USD'>38.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7044)
+Have you ever ventured with party of heroes to conquer dungeons, gain pride, experiences and of course rich treasure? And have it ever occurred to you how hard it actually is to build and manage such underground complex filled with corridors and creatures? No? Well now you can try. Put yourself in role of the master of underground, summon your servants, dig complex of tunnels and rooms, set traps, hire creatures and try to stop filthy heroes from conquering and plundering your precious creation. We can guarantee you will look on dark corners, lairs and their inhabitant from completely different perspective!
+Dungeon Lords is 90 minute long game for 2 to 4 players. It’s a rather complex game enjoyable mostly for experienced gamers.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Jan 2010 16:04:32 +0000</listdate>
+    <saledate>Tue, 26 Jan 2010 07:09:44 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $37.95 ...in stock now! ...no waiting!!!
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Jan 2010 13:03:17 +0000</listdate>
+    <saledate>Thu, 28 Jan 2010 19:23:26 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $37.95 ...in stock now! ...no waiting!!!
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Jan 2010 22:35:56 +0000</listdate>
+    <saledate>Wed, 10 Feb 2010 18:19:52 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Pre-ordered 2 copies by mistake.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Feb 2010 20:18:50 +0000</listdate>
+    <saledate>Wed, 03 Feb 2010 20:24:51 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $44.95  ...in stock now...no waiting!
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Feb 2010 00:05:48 +0000</listdate>
+    <saledate>Thu, 04 Feb 2010 02:55:55 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Opend _T_E_M_P_T_A_G_amp; punched but never played. I will ship FedEx ($5 for shipping) and provide a tracking number. There is a slight dent in the bottom right corner of the box. Ask any questions if you have them.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Feb 2010 00:39:31 +0000</listdate>
+    <saledate>Sat, 13 Feb 2010 13:32:43 +0000</saledate>
+    <price currency='EUR'>39.99</price>
+    <condition>new</condition>
+    <notes>German version.
+(English version: 57,99 Euro)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Feb 2010 21:26:49 +0000</listdate>
+    <saledate>Tue, 16 Feb 2010 05:04:57 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>Played 3 times. Everything like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Feb 2010 05:05:33 +0000</listdate>
+    <saledate>Tue, 02 Mar 2010 06:10:26 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $37.95 ...in stock now...no waiting!
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Feb 2010 08:54:13 +0000</listdate>
+    <saledate>Sat, 27 Feb 2010 12:18:44 +0000</saledate>
+    <price currency='EUR'>49.9</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Mar 2010 13:05:59 +0000</listdate>
+    <saledate>Fri, 05 Mar 2010 21:58:58 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $37.95 ...in stock now...no waiting!
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Mar 2010 19:03:17 +0000</listdate>
+    <saledate>Wed, 03 Mar 2010 01:08:07 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Mar 2010 02:08:06 +0000</listdate>
+    <saledate>Tue, 09 Mar 2010 19:31:28 +0000</saledate>
+    <price currency='CAD'>35</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Mar 2010 03:53:54 +0000</listdate>
+    <saledate>Thu, 25 Mar 2010 04:55:31 +0000</saledate>
+    <price currency='USD'>102</price>
+    <condition>likenew</condition>
+    <notes>This is for the following items, won by user Kw797979 in my GL auction:
+Dungeon Lords
+Chang Cheng
+Gloria Mundi (new)
+Palatinus (new)
+Roma (new)
+Mini Mythos black Cthulhu figures (new)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Mar 2010 15:07:51 +0000</listdate>
+    <saledate>Fri, 19 Mar 2010 14:03:01 +0000</saledate>
+    <price currency='USD'>40.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7044)
+They meet in a tavern. They quaff a few ales. Before the night is over, the strong warrior, the wily wizard, the committed priest and the sneaky thief form an inseparable party of adventurers, ready to rid the world of evil. And wouldn’t you know it? There just happens to be some evil within easy walking distance. A dark lord has filled a nearby hill with tunnels, traps, treasure, and trolls. And so the next morning (or the next afternoon if too many ales were quaffed) the heroes set out to fight for Right, conquer the dungeon, and punish the wicked lord (by taking all his treasure, of course). It’s a classic scenario, and any veteran dungeon crawler will tell you that’s the way things ought to be.
+But what about that dark lord? Does anyone ever think about his feelings? Those adventurers, who have never done an honest day’s work in their lives, can not begin to imagine how much effort goes into building a respectable dungeon. They have no idea how hard it is to tunnel through granite, how expensive good traps are these days, how difficult it is to find qualified imps, or how
+much food it takes to feed a troll. And the bureaucracy! Dungeons must meet rigid safety specifi cations, gold mining is subject to strict regulations, and taxes are due whenever the Ministry of Dungeons feels like it. And as soon as the dungeon is built, some band of do-gooders comes along and hacks everything up. Life is not easy for a dungeon lord.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Mar 2010 19:27:33 +0000</listdate>
+    <saledate>Tue, 20 Apr 2010 05:27:22 +0000</saledate>
+    <price currency='USD'>40.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7044)
+They meet in a tavern. They quaff a few ales. Before the night is over, the strong warrior, the wily wizard, the committed priest and the sneaky thief form an inseparable party of adventurers, ready to rid the world of evil. And wouldn’t you know it? There just happens to be some evil within easy walking distance. A dark lord has filled a nearby hill with tunnels, traps, treasure, and trolls. And so the next morning (or the next afternoon if too many ales were quaffed) the heroes set out to fight for Right, conquer the dungeon, and punish the wicked lord (by taking all his treasure, of course). It’s a classic scenario, and any veteran dungeon crawler will tell you that’s the way things ought to be.
+But what about that dark lord? Does anyone ever think about his feelings? Those adventurers, who have never done an honest day’s work in their lives, can not begin to imagine how much effort goes into building a respectable dungeon. They have no idea how hard it is to tunnel through granite, how expensive good traps are these days, how difficult it is to find qualified imps, or how
+much food it takes to feed a troll. And the bureaucracy! Dungeons must meet rigid safety specifi cations, gold mining is subject to strict regulations, and taxes are due whenever the Ministry of Dungeons feels like it. And as soon as the dungeon is built, some band of do-gooders comes along and hacks everything up. Life is not easy for a dungeon lord.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Mar 2010 03:19:53 +0000</listdate>
+    <saledate>Wed, 31 Mar 2010 03:46:06 +0000</saledate>
+    <price currency='USD'>40.99</price>
+    <condition>new</condition>
+    <notes>New from the distributor, still in the shrink wrap! Great game. Will ship quickly. Shipping in the US is 9.99 for this game. Get $5 off the total shipping for every game you buy in addition to the first. Send me an email for international shipping. If you don_T_E_M_P_T_A_G_#039;t see a game you want, email me, and I can probably get it in a week or two.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Apr 2010 08:13:20 +0000</listdate>
+    <saledate>Thu, 01 Apr 2010 08:56:19 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Apr 2010 10:46:17 +0000</listdate>
+    <saledate>Sun, 18 Apr 2010 22:13:28 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Postage in the UK £7.00</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Apr 2010 14:35:13 +0000</listdate>
+    <saledate>Mon, 28 Jun 2010 02:42:43 +0000</saledate>
+    <price currency='USD'>40.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7044)
+They meet in a tavern. They quaff a few ales. Before the night is over, the strong warrior, the wily wizard, the committed priest and the sneaky thief form an inseparable party of adventurers, ready to rid the world of evil. And wouldn’t you know it? There just happens to be some evil within easy walking distance. A dark lord has filled a nearby hill with tunnels, traps, treasure, and trolls. And so the next morning (or the next afternoon if too many ales were quaffed) the heroes set out to fight for Right, conquer the dungeon, and punish the wicked lord (by taking all his treasure, of course). It’s a classic scenario, and any veteran dungeon crawler will tell you that’s the way things ought to be.
+But what about that dark lord? Does anyone ever think about his feelings? Those adventurers, who have never done an honest day’s work in their lives, can not begin to imagine how much effort goes into building a respectable dungeon. They have no idea how hard it is to tunnel through granite, how expensive good traps are these days, how difficult it is to find qualified imps, or how
+much food it takes to feed a troll. And the bureaucracy! Dungeons must meet rigid safety specifi cations, gold mining is subject to strict regulations, and taxes are due whenever the Ministry of Dungeons feels like it. And as soon as the dungeon is built, some band of do-gooders comes along and hacks everything up. Life is not easy for a dungeon lord.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 May 2010 18:20:13 +0000</listdate>
+    <saledate>Sun, 25 Sep 2011 22:23:40 +0000</saledate>
+    <price currency='GBP'>29</price>
+    <condition>verygood</condition>
+    <notes>Played once -all lovely components in excellent order
+Box is slightly squashed on one side.
+Not easy to get at this price</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Jun 2010 11:52:53 +0000</listdate>
+    <saledate>Mon, 09 Aug 2010 11:10:10 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>brand new, shrink wrapped, ww shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Jun 2010 03:39:29 +0000</listdate>
+    <saledate>Tue, 13 Jul 2010 17:56:09 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $37.95 ...in stock now...no waiting!
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Jul 2010 01:06:59 +0000</listdate>
+    <saledate>Mon, 23 Aug 2010 06:26:16 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $37.95 ...in stock now...no waiting!
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Jul 2010 02:24:40 +0000</listdate>
+    <saledate>Tue, 10 Aug 2010 19:05:18 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>Punched but unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Aug 2010 15:28:25 +0000</listdate>
+    <saledate>Tue, 17 Aug 2010 01:17:29 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played only a few times. All pieces punched out. Includes a separately-purchased storage box to keep everything organized.
+Buyer will pay actual shipping cost. Probably around $10.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Aug 2010 12:46:41 +0000</listdate>
+    <saledate>Sun, 06 Mar 2011 16:00:35 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $37.95 ...in stock now...no waiting!
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Sep 2010 18:09:08 +0000</listdate>
+    <saledate>Mon, 04 Oct 2010 17:55:24 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Only played 3 times and all components in excellent condition throughout.
+The Minion meeples have been pimped with the minion stickers available on BGG, let me know if you want a photo.
+Postage to UK £7 and payment via Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Sep 2010 06:57:32 +0000</listdate>
+    <saledate>Thu, 02 Sep 2010 08:16:08 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>English edition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Oct 2010 08:14:00 +0000</listdate>
+    <saledate>Tue, 12 Oct 2010 17:11:10 +0000</saledate>
+    <price currency='GBP'>30.99</price>
+    <condition>verygood</condition>
+    <notes>English edition
+Postage to UK is about £7.50
+Can collect from London area, or at Essen this year (although you_T_E_M_P_T_A_G_#039;ll need to complete payment in advance as I_T_E_M_P_T_A_G_#039;m reluctant to bring over boxes in my car that might not be collected !)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Oct 2010 15:04:36 +0000</listdate>
+    <saledate>Sun, 17 Oct 2010 03:45:11 +0000</saledate>
+    <price currency='USD'>39.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7044)
+They meet in a tavern. They quaff a few ales. Before the night is over, the strong warrior, the wily wizard, the committed priest and the sneaky thief form an inseparable party of adventurers, ready to rid the world of evil. And wouldn’t you know it? There just happens to be some evil within easy walking distance. A dark lord has filled a nearby hill with tunnels, traps, treasure, and trolls. And so the next morning (or the next afternoon if too many ales were quaffed) the heroes set out to fight for Right, conquer the dungeon, and punish the wicked lord (by taking all his treasure, of course). It’s a classic scenario, and any veteran dungeon crawler will tell you that’s the way things ought to be.
+But what about that dark lord? Does anyone ever think about his feelings? Those adventurers, who have never done an honest day’s work in their lives, can not begin to imagine how much effort goes into building a respectable dungeon. They have no idea how hard it is to tunnel through granite, how expensive good traps are these days, how difficult it is to find qualified imps, or how much food it takes to feed a troll. And the bureaucracy! Dungeons must meet rigid safety specifi cations, gold mining is subject to strict regulations, and taxes are due whenever the Ministry of Dungeons feels like it. And as soon as the dungeon is built, some band of do-gooders comes along and hacks everything up. Life is not easy for a dungeon lord.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Nov 2010 00:56:45 +0000</listdate>
+    <saledate>Thu, 02 Dec 2010 15:50:26 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>new</condition>
+    <notes>This is for user Jason Valdez (Tinypocket) only, for the ER geeklist auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Jan 2011 20:14:27 +0000</listdate>
+    <saledate>Wed, 16 Nov 2011 15:34:25 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Shipping to USA48: 
+$9.00 UPS Ground with free tracking and insurance
+I will combine shipping to save you money when ordering multiple games.
+Other shipping options are available upon request (Next Day / USPS / FEDEX). Contact for shipping quote.
+Alaska and Hawaii orders are shipped via USPS.
+International orders are shipped via USPS First Class (under 4 pounds) or USPS Priority Mail (up to 70 pounds per box). Contact for shipping quote.
+Orders ship within 1 business day from receipt of payment (5-10 day waiting period on personal checks).
+Ohio residents will be charged 6.5% sales tax.
+Thank-you,
+Mr. B
+ROCKIN’ B GAMES
+www.rockinbgames.com
+mrb.rockinbgames@gmail.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Jan 2011 14:22:43 +0000</listdate>
+    <saledate>Wed, 02 Feb 2011 17:41:52 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>As good as new. Played once.
+Shipping at cost and I will combine, so please check my other offers.
+Payment with paypal or bank transfer (within European Community).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Jan 2011 12:16:39 +0000</listdate>
+    <saledate>Sun, 04 Dec 2011 14:54:40 +0000</saledate>
+    <price currency='GBP'>42.99</price>
+    <condition>new</condition>
+    <notes>UK Shipping only due to weight
+£3.99
+If you wish to purchase more than one item please ask for a combined shipping quote.
+I am based in Gateshead in the North East of England and will happily offer local pickup as an option to avoid having to pay the postage. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Jan 2011 14:41:47 +0000</listdate>
+    <saledate>Sun, 23 Jan 2011 23:51:47 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>Played less than 10 times.  Everything included and in mint condition.  Buyer to pay exact shipping costs.  Please inquire including your zip code so I can check on different shipping options. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Feb 2011 05:12:57 +0000</listdate>
+    <saledate>Mon, 14 Feb 2011 19:45:00 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This game has been played once and is in excellent condition.
+I accept paypal payments only. I ship upon payment.
+This will ship in a flat rate USPS box.  Shipping is $10.50</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Feb 2011 21:39:33 +0000</listdate>
+    <saledate>Thu, 17 Feb 2011 14:22:41 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played a few times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Feb 2011 16:42:52 +0000</listdate>
+    <saledate>Sun, 15 May 2011 19:55:01 +0000</saledate>
+    <price currency='EUR'>29.95</price>
+    <condition>good</condition>
+    <notes>New in shrink-wrap. The box is torn but the game is untouched and complete.
+English language version by Z-Man Games.
+Payment: Paypal or bank transfer
+Shipping:
+To Germany:
+- per letter 1 Euro for single cards (with insurance +1.60 Euro)
+- per envelope up to 1 kilogram 2,50 Euro (with insurance +1.60)
+- per parcel up to 20 kilograms 6 Euro (insurance included)
+International shipping with DHL
+- per letter 1.50 Euro for single cards (with insurance +1.60 Euro)
+- per envelope up to 1 kilogram 7 Euro (with insurance +1.60)
+- per parcel up to 5 kilograms EU 17 Euro (insurance included)
+- per parcel up to 5 kilograms North America 35 Euro (insurance included) other countries on request.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Mar 2011 16:19:29 +0000</listdate>
+    <saledate>Tue, 28 Jun 2011 14:50:57 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $37.95
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Mar 2011 14:56:08 +0000</listdate>
+    <saledate>Sat, 23 Apr 2011 18:00:34 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played half a dozen times.  All components in excellent condition and bagged.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Mar 2011 00:00:59 +0000</listdate>
+    <saledate>Wed, 09 Mar 2011 15:19:35 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Auction purchase reserved for galvornman</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Mar 2011 15:01:10 +0000</listdate>
+    <saledate>Sat, 19 Mar 2011 17:35:53 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR KIXDSKY</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Mar 2011 02:30:52 +0000</listdate>
+    <saledate>Mon, 28 Mar 2011 02:32:23 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Z-man edition in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Apr 2011 02:14:54 +0000</listdate>
+    <saledate>Fri, 01 Apr 2011 02:54:22 +0000</saledate>
+    <price currency='AUD'>25</price>
+    <condition>verygood</condition>
+    <notes>Great condition - played about five times.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Apr 2011 02:46:53 +0000</listdate>
+    <saledate>Tue, 19 Apr 2011 12:23:58 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>For gypsum via BGG auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 May 2011 08:06:16 +0000</listdate>
+    <saledate>Sat, 16 Jul 2011 20:05:16 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>The game is in perfect condiotion except for a small dent on the box (I can provide pictures if you are interested). 
+The shipping to Europe is 15 EUR. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 May 2011 12:09:50 +0000</listdate>
+    <saledate>Mon, 18 Jun 2012 01:52:54 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>New in shrink. Buyer to pay actual shipping from ZIP 53221.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 May 2011 03:36:56 +0000</listdate>
+    <saledate>Thu, 26 May 2011 13:15:26 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>From auction for galderon</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 May 2011 22:06:10 +0000</listdate>
+    <saledate>Thu, 26 May 2011 22:20:10 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>Reserved for Konig.  Sold in a Geeklist auction.  Listed on behalf of TrojanDan.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Jun 2011 19:13:01 +0000</listdate>
+    <saledate>Thu, 14 Jul 2011 08:32:22 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Game in good shape. Punched. Played 5 times.
+Missing-one of the evil meter markers (small yellow block of wood).
+A couple of the adventures tiles had the small surface amount of the paper on the surface of their tile torn on the punching of the game. Very minor. No effect on game play.
+Game + Shipping= $30
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Jun 2011 12:51:20 +0000</listdate>
+    <saledate>Fri, 17 Jun 2011 13:08:49 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>For calebskye ONLY.  Auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Jul 2011 15:05:06 +0000</listdate>
+    <saledate>Thu, 15 Sep 2011 21:17:30 +0000</saledate>
+    <price currency='CAD'>35</price>
+    <condition>likenew</condition>
+    <notes>Roughly 2 playes on game, stored in non smoking household. Game in like new condition.
+Please allow for some time to respond to any questions, as i may be on holidays.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Aug 2011 23:10:40 +0000</listdate>
+    <saledate>Mon, 15 Aug 2011 11:13:36 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Item for sale to user BugLaden ONLY.  BGG Auction purchase.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Aug 2011 18:26:58 +0000</listdate>
+    <saledate>Tue, 30 Aug 2011 14:21:31 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>This is for Darkholmme only.
+Dungeon Lords - $28
+USPS Medium Flat Rate Box Shipping - $10.95
+Please checkout with this item, then PayPal your total of $38.95 to rizkar@yahoo.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Sep 2011 23:55:45 +0000</listdate>
+    <saledate>Wed, 28 Sep 2011 09:33:00 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $37.95
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Oct 2011 13:46:28 +0000</listdate>
+    <saledate>Tue, 03 Jul 2012 16:40:45 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Oct 2011 20:36:46 +0000</listdate>
+    <saledate>Mon, 31 Oct 2011 21:00:22 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>likenew</condition>
+    <notes>for user littlemonkey only</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Nov 2011 13:55:49 +0000</listdate>
+    <saledate>Fri, 27 Apr 2012 19:44:27 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Played a few times, in great condition.
+P_T_E_M_P_T_A_G_amp;P for UK £5</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Nov 2011 19:34:07 +0000</listdate>
+    <saledate>Sun, 11 Dec 2011 00:28:05 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Shipping to USA48: 
+$9.00 UPS Ground with free tracking and insurance</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Nov 2011 13:16:12 +0000</listdate>
+    <saledate>Mon, 13 Jan 2014 15:42:37 +0000</saledate>
+    <price currency='GBP'>39.99</price>
+    <condition>new</condition>
+    <notes>Brand New Shrink Wrapped copy of Dungeon Lords
+Note:
+Assuming the buyer is willing I_T_E_M_P_T_A_G_#039;ll try to complete all paperwork required by the BGG Market Place on the day of purchase and have the item packed and shipped on the next working day.
+Postage within the UK will normally be by courier (3-5 working days) as the item weighs over 2Kg  unless otherwise agreed with a charge of £4.99 for this item. 
+If you want to make multiple purchases contact me and I_T_E_M_P_T_A_G_#039;ll consolidate postage.
+I will ship items to Europe, price to be agreed on request.
+Thanks for looking.
+Barry
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Nov 2011 13:01:22 +0000</listdate>
+    <saledate>Wed, 07 Dec 2011 19:56:50 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Used 4 times.  Box has a tiny crease but doesn_T_E_M_P_T_A_G_#039;t affect anything!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Nov 2011 16:50:42 +0000</listdate>
+    <saledate>Sat, 26 Nov 2011 06:37:28 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>likenew</condition>
+    <notes>FOR USER psm129 ONLY!
+Also includes Cyclades</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Dec 2011 03:43:57 +0000</listdate>
+    <saledate>Tue, 28 May 2013 02:17:44 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Shipping to USA48: 
+$9.00 UPS Ground with free tracking and insurance</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Dec 2011 02:04:12 +0000</listdate>
+    <saledate>Mon, 26 Dec 2011 21:32:18 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>Brand new, unopened, still sealed.  Gotta clear some games out to make room for new ones, so my loss is your gain. Shipping is $8.00. If you purchase more than one game I_T_E_M_P_T_A_G_#039;ll try to consolidate packages to save shipping . Paypal only please. And sorry, I don_T_E_M_P_T_A_G_#039;t sell to buyers outside of the US.
+Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Dec 2011 04:12:20 +0000</listdate>
+    <saledate>Fri, 23 Dec 2011 22:52:53 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>Punched but never played.  Comes with plano boxes inside the box that hold all the pieces.
+Medium Flat Rate Shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Dec 2011 04:18:26 +0000</listdate>
+    <saledate>Sat, 28 Jul 2012 15:48:09 +0000</saledate>
+    <price currency='USD'>38.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $38.95
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Dec 2011 16:42:46 +0000</listdate>
+    <saledate>Mon, 13 Feb 2012 02:09:37 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Never been played (but tokens are punched and bagged).
+Will ship USPS flat rate med</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jan 2012 14:56:51 +0000</listdate>
+    <saledate>Thu, 13 Dec 2012 17:02:33 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>Shrinkwrap removed, but all the internal contents are unpunched or in original packaging.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jan 2012 04:15:55 +0000</listdate>
+    <saledate>Sun, 15 Jan 2012 15:49:37 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink!!!
+Stored w/care in a smoke free home.
+Check out my other listings and save on combined shipping!
+International buyers welcome! Will Ship anywhere in the world!
+*** Item price reflects a built-in 3.9% cash discount. The discount will remain in place for ANY payment methods not involving paypal credit/debit card payments.
+*** Paypal balance/bank acct. transfer payments preferred.
+*** Personal Checks must clear before game ships.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Feb 2012 09:15:22 +0000</listdate>
+    <saledate>Wed, 30 May 2012 05:44:15 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>For BGG user RhodesN7</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Mar 2012 22:44:02 +0000</listdate>
+    <saledate>Thu, 15 Mar 2012 01:23:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Box and components in excellent condition.  Will pay for shipping costs in excess of $12.00 for US deliveries only.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Apr 2012 02:36:24 +0000</listdate>
+    <saledate>Wed, 18 Apr 2012 18:06:19 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>good</condition>
+    <notes>Only for auction winner Ruth B (roooof)!
+Congratulations! Shipping Saturday by Priority Mail!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Apr 2012 21:01:16 +0000</listdate>
+    <saledate>Tue, 01 May 2012 11:12:54 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played a couple of times and did not reasonate with the group.  So making room for more stuff.
+Comes from a smoke free home</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Apr 2012 00:11:40 +0000</listdate>
+    <saledate>Mon, 30 Apr 2012 14:46:00 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>This item is reserved for Dave Tumarkin</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 May 2012 19:02:26 +0000</listdate>
+    <saledate>Mon, 28 May 2012 22:34:12 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>New, in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 May 2012 08:55:40 +0000</listdate>
+    <saledate>Sat, 30 Jun 2012 07:48:44 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Game has been played once. All components present and in as-new condition.
+Please contact me for shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 May 2012 01:12:44 +0000</listdate>
+    <saledate>Thu, 24 May 2012 08:31:06 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 May 2012 13:47:27 +0000</listdate>
+    <saledate>Sun, 10 Jun 2012 11:57:26 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>RESERVED FOR RAVENPOLAR FROM EUROPE AUCTION
+As new condition.
+English language.
+UK Shipping £9
+Free collection from Brighton, UK
+Europe £14
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jun 2012 14:37:49 +0000</listdate>
+    <saledate>Sun, 03 Jun 2012 20:49:16 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>This is a private sale for an auction.  Shipping is priority flat rate medium box and includes delivery confirmation. I will ship within 2 business days of receiving payment. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jun 2012 03:52:04 +0000</listdate>
+    <saledate>Thu, 07 Jun 2012 15:43:20 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner senorcoo</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Jul 2012 18:31:56 +0000</listdate>
+    <saledate>Fri, 20 Jul 2012 04:08:54 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Copy is in VG condition, small dent in top box, and writing on board to indicate where bits go (permanent marker).  GM me with any questions, buyer pays actual shipping, and check out my other items for sale as I will combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jul 2012 04:02:59 +0000</listdate>
+    <saledate>Fri, 13 Jul 2012 04:51:55 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>new</condition>
+    <notes>Reserved for RandomOne</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jul 2012 02:48:24 +0000</listdate>
+    <saledate>Wed, 18 Jul 2012 07:11:22 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>Bob_T_E_M_P_T_A_G_#039;s Lucky 7s Auction July 2012
+reserved for Cacodaemon </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Jul 2012 12:51:52 +0000</listdate>
+    <saledate>Sat, 21 Jul 2012 22:50:12 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Auction Item Reserved for David Millette</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jul 2012 02:39:25 +0000</listdate>
+    <saledate>Mon, 24 Dec 2012 06:01:19 +0000</saledate>
+    <price currency='USD'>38.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $38.95
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Aug 2012 21:36:07 +0000</listdate>
+    <saledate>Sat, 18 Aug 2012 16:40:58 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>new, in shrink
+reserved for Paige W</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Aug 2012 19:40:09 +0000</listdate>
+    <saledate>Sun, 19 Aug 2012 17:03:36 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>likenew</condition>
+    <notes>Like new. Played once alone for testing.
+But i cant find anyone to play it with.
+Hope you have more luck. Game is complete
+Shipping 5 euro for germany. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Aug 2012 22:11:06 +0000</listdate>
+    <saledate>Mon, 04 Feb 2013 09:18:15 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>likenew</condition>
+    <notes>übergabe in wien möglich</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Aug 2012 17:27:05 +0000</listdate>
+    <saledate>Mon, 20 Aug 2012 17:31:14 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>reserved for Joseph Fisher</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Aug 2012 03:27:40 +0000</listdate>
+    <saledate>Wed, 22 Aug 2012 04:51:45 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>reserved for JJ Anderson</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Sep 2012 14:31:48 +0000</listdate>
+    <saledate>Fri, 14 Sep 2012 21:45:51 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Condition: Like new, everything bagged.
+Shipping: $11 via USPS
+Other items: I just listed roughly 30 games on the marketplace so please take a look and I am willing to make deals and combine shipping.
+Paypal address: ckoenig@gmail.com
+Comes from smoke free home</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Nov 2012 06:18:22 +0000</listdate>
+    <saledate>Tue, 15 Jan 2013 03:23:04 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>REDUCED PRICE! 
+Barely played and in perfect condition.  All pieces are sorted and bagged.  Includes the Magic Items Expansion.
+Shipping and handling is $10.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Dec 2012 13:03:46 +0000</listdate>
+    <saledate>Sat, 26 Oct 2013 11:17:01 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>mint, unpunched game in very good condition.
+just removed from shrink wrap
+English Version</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Dec 2012 03:23:50 +0000</listdate>
+    <saledate>Sun, 09 Dec 2012 04:55:12 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>reserved for Noah Longwell</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Feb 2013 05:18:27 +0000</listdate>
+    <saledate>Sat, 09 Feb 2013 07:09:02 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>Reserved for hecubus667 ONLY, per auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Feb 2013 01:34:08 +0000</listdate>
+    <saledate>Tue, 12 Feb 2013 02:25:42 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>For Bast Kitty
+(rlcoon)
+$26
++$16 flat rate priority mail</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Feb 2013 16:25:45 +0000</listdate>
+    <saledate>Sun, 17 Nov 2013 08:18:16 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>In shrink
+English Z-Man
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         15 Euro
+PayPal plus 2 Euro
+Money transfer via IBAN/BIC preferred
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Feb 2013 01:01:25 +0000</listdate>
+    <saledate>Fri, 12 Apr 2013 01:38:31 +0000</saledate>
+    <price currency='AUD'>45</price>
+    <condition>good</condition>
+    <notes>Bank Deposit preferred
+Post by Click and Send(https://www.clickandsend.com.au/), max $16.50 for big box, $12.50 for smaller box.  Combined shipment ok.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Feb 2013 12:21:02 +0000</listdate>
+    <saledate>Fri, 31 May 2013 18:45:03 +0000</saledate>
+    <price currency='EUR'>39.5</price>
+    <condition>new</condition>
+    <notes>2-4 players (Z-Man Games)
+Languages: English</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Feb 2013 14:05:48 +0000</listdate>
+    <saledate>Thu, 28 Feb 2013 14:33:30 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>For Lyellin only!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Mar 2013 22:52:11 +0000</listdate>
+    <saledate>Fri, 29 Mar 2013 08:42:50 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Apr 2013 00:19:37 +0000</listdate>
+    <saledate>Tue, 09 Apr 2013 19:31:37 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes>For william4192 from auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Apr 2013 02:37:51 +0000</listdate>
+    <saledate>Mon, 22 Apr 2013 18:59:43 +0000</saledate>
+    <price currency='USD'>68</price>
+    <condition>verygood</condition>
+    <notes>These items are reserved for Shawna Hodgkins.  Included: Dungeon Lords, RoboRally, Kahuna, Samurai, and Puerto Rico.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Apr 2013 07:26:46 +0000</listdate>
+    <saledate>Mon, 15 Jul 2013 11:38:50 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Open and punched complete copy. The game is missing the interior cardboard tray. Components stored in plastic storage box. Cards have been sleeved in FFG sleeves. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Apr 2013 15:18:36 +0000</listdate>
+    <saledate>Sat, 27 Apr 2013 02:10:51 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>Sold to CrimsonWraith</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Apr 2013 13:25:59 +0000</listdate>
+    <saledate>Sun, 28 Apr 2013 14:50:22 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Reserved for _T_E_M_P_T_A_G_quot;kindraw_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 May 2013 13:29:01 +0000</listdate>
+    <saledate>Mon, 06 May 2013 14:02:24 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>This item is for matty348:
+Dungeon Lords
+Auction of DOOOOM!!!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 May 2013 15:40:13 +0000</listdate>
+    <saledate>Tue, 14 May 2013 15:46:52 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Reserved for user Tiamat.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 May 2013 19:15:47 +0000</listdate>
+    <saledate>Sun, 09 Jun 2013 16:08:06 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>New in shrink
+Ships USPS Priority</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Jun 2013 22:00:23 +0000</listdate>
+    <saledate>Thu, 06 Jun 2013 15:41:47 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>Dungeon Lords: $27
+S_T_E_M_P_T_A_G_amp;H: $14</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Jun 2013 20:15:22 +0000</listdate>
+    <saledate>Wed, 03 Jul 2013 03:01:55 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Z-Man.  Shipping USPS Priority.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Jul 2013 03:41:09 +0000</listdate>
+    <saledate>Thu, 18 Jul 2013 16:52:24 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Includes Dungeon Lords Festival Season
+Reserved for senorcoo</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jul 2013 11:26:23 +0000</listdate>
+    <saledate>Fri, 16 Aug 2013 12:17:46 +0000</saledate>
+    <price currency='GBP'>34</price>
+    <condition>likenew</condition>
+    <notes>Opened but complete and unplayed.
+Will be carefully packed and from a smoke/pet free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Aug 2013 18:15:39 +0000</listdate>
+    <saledate>Thu, 08 Aug 2013 06:15:47 +0000</saledate>
+    <price currency='EUR'>27</price>
+    <condition>verygood</condition>
+    <notes>Geeklist Auction Item reserved for user [b]adixor[/b]</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Aug 2013 17:10:23 +0000</listdate>
+    <saledate>Tue, 10 Sep 2013 00:48:24 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>Size: Medium
+Standard Information listed on all my For Sale Games:
+------------------------------------------------------
+1) Shipping cost is the highest cost of all games purchased + the add on cost of each other game. Promo cards or anything else that fits in a bubble mailer will have a base cost of $5 and and an add on cost of $1, a small game has a base cost of $8 and an add on cost of $2, a medium game has a base cost of $14 and an add on cost of $3 and a large game has a base cost of $20 and add on cost of $4. Anything outside that range will be listed specifically. If you_T_E_M_P_T_A_G_#039;re providing a business address to ship to, take a $1 off the shipping. 
+2) Purchase a $100 or more worth of games and get 5% off your total order.
+3) Purchase $200 or more and get 5% off and free shipping.
+4) If you see any games on my for trade list that aren_T_E_M_P_T_A_G_#039;t up for sale, feel free to ask me to add to the market.
+5) Most conditions are listed as very good, all those items listed as such range from very good to like new. 
+6) Amazon and game store gift cards are usually accepted but please check with me first if that_T_E_M_P_T_A_G_#039;s an option you_T_E_M_P_T_A_G_#039;d like to pursue.
+7) I try to list editions but if an edition isn_T_E_M_P_T_A_G_#039;t listed and it matters to you, please ask! If an item is bought and another edition was expected but you didn_T_E_M_P_T_A_G_#039;t ask, then I_T_E_M_P_T_A_G_#039;m happy to refund but I can_T_E_M_P_T_A_G_#039;t cover either shipping charge.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Aug 2013 05:26:23 +0000</listdate>
+    <saledate>Mon, 12 Aug 2013 10:40:02 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>For doug1020 ONLY.  Auction win including Festival Season.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Aug 2013 02:17:57 +0000</listdate>
+    <saledate>Wed, 14 Aug 2013 14:05:56 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>DO NOT BUY!!! for nickbudz</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Aug 2013 03:33:47 +0000</listdate>
+    <saledate>Tue, 27 Aug 2013 15:00:34 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>new</condition>
+    <notes>Reserved for chicagometh</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Aug 2013 02:04:34 +0000</listdate>
+    <saledate>Thu, 29 Aug 2013 02:09:57 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>***RESERVED FOR USER jamesjacques***
+Dungeon Lords
+Claustrophobia</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Sep 2013 03:09:19 +0000</listdate>
+    <saledate>Thu, 18 Sep 2014 21:01:13 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON LORDS: $39.95
+Z-Man Games [ZMG 7044]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Sep 2013 16:38:28 +0000</listdate>
+    <saledate>Thu, 05 Dec 2013 15:34:23 +0000</saledate>
+    <price currency='GBP'>29.99</price>
+    <condition>likenew</condition>
+    <notes>Z-Man edition.
+Played once.
+Shipping will be at cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Sep 2013 09:33:33 +0000</listdate>
+    <saledate>Sat, 14 Sep 2013 08:47:34 +0000</saledate>
+    <price currency='EUR'>12.5</price>
+    <condition>verygood</condition>
+    <notes>Played a couple of times.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Sep 2013 02:35:48 +0000</listdate>
+    <saledate>Fri, 27 Sep 2013 22:35:10 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Facing Facts auction listing for wightwolf</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Oct 2013 16:46:09 +0000</listdate>
+    <saledate>Tue, 12 Nov 2013 15:25:41 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>All game pieces intact, one single card has very minor wear on it, from previous owner. Accepted forms of payment: Venmo or Square Cash, as they have no fees. Will submit pictures upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Nov 2013 17:57:29 +0000</listdate>
+    <saledate>Wed, 15 Jan 2014 00:42:32 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Box is split on two corners.
+Game is complete and in good shape.
+Questions? Ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Nov 2013 13:04:46 +0000</listdate>
+    <saledate>Sun, 01 Dec 2013 00:49:03 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>new</condition>
+    <notes>NEW IN SHRINK.  $10 SHIPPING USA.  PAYPAL, CHECKS, MO.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Nov 2013 03:48:02 +0000</listdate>
+    <saledate>Sat, 09 Nov 2013 22:55:43 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>For user k3b1n ONLY
+For delivery at BGG.con 2013
+For Cash on Delivery
+Dungeon Lords
+Good Condition. Played Numerous Times.
+Box Lid shows definite compression. One box top spine beginning to split.
+Missing (1) Gold Token
+Have (1) Extra Troll Token
+NEW PRICE!
+$25 SOLD TO k3b1n!
+Note: I will deliver at arranged time on Thursday or Saturday
+I will also ship the game at the buyer_T_E_M_P_T_A_G_#039;s expense for the actual shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Nov 2013 02:41:32 +0000</listdate>
+    <saledate>Wed, 13 Nov 2013 15:56:37 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>Lobster Trap sale reserved for:
+Mike Cross
+(mcross)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Nov 2013 13:11:19 +0000</listdate>
+    <saledate>Fri, 13 Dec 2013 00:00:21 +0000</saledate>
+    <price currency='GBP'>23</price>
+    <condition>verygood</condition>
+    <notes>I will only ship to UK addresses. Shipping £5.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Dec 2013 22:29:08 +0000</listdate>
+    <saledate>Wed, 15 Jan 2014 13:32:17 +0000</saledate>
+    <price currency='USD'>40.26</price>
+    <condition>new</condition>
+    <notes>Description: 
+Have you ever ventured with party of heroes to conquer dungeons, gain pride, experiences and of course rich treasure? And have it ever occurred to you how hard it actually is to build and manage such underground complex filled with corridors and creatures? No? Well now you can try. 
+Put yourself in role of the master of underground, summon your servants, dig complex of tunnels and rooms, set traps, hire creatures and try to stop filthy heroes from conquering and plundering your precious creation. We can guarantee you will look on dark corners, lairs and their inhabitant from completely different perspective!
+Components:
+Central Board
+Progress Board (with a Building side and a Combat side)
+Distant Lands Board
+4 two-sided Dungeon Boards (in 4 colors)
+32 Orders Cards (8 in each color)
+8 Overview Cards (2 in each color)
+18 Combat Cards
+27 Trap Cards
+9 Special Event Cards
+24 Monster (or Ghost) Tiles
+16 Room Tiles
+32 Adventurer Tiles
+2 Paladin Tiles
+3 Event Tiles
+42 Tunnel Tiles
+3 Troll Tokens
+20 Item Tiles
+12 Minion Figures (3 in each color)
+4 Evil Counters (1 in each color)
+Starting Player Token
+Progress Marker
+about 40 Imp Figures
+about 30 Food Tokens
+about 30 Gold Tokens
+about 40 Damage Counters
+rulebook
+**************************** 
+Our Philosophy:
+We are not satisfied unless you are satisfied! It_T_E_M_P_T_A_G_#039;s that simple. In business for over 5 years, we understand the most critical aspects of ecommerce. Deliver good value, keep you posted on that status of your order and be available for help should the need arise. 
+Description: 
+All games are new and still in factory shrink-wrap. 
+How to place an Order?
+Via the BoardGameGeek “shopping cart”
+Note: If this is your first purchase on BoardGameGeek, Go to http://boardgamegeek.com/wiki/page/Marketplace_Buyer_Guide for more information.  
+Payment:
+Payment via PayPal “Griffin@GriffinsToyChest.com” (PayPal Verified) 
+Shipping:
+Griffin’s Toy Chest ships via USPS (2-3 day service) or Fed-Ex Ground (2-5 business days) to anywhere within the United States. You will receive a price quote for each shipping option and you choose which of these two shipping option best fits your needs. All shipments are made within 2-3 days of receiving your cleared PayPal payment.  
+Note: feel free to combine items to reduce shipping cost.  
+Returns:
+Our return policy mirrors our philosophy; we are not satisfied unless you are satisfied! You may return any unopened item within 30 days of delivery for a full refund of the purchase price less shipping costs. Simply contact us to make return arrangements.
+Note: if an item is damaged in transit, an item exchange will be made at no additional cost to the buyer.  Note that we take special pains to package all of your items properly but in the event of the unforeseen, we have you covered!
+ 
+Contact: 
+Please contact us via email: Griffin@GriffinsToyChest.com: phone (M-F 9 AM -6PM EST) 1-888-228-3716; or mail: Griffins Toy Chest, P.O. Box 13731, Fairlawn, OH 44313
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Jan 2014 17:50:11 +0000</listdate>
+    <saledate>Tue, 07 Jan 2014 17:53:32 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>+ sticker sheet promo (applied)
++RC beast promo
+reserved for patches409</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jan 2014 15:55:35 +0000</listdate>
+    <saledate>Tue, 11 Feb 2014 03:47:50 +0000</saledate>
+    <price currency='CAD'>35</price>
+    <condition>likenew</condition>
+    <notes>Game is 100% complete. All game components are in great shape and the game board is bright and clean with no flaws. The box is solid and straight with bright graphics.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jan 2014 20:55:47 +0000</listdate>
+    <saledate>Wed, 22 Jan 2014 01:13:02 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Opened, unpunched counters.  There_T_E_M_P_T_A_G_#039;s some fraying on one corner of the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Jan 2014 22:57:01 +0000</listdate>
+    <saledate>Wed, 29 Jan 2014 23:24:33 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>This was purchased through _T_E_M_P_T_A_G_quot;First Auction of 2014_T_E_M_P_T_A_G_quot; by Sean F (cunning stunt) on 1/26/14...</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Feb 2014 00:35:48 +0000</listdate>
+    <saledate>Tue, 04 Feb 2014 01:07:09 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>new</condition>
+    <notes>reserved for Sam Carrol (spartax)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Feb 2014 03:03:56 +0000</listdate>
+    <saledate>Mon, 10 Feb 2014 15:26:52 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>This was received in trade, and I was unhappy with the condition it was in (it_T_E_M_P_T_A_G_#039;s NOT in bad shape, but it has obviously been played -- it was misrepresented to me in the trade). 
+This is why the price is inexpensive compared to other listings. With that said, it_T_E_M_P_T_A_G_#039;s NOT really that bad... but it_T_E_M_P_T_A_G_#039;s not up to my standards or to the standards of many with whom I trade here on BGG.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Mar 2014 03:43:23 +0000</listdate>
+    <saledate>Mon, 17 Mar 2014 12:37:30 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>good</condition>
+    <notes>reserved for bjmviixii</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Apr 2014 03:39:21 +0000</listdate>
+    <saledate>Tue, 15 Apr 2014 20:31:49 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Unplayed and unpunched, although no longer in shrink.  Box shows signs of minor shelf wear.
+If you care, I actually won this game through an auction from Matt Riddle, one of the designers of Fleet!
+Game will ship in a flat-rate box from USPS, or priority if cheaper (I_T_E_M_P_T_A_G_#039;ll refund the difference).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 May 2014 05:24:05 +0000</listdate>
+    <saledate>Sat, 03 May 2014 06:26:39 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/172087/item/3167720#3167720]Item for Geeklist _T_E_M_P_T_A_G_quot;Board Game Purge!  No reserves or minimums!  Great deals and discounts! _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 May 2014 18:03:46 +0000</listdate>
+    <saledate>Tue, 06 May 2014 19:01:23 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/173205/item/3207209#3207209]Item for Geeklist _T_E_M_P_T_A_G_quot;Joe_T_E_M_P_T_A_G_#039;s Clean-Up Action - all games with Buy It Now - and Buy It Later!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 May 2014 23:14:00 +0000</listdate>
+    <saledate>Sat, 31 May 2014 15:14:12 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/173971/item/3241042#3241042]Item for Geeklist _T_E_M_P_T_A_G_quot;My First Auction-need money and shelf space. US ONLY from 77447. ENDS 5/30_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. HOLD FOR DENIS MADDALENA
+combine with Small World- Small World Be Not Afraid Tray will be in Dungeon Lords box for space.
+Paypal grahamgs@gmail.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jun 2014 21:04:22 +0000</listdate>
+    <saledate>Sat, 21 Jun 2014 00:02:37 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>English edition from Czech Games Edition and Z-Man Games.
+The box has suffered a little, everything else is in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jun 2014 19:23:28 +0000</listdate>
+    <saledate>Sun, 15 Jun 2014 02:42:16 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played a few times. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jun 2014 15:17:58 +0000</listdate>
+    <saledate>Sun, 29 Jun 2014 19:44:19 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/169904/item/3289304#3289304]Item for Geeklist _T_E_M_P_T_A_G_quot;Portland Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+BGG bug caused all orders to get purged, so I had to start over.  Please place order for this item.  Thanks</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jul 2014 00:50:10 +0000</listdate>
+    <saledate>Fri, 11 Jul 2014 01:10:10 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner BOBNABOB
+ALSO IN THIS LISTING ARE THE GAMES STRONGHOLD AND GROUND FLOOR, FROM THE SAME AUCTION
+This sale has been auto-generated for the auction: [geekurl=/geeklist/175713/item/3311636#3311636]Item for Geeklist _T_E_M_P_T_A_G_quot;xxbriguyxx_T_E_M_P_T_A_G_#039;s 23rd _T_E_M_P_T_A_G_quot;Time to cull my game collection_T_E_M_P_T_A_G_quot; GREAT DEALS CAN BE FOUND HERE! AUCTION ENDS JUNE 12TH!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Jul 2014 20:21:29 +0000</listdate>
+    <saledate>Tue, 30 Sep 2014 17:19:48 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>punched/sorted/bagged
+played a small handful of times.  
+US buyer agrees to pay for USPS shipping with delivery confirmation.
+Please geekmail me with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Jul 2014 15:55:29 +0000</listdate>
+    <saledate>Thu, 17 Jul 2014 16:35:51 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Item only for user cdscholl - all other transactions will be canceled.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Aug 2014 04:24:26 +0000</listdate>
+    <saledate>Tue, 12 Aug 2014 14:10:03 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/176842/item/3344712#3344712]Item for Geeklist _T_E_M_P_T_A_G_quot;Pre-Gen Con 2014 Auction (US Only) [Closed]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Aug 2014 10:10:36 +0000</listdate>
+    <saledate>Sat, 27 Sep 2014 20:45:07 +0000</saledate>
+    <price currency='EUR'>34.5</price>
+    <condition>new</condition>
+    <notes>2-4 players (Czech Games Edition)
+Language: English</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Sep 2014 15:45:33 +0000</listdate>
+    <saledate>Wed, 03 Sep 2014 14:21:16 +0000</saledate>
+    <price currency='USD'>28.5</price>
+    <condition>likenew</condition>
+    <notes>Received as like-new in a math trade, solo_T_E_M_P_T_A_G_#039;d it once, but never got it to the table again :(.  Components in perfect shape, bagged, and essentially no box wear either.
+Buyer to pay exact shipping costs +$0.50 for materials, even internationally.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Sep 2014 07:47:52 +0000</listdate>
+    <saledate>Wed, 03 Sep 2014 09:44:20 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Sep 2014 02:03:17 +0000</listdate>
+    <saledate>Thu, 04 Sep 2014 15:29:16 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/178243/item/3399555#3399555]Item for Geeklist _T_E_M_P_T_A_G_quot;Labor Day?!  more like..._T_E_M_P_T_A_G_quot;Le Board(game) Day_T_E_M_P_T_A_G_quot;...uh...Small Game Auction!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+***NOTE: This listing is for Dungeon Lords and Winter Tales
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Sep 2014 17:32:35 +0000</listdate>
+    <saledate>Mon, 15 Sep 2014 21:25:18 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>For Jason Teague (teaguejb) ONLY.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/172060/item/3403232#3403232]Item for Geeklist _T_E_M_P_T_A_G_quot;[US] Auction - Enter Name Here_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Sep 2014 14:15:21 +0000</listdate>
+    <saledate>Sun, 21 Sep 2014 20:26:00 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This item was won in auction. Please do not purchase unless you are user  Evan Keller (etk007).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Sep 2014 00:14:41 +0000</listdate>
+    <saledate>Tue, 30 Sep 2014 01:39:30 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>verygood</condition>
+    <notes>Includes Dungeon Lords: Festival Season.
+Reserved for auction winner mantra6</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Oct 2014 14:32:32 +0000</listdate>
+    <saledate>Wed, 08 Oct 2014 15:02:02 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/178671/item/3458947#3458947]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2014_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Oct 2014 02:44:50 +0000</listdate>
+    <saledate>Thu, 09 Oct 2014 04:13:42 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played once, excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Oct 2014 18:49:43 +0000</listdate>
+    <saledate>Sat, 01 Nov 2014 06:22:02 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/180938/item/3515009#3515009]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction! - Keythedral, Steam Donkey, King_T_E_M_P_T_A_G_#039;s Forge, Wyatt Earp, and more! - BGG.CON delivery available [US Only]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Oct 2014 21:24:10 +0000</listdate>
+    <saledate>Mon, 03 Nov 2014 06:25:27 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>good</condition>
+    <notes>played 3 times</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Oct 2014 15:25:40 +0000</listdate>
+    <saledate>Thu, 06 Nov 2014 21:06:48 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>English edition Z-Man Games - shrink wrap removed - unpunched and unplayed - includes minion stickers (not yet applied)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Jul 2014 16:28:27 +0000</listdate>
+    <saledate>Fri, 07 Nov 2014 01:47:00 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Dungeon Lords. All components present and correct. Slight wear to inner box sleeve.
+Free P_T_E_M_P_T_A_G_amp;P for orders to the UK.
+Please contact me for accurate quote to orders outside of the UK.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Dec 2014 01:08:42 +0000</listdate>
+    <saledate>Mon, 08 Dec 2014 04:13:49 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>For Jitterdoug</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Nov 2014 21:31:10 +0000</listdate>
+    <saledate>Mon, 08 Dec 2014 22:08:45 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Expansion Festival is included, but not its box.
+Condition: Complete game (no missing pieces). All components in great condition. Rules have handwritten clarifications on them.
+Shipping _T_E_M_P_T_A_G_amp; Handling: Please, send me an e-mail and I will let you know about the cost.
+Payment: PayPal ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Dec 2014 18:41:33 +0000</listdate>
+    <saledate>Wed, 17 Dec 2014 20:14:51 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>new in shrink, fast ship.  TY  shipping $ 12.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Oct 2014 15:44:12 +0000</listdate>
+    <saledate>Wed, 31 Dec 2014 02:22:10 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>verygood</condition>
+    <notes>In very good condition and everything present. There is a small amount of shelf ware and a small number of the tokens have a small amount of image tare which happened when removing them from the cardboard sprue. None of this major or distracting, but should be pointed out.
+Shipping is UK only and is free if collected, £4.78 via My Hermes tracked.
+Will accept payment via bank transfer or Paypal.
+Any questions please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Jan 2015 05:58:15 +0000</listdate>
+    <saledate>Tue, 06 Jan 2015 06:39:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/146056/item/3649826#3649826]Item for Geeklist _T_E_M_P_T_A_G_quot;Portland, OR Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Jan 2015 14:57:42 +0000</listdate>
+    <saledate>Mon, 26 Jan 2015 18:07:06 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Reserved for Jeffrey Day</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Jan 2015 14:43:59 +0000</listdate>
+    <saledate>Sat, 31 Jan 2015 03:20:53 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Has been played 2 or 3 times.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Feb 2015 19:02:14 +0000</listdate>
+    <saledate>Thu, 05 Feb 2015 01:23:42 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/186383/item/3703568#3703568]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction - BINs To Come - Ends 2/3/15 - Worldwide Shipping -  Local Pickup 94122_T_E_M_P_T_A_G_quot; [/geekurl]
+Dungeon Lords Stickers
+Only for Auction Winner - Mike M (SirWashington)
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Feb 2015 23:06:56 +0000</listdate>
+    <saledate>Sun, 08 Feb 2015 06:47:06 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/184720/item/3657652#3657652]Item for Geeklist _T_E_M_P_T_A_G_quot;Post Holiday Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+reserved for user satorisnow (I LIKE Games)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Mar 2015 03:27:03 +0000</listdate>
+    <saledate>Mon, 02 Mar 2015 04:15:10 +0000</saledate>
+    <price currency='USD'>98</price>
+    <condition>new</condition>
+    <notes>Also includes Arctic Scavengers and CO2!
+This sale has been auto-generated for the auction: [geekurl=/geeklist/187815/item/3755435#3755435]Item for Geeklist _T_E_M_P_T_A_G_quot;More good ones to let go of - Ends Sunday March 1st - Local Pickup is Cool _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Also includes Arctic Scavengers and CO2!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Feb 2015 06:03:24 +0000</listdate>
+    <saledate>Tue, 10 Mar 2015 14:23:16 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187494/item/3744937#3744937]Item for Geeklist _T_E_M_P_T_A_G_quot;US Only - Moving/Shelf Clearing Auction - Ends 2/27 _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Mar 2015 23:12:02 +0000</listdate>
+    <saledate>Wed, 18 Mar 2015 01:35:48 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This offer includes the base game, the Festival Season expansion, and the following stretch goals from the Happy Anniversary kickstarter (note that the game itself is the original 2009 edition): wooden adventurer_T_E_M_P_T_A_G_#039;s marker, 2 sided cardboard scoring sheet, wooden courage tokens for the bard and larger food tokens, glass cubes, bonus trap, event, and spell cards, troll tokens, additional progress board with festival season on one side and all variants on the other, bonus pet cards, hand drawn comic book (short, just a few pages), minions bearing gifts rulebook, dungeon set-up mini expansion, gold coins, and food stickers.  All of this is currently housed in the base game original box, but I still do have the festival season box if desired.  The base game box does have some shelf wear and the rulebooks have obviously been read and referenced multiple times.  One festival season dungeon board extension is slightly frayed (but still in tact and useable).  All other contents are in excellent condition and the game has been confirmed complete.  Free shipping when you buy any three games from me.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Mar 2015 18:25:17 +0000</listdate>
+    <saledate>Sun, 22 Mar 2015 16:43:52 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>All parts and pieces are included. No damage or wear; in near mint condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Apr 2015 19:37:37 +0000</listdate>
+    <saledate>Thu, 09 Apr 2015 20:33:10 +0000</saledate>
+    <price currency='GBP'>19</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/189570/item/3825487#3825487]Item for Geeklist _T_E_M_P_T_A_G_quot;[UK/Europe] THIRD AUCTION - towards my 2015 Challenge: Ends 9 April_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Apr 2015 13:38:09 +0000</listdate>
+    <saledate>Tue, 21 Apr 2015 15:49:22 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/189750/item/3833037#3833037]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED!!! - Cleaning the Clutter Auction part 2 - US Only - Ends 4/20/15_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Apr 2015 18:03:56 +0000</listdate>
+    <saledate>Mon, 01 Jun 2015 02:15:24 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This item includes the Base Game, Festival Season and the Happy Anniversary Upgrades from the Kickstarter campaign for the complete Dungeon Lords Experience - all contained in the Dungeon Lords base game box.
+This item includes the expansion pack shown here (https://boardgamegeek.com/boardgameexpansion/162529/dungeon-...), 30 metal coins, food stickers, dungeon setup cards, rulebook for the _T_E_M_P_T_A_G_quot;Dungeon Setup_T_E_M_P_T_A_G_quot; and _T_E_M_P_T_A_G_quot;Minions Bearing Gifts_T_E_M_P_T_A_G_quot; mini-expansions) and all unlocked stretch goals marked with a smile. See Kickstarter Page for all the details (https://www.kickstarter.com/projects/532062403/dungeon-lords...). Geekmail with any questions about included components.
+The box cover has a good bit of edge/shelf wear but is structurally sound.
+The core game rulebook has some wear and wrinkles, but is intact and perfectly usable.
+The game components are in great shape. All cards were sleeved during use - they have been removed for the purpose of selling.
+The Minion meeples have homemade stickers affixed to them, but I have also included the official Minion stickers as well if you want to change them.
+Don_T_E_M_P_T_A_G_#039;t miss out on this great deal! B-)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jun 2015 14:07:10 +0000</listdate>
+    <saledate>Sat, 06 Jun 2015 15:08:18 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>For auction winner chiefsachem only</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Jul 2015 07:15:10 +0000</listdate>
+    <saledate>Tue, 07 Jul 2015 08:42:05 +0000</saledate>
+    <price currency='AUD'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jul 2015 22:55:55 +0000</listdate>
+    <saledate>Thu, 23 Jul 2015 00:52:06 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193360/item/4016954#4016954]Item for Geeklist _T_E_M_P_T_A_G_quot;Gen Con Virtual Flea Market 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jun 2015 20:18:35 +0000</listdate>
+    <saledate>Thu, 30 Jul 2015 18:03:59 +0000</saledate>
+    <price currency='USD'>23.99</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Jul 2015 01:52:01 +0000</listdate>
+    <saledate>Mon, 03 Aug 2015 17:36:02 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Aug 2015 01:45:33 +0000</listdate>
+    <saledate>Mon, 17 Aug 2015 15:44:31 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays for shipping, or free local pickup in Chicago</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Aug 2015 01:41:47 +0000</listdate>
+    <saledate>Wed, 19 Aug 2015 01:42:59 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194235/item/4038249#4038249]Item for Geeklist _T_E_M_P_T_A_G_quot;My wallet told me not to go to GenCon and if I do don_T_E_M_P_T_A_G_#039;t buy a bunch of games.  Did I listen????  Noooooooooooo_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Aug 2015 01:43:01 +0000</listdate>
+    <saledate>Sat, 22 Aug 2015 07:12:53 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Reserved for New Troll (Martin Moss)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jul 2015 04:04:18 +0000</listdate>
+    <saledate>Mon, 24 Aug 2015 15:33:48 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>Like new condition and played only once. Shipping will be $13.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Sep 2015 16:39:39 +0000</listdate>
+    <saledate>Fri, 04 Sep 2015 21:54:31 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194447/item/4034191#4034191]Item for Geeklist _T_E_M_P_T_A_G_quot;5 games, 5 days, $5 reserve_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Aug 2015 21:19:42 +0000</listdate>
+    <saledate>Mon, 14 Sep 2015 14:40:48 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Reserved for BGG user Kris Opat (bodyelectric) via auction win</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Sep 2015 15:55:04 +0000</listdate>
+    <saledate>Mon, 05 Oct 2015 01:14:16 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Condition: Very Good. 
+Edition: English Edition
+Has all game content from the Dungeon Lords: Happy Anniversary + the KS exclusives from the Anniversary (received via Imp Friends Level)
+Dungeon Lords: Festival Season
+Dungeon Lords: Minions Bearing Gifts
+Dungeon Lords: Kickstarter Expansion Pack
+includes two custom created Artscow storage bags
+Year 1 Bag -http://www.artscow.com/Create/AjaxDesign.aspx?DesignId=148055954
+Year 2 Bag -http://www.artscow.com/Create/AjaxDesign.aspx?DesignId=148073580
+Comes in base + expansion box, both box have shelf ware. The expansion box has a corner ripped. Can share pictures if needed.
+I prefer Amazon GC but can accept Paypal if needed.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Sep 2015 01:38:04 +0000</listdate>
+    <saledate>Fri, 09 Oct 2015 07:23:12 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Z-Man Games Dungeon Lords. The game was opened and verified complete, but it is new otherwise. Shipping in the US only via USPS. Default is a flat rate box for $11.30, but I will ship the cheapest way possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Sep 2015 22:16:11 +0000</listdate>
+    <saledate>Tue, 13 Oct 2015 18:49:39 +0000</saledate>
+    <price currency='EUR'>37.5</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Mar 2015 06:38:28 +0000</listdate>
+    <saledate>Sun, 01 Nov 2015 19:12:00 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>likenew</condition>
+    <notes>Includes Festival Season expansion (in base game box). No insert in box.
+Played about 10 times, tiny bit of wear on cards, hand-made stickers on Minion wooden pieces. Well cared for.
+Domestic shipping is $12.35. International likely $40-$60, please ask before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Oct 2015 20:42:18 +0000</listdate>
+    <saledate>Wed, 04 Nov 2015 10:37:05 +0000</saledate>
+    <price currency='EUR'>37.5</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Nov 2015 07:00:40 +0000</listdate>
+    <saledate>Sun, 15 Nov 2015 05:38:43 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>Played once while sleeved, sleeves not included  
+Auction win for hobowire only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Nov 2015 02:45:28 +0000</listdate>
+    <saledate>Fri, 11 Dec 2015 14:11:07 +0000</saledate>
+    <price currency='CAD'>28</price>
+    <condition>likenew</condition>
+    <notes>French/Français
+moderate in-game text
+Iello, 1st edition (2009)
+This box includes the 20 tiles of the Minions Bearing Gifts add-on (rules are free online).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jan 2016 04:23:21 +0000</listdate>
+    <saledate>Mon, 11 Jan 2016 05:03:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>for user cornjob ONLY
+paypal: keuschbr@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jan 2016 03:54:29 +0000</listdate>
+    <saledate>Fri, 22 Jan 2016 05:02:04 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/200312/item/4356578#4356578]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction - US - Ends 1/25_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Jan 2015 21:37:12 +0000</listdate>
+    <saledate>Wed, 27 Jan 2016 10:57:59 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Feb 2016 02:44:14 +0000</listdate>
+    <saledate>Tue, 09 Feb 2016 03:11:23 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/204549/item/4427222#4427222]Item for Geeklist _T_E_M_P_T_A_G_quot;My new home is overrun with unplayed games! Large U.S. only auction, ends 2/8/2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Mar 2016 03:57:33 +0000</listdate>
+    <saledate>Sat, 05 Mar 2016 04:00:56 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>verygood</condition>
+    <notes>Held for User Braden Green.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Mar 2016 14:09:30 +0000</listdate>
+    <saledate>Sat, 19 Mar 2016 22:05:07 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/206615/item/4526152#4526152]Item for Geeklist _T_E_M_P_T_A_G_quot;2 day Flash Auction - ends 3/19 - US shipping, Atlanta GA local pickup - need to raise cash with new child on the way_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Mar 2016 12:51:04 +0000</listdate>
+    <saledate>Sun, 20 Mar 2016 06:51:08 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187276/item/4481782#4481782]Item for Geeklist _T_E_M_P_T_A_G_quot;*** 24 Hours Remain!! ***     Culling a Collection - Over 100 games!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.  Reserved for stalkingbutler
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Mar 2016 17:56:03 +0000</listdate>
+    <saledate>Thu, 24 Mar 2016 23:03:50 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>good</condition>
+    <notes>Reserved for mmmgoodwin.
+Won at auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Apr 2016 14:15:57 +0000</listdate>
+    <saledate>Fri, 15 Apr 2016 12:16:12 +0000</saledate>
+    <price currency='EUR'>33.5</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Apr 2016 12:20:34 +0000</listdate>
+    <saledate>Tue, 19 Apr 2016 20:05:43 +0000</saledate>
+    <price currency='EUR'>33.5</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 May 2016 22:47:43 +0000</listdate>
+    <saledate>Tue, 03 May 2016 15:44:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Dec 2015 15:21:52 +0000</listdate>
+    <saledate>Mon, 09 May 2016 16:31:07 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Shipping ONLY to Spain (preferably with Kiala)
+SÓLO envío a España (preferiblemente con Kiala)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Nov 2014 02:10:52 +0000</listdate>
+    <saledate>Thu, 12 May 2016 16:34:24 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Played 2-3 times. Includes NIS Festival Season expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jun 2016 13:32:44 +0000</listdate>
+    <saledate>Mon, 13 Jun 2016 13:57:37 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/209789/item/4669424#4669424]Item for Geeklist _T_E_M_P_T_A_G_quot;My Son is Leaving for College Sale_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jun 2016 01:09:04 +0000</listdate>
+    <saledate>Tue, 14 Jun 2016 01:31:26 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/200121/item/4619207#4619207]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction - Clearing out more unplayed games (or games that have fallen out of favor:))_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+reserved for user doralfl
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jul 2016 15:22:49 +0000</listdate>
+    <saledate>Mon, 18 Jul 2016 22:22:03 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/210595/item/4707071#4707071]Item for Geeklist _T_E_M_P_T_A_G_quot;How did this pile get so large? - An Auction - Ends 7/17_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Aug 2016 16:26:38 +0000</listdate>
+    <saledate>Fri, 12 Aug 2016 21:08:45 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205795/item/4679273#4679273]Item for Geeklist _T_E_M_P_T_A_G_quot;Clearing the Closet Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Aug 2016 13:32:21 +0000</listdate>
+    <saledate>Mon, 15 Aug 2016 12:44:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/212198/item/4782516#4782516]Item for Geeklist _T_E_M_P_T_A_G_quot;Whittling Down the Collection Auction --- Ends 8/13_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 May 2016 03:39:14 +0000</listdate>
+    <saledate>Mon, 22 Aug 2016 17:51:28 +0000</saledate>
+    <price currency='CAD'>35</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Aug 2016 17:07:21 +0000</listdate>
+    <saledate>Wed, 31 Aug 2016 16:29:10 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/213074/item/4820438#4820438]Item for Geeklist _T_E_M_P_T_A_G_quot;Summer Cleaning 2016 Auction ends on 8/27, Shipping from  Los Angeles_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Sep 2016 02:54:00 +0000</listdate>
+    <saledate>Fri, 02 Sep 2016 18:33:50 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Oct 2016 02:02:57 +0000</listdate>
+    <saledate>Tue, 18 Oct 2016 15:30:20 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Reserved for Ted Webster
+https://boardgamegeek.com/geeklist/215132/</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Oct 2016 16:42:08 +0000</listdate>
+    <saledate>Thu, 20 Oct 2016 23:17:17 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for S K. Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Let_T_E_M_P_T_A_G_#039;s arrange our exchange - Thanks!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Oct 2016 13:51:23 +0000</listdate>
+    <saledate>Mon, 24 Oct 2016 18:28:46 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Oct 2016 16:21:43 +0000</listdate>
+    <saledate>Sun, 30 Oct 2016 04:48:18 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/4981499#4981499]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2016 22:16:12 +0000</listdate>
+    <saledate>Sat, 05 Nov 2016 04:47:22 +0000</saledate>
+    <price currency='USD'>27.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Nov 2016 02:17:31 +0000</listdate>
+    <saledate>Mon, 07 Nov 2016 03:32:44 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/216376/item/4994675#4994675]Item for Geeklist _T_E_M_P_T_A_G_quot;Clearing Space Auction US Shipping_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Nov 2016 12:49:10 +0000</listdate>
+    <saledate>Wed, 09 Nov 2016 17:58:37 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/5012029#5012029]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Nov 2016 11:04:46 +0000</listdate>
+    <saledate>Thu, 17 Nov 2016 17:13:35 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/216036/item/5022578#5022578]Item for Geeklist _T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_quot;Paying Off The Debt_T_E_M_P_T_A_G_quot; Auction - Ends Wednesday 11/16 Evening EST_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Oct 2016 13:51:38 +0000</listdate>
+    <saledate>Fri, 18 Nov 2016 22:32:51 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Only played a couple of times. All components sorted and bagged.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Sep 2016 14:16:06 +0000</listdate>
+    <saledate>Tue, 27 Dec 2016 15:48:53 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Cards are sleeved. Game has been played a handful of times.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jan 2017 02:10:44 +0000</listdate>
+    <saledate>Mon, 23 Jan 2017 03:42:49 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220459/item/5146620#5146620]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction-Boardgame/Wargame_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Sep 2016 21:24:10 +0000</listdate>
+    <saledate>Sun, 29 Jan 2017 04:06:41 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played a few times, great condition. All pieces accounted for.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Mar 2017 05:26:13 +0000</listdate>
+    <saledate>Wed, 01 Mar 2017 05:26:39 +0000</saledate>
+    <price currency='USD'>67</price>
+    <condition>likenew</condition>
+    <notes>For SaltCon math trade commissions purposes.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Mar 2017 15:37:56 +0000</listdate>
+    <saledate>Mon, 13 Mar 2017 22:00:52 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>Auction win for potter1919.  Please do not purchase unless you are that user.  Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Mar 2017 01:39:06 +0000</listdate>
+    <saledate>Tue, 14 Mar 2017 23:37:30 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Shipping from 21046. Will ship cheapest option for USPS.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Aug 2016 16:58:15 +0000</listdate>
+    <saledate>Thu, 16 Mar 2017 00:33:07 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>it appears to be brand new (shrink opened). unpunched</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Mar 2017 04:10:41 +0000</listdate>
+    <saledate>Sat, 18 Mar 2017 03:06:38 +0000</saledate>
+    <price currency='USD'>33.31</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Mar 2017 14:23:43 +0000</listdate>
+    <saledate>Mon, 20 Mar 2017 14:52:37 +0000</saledate>
+    <price currency='USD'>110</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223313/item/5285422#5285422]Item for Geeklist _T_E_M_P_T_A_G_quot;Spring Cleaning - Ave Roma+, Glory to Rome IV, Royal Turf, Infamous Traffic, Lorenzo, Great Western Trail, Adrenalin, Princes of Florence, Bora Bora, Ta Yu, ETC..._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 May 2017 14:05:14 +0000</listdate>
+    <saledate>Sat, 06 May 2017 14:37:06 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played a few times in great condition
+Pay to PayPal: firstfletch@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jun 2017 14:24:58 +0000</listdate>
+    <saledate>Mon, 17 Jul 2017 19:18:37 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>likenew</condition>
+    <notes>For Jason Gernstetter.  This is in excellent condition and include the Festival Season expansion all in base box. Domestic USA shipping is $13 and I always combine shipping +$1. Shipping to Canada - $60. All other international locations - $75.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Jun 2017 17:36:55 +0000</listdate>
+    <saledate>Wed, 26 Jul 2017 18:29:13 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Comes from a smoke free home.
+No missing or damaged pieces. 
+All cards and tokens have been separated into their own little baggies.
+Tiny figures are unpainted.
+Buyer to pay shipping from New York zip code 11378. Pickup is available in Brooklyn, Queens, Manhattan, and Long Island. Can personally deliver to any New York City location in the same day as purchase area for a small fee. Please message for information on New York pickup or personal delivery.
+I have many other games for sale. If you buy more than one thing, I will give a discount. If you_T_E_M_P_T_A_G_#039;d like to haggle on my price, please feel free to message me.
+Please message for any questions, additional feedback proof, or additional pictures.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Aug 2017 12:57:58 +0000</listdate>
+    <saledate>Fri, 25 Aug 2017 14:54:33 +0000</saledate>
+    <price currency='USD'>71</price>
+    <condition>verygood</condition>
+    <notes>This sale is for Nickalone.  ...again...</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Sep 2017 20:11:03 +0000</listdate>
+    <saledate>Tue, 12 Sep 2017 00:23:39 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229727/item/5610712#5610712]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction Time! - Mystery Express, Wind River, Giro Galloppo and More_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Sep 2017 14:54:46 +0000</listdate>
+    <saledate>Mon, 25 Sep 2017 20:55:33 +0000</saledate>
+    <price currency='GBP'>18.99</price>
+    <condition>verygood</condition>
+    <notes>Please ask for postage prior to purchase ...and payment by PayPal only ...
+Many thanks</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Oct 2017 18:01:22 +0000</listdate>
+    <saledate>Wed, 25 Oct 2017 00:02:20 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230892/item/5715537#5715537]Item for Geeklist _T_E_M_P_T_A_G_quot;PAX Unplugged Virtual Flea Market 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Nov 2017 08:31:03 +0000</listdate>
+    <saledate>Fri, 03 Nov 2017 14:23:53 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230892/item/5738940#5738940]Item for Geeklist _T_E_M_P_T_A_G_quot;PAX Unplugged Virtual Flea Market 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Nov 2017 14:28:04 +0000</listdate>
+    <saledate>Thu, 30 Nov 2017 23:37:23 +0000</saledate>
+    <price currency='CAD'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Jun 2017 18:39:21 +0000</listdate>
+    <saledate>Wed, 06 Dec 2017 17:58:01 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Zustand / Condition
+OVP / in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Dec 2017 05:31:00 +0000</listdate>
+    <saledate>Tue, 26 Dec 2017 17:11:02 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Game is in great shape, slight box wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Dec 2017 18:19:24 +0000</listdate>
+    <saledate>Sat, 27 Jan 2018 04:21:26 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>good</condition>
+    <notes>payment:
+bank transfere, paypal for family and friends
+shipment:
+ask</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Dec 2017 01:46:45 +0000</listdate>
+    <saledate>Wed, 28 Feb 2018 15:59:59 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>My collection is taking up too much room in my tiny Boston apartment, unfortunately. Selling games that don_T_E_M_P_T_A_G_#039;t see much play.
+All pieces present, played twice.  Box insert is in rough shape, box corners have a little wear, almost no wear to actual components.
+Buyer pays shipping from Boston, MA (or pickup can be arranged).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Jan 2018 08:25:00 +0000</listdate>
+    <saledate>Sun, 04 Mar 2018 23:45:46 +0000</saledate>
+    <price currency='EUR'>24.5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Apr 2018 17:42:30 +0000</listdate>
+    <saledate>Sat, 07 Apr 2018 18:14:52 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239557/item/6054272#6054272]Item for Geeklist _T_E_M_P_T_A_G_quot;Time to Reduce the Clutter Auction - Auction Closed_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Apr 2018 18:42:13 +0000</listdate>
+    <saledate>Mon, 23 Apr 2018 15:13:14 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 May 2018 05:56:39 +0000</listdate>
+    <saledate>Mon, 07 May 2018 04:57:22 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>auction win for OdysseusX
+Dungeon Lords - $11
+Pandemic Cthulhu - $18
+$29 total</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 May 2018 00:19:56 +0000</listdate>
+    <saledate>Mon, 07 May 2018 14:56:08 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238031/item/6086125#6086125]Item for Geeklist _T_E_M_P_T_A_G_quot;Big Eclectic Auction US-Only [OR] w/BINs (Can Deliver to Kubla) Ends May6_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Thanks Johnathan!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Mar 2018 22:41:03 +0000</listdate>
+    <saledate>Tue, 08 May 2018 22:21:59 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays actual shipping via USPS, UPS, or FedEx. Shipping from U.S.A.
+Shipping to other countries is expensive. It could be as much as $30-$60+ depending on where it_T_E_M_P_T_A_G_#039;s going and the weight of package. Please feel free to message me about the shipping cost before buying. 
+PayPal, Zelle, or Venmo, or message me if you prefer another online method and I_T_E_M_P_T_A_G_#039;ll look into it.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 May 2018 18:04:59 +0000</listdate>
+    <saledate>Fri, 11 May 2018 10:02:42 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220483/item/6076871#6076871]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction - Reclaiming my shelf space_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Sep 2016 12:01:22 +0000</listdate>
+    <saledate>Tue, 05 Jun 2018 14:46:07 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jun 2018 00:50:13 +0000</listdate>
+    <saledate>Fri, 08 Jun 2018 00:50:42 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231344/item/6192376#6192376]Item for Geeklist _T_E_M_P_T_A_G_quot;Columbus, Ohio Virtual Flea Market (Now including Origins drop off and pick up)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+COD at Origins Math Trade</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jun 2018 02:02:37 +0000</listdate>
+    <saledate>Sat, 09 Jun 2018 03:43:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Origins pick up.  Cash on delivery.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/231344/item/6099146#6099146]Item for Geeklist _T_E_M_P_T_A_G_quot;Columbus, Ohio Virtual Flea Market (Now including Origins drop off and pick up)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2018 12:26:53 +0000</listdate>
+    <saledate>Tue, 24 Jul 2018 19:05:49 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>This item is posted as a part of the WargameHQ Shelf Clearing Auction.
+The item listed is only for purchase by:
+lucegoose100
+The price has been set at the winning bid, or Buy It Now, price posted to the auction item comment page.
+If you won multiple items, please be sure to add them all to your cart at once and then check out so I can include them in your shipping estimate.
+As a reminder:
+I will only ship to the addresses within the United States.
+I only accept PayPal and payment details will be sent alongside your final invoice.
+Your item(s) will ship on the Saturday FOLLOWING verified payment. 
+I will provide tracking information for your item and insurance sufficient to cover the final price of the auction on shipped items.
+Please inspect your items within the first 5 business days of receipt, beyond that I cannot assist with disputes. I also make no guarantees implied or otherwise as to the condition of games if the carrier has been rough with shipping. I pack games in peanuts and try to ensure both the games and their contents are secured inside the boxes to minimize issues.
+If you fail to pay for your item within 5 business days, I will cancel the sale and list the item on eBay and you can re-bid on it there at that time.
+If you have any special requests, please Geekmail me so we can discuss prior to payment finalization.
+Thank you for your purchase and I hope you enjoy your new game(s)!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Apr 2018 10:32:30 +0000</listdate>
+    <saledate>Mon, 30 Jul 2018 18:38:09 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>good</condition>
+    <notes>Good to Very good condition. Includes potion mini expansion.
+Will ship to UK only.
+Shipping via Myhermes direct to your door including tracking, £6.
+Payment via paypal. 
+Will combine shipping with other items for lower cost where possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 May 2018 15:20:09 +0000</listdate>
+    <saledate>Tue, 07 Aug 2018 16:51:36 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Comes with the Festival Season expansion
+Let me know if you want the expansion box, otherwise it will not be included to save on shipping costs</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Aug 2018 06:53:30 +0000</listdate>
+    <saledate>Sat, 18 Aug 2018 11:30:37 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/244195/item/6289009#6289009]Item for Geeklist _T_E_M_P_T_A_G_quot;Just Can_T_E_M_P_T_A_G_#039;t Wait Huge AUCTION - Project:Elite complete, Eclipse, AQ Inferno KS, Small World+expansions, and More!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Sep 2018 03:35:22 +0000</listdate>
+    <saledate>Fri, 14 Sep 2018 07:43:33 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played a few times, but otherwise in great condition
+I can ship anywhere in the US for $5 or less. Most times with 2-3-day shipping (from dropping off at FedEx to your door).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 May 2015 15:43:03 +0000</listdate>
+    <saledate>Tue, 02 Oct 2018 16:37:17 +0000</saledate>
+    <price currency='EUR'>15.99</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Oct 2018 14:22:46 +0000</listdate>
+    <saledate>Wed, 03 Oct 2018 13:00:13 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246242/item/6412697#6412697]Item for Geeklist _T_E_M_P_T_A_G_quot;Legends of the Fall - US Auction - Some Rare _T_E_M_P_T_A_G_amp; OOP Games! - Ends 9/30_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Includes Specter Ops w/preorder Promos.
+Reserved for user Nargus.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Oct 2018 19:07:55 +0000</listdate>
+    <saledate>Thu, 25 Oct 2018 19:24:50 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246163/item/6497103#6497103]Item for Geeklist _T_E_M_P_T_A_G_quot;PAX Unplugged Virtual Flea Market 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2018 23:00:29 +0000</listdate>
+    <saledate>Thu, 01 Nov 2018 03:09:17 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>My entire collection is for sale! Will beat almost any price on the marketplace. Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Oct 2018 18:46:31 +0000</listdate>
+    <saledate>Fri, 02 Nov 2018 18:34:10 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Oct 2018 17:15:26 +0000</listdate>
+    <saledate>Tue, 13 Nov 2018 19:48:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Reserved for somebody.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Jan 2019 17:28:28 +0000</listdate>
+    <saledate>Thu, 17 Jan 2019 17:49:40 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Has box wear with a tear along the side of the lid and on the bottom corner of the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Jan 2019 05:27:13 +0000</listdate>
+    <saledate>Mon, 28 Jan 2019 01:49:28 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Only played once.  We_T_E_M_P_T_A_G_#039;ll charge only $10 postage within USA and pay the extra ourselves.  (If outside of USA, let us know first.)</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

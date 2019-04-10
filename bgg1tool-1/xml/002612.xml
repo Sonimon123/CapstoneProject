@@ -1,0 +1,640 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="2612">
+   <yearpublished>1999</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>180</playingtime>
+   <minplaytime>180</minplaytime>
+   <maxplaytime>180</maxplaytime>
+   <age>14</age>
+       <name primary="true" sortindex="1">18AL</name>
+         
+   <description>18AL is a shorter 18xx game set in Alabama and designed by Mark Derrick.  It is currently available as a free print-and-play game from John David Galt._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;6 Companies_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     ABC - Atlanta, Birmingham and Coast Railroad_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     ATN - Alabama, Tennessee and Northern Railroad_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     L_T_E_M_P_T_A_G_amp;amp;N - Louisville and Nashville Railroad_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     M_T_E_M_P_T_A_G_amp;amp;O - Mobile and Ohio Railroad_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     TAG - Tennessee, Alabama and Georgia Railway_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     WRA - Western Railway of Alabama_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;5 Private Companies_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Tuscumbia Railway_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     South and North Alabama Railroad (coal field token)_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Brown and Sons Lumber Company (lumber terminal tile)_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Memphis and Charleston Railroad (train name chits)_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     New Decatur Yards (half-price train purchase)_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/ftmU7PWnOlIxKSFKCOqei_m1dy0=/fit-in/200x150/pic451367.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/d1hya67_i5xLMZtwA4ubqe8x5b8=/0x0/pic451367.jpg</image>
+      
+            <boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+               <boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+               <boardgameaccessory objectid="144684">18AL: Tokens</boardgameaccessory>
+               <boardgamefamily objectid="19">18xx</boardgamefamily>
+               <boardgameaccessory objectid="143552">18xx Dividend Tracker</boardgameaccessory>
+               <boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+               <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+                      <boardgamefamily objectid="14835">Country: USA</boardgamefamily>
+               <boardgamedesigner objectid="496">Mark Derrick</boardgamedesigner>
+               <boardgameartist objectid="496">Mark Derrick</boardgameartist>
+               <boardgamecategory objectid="1021">Economic</boardgamecategory>
+               <boardgamepodcastepisode objectid="219883">Episode 39 - Top 5 Surprises</boardgamepodcastepisode>
+               <boardgameartist objectid="30313">John David Galt</boardgameartist>
+                      <boardgamepublisher objectid="4143">John Galt</boardgamepublisher>
+               <boardgameversion objectid="25653">Koryo redesign</boardgameversion>
+               <boardgamepublisher objectid="5429">Marflow Games</boardgamepublisher>
+               <boardgameversion objectid="327197">Marflow Games German edition 2016</boardgameversion>
+               <boardgameversion objectid="156730">Mark Derrick Self-Published Edition</boardgameversion>
+               <boardgamecategory objectid="1120">Print _T_E_M_P_T_A_G_amp; Play</boardgamecategory>
+               <boardgameversion objectid="284384">Print _T_E_M_P_T_A_G_amp; Play Carthaginian edition</boardgameversion>
+               <boardgamepublisher objectid="14966">Print _T_E_M_P_T_A_G_amp; Play Productions</boardgamepublisher>
+               <boardgameversion objectid="22776">Print and Play edition</boardgameversion>
+                             <boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+               <boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+                             <boardgamecategory objectid="1034">Trains</boardgamecategory>
+               <boardgamecategory objectid="1011">Transportation</boardgamecategory>
+                      <boardgameartist objectid="28906">Cory Williamson</boardgameartist>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="32">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="19" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="16" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="18" />
+     <result value="Recommended" numvotes="14" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="20" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="14" />
+     <result value="Not Recommended" numvotes="13" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="19" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="10">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="1" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="8" />
+     <result value="16" numvotes="1" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="1" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>582</usersrated>
+     <average>7.26476</average>
+     <bayesaverage>6.0952</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1851" bayesaverage="6.0952" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="821" bayesaverage="6.26095" />
+            
+           </ranks>
+     
+     <stddev>1.4046</stddev>
+     <median>0</median>
+     <owned>673</owned>
+     <trading>19</trading>
+     <wanting>72</wanting>
+     <wishing>225</wishing>
+     <numcomments>324</numcomments>
+     <numweights>67</numweights>
+     <averageweight>3.8955</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sat, 24 Jan 2009 23:50:04 +0000</listdate>
+    <saledate>Sun, 25 Jan 2009 04:42:56 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>This is a DIY kit directly from the designer, new in the package.  Shares, tiles, etc. are laminated.  Everything included. Buyer to pay actual shipping _T_E_M_P_T_A_G_amp; handling costs from Ohio.  Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Mar 2009 23:43:53 +0000</listdate>
+    <saledate>Thu, 10 Mar 2011 08:06:11 +0000</saledate>
+    <price currency='EUR'>69.99</price>
+    <condition>new</condition>
+    <notes>Ready to play. Everything is included and ready to play out of the Box.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Aug 2011 11:41:18 +0000</listdate>
+    <saledate>Mon, 19 Sep 2011 02:15:52 +0000</saledate>
+    <price currency='USD'>56</price>
+    <condition>likenew</condition>
+    <notes>For mobileg.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Aug 2011 03:42:21 +0000</listdate>
+    <saledate>Mon, 22 Aug 2011 20:12:46 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>likenew</condition>
+    <notes>For Auction winner bloddragon.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Sep 2011 01:48:53 +0000</listdate>
+    <saledate>Tue, 13 Sep 2011 03:15:43 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Reserved for BGG user: herendil66</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Dec 2011 00:03:29 +0000</listdate>
+    <saledate>Sat, 03 Dec 2011 00:03:29 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2012 03:02:29 +0000</listdate>
+    <saledate>Tue, 14 Feb 2012 04:25:16 +0000</saledate>
+    <price currency='USD'>73</price>
+    <condition>new</condition>
+    <notes>Mounted Tiles, mounted boards, mounted charters, mounted trains, privates and shares, station and share tokens on wood discs. Does not include money. This is the Koryo Set! Yes, Koryo has graciously allowed me to print up his stuff. 
+1 map board
+1 stock market board
+6 charters (chipboard)
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Medium Box
+More Info and Options at: http://www.boardgamegeek.com/geeklist/47270/item/768337, 768335, 768334#item768337, 768335, 768334
+Size (for shipping purposes): Large
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Apr 2012 22:31:32 +0000</listdate>
+    <saledate>Wed, 25 Apr 2012 23:42:46 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>for ladue, winner of game auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jul 2012 22:37:28 +0000</listdate>
+    <saledate>Mon, 27 Aug 2012 07:18:23 +0000</saledate>
+    <price currency='USD'>69</price>
+    <condition>new</condition>
+    <notes>Unplayed. Was never in shrink. 
+Koryo version. Very nicely done by Print and Play Productions, but I never have played it. 
+Does not include game money.
+See:
+http://boardgamegeek.com/geeklist/47270/print-play-productions-games
+I ship fast and can combine shipping. Paypal users will need to add Paypal fees</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Sep 2012 00:41:44 +0000</listdate>
+    <saledate>Fri, 02 Nov 2012 19:55:50 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Koryo Redesign made for me by Andrew Tullsen/Print _T_E_M_P_T_A_G_amp; Play Productions.  Very nice, played only once or twice. (FYI - like many 18XX games, this does not come with paper money)
+Shipping will be $10 via USPS Priority. (If I can do it cheaper in a Priority Regional box, I will charge less)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Oct 2012 01:05:19 +0000</listdate>
+    <saledate>Sun, 11 Nov 2012 11:40:13 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>Version Info: Boards, charters, shares, trains and hexes are all mounted and cut out, ready to play. Station discs are applied to colored wood discs.
+1 map board
+1 stock market board
+6 charters
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Box
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Mar 2013 07:09:00 +0000</listdate>
+    <saledate>Mon, 27 May 2013 21:51:11 +0000</saledate>
+    <price currency='USD'>57</price>
+    <condition>verygood</condition>
+    <notes>Koryo redesign by Print _T_E_M_P_T_A_G_amp; Play Games. Played once. Came with a couple minor marks on the box. 
+Buyer pays exact shipping cost. I will combine shipping with other items. Free local pickup also available. International buyers welcome. 
+PayPal is preferred. Let me know if you need another payment method.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Apr 2013 04:37:47 +0000</listdate>
+    <saledate>Tue, 02 Apr 2013 09:24:01 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>verygood</condition>
+    <notes>Auction item reserved for _T_E_M_P_T_A_G_quot;pagames_T_E_M_P_T_A_G_quot; only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Apr 2013 15:53:53 +0000</listdate>
+    <saledate>Sat, 27 Apr 2013 18:56:52 +0000</saledate>
+    <price currency='USD'>47</price>
+    <condition>new</condition>
+    <notes>This listing is reserved for user snaxib for winning this item from the geeklist auction found here:
+http://www.boardgamegeek.com/geeklist/156143/sometimes-goodbye-is-a-second-chance-auction-us-</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Jun 2013 16:42:44 +0000</listdate>
+    <saledate>Mon, 10 Jun 2013 20:27:06 +0000</saledate>
+    <price currency='USD'>43</price>
+    <condition>new</condition>
+    <notes>Purchased by tar heel in Gotta Pay Bills - One Week Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Sep 2013 23:12:04 +0000</listdate>
+    <saledate>Mon, 09 Sep 2013 17:18:18 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner: pa5t0rd</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Nov 2013 05:25:19 +0000</listdate>
+    <saledate>Mon, 11 Nov 2013 23:08:58 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>for aucion won by utoption2</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2012 00:39:27 +0000</listdate>
+    <saledate>Mon, 01 Dec 2014 04:13:27 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Version Info: Boards, charters, shares, trains and hexes are all mounted and cut out, ready to play. Station discs are applied to colored wood discs.
+1 map board
+1 stock market board
+6 charters
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Box</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jan 2015 03:54:28 +0000</listdate>
+    <saledate>Fri, 20 Mar 2015 15:15:06 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>Never played.
+Bought from http://www.printplaygames.com/product/18al</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Dec 2014 05:54:54 +0000</listdate>
+    <saledate>Mon, 23 Mar 2015 14:39:34 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Koryo redesign by Print and Play Productions. Contact me for pictures if you want to know what its like.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2012 00:39:27 +0000</listdate>
+    <saledate>Fri, 15 May 2015 23:46:20 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Version Info: Boards, charters, shares, trains and hexes are all mounted and cut out, ready to play. Station discs are applied to colored wood discs.
+1 map board
+1 stock market board
+6 charters
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Box</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jun 2015 23:37:05 +0000</listdate>
+    <saledate>Tue, 02 Jun 2015 23:53:26 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>acceptable</condition>
+    <notes>no box</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Jun 2015 03:59:07 +0000</listdate>
+    <saledate>Sun, 28 Jun 2015 12:31:18 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This is a very nice production of the Koryo redesign that I acquired via a BGG auction but never got to the table. I_T_E_M_P_T_A_G_#039;ve included several pictures.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Aug 2015 14:46:30 +0000</listdate>
+    <saledate>Tue, 08 Sep 2015 02:53:44 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Played one time. 
+Print-and-play edition. See http://www.printplaygames.com/product/18al for more information.
+Buyer pays all shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Sep 2015 21:58:14 +0000</listdate>
+    <saledate>Fri, 11 Sep 2015 06:35:09 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Freitag</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2012 00:39:27 +0000</listdate>
+    <saledate>Tue, 03 Nov 2015 18:36:00 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Version Info: Boards, charters, shares, trains and hexes are all mounted and cut out, ready to play. Station discs are applied to colored wood discs.
+1 map board
+1 stock market board
+6 charters
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Box</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Nov 2015 06:23:51 +0000</listdate>
+    <saledate>Sun, 15 Nov 2015 06:35:57 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198734/item/4242109#4242109]Item for Geeklist _T_E_M_P_T_A_G_quot;The Next Auction Geeklist_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Give me a bit more time to get a quote for Australia. Thanks!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Dec 2015 08:55:38 +0000</listdate>
+    <saledate>Mon, 14 Dec 2015 18:10:47 +0000</saledate>
+    <price currency='USD'>26.31</price>
+    <condition>verygood</condition>
+    <notes>This item was bought in the auction GL https://www.boardgamegeek.com/geeklist/200946/leilao-de-fim-de-ano/ . Payment by wire transfer in Brazilian reals, converted to US dollars for the BGG Marketplace fee. Exchange rate (on Dec 14, 2015) 1 USD for 3.8 BRL.
+Sale pending buyer confirmation.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Dec 2015 04:04:44 +0000</listdate>
+    <saledate>Mon, 21 Dec 2015 03:40:53 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/201114/item/4325259#4325259]Item for Geeklist _T_E_M_P_T_A_G_quot;I need my office space back.... Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Mar 2016 12:34:41 +0000</listdate>
+    <saledate>Mon, 21 Mar 2016 17:47:00 +0000</saledate>
+    <price currency='USD'>47</price>
+    <condition>likenew</condition>
+    <notes>Purchased from Print and Play. Unplaced.
+$15 shipping for this item.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2015 04:16:16 +0000</listdate>
+    <saledate>Sun, 26 Jun 2016 20:52:18 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Koryo redesign from Print-and-play Productions;  Received in Trade</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Jul 2016 02:03:11 +0000</listdate>
+    <saledate>Mon, 25 Jul 2016 14:07:03 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>verygood</condition>
+    <notes>18GA/18AL. I_T_E_M_P_T_A_G_#039;ll ship in a medium flat rate.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/211330/item/4740159#4740159]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction to Keep My Cat in Vittles - 18xx, Space Hulk (3e), Roads _T_E_M_P_T_A_G_amp; Boats, Up Front, Ambush!, Civ Central America, good stuff - $0 starting bids_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2012 00:39:27 +0000</listdate>
+    <saledate>Sat, 27 Aug 2016 15:43:18 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Version Info: Boards, charters, shares, trains and hexes are all mounted and cut out, ready to play. Station discs are applied to colored wood discs.
+1 map board
+1 stock market board
+6 charters
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Box</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Oct 2016 01:19:34 +0000</listdate>
+    <saledate>Mon, 17 Oct 2016 16:45:51 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>This listing is for bgg user fogus.  Please do not purchase if you did not win the auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2012 00:39:27 +0000</listdate>
+    <saledate>Mon, 07 Nov 2016 14:57:36 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Version Info: Boards, charters, shares, trains and hexes are all mounted and cut out, ready to play. Station discs are applied to colored wood discs.
+1 map board
+1 stock market board
+6 charters
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Box</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Feb 2017 22:13:18 +0000</listdate>
+    <saledate>Sun, 19 Feb 2017 22:58:18 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Auction item won by Word.  Ships free.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Mar 2017 00:10:52 +0000</listdate>
+    <saledate>Wed, 29 Mar 2017 18:33:16 +0000</saledate>
+    <price currency='CAD'>70</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223620/item/5301120#5301120]Item for Geeklist _T_E_M_P_T_A_G_quot;[CAN/USA] Last for the Quarter Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For user crackktheskyy75 only.
+Includes 18AL and Age of Steam.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2012 00:39:27 +0000</listdate>
+    <saledate>Sun, 21 May 2017 19:59:04 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Version Info: Boards, charters, shares, trains and hexes are all mounted and cut out, ready to play. Station discs are applied to colored wood discs.
+1 map board
+1 stock market board
+6 charters
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Box</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2012 00:39:27 +0000</listdate>
+    <saledate>Wed, 23 Aug 2017 03:32:49 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Version Info: Boards, charters, shares, trains and hexes are all mounted and cut out, ready to play. Station discs are applied to colored wood discs.
+1 map board
+1 stock market board
+6 charters
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Box</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2012 00:39:27 +0000</listdate>
+    <saledate>Mon, 28 Aug 2017 20:16:25 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Version Info: Boards, charters, shares, trains and hexes are all mounted and cut out, ready to play. Station discs are applied to colored wood discs.
+1 map board
+1 stock market board
+6 charters
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Box</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Aug 2017 04:13:22 +0000</listdate>
+    <saledate>Thu, 31 Aug 2017 12:08:52 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229117/item/5575320#5575320]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED BIG AUCTION:  Splotter, Fragor, OOPs, Runebound Lot (2st Ed.), Ogre and More_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2012 00:39:27 +0000</listdate>
+    <saledate>Sun, 22 Oct 2017 05:37:35 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Version Info: Boards, charters, shares, trains and hexes are all mounted and cut out, ready to play. Station discs are applied to colored wood discs.
+1 map board
+1 stock market board
+6 charters
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Box</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Jan 2018 03:08:25 +0000</listdate>
+    <saledate>Tue, 23 Jan 2018 17:16:40 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition.  Most components (not map) are mounted and covered with adhesive laminate.  Game comes with a 1_T_E_M_P_T_A_G_quot; white box with game cover adhered to box top. Actual shipping costs added from 44074. Thus if you reside in the east, I will ship it cheaper than by priority flat rate by using my own box or a regional box B.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2012 00:39:27 +0000</listdate>
+    <saledate>Tue, 22 May 2018 18:35:23 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Version Info: Boards, charters, shares, trains and hexes are all mounted and cut out, ready to play. Station discs are applied to colored wood discs.
+1 map board
+1 stock market board
+6 charters
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Box</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Jun 2018 02:13:25 +0000</listdate>
+    <saledate>Fri, 01 Jun 2018 12:03:44 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Reserved for used diemacher</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Sep 2018 10:08:40 +0000</listdate>
+    <saledate>Sun, 23 Sep 2018 13:12:36 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>verygood</condition>
+    <notes>Played once</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Aug 2018 22:23:39 +0000</listdate>
+    <saledate>Wed, 31 Oct 2018 20:49:46 +0000</saledate>
+    <price currency='USD'>86</price>
+    <condition>new</condition>
+    <notes>18AL is a shorter 18xx game set in Alabama and designed by Mark Derrick.
+Contents List:
+1 map board
+1 stock market board
+6 charters
+56 shares
+35 trains, private company certificates
+34 station and tracking tokens on wood discs
+106 chipboard hexes
+Rules
+Box
+Version Info:
+Boards, charters, shares, trains and hexes are all mounted and cut out, ready to play. Station discs are applied to colored wood discs.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Sep 2018 21:20:20 +0000</listdate>
+    <saledate>Thu, 22 Nov 2018 22:47:03 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>Used copy of the Koryo redesign (from Print _T_E_M_P_T_A_G_amp; Play Admagic). The components are undamaged but it is a PNP game (though PNP by a professional).
+$12 flat rate shipping. Can be combined with other orders for the same shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Dec 2018 12:05:30 +0000</listdate>
+    <saledate>Thu, 06 Dec 2018 16:29:55 +0000</saledate>
+    <price currency='EUR'>33</price>
+    <condition>new</condition>
+    <notes>This is only a kit. Money not supplied.
+Please see pictures</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

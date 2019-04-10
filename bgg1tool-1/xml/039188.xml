@@ -1,0 +1,1173 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="39188">
+   <yearpublished>2009</yearpublished>
+   <minplayers>1</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>1200</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>1200</maxplaytime>
+   <age>0</age>
+       <name primary="true" sortindex="1">Liberty Roads</name>
+         
+   <description>Liberty Roads is a WWII campaign of France simulation, from 6th of June 1944 (the D-Day) to March 1945.  The game map covers all the operation theater from Brest to the Ruhr, Rotterdam and Toulon.  Rules are divided in basic rules and advanced rules. Basic rules covers movement, combat, supply... and allows play of introduction scenario Cobra. Advanced rules deals mainly with airborne drops and landings._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Game length:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    Cobra scenario: 1.5 to 2 hrs._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    D-Day scenario: 6 to 8 hrs._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    Campaign scenario: 15 to 20 hrs._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Game scale: 1 hex = 25 km_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;1 counter = 1 division_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Complexity : Moderate_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/EmaMxqOmc9bYyMDQsfphBm0YSfQ=/fit-in/200x150/pic436113.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ULFqqMXx3Hr6Rq_ADoLqlFGWjZk=/0x0/pic436113.jpg</image>
+      
+            <boardgamehonor objectid="21224">2009 Charles S. Roberts Best Board Game Graphics Nominee</boardgamehonor>
+               <boardgamehonor objectid="21208">2009 Charles S. Roberts Best World War 2 Era Board Wargame Nominee</boardgamehonor>
+                      <boardgamefamily objectid="12226">Country: Belgium</boardgamefamily>
+               <boardgamefamily objectid="11006">Country: France</boardgamefamily>
+               <boardgamefamily objectid="10643">Country: Germany</boardgamefamily>
+               <boardgamefamily objectid="14837">Country: Luxembourg</boardgamefamily>
+               <boardgamefamily objectid="10309">Country: The Netherlands</boardgamefamily>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgameversion objectid="39445">English edition</boardgameversion>
+               <boardgameversion objectid="132782">English second edition</boardgameversion>
+                      <boardgameversion objectid="390869">French-only first edition</boardgameversion>
+               <boardgameversion objectid="390870">French-only second edition</boardgameversion>
+               <boardgameartist objectid="3367">Christophe Gentil-Perret</boardgameartist>
+               <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+               <boardgamepublisher objectid="6508">Hexasim</boardgamepublisher>
+                      <boardgamedesigner objectid="11357">Yves le Quellec</boardgamedesigner>
+               <boardgameartist objectid="11357">Yves le Quellec</boardgameartist>
+                             <boardgameintegration objectid="266474">Offensive Roads: Stalingrad</boardgameintegration>
+               <boardgamedesigner objectid="8286">Nicolas Rident</boardgamedesigner>
+               <boardgameexpansion objectid="94729">Roundhammer 1943</boardgameexpansion>
+               <boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+                      <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+               <boardgamecategory objectid="1049">World War II</boardgamecategory>
+               <boardgameintegration objectid="266474" inbound="true">Offensive Roads: Stalingrad</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="27">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="10" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="19" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="4" />
+     <result level="5" value="Unplayable in another language" numvotes="1" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+   <results>  
+     <result value="2" numvotes="1" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="4" />
+     <result value="14" numvotes="2" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="1" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>440</usersrated>
+     <average>8.11629</average>
+     <bayesaverage>6.15359</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1672" bayesaverage="6.15359" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="56" bayesaverage="7.36114" />
+            
+           </ranks>
+     
+     <stddev>1.35217</stddev>
+     <median>0</median>
+     <owned>1225</owned>
+     <trading>16</trading>
+     <wanting>112</wanting>
+     <wishing>325</wishing>
+     <numcomments>193</numcomments>
+     <numweights>57</numweights>
+     <averageweight>3.2281</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 25 May 2010 23:10:59 +0000</listdate>
+    <saledate>Sat, 05 Jun 2010 21:04:18 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>game won in an auction, reserved for 
+Luis Evangelista (drzodiacus)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Jul 2010 17:12:23 +0000</listdate>
+    <saledate>Tue, 20 Jul 2010 16:44:18 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>For sale here is one brand new factory sealed boxed wargame: Libery Roads.
+Letting one go here for the great price of $49.95!
+Shipping USA $5.95 Canada $12.95 everywhere else $21.95.
+Paypal or US money order.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Jul 2010 02:18:08 +0000</listdate>
+    <saledate>Mon, 16 Aug 2010 01:45:09 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>new</condition>
+    <notes>Domestic Shipping: USPS PRIORITY MAIL with Delivery Confirmation = $10.99</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Jul 2010 03:20:27 +0000</listdate>
+    <saledate>Wed, 11 Aug 2010 10:55:42 +0000</saledate>
+    <price currency='USD'>48.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+LIBERTY ROADS 1781: $48.95 (pre-order)
+Hexen Games [GMT HEX-LR]
+Restock Date: WEEK OF JULY 19
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Jul 2010 16:33:50 +0000</listdate>
+    <saledate>Tue, 03 Aug 2010 16:34:29 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>For sale here is one brand new factory sealed boxed wargame: Libery Roads.
+Letting my last one go here for the great price of $49.95!
+Shipping USA $5.95 Canada $12.95 everywhere else $21.95.
+Paypal or US money order.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Aug 2010 12:58:47 +0000</listdate>
+    <saledate>Wed, 08 Sep 2010 00:25:05 +0000</saledate>
+    <price currency='USD'>48.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 1781: $48.95  ...in stock now...no waiting
+Hexen Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Sep 2010 18:24:00 +0000</listdate>
+    <saledate>Fri, 29 Oct 2010 15:52:42 +0000</saledate>
+    <price currency='EUR'>54.99</price>
+    <condition>new</condition>
+    <notes>English version.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Sep 2010 00:41:43 +0000</listdate>
+    <saledate>Tue, 07 Dec 2010 17:05:08 +0000</saledate>
+    <price currency='USD'>79.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 1781: $79.95
+Hexasim Games [GMT HEX-LR]
+* This game is now Out of Print and we have only 2 copies left in stock.
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Oct 2010 08:26:44 +0000</listdate>
+    <saledate>Wed, 06 Oct 2010 12:02:29 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>verygood</condition>
+    <notes>Punched, played once.  Excellent condition - will toss in a counter tray.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Oct 2010 19:17:35 +0000</listdate>
+    <saledate>Wed, 23 Mar 2011 09:38:15 +0000</saledate>
+    <price currency='EUR'>54.99</price>
+    <condition>new</condition>
+    <notes>English version.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Dec 2010 00:24:17 +0000</listdate>
+    <saledate>Mon, 24 Jan 2011 19:30:25 +0000</saledate>
+    <price currency='USD'>78.5</price>
+    <condition>new</condition>
+    <notes>Brand new copy in the factory shrink wrap. No damage to the box. Email for shipping quote from zip code 11365 in the USA.
+Price does not include postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jan 2011 19:45:52 +0000</listdate>
+    <saledate>Mon, 07 Mar 2011 02:28:51 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Game is 100% unpunched and complete with dice. Game is opened but never used. All game components are in excellent, crisp, clean condition. The box has some major creasing on the back and some squishing on one side. Cover has some lighter creasing. No dents and tears and still sturdy. Email for shipping quote from zip code 11365 in the USA. Package weighs two pounds </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Feb 2011 08:25:05 +0000</listdate>
+    <saledate>Wed, 23 Mar 2011 19:06:02 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>Unpunched,just removed from shrinkwrap.
+I accept bank transfer and Paypal. Please ask for shipping costs before placing an order.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Feb 2011 00:30:24 +0000</listdate>
+    <saledate>Mon, 07 Mar 2011 00:30:21 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>Unpunched and fine condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Feb 2011 15:23:48 +0000</listdate>
+    <saledate>Fri, 25 Feb 2011 20:01:52 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>Excellent unpunched. 
+All games are 100% checked and details sent to you before paying. 
+All games will be well packed. Buyer pays shipping and optionally insurance otherwise posted at your risk. I do however get a certificate of posting for all parcels. 
+Feel free to ask for more info/details.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Mar 2011 11:49:14 +0000</listdate>
+    <saledate>Tue, 08 May 2012 07:33:06 +0000</saledate>
+    <price currency='EUR'>49.99</price>
+    <condition>new</condition>
+    <notes>English version.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 May 2011 00:53:22 +0000</listdate>
+    <saledate>Mon, 20 Jun 2011 03:16:38 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>new</condition>
+    <notes>New in Shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 May 2011 14:00:06 +0000</listdate>
+    <saledate>Fri, 20 May 2011 11:00:17 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>new</condition>
+    <notes>Shrink wrap removed, never played.  Mint condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Jul 2011 08:36:07 +0000</listdate>
+    <saledate>Tue, 30 Aug 2011 11:34:33 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>Counters punched.  Never played</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Sep 2011 07:26:51 +0000</listdate>
+    <saledate>Sun, 11 Sep 2011 22:40:52 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>New in original shrink. Please ask shipping rates.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Oct 2011 15:04:30 +0000</listdate>
+    <saledate>Mon, 28 Nov 2011 03:40:31 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Game is in mint condition, one play of first scenario, Counters punched, all 5 player aids laminated.
+Some highlighting in rulebook. Will ship Fedex, tracking provided. Plano case holding counters in pic not included.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Nov 2011 22:33:22 +0000</listdate>
+    <saledate>Fri, 25 Nov 2011 17:46:40 +0000</saledate>
+    <price currency='USD'>76.94</price>
+    <condition>likenew</condition>
+    <notes>Unpunched and minty fresh.  Excellent box.  Delivery of your choice and you pay for delivery only.  Paypal please</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Jan 2012 18:52:56 +0000</listdate>
+    <saledate>Sat, 14 Jan 2012 00:34:08 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>2009 Edition.Unpunched, unplayed, from a smoke free environment. French rules (english rules downloadable on Hexasim website).
+--------------------------------------------------
+Edition 2009.Etat neuf. Chèques acceptés pour la France.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Feb 2012 13:50:44 +0000</listdate>
+    <saledate>Wed, 15 Feb 2012 17:08:06 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 1781: $59.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Feb 2012 05:45:42 +0000</listdate>
+    <saledate>Thu, 27 Dec 2012 12:28:20 +0000</saledate>
+    <price currency='USD'>64.94</price>
+    <condition>new</condition>
+    <notes>Minty fresh and just off of the boat from France.  Second printing and a Hexasim beauty.  Also have the expansion Roundhammer and will sell both together for $85.94.  Delivery of your choice.  All forms of negotiable instruments considered.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Feb 2012 21:23:39 +0000</listdate>
+    <saledate>Fri, 24 Feb 2012 22:55:40 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 1781: $59.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Feb 2012 01:45:18 +0000</listdate>
+    <saledate>Fri, 19 Oct 2012 17:59:02 +0000</saledate>
+    <price currency='USD'>56</price>
+    <condition>new</condition>
+    <notes>Liberty Roads by Hexasim. New in factory shrink. S_T_E_M_P_T_A_G_amp;H to the U.S. is 11.00. Please ask about international shipping rates. 
+Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Feb 2012 07:18:07 +0000</listdate>
+    <saledate>Sat, 25 Feb 2012 22:09:09 +0000</saledate>
+    <price currency='USD'>43.99</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Please contact us for shipping rates and options. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Feb 2012 17:38:35 +0000</listdate>
+    <saledate>Tue, 09 Oct 2012 04:33:58 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 May 2012 11:42:09 +0000</listdate>
+    <saledate>Fri, 18 May 2012 09:10:58 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>Shipping cost from Denmark are insanely high for single games but are more reasonable for bigger orders, so please check my profile and see if any of my other games interest you.
+Shipping costs within the EU(+Norway):
+Less than 2 kg: 30 euro
+Less than 5 kg: 40 euro
+Less than 10 kg: 60 euro
+Shipping costs to countries outside the EU:
+Base price is 32 dollars/25 euros  + 9 dollars/7 euros for each kg of weight</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jun 2012 09:53:50 +0000</listdate>
+    <saledate>Tue, 21 Aug 2012 17:40:55 +0000</saledate>
+    <price currency='EUR'>49.99</price>
+    <condition>new</condition>
+    <notes>English version.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Jun 2012 12:05:05 +0000</listdate>
+    <saledate>Tue, 26 Jun 2012 10:28:51 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>verygood</condition>
+    <notes>Punched  and complete
+7 pounds postage and fees to UK, 11 pounds to Europe</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Oct 2012 03:52:40 +0000</listdate>
+    <saledate>Fri, 30 Nov 2012 13:18:08 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 1781: $59.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Mar 2013 11:30:11 +0000</listdate>
+    <saledate>Wed, 03 Apr 2013 22:54:28 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>verygood</condition>
+    <notes>First printing.
+Complete and in excellent condition.
+Photos available on request.
+Will ship worldwide; please contact for costs.
+Will also accept money transfers.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Mar 2013 16:33:19 +0000</listdate>
+    <saledate>Mon, 01 Apr 2013 00:57:17 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Unpunched and complete.  Very clean.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Mar 2013 18:43:56 +0000</listdate>
+    <saledate>Sat, 16 Mar 2013 21:00:42 +0000</saledate>
+    <price currency='GBP'>31</price>
+    <condition>verygood</condition>
+    <notes>Complete game with all counters punched, clipped and bagged and extra counters from Battles Magazine (Issue 3). £5.00 P_T_E_M_P_T_A_G_amp;P in the UK, £10.00 for the rest of the world.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 May 2013 02:55:22 +0000</listdate>
+    <saledate>Mon, 24 Jun 2013 22:06:21 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>RESERVED FOR AJPYYZAJP
+PRICE INCLUDES SHIPPING
+Shrinkwrap copy of the 2nd edition.  No holes in the shrink.  If you look real close you will see a very minor crease that runs along the bottom of the back of the box otherwise it is pristine.  Unsoiled by human hands and waiting for you to open it.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jul 2013 21:32:53 +0000</listdate>
+    <saledate>Sun, 08 Dec 2013 12:47:03 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $9.95</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Sep 2013 10:29:17 +0000</listdate>
+    <saledate>Wed, 18 Jun 2014 22:39:56 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>likenew</condition>
+    <notes>Punched but unplayed, with laminated player aids; 
+ALSO includes the bonus tiles from Battles Magazine (and a photocopy of the related magazine article)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Sep 2013 07:59:06 +0000</listdate>
+    <saledate>Fri, 07 Mar 2014 16:24:54 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>new</condition>
+    <notes>In shrink. English edition. 
+Will post worldwide, please ask for postage before buying. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Sep 2013 03:09:27 +0000</listdate>
+    <saledate>Mon, 14 Oct 2013 18:21:48 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>never played/punched. 2011 printing I think.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jan 2014 16:36:48 +0000</listdate>
+    <saledate>Thu, 27 Feb 2014 21:32:24 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $9.95</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Mar 2014 05:17:52 +0000</listdate>
+    <saledate>Sat, 01 Mar 2014 14:09:06 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>open but unpunched
+6 euros shipping europe
+4 euros shipping France
+french rules</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Mar 2014 13:47:20 +0000</listdate>
+    <saledate>Sat, 08 Mar 2014 19:11:33 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>FRENCH RULES
+unpunched copy
+5 euros shipping europe
+3 euros shipping france</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Apr 2014 17:56:23 +0000</listdate>
+    <saledate>Sun, 04 May 2014 20:23:47 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Punched but never played. Includes counter tray. Pay actual shipping through USPS priority. Paypal only.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Jul 2014 21:09:34 +0000</listdate>
+    <saledate>Sat, 13 Sep 2014 00:45:21 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>unpunched, never played.
+Game ships with tracking. Shipping is $15</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Aug 2014 21:33:31 +0000</listdate>
+    <saledate>Sun, 03 Aug 2014 21:54:36 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Removed from shrinkwrap, never played. Nothing missing or damaged. Countersheets are unpunched. Includes some Chessex dice (as well as original dice).
+Includes Roundhammer 1943 expansion. New. Nothing missing or damaged. Countersheets are unpunched.
+**Listing for BGG user Kevin Rohrer**</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Aug 2014 14:59:22 +0000</listdate>
+    <saledate>Mon, 06 Oct 2014 13:09:35 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>First edition with the expansion.
+Unpunched.
+Add 4% for Paypal fees</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jan 2015 03:51:20 +0000</listdate>
+    <saledate>Sun, 11 Jan 2015 21:01:17 +0000</saledate>
+    <price currency='USD'>63.94</price>
+    <condition>likenew</condition>
+    <notes>Unpunched.  Contents verified complete and in like new condition.  2009 first printing.  Gorgeous stuff here.  Box is square and straight with 4 tight corners.  One small doink/crease on the lid - along one edge - you will have to look twice to see it (see pic).  Little to no edge wear or corner rubbing.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Jan 2015 17:53:39 +0000</listdate>
+    <saledate>Thu, 22 Jan 2015 20:14:15 +0000</saledate>
+    <price currency='USD'>69.99</price>
+    <condition>likenew</condition>
+    <notes>Unpunched and unplayed. From a smoke-free home.  Shipping to USA will be $12.35.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Nov 2014 15:31:30 +0000</listdate>
+    <saledate>Mon, 09 Feb 2015 23:35:34 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>First printing/edition, very good condition, complete, punched copy. (English language)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Apr 2015 08:26:59 +0000</listdate>
+    <saledate>Sat, 25 Apr 2015 14:07:16 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>verygood</condition>
+    <notes>Punched, once played
+also included NEW REPRINT MAP</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jan 2015 00:15:57 +0000</listdate>
+    <saledate>Sun, 26 Apr 2015 14:32:21 +0000</saledate>
+    <price currency='USD'>78</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition, punched, clipped, sorted _T_E_M_P_T_A_G_amp; bagged, played once solo.
+Send Geekmail for details on:
+FREE Shipping in USA</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Apr 2015 01:24:39 +0000</listdate>
+    <saledate>Mon, 27 Apr 2015 01:27:05 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190098/item/3848178#3848178]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction: wargames and boardgames(ship to US only)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Shipping would be 12.65 via usps flat rate box/
+My paypal is hrf1027@gmail.com
+Thanks</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 May 2015 20:59:10 +0000</listdate>
+    <saledate>Fri, 08 May 2015 08:53:29 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Add the expansion Roundhammer for $20.00 more, in Zip new.
+Shrinkwrap 
+PayPal or US Postal Money Order 
+Insurance recommended</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jun 2015 12:37:08 +0000</listdate>
+    <saledate>Sat, 06 Jun 2015 13:30:34 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Played once-also includes _T_E_M_P_T_A_G_quot;Operation Roundhammer_T_E_M_P_T_A_G_quot; add on!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Jul 2015 21:36:24 +0000</listdate>
+    <saledate>Mon, 27 Jul 2015 17:46:51 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Game has been opened but never played.  Game is complete and unpunched.
+Shipping within the US for $12.65</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jul 2015 16:56:45 +0000</listdate>
+    <saledate>Thu, 30 Jul 2015 12:18:04 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>Still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Aug 2015 01:56:28 +0000</listdate>
+    <saledate>Thu, 27 Aug 2015 14:45:21 +0000</saledate>
+    <price currency='USD'>78.94</price>
+    <condition>likenew</condition>
+    <notes>New minus the shrink.  Unpunched.  Contents verified complete and in like new condition.  This is the 1st edition with the Bush poster on the map.  Box is square and straight with no dings, doinks or creases.  4 strong tight corners.  No box wear to be seen.  Nice nice copy of the collector 1st edition.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Aug 2015 01:58:29 +0000</listdate>
+    <saledate>Wed, 02 Sep 2015 15:18:55 +0000</saledate>
+    <price currency='USD'>82.94</price>
+    <condition>likenew</condition>
+    <notes>New minus the shrink.  Unpunched.  Contents verified complete and in like new condition.  This is the 2nd edition with the Bush poster taken out of the game map.  Box is square and straight with no dings, doinks or creases.  4 strong tight corners and no box wear.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.   Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Jun 2015 15:20:17 +0000</listdate>
+    <saledate>Wed, 30 Sep 2015 20:05:30 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>new in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Sep 2015 14:54:43 +0000</listdate>
+    <saledate>Thu, 08 Oct 2015 02:47:33 +0000</saledate>
+    <price currency='USD'>72</price>
+    <condition>new</condition>
+    <notes>1st edition, new in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Jul 2015 20:01:34 +0000</listdate>
+    <saledate>Tue, 20 Oct 2015 20:05:26 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>likenew</condition>
+    <notes>Mint. Unplayed. Looks brand new. Will include errata. Must sell, I_T_E_M_P_T_A_G_#039;m out of space!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Nov 2015 15:03:21 +0000</listdate>
+    <saledate>Mon, 23 Nov 2015 18:51:46 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>verygood</condition>
+    <notes>Punched, but only played once. Complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Aug 2015 12:06:29 +0000</listdate>
+    <saledate>Sun, 06 Dec 2015 11:41:55 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Played once, in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Dec 2015 01:39:09 +0000</listdate>
+    <saledate>Wed, 06 Jan 2016 01:25:27 +0000</saledate>
+    <price currency='USD'>84.94</price>
+    <condition>likenew</condition>
+    <notes>New minus the shrink.  Unpunched.  Contents verified complete and in like new condition.  This is the 2nd edition with the Bush poster taken out of the game map.  Box is square and straight with no dings, doinks or creases.  4 strong tight corners and no box wear.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.   Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Feb 2016 11:30:50 +0000</listdate>
+    <saledate>Mon, 01 Feb 2016 11:35:00 +0000</saledate>
+    <price currency='USD'>19.9</price>
+    <condition>likenew</condition>
+    <notes>This item is reserved for user zepo, pending his confirmation.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jan 2016 16:37:24 +0000</listdate>
+    <saledate>Tue, 02 Feb 2016 01:48:37 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Punched and sorted</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Feb 2016 14:15:10 +0000</listdate>
+    <saledate>Tue, 26 Apr 2016 08:04:13 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>Never player. Counters punched and sorted in plastic bags. Will ship worldwide by courier.
+Nunca jugado. Todas las fichas están ordenadas en bolsas de plástico. Envío a todo el mundo. A España a través de Kiala.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 May 2016 08:40:27 +0000</listdate>
+    <saledate>Wed, 11 May 2016 20:45:55 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes>Ununched.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 May 2016 18:24:09 +0000</listdate>
+    <saledate>Sat, 28 May 2016 23:24:44 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>All components in very good condition.
+Payment by Paypal or wire transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Dec 2015 12:59:52 +0000</listdate>
+    <saledate>Wed, 15 Jun 2016 19:46:04 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>This is the english version of the game so rulebook, player aids etc... are in english. 
+Game punched and counters clipped. 
+The upper left-hand and right hand corner show some depressions but the box is solid. Otherwise everything is in perfect conditions.
+Will ship worldwide. Shipping costs incl. tracking and insurance: 8 Eur for France, 15 EUR in the EU, please ask for other countries.
+Payment via paypal only.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Sep 2015 23:07:38 +0000</listdate>
+    <saledate>Sat, 18 Jun 2016 08:36:48 +0000</saledate>
+    <price currency='EUR'>80</price>
+    <condition>new</condition>
+    <notes>Just do not have the shrink. I sell it with the expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jul 2016 16:44:05 +0000</listdate>
+    <saledate>Mon, 01 Aug 2016 14:46:35 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and unpunched and in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Aug 2016 21:20:41 +0000</listdate>
+    <saledate>Tue, 02 Aug 2016 01:39:46 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>Reserved for satorisnow</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Aug 2016 07:21:59 +0000</listdate>
+    <saledate>Tue, 09 Aug 2016 06:09:46 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>likenew</condition>
+    <notes>Ich verkaufe hier das hervorragende Strategiespiel _T_E_M_P_T_A_G_quot;Liberty Roads_T_E_M_P_T_A_G_quot; von Hexasim. Das Spiel wurde aus beruflichen Testzwecken nur einmal gespielt und befindet sich in absolut neuwertigen Zustand. Lediglich eine Ecke des Kartons war bei Lieferung leicht beschädigt (siehe Foto). Die Komponenten wurden nach besten Wissen von mir nachgezählt und sind vollständig gewesen. Das Spiel beinhaltet verschiedene Szenarien im zweiten Weltkrieg an der Westfront.
+Das Spiel ist für 2 Spieler und komplett in Englisch. Neben dem sehr guten Gameplay besitzt dieses 2009 herausgekommene Spiel schon jetzt einen hohen Sammlerwert und gilt in der Szene (soweit ich weiß) als ein Juwel der strategischen Combat Simulations.
+Für mehr Informationen:
+http://www.boardgamegeek.com/boardgame/39188/liberty-roads
+Abholung in Bornheim / NRW möglich. Alternativ biete ich für 4,69 den versicherten Versand per Hermes an.
+Privatverkauf, keine Garantie, keine Gewährleistung, keine Rücknahme.
+For EU delivery please ask for shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Aug 2016 02:03:17 +0000</listdate>
+    <saledate>Thu, 25 Aug 2016 06:03:08 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 1781: $54.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Aug 2016 11:24:54 +0000</listdate>
+    <saledate>Mon, 17 Oct 2016 15:31:21 +0000</saledate>
+    <price currency='EUR'>69.49</price>
+    <condition>new</condition>
+    <notes>English version.
+New, in shrink, mint condition.
+Payment via PAYPAL +2€
+Shipping within germany 4,99€, EU _T_E_M_P_T_A_G_amp; switzerland 9,99€.
+Or if you live in Berlin pick it up at our weekly game night!
+When ordering additional games you_T_E_M_P_T_A_G_#039;ll only pay the actual shipping cost!
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Oct 2016 14:11:32 +0000</listdate>
+    <saledate>Fri, 28 Oct 2016 01:37:51 +0000</saledate>
+    <price currency='USD'>53</price>
+    <condition>new</condition>
+    <notes>*** With every sale we donate a percentage to the Veterans Support Foundation (including this sale). ***
+Wargame Depot has donated over $7,700 to this wonderful cause thanks, largely, to the wonderful Boardgamegeek community. Thank you so much for your continued support of Wargame Depot which has allowed us to give generously to the VSF.
+Mint, in shrink copy available.  No dings, no dents, or anything wrong with the game.  Non-smoking environment and kept in a humidity-controlled location.
+$12 shipping to US - write me for a quote to the rest of the world.
+I_T_E_M_P_T_A_G_#039;m the owner of Wargame Depot so a purchase from me will always be packed professionally and I can accept Paypal, MO/Check, or MC/Visa/Discover/AMEX.
+And if you want this game plus anything else that I am selling on BGG, I_T_E_M_P_T_A_G_#039;ll of course be happy to add other items on in order to save you on shipping!
+North Carolina residents pay 7% sales tax.
+Cheers,
+Jason
+PS:  We have many Osprey books in stock not listed on BGG.  The prices are well under publisher rates; if you are interested in them, please let me know!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Aug 2016 02:03:17 +0000</listdate>
+    <saledate>Sat, 05 Nov 2016 15:20:32 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 1781: $54.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Aug 2016 02:03:17 +0000</listdate>
+    <saledate>Tue, 13 Dec 2016 23:35:13 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 1781: $54.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Nov 2016 14:32:48 +0000</listdate>
+    <saledate>Mon, 19 Dec 2016 18:27:53 +0000</saledate>
+    <price currency='USD'>53</price>
+    <condition>new</condition>
+    <notes>*** With every sale we donate a percentage to the Veterans Support Foundation (including this sale). ***
+Wargame Depot has donated over $7,700 to this wonderful cause thanks, largely, to the wonderful Boardgamegeek community. Thank you so much for your continued support of Wargame Depot which has allowed us to give generously to the VSF.
+Mint, in shrink copy available.  No dings, no dents, or anything wrong with the game.  Non-smoking environment and kept in a humidity-controlled location.
+$12 shipping to US - write me for a quote to the rest of the world.
+I_T_E_M_P_T_A_G_#039;m the owner of Wargame Depot so a purchase from me will always be packed professionally and I can accept Paypal, MO/Check, or MC/Visa/Discover/AMEX.
+And if you want this game plus anything else that I am selling on BGG, I_T_E_M_P_T_A_G_#039;ll of course be happy to add other items on in order to save you on shipping!
+North Carolina residents pay 7% sales tax.
+Cheers,
+Jason
+PS:  We have many Osprey books in stock not listed on BGG.  The prices are well under publisher rates; if you are interested in them, please let me know!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Aug 2016 02:03:17 +0000</listdate>
+    <saledate>Sat, 24 Dec 2016 01:08:22 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 1781: $54.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Aug 2016 02:03:17 +0000</listdate>
+    <saledate>Sat, 04 Mar 2017 17:05:53 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 1781: $54.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 17:59:14 +0000</listdate>
+    <saledate>Mon, 06 Mar 2017 05:58:23 +0000</saledate>
+    <price currency='USD'>58.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 2016 PRINTING: $58.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 17:59:14 +0000</listdate>
+    <saledate>Fri, 31 Mar 2017 21:03:42 +0000</saledate>
+    <price currency='USD'>58.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 2016 PRINTING: $58.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Apr 2017 23:24:47 +0000</listdate>
+    <saledate>Thu, 20 Apr 2017 18:18:17 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Comes with expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Apr 2017 16:11:43 +0000</listdate>
+    <saledate>Thu, 04 May 2017 19:18:20 +0000</saledate>
+    <price currency='USD'>53</price>
+    <condition>new</condition>
+    <notes>*** With every sale we donate a percentage to the Veterans Support Foundation (including this sale). ***
+Wargame Depot has donated over $8,000 to this wonderful cause thanks, largely, to the wonderful Boardgamegeek community. Thank you so much for your continued support of Wargame Depot which has allowed us to give generously to the VSF.
+Mint, in shrink copy available.  No dings, no dents, or anything wrong with the game.  Non-smoking environment and kept in a humidity-controlled location.
+$12 shipping to US - write me for a quote to the rest of the world.
+I_T_E_M_P_T_A_G_#039;m the owner of Wargame Depot so a purchase from me will always be packed professionally and I can accept Paypal, MO/Check, or MC/Visa/Discover/AMEX.
+And if you want this game plus anything else that I am selling on BGG, I_T_E_M_P_T_A_G_#039;ll of course be happy to add other items on in order to save you on shipping!
+North Carolina residents pay 7% sales tax.
+Cheers,
+Jason
+PS:  We have many Osprey books in stock not listed on BGG.  The prices are well under publisher rates; if you are interested in them, please let me know!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Jun 2017 17:57:59 +0000</listdate>
+    <saledate>Tue, 20 Jun 2017 18:18:00 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Product is new and was never played. Product is in original foil package.
+Buyer pays shipping cost. Item ships via UPS.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Jun 2017 04:24:08 +0000</listdate>
+    <saledate>Sun, 09 Jul 2017 04:38:25 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Game is punched, and comes with the unpunched _T_E_M_P_T_A_G_quot;Roundhammer 1943_T_E_M_P_T_A_G_quot; expansion.
+Shipping will be via Priority Mail in the US and First-Class Package International elsewhere. I will only accept Paypal from international buyers.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 17:59:14 +0000</listdate>
+    <saledate>Wed, 19 Jul 2017 01:25:45 +0000</saledate>
+    <price currency='USD'>58.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 2016 PRINTING: $58.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jul 2017 13:33:19 +0000</listdate>
+    <saledate>Fri, 04 Aug 2017 09:47:33 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>contact me for shipping quote</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 17:59:14 +0000</listdate>
+    <saledate>Tue, 08 Aug 2017 17:39:21 +0000</saledate>
+    <price currency='USD'>58.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 2016 PRINTING: $58.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 17:59:14 +0000</listdate>
+    <saledate>Fri, 11 Aug 2017 03:06:47 +0000</saledate>
+    <price currency='USD'>58.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 2016 PRINTING: $58.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Aug 2017 11:56:44 +0000</listdate>
+    <saledate>Sat, 26 Aug 2017 23:41:02 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>new</condition>
+    <notes>Shipping costs / Versandkosten:
+Germany: 5,00 € (egal, wie viele Artikel ihr bei uns kauft)
+EU Countries: 10,00 € (regardless how much articles You order from us)
+Rest of the World: We send You a mail with the shipping costs
+All games are new and in their original wrapping and all prices include the German VAT (7% or 19%).
+If You live outside the EU You don´t have to pay the German VAT (we send You the new, lower price with the confirmation).
+We offer only goods that we have in stock, You can also visit our onlineshop www.gamers-hq.de for more games
+Payment may be made by Paypal (no extra fee) or bank transfer in advance.
+If you have any questions, feel free to send us an email (laden@gamers-hq.de), give us a call (+49 30 79706126) or visit our homepage (www.gamers-hq.de).
+If You´re a German buyer, just read the text below (“…innerhalb Deutschlands gilt:..”)
+You find our term _T_E_M_P_T_A_G_amp; conditions here: https://gamers-hq.de/en/terms-conditions
+Innerhalb Deutschlands gilt:
+Alle Spiele sind Neuware und in Orginalverpackung . Alle Preise sind inklusive der gesetzlichen Mehrwertsteuer von 7% bzw. 19%.
+Bezahlt werden kann per paypal, Vorauskasse, Bankeinzug oder direkt bei uns im Laden (wenn ihr aus Berlin kommt).
+Wenn ihr noch irgendwelche Fragen habt, ruft uns an (030 79706126), schickt uns ne Mail (laden@gamers-hq.de) oder besucht unsere Homepage (www.gamers-hq.de).
+Unsere AGB findet ihr hier : https://gamers-hq.de/agb</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 17:59:14 +0000</listdate>
+    <saledate>Thu, 07 Sep 2017 03:02:13 +0000</saledate>
+    <price currency='USD'>58.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 2016 PRINTING: $58.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Aug 2017 11:56:44 +0000</listdate>
+    <saledate>Mon, 09 Oct 2017 10:22:28 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>new</condition>
+    <notes>Shipping costs / Versandkosten:
+Germany: 5,00 € (egal, wie viele Artikel ihr bei uns kauft)
+EU Countries: 10,00 € (regardless how much articles You order from us)
+Rest of the World: We send You a mail with the shipping costs
+All games are new and in their original wrapping and all prices include the German VAT (7% or 19%).
+If You live outside the EU You don´t have to pay the German VAT (we send You the new, lower price with the confirmation).
+We offer only goods that we have in stock, You can also visit our onlineshop www.gamers-hq.de for more games
+Payment may be made by Paypal (no extra fee) or bank transfer in advance.
+If you have any questions, feel free to send us an email (laden@gamers-hq.de), give us a call (+49 30 79706126) or visit our homepage (www.gamers-hq.de).
+If You´re a German buyer, just read the text below (“…innerhalb Deutschlands gilt:..”)
+You find our term _T_E_M_P_T_A_G_amp; conditions here: https://gamers-hq.de/en/terms-conditions
+Innerhalb Deutschlands gilt:
+Alle Spiele sind Neuware und in Orginalverpackung . Alle Preise sind inklusive der gesetzlichen Mehrwertsteuer von 7% bzw. 19%.
+Bezahlt werden kann per paypal, Vorauskasse, Bankeinzug oder direkt bei uns im Laden (wenn ihr aus Berlin kommt).
+Wenn ihr noch irgendwelche Fragen habt, ruft uns an (030 79706126), schickt uns ne Mail (laden@gamers-hq.de) oder besucht unsere Homepage (www.gamers-hq.de).
+Unsere AGB findet ihr hier : https://gamers-hq.de/agb</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Oct 2017 07:23:06 +0000</listdate>
+    <saledate>Wed, 11 Oct 2017 05:24:24 +0000</saledate>
+    <price currency='GBP'>34.99</price>
+    <condition>verygood</condition>
+    <notes>This comes with 2nd Ed Map ...
+Please ask for postage fees prior to purchase ...
+Payment by Paypal only...
+Thank you</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Sep 2017 18:51:37 +0000</listdate>
+    <saledate>Fri, 17 Nov 2017 07:51:40 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Dec 2017 14:27:54 +0000</listdate>
+    <saledate>Mon, 18 Dec 2017 17:24:43 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Still in shrink Excellent condition.  Shipping is 12.00.  From  a non smoking pet free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Dec 2017 15:41:43 +0000</listdate>
+    <saledate>Sun, 14 Jan 2018 22:32:48 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>French version - game never played (unpunched)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Apr 2017 18:46:15 +0000</listdate>
+    <saledate>Sat, 20 Jan 2018 18:33:50 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>verygood</condition>
+    <notes>counters punched/clipped in baggies; components in excellent condition (played once)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Jan 2018 18:04:15 +0000</listdate>
+    <saledate>Tue, 13 Feb 2018 15:54:15 +0000</saledate>
+    <price currency='EUR'>38</price>
+    <condition>verygood</condition>
+    <notes>Counters partly punched, game still unplayed. Includes Roundhammer expansion game (hypothetical invasion 1943). 
+Insured shipping with tracking no. DHL:
+Germany 6 €
+Europe ( DHL Zone 1): 15 €
+Payment via SEPA bank transfer or PayPal to friends.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 17:59:14 +0000</listdate>
+    <saledate>Tue, 20 Feb 2018 17:09:19 +0000</saledate>
+    <price currency='USD'>58.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 2016 PRINTING: $58.95
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Sep 2018 20:58:55 +0000</listdate>
+    <saledate>Wed, 12 Sep 2018 22:21:06 +0000</saledate>
+    <price currency='USD'>68.99</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 2016 PRINTING: $68.99
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Sep 2018 21:29:21 +0000</listdate>
+    <saledate>Sat, 15 Sep 2018 00:12:13 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Like New unpunched copy—game components and game box like new . Shrink removed for inspection only only
+From a smoke free home in CO</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 May 2017 13:43:58 +0000</listdate>
+    <saledate>Thu, 20 Sep 2018 19:33:20 +0000</saledate>
+    <price currency='EUR'>59.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 9,99€.
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Nov 2018 00:53:46 +0000</listdate>
+    <saledate>Sat, 29 Dec 2018 17:34:50 +0000</saledate>
+    <price currency='USD'>69.94</price>
+    <condition>new</condition>
+    <notes>Shrinkwrap copy. No box damage. No holes in the shrink. Straight from the factory floor minty fresh. Beautiful game straight from France. Worldwide shipping and will be packed well. All forms of negotiable instruments considered. Combine ship with multiple purchase</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Nov 2018 11:02:28 +0000</listdate>
+    <saledate>Thu, 03 Jan 2019 17:25:06 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>likenew</condition>
+    <notes>Unpunched</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Sep 2018 20:58:55 +0000</listdate>
+    <saledate>Fri, 04 Jan 2019 19:52:37 +0000</saledate>
+    <price currency='USD'>88.99</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+LIBERTY ROADS 2016 PRINTING: $88.99
+Hexasim Games [GMT HEX-LR]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 May 2017 13:43:58 +0000</listdate>
+    <saledate>Mon, 21 Jan 2019 09:05:40 +0000</saledate>
+    <price currency='EUR'>59.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 9,99€.
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Nov 2018 02:47:13 +0000</listdate>
+    <saledate>Thu, 24 Jan 2019 15:01:44 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

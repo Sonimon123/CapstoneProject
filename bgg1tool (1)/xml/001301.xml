@@ -1,0 +1,2007 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="1301">
+   <yearpublished>1996</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>45</playingtime>
+   <minplaytime>45</minplaytime>
+   <maxplaytime>45</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Netrunner</name>
+         
+   <description>Netrunner is a cyberpunk-themed collectible card game.  The two players are the Corp (who wins by completing Agendas) and the Runner (who wins by infiltrating the Corp and liberating Agendas)._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Each side has a limited number of both actions and bits (money) to spend per turn; bits are gone once used, and actions must be spent to gain more._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;An important thing when evaluating the power of cards is to see the Bit per action ratio._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;One unique feature of this game is that the Runner physically moves on the _T_E_M_P_T_A_G_amp;quot;board_T_E_M_P_T_A_G_amp;quot; created by facedown Corp cards.  It has the feel of a _T_E_M_P_T_A_G_amp;quot;capture the flag_T_E_M_P_T_A_G_amp;quot; game, with the Runner moving in dataforts to steal Agendas from the Corp._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Another unique feature is that the Cards are NOT the primary strategy of the game; in fact, players can win by simply _T_E_M_P_T_A_G_amp;quot;playing with the rules_T_E_M_P_T_A_G_amp;quot; itself (a concept difficult to understand if you've never played Netrunner)._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Both players play as both Corp and Runner in a game, one after the other, with each player's Runner going against the opponent's Corp.  A winning match provides 10 points and the loser scores points equal to the number of agenda points scored/liberated. The winner of the game is the one who has the most points in the 2 submatches._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Though Netrunner is traditionally a two-player duel, there are formats that allow for more players (called _T_E_M_P_T_A_G_amp;quot;The Big Sell Out_T_E_M_P_T_A_G_amp;quot;)._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Richard Garfield himself considered Netrunner as his best boardgame design instead of CCG design game, and he loves games that include bluffing mechanics; with Netrunner, bluffing is an integral part of the game._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;When it was released in 1996, many gaming magazines gave Netrunner critical acclaim as the best CCG ever designed.   Even today, most of them still consider this to be true._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/ZbJp0v_GzLxiCwmGDCoiqv3i2KA=/fit-in/200x150/pic92015.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/_dFylK5hbovrT5HNkZgqYpJWFCs=/0x0/pic92015.jpg</image>
+      
+                   <boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+               <boardgameimplementation objectid="124742">Android: Netrunner</boardgameimplementation>
+               <boardgameartist objectid="16057">Ash Arnett</boardgameartist>
+               <boardgameartist objectid="23492">Brian Booker</boardgameartist>
+               <boardgameartist objectid="27907">Armand Cabrera</boardgameartist>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+               <boardgamefamily objectid="6040">CCGs (Collectible Card Games)</boardgamefamily>
+               <boardgameartist objectid="13526">Doug Chaffee</boardgameartist>
+               <boardgamecategory objectid="1044">Collectible Components</boardgamecategory>
+                      <boardgamesubdomain objectid="4667">Customizable Games</boardgamesubdomain>
+               <boardgamefamily objectid="5611">Cyberpunk</boardgamefamily>
+               <boardgameartist objectid="15052">Robert Dixon</boardgameartist>
+               <boardgamepodcastepisode objectid="107983">DTS004 - Dice Tower Showdown, Episode # 4</boardgamepodcastepisode>
+               <boardgameversion objectid="25501">English edition</boardgameversion>
+               <boardgamepodcastepisode objectid="118399">Episode 20 -- Your Deluxe Collectors_T_E_M_P_T_A_G_#039; Edition, Free Shower and Deodorant Included</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="108048">ET65: Elemental, Querido Wallace!</boardgamepodcastepisode>
+                      <boardgameartist objectid="18043">Kaja Foglio</boardgameartist>
+               <boardgameartist objectid="13089">Dan Frazier</boardgameartist>
+               <boardgameversion objectid="436033">French edition</boardgameversion>
+               <boardgameartist objectid="16056">Larry Friedman</boardgameartist>
+               <boardgameartist objectid="15020">Randy Gallegos</boardgameartist>
+               <boardgamedesigner objectid="14">Richard Garfield</boardgamedesigner>
+               <boardgameartist objectid="14508">Daniel Gelon</boardgameartist>
+                      <boardgamefamily objectid="20584">Hackers</boardgamefamily>
+               <boardgameartist objectid="15541">James Higgens</boardgameartist>
+               <boardgameartist objectid="25255">Craig Hooper</boardgameartist>
+               <boardgameartist objectid="13634">Heather Hudson</boardgameartist>
+               <boardgameartist objectid="14745">Doug Keith</boardgameartist>
+               <boardgameartist objectid="13636">Mike Kimble</boardgameartist>
+               <boardgameartist objectid="89617">Tony Luke</boardgameartist>
+               <boardgameartist objectid="14757">Anson Maddocks</boardgameartist>
+                      <boardgameartist objectid="23114">Ramon Mascarenas</boardgameartist>
+               <boardgameartist objectid="13937">Matt Milberger</boardgameartist>
+               <boardgamefamily objectid="22300">Netrunner</boardgamefamily>
+                             <boardgameexpansion objectid="118994">Netrunner: Classic</boardgameexpansion>
+               <boardgameexpansion objectid="92370">Netrunner: Proteus</boardgameexpansion>
+               <boardgameartist objectid="13979">Terese Nielsen</boardgameartist>
+               <boardgameartist objectid="19806">Margaret Organ-Kean</boardgameartist>
+               <boardgameartist objectid="15055">John Park</boardgameartist>
+               <boardgameartist objectid="92893">Mari Paz Pasicolan-Cabardo</boardgameartist>
+               <boardgameartist objectid="14704">Zak Plucinski</boardgameartist>
+               <boardgameartist objectid="14625">Mark Poole</boardgameartist>
+               <boardgameartist objectid="11803">Mike Raabe</boardgameartist>
+               <boardgameartist objectid="23113">John Ramirez</boardgameartist>
+                                    <boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+               <boardgameartist objectid="13234">Doug Shuler</boardgameartist>
+                      <boardgameartist objectid="14449">Larry Snelly</boardgameartist>
+               <boardgameartist objectid="16234">Greg Staples</boardgameartist>
+               <boardgameartist objectid="2418">Kevin Stein</boardgameartist>
+               <boardgameartist objectid="15329">Mark Tedin</boardgameartist>
+                             <boardgameartist objectid="13711">Richard Thomas (I)</boardgameartist>
+               <boardgameartist objectid="23115">Chris Vande Voort</boardgameartist>
+                      <boardgameartist objectid="13610">Pete Venters</boardgameartist>
+               <boardgameartist objectid="27902">Todd Wade</boardgameartist>
+               <boardgameartist objectid="20602">Brian Wagner</boardgameartist>
+               <boardgameartist objectid="13596">Christina Wald</boardgameartist>
+               <boardgameartist objectid="22395">L. A. Williams</boardgameartist>
+               <boardgameartist objectid="1857">Matt Wilson</boardgameartist>
+               <boardgameartist objectid="13629">Ray Winninger</boardgameartist>
+               <boardgamepublisher objectid="13">Wizards of the Coast</boardgamepublisher>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="31">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="23" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="30" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="16" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="14">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="11" />
+     <result level="5" value="Unplayable in another language" numvotes="3" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+   <results>  
+     <result value="2" numvotes="1" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="4" />
+     <result value="14" numvotes="3" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>2222</usersrated>
+     <average>7.45477</average>
+     <bayesaverage>6.72069</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="642" bayesaverage="6.72069" />
+            
+       
+              <rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="19" bayesaverage="7.23173" />
+            
+           </ranks>
+     
+     <stddev>1.6016</stddev>
+     <median>0</median>
+     <owned>3087</owned>
+     <trading>209</trading>
+     <wanting>109</wanting>
+     <wishing>296</wishing>
+     <numcomments>786</numcomments>
+     <numweights>206</numweights>
+     <averageweight>2.9223</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 26 Nov 2002 07:12:45 +0000</listdate>
+    <saledate>Fri, 04 Jul 2003 07:27:21 +0000</saledate>
+    <price currency='USD'>5.55</price>
+    <condition>likenew</condition>
+    <notes>In the shrink-wrap, box is slightly worn.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Sep 2003 01:58:35 +0000</listdate>
+    <saledate>Thu, 09 Oct 2003 04:30:29 +0000</saledate>
+    <price currency='USD'>9.95</price>
+    <condition>likenew</condition>
+    <notes>One double-pack starter (with 2 playable decks) along with 3 sealed booster packs.  </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Nov 2004 23:08:09 +0000</listdate>
+    <saledate>Tue, 30 Nov 2004 20:23:18 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>One sealed and one opened starter deck. One opened and four unopened booster packs.  </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Feb 2005 18:30:44 +0000</listdate>
+    <saledate>Wed, 04 May 2005 14:48:55 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>Sealed double-starter set.  Everything you need to play the game!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Sep 2005 14:44:05 +0000</listdate>
+    <saledate>Sun, 25 Dec 2005 06:39:48 +0000</saledate>
+    <price currency='USD'>7.5</price>
+    <condition>new</condition>
+    <notes>Two-deck starter pack.  Everything you need to play the game.  Mint in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Sep 2005 04:30:44 +0000</listdate>
+    <saledate>Tue, 13 Sep 2005 05:14:20 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>1500+ cards in NM/M condition.  Mostly from the base set, though there are a few from Proteus and Classic.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jan 2006 00:05:50 +0000</listdate>
+    <saledate>Mon, 27 Feb 2006 19:11:48 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Netrunner Starter Double-Deck.  Complete, includes a rule book with two decks.  The cards and card boxes are in very good condition.  The external box has some wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Feb 2006 06:47:37 +0000</listdate>
+    <saledate>Thu, 15 Jun 2006 16:30:44 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Starter deck in like new condition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 May 2006 07:09:56 +0000</listdate>
+    <saledate>Thu, 22 Jun 2006 20:54:00 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap _T_E_M_P_T_A_G_quot;starter double-deck_T_E_M_P_T_A_G_quot;. Shipping weight is 2 lbs. I ship within 24 hours of receiving payment and I package my games for shipment with the utmost care.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Sep 2006 04:37:53 +0000</listdate>
+    <saledate>Wed, 31 Jan 2007 04:56:56 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>verygood</condition>
+    <notes>I have slightly less than 60 cards each for the Corporation and the Runner. Cards are all in like new condition, have been opened and played with once but no defects or wear. All cards are from the original edition (no expansions). It is likely that these are from a starter set missing a couple of cards from each deck. Frankly, it_T_E_M_P_T_A_G_#039;s been so long that I have forgotten exactly what happened.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Sep 2006 20:10:26 +0000</listdate>
+    <saledate>Sat, 16 Jun 2007 11:46:01 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Sealed Starter deck.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Sep 2006 16:48:06 +0000</listdate>
+    <saledate>Mon, 16 Oct 2006 01:44:53 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Netrunner - Wizards of the Coast
+Like New! Opened, but unplayed and in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $2.00 handling charge.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Mar 2007 18:27:35 +0000</listdate>
+    <saledate>Wed, 02 May 2007 17:43:52 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>new</condition>
+    <notes>New, sealed Netrunner Starter Double-Deck.  I have more than one available and I am happy to combine shipping.  :)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 May 2007 21:31:53 +0000</listdate>
+    <saledate>Tue, 07 Aug 2007 23:45:00 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This is a brand new sealed starter box. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2007 02:45:31 +0000</listdate>
+    <saledate>Tue, 17 Jul 2007 19:44:30 +0000</saledate>
+    <price currency='USD'>18.99</price>
+    <condition>new</condition>
+    <notes>Sealed Starter set (two decks).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Sep 2007 11:53:15 +0000</listdate>
+    <saledate>Sun, 23 Sep 2007 12:01:07 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>This is for Johan only...</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Feb 2008 18:42:31 +0000</listdate>
+    <saledate>Mon, 11 Feb 2008 19:07:21 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Netrunner.
+I_T_E_M_P_T_A_G_#039;m not entirely positive, but am reasonable sure all of these cards are from the 1.1 edition. Great condition. 
+340+ cards, roughly half runner and half corporate. I know there are some rares, uncommons and commons in there - but don_T_E_M_P_T_A_G_#039;t know exactly what.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 May 2008 06:58:39 +0000</listdate>
+    <saledate>Wed, 07 May 2008 15:12:07 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Still in shrink-wrap: Netrunner Starter Double-Deck
+Contains one rulebook and 120 tradable game cards
+[one 60 card coporate deck and one 60 card runner deck]</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Jul 2008 00:27:31 +0000</listdate>
+    <saledate>Tue, 15 Jul 2008 00:44:15 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>new</condition>
+    <notes>This is a lot for sale to TuringTest.
+2 opened Netrunner Starters (cards are mixed) and six unopened starters.
+Will ship for free. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Jul 2008 06:52:44 +0000</listdate>
+    <saledate>Tue, 15 Jul 2008 08:28:45 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>2 starter packs with manuals in great conditon.
+Barely played, cards are in excellent condition. Boxes are in good condition.
+Fast shipping!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Aug 2008 18:47:01 +0000</listdate>
+    <saledate>Wed, 27 Aug 2008 21:44:05 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>new</condition>
+    <notes>The price is for one (1) Limited 1.0 Booster pack.  However, I have nearly an entire box full.  I will create a new listing for however many packs you would like.  I also have a few new double-deck starter boxes I could sell for $20 each.
+Shipping is at-cost via USPS.
+NOTE:  I can accept Paypal ONLY if it is NOT funded by a credit or debit card.  Paypal balance or e-checks (bank funded) transactions are fine.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Aug 2008 13:03:33 +0000</listdate>
+    <saledate>Thu, 28 Aug 2008 15:10:52 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>One (1) double-deck starter pack.  This includes two decks: one for a Corp player and one for a Runner.
+I have multiple starters available.  I also have many Limited (1.0) edition boosters packs for $3 each.  Let me know what you would like and I can make a custom listing for those items.
+Shipping is at-cost and is combined with multiple orders.
+Paypal is acceptable ONLY if it is NOT funded by a credit or debit card.  Paypal Balance or an e-Check (bank funded transaction) is fine.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Aug 2008 17:35:44 +0000</listdate>
+    <saledate>Sat, 06 Sep 2008 08:35:35 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>new</condition>
+    <notes>This listing is ONLY for BGG user rapmastersethmc.
+If you are not him, please do not click BUY.  However, feel free to contact me, and I can make another customized Netrunner listing for you.  I am selling double-deck starter packs for $20 each and Limited (1.0) booster packs for $3 each.
+This listing is for two (2) Netrunner double-deck starter packs and three (3) Netrunner Limited edition booster packs.
+Shipping is at-cost via USPS.
+NOTE: I can accept Paypal ONLY if it is NOT funded by a credit or debit card. Paypal balance or e-checks (bank funded) transactions are fine.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Aug 2008 18:15:10 +0000</listdate>
+    <saledate>Fri, 29 Aug 2008 18:25:10 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Netrunner commons/uncommons lot for Davido.
+Paypal to dougnpat AT coho DOT net
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Sep 2008 15:46:10 +0000</listdate>
+    <saledate>Thu, 18 Sep 2008 19:47:36 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>auction sale to Noah Kolman
+complete set of commons/uncommons/vitals for Netrunner v1.0
+complete set of commons/uncommons for Proteus v2.`
+cards in ultrapro penny sleeves
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Sep 2008 13:19:45 +0000</listdate>
+    <saledate>Thu, 25 Sep 2008 20:51:18 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Netrunner 2 Player Starter Deck.  Includes complete 60 card deck for each player (total 120 cards) plus rulebook.
+These cards are brand new, never opened.  I bought a case on eBay and I really don_T_E_M_P_T_A_G_#039;t need all of these.  Noticed no one was carrying them here so I thought I would do all of us a favor!
+Netrunner plays incredibly well out of the starters (some say _T_E_M_P_T_A_G_quot;it is the only way to play_T_E_M_P_T_A_G_quot;).  No need to be obsessed about collecting this game - one starter is enough (imo).
+FREE SHIPPING on this item to the US.
+Others pay actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Sep 2008 12:18:48 +0000</listdate>
+    <saledate>Sun, 28 Sep 2008 01:19:46 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>Netrunner 2 Player Starter Deck. Includes complete 60 card deck for each player (total 120 cards) plus rulebook.
+These cards are brand new, never opened. I bought a case on eBay and I really don_T_E_M_P_T_A_G_#039;t need all of these. Noticed no one was carrying them here so I thought I would do all of us a favor!
+Netrunner plays incredibly well out of the starters (some say _T_E_M_P_T_A_G_quot;it is the only way to play_T_E_M_P_T_A_G_quot;). No need to be obsessed about collecting this game - one starter is enough (imo).
+FREE SHIPPING on this item to the US.
+Others pay actual shipping.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Sep 2008 03:28:17 +0000</listdate>
+    <saledate>Sun, 28 Sep 2008 05:06:24 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Netrunner 2 Player Starter Deck. Includes complete 60 card deck for each player (total 120 cards) plus rulebook.
+These cards are brand new, never opened. I bought a case on eBay and I really don_T_E_M_P_T_A_G_#039;t need all of these. Noticed no one was carrying them here so I thought I would do all of us a favor!
+Netrunner plays incredibly well out of the starters (some say _T_E_M_P_T_A_G_quot;it is the only way to play_T_E_M_P_T_A_G_quot;). No need to be obsessed about collecting this game - one starter is enough (imo).
+FREE SHIPPING on this item to the US.
+Others pay actual shipping.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Sep 2008 12:17:12 +0000</listdate>
+    <saledate>Tue, 30 Sep 2008 14:26:48 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Netrunner 2 Player Starter Deck. Includes complete 60 card deck for each player (total 120 cards) plus rulebook.
+These cards are brand new, never opened. I bought a case on eBay and I really don_T_E_M_P_T_A_G_#039;t need all of these. Noticed no one was carrying them here so I thought I would do all of us a favor!
+Netrunner plays incredibly well out of the starters (some say _T_E_M_P_T_A_G_quot;it is the only way to play_T_E_M_P_T_A_G_quot;). No need to be obsessed about collecting this game - one starter is enough (imo).
+FREE SHIPPING on this item to the US.
+Others pay actual shipping on a 12 ounce item.  ($8.65 to Oz/Europe, $8.25 to Brazil.)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Sep 2008 14:29:09 +0000</listdate>
+    <saledate>Wed, 08 Oct 2008 16:50:14 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Netrunner 2 Player Starter Deck. Includes complete 60 card deck for each player (total 120 cards) plus rulebook.
+These cards are brand new, never opened. I bought a case on eBay and I really don_T_E_M_P_T_A_G_#039;t need all of these. Noticed no one was carrying them here so I thought I would do all of us a favor!
+Netrunner plays incredibly well out of the starters (some say _T_E_M_P_T_A_G_quot;it is the only way to play_T_E_M_P_T_A_G_quot;). No need to be obsessed about collecting this game - one starter is enough (imo).
+FREE SHIPPING on this item to the US.
+Others pay actual shipping on a 12 ounce item. ($8.65 to Oz/Europe, $8.25 to Brazil.)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Nov 2008 13:13:24 +0000</listdate>
+    <saledate>Fri, 05 Dec 2008 21:51:26 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Netrunner 2 Player Starter Deck. Includes complete 60 card deck for each player (total 120 cards) plus rulebook.
+These cards are brand new, never opened. I bought a case on eBay and I really don_T_E_M_P_T_A_G_#039;t need all of these. Noticed no one was carrying them here so I thought I would do all of us a favor!
+Netrunner plays incredibly well out of the starters (some say _T_E_M_P_T_A_G_quot;it is the only way to play_T_E_M_P_T_A_G_quot;). No need to be obsessed about collecting this game - one starter is enough (imo).
+FREE SHIPPING on this item to the US.
+Others pay actual shipping on a 12 ounce item. ($8.65 to Oz/Europe, $8.25 to Brazil, $3.81 to Canada.)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Dec 2008 21:53:40 +0000</listdate>
+    <saledate>Mon, 05 Jan 2009 19:37:17 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Netrunner 2 Player Starter Deck. Includes complete 60 card deck for each player (total 120 cards) plus rulebook.
+These cards are brand new, never opened. I bought a case on eBay and I really don_T_E_M_P_T_A_G_#039;t need all of these. Noticed no one was carrying them here so I thought I would do all of us a favor!
+Netrunner plays incredibly well out of the starters (some say _T_E_M_P_T_A_G_quot;it is the only way to play_T_E_M_P_T_A_G_quot;). No need to be obsessed about collecting this game - one starter is enough (imo).
+FREE SHIPPING on this item to the US.
+Others pay actual shipping on a 12 ounce item. ($8.65 to Oz/Europe, $8.25 to Brazil, $3.81 to Canada.)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Dec 2008 00:28:50 +0000</listdate>
+    <saledate>Wed, 10 Dec 2008 04:12:14 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>new</condition>
+    <notes>Netrunner booster display box still in shrink (36 boosters total inside).
+I_T_E_M_P_T_A_G_#039;ll ship via priority mail flat rate box, including delivery confirmation.  Shipping will be $10.00 in the U.S.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Dec 2008 22:12:07 +0000</listdate>
+    <saledate>Mon, 22 Dec 2008 02:49:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>This is a lot of around nine hundred Netrunner cards, bought when I was back in college at a Media Play going out of business sale.  The original boxes are gone and the cards have been consolidated into a single set.  Two instruction books are included.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Jan 2009 19:39:54 +0000</listdate>
+    <saledate>Sat, 17 Jan 2009 01:21:04 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Netrunner 2 Player Starter Deck. Includes complete 60 card deck for each player (total 120 cards) plus rulebook. 
+These cards are brand new, never opened. I bought a case on eBay and I really don_T_E_M_P_T_A_G_#039;t need all of these. Noticed no one was carrying them here so I thought I would do all of us a favor! 
+Netrunner plays incredibly well out of the starters (some say _T_E_M_P_T_A_G_quot;it is the only way to play_T_E_M_P_T_A_G_quot;). No need to be obsessed about collecting this game - one starter is enough (imo). 
+FREE SHIPPING on this item to the US and Canada. 
+Others pay actual shipping on a 12 ounce item. ($8.65 to Oz/Europe, $8.25 to Brazil)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Jan 2009 17:46:02 +0000</listdate>
+    <saledate>Wed, 25 Mar 2009 14:16:07 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Netrunner 2 Player Starter Deck. Includes complete 60 card deck for each player (total 120 cards) plus rulebook.
+These cards are brand new, never opened. I bought a case on eBay and I really don_T_E_M_P_T_A_G_#039;t need all of these. Noticed no one was carrying them here so I thought I would do all of us a favor!
+Netrunner plays incredibly well out of the starters (some say _T_E_M_P_T_A_G_quot;it is the only way to play_T_E_M_P_T_A_G_quot;). No need to be obsessed about collecting this game - one starter is enough (imo).
+FREE SHIPPING on this item to the US and Canada.
+Others pay actual shipping on a 12 ounce item. ($8.65 to Oz/Europe, $8.25 to Brazil)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Feb 2009 14:06:04 +0000</listdate>
+    <saledate>Fri, 27 Mar 2009 11:32:54 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>In shrink. Price is per starter pack, or $33 for both of the two I have, or $45 to include a third (like new, not in shrink) pack.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Feb 2009 23:39:46 +0000</listdate>
+    <saledate>Mon, 27 Jul 2009 16:41:11 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Netrunner 2 Player Starter Deck. Includes complete 60 card deck for each player (total 120 cards) plus rulebook.
+*PLUS*
+Four booster packs.
+Bank verified PayPal payments only please. 
+$5.00 CONUS shipping.
+AK/HI and International buyers send geekmail for USPS cost.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Mar 2009 22:02:51 +0000</listdate>
+    <saledate>Wed, 25 Mar 2009 22:21:48 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>Double starter deck set, in shrink
+$6 shipping to anywhere in lower 48 states
+Can combine with other purchases from my marketplaces to save shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Mar 2009 14:33:00 +0000</listdate>
+    <saledate>Fri, 27 Mar 2009 03:04:19 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Netrunner 2 Player Starter Deck. Includes complete 60 card deck for each player (total 120 cards) plus rulebook.
+These cards are brand new, never opened. I bought a case on eBay and I really don_T_E_M_P_T_A_G_#039;t need all of these. Noticed no one was carrying them here so I thought I would do all of us a favor!
+Netrunner plays incredibly well out of the starters (some say _T_E_M_P_T_A_G_quot;it is the only way to play_T_E_M_P_T_A_G_quot;). No need to be obsessed about collecting this game - one starter is enough (imo).
+FREE SHIPPING on this item to the US and Canada.
+Others pay actual shipping on a 12 ounce item. ($8.65 to Oz/Europe, $8.25 to Brazil)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Mar 2009 12:41:54 +0000</listdate>
+    <saledate>Sun, 12 Apr 2009 21:29:49 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Netrunner 2 Player Starter Deck. Includes complete 60 card deck for each player (total 120 cards) plus rulebook.
+These cards are brand new, never opened. I bought a case on eBay and I really don_T_E_M_P_T_A_G_#039;t need all of these. Noticed no one was carrying them here so I thought I would do all of us a favor!
+Netrunner plays incredibly well out of the starters (some say _T_E_M_P_T_A_G_quot;it is the only way to play_T_E_M_P_T_A_G_quot;). No need to be obsessed about collecting this game - one starter is enough (imo).
+FREE SHIPPING on this item to the US and Canada.
+Others pay actual shipping on a 12 ounce item. ($8.65 to Oz/Europe, $8.25 to Brazil)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Mar 2009 14:13:31 +0000</listdate>
+    <saledate>Sat, 28 Mar 2009 17:00:49 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>I have for sale brand new unopened Netrunner Starter Double-Deck Packs.
+ Contains: One rulebook, 120 tradable cards (one 60 card corporate deck, one 60 card runner deck)
+Brank new, still in cello wrap. $10.00 for each starter double deck.
+Shipping will depend on the amount of double decks you wish to purchase.
+Will accept Paypal only, Will ship when payment is received.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Mar 2009 20:05:17 +0000</listdate>
+    <saledate>Tue, 07 Apr 2009 03:50:40 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>I have for sale a Starter Double Deck, Brand New still in Cello wrap.
+Contains one rulebook and 120 tradable game cards
+(one 60 card corporate deck and one 60 card runner deck)
+I accept paypal only and will ship usps priority.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Apr 2009 13:09:52 +0000</listdate>
+    <saledate>Tue, 07 Apr 2009 14:06:19 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>this is a netrunner starter double-deck,brand new still in celephane rapper
+contains one rule book and 120 tradable game cards{one 60 card corporate deck and one 60 card runner deck,payment through paypal shipps in 2-3 days through usps,insurance is optinal aprox 1.70 and buyer pays for that.15.00 and 5.00 shipping.not including insurance.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Apr 2009 15:03:05 +0000</listdate>
+    <saledate>Fri, 10 Apr 2009 20:41:04 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>NETRUNNER DOUBLE-DECK
+CONTAINS ONE RULE BOOK AND 120 TRADABLE GAME CARDS
+{ONE 60 CARD CORPARATE DECK AND ONE 60 CARD RUNNER DECK}
+15.00 AND 5.00 SHIPPING,CARDS BRAND NEW AND STILL IN CELEPHANE WRAPPING,SHIPS 2-3 DAYS USPS,INSURANCE IS OPTIONAL APROX 1.70 BUYER HAS TO PAY FOR.THANKS</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Apr 2009 14:10:12 +0000</listdate>
+    <saledate>Mon, 11 May 2009 04:06:46 +0000</saledate>
+    <price currency='USD'>15.95</price>
+    <condition>new</condition>
+    <notes>NETRUNNER STARTER DOUBLE-DECK;
+CONTAINS ONE RULEBOOK AND 120 TRADABLE GAME CARDS
+{ONE 60 CARD CORPORATE DECK AND ONE 60 CARD RUNNER DECK}
+BRAND NEW STILL IN CELEPHANE WRAPPER,CARDS ARE 15.95,AND SHIPPING IS 5.00 ,INS.IS OPTIONAL APROX.1.70,PAID BY THE BUYER.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Apr 2009 18:00:23 +0000</listdate>
+    <saledate>Sat, 18 Apr 2009 21:55:15 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>new</condition>
+    <notes>Fastspinecho only</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Apr 2009 23:25:06 +0000</listdate>
+    <saledate>Mon, 11 May 2009 20:04:53 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Netrunner double starter deck, still in cellophane. 
+Shipping in the US is $5.00. I will ship worldwide but shipping costs will be much higher.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 May 2009 12:03:09 +0000</listdate>
+    <saledate>Mon, 11 May 2009 20:27:08 +0000</saledate>
+    <price currency='USD'>15.95</price>
+    <condition>new</condition>
+    <notes>NETRUNNER STARTER DOUBLE-DECK
+CONTAIN ONE RULRBOOK AND 120 TRADABLE GAME CARDS
+{ONE 60 CARD CORPORATE DECK AND ONE 60 CARD RUNNER DECK}
+5.00 SHIPPING PAID BY BUYER OPT.INS 1.70 PAID BY BUYER
+NO RETURNS   THIS IS A GREAT GAME YOU WILL LOVE IT</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 May 2009 22:28:22 +0000</listdate>
+    <saledate>Mon, 11 May 2009 23:07:39 +0000</saledate>
+    <price currency='USD'>15.95</price>
+    <condition>new</condition>
+    <notes>NETRUNNER STARTER DOUBLE-DECK    
+CONTAINS ONE RULEBOOK AND 120 TRADABLE GAME CARDS
+{ONE 60 CARD CORPORATE DECK AND ONE 60 CARD RUNNER DECK}
+SHIPPING IS 5.00 PAID BY BUYER
+OPTIONAL INSURANCE IS 1.70 PAID BY BUYER
+NO RETURNS
+THIS IS A GREAT GAME, YOU WILL LOVE IT!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 May 2009 23:28:04 +0000</listdate>
+    <saledate>Wed, 13 May 2009 04:20:30 +0000</saledate>
+    <price currency='USD'>15.95</price>
+    <condition>new</condition>
+    <notes>NETRUNNER STARTER DOUBLE-DECK
+CONTAINS ONE RULEBOOK AND 120 TRADABLE GAME CARDS
+{ONE 60 CARD CORPORATE DECK AND ONE 60 CARD RUNNER DECK}
+SHIPPING IS 5.00 PAID BY BUYER OPT.INS 170 PAID BY BUYER
+NO RETURNS       THIS IS A GREAT GAME YOU WILL LOVE IT</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 May 2009 03:48:15 +0000</listdate>
+    <saledate>Thu, 21 May 2009 15:09:41 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Netrunner double starter deck, still in cellophane.
+Shipping in the US is $5.00. I will ship worldwide but shipping costs will be much higher.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 May 2009 18:44:35 +0000</listdate>
+    <saledate>Fri, 19 Jun 2009 05:36:15 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>NETRUNNER STARTER DOUBLE-DECKS
+CONTAINS ONE RULEBOOK AND 120 TRADABLE GAME CARDS
+{ONE 60 CARD CORPORATE DECK AND ONE 60 CARD RUNNER DECK}
+THIS IS GREAT GAME AND HAS BECOME A VERY POPULAR GAME .YOU WILL LOVE IT.   SHIPPING 5.00 PAID BY BUYER   OPT INS.  1.95 PAID BY  BUYER  SHIPS SAME DAY PAYMENT IN PAYPAL ACCOUNT. THEN I WILL SEND YOU A TRACKING # YOU WILL RECIEVE IN 2-3 DAYS USPS   BRAND NEW STILL IN CELEPHANE WRAPPER</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Jun 2009 09:46:11 +0000</listdate>
+    <saledate>Sat, 20 Jun 2009 07:45:27 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>likenew</condition>
+    <notes>Out of shrink but never played - as good as new.
+One Netrunner Starter Double-Deck.
+Will accept direct deposit from Australian Buyers.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Jul 2009 13:33:43 +0000</listdate>
+    <saledate>Wed, 01 Jul 2009 16:18:32 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Sealed double deck (Corporation and Runner).
+Reserved for LibMats via CJ Heart charity auction.
+Please donate the S_T_E_M_P_T_A_G_amp;H of $5 to CJ_T_E_M_P_T_A_G_#039;s fund (e.g. 25 + 5 = 30), but I will cover shipping of the actual decks.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Jul 2009 03:28:31 +0000</listdate>
+    <saledate>Fri, 31 Jul 2009 13:18:29 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>ONLY for scratched
+(auction item)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Aug 2009 00:05:50 +0000</listdate>
+    <saledate>Thu, 06 Aug 2009 17:15:55 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>10 unopened booster packs from Netrunner 1.0 limited edition.
+15 cards per pack, for a total of 150 cards.
+Shipping is $7.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Sep 2009 02:03:52 +0000</listdate>
+    <saledate>Mon, 05 Oct 2009 18:20:47 +0000</saledate>
+    <price currency='USD'>110</price>
+    <condition>new</condition>
+    <notes>This is a sale posting specifically for Janos Bornemisza
+(urufu) on October 3, 2009.  I will repost an updated listing of my Netrunner product for sale once this transaction is confirmed.
+This lot includes 2 starters, 2 common sets, 2 vital sets and 1 near set of uncommons (1 short of complete).
+Shipping will be $29.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Oct 2009 01:23:44 +0000</listdate>
+    <saledate>Tue, 06 Oct 2009 16:55:39 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for the pete.  I will repost my updated Netrunner product listing once this transaction is complete.
+23 unopened netrunner boosters and 2 unopened proteus boosters.
+Shipping will be $8.
+Thanks,
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Oct 2009 22:47:15 +0000</listdate>
+    <saledate>Mon, 19 Oct 2009 18:28:41 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for Matthaos42.
+This lot includes
+1 Unopened Starter
+One set of base set commons
+one set of base set vitals
+one nearly complete set (130 of 132) uncommons.
+I will also include an additional partial set of commons and vitals.
+This lot will be $75 and shipping will be $6.  I will send via USPS and include delivery confirmation.  
+Thanks for your interest.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Oct 2009 12:28:42 +0000</listdate>
+    <saledate>Wed, 14 Oct 2009 18:03:36 +0000</saledate>
+    <price currency='USD'>110</price>
+    <condition>likenew</condition>
+    <notes>This listing has been worked out for jsharp.
+Complete set of Base Set Uncommons x4 - $40.00
+Complete set of Proteus Commons x4 - $20.00
+Complete set of Proteus Uncommons x4 - $50.00
+All cards are straight out of packs and into card boxes.  There may be some very limited handling wear but all cards are near mint.  I also have multiple sets of the above, so just let me know what you are interested in.  I would also be willing to discuss discounted pricing for multiple orders.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Oct 2009 00:33:13 +0000</listdate>
+    <saledate>Tue, 27 Oct 2009 17:17:59 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>This listing is up to date as of 10/19/09.
+The price listing is simply for an unopened starter, but let me know what you want and I_T_E_M_P_T_A_G_#039;ll adjust the price to match your wants.
+Netrunner 1.0, the base set.
+Unopened Starter (I_T_E_M_P_T_A_G_#039;ve got 4 total), $22.00 each
+Complete set of limited commons (I_T_E_M_P_T_A_G_#039;ve got four sets), $15 each set
+Complete set of limited vitals (I_T_E_M_P_T_A_G_#039;ve got two sets, possibly more once I get all my cards sorted), $8 each set
+Complete set of limited commons, $30
+Bundle of 100 nonduplicate vitals and commons (numerous), $15
+Bundle of 50 nonduplicate uncommons, $12
+Inquire about rares, I_T_E_M_P_T_A_G_#039;ve got 56 different rares available from the base set.
+Near complete base set (349 of 374 cards, all commons, uncommons and vitals and 85 of 110 rares). $170 or make an offer
+Netrunner Proteus
+nearly complete sets of commons (65 of 66; missing the Corp card, Sandstorm), $30
+Additional commons I can bundle for about 50 cents each
+Set of 37 uncommons (out of 44), $45.
+Additional uncommons I can bundle for about $1 each
+Seven Proteus rares: Cybertech Think Tank, Executive Bootcamp, Obfuscated Fortress, Research Bunker, Pirate Broadcast, Prearranged Drop, and Bargain with Viacox. Make an offer for the rares (or see my trade listing for Netrunner for cards I_T_E_M_P_T_A_G_#039;m looking to trade for).
+Nearly complete set of Proteus (134 of 154 cards; 25 of 44 rares, 43 of 44 uncommons and all 66 commons) for $140 or make an offer.
+For the collectors, probably 85% of my opened product is mint/near mint with the other 15% showing some modest play wear. The loose Proteus product is more like 95% NM.
+Shipping for a single Starter is $5.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Oct 2009 14:34:44 +0000</listdate>
+    <saledate>Wed, 20 Jan 2010 10:09:52 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>includes several booster packs and a complete 2-player starter. Superb condition.
+Shipping at cost, will combine.
+Payment with paypal or money transfer in Europe.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Oct 2009 00:34:47 +0000</listdate>
+    <saledate>Sun, 08 Nov 2009 05:03:15 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>This listing is up to date as of 10/29/09.
+The price listing is simply for an unopened starter, but let me know what you want and I_T_E_M_P_T_A_G_#039;ll adjust the price to match your wants.
+Netrunner 1.0, the base set.
+Unopened Starter (I_T_E_M_P_T_A_G_#039;ve got 3 total), $22.00 each
+Complete set of limited commons (I_T_E_M_P_T_A_G_#039;ve got four sets), $15 each set
+Complete set of limited vitals (I_T_E_M_P_T_A_G_#039;ve got two sets, possibly more once I get all my cards sorted), $8 each set
+Complete set of limited uncommons, $30
+Bundle of 100 nonduplicate vitals and commons (numerous), $15
+Bundle of 50 nonduplicate uncommons, $12
+Inquire about rares, I_T_E_M_P_T_A_G_#039;ve got 56 different rares available from the base set.
+Near complete base set (349 of 374 cards, all commons, uncommons and vitals and 85 of 110 rares). $170 or make an offer
+Netrunner Proteus
+nearly complete sets of commons (65 of 66; missing the Corp card, Sandstorm), $30
+Additional commons I can bundle for about 50 cents each
+Set of 37 uncommons (out of 44), $45.
+Additional uncommons I can bundle for about $1 each
+Seven Proteus rares: Cybertech Think Tank, Executive Bootcamp, Obfuscated Fortress, Research Bunker, Pirate Broadcast, Prearranged Drop, and Bargain with Viacox. Make an offer for the rares (or see my trade listing for Netrunner for cards I_T_E_M_P_T_A_G_#039;m looking to trade for).
+Nearly complete set of Proteus (134 of 154 cards; 25 of 44 rares, 43 of 44 uncommons and all 66 commons) for $140 or make an offer.
+For the collectors, probably 85% of my opened product is mint/near mint with the other 15% showing some modest play wear. The loose Proteus product is more like 95% NM.
+Shipping for a single Starter is $5.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Nov 2009 21:33:39 +0000</listdate>
+    <saledate>Sat, 28 Nov 2009 14:49:37 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>This listing is up to date as of 11/8/09.
+The price listing is simply for an unopened starter, but let me know what you want and I_T_E_M_P_T_A_G_#039;ll adjust the price to match your wants.
+Netrunner 1.0, the base set.
+Unopened Starter (I_T_E_M_P_T_A_G_#039;ve got 3 total), $22.00 each
+Complete set of limited commons (I_T_E_M_P_T_A_G_#039;ve got four sets), $15 each set
+Complete set of limited vitals (I_T_E_M_P_T_A_G_#039;ve got two sets, possibly more once I get all my cards sorted), $8 each set
+Complete set of limited uncommons, $30
+Bundle of 100 nonduplicate vitals and commons (numerous), $15
+Bundle of 50 nonduplicate uncommons, $12
+Inquire about rares, I_T_E_M_P_T_A_G_#039;ve got 56 different rares available from the base set.
+Near complete base set (349 of 374 cards, all commons, uncommons and vitals and 85 of 110 rares). $170 or make an offer
+Netrunner Proteus
+nearly complete sets of commons (65 of 66; missing the Corp card, Sandstorm), $30
+Additional commons I can bundle for about 50 cents each
+Set of 37 uncommons (out of 44), $45.
+Additional uncommons I can bundle for about $1 each
+Seven Proteus rares: Cybertech Think Tank, Executive Bootcamp, Obfuscated Fortress, Research Bunker, Pirate Broadcast, Prearranged Drop, and Bargain with Viacox. Make an offer for the rares (or see my trade listing for Netrunner for cards I_T_E_M_P_T_A_G_#039;m looking to trade for).
+Nearly complete set of Proteus (134 of 154 cards; 25 of 44 rares, 43 of 44 uncommons and all 66 commons) for $140 or make an offer.
+For the collectors, probably 85% of my opened product is mint/near mint with the other 15% showing some modest play wear. The loose Proteus product is more like 95% NM.
+Shipping for a single Starter is $5.
+Pictures available on request.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Nov 2009 19:43:08 +0000</listdate>
+    <saledate>Fri, 04 Dec 2009 19:28:35 +0000</saledate>
+    <price currency='USD'>160</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for Halcyon00.
+This lot will include 6 unopened starters and 12 unopened base set boosters.  I will ship via USPS prioirty medium size flat rate box.  The total cost of the lot, shipping plus game materials is $!60.
+listing last updated on Dec 1, 2009.
+The price listing is simply for an unopened starter, but let me know what you want and I_T_E_M_P_T_A_G_#039;ll adjust the price to match your wants.
+Netrunner 1.0, the base set.
+Unopened Starter (I_T_E_M_P_T_A_G_#039;ve got 8 total), $22.00 each
+Unopened base set boosters (I_T_E_M_P_T_A_G_#039;ve got 38), $2.75/booster or $2.50 a booster if you buy 10 or more).
+Complete set of limited commons (I_T_E_M_P_T_A_G_#039;ve got four sets), $15 each set
+Complete set of limited vitals (I_T_E_M_P_T_A_G_#039;ve got two sets, possibly more once I get all my cards sorted), $8 each set
+Complete set of limited uncommons, $30
+Bundle of 100 nonduplicate vitals and commons (numerous), $15
+Bundle of 50 nonduplicate uncommons, $12
+Inquire about rares, I_T_E_M_P_T_A_G_#039;ve got 56 different rares available from the base set.
+Near complete base set (349 of 374 cards, all commons, uncommons and vitals and 85 of 110 rares). $170 or make an offer
+Netrunner Proteus
+Complete sets of commons  $30
+Complete set of uncommons, $45
+I have additional loose commons and uncommons, make an offer
+Seven Proteus rares: Cybertech Think Tank, Executive Bootcamp, Obfuscated Fortress, Research Bunker, Pirate Broadcast, Prearranged Drop, and Bargain with Viacox. Make an offer for the rares (or see my trade listing for Netrunner for cards I_T_E_M_P_T_A_G_#039;m looking to trade for).
+Nearly complete set of Proteus (134 of 154 cards; 25 of 44 rares, 43 of 44 uncommons and all 66 commons) for $140 or make an offer.
+For the collectors, probably 85% of my opened product is mint/near mint with the other 15% showing some modest play wear. The loose Proteus product is more like 95% NM.
+Shipping for a single Starter is $5.
+International buyers welcome.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Dec 2009 21:09:01 +0000</listdate>
+    <saledate>Mon, 07 Dec 2009 23:44:32 +0000</saledate>
+    <price currency='USD'>190</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for Lepion.
+This lot includes some previously specified vitals, commons, uncommons, and rares from Netrunner base set, plus a partially complete set of Proteus cards (135 of the 154 cards in the set).
+The price is $190 and includes shipping.  I will likely throw in some bulk Proteus commons as space allows.
+Thanks 
+Listing updated on December 4, 2009.
+The price listing is simply for an unopened starter, but let me know what you want and I_T_E_M_P_T_A_G_#039;ll adjust the price to match your wants.
+Netrunner 1.0, the base set.
+Unopened Starter (I_T_E_M_P_T_A_G_#039;ve got 2 total, although currently have one up for possible trade in the current 12/4/09 math trade), $22.00 each
+Unopened base set boosters (I_T_E_M_P_T_A_G_#039;ve got 26), $2.75/booster or $2.50 a booster if you buy 10 or more).
+Complete set of limited commons (I_T_E_M_P_T_A_G_#039;ve got four sets), $15 each set
+Complete set of limited vitals (I_T_E_M_P_T_A_G_#039;ve got two sets, possibly more once I get all my cards sorted), $8 each set
+Complete set of limited uncommons, $30
+Bundle of 100 nonduplicate vitals and commons (numerous), $15
+Bundle of 50 nonduplicate uncommons, $12
+Inquire about rares, I_T_E_M_P_T_A_G_#039;ve got 56 different rares available from the base set.
+Near complete base set (349 of 374 cards, all commons, uncommons and vitals and 85 of 110 rares). $170 or make an offer
+Netrunner Proteus
+Complete sets of commons $30
+Complete set of uncommons, $45
+I have additional commons and uncommons I haven_T_E_M_P_T_A_G_#039;t fully sorted and likely ahve additional complete sets.
+Seven Proteus rares: Cybertech Think Tank, Executive Bootcamp, Obfuscated Fortress, Research Bunker, Pirate Broadcast, Prearranged Drop, and Bargain with Viacox. Make an offer for the rares (or see my trade listing for Netrunner for cards I_T_E_M_P_T_A_G_#039;m looking to trade for).
+Nearly complete set of Proteus (134 of 154 cards; 25 of 44 rares, 43 of 44 uncommons and all 66 commons) for $140 or make an offer.
+For the collectors, probably 85% of my opened product is mint/near mint with the other 15% showing some modest play wear. The loose Proteus product is more like 95% NM.
+Shipping for a single Starter is $5.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Dec 2009 02:08:05 +0000</listdate>
+    <saledate>Tue, 08 Dec 2009 04:09:26 +0000</saledate>
+    <price currency='USD'>53.25</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for Darker.
+This is a lot of 12 rares from the base set and 15 unopened base set boosters.
+I will ship via USPS priority mail small flat rate box.  Shipping is $5.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Dec 2009 14:24:20 +0000</listdate>
+    <saledate>Sun, 24 Jan 2010 04:42:14 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for djthree6t.  Total is $45 for one starter in shrink, a set of vitals, and a set of 100 nonduplicate vitals and commons.  Shipping is $5.  Thanks.
+The price listing is simply for an unopened starter, but let me know what you want and I_T_E_M_P_T_A_G_#039;ll adjust the price to match your wants.  What is posted is what I_T_E_M_P_T_A_G_#039;ve sorted so far, I_T_E_M_P_T_A_G_#039;ve got some opened starters and about 800 loose base set cards I have yet to sort.
+Netrunner 1.0, the base set.
+Unopened Starter (I_T_E_M_P_T_A_G_#039;m down to 2 left), $22.00 each
+Unopened base set boosters (I_T_E_M_P_T_A_G_#039;ve got 11), $2.75/booster
+Complete set of limited commons (I_T_E_M_P_T_A_G_#039;ve got four sets), $15 each set
+Complete set of limited vitals (I_T_E_M_P_T_A_G_#039;ve got two sets, possibly more once I get all my cards sorted), $8 each set
+Complete set of limited uncommons, $30
+Bundle of 100 nonduplicate vitals and commons (numerous), $15
+Bundle of 50 nonduplicate uncommons, $12
+Inquire about rares, I_T_E_M_P_T_A_G_#039;ve only got a few extras outside the near complete base set listed below.
+Near complete base set (349 of 374 cards, all commons, uncommons and vitals and 85 of 110 rares). $170 or make an offer
+Netrunner Proteus
+Complete sets of commons $30
+Complete set of uncommons, $45
+I have additional commons and uncommons I haven_T_E_M_P_T_A_G_#039;t fully sorted and likely have additional complete sets.
+.
+For the collectors, probably 85% of my opened product is mint/near mint with the other 15% showing some modest play wear. The loose Proteus product is more like 95% NM.
+Shipping for a single Starter is $5.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jan 2010 17:12:54 +0000</listdate>
+    <saledate>Sun, 24 Jan 2010 18:00:44 +0000</saledate>
+    <price currency='USD'>30.25</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for Garik.  I_T_E_M_P_T_A_G_#039;ll be reposting an update listing of what I have available once this transaction is complete.
+This is for 11 in shrink netrunner boosters.  Shipping is 10.88 via USPS priority mail small flat rate box.  Enjoy.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Jan 2010 03:16:52 +0000</listdate>
+    <saledate>Wed, 03 Feb 2010 19:08:54 +0000</saledate>
+    <price currency='USD'>36.5</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for Muka.  It includes 1 unopened starter and about $15 worth of loose cards.  Shipping will be $13.50 via USPS small flat rate priority mail.
+The price listing is simply for an unopened starter, but let me know what you want and I_T_E_M_P_T_A_G_#039;ll adjust the price to match your wants. What is posted is what I_T_E_M_P_T_A_G_#039;ve sorted so far, I_T_E_M_P_T_A_G_#039;ve got some opened starters I need to dig up and about 800 loose base set cards I have yet to sort and post.
+Netrunner 1.0, the base set.
+Unopened Starter (this is my last one for now), $22.00 each
+Complete set of limited commons (I_T_E_M_P_T_A_G_#039;ve got four sets), $15 each set
+Complete set of limited vitals (I_T_E_M_P_T_A_G_#039;ve got two sets, possibly more once I get all my cards sorted), $8 each set
+Complete set of limited uncommons, $30
+Bundle of 100 nonduplicate vitals and commons (numerous), $15
+Bundle of 50 nonduplicate uncommons, $12
+Inquire about rares, I_T_E_M_P_T_A_G_#039;ve only got a few extras outside the near complete base set listed below.
+Near complete base set (349 of 374 cards, all commons, uncommons and vitals and 85 of 110 rares). $150 or make an offer
+Netrunner Proteus
+Complete sets of commons $30
+Complete set of uncommons, $45
+I have additional commons and uncommons I haven_T_E_M_P_T_A_G_#039;t fully sorted and likely have additional complete sets.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2010 18:39:10 +0000</listdate>
+    <saledate>Sun, 11 Apr 2010 20:49:53 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Starter decks, runner and corp.
+cards are nearly unplayed.  tuckbox has some shelfwear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Mar 2010 17:38:23 +0000</listdate>
+    <saledate>Tue, 06 Apr 2010 13:53:23 +0000</saledate>
+    <price currency='USD'>500</price>
+    <condition>verygood</condition>
+    <notes>This is a custom listing for Adam O_T_E_M_P_T_A_G_#039;Brien to purchase my entire collection of sorted and unsorted Netrunner cards.  The listing is $500 and this covers the cost of the cards plus shipping, insurance and delivery confirmation.
+I am out of starters, the posted price is for a complete set of 1.0 commons, but let me know what you_T_E_M_P_T_A_G_#039;d specifically like and I_T_E_M_P_T_A_G_#039;ll put together a custome listing for you.
+Netrunner 1.0, the base set.
+Complete set of limited commons (I_T_E_M_P_T_A_G_#039;ve got four sets), $12 each set
+Complete set of limited vitals (I_T_E_M_P_T_A_G_#039;ve got two sets, possibly more once I get all my cards sorted), $8 each set
+Complete set of limited uncommons, $30
+Bundle of 50 uncommons (no duplicates), $12
+Inquire about rares, I_T_E_M_P_T_A_G_#039;ve only got a few extras outside the near complete base set listed below.
+Near complete base set (349 of 374 cards, all commons, uncommons and vitals and 85 of 110 rares). $150 or make an offer
+Netrunner Proteus
+Complete sets of commons $30
+Complete set of uncommons, $45
+I have additional Proteust commons and uncommons I haven_T_E_M_P_T_A_G_#039;t fully sorted and likely have additional complete sets.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Mar 2010 19:33:06 +0000</listdate>
+    <saledate>Mon, 05 Apr 2010 16:19:59 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>1 box with 2 starter decks (1 corp, 1 runner).  opened but never played</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Apr 2010 15:28:39 +0000</listdate>
+    <saledate>Tue, 13 Apr 2010 15:48:16 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>One starter pack (one corp deck and one runner deck) with rulebook and box. All cards are in very good condition.
+This game is pretty light, so shipping should be pretty inexpensive.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 May 2010 13:34:34 +0000</listdate>
+    <saledate>Sat, 05 Jun 2010 22:21:58 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>Only for Kafka</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Jul 2010 00:24:10 +0000</listdate>
+    <saledate>Tue, 03 Aug 2010 03:18:33 +0000</saledate>
+    <price currency='USD'>96</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for SirGronk for 4 Netrunner Starters.  Shipping will be $9.
+Listing price is for one, in shrink starter (which includes a 60 card corp and 60 card runner deck).
+I have 12 in shrink starters available for $24 each.
+I also have 65 unopened base set boosters available for $2.75 per booster.
+Shipping for a single starter is $5 to the U.S. via USPS priority mail, other locations please inquire.  If you want a larger collection of cards, I_T_E_M_P_T_A_G_#039;ll get back to you with shipping but generally a lot of product will fit in a USPS medium priority mail box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Aug 2010 00:32:13 +0000</listdate>
+    <saledate>Tue, 12 Oct 2010 05:08:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Double starter deck + cards from three boosters.  Opened, starter decks slightly modified for playability (removed actually unusable cards, etc., I can give you the original contents lists and modifications if you want!)
+Played a handful of times, carefully.  Pretty close to new (and haven_T_E_M_P_T_A_G_#039;t been sitting around opened for ages -- bought less than 1 year ago and opened then).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Aug 2010 11:19:26 +0000</listdate>
+    <saledate>Thu, 26 Aug 2010 03:40:25 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for Ericbjohnson.  The lot is for 2 starters and four boosters.  Shipping will be $7.
+Listing price is for one, in shrink starter (which includes a 60 card corp and 60 card runner deck).  If you want more product than a single starter, just geekmail me and I_T_E_M_P_T_A_G_#039;ll create a custom listing with the appropriate product for you to purchase.  
+Note for those new to the game, a single starter works great as an introduction to the game and has the appropriate product for both the corp and runner player plus an instruction guide.  If you have any questions about the game, please ask.
+I have 8 in shrink starters available for $24 each.
+I also have 65 unopened base set boosters available for $3.00 per booster.
+Shipping for a single starter is $5 to the U.S. via USPS priority mail, other locations please inquire. If you want a larger collection of cards, I_T_E_M_P_T_A_G_#039;ll get back to you with shipping but generally a lot of product will fit in a USPS medium priority mail box.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Aug 2010 02:06:29 +0000</listdate>
+    <saledate>Tue, 24 Aug 2010 13:29:30 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>No offers. Private sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Sep 2010 00:15:36 +0000</listdate>
+    <saledate>Mon, 06 Sep 2010 01:55:18 +0000</saledate>
+    <price currency='USD'>148</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for John Collis for 60 Netrunner boosters.  Shipping cost will be determined shortly.  I will repost this listing after this transaction is resolved.  I have six starters remaining.
+Listing price is for one, in shrink starter (which includes a 60 card corp and 60 card runner deck). If you want more product than a single starter, just geekmail me and I_T_E_M_P_T_A_G_#039;ll create a custom listing with the appropriate product and price for you to purchase.
+Note for those new to the game, a single starter works great as an introduction to the game and has the appropriate product for both the corp and runner player plus an instruction guide. If you have any questions about the game, please ask.
+I have 6 in shrink starters available for $24 each.
+I also have 61 unopened base set boosters available for $3.00 per booster.
+Shipping for a single starter is $5 to the U.S. via USPS priority mail, other locations please inquire. If you want a larger collection of cards, I_T_E_M_P_T_A_G_#039;ll get back to you with shipping but generally a lot of product will fit in a USPS medium priority mail box ($10).  Other locations please inquire for postage costs.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Sep 2010 12:44:11 +0000</listdate>
+    <saledate>Tue, 07 Sep 2010 13:59:20 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>This sale is for a bulk lot of 457 Netrunner cards.  The lot includes 445 cards from the Unlimited Edition (1.0) and 12 cards from the Proteus Edition (2.1).  In total the lot includes 123 uncommon cards and 23 rares.  See the card list presented below for a full list of cards included in the lot.
+I am willing to ship via any method the buyer prefers, however, I recommend flat rate Priority Mail because it is economical and fast.
+Although I have not sold many games in the BGG marketplace, I have traded games on BGG extensively and invite you to look over my trade feedback.
+If you have any questions at all feel free to contact me here at BGG or via my personal email at: sheltonious@yahoo.com
+Thanks for looking.
+LIMITED EDITION (1.0)
+Access through Alpha 1
+Access to Arasaka 2
+Access to Kiribati 6
+Afreet 2
+AI Boon 1
+All-Nighter 4
+Armadillo Armored Road Home 3
+Armored Fridge 2
+Artemis 2020 3
+Back Door to Hilliard 4
+Back Door to Orbital Air 4
+Baedeker_T_E_M_P_T_A_G_#039;s Net Map 4
+Bakdoor 1
+Bartmoss Memorial Icebreaker 1
+Black Dahlia 4
+Blink 1
+Boardwalk 1
+Bodyweight Data Creche 1
+Bodyweight Synthetic Blood 3
+Broker 4
+Butcher Boy 4
+Cascade 3
+Cloak 5
+Clown 7
+Cockroach 2
+Codecracker 4
+Codeslinger 2
+Corolla Speed Chip 3
+Corporate Ally 1
+Crash Everett, Inventive Fixer 6
+Custodial Position 5
+Cyfermaster 4
+Danshi_T_E_M_P_T_A_G_#039;s Second ID 1
+Databroker 1
+Dermatech Bodyplating 1
+Desperate Competitor 1
+Diplomatic Immunity 1
+Dogcatcher 2
+Drifter Mobile Environment 1
+Dropp 2
+Dwarf 4
+Edited Shipping Manifests 7
+Evil Twin 1
+Executive Wiretaps 5
+Expert Schedule Analyzer 1
+Fait Accompli 3
+Fall Guy 6
+Flak 3
+Floating Runner BBS 1
+Force Shield 4
+Forged Activation Orders 2
+Forgotten Backup Chip 4
+Fortress Respecification 1
+Gideon_T_E_M_P_T_A_G_#039;s Pawnshop 7
+Green Knight Surge Buffers 7
+Gremlins 4
+Grubb 2
+Hammer 2
+Hell_T_E_M_P_T_A_G_#039;s Run 2
+HQ Interface 7
+Hunt Club BBS 4
+I Spy 2
+Ice and Data_T_E_M_P_T_A_G_#039;s Guide to the Net 1
+If You Want It Done Right 5
+Imp 1
+Inside Job 2
+Invisibility 5
+Jack _T_E_M_P_T_A_G_#039;n_T_E_M_P_T_A_G_#039; Joe 8
+Jackhammer 3
+Junkyard BBS 3
+Karl de Veres, Corporate Stooge 2
+Kilroy Was Here 2
+Krash 1
+Leland, Corporate Bodyguard 3
+Livewire_T_E_M_P_T_A_G_#039;s Contacts 4
+Loan from Chiba 2
+Loony Goon 2
+Lucidrine Booster Drug 2
+Mantis, Fixer-at-Large 5
+Microtech _T_E_M_P_T_A_G_#039;Trode Set 1
+Microtech AI Interface 1
+Microtech Backup Drive 3
+Militech MRAM Chip 1
+MIT West Tier 1
+Mouse 1
+MRAM Chip 5
+Mystery Box 1
+N.E.T.O. 1
+Nasuko Cycle 2
+Netspace Inverter 1
+Newsgroup Filter 1
+Nomad Allies 4
+Open-Ended Mileage Program 6
+Organ Donor 1
+Pandora_T_E_M_P_T_A_G_#039;s Deck 1
+Parraline 5750 7
+Pattel_T_E_M_P_T_A_G_#039;s Virus 3
+Pile Driver 4
+PK-6089a 4
+Playful AI 1
+Pox 1
+R_T_E_M_P_T_A_G_amp;D Interface 5
+R_T_E_M_P_T_A_G_amp;D Protocol Files 2
+Rabbit 3
+Raffles 5
+Ramming Piston 3
+Raptor 5
+Raven Microcyb Eagle 5
+Raven Microcyb Owl 2
+Replicator 2
+Restrictive Net Zoning 2
+Rigged Investments 5
+Score! 5
+Security Code WORM Chip 3
+SeeYa 4
+Self-Modifying Code 1
+Shaka 5
+Shield 6
+Short-Term Contract 4
+Shredder Uplink Protocol 3
+Signpost 3
+Skivviss 1
+Smarteye 7
+Smith_T_E_M_P_T_A_G_#039;s Pawnshop 3
+Speed Trap 2
+Startup Immolator 3
+Synchronized Attack on HQ 1
+Technician Lover 3
+Techtronica Utility Suit 1
+Temple Microcode Outlet 4
+Terrorist Reprisal 1
+The Short Circuit 4
+The Springboard 4
+Tinweasel 4
+Trauma Team 1
+Tycho Mem Chip 5
+Umbrella Policy 1
+Vewy Vewy Quiet 4
+Wild Card 4
+Wilson, Weeflerunner Apprentice 2
+Wizard_T_E_M_P_T_A_G_#039;s Book 3
+Worm 6
+WuTech Mem Chip 5
+Zetatech Mem Chip 6
+Zetatech Software Installer 3
+ZZ22 Speed Chip 5
+Total Unlimited Uncommon Cards 116
+Total Unlimited Rare Cards 20
+Total Unlimited Cards 445
+ 
+PROTEUS (2.1)
+Big Frackin’ Gun 1
+Bolt-Hole 1
+Bulldozer 1
+Corrosion 1
+Cruising For Netwatch 1
+Expendable Family Member 1
+Highlighter 1
+Lucidrine Drip Feed 1
+Remote Detonator 1
+Senatorial Field Trip 1
+Taxman 1
+Viral Pipeline 1
+Total Proteus Uncommon Cards 4
+Total Proteus Rare Cards 3
+Total Proteus Cards 12
+ 
+TOTAL UNCOMMON CARDS 120
+TOTAL RARE CARDS 23
+TOTAL CARDS 457
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Sep 2010 14:14:14 +0000</listdate>
+    <saledate>Sun, 12 Sep 2010 08:25:09 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for Luis Gonzalez.  2 starters.  Shipping to Spain will be $13.45 via USPS small flat rate box.  
+Listing price is for one, in shrink starter (which includes a 60 card corp and 60 card runner deck). 
+If you want more product than a single starter, just geekmail me and I_T_E_M_P_T_A_G_#039;ll create a custom listing with the appropriate product and price for you to purchase. I have a total of six starters left.
+Note for those new to the game, a single starter works great as an introduction to the game and has the appropriate product for both the corp and runner player plus an instruction guide. If you have any questions about the game, please ask.
+Shipping for a single starter is $5 to the U.S. via USPS priority mail, other locations please inquire. If you are getting more than one starter, I_T_E_M_P_T_A_G_#039;ll get back to you with shipping but generally a lot of product will fit in a USPS medium priority mail box ($10). Other locations please inquire for postage costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Sep 2010 13:40:13 +0000</listdate>
+    <saledate>Thu, 09 Sep 2010 17:09:36 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Netrunner for user Tjshields</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Sep 2010 01:06:19 +0000</listdate>
+    <saledate>Sat, 02 Oct 2010 13:22:39 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for Pirate Pete, 2 starters.  shipping will be 7.50 via USPS priority mail. 
+Listing price is for one, in shrink starter (which includes a 60 card corp and 60 card runner deck).
+I have a total of four starters left.  If you want more product than a single starter, just geekmail me and I_T_E_M_P_T_A_G_#039;ll create a custom listing with the appropriate product and price for you to purchase.
+Note for those new to the game, a single starter works great as an introduction to the game and has the appropriate product for both the corp and runner player plus an instruction guide. If you have any questions about the game, please ask.
+Shipping for a single starter is $5 to the U.S. via USPS priority mail, other locations please inquire. If you are getting more than one starter, I_T_E_M_P_T_A_G_#039;ll get back to you with shipping but generally a lot of product will fit in a USPS medium priority mail box ($10). Other locations please inquire for postage costs.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Sep 2010 02:47:37 +0000</listdate>
+    <saledate>Tue, 28 Sep 2010 12:31:39 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>new</condition>
+    <notes>This is for Dragontrainer only.
+It includes 1 box of unopened boosters.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Sep 2010 23:31:54 +0000</listdate>
+    <saledate>Tue, 05 Oct 2010 12:13:59 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Auction Mansell</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Oct 2010 23:42:00 +0000</listdate>
+    <saledate>Thu, 18 Nov 2010 23:27:54 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>Listing price is for one, in shrink starter (which includes a 60 card corp and 60 card runner deck).
+I have a total of 8 starters available. If you want more product than a single starter, just geekmail me and I_T_E_M_P_T_A_G_#039;ll create a custom listing with the appropriate product and price for you to purchase.
+Note for those new to the game, a single starter works great as an introduction to the game and has the appropriate product for both the corp and runner player plus an instruction guide. If you have any questions about the game, please ask.
+Shipping for a single starter is $5 to the U.S. via USPS priority mail, other locations please inquire. If you are getting more than one starter, I_T_E_M_P_T_A_G_#039;ll get back to you with shipping but generally a lot of product will fit in a USPS medium priority mail box ($10). Other locations please inquire for postage costs.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Nov 2010 21:46:53 +0000</listdate>
+    <saledate>Wed, 08 Dec 2010 13:22:38 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>Not a live listing. This game has already been purchased and the listing is being created to give BGG their cut of the sale price.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Nov 2010 02:04:25 +0000</listdate>
+    <saledate>Fri, 03 Dec 2010 15:38:48 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for Admiral Weekender to be shipped via USPS small flat rate priority mail international.
+Listing price is for one, in shrink starter (which includes a 60 card corp and 60 card runner deck).
+I have a total of 6 starters available. If you want more product than a single starter, just geekmail me and I_T_E_M_P_T_A_G_#039;ll create a custom listing with the appropriate product and price for you to purchase.
+Note for those new to the game, a single starter works great as an introduction to the game and has the appropriate product for both the corp and runner player plus an instruction guide. If you have any questions about the game, please ask.
+Shipping for a single starter is $5 to the U.S. via USPS priority mail, other locations please inquire. If you are getting more than one starter, I_T_E_M_P_T_A_G_#039;ll get back to you with shipping cost.  Locations outside the U.S., just ask for a shipping quote.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Dec 2010 18:59:33 +0000</listdate>
+    <saledate>Sat, 04 Dec 2010 16:11:51 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>This listing is for JamesRamone.  I_T_E_M_P_T_A_G_#039;ll ship via USPS priority mail international small flat rate box.
+Listing price is for one, in shrink starter (which includes a 60 card corp and 60 card runner deck).
+I have a total of 6 starters available. If you want more product than a single starter, just geekmail me and I_T_E_M_P_T_A_G_#039;ll create a custom listing with the appropriate product and price for you to purchase.
+Note for those new to the game, a single starter works great as an introduction to the game and has the appropriate product for both the corp and runner player plus an instruction guide. If you have any questions about the game, please ask.
+Shipping for a single starter is $5 to the U.S. via USPS priority mail, other locations please inquire. If you are getting more than one starter, I_T_E_M_P_T_A_G_#039;ll get back to you with shipping cost. Locations outside the U.S., just ask for a shipping quote.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Dec 2010 01:25:07 +0000</listdate>
+    <saledate>Thu, 09 Dec 2010 18:22:29 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>Listing price is for one, in shrink starter (which includes a 60 card corp and 60 card runner deck).
+I have a total of 3 starters available. If you want more product than a single starter, just geekmail me and I_T_E_M_P_T_A_G_#039;ll create a custom listing with the appropriate product and price for you to purchase.
+Note for those new to the game, a single starter works great as an introduction to the game and has the appropriate product for both the corp and runner player plus an instruction guide. If you have any questions about the game, please ask.
+Shipping for a single starter is $5 to the U.S. via USPS priority mail, other locations please inquire. If you are getting more than one starter, I_T_E_M_P_T_A_G_#039;ll get back to you with shipping cost. Locations outside the U.S., just ask for a shipping quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Dec 2010 04:27:18 +0000</listdate>
+    <saledate>Tue, 14 Dec 2010 05:33:15 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Sold to Kafka per:
+http://www.boardgamegeek.com/geeklist/61989/netrunner-starter-decks-extra-cards-up-for-auctio
+All other offers will be rejected.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Dec 2010 16:01:15 +0000</listdate>
+    <saledate>Fri, 31 Dec 2010 16:10:08 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>10 unopened base set boosters.  Each booster includes 15 cards.
+Shipping is $5 to US, other locations please inquire.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Dec 2010 16:49:08 +0000</listdate>
+    <saledate>Sun, 01 May 2011 20:02:43 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>This is a custom listing for Erich Zahn for one unopened starter.  Shipping will be $13.45.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Jan 2011 00:22:15 +0000</listdate>
+    <saledate>Fri, 25 Feb 2011 14:37:11 +0000</saledate>
+    <price currency='USD'>99.95</price>
+    <condition>new</condition>
+    <notes>Unopened Netrunner 1.0 booster box. The original shrinkwrap is still intact, but the box itself has fallen apart a little. The packs inside are fine, though.
+Buyer pays actual shipping cost for USPS Priority Mail. If you_T_E_M_P_T_A_G_#039;d like to save a few dollars on shipping, I can take the packs out of the box - that should let them fit in a smaller package. I will ship to Canada and Europe, but it could take me more time to sort out shipping costs and get to the PO - be patient.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Feb 2011 22:08:26 +0000</listdate>
+    <saledate>Tue, 08 Feb 2011 00:30:01 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>4 sealed Netrunner boosters PLUS 1 sealed Netrunner Proteus booster PLUS 1 starter pack in Very Good condition (played about 3 times) which includes the rules, a starter Runner deck and a starter Corporation deck. This is everything you need to play Netrunner!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Apr 2011 14:47:17 +0000</listdate>
+    <saledate>Thu, 21 Apr 2011 22:24:54 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>2-Player Starter. Only for neoshmengi. Auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Apr 2011 15:05:26 +0000</listdate>
+    <saledate>Wed, 20 Apr 2011 08:10:15 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Doug Oppedahl
+paypal:  johnnyd777@comcast.net</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 May 2011 19:45:19 +0000</listdate>
+    <saledate>Wed, 18 May 2011 23:28:53 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Netrunner - two player starter set. One corporate deck and one runner deck. 
+Excellent condition overall.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jul 2011 01:43:48 +0000</listdate>
+    <saledate>Tue, 20 Sep 2011 21:23:21 +0000</saledate>
+    <price currency='USD'>275</price>
+    <condition>likenew</condition>
+    <notes>This is the last of what I_T_E_M_P_T_A_G_#039;ve collected and I_T_E_M_P_T_A_G_#039;m selling as either a single lot for $275 or I_T_E_M_P_T_A_G_#039;ll break it into three equal lots and sell each third for $110.
+The collection is comprised of 2008 total cards from version 1.0 (the base set of Netrunner), nearly all of which are in like new, unplayed condition.  There are 299 vitals (between 3 and 11 of all 44 vitals in the limited edition); 950 commons (between 6 and 15 of each of the 88 commons); 638 uncommons (with at least 1 of 131 of the 132 uncommons; generally have 2 or more of each uncommon); and 120 rares (74 unique rares of the 110).
+I can provide a complete listing of the entire collection as an excel spreadhseet upon request.  If you want a third of the collection, I_T_E_M_P_T_A_G_#039;ll split the collection evenly, trying to maximize the diversity of cards.  I can provide a listing for each lot and let you pick the lot you want.
+Shipping will be $10 to the US regardless of whether you want the entire collection or just a third.  Other locations please inquire.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jul 2011 14:42:18 +0000</listdate>
+    <saledate>Mon, 18 Jul 2011 16:27:07 +0000</saledate>
+    <price currency='USD'>62</price>
+    <condition>verygood</condition>
+    <notes>RESERVED for user: Hawkeye77</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Aug 2011 15:08:20 +0000</listdate>
+    <saledate>Fri, 12 Aug 2011 15:20:10 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Copy saved for Jesse (Zaphod)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Aug 2011 01:08:24 +0000</listdate>
+    <saledate>Sat, 20 Aug 2011 01:43:58 +0000</saledate>
+    <price currency='USD'>61</price>
+    <condition>likenew</condition>
+    <notes>Netrunner lot
+This item is reserved for the BGG user ozzelator.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Aug 2011 15:49:21 +0000</listdate>
+    <saledate>Wed, 24 Aug 2011 23:41:14 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner 1awesomeguy. See auction listing for details.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Aug 2011 03:21:04 +0000</listdate>
+    <saledate>Fri, 26 Aug 2011 11:12:22 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This item is reserved for user cbrmichael.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Aug 2011 04:57:49 +0000</listdate>
+    <saledate>Sat, 03 Dec 2011 21:34:46 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>In Shrink Double Starter Deck
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Aug 2011 04:51:10 +0000</listdate>
+    <saledate>Sat, 27 Aug 2011 23:37:29 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>For PEPE QUICOSE ONLY.
+Netrunner starter
+Xmen CCG</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Aug 2011 17:12:51 +0000</listdate>
+    <saledate>Fri, 06 Jan 2012 04:38:14 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>3x Sealed Double Deck Starters.
+Buyer pays exact shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Sep 2011 23:46:21 +0000</listdate>
+    <saledate>Tue, 01 Nov 2011 23:08:59 +0000</saledate>
+    <price currency='USD'>84</price>
+    <condition>new</condition>
+    <notes>- Six unopened booster packs
+Also includes Never been played:
+- Dual starter Deck still in box (120 Cards)
+- 60 cards from 4 booster pack that never played with
+Loose cards include:
+37 Vital
+8 Rare
+45 Uncommon
+90 Common
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Oct 2011 22:29:54 +0000</listdate>
+    <saledate>Wed, 02 Nov 2011 22:44:37 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>double deck starter in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Oct 2011 19:18:05 +0000</listdate>
+    <saledate>Mon, 31 Oct 2011 19:23:05 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Reserved for user PePe QuiCoSE for the following GeekList auction item: http://boardgamegeek.com/geeklist/74001/item/1889609#item1889609</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Nov 2011 21:44:18 +0000</listdate>
+    <saledate>Wed, 30 Nov 2011 00:44:20 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>For DFuzzy1 from the Games Just Want to Have Fun Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Dec 2011 16:57:18 +0000</listdate>
+    <saledate>Mon, 05 Dec 2011 23:35:10 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>Netrunner 2 starter decks.
+For purchase by user easterly1 only.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Dec 2011 05:53:46 +0000</listdate>
+    <saledate>Tue, 13 Dec 2011 22:47:26 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>BGG auction, reserved for TheFlatline</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Dec 2011 23:04:06 +0000</listdate>
+    <saledate>Mon, 16 Jan 2012 21:04:20 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Netrunner
+About 90 Runner cards and about 30 Corporate cards.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Dec 2011 06:45:32 +0000</listdate>
+    <saledate>Sat, 21 Jan 2012 15:29:10 +0000</saledate>
+    <price currency='USD'>110</price>
+    <condition>likenew</condition>
+    <notes>Two 1st Edition  Netrunner Deckmaster Starter Double Deck Boxes (total of four decks of cards, 240 cards total).  Cards have been opened and were looked at when I first bought them, but have never been played.  Not sure what the breakdown was, but I’m guessing 2-3 rares, 5-8 uncommons and the remaining 50+/- commons in each deck.  I do not know enough about the cards or how they were marked for rarity to tell you what is what, but if you’re interested and can guide me, we’ll figure it out.  There is also an additional 60 cards from boosters.  Not sure if these came 12 or 15 to a booster, but these have also never been played.
+Finally, this lot includes one copy of the Mastering NetRunner book by Ben Matthews and Charles Schwope.  Book is bagged and boarded, and has been since it was bought.  </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jan 2012 02:04:57 +0000</listdate>
+    <saledate>Thu, 19 Jan 2012 23:04:34 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>Brand new sealed 2 player starter, in French. I will ship worldwide, buyer pays actual shipping. Contact me to figure out the cost_T_E_M_P_T_A_G_#039;s.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jan 2012 17:06:36 +0000</listdate>
+    <saledate>Sun, 22 Jan 2012 19:16:15 +0000</saledate>
+    <price currency='USD'>109</price>
+    <condition>verygood</condition>
+    <notes>Lot of Netrunner cards, reserved for user per geekmail.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Feb 2012 02:43:37 +0000</listdate>
+    <saledate>Fri, 10 Feb 2012 05:16:11 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>verygood</condition>
+    <notes>Netrunner Starter Double-Deck in Excellent Condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Feb 2012 22:36:54 +0000</listdate>
+    <saledate>Tue, 13 Mar 2012 23:37:55 +0000</saledate>
+    <price currency='USD'>34.99</price>
+    <condition>new</condition>
+    <notes>Sealed starter deck.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Feb 2012 16:38:45 +0000</listdate>
+    <saledate>Thu, 01 Mar 2012 12:56:31 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Sealed starter deck, no damage to it at all.
+Can do face-to-face handoff in the Washington DC area.
+Discounts for multiple games in a purchase: $2 off all but most expensive game, will combine shipping.
+I_T_E_M_P_T_A_G_#039;m flexible with shipping. USPS seems cheapest. Use http://postcalc.usps.gov/ to estimate a price, shipping from 20171, weight of 2 lbs 0 ounces, I can use the pay online feature.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Apr 2012 17:55:58 +0000</listdate>
+    <saledate>Fri, 20 Apr 2012 12:57:44 +0000</saledate>
+    <price currency='USD'>51</price>
+    <condition>verygood</condition>
+    <notes>my paypal information is horns_1@hotmail.com
+I can fit them in to a smaller flate rate envelope for the 5.35 shipping.  it is tight and i have no idea how it will hold up for shipping.  I havent had any problems before.  If you decide you want the larger medium flat rate box let me know.  just pay the 11.35 instead. 
+thanks
+rick</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 May 2012 01:27:04 +0000</listdate>
+    <saledate>Thu, 24 May 2012 05:29:37 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>Starter set, new in shrink.
+Buyer pays shipping. Accept PayPal or Amazon gift cards.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 May 2012 15:55:24 +0000</listdate>
+    <saledate>Mon, 27 Aug 2012 05:45:17 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played.  STARTER SET 2 DECKS.
+Shipping is $5 if in USA.  $10 Canada.  $20 INTERNATIONAL.  
+PAYPAL, CHECKS, MONEY ORDER, CREDIT CARDS</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 May 2012 22:36:52 +0000</listdate>
+    <saledate>Thu, 03 Jan 2013 13:25:53 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Collection of 114 cards - 60 Corp including 2 rares and 54 Runner including 7 rares. Fits in small flat-rate priority mail box.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 May 2012 15:19:38 +0000</listdate>
+    <saledate>Wed, 30 May 2012 03:43:51 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This is the original base set of two decks which was opened and played once. All cards were sleeved before that play and the price here includes the sleeves.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 May 2012 00:07:36 +0000</listdate>
+    <saledate>Sun, 03 Jun 2012 21:53:03 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Twin starter deck set. Box shows minor wear but cards look great.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2012 19:30:24 +0000</listdate>
+    <saledate>Sat, 30 Jun 2012 06:38:26 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>Corp and Runner starter pack and 100+ cards from boosters that have all been opened and played.  Original rulebook and deck boxes included.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jul 2012 02:40:55 +0000</listdate>
+    <saledate>Tue, 31 Jul 2012 02:48:39 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Netrunner two player starter box. 
+Box shows wear, contents in excellent condition.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Aug 2012 23:37:59 +0000</listdate>
+    <saledate>Wed, 22 Aug 2012 23:46:23 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>Deckmaster Starter Double Deck.  Contains 60 card decks for the corporate and runner.
+Cards have only been used twice and are in very good condition.  The deck boxes are also in very good condition.
+The outer box shows a good amount of wear on the edges and corners and some of the artwork is missing where the price tag was removed.  The back cover is torn about 1_T_E_M_P_T_A_G_quot; on one side.
+Postage is $4 first class or $5.25 priority mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Sep 2012 12:41:12 +0000</listdate>
+    <saledate>Thu, 04 Oct 2012 11:41:11 +0000</saledate>
+    <price currency='GBP'>18.99</price>
+    <condition>verygood</condition>
+    <notes>This is an original 1996 Wizard of the Coast starter set - 2 decks. Includes rulebook, 120 cards, 2 deck boxes and outer box. Cards are in near mint condition. Rule book and deck boxes in very good condition. Outer box has some wear on edges. 
+Paypal and bank transfer accepted.
+UK Postage: £3.50</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Sep 2012 22:56:43 +0000</listdate>
+    <saledate>Mon, 24 Sep 2012 23:00:36 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Only For BGG User: Cornjob for auction high bid</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Oct 2012 20:57:19 +0000</listdate>
+    <saledate>Fri, 15 Mar 2013 02:59:49 +0000</saledate>
+    <price currency='USD'>74.95</price>
+    <condition>verygood</condition>
+    <notes>This is for a box of six starter decks. That_T_E_M_P_T_A_G_#039;s 720 cards. 5 of the 6 starter decks have been opened and played with, while the sixth one is still in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Jan 2013 02:42:38 +0000</listdate>
+    <saledate>Thu, 31 Jan 2013 03:21:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>One starter set plus another custom starter set and a couple hundred additional cards.
+Reserved for Ricatoni.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Feb 2013 02:40:14 +0000</listdate>
+    <saledate>Wed, 06 Feb 2013 01:54:02 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>For bjoll only!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Feb 2013 03:05:31 +0000</listdate>
+    <saledate>Fri, 08 Feb 2013 09:10:09 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>for user collasta only</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 May 2013 05:33:45 +0000</listdate>
+    <saledate>Fri, 03 May 2013 05:35:16 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner tebald</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Jun 2013 18:23:57 +0000</listdate>
+    <saledate>Mon, 24 Jun 2013 01:36:14 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Placeholder for mrteacherusa</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jun 2013 05:33:24 +0000</listdate>
+    <saledate>Wed, 26 Jun 2013 05:41:48 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>auction item for user: Hello Gregor
+Do not purchase this if you are not this user.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Jul 2013 20:15:25 +0000</listdate>
+    <saledate>Thu, 26 Sep 2013 01:55:14 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink.
+Will combine shipping for multiple games purchased.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Aug 2013 04:31:16 +0000</listdate>
+    <saledate>Mon, 05 Aug 2013 02:48:31 +0000</saledate>
+    <price currency='USD'>67</price>
+    <condition>likenew</condition>
+    <notes>For user scout13. 2+ booster boxes of original Netrunner 1.0 cards. Shipping included in price.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Oct 2013 00:56:35 +0000</listdate>
+    <saledate>Mon, 18 Nov 2013 20:56:10 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>2 Starter Sets (4 decks total - Corp and Runner deck in each set)
+Unplayed. Smoke free home. Buyer pays shipping costs. Will ship USPS Priority, FedEx or UPS. Please purchase only if willing to pay via PayPal.
+I will consider cash as an option if you live in the Indianapolis area and agree to a local pickup (NE Indy - Fishers/Castleton).
+Click on my username above to see my complete sale list. Purchase multiple games to save on shipping!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Jan 2014 22:12:09 +0000</listdate>
+    <saledate>Fri, 21 Feb 2014 03:36:01 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Sealed booster packs Netrunner Limited v1.0 for sale. Each pack contains 15 cards. Rarity distribution in boosters: 2 vital, 7 common, 5 uncommon, 1 rare.
+15x SEALED BOOSTER PACKS FOR $10 (225 cards)
+Many sealed booster packs available.
+Shipping 10$
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jan 2014 17:20:20 +0000</listdate>
+    <saledate>Wed, 29 Jan 2014 02:51:45 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>I have 5 unopened starter packs, and one opened starter pack. Price is per pack, unless you want them all, then I would be happy to discount =)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Mar 2014 03:35:58 +0000</listdate>
+    <saledate>Wed, 12 Mar 2014 04:41:45 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Goldyn Gryphon
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Apr 2014 23:32:01 +0000</listdate>
+    <saledate>Sun, 20 Jul 2014 12:32:34 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Cards are in very good to near mint condition.  Nearly all cards were played in sleeves, a few show barely noticeable wear.  No individual cards have been broken from when I played that I can recall, but there are no more than 4 of any card so it_T_E_M_P_T_A_G_#039;s possible that I gave away/traded any additional duplicates to friends.
+Card Counts:  
+Vital    (V):  86
+Common   (C): 258
+Uncommon (U): 180
+Rare     (R):  34
+Total       : 558
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 May 2014 16:58:15 +0000</listdate>
+    <saledate>Sat, 12 Jul 2014 07:33:52 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This is for the double deck starter edition. The cards were removed from the plastic, but the game was never played. I received this as a gift, but I have finally conceded that no amount of bribery will get my husband to play this game with me:(  Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jun 2014 05:53:25 +0000</listdate>
+    <saledate>Thu, 21 Aug 2014 21:19:10 +0000</saledate>
+    <price currency='GBP'>9.99</price>
+    <condition>acceptable</condition>
+    <notes>Netrunner Starter Double Deck includes rule book and two decks of cards (Corporate deck and Runner Deck 60 cards in each).
+Box is worn on the corners, but the decks do not appear to have been used (this was picked up on a maths trade)
+£9.99 for game plus £4 for shipping to the UK. Will not ship abroad.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Aug 2014 20:48:31 +0000</listdate>
+    <saledate>Fri, 08 Aug 2014 07:32:11 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>new</condition>
+    <notes>Game reserved in an Auction to Tajs</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Mar 2015 02:45:27 +0000</listdate>
+    <saledate>Mon, 23 Mar 2015 02:55:46 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/188860/item/3799053#3799053]Item for Geeklist _T_E_M_P_T_A_G_quot;Spring into Spring Auction - ends 3/22_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for user: Ragecage
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Jul 2014 06:04:59 +0000</listdate>
+    <saledate>Sun, 19 Apr 2015 08:20:38 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>1996 Wizards of the Coast edition in English.
+Like new Deck Master and three sealed boosters.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 May 2015 12:26:45 +0000</listdate>
+    <saledate>Sat, 23 May 2015 14:15:14 +0000</saledate>
+    <price currency='EUR'>100</price>
+    <condition>new</condition>
+    <notes>Sealed booster packs box Netrunner Limited v1.0.
+Contains 36 booster packs. 
+SEPA bank transfer accepted. Paypal payment +3.5%.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 May 2015 12:44:03 +0000</listdate>
+    <saledate>Sun, 31 May 2015 08:22:45 +0000</saledate>
+    <price currency='GBP'>7</price>
+    <condition>verygood</condition>
+    <notes>Netrunner Starter Double Deck includes rulebook and two decks of cards (Corporate deck and Runner Deck 60 cards in each).
+The game is still in its original cellophane, so the cards are untouched. The box is a little worn on the corners.
+£7 for game plus £2.80 for shipping to the UK. Contact me for shipping elsewhere.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jul 2015 03:14:41 +0000</listdate>
+    <saledate>Fri, 24 Jul 2015 03:51:35 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/192729/item/3962807#3962807]Item for Geeklist _T_E_M_P_T_A_G_quot;Dave Ramsey told me to sell my games! (FINAL 24 HOURS!)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jul 2015 05:32:45 +0000</listdate>
+    <saledate>Sun, 26 Jul 2015 06:34:54 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>2x Netrunner Dual Starters Auction for Oshnap</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Aug 2015 14:10:25 +0000</listdate>
+    <saledate>Fri, 07 Aug 2015 14:34:46 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>This listing is for scout13.  Please do not purchase if you are not BGG user scout13.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Apr 2015 02:35:34 +0000</listdate>
+    <saledate>Thu, 08 Oct 2015 17:58:21 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Starter deck</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Nov 2013 13:03:49 +0000</listdate>
+    <saledate>Sat, 05 Dec 2015 20:29:29 +0000</saledate>
+    <price currency='EUR'>7</price>
+    <condition>likenew</condition>
+    <notes>Starter Double-Deck NETRUNNER 1.0 1996. Open box but cards TOTAL MINT UNPLAYED. 
+Only three starter-deck available!. 7.50€ Unit Price!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2015 15:54:41 +0000</listdate>
+    <saledate>Sat, 05 Mar 2016 11:24:36 +0000</saledate>
+    <price currency='EUR'>100</price>
+    <condition>verygood</condition>
+    <notes>Moving house, found this in one of the old boxes. Loved the game back then!
+I have no more clue about the rarity of the cards and have no intention of listing each and every card, but bought a lot of boosters and starters back then. Most of it from the first set, some cards from the first expansion.
+Not shown on the three pictures, but there are also two (possibly up to 4) decks.
+I could make some more pictures if needed. Please contact me for an accurate shipping quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 May 2016 05:15:00 +0000</listdate>
+    <saledate>Sat, 14 May 2016 09:08:39 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208466/item/4612750#4612750]Item for Geeklist _T_E_M_P_T_A_G_quot;24 HOURS REMAIN: Scorched Earth. Everything must go. 45 games, including rare titles like A Study in Emerald, Ambush! and Mall of Horror._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Sep 2016 11:50:32 +0000</listdate>
+    <saledate>Wed, 07 Sep 2016 19:13:24 +0000</saledate>
+    <price currency='USD'>300</price>
+    <condition>likenew</condition>
+    <notes>This item is reserved for MisterFinite.
+This is for a complete set of Netrunner.  All cards from the base set, Proteus expansion, and Classic expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Apr 2015 13:05:00 +0000</listdate>
+    <saledate>Wed, 14 Sep 2016 08:33:42 +0000</saledate>
+    <price currency='GBP'>75</price>
+    <condition>verygood</condition>
+    <notes>Around 1200 cards mainly v1.0 base set but also a lot of the Proteus expansion. 
+80 rares from base set and 17 from Proteus.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Dec 2016 00:55:29 +0000</listdate>
+    <saledate>Wed, 28 Dec 2016 18:04:57 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Complete and in good condition.
+Buyer to pay actual USPS shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jan 2016 13:10:11 +0000</listdate>
+    <saledate>Fri, 03 Mar 2017 17:22:36 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Shrink removed and never played.
+I have a considerable number of two player CCGs most in shrink and all unplayed. I would be more than happy to sell them as one lot at a discount:
+Wars Trading card game with four different starter sets; Suppression, Alliance, Swarm and Solidarity all in shrink.
+www.boardgamegeek.com/boardgame/12488
+Warlord Saga of the Storm; Dwarf Legion, Deverenian Legion x 2 and Free Kingdoms Legion all in shrink.
+www.boardgamegeek.com/boardgame/1799
+Warlord Saga of the Storm Dominance series; Elf Warlord, Dwarf Warlord, Nothrog Warlord and Free Kingdoms Warlord all in shrink.
+www.boardgamegeek.com/boardgame/1799
+Warhammer 40,000 x 2; Imperial Guard and Tyranids, both in shrink.
+www.boardgamegeek.com/boardgame/7164
+Megaman NT Warrior; Protoman and Pharrohman starter sets unopened.
+www.boardgamegeek.com/boardgame/13091
+Blood Wars; Starter set of two decks. Opened and unplayed.
+www.boardgamegeek.com/boardgame/4597</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Mar 2017 02:44:58 +0000</listdate>
+    <saledate>Thu, 30 Mar 2017 18:48:31 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>I will be sending you a geekmail regarding your other offer(s).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Mar 2016 23:01:55 +0000</listdate>
+    <saledate>Fri, 04 Aug 2017 00:30:08 +0000</saledate>
+    <price currency='GBP'>24.99</price>
+    <condition>likenew</condition>
+    <notes>Complete with English rulebook.  The cards are in clean, excellent condition.  The box is in a sturdy condition with a minor amount of shelfwear.
+Reasonable offers will be considered.  I can combine shipping costs with multiple items purchased.
+Shipping costs by Royal Mail are: £2.99 (UK), £9.99 (Europe tracked), £19.99 (USA/Canada/ROW)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Oct 2017 12:08:06 +0000</listdate>
+    <saledate>Wed, 25 Oct 2017 19:53:22 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>good</condition>
+    <notes>459+- unique cards in a binder</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Aug 2017 20:20:13 +0000</listdate>
+    <saledate>Tue, 14 Nov 2017 09:51:25 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>This is for the starter set. I have 2 and you can have both for 25 euro_T_E_M_P_T_A_G_#039;s and shipping. 
+Boxes have been moved a couple of times, and have some wear. Contents are almost as new.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Mar 2018 04:12:58 +0000</listdate>
+    <saledate>Fri, 04 May 2018 20:21:51 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>A large lot of cards, around 1100 or so by my rough eyeballing, sorted in a long BCW card storage box and in an original starter box with two sets of rules.  I_T_E_M_P_T_A_G_#039;m not the original owner, but the previous owner took very good care of this.  Checking a few example cards against rarity lists shows that this is a pretty expected selection, so it_T_E_M_P_T_A_G_#039;s not like all the rares have been picked out or anything.  This looks like somebody bought a box and/or a bunch of boosters and just sorted and kept great care of their cards and played them sparingly, if at all.  Two cards have been written on, and look like they were used as proxies, but everything else is in pristine condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Feb 2018 17:47:10 +0000</listdate>
+    <saledate>Tue, 26 Jun 2018 18:35:01 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>verygood</condition>
+    <notes>Small amount of age wear to the main box. Deck boxes perfect. See photos.
+I don_T_E_M_P_T_A_G_#039;t remember us playing this and the cards still have a new smell.
+£2 mainland UK postage. Would rather not post further afield but you can try me!
+Please add the Paypal fees if you don_T_E_M_P_T_A_G_#039;t use the friends option.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Aug 2018 19:52:47 +0000</listdate>
+    <saledate>Tue, 28 Aug 2018 02:30:17 +0000</saledate>
+    <price currency='USD'>300</price>
+    <condition>verygood</condition>
+    <notes>My set is about 3200 cards (so many I_T_E_M_P_T_A_G_#039;ve only estimated them, I don_T_E_M_P_T_A_G_#039;t want to count them!) That should give you very pretty good coverage of the original netrunner, PLUS the Proteus expansion! It includes 2 of the starter sets.
+I just want to note that I_T_E_M_P_T_A_G_#039;ve not sold any of the rares, or anything like that, so the good cards are still in there!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jul 2018 19:35:50 +0000</listdate>
+    <saledate>Sun, 02 Dec 2018 19:56:05 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Dec 2018 22:14:53 +0000</listdate>
+    <saledate>Tue, 08 Jan 2019 15:29:47 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>I have two starter decks, 1 in the box. A bunch of booster cards, two sets of rules and some counter / game aids for this game in a long box. Cards are not sleeved but i collected and maybe played a few times so cards are not worn or bent.  If you live outside the US and want to pay the shipping I am willing to send this to you.
+$45 + shipping</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

@@ -1,0 +1,933 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="3041">
+   <yearpublished>1976</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>300</playingtime>
+   <minplaytime>180</minplaytime>
+   <maxplaytime>300</maxplaytime>
+   <age>14</age>
+       <name primary="true" sortindex="1">Panzergruppe Guderian</name>
+       <name  sortindex="1">Στρατάρχης Γκουντεριάν</name>
+         
+   <description>Panzergruppe Guderian is a simulation of the German campaign to capture Smolensk in July, 1941.  The game is played in twelve turns, each one representing 2 days time, on a map scale of 10.5 km/hex._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game is famous for its innovative use of _T_E_M_P_T_A_G_amp;quot;untried_T_E_M_P_T_A_G_amp;quot; Soviet units.  These untried Soviet counters enter play face down, their combat strength unknown to either player, until they take part in combat, at which time they are flipped to reveal their strength and defense numbers._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game also models the effectiveness of German operations by allowing them a full mechanized movement phase both before and after combat, while the Soviets only move prior to combat.  In addition, if all of a German division's regiments attack or defend in the same hex, their strength is doubled by a divisional integrity bonus._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The German player scores victory points for the capture of cities, and for any Soviet units redirected from the Southwestern Front.  The Soviet player scores vp for recaptured cities and destroying entire German divisions (which possess several steps of strength)._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game includes: 1 map, counters (AH edition = 260; SPI edition = 200), 1 6-sided die, 1 Soviet reference card, 1 German reference card, 1 rules book, and 1 advanced rules insert._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/DIu558NLoLlkXIray0JBzJ5utWA=/fit-in/200x150/pic187445.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/63X5tHjPGUzufZZN3wNwTLsh-fg=/0x0/pic187445.jpg</image>
+      
+            <boardgamehonor objectid="10876">1976 Charles S. Roberts Best Strategic Game Nominee</boardgamehonor>
+               <boardgameversion objectid="24698">Avalon Hill edition</boardgameversion>
+               <boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgamedesigner objectid="1081">Jim Dunnigan</boardgamedesigner>
+               <boardgameversion objectid="416789">Greek edition</boardgameversion>
+               <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+               <boardgamepodcastepisode objectid="74796">I_T_E_M_P_T_A_G_#039;ve Been Diced! episode 31: Three player games</boardgamepodcastepisode>
+               <boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
+               <boardgamefamily objectid="3231">Magazine: Strategy _T_E_M_P_T_A_G_amp; Tactics</boardgamefamily>
+                             <boardgamefamily objectid="23116">Panzergruppe Guderian System</boardgamefamily>
+               <boardgamepodcastepisode objectid="247131">Podcast #10 with Uwe Eickert</boardgamepodcastepisode>
+               <boardgameartist objectid="1030">Redmond A. Simonsen</boardgameartist>
+               <boardgameversion objectid="236951">SPI  French/Dutch Boxed Designer_T_E_M_P_T_A_G_#039;s Edition</boardgameversion>
+               <boardgamepublisher objectid="120">SPI (Simulations Publications, Inc.)</boardgamepublisher>
+               <boardgameversion objectid="79728">SPI English Boxed Designer_T_E_M_P_T_A_G_#039;s Edition</boardgameversion>
+               <boardgameversion objectid="249261">SPI flat tray edition</boardgameversion>
+               <boardgameversion objectid="249259">SPI red boxed edition</boardgameversion>
+               <boardgameversion objectid="38264">Strategy _T_E_M_P_T_A_G_amp; Tactics magazine edition</boardgameversion>
+                      <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+               <boardgamecategory objectid="1049">World War II</boardgamecategory>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="8" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="2" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>624</usersrated>
+     <average>7.27969</average>
+     <bayesaverage>6.08096</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1892" bayesaverage="6.08096" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="195" bayesaverage="6.87493" />
+            
+           </ranks>
+     
+     <stddev>1.46043</stddev>
+     <median>0</median>
+     <owned>1454</owned>
+     <trading>50</trading>
+     <wanting>52</wanting>
+     <wishing>136</wishing>
+     <numcomments>378</numcomments>
+     <numweights>85</numweights>
+     <averageweight>2.8706</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sun, 03 Dec 2006 21:49:26 +0000</listdate>
+    <saledate>Mon, 12 Mar 2007 19:01:38 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Only been played once or twice.  This is the Avalon Hill edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Mar 2007 03:48:25 +0000</listdate>
+    <saledate>Wed, 21 Mar 2007 02:03:08 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Still in shrinkwrap!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Nov 2007 01:41:26 +0000</listdate>
+    <saledate>Mon, 26 Nov 2007 03:17:58 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Avalon Hill version punched and complete. Included is a Avalon Hill General Magazine volume 21, #4 with a good article on the game.
+Outside US PayPal only please.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 May 2008 18:51:22 +0000</listdate>
+    <saledate>Wed, 21 May 2008 22:33:45 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>SPI version.  Never played, counters unpunched.  Comes with S_T_E_M_P_T_A_G_amp;T #57.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Aug 2008 00:14:37 +0000</listdate>
+    <saledate>Mon, 01 Dec 2008 13:52:09 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Avalon Hill game with 260 counters. I don_T_E_M_P_T_A_G_#039;t believe the game has been played as most of the counters are in strips. The Map and Rules Folder, Charts and Counters are clean and like new. The box is near perfect.
+Outside US PayPal only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Jan 2009 12:59:37 +0000</listdate>
+    <saledate>Mon, 12 Jan 2009 14:06:51 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>For Auction winner: Billyboy
+http://www.boardgamegeek.com/geeklist/38165
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Apr 2009 03:37:07 +0000</listdate>
+    <saledate>Wed, 03 Jun 2009 03:20:00 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>good</condition>
+    <notes>Punched. Good condition. Comes with Strategy _T_E_M_P_T_A_G_amp; Tactics #57</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Jun 2009 14:44:46 +0000</listdate>
+    <saledate>Wed, 08 Sep 2010 20:51:42 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>good</condition>
+    <notes>SPI version in french and dutch</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Aug 2009 16:43:28 +0000</listdate>
+    <saledate>Fri, 28 Aug 2009 07:52:05 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Game is punched and complete. Very clean, no writing or tape marks. Box is good with one spit corner on the lid. Includes counter tray and die.
+Accept PayPal only outside of US.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Sep 2009 01:21:41 +0000</listdate>
+    <saledate>Sun, 20 Sep 2009 02:40:54 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>acceptable</condition>
+    <notes>Not the boxed game but S_T_E_M_P_T_A_G_amp;T #57 with complete game Panzergruppe Guderian. Magazine cover and game show age. Smoke free environment.
+Domestic shipping $5
+International shipping calculated at time of sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Oct 2009 02:56:33 +0000</listdate>
+    <saledate>Fri, 16 Oct 2009 16:32:02 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Does not include magazine issue. Comes with instructions, map and unpunched card. Never played. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Nov 2009 00:02:06 +0000</listdate>
+    <saledate>Sun, 02 Jan 2011 14:01:50 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Punched otherwise complete with no wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Nov 2009 19:24:05 +0000</listdate>
+    <saledate>Fri, 20 Aug 2010 02:09:39 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This is a game in a plastic bag with Strategy _T_E_M_P_T_A_G_amp; Tactics Magazine #57. Punched, Paypal only, UPS only, USA only.  The $10.00 shipping cost is standard for all within the shipping area, please don_T_E_M_P_T_A_G_#039;t request an individualized shipping quote or expedited shipping.  No APO addresses.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Dec 2009 03:49:52 +0000</listdate>
+    <saledate>Wed, 10 Mar 2010 00:40:27 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This simulation has unique characteristics that make it well worth playing, even solitaire:  
+-the strength of Soviet units is unknown until combat (see 4th photo below), i.e., the front side of a unit counter shows a ? for strength, the reverse side the actual strength.
+-German unit strength is doubled if ALL units from a division are stacked together, applies to both attack _T_E_M_P_T_A_G_amp; defense.
+-German units are step-reduced in strength as a result of combat; that is, German infantry divisions have four steps (9-7, 4-7, 2-7, 1-7, then eliminated); German panzer, motorized, mechanized, and cavalry units have two steps to elimination (front and back of the same unit counter).
+-either German or Russian units can conduct an overrun, which halves their attack strength but, if successful,lets them keep moving forward.
+-Soviet leader units have leadership ratings, with 3 effects: 1.supply radius, thus that Soviet units outside the radius of a leader unit cannot move or attack; 2.combat bonus, thus a leader unit adds its strength to the combat strength of the units it_T_E_M_P_T_A_G_#039;s stacked with; 3.the defensive combat strength of the leader unit on its own.
+-other characteristics include rail movement for Soviets only, movement restrictions on Soviet units in early turns, disrupted units caused by overruns, German air interdiction and Soviet partisan interdiction.
+Panzergruppe Guderian is a regimental/divisional level simulation of the German drive to cross the Dnepr River in the summer of 1941 and seize the valuable communications junctions at Smolensk in preparation for the final push towards Moscow.  (from the rules Introduction)
+Much of the current historical writing about the German invasion of the USSR focuses on the apparent death struggle in front of Moscow.  The more profound and fundamental reasons for the German failure thereby tend to be obscured.  This article will show that the Barbarossa Offensive was doomed to failure by the interaction of the plans laid before the invasion and certain decisions taken during the month of August 1941.  (from the magazine, page 4)
+Thus this package of simulation and magazine form a very interesting tool to study the question above.  The game itself is intact, units, map, and rules, as per the scans below. I played it solitaire a few times, and then stored it carefully until now, 33 years later (!).
+Strategy _T_E_M_P_T_A_G_amp; Tactics nr.57 of July/August 1976 in included in this offer.  The major article is of course the Smolensk campaign, with other articles on Rolling Thunder, Invasion America, and the Russian Civil War, all worth reading.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Dec 2009 03:54:40 +0000</listdate>
+    <saledate>Sat, 20 Nov 2010 06:33:39 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>good</condition>
+    <notes>SPI S_T_E_M_P_T_A_G_amp;T game. Game is punched and complete. The map and counters are very clean. The Rules Folder and magazine show wear.
+Accept PayPal only outside the US please.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Apr 2010 20:14:55 +0000</listdate>
+    <saledate>Sat, 03 Apr 2010 13:37:47 +0000</saledate>
+    <price currency='USD'>27.5</price>
+    <condition>verygood</condition>
+    <notes>The game is the boxed designers edition. It has some shelf wear, and is punched, but otherwise in excellent shape. One problem...there is one counter missing. Shipping is UPS or USPS, at cost. I_T_E_M_P_T_A_G_#039;m willing to haggle a bit on price, so if we are close, let me know.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Jun 2010 02:47:04 +0000</listdate>
+    <saledate>Tue, 06 Jul 2010 02:01:53 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>Game sold to auction winner Kevn Whitmore</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Sep 2010 21:25:57 +0000</listdate>
+    <saledate>Sat, 25 Sep 2010 13:27:40 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>good</condition>
+    <notes>SPI flat box version.  PUnched, some rules underlined neatly with a ruler.  Box is great shape: no corner splits but black bottom has come unglued.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Nov 2010 22:38:46 +0000</listdate>
+    <saledate>Mon, 15 Nov 2010 00:10:04 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>almost excellent, game is a great player_T_E_M_P_T_A_G_#039;s copy.  not played much at all. contents very nice.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Dec 2010 23:02:34 +0000</listdate>
+    <saledate>Wed, 15 Dec 2010 18:55:08 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>good</condition>
+    <notes>SPI Flattray version. Punched, complete, in good condition. The rules have a little spotting, and the plastic cover of the tray has minor damage on a couple corners, i.e crack and splits. The map and counters are in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Feb 2011 03:45:27 +0000</listdate>
+    <saledate>Sun, 10 Jul 2011 06:15:26 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>verygood</condition>
+    <notes>Original SPI S_T_E_M_P_T_A_G_amp;T 57 with game. The game is punched and complete. The magazine and game are in very good condition with no tape or marks.
+Please use Paypal outside of the US. Shipping is USPS at cost, no extra fee_T_E_M_P_T_A_G_#039;s.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jun 2011 13:55:55 +0000</listdate>
+    <saledate>Sun, 31 Jul 2011 21:42:10 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>AH boxed ed. 1984,
+New unpunched game in original shrink wrap 
+Shipping_T_E_M_P_T_A_G_amp;Handling - Priority Mail excl. Insurance: 
+Switzerland: CHF 10.-- 
+Europe: USD 41.--
+US/ Canada: USD 48.--
+Others Overseas: USD 52.—
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Jul 2011 22:17:12 +0000</listdate>
+    <saledate>Thu, 29 May 2014 22:21:06 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>AH boxed edition with mounted maps.  260 punched counters.  S_T_E_M_P_T_A_G_amp;T #57 magazine.  Punched and played.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2011 16:06:02 +0000</listdate>
+    <saledate>Tue, 21 Feb 2012 10:50:07 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>AH boxed ed. 1984,
+New unpunched game 
+Shipping_T_E_M_P_T_A_G_amp;Handling - Priority Mail excl. Insurance: 
+Switzerland: CHF 10.-- 
+Europe: USD 37.--
+Others: USD 52.--
+We will always combine multiple items to reduce your shipping costs where possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Nov 2011 01:24:33 +0000</listdate>
+    <saledate>Wed, 16 Nov 2011 04:14:07 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Reserved for The J who won in auction geeklist.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Dec 2011 17:00:18 +0000</listdate>
+    <saledate>Fri, 24 Feb 2012 02:01:55 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Box in very good shape, played once.  Excellent player_T_E_M_P_T_A_G_#039;s copy.
+I do not have an individual pic, but you can see how I care for my OOP collection.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Mar 2012 01:02:09 +0000</listdate>
+    <saledate>Mon, 09 Apr 2012 04:06:16 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>box has minor dings good shape otherwise, counters punched, Rules underlined.
+Game sold for charity for Museum of Conflict and Civilization. Not sold outside the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Apr 2012 19:33:12 +0000</listdate>
+    <saledate>Sat, 28 Apr 2012 21:00:47 +0000</saledate>
+    <price currency='USD'>57</price>
+    <condition>verygood</condition>
+    <notes>SPI Designer_T_E_M_P_T_A_G_#039;s Edition with mounted mapboards. Punched but verified complete and the best game components from my PG pool were culled for this copy. Mapboards fine, 1 or two small blemishes. Box is better than average,about a 4 on a 1-5 scale. Counters are like new and appear unused. Includes article pack and a S_T_E_M_P_T_A_G_amp;T 57 PG printout plus a bonus counter tray (like new too)instead of a mini SPI D6. I_T_E_M_P_T_A_G_#039;m low on those</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 May 2012 17:54:09 +0000</listdate>
+    <saledate>Tue, 10 Jul 2012 02:34:04 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Very fine punched (counters like new,verified complete) rare flat pack. Nice tray (I selected one of my best) and coversheet. Includes comprehensive SPI era article pack. e.g. Jagdpanther/Battlefield commentary and Campaign magazine. will post pic</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jul 2012 15:48:27 +0000</listdate>
+    <saledate>Wed, 18 Jul 2012 05:40:06 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>good</condition>
+    <notes>Reserved for USER hipshot Giant Wargame Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jul 2012 19:54:31 +0000</listdate>
+    <saledate>Sun, 26 Aug 2012 14:49:59 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>verygood</condition>
+    <notes>AH boxed edition with mounted maps. partial punched counters, unused and verified complete. Article kit too for SPI and AH versions. the one to buy to play
+fine box too</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Sep 2012 17:28:22 +0000</listdate>
+    <saledate>Mon, 24 Sep 2012 22:11:48 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>Game is in playable condition. Originally purchased in 1988. Map mounted folding board is slightly discolored from age. Game is complete and game box has wear and tears but is in good shape. see original pictures. All shipping and any international fees to be paid by buyer and Buyer to choose carrier.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Nov 2012 17:44:42 +0000</listdate>
+    <saledate>Sun, 14 Apr 2013 08:22:44 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>good</condition>
+    <notes>AH, one box corner split
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         15 Euro
+PayPal plus 1 Euro
+Money transfer via IBAN/BIC preferred
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Nov 2012 04:03:58 +0000</listdate>
+    <saledate>Sat, 10 Aug 2013 13:14:45 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Complete game, played once and stored safely.  Counters punched and sorted.  All contents 100% complete.  Map in good shape, rule book and charts present and also in good shape.  Actual shipping costs plus $5 for time and packaging.  Please email any inquires and check out my other listings.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Dec 2012 00:13:58 +0000</listdate>
+    <saledate>Fri, 14 Dec 2012 01:58:13 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>Punched counters with corners cut for ease of play, unmarked, and is well packaged.  Buyer pays shipping via USPS Priority Mail with receipt.  PayPal only please.  </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jan 2013 08:45:30 +0000</listdate>
+    <saledate>Sat, 02 Mar 2013 18:09:29 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>flat pack version with coversheet. punched, verified complete, like new counters and map. excellent flatpack top and bottom (HTF)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Mar 2013 00:06:46 +0000</listdate>
+    <saledate>Tue, 12 Mar 2013 10:11:40 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>AH version, boxed, punched</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Mar 2013 18:42:22 +0000</listdate>
+    <saledate>Mon, 27 May 2013 18:14:02 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>likenew</condition>
+    <notes>The contents - mapboard, counters, rulebook - are all in as new condition.
+The game box is in excellent condition, though there are:
+1) small signs of shelf wear around the edges;
+2) at the bottom of the back of the box, there is a small nick, through which the cardboard shows (0.5 cm in size).
+Please contact me for shipping costs. I pack very safely/securely.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Jun 2013 15:21:19 +0000</listdate>
+    <saledate>Sat, 06 Jul 2013 17:33:18 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>good</condition>
+    <notes>Punched, with S_T_E_M_P_T_A_G_amp;T #57.
+Game components in great condition. Rules removed from magazine. Magazine in fair condition.
+Will ship in first class or priority envelope for $5 to U.S. addresses. $8 to Canada. $15 international.
+Buy a second magazine/Ziploc or Folio game and shipping is only $2 more. No additional shipping if buying 3 or more.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Jul 2013 17:58:11 +0000</listdate>
+    <saledate>Fri, 02 Aug 2013 15:08:01 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>S_T_E_M_P_T_A_G_amp;T 57 average condition (it_T_E_M_P_T_A_G_#039;s been 3 hole punched) with punched game, verified complete good to very good game components. articles included</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Jul 2013 16:16:29 +0000</listdate>
+    <saledate>Mon, 12 Aug 2013 15:53:14 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>verygood</condition>
+    <notes>· PANZERGRUPPE GUDERIAN  (Avalon Hill, 1984)  The game is in VERY GOOD condition, the box shows wear with front and back cover creases.  The counters are PUNCHED, the mounted map shows some food stains, and the game is verified COMPLETE.  NOTE:  The counter tray is not included, the counters have been zip locked. 
+Cashiers Check and Money Orders accepted, PAY PAL preferred (PAY PAL ID is greatdiscoverer@yahoo.com).  Payment is expected to arrive and clear before item(s) will ship.  Buyer pays for shipping.  Shipping charges are those quoted by the USPS for shipping the item(s).  Please note that the item(s) will ship the Saturday following payment clearing (sorry but I work days and evenings and usually can not get to the Post Office before then).  Additional pictures furnished upon request.
+Best wishes,
+Jon
+greatdiscoverer@yahoo.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Jul 2013 21:07:55 +0000</listdate>
+    <saledate>Fri, 02 Aug 2013 13:42:23 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Punched S_T_E_M_P_T_A_G_amp;T #57 version with S_T_E_M_P_T_A_G_amp;T 57.  Will be mailed in envelope.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Jul 2013 16:58:38 +0000</listdate>
+    <saledate>Thu, 18 Jul 2013 11:33:04 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>AH Edition
+Un-punched, Complete and in bery good condition
+£5 postage to UK, Other countries please ask
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Aug 2013 21:49:13 +0000</listdate>
+    <saledate>Sun, 04 Aug 2013 14:04:08 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Punched and complete.  Includes the corresponding S_T_E_M_P_T_A_G_amp;T magazine.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Feb 2014 05:45:39 +0000</listdate>
+    <saledate>Fri, 20 Jun 2014 03:59:46 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>verygood</condition>
+    <notes>SPI S_T_E_M_P_T_A_G_amp;T 57.  
+Game is unpunched, complete and in excellent condition (map and counters).  Rules are photocopies.  S_T_E_M_P_T_A_G_amp;T magazine included in good condition (medium wear, binding intact).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Feb 2014 04:17:22 +0000</listdate>
+    <saledate>Mon, 03 Mar 2014 20:59:34 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>SPI boxed version. Paper map is in generally good shape with some spots of something on one edge. Barely noticeable. Game is punched, partially clipped and verified complete.  Box is solid and square with moderate shelf wear. A good players copy.   </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Mar 2014 18:30:57 +0000</listdate>
+    <saledate>Tue, 27 May 2014 15:57:46 +0000</saledate>
+    <price currency='EUR'>49.9</price>
+    <condition>new</condition>
+    <notes>still unpunched</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Jul 2014 21:05:44 +0000</listdate>
+    <saledate>Tue, 09 Sep 2014 11:51:11 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>acceptable</condition>
+    <notes>Avalon Hill version, NO box.  It was one of several destroyed in a move years back.  Otherwise complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Jul 2014 06:24:34 +0000</listdate>
+    <saledate>Tue, 15 Jul 2014 14:28:43 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/175628/item/3304717#3304717]Item for Geeklist _T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_#039;Crate Full of Games Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Apr 2014 14:47:26 +0000</listdate>
+    <saledate>Tue, 27 Jan 2015 11:23:02 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Punched. Complete. Avalon Hill Edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Nov 2014 13:44:32 +0000</listdate>
+    <saledate>Mon, 09 Feb 2015 13:26:40 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>verygood</condition>
+    <notes>part. punched</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Mar 2015 22:03:48 +0000</listdate>
+    <saledate>Tue, 17 Mar 2015 18:05:54 +0000</saledate>
+    <price currency='USD'>68</price>
+    <condition>likenew</condition>
+    <notes>Unpunched game . Like new inside. Never played. Box is very good+ with minor scuffing.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jun 2015 02:02:39 +0000</listdate>
+    <saledate>Mon, 22 Jun 2015 11:27:36 +0000</saledate>
+    <price currency='USD'>53</price>
+    <condition>verygood</condition>
+    <notes>This is for Mark Hickernell only. Purchase includes:
+$12 - Red Star White Star
+$15 - Frederick the Great
+$10 - Revolt in the East
+$6 - Breitenfeld
+$20 - Panzergruppe Guderian
+Total - $53</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Mar 2015 20:31:47 +0000</listdate>
+    <saledate>Mon, 07 Sep 2015 23:34:36 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>With S_T_E_M_P_T_A_G_amp;T #57  Magazine has stress along spine, age discoloration, bent/creased lower corner.
+Unpunched (1 sheet of 200)
+Rules still in mag; unmarked.
+Map still has sharp creases.
+US shipping $2.66</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Sep 2015 20:39:55 +0000</listdate>
+    <saledate>Fri, 23 Oct 2015 23:57:40 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>complete, punched but unplayed
+will ship via USPS priority mail</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2015 20:34:58 +0000</listdate>
+    <saledate>Wed, 18 Nov 2015 20:55:44 +0000</saledate>
+    <price currency='USD'>88</price>
+    <condition>verygood</condition>
+    <notes>This is a Baby Alexander is on the Way listing for user Pone4games</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Sep 2015 14:12:42 +0000</listdate>
+    <saledate>Sun, 17 Jan 2016 21:21:24 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>counters are trimmed, but not uniformly. (some are overtrimmed).  board and box in good shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2015 01:10:14 +0000</listdate>
+    <saledate>Wed, 27 Jan 2016 12:21:51 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>Punched (verified by count - 200 counters), magazine version (no mag), excellent condition
+Price may be negotiable if purchased with one or more of my sale items
+Feel free to look over my entire BGG collection as nearly everything can be available for purchase</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Dec 2015 03:11:42 +0000</listdate>
+    <saledate>Tue, 16 Feb 2016 20:17:25 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Punched and complete
+PayPal or US Postal Money Order
+Other methods of payment may be accepted but contact me before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Mar 2016 15:50:55 +0000</listdate>
+    <saledate>Sat, 19 Mar 2016 15:29:36 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>verygood</condition>
+    <notes>Punched but in perfect shape!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Mar 2016 17:02:29 +0000</listdate>
+    <saledate>Sat, 26 Mar 2016 21:19:18 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>likenew</condition>
+    <notes>Complete,  not punched, new, except no shrink wrap. (did Avalon Hill have shrink wrap).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Mar 2015 20:39:51 +0000</listdate>
+    <saledate>Tue, 29 Mar 2016 19:45:48 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>Game components all in G+ condition.
+S_T_E_M_P_T_A_G_amp;T #57.  Magazine in pitiful condition:  back cover missing as well as 1st and last 2 pages, front cover detatched and has several tears; slight water damage.
+Punched but not clipped; verified complete separated and bagged.
+Rules detached; unmarked, some age discoloration but clean
+Map:  Interior corner folds a bit wrinkled.
+US shipping $2.66</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Aug 2014 11:49:54 +0000</listdate>
+    <saledate>Wed, 30 Mar 2016 12:22:18 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>good</condition>
+    <notes>Magazine NOT included. A couple of counters or so have been neatly rebuilt (i.e. scanned, printed and mounted), they are hard to distinguish from the real ones.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Dec 2015 02:55:33 +0000</listdate>
+    <saledate>Sat, 16 Apr 2016 22:44:32 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Punched, complete with magazine
+In Zip bag
+PayPal or US Postal Money Order
+Other methods of payment may be accepted but contact me before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Feb 2016 02:30:51 +0000</listdate>
+    <saledate>Mon, 18 Apr 2016 03:43:31 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>GOOD: Complete! Designer_T_E_M_P_T_A_G_#039;s Box Edition!
+EDH</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 May 2015 23:27:10 +0000</listdate>
+    <saledate>Sun, 24 Apr 2016 10:19:43 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>good</condition>
+    <notes>Ziplock, no magazine
+Shipping Germany   3 Euro
+Shipping World          4 Euro
+PayPal plus max. 2 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jan 2014 10:14:46 +0000</listdate>
+    <saledate>Mon, 09 May 2016 12:34:16 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>new</condition>
+    <notes>Mint condition. In shrinkwrap.
+Please contact me for shipping costs if you live outside the UK.
+Shipping in the UK is recorded delivery and fully tracked. This isn_T_E_M_P_T_A_G_#039;t the absolute cheapest option, I know, but is necessary to remain within PayPal Seller Protection guidelines.
+The cheaper options (non-tracked) leave me open to being scammed, and I sadly speak from experience in this respect.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jun 2016 20:14:13 +0000</listdate>
+    <saledate>Wed, 31 Aug 2016 19:19:05 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>acceptable</condition>
+    <notes>No Magazine. shipping 8.00</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Apr 2015 16:47:37 +0000</listdate>
+    <saledate>Sun, 25 Sep 2016 12:37:38 +0000</saledate>
+    <price currency='GBP'>27.5</price>
+    <condition>good</condition>
+    <notes>Strategy _T_E_M_P_T_A_G_amp; Tactics Issue 57 complete with game: Panzergruppe Guderian. 
+CONDITION: The game is 100% complete, counters punched and sorted into ziploc bags. The rules are detached from the magazine but in excellent condition, as is the map. The magazine has cover wear and creasing. 
+POSTAGE COST:
+UK postage: £4.00
+European Postage: £8.00
+Rest of World Postage: £11.50
+Australia _T_E_M_P_T_A_G_amp; New Zealand: £12.00</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2016 14:46:12 +0000</listdate>
+    <saledate>Tue, 11 Oct 2016 16:52:26 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>ONLY FOR DARKENOR
+This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/4920444#4920444]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Nov 2013 05:14:18 +0000</listdate>
+    <saledate>Thu, 27 Oct 2016 21:58:40 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>likenew</condition>
+    <notes>This is for the SPI magazine only, no game is included.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Nov 2015 16:25:46 +0000</listdate>
+    <saledate>Sat, 19 Nov 2016 23:50:03 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Punched _T_E_M_P_T_A_G_amp; Verified Complete
++ 13.45 USPS CONUS Priority Mail (Free $50 INS _T_E_M_P_T_A_G_amp; Tracking) [International Postage rates vary and can be very pricey]
+See Actual Game Pictures</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Aug 2016 19:28:32 +0000</listdate>
+    <saledate>Fri, 25 Nov 2016 00:49:17 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>verygood</condition>
+    <notes>Stored on my shelf B8</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jan 2017 05:54:10 +0000</listdate>
+    <saledate>Thu, 16 Mar 2017 01:40:27 +0000</saledate>
+    <price currency='USD'>31.23</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Feb 2015 18:38:47 +0000</listdate>
+    <saledate>Sat, 13 May 2017 13:04:51 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>SPI Flat pack edition, does not include tray.  Punched, complete.  Map, counters, etc. all in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Oct 2016 21:11:36 +0000</listdate>
+    <saledate>Mon, 19 Jun 2017 14:38:13 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>good</condition>
+    <notes>punched, played maybe twice.
+some highlighting in rules (minor)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Feb 2017 18:03:44 +0000</listdate>
+    <saledate>Thu, 27 Jul 2017 16:58:40 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>good</condition>
+    <notes>Counters punched but unclipped. No magazine. Ships as large letter in UK and overseas.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 May 2017 03:40:28 +0000</listdate>
+    <saledate>Tue, 15 Aug 2017 13:13:14 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Unpunched and unplayed. 
+Includes S_T_E_M_P_T_A_G_amp;T issue #57.
+Map and components are like new.  Magazine is very good, very clean.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Oct 2017 03:56:03 +0000</listdate>
+    <saledate>Fri, 13 Oct 2017 19:02:32 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>Complete.  Nice set.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 May 2017 12:09:54 +0000</listdate>
+    <saledate>Wed, 18 Oct 2017 21:52:07 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>Played twice, in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Sep 2017 23:07:38 +0000</listdate>
+    <saledate>Sun, 26 Nov 2017 20:59:09 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>acceptable</condition>
+    <notes>Does not come with original issue of S_T_E_M_P_T_A_G_amp;T but does have a color copy of the article on Smolensk from that issue. 
+I inventoried the pieces and here is what is missing (also comes with a color copy of counter sheet).
+1x Game Turn Marker
+Soviet
+1x General Dolmatov 
+1x General Yershakov
+1x 98 1-4-6
+1x 174 6-7-6
+German (previous owner made replacement pieces from a scan for the German pieces)
+1x 53/14 3-10 
+1x 26/7 4-10 
+If you would like pictures, just send me a message and I will get some to you.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Nov 2017 19:38:51 +0000</listdate>
+    <saledate>Tue, 12 Dec 2017 15:36:32 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>verygood</condition>
+    <notes>punched, excellent condition - see pictures
+Shipping Parcel Germany 4,50 Euro
+Shipping Parcel EU 9 Euro
+Shipping Parcel World 16 Euro
+Payment via PayPal or SEPA transfer via IBAN/BIC
+Private sale without warranty.
+Privater Verkauf unter Ausschluss jeder Gewährleistung.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jan 2018 02:48:20 +0000</listdate>
+    <saledate>Sun, 04 Feb 2018 02:25:40 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>unpunched, magazine has slight bulge from game</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Nov 2017 18:01:33 +0000</listdate>
+    <saledate>Tue, 06 Feb 2018 17:25:42 +0000</saledate>
+    <price currency='USD'>26.35</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR UTAHMIKE
+Game is complete. Box shows wear for its age. The corners of the counters have been rounded.
+Shipping will be via usps priority flat rate.
+Or you can come pick it up if you are local to Portland, OR.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Nov 2017 10:14:42 +0000</listdate>
+    <saledate>Wed, 21 Feb 2018 12:01:55 +0000</saledate>
+    <price currency='AUD'>10</price>
+    <condition>acceptable</condition>
+    <notes>Punched and sorted, ready to play.
+Map has some writing on it, rules are a photocopy
+Box is worn
+Shipping is extra
+or pickup in Sydney</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 May 2017 16:14:06 +0000</listdate>
+    <saledate>Fri, 23 Feb 2018 06:15:23 +0000</saledate>
+    <price currency='GBP'>27.5</price>
+    <condition>good</condition>
+    <notes>Strategy _T_E_M_P_T_A_G_amp; Tactics Issue 57 complete with game: Panzergruppe Guderian. 
+CONDITION: The game is 100% complete, counters punched and sorted into ziploc bags. The rules are detached from the magazine but in very good condition, as is the map. The magazine has cover wear and creasing. 
+POSTAGE COST:
+UK postage: £4.00
+European Postage: £7.50
+Rest of World Postage: £11.50
+Australia _T_E_M_P_T_A_G_amp; New Zealand: £12.00</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Jun 2017 04:01:57 +0000</listdate>
+    <saledate>Thu, 05 Apr 2018 03:26:06 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>All Components punched and played
+Includes S_T_E_M_P_T_A_G_amp;T 57
+Shipping - envelope</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Mar 2018 23:46:11 +0000</listdate>
+    <saledate>Tue, 17 Apr 2018 11:44:33 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Counters at unpunched, mapboard is mounted.  The box looks new; with no creases, cuts, tears, and with all corners intact.
+Stored in a pet free, smoke free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 May 2018 16:51:08 +0000</listdate>
+    <saledate>Tue, 22 May 2018 16:09:49 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>good</condition>
+    <notes>S_T_E_M_P_T_A_G_amp;T 57 average condition with punched game, verified complete good to very good game components. articles included</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 May 2018 16:53:25 +0000</listdate>
+    <saledate>Sat, 02 Jun 2018 21:46:03 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>punched verified complete very good game components, average box</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 May 2018 13:58:44 +0000</listdate>
+    <saledate>Thu, 09 Aug 2018 04:19:41 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Price written on upper right box cover. VG otherwise.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jul 2018 18:41:46 +0000</listdate>
+    <saledate>Thu, 16 Aug 2018 20:00:26 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>good</condition>
+    <notes>Original die missing. Box has wear and tear. Complete and content in good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Dec 2016 01:50:22 +0000</listdate>
+    <saledate>Wed, 22 Aug 2018 02:14:26 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>100% complete Avalon Hill version in good condition or better. All components are straight and in great shape, although a few German counters have slight wear. Box lid has a very slight dish with a small ding on one corner, but has very little shelfwear. Game is free from offensive odors (smoke, pet, mildew, etc).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Aug 2018 09:17:11 +0000</listdate>
+    <saledate>Sat, 29 Sep 2018 09:25:36 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>good</condition>
+    <notes>Punched. Complete. Flat tray edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Feb 2018 15:06:09 +0000</listdate>
+    <saledate>Fri, 26 Oct 2018 19:28:08 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>good</condition>
+    <notes>Punched
+Game only - does not include the magazine</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Oct 2018 02:14:20 +0000</listdate>
+    <saledate>Fri, 18 Jan 2019 13:58:20 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>acceptable</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

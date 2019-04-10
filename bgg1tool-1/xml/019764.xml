@@ -1,0 +1,729 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="19764">
+   <yearpublished>2005</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>30</playingtime>
+   <minplaytime>30</minplaytime>
+   <maxplaytime>30</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">PÜNCT</name>
+       <name  sortindex="1">Punct</name>
+         
+   <description>P_T_E_M_P_T_A_G_amp;Uuml;NCT, the fifth released game by design in project GIPF, is a connection game._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The goal is to connect two opposite sides of the board. A player's turn consists of either bringing a new piece into play or moving one already on the board._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This game is part of project GIPF._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/o-9yBlwz27muYeHqFveP7oDaLaY=/fit-in/200x150/pic3324185.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/p9jnYyULk8nQEQqAFHxAfjvgO5M=/0x0/pic3324185.jpg</image>
+      
+            <boardgamehonor objectid="8855">2006 Golden Geek Best 2-Player Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="12965">2006 International Gamers Award - General Strategy: Two-players</boardgamehonor>
+               <boardgamehonor objectid="19188">2006 Japan Boardgame Prize Best Foreign Game for Beginners Nominee</boardgamehonor>
+               <boardgamehonor objectid="19973">2007 Games Magazine Best New Abstract Strategy Game Winner</boardgamehonor>
+               <boardgamefamily objectid="5607">3D Games</boardgamefamily>
+               <boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+               <boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+               <boardgamedesigner objectid="244">Kris Burm</boardgamedesigner>
+               <boardgameartist objectid="244">Kris Burm</boardgameartist>
+               <boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+                      <boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+               <boardgameversion objectid="25241">Don _T_E_M_P_T_A_G_amp; Co multilingual edition</boardgameversion>
+               <boardgamepublisher objectid="137">Don _T_E_M_P_T_A_G_amp; Co.</boardgamepublisher>
+                                                                                                          <boardgameintegration objectid="527">GIPF</boardgameintegration>
+               <boardgamefamily objectid="10">GIPF Project</boardgamefamily>
+               <boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+               <boardgamepublisher objectid="3490">HUCH!</boardgamepublisher>
+               <boardgameversion objectid="338307">HUCH! multilingual edition</boardgameversion>
+                             <boardgameartist objectid="12605">lu_T_E_M_P_T_A_G_#039;cifer</boardgameartist>
+                                                                              <boardgamepublisher objectid="7466">Rebel</boardgamepublisher>
+                                    <boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+               <boardgameversion objectid="31771">Rio Grande multilingual edition</boardgameversion>
+               <boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+                      <boardgamepublisher objectid="7473">Smart Toys and Games, Inc.</boardgamepublisher>
+               <boardgameintegration objectid="31999">TZAAR</boardgameintegration>
+                      <boardgameintegration objectid="7854">YINSH</boardgameintegration>
+               <boardgameintegration objectid="527" inbound="true">GIPF</boardgameintegration>
+               <boardgameintegration objectid="31999" inbound="true">TZAAR</boardgameintegration>
+               <boardgameintegration objectid="7854" inbound="true">YINSH</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="7">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="7" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1497</usersrated>
+     <average>6.82359</average>
+     <bayesaverage>6.22629</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1484" bayesaverage="6.22629" />
+            
+       
+              <rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="58" bayesaverage="6.64835" />
+            
+           </ranks>
+     
+     <stddev>1.40947</stddev>
+     <median>0</median>
+     <owned>2744</owned>
+     <trading>74</trading>
+     <wanting>149</wanting>
+     <wishing>446</wishing>
+     <numcomments>565</numcomments>
+     <numweights>155</numweights>
+     <averageweight>2.7355</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 03 Nov 2005 20:29:00 +0000</listdate>
+    <saledate>Tue, 15 Nov 2005 03:27:25 +0000</saledate>
+    <price currency='EUR'>23.99</price>
+    <condition>new</condition>
+    <notes>never played +++++ english, german, french, dutch, spanish and italian version. game components are completely language independent +++++ will be shipped with insurance +++++ payment for usa, canada, asia or australia : paypal or cash (by letter, exchanged already into euros) or bank transfer +++++ payment for other non-euro-countries : cash (by letter, exchanged already into euros) or bank transfer +++++ payment for european countries, that have euro : cash (by letter) or bank transfer (wich by the way is cost-free !) +++++ payment for germany : personal pick up in berlin or bank transfer +++++ foreign buyers beware : german postal sadly is very expensive for foreign packages (about 18 - 45 euros, it depends on, where the package has to be shipped and the weight), pleask at for shipping prices, before you buy !) +++++ shipping inside germany will cost 8 euros, including insurance</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Nov 2005 08:25:37 +0000</listdate>
+    <saledate>Sat, 10 Dec 2005 14:24:02 +0000</saledate>
+    <price currency='USD'>21.99</price>
+    <condition>new</condition>
+    <notes>Game is brand new with publisher shrink-wrap. 
+Save 30% or more off of every item we have listed on Boardgamegeek.com!
+Items are shipped within one or two business days upon reciept of payment (remember, money order, cashier_T_E_M_P_T_A_G_#039;s check or cash at your own risk!) If you do not wish to send payment and would rather pay us directly, you can give us a call at 816.554.7333 (Tuesday through Saturday) using Visa, Mastercard and American Express or by contacting us in order to make a Paypal payment (a 4.5% surcharge will be added to the total payment.)
+Shipping is based off of weight so it completely depends on the game(s) themselves though the average is $7 - $9.00 throughout the Continental US (and yes, we will combine on shipping!!!).  If you need a specific type of shipping - such as Overnight or with Insurance - or have any  questions, drop us an email. MO orders pay 7.35% sales tax.  Also be sure to be on the lookout for PREORDER games being listed for the upcoming months! 
+For more info about the store visit www.pfcomics.com (be sure to check out our forums for our weekly and monthly events).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Nov 2005 16:47:45 +0000</listdate>
+    <saledate>Fri, 10 Feb 2006 03:35:38 +0000</saledate>
+    <price currency='USD'>22.2</price>
+    <condition>new</condition>
+    <notes>I´m offering the DON _T_E_M_P_T_A_G_amp; CO edition
++++ new + in shrink +++
+Shipping is EUR 8.00 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Feb 2006 02:54:14 +0000</listdate>
+    <saledate>Thu, 05 Oct 2006 19:24:17 +0000</saledate>
+    <price currency='EUR'>20.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the DON _T_E_M_P_T_A_G_amp; CO edition
++++ new + in shrink +++
+Shipping is EUR 8.00 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Sep 2006 23:09:32 +0000</listdate>
+    <saledate>Fri, 10 Oct 2008 06:55:36 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>new</condition>
+    <notes>the game is new and still in shrink
+Shipping to France : 7 Euros
+Shipping to Europa : 9 Euros
+Shipping to rest of the world : 13 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Jan 2007 22:11:15 +0000</listdate>
+    <saledate>Sat, 08 Dec 2007 22:59:58 +0000</saledate>
+    <price currency='USD'>21.5</price>
+    <condition>new</condition>
+    <notes>Punct
+This game is brand new and sealed. S_T_E_M_P_T_A_G_amp;H through UPS Ground is $8.00 in the 48 states. We can combine shipping on multiple purchases. We collect 8.25% sales tax for TX orders. 
+For more games go to www.newspiel.com.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Aug 2007 07:24:34 +0000</listdate>
+    <saledate>Tue, 16 Dec 2008 21:42:52 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are NEW and still in their factory shrink-wrap.
+PUNCT: $19.95
+Rio Grande Games (RIO 135)
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Jan 2008 05:19:56 +0000</listdate>
+    <saledate>Thu, 10 Jan 2008 05:28:41 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This game is in excellent condition. It has been played several times, but the box shows no wear. I am selling my entire collection of Gipf so if you_T_E_M_P_T_A_G_#039;re interested, please look in the other Gipf games for the entire collection minus Yinsh.
+All games are in excellent condition being in slightly played status. If you have any questions feel free to ask!
+If you are interested in purchasing multiple games, or the entire collection let me know and I will combine shipping for all games.
+Eric
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Sep 2008 21:23:00 +0000</listdate>
+    <saledate>Sun, 07 Sep 2008 03:06:54 +0000</saledate>
+    <price currency='USD'>16.5</price>
+    <condition>new</condition>
+    <notes>PÜNCT - Rio Grande Games
+New! Still in shrink, and in perfect condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $1.00 handling charge.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Oct 2008 11:24:02 +0000</listdate>
+    <saledate>Fri, 29 May 2009 16:11:46 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>new</condition>
+    <notes>the game is new and still in shrink
+Shipping to France : 7 Euros
+Shipping to Europa : 9 Euros
+Shipping to rest of the world : 13 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Dec 2008 00:43:56 +0000</listdate>
+    <saledate>Sun, 20 Jun 2010 16:40:18 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Played twice.  Will determine shipping cost based on location/service.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Dec 2008 22:49:07 +0000</listdate>
+    <saledate>Wed, 07 Jan 2009 23:55:30 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are NEW and still in their factory shrink-wrap.
+PUNCT: $19.95
+Rio Grande Games (RIO 135)
+SHIPPING
+Continental U.S.: FedEx $11.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Jul 2009 06:40:27 +0000</listdate>
+    <saledate>Mon, 27 Jul 2009 07:27:01 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Auction purchase reserved for Matthew Stevenson (tasajara). This includes the following games for local pickup:
+- Punct ($12)
+- Enchanted Forest ($8)
+Payment details to be worked out later (cash on pickup is preferred).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Sep 2009 00:25:17 +0000</listdate>
+    <saledate>Wed, 09 Sep 2009 12:12:10 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Nov 2009 22:10:40 +0000</listdate>
+    <saledate>Sun, 27 Mar 2011 18:51:31 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+PUNCT: $19.95
+Rio Grande Games [RIO 283]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Dec 2009 15:32:43 +0000</listdate>
+    <saledate>Wed, 16 Dec 2009 00:11:41 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>My copy of this game has been opened and played once.  Virtually new condition.
+SHIPPING: Once you provide me with your zip code (or country), I will charge you actual shipping cost from my location. Within the U.S., I can ship by Priority Mail (2 days) or Parcel Post (3-7 days), whichever you prefer. If you buy more than one game from me, I will be happy to combine shipping.
+PAYMENT: I accept money orders, cashier_T_E_M_P_T_A_G_#039;s checks, and Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 May 2010 14:45:57 +0000</listdate>
+    <saledate>Tue, 04 May 2010 16:22:21 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Feb 2011 06:35:12 +0000</listdate>
+    <saledate>Thu, 24 Feb 2011 16:23:58 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Item intended for winner of The Something For Everyone auction: George Buss</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Mar 2011 09:46:42 +0000</listdate>
+    <saledate>Sun, 22 May 2011 11:03:01 +0000</saledate>
+    <price currency='AUD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played a few times.  Great nick.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Apr 2011 15:10:52 +0000</listdate>
+    <saledate>Fri, 18 Nov 2011 07:52:38 +0000</saledate>
+    <price currency='USD'>20.49</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO 283)
+Type: Abstract Strategy 
+Number of players: 2
+Age of players: 9+
+Length: 30 minutes
+Game Description: 
+PÜNCT is the final game of Project GIPF, a series of games that, as you probably know, was announced to consist of 6 games and a number of sets with additional pieces. GIPF, the central game of the Project, was initially release in Belgium in 1997. Now, 8 years later, the series is complete.PÜNCT is a connection game: the goal is to link two opposite sites. On your turn, you either bring a new piece into play, or you move a piece that is already on the board. The more pieces you bring into play, the more possibilities you have to make a connection. Butx each time you put a new piece on the board, you reveal a bit of what your plan is. The trick is to place your pieces in such a way that your opponent will expect you to do something different from what you really have in mind. As such, PÜNCT is not only about making a connection, but also about misleading your opponent! You’ll have to proceed subtle!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Apr 2011 02:56:46 +0000</listdate>
+    <saledate>Fri, 06 Jan 2012 01:58:41 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+PUNCT: $19.95
+Rio Grande Games [RIO 283]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 May 2011 22:47:20 +0000</listdate>
+    <saledate>Sat, 28 May 2011 15:36:07 +0000</saledate>
+    <price currency='USD'>19.97</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard Shipping to USA48: $9.00
+I will combine shipping to save you money when ordering multiple games.
+Standard shipping is UPS Ground. Other shipping options are available upon request (Next Day / USPS / FEDEX). Contact for shipping quote.
+Alaska and Hawaii orders are shipped via USPS.
+International orders are shipped via USPS First Class (under 4 pounds) or USPS Priority Mail (up to 70 pounds per box). Contact for shipping quote.
+Orders ship within 1 business day from receipt of payment (5-10 day waiting period on personal checks).
+Ohio residents will be charged 6.5% sales tax.
+Thank-you,
+Mr. B
+ROCKIN’ B GAMES
+www.rockinbgames.com
+mrb.rockinbgames@gmail.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Jun 2011 18:18:49 +0000</listdate>
+    <saledate>Wed, 08 Jun 2011 19:13:44 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>Auction for(Verkisto)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jul 2011 16:32:49 +0000</listdate>
+    <saledate>Tue, 11 Sep 2012 08:47:32 +0000</saledate>
+    <price currency='USD'>19.97</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard Shipping to USA48: $9.00
+I will combine shipping to save you money when ordering multiple games.
+Standard shipping is UPS Ground. Other shipping options are available upon request (Next Day / USPS / FEDEX / PO Box Delivery (USPS)). Contact for shipping quote.
+Alaska and Hawaii orders are shipped via USPS.
+International orders are shipped via USPS First Class (under 4 pounds) or USPS Priority Mail (up to 70 pounds per box). Contact for shipping quote.
+Orders ship within 1 business day from receipt of payment (5-10 day waiting period on personal checks).
+Ohio residents will be charged 6.5% sales tax.
+Thank-you,
+Mr. B
+ROCKIN’ B GAMES
+www.rockinbgames.com
+mrb.rockinbgames@gmail.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Jul 2011 02:06:00 +0000</listdate>
+    <saledate>Wed, 13 Nov 2013 22:46:43 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>SELLERS TERMS AND CONDITIONS:
+ 
+PAYMENT TERMS: Payment is due within 7 days of the date you placed the order. Please do not purchase if you do not intend to pay, or cannot pay within this time frame. 
+PAYMENT METHODS: PayPal
+ SHIPPING: Buyer is responsible for all shipping/handling costs. All orders are shipped Priority Mail.
+ 
+RETURNS: New Unopened items may be returned for a refund of the purchase price of the item, excluding shipping charges, within 7 days of the delivery date. All returned items must be in the original packaging and in the condition that they were shipped to you. 
+Defective or damaged items can be returned for an exchange within 7 days of the delivery date. All returns require authorization BEFORE returning the item. If you refuse delivery of an order, we will deduct the return shipping charge from your refund.
+ </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Jan 2012 06:23:49 +0000</listdate>
+    <saledate>Sat, 25 Aug 2012 19:33:45 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+PUNCT: $19.95
+Rio Grande Games [RIO 283]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jan 2012 09:09:21 +0000</listdate>
+    <saledate>Sat, 14 Jan 2012 19:08:58 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>New in Shrink. 
+Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Mar 2012 14:01:25 +0000</listdate>
+    <saledate>Mon, 26 Mar 2012 22:20:08 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>likenew</condition>
+    <notes>The game is absolutely excellent condition with no noticable wear to the box or any of the components.
+Selling quite cheaply as we_T_E_M_P_T_A_G_#039;re just interested in freeing up some shelf space.
+Shipping is 2nd Class - £4.50. Shipping is a little high due to the weight.
+Shipping to Europe - £8.00.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 May 2012 16:35:47 +0000</listdate>
+    <saledate>Fri, 11 May 2012 02:20:10 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>**RESERVED FOR Chimes**</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jun 2012 01:27:13 +0000</listdate>
+    <saledate>Sun, 10 Jun 2012 01:35:27 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Reserved for (mplatov1812) Local Delivery payment in cash</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Feb 2013 21:39:31 +0000</listdate>
+    <saledate>Sun, 17 Feb 2013 20:50:31 +0000</saledate>
+    <price currency='USD'>13.5</price>
+    <condition>likenew</condition>
+    <notes>Shrinkwrap removed.
+All components are in perfect condition.
+Comes from non-smoking/non-pet home.
+Buyer to pay shipping. I will combine shipping for multiple purchases in one shipment.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Jul 2013 19:28:15 +0000</listdate>
+    <saledate>Sun, 27 Apr 2014 13:31:14 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>Played twice. Everything is in excellent condition. Send zip code for an accurate shipping quote from MA 01970. I combine shipping. Take $2 off each additional game purchased from my marketplace. In other words, if you buy 3 games, your total discount would be $4. Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Aug 2013 02:56:47 +0000</listdate>
+    <saledate>Sun, 11 Aug 2013 03:57:29 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>PUNCT from this auction
+http://boardgamegeek.com/geeklist/160433/item/2755091#item2755091
+Reserved for mmazala, no other bidder will be approved.
+Gen Con pickup.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Jan 2014 01:39:02 +0000</listdate>
+    <saledate>Sun, 19 Jan 2014 03:49:25 +0000</saledate>
+    <price currency='USD'>21.49</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO283)
+PÜNCT is the final game of Project GIPF, a series of games that, as you probably know, was announced to consist of 6 games and a number of sets with additional pieces. GIPF, the central game of the Project, was initially release in Belgium in 1997. Now, the series is complete. PÜNCT is a connection game: the goal is to link two opposite sites. On your turn, you either bring a new piece into play, or you move a piece that is already on the board. The more pieces you bring into play, the more possibilities you have to make a connection. But... each time you put a new piece on the board, you reveal a bit of what your plan is. The trick_T_E_M_P_T_A_G_#039;s to place your pieces in such a way that your opponent will expect you to do something different from what you really have in mind. As such, PÜNCT is not only about making a connection, but also about misleading your opponent! You_T_E_M_P_T_A_G_#039;ll have to proceed subtle!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Mar 2014 19:43:12 +0000</listdate>
+    <saledate>Mon, 26 May 2014 00:52:52 +0000</saledate>
+    <price currency='USD'>21.99</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO283)
+PÜNCT is the final game of Project GIPF, a series of games that, as you probably know, was announced to consist of 6 games and a number of sets with additional pieces. GIPF, the central game of the Project, was initially release in Belgium in 1997. Now, the series is complete. PÜNCT is a connection game: the goal is to link two opposite sites. On your turn, you either bring a new piece into play, or you move a piece that is already on the board. The more pieces you bring into play, the more possibilities you have to make a connection. But... each time you put a new piece on the board, you reveal a bit of what your plan is. The trick_T_E_M_P_T_A_G_#039;s to place your pieces in such a way that your opponent will expect you to do something different from what you really have in mind. As such, PÜNCT is not only about making a connection, but also about misleading your opponent! You_T_E_M_P_T_A_G_#039;ll have to proceed subtle! </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 May 2014 10:16:37 +0000</listdate>
+    <saledate>Wed, 17 Sep 2014 20:32:05 +0000</saledate>
+    <price currency='USD'>21.99</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO283)
+PÜNCT is the final game of Project GIPF, a series of games that, as you probably know, was announced to consist of 6 games and a number of sets with additional pieces. GIPF, the central game of the Project, was initially release in Belgium in 1997. Now, the series is complete. PÜNCT is a connection game: the goal is to link two opposite sites. On your turn, you either bring a new piece into play, or you move a piece that is already on the board. The more pieces you bring into play, the more possibilities you have to make a connection. But... each time you put a new piece on the board, you reveal a bit of what your plan is. The trick_T_E_M_P_T_A_G_#039;s to place your pieces in such a way that your opponent will expect you to do something different from what you really have in mind. As such, PÜNCT is not only about making a connection, but also about misleading your opponent! You_T_E_M_P_T_A_G_#039;ll have to proceed subtle! 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 May 2014 17:47:46 +0000</listdate>
+    <saledate>Tue, 27 May 2014 23:49:15 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/173523/item/3225324#3225324]Item for Geeklist _T_E_M_P_T_A_G_quot;First Blood Auction - Strike Early for the best prices! Dark Darker Darkest, Sedition Wars, Zpocalypse, Fortune and Glory, Small World Royal Bonus, Ruse, Agricola, much more_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Sep 2014 20:44:13 +0000</listdate>
+    <saledate>Thu, 11 Sep 2014 21:35:27 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Sep 2014 02:12:57 +0000</listdate>
+    <saledate>Thu, 23 Oct 2014 19:35:45 +0000</saledate>
+    <price currency='USD'>21.99</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO283)
+PÜNCT is the final game of Project GIPF, a series of games that, as you probably know, was announced to consist of 6 games and a number of sets with additional pieces. GIPF, the central game of the Project, was initially release in Belgium in 1997. Now, the series is complete. PÜNCT is a connection game: the goal is to link two opposite sites. On your turn, you either bring a new piece into play, or you move a piece that is already on the board. The more pieces you bring into play, the more possibilities you have to make a connection. But... each time you put a new piece on the board, you reveal a bit of what your plan is. The trick_T_E_M_P_T_A_G_#039;s to place your pieces in such a way that your opponent will expect you to do something different from what you really have in mind. As such, PÜNCT is not only about making a connection, but also about misleading your opponent! You_T_E_M_P_T_A_G_#039;ll have to proceed subtle!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Oct 2014 10:48:26 +0000</listdate>
+    <saledate>Fri, 31 Oct 2014 03:11:53 +0000</saledate>
+    <price currency='USD'>21.99</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO283)
+PÜNCT is the final game of Project GIPF, a series of games that, as you probably know, was announced to consist of 6 games and a number of sets with additional pieces. GIPF, the central game of the Project, was initially release in Belgium in 1997. Now, the series is complete. PÜNCT is a connection game: the goal is to link two opposite sites. On your turn, you either bring a new piece into play, or you move a piece that is already on the board. The more pieces you bring into play, the more possibilities you have to make a connection. But... each time you put a new piece on the board, you reveal a bit of what your plan is. The trick_T_E_M_P_T_A_G_#039;s to place your pieces in such a way that your opponent will expect you to do something different from what you really have in mind. As such, PÜNCT is not only about making a connection, but also about misleading your opponent! You_T_E_M_P_T_A_G_#039;ll have to proceed subtle!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Dec 2014 05:59:29 +0000</listdate>
+    <saledate>Mon, 08 Dec 2014 00:30:19 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Reserved for saslett</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jan 2015 15:41:59 +0000</listdate>
+    <saledate>Mon, 19 Jan 2015 17:01:51 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Reserved for bryan and sarah</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Oct 2014 16:15:40 +0000</listdate>
+    <saledate>Thu, 22 Jan 2015 20:05:03 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>verygood</condition>
+    <notes>box with little damaged</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Nov 2013 23:36:03 +0000</listdate>
+    <saledate>Mon, 08 Jun 2015 20:04:29 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Jul 2015 19:05:51 +0000</listdate>
+    <saledate>Fri, 31 Jul 2015 02:37:17 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193762/item/4023668#4023668]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction times_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Sep 2012 13:53:58 +0000</listdate>
+    <saledate>Mon, 28 Sep 2015 14:35:08 +0000</saledate>
+    <price currency='USD'>21.49</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $9.95</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Nov 2015 02:26:41 +0000</listdate>
+    <saledate>Tue, 01 Dec 2015 01:46:47 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>This listing reserved for auction victor: CCQCook
+Shipping will be 11.30 (Flat Rate USPS)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Oct 2015 20:59:35 +0000</listdate>
+    <saledate>Sun, 24 Jan 2016 09:04:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Jan 2016 16:46:13 +0000</listdate>
+    <saledate>Tue, 26 Jan 2016 18:04:56 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>This is for auction winner Thomas MacLaney - BGG ID: TomNTom
+Shipping is $7.35
+Once you purchase I_T_E_M_P_T_A_G_#039;ll send a PayPal Invoice for $8.00 plus $7.35 shipping = $15.35
+PLEASE DO NOT PURCHASE THIS ITEM IF YOU ARE NOT Thomas MacLaney - BGG ID: TomNTom</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 May 2015 21:39:59 +0000</listdate>
+    <saledate>Tue, 09 Feb 2016 08:32:13 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>In excellent condition. Weighs 810 gram</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Nov 2015 02:55:44 +0000</listdate>
+    <saledate>Fri, 24 Jun 2016 03:49:30 +0000</saledate>
+    <price currency='USD'>16.5</price>
+    <condition>verygood</condition>
+    <notes>Played solitaire to learn the rules. Super clean, no wear on box lid.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Aug 2015 12:42:39 +0000</listdate>
+    <saledate>Sun, 26 Jun 2016 23:34:01 +0000</saledate>
+    <price currency='GBP'>23</price>
+    <condition>verygood</condition>
+    <notes>Postage at cost - please ask for details.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jul 2016 03:35:12 +0000</listdate>
+    <saledate>Sun, 24 Jul 2016 12:07:27 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>Sale completed at Dice Tower Con 2016. Entering in Marketplace to pay BGG commission.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 May 2016 10:55:02 +0000</listdate>
+    <saledate>Tue, 11 Oct 2016 04:33:49 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>In shrink wrap
+Please send a message if you are interested so I can make an estimate of the shipping costs. Payment can be done by bank transfer or Paypal. If you have any questions please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Nov 2016 14:33:06 +0000</listdate>
+    <saledate>Mon, 09 Jan 2017 12:00:33 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Feb 2017 19:33:39 +0000</listdate>
+    <saledate>Wed, 01 Mar 2017 11:39:52 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap
+Please send a message if you are interested and ask for shipping costs to your location. Payment can be done by bank transfer or Pay pal. If you have any other question, please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Aug 2012 23:25:56 +0000</listdate>
+    <saledate>Fri, 16 Jun 2017 16:03:24 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+PUNCT: $19.95
+Rio Grande Games [RIO 283]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 May 2017 00:38:03 +0000</listdate>
+    <saledate>Sun, 30 Jul 2017 19:50:12 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>All components intact and neatly packed in the original box. Paypal or Venmo okay.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Aug 2017 20:37:03 +0000</listdate>
+    <saledate>Sat, 07 Oct 2017 21:14:31 +0000</saledate>
+    <price currency='CAD'>30</price>
+    <condition>new</condition>
+    <notes>Excellent condition. Still under Shrinkwrap</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Mar 2017 21:36:06 +0000</listdate>
+    <saledate>Mon, 08 Jan 2018 14:02:08 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap
+Please send a message if you are interested and ask for shipping costs to your location. Payment can be done by bank transfer or Pay pal. If you have any other question, please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Nov 2017 17:15:33 +0000</listdate>
+    <saledate>Mon, 29 Jan 2018 23:23:02 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Feb 2018 19:39:39 +0000</listdate>
+    <saledate>Sun, 04 Feb 2018 22:35:40 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Opened and played once. Box and components in excellent shape.
+Generally ship USPS priority.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Feb 2018 20:23:24 +0000</listdate>
+    <saledate>Fri, 09 Mar 2018 02:52:25 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Great condition.
+smoke and pet free home</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Mar 2018 18:51:18 +0000</listdate>
+    <saledate>Fri, 09 Mar 2018 19:21:08 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Box has some shelf wear. I also have GIPF, DVONN, ZERTZ, YINSH, and TZAAR. Free shipping if you buy all of them at once.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Feb 2018 10:08:16 +0000</listdate>
+    <saledate>Sat, 23 Jun 2018 14:32:28 +0000</saledate>
+    <price currency='USD'>18.45</price>
+    <condition>new</condition>
+    <notes>**All new BGG members or members with a low GeekMarket rating will receive a PayPal invoice for purchase and I ask for payment within 24 hours or the transaction may be cancelled and the game re-listed. **
+Payment can be made via PayPa or GC (GameNerdz, Amazon, or MinatureMarket)
+Buy TWO games get a 10% discount on your purchase before shipping.
+World wide shipping can be considered with prior contact to determine actual shipping method and cost. Please note tractable insured shipping from USA is based on air rate and sticker shock should be expected. I also reserve the right to not ship to countries with know shipping/custom issues, so please GM me prior to purchasing items for confirmation.
+Thank you</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

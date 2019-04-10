@@ -1,0 +1,2358 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="1117">
+   <yearpublished>1985</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>45</playingtime>
+   <minplaytime>45</minplaytime>
+   <maxplaytime>45</maxplaytime>
+   <age>10</age>
+       <name  sortindex="1">Bluff</name>
+       <name  sortindex="1">Bluffing!</name>
+       <name  sortindex="1">Boursicocotte</name>
+       <name  sortindex="1">Handjeklap</name>
+       <name  sortindex="1">Kip Poker</name>
+       <name  sortindex="1">Koehandel</name>
+       <name  sortindex="1">Koehandel Tope-là!</name>
+       <name  sortindex="1">Kuhhandel</name>
+       <name  sortindex="1">Lehmänkaupat</name>
+       <name  sortindex="1">Pague pra ver!</name>
+       <name  sortindex="1">Tope-là</name>
+       <name primary="true" sortindex="1">You_T_E_M_P_T_A_G_#039;re Bluffing!</name>
+       <name  sortindex="1">Αγελαδοπάζαρο</name>
+       <name  sortindex="1">你唬爛！</name>
+       <name  sortindex="1">吹牛</name>
+       <name  sortindex="1">幕後交易</name>
+         
+   <description>Classic bidding and bluffing game. The deck consists of sets of farm animals, 4 cards per animal. Players auction off the top animal of the deck, or try to complete their set by trading with another player. Highest bid wins, but auctioneer always has the choice to buy the animal for the same price as the highest bid._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Trading is a blind bidding system: both players place their bid face down on the table and reveal them simultaneously to each other. High bidder gets the other player's animal. Both players swap their bid. It's best to bid just a little bit more than your opponent, but just how much did he bid?_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;reimplemented by:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Kuhhandel Master (2009)_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/ieK9v_hMu2PgIBbaoswHzgrY_ZQ=/fit-in/200x150/pic1068602.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/6JpL03TOx2lAbAapS12kGjgzN8Y=/0x0/pic1068602.jpg</image>
+      
+            <boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+               <boardgameversion objectid="151476">(Self-Published) edition 1983</boardgameversion>
+               <boardgamehonor objectid="8780">1985 Spiel des Jahres Recommended</boardgamehonor>
+               <boardgamehonor objectid="8956">1996 Fairplay À la carte Winner</boardgamehonor>
+                      <boardgamecategory objectid="1089">Animals</boardgamecategory>
+               <boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+               <boardgameversion objectid="89328">Asmodée French edition</boardgameversion>
+               <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+               <boardgameimplementation objectid="193062">Bidder Up!</boardgameimplementation>
+               <boardgameartist objectid="2954">Bernard Bittler</boardgameartist>
+               <boardgameartist objectid="69519">Josef Blaumeiser</boardgameartist>
+               <boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+               <boardgameartist objectid="12829">Trevor Dunton</boardgameartist>
+                                    <boardgamepublisher objectid="11">F.X. Schmid</boardgamepublisher>
+               <boardgameversion objectid="238426">F.X. Schmid German edition 1998</boardgameversion>
+               <boardgameversion objectid="29948">F.X. Schmid German edition 1999</boardgameversion>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+                                                                                                          <boardgamepublisher objectid="858">Grow Jogos e Brinquedos</boardgamepublisher>
+               <boardgameversion objectid="178383">Grow Portuguese edition</boardgameversion>
+               <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+               <boardgamecategory objectid="1079">Humor</boardgamecategory>
+                                    <boardgamedesigner objectid="7101">Rüdiger Koltze</boardgamedesigner>
+               <boardgameimplementation objectid="56786">Kuhhandel Master</boardgameimplementation>
+                      <boardgamemechanic objectid="2047">Memory</boardgamemechanic>
+               <boardgamepublisher objectid="21625">Nestlé</boardgamepublisher>
+               <boardgameversion objectid="280291">Nestlé Dutch edition</boardgameversion>
+                      <boardgamepublisher objectid="99">Otto Maier Verlag</boardgamepublisher>
+               <boardgameversion objectid="61506">Otto Maier Verlag German plastic tray edition 1985</boardgameversion>
+                      <boardgameversion objectid="140320">Ravensburger Dutch edition 1985</boardgameversion>
+               <boardgameversion objectid="20860">Ravensburger Dutch edition 2005</boardgameversion>
+               <boardgameversion objectid="355349">Ravensburger Dutch/French edition</boardgameversion>
+               <boardgameversion objectid="20859">Ravensburger Dutch/French edition 2001</boardgameversion>
+               <boardgameversion objectid="357229">Ravensburger Dutch/French edition 2005</boardgameversion>
+               <boardgameversion objectid="21857">Ravensburger English edition</boardgameversion>
+               <boardgameversion objectid="42942">Ravensburger Finnish/Swedish edition</boardgameversion>
+               <boardgameversion objectid="173915">Ravensburger French 271092 Edition</boardgameversion>
+               <boardgameversion objectid="173916">Ravensburger French edition 1985</boardgameversion>
+               <boardgameversion objectid="333659">Ravensburger German Edition (without SdJ Logo)</boardgameversion>
+               <boardgameversion objectid="25306">Ravensburger German edition 1988</boardgameversion>
+               <boardgameversion objectid="29947">Ravensburger German edition 1996</boardgameversion>
+               <boardgameversion objectid="64778">Ravensburger German edition 1999</boardgameversion>
+               <boardgameversion objectid="97984">Ravensburger German edition 2005</boardgameversion>
+               <boardgameversion objectid="330186">Ravensburger German edition 2016</boardgameversion>
+               <boardgameversion objectid="25307">Ravensburger German SdJ Edition</boardgameversion>
+               <boardgameversion objectid="61507">Ravensburger German wide box edition 1985</boardgameversion>
+               <boardgameversion objectid="360156">Ravensburger Japanese edition</boardgameversion>
+               <boardgamefamily objectid="17407">Ravensburger Kartenspiele</boardgamefamily>
+               <boardgameversion objectid="26567">Ravensburger Scandinavian edition 2002</boardgameversion>
+               <boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+                                                                <boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+               <boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+               <boardgameversion objectid="437206">Swan Panasia Chinese/English edition</boardgameversion>
+               <boardgamepublisher objectid="9234">Swan Panasia Co., Ltd.</boardgamepublisher>
+               <boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="45">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="25" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="24" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="14" />
+     <result value="Not Recommended" numvotes="11" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="11" />
+     <result value="Recommended" numvotes="26" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="31" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="21" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="20">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="20" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="1" />
+     <result value="8" numvotes="2" />
+     <result value="10" numvotes="7" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="1" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>3193</usersrated>
+     <average>6.61592</average>
+     <bayesaverage>6.28367</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1357" bayesaverage="6.28367" />
+            
+       
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="362" bayesaverage="6.36241" />
+            
+           </ranks>
+     
+     <stddev>1.34971</stddev>
+     <median>0</median>
+     <owned>4981</owned>
+     <trading>178</trading>
+     <wanting>70</wanting>
+     <wishing>295</wishing>
+     <numcomments>925</numcomments>
+     <numweights>308</numweights>
+     <averageweight>1.6169</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Wed, 05 Feb 2003 22:54:15 +0000</listdate>
+    <saledate>Wed, 19 Feb 2003 19:43:30 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 May 2003 10:03:24 +0000</listdate>
+    <saledate>Sat, 10 May 2003 10:03:24 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 May 2003 08:08:47 +0000</listdate>
+    <saledate>Sun, 21 Sep 2003 02:30:51 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>German, (newer) small box edition.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.
+I accept payments via paypal, but only if the buyer is willing to cover the fees they charge me (2.9% fee + 1% cross border fee).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jun 2003 00:57:50 +0000</listdate>
+    <saledate>Fri, 13 Jun 2003 05:37:11 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jul 2003 07:25:46 +0000</listdate>
+    <saledate>Tue, 03 Feb 2004 13:32:10 +0000</saledate>
+    <price currency='EUR'>6.5</price>
+    <condition>verygood</condition>
+    <notes>I´m selling a lot of other german boardgames Shipping worldwide (Paypal or cash). Picture for condition purposes can me mailed
+Look also at my other games I want _T_E_M_P_T_A_G_amp;quot;to get rid off_T_E_M_P_T_A_G_amp;quot;
+If you are looking for some other games send me an email.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Apr 2004 23:49:20 +0000</listdate>
+    <saledate>Fri, 07 Jan 2005 19:50:59 +0000</saledate>
+    <price currency='USD'>8.99</price>
+    <condition>new</condition>
+    <notes>Brand new, in shrink.  This is the _T_E_M_P_T_A_G_quot;You_T_E_M_P_T_A_G_#039;re Bluffing_T_E_M_P_T_A_G_quot; version of the game, released by Ravensburger.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 May 2004 11:59:41 +0000</listdate>
+    <saledate>Mon, 20 Feb 2006 18:02:42 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>I_T_E_M_P_T_A_G_#039;m offering the German edition. It_T_E_M_P_T_A_G_#039;s the small one in the black/white box. There are just some slight abraisons at the edges, otherwise great.
+Shipping is EUR 6 within Europe or $10 worldwide, both surface mail, no insurance, no track+trace.
+We have many other interesting and rare games! Email us!
+We can collect games up to 5 - 10 or 20 kg boxes, so you can save shipping costs! Just email for more information!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Mar 2005 14:43:20 +0000</listdate>
+    <saledate>Wed, 04 May 2005 11:26:05 +0000</saledate>
+    <price currency='EUR'>12.5</price>
+    <condition>new</condition>
+    <notes>Still in foil perfect for a gift.
+Available translation in:
+- ENGLISH
+- ITALIAN
+- FRANCE
+- ESPAGNOL 
+- NORWEGIAN
+For more info visit www.GiochinScatola.it
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 May 2005 21:35:04 +0000</listdate>
+    <saledate>Sat, 14 May 2005 14:25:39 +0000</saledate>
+    <price currency='USD'>6.5</price>
+    <condition>verygood</condition>
+    <notes>American _T_E_M_P_T_A_G_quot;You_T_E_M_P_T_A_G_#039;re Bluffing_T_E_M_P_T_A_G_quot; edition. Played only once.  Cards are in perfect condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 May 2005 15:11:30 +0000</listdate>
+    <saledate>Mon, 14 Nov 2005 22:58:44 +0000</saledate>
+    <price currency='EUR'>14.9</price>
+    <condition>new</condition>
+    <notes>The game is still in foil and it is perfect for a gift!
+Translations available in:
+- ENGLISH
+- ITALIAN
+- FRANCE
+- ESPAGNOL 
+- NORWEGIAN
+Shipping within EU  =  4.00 EUR
+Shipping outside EU =  9.00 EUR
+For more info visit www.GiochinScatola.it
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jun 2005 14:58:15 +0000</listdate>
+    <saledate>Sat, 27 Aug 2005 15:15:10 +0000</saledate>
+    <price currency='USD'>10.5</price>
+    <condition>new</condition>
+    <notes>Brand new and sealed!
+Please send me a message if you have specific questions about the condition of the game or would like a quote on shipping and packaging costs. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Oct 2005 19:31:48 +0000</listdate>
+    <saledate>Mon, 24 Oct 2005 08:47:40 +0000</saledate>
+    <price currency='EUR'>7.5</price>
+    <condition>good</condition>
+    <notes>This is the old Ravensburger version with the cardtray.
+Just a little damage one side of the cover. Otherwise very good condition. Game has been played just a few times.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.
+Usually shipping a single (regular sized) boardgame (surface) costs 12.90€ worldwide and 8.60€ within Europe. Smaller games ship cheaper. Of course multiple games can be combined.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Oct 2005 16:21:31 +0000</listdate>
+    <saledate>Mon, 17 Oct 2005 17:22:15 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>German edition. Shipping is 4.70$ within U.S., insurance 1.30$ optional.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Dec 2005 03:17:49 +0000</listdate>
+    <saledate>Fri, 17 Feb 2006 16:22:57 +0000</saledate>
+    <price currency='USD'>9.5</price>
+    <condition>verygood</condition>
+    <notes>This is the original 1985 edition by Ravensburger. The box has some where, but the cards are still in excellent condition, probably played once or twice. 
+Please contact me if you would like a quote on shipping cost or have a specific question regarding the game. I will only charge you for my actual shipping and packaging costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 May 2006 09:56:51 +0000</listdate>
+    <saledate>Wed, 04 Oct 2006 17:34:56 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>Ravensburger_T_E_M_P_T_A_G_#039;s You_T_E_M_P_T_A_G_#039;re Bluffing
+New, unused, and in shrinkwrap.
+PayPal accepted only for non-credit card transactions. Otherwise, your check, cash, or money order is good, and won_T_E_M_P_T_A_G_#039;t be held.
+Willing to accept GeekGold at a 5-1 ratio; up to 25 GeekGold.
+Also willing to trade...
+Shipping cost depends on specifics, but should be $4-$6 to the US. Willing to combine shipping for multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Jul 2006 17:49:47 +0000</listdate>
+    <saledate>Sat, 23 Jun 2007 01:47:19 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>I_T_E_M_P_T_A_G_#039;m offering the German edition.
+We have many other interesting and rare games! Email us!
+We can collect games up to 5 - 10 or 20 kg boxes, so you can save shipping costs! Just email for more information!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Oct 2006 14:09:11 +0000</listdate>
+    <saledate>Mon, 20 Nov 2006 12:57:59 +0000</saledate>
+    <price currency='EUR'>7.99</price>
+    <condition>verygood</condition>
+    <notes>played only once +++++ german edition, but game components are completely language independent anyway and you can download a rules translation from bgg ++++++++++ could be send as an uninsured letter, please ask for prices +++++ and about insured shipment...international payment : paypal OR direct bank to bank transfer (wich is cost-free inside european union by the way) OR cash (in a registered letter, exchanged into euros already) +++++ payment for germany : paypal OR personal pick up in berlin OR direct bank to bank transfer +++++ for all : no checks ! ++++++++++ international buyers beware : though german postal is relatively fast, they sadly aren´t cheap. it costs bewteen 19 - 37 euros for parcels up to a weight of 5 kg (= about 4 big boxed boardgames). price depends on where the package has to be shipped, so please ask for prices, before you hit the buy button ! +++++ insured shipment inside germany costs 8 eurosbutton ! +++++ shipment inside germany costs 8 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Oct 2006 02:46:28 +0000</listdate>
+    <saledate>Mon, 18 Dec 2006 02:59:26 +0000</saledate>
+    <price currency='USD'>6.5</price>
+    <condition>new</condition>
+    <notes>You_T_E_M_P_T_A_G_#039;re Bluffing; New in shrinkwrap.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Oct 2006 14:48:52 +0000</listdate>
+    <saledate>Sun, 07 Jan 2007 23:18:17 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>You_T_E_M_P_T_A_G_#039;re Bluffing - Ravensburger
+Like New! Removed from shrink wrap, but in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $1.00 handling charge.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Jan 2007 13:55:36 +0000</listdate>
+    <saledate>Tue, 23 Jan 2007 19:17:23 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>likenew</condition>
+    <notes>UK Postage : £2.50</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jul 2007 22:53:29 +0000</listdate>
+    <saledate>Tue, 25 Sep 2007 03:13:56 +0000</saledate>
+    <price currency='EUR'>7.5</price>
+    <condition>verygood</condition>
+    <notes>Shipping is EUR 7.00 within Europe or EUR 10.00 worldwide. 
+The delivery time varies from 1 to 4 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click the robbirob button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jul 2007 03:39:43 +0000</listdate>
+    <saledate>Tue, 17 Jul 2007 19:00:38 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Played only a couple of times. Like New. English Instructions are highlighted. Cost is $8.00. Shipping is $5.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jul 2007 16:54:41 +0000</listdate>
+    <saledate>Mon, 23 Jul 2007 03:09:14 +0000</saledate>
+    <price currency='USD'>5.75</price>
+    <condition>likenew</condition>
+    <notes>Never been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Aug 2007 02:22:50 +0000</listdate>
+    <saledate>Wed, 22 Aug 2007 21:45:50 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>English _T_E_M_P_T_A_G_quot;You_T_E_M_P_T_A_G_#039;re Bluffing_T_E_M_P_T_A_G_quot; version.  Out of stock pretty much everywhere.  The box is extremely flimsy and is somewhat beat up, but the contents are in great shape.  Add $7 for shipping.  (Will reduce shipping for multiple orders.)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Aug 2007 18:40:39 +0000</listdate>
+    <saledate>Mon, 20 Aug 2007 06:07:13 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played several times.  Complete and in great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Sep 2007 00:22:38 +0000</listdate>
+    <saledate>Tue, 04 Sep 2007 04:53:46 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>Played only a couple of times and it didn_T_E_M_P_T_A_G_#039;t go over well in our game group.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Sep 2007 19:18:53 +0000</listdate>
+    <saledate>Mon, 07 Jan 2008 21:06:22 +0000</saledate>
+    <price currency='EUR'>7.5</price>
+    <condition>verygood</condition>
+    <notes>I´m offering KUHHANDEL
+I´m offering the tin box edition.
+If you are looking for a cheaper solution, I do have used copies of the regular edition available, too.
+Shipping is EUR 8.00 within Europe or EUR 10.00 worldwide. 
+The delivery time varies from 1 to 4 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click the robbirob button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Oct 2007 20:05:28 +0000</listdate>
+    <saledate>Sat, 01 Dec 2007 21:42:42 +0000</saledate>
+    <price currency='USD'>6.95</price>
+    <condition>likenew</condition>
+    <notes>Tuckbox is beat-up, but cards in shrink.  You_T_E_M_P_T_A_G_#039;re Bluffing! version.
+Shipping will be via fedex 2-day, for flat $10, no matter how many items you order.
+I prefer Amazon gift certificate as payment, or Paypal only if from a funded account (no credit card accounts).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Nov 2007 19:48:55 +0000</listdate>
+    <saledate>Sun, 10 Feb 2008 18:09:52 +0000</saledate>
+    <price currency='GBP'>4.3</price>
+    <condition>good</condition>
+    <notes>Kuhhandel,  Ravensburger edition.  Box has a few dents,  and one corner is split.  Contents are complete and in excellent condition.
+Weight inc packing 310g
+UK First class  £2.38  
+Surface Worldwide£3.08  
+Europe Airmail  £3.48  
+USA Airmail  £4.92  
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Dec 2007 15:36:33 +0000</listdate>
+    <saledate>Sat, 01 Dec 2007 21:35:06 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Shipping will be actual postage cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Dec 2007 20:01:23 +0000</listdate>
+    <saledate>Tue, 04 Dec 2007 16:37:19 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition. Box shows some minor storage wear, and cards show some signs of use, but everything is clean and in excellent shape.
+Shipping weight is 12oz. Will ship Prioirty Mail from ZIP code 95014, so about $4.50, depending on how far away you are. International shipping will be at cost. You can check at www.usps.com if interested.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Jan 2008 21:17:40 +0000</listdate>
+    <saledate>Sun, 27 Jan 2008 07:49:56 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played a few times in good condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Feb 2008 02:15:46 +0000</listdate>
+    <saledate>Sun, 03 Feb 2008 11:25:58 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>Ravensburger You_T_E_M_P_T_A_G_#039;re Bluffing.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Feb 2008 20:36:50 +0000</listdate>
+    <saledate>Sun, 10 Feb 2008 00:35:04 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>Ravensburger English edition of You_T_E_M_P_T_A_G_#039;re Bluffing.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Feb 2008 03:44:39 +0000</listdate>
+    <saledate>Tue, 12 Feb 2008 00:59:47 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>good</condition>
+    <notes>Played a few times. English Ravensburger edition, copyright date 2002. The box has some very small dents. The plastic piece inside, that holds the cards, is crushed and was that way before I opened it! It still _T_E_M_P_T_A_G_quot;works_T_E_M_P_T_A_G_quot; though. I prefer Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Mar 2008 17:31:32 +0000</listdate>
+    <saledate>Wed, 05 Mar 2008 05:22:07 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Kuhhandel - Ravensburger 1985.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Mar 2008 17:06:56 +0000</listdate>
+    <saledate>Mon, 28 Apr 2008 08:12:34 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>verygood</condition>
+    <notes>Edited by: Ravensburger. 
+Game is language independent. 
+Dutch version.
+Game dimensions: 
+  Length: 19.8 cm. 
+  Width: 14.3 cm. 
+  Heigth: 4.5 cm. 
+Game weight: 0.3 kg. 
+--------------------------------------------------------------------------------
+Most of our games have dutch and/or french rules included. 
+To find out more and see a few images of this game: 
+FitisGames.be/verkoop.asp?id=3400 
+When buying multiple games you can economise on postage fees. 
+If you are looking for another game or have questions about postage fees: 
+www.FitisGames.be 
+In the past we have also been active on eBay. 
+You can find our feedback score on 
+http://feedback.benl.ebay.be/ws/eBayISAPI.dll?ViewFeedback2_T_E_M_P_T_A_G_amp;userid=tjiftjaf</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jun 2008 08:11:56 +0000</listdate>
+    <saledate>Sat, 26 Jul 2008 20:00:01 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>First german Ravensburger edition _T_E_M_P_T_A_G_#039;Kuhhandel_T_E_M_P_T_A_G_#039;. Complete and in very good shape,just minor box wear from storage.
+8€ worldwide airmail delivery, 4.50€ within the EC.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Jul 2008 01:24:40 +0000</listdate>
+    <saledate>Thu, 31 Jul 2008 12:37:32 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>1988 Ravensburger edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Sep 2008 05:34:08 +0000</listdate>
+    <saledate>Tue, 28 Oct 2008 01:01:18 +0000</saledate>
+    <price currency='EUR'>9.5</price>
+    <condition>likenew</condition>
+    <notes>_T_E_M_P_T_A_G_#039;Newer_T_E_M_P_T_A_G_#039; german Ravensburger _T_E_M_P_T_A_G_#039;Kuhhandel_T_E_M_P_T_A_G_#039; edition. Cards are still in shrinkwrap.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Oct 2008 13:35:13 +0000</listdate>
+    <saledate>Wed, 01 Oct 2008 19:27:46 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>New in shrink. 2nd Ed. FX German edition. No necessary in-game text and English Rules will be provided. Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Oct 2008 00:29:37 +0000</listdate>
+    <saledate>Wed, 08 Oct 2008 02:05:40 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>New, factory-sealed in tuckbox.  Pristine.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Nov 2008 00:56:55 +0000</listdate>
+    <saledate>Wed, 26 Nov 2008 13:40:56 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>New.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Nov 2008 17:00:47 +0000</listdate>
+    <saledate>Mon, 01 Dec 2008 12:02:59 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>Brand new.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Jan 2009 18:35:52 +0000</listdate>
+    <saledate>Wed, 21 Jan 2009 02:51:01 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>No box, but cards are in excellent condition. 
+English edition.
+The edition below:
+http://www.boardgamegeek.com/image/109960
+$2 shipping to the US
+$5 shipping international. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Jan 2009 18:59:51 +0000</listdate>
+    <saledate>Mon, 26 Jan 2009 21:17:51 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>The cards and instructions are in great shape.
+The box shows shelf wear with one corner slightly dented.
+Verified PayPal accounts only please.
+USPS shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Feb 2009 05:03:06 +0000</listdate>
+    <saledate>Sun, 22 Mar 2009 15:39:59 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Kuhhandel.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Mar 2009 13:15:15 +0000</listdate>
+    <saledate>Wed, 08 Apr 2009 17:20:48 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>great shape, original ravensburger print</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Apr 2009 21:13:03 +0000</listdate>
+    <saledate>Wed, 29 Apr 2009 23:59:50 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>German edition _T_E_M_P_T_A_G_quot;Kuhhandel_T_E_M_P_T_A_G_quot;. Played a couple of times. Please check the other games I sell and combine your buyings !
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Apr 2009 23:51:28 +0000</listdate>
+    <saledate>Thu, 07 May 2009 02:21:42 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 May 2009 22:34:26 +0000</listdate>
+    <saledate>Fri, 29 May 2009 03:55:55 +0000</saledate>
+    <price currency='USD'>8.5</price>
+    <condition>good</condition>
+    <notes>Cards played but complete and in good condition.  Box shows minimal shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 May 2009 15:51:44 +0000</listdate>
+    <saledate>Tue, 18 Aug 2009 20:45:55 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>verygood</condition>
+    <notes>COULD BE SEND AS A LETTER (cheaper,faster)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 May 2009 20:10:05 +0000</listdate>
+    <saledate>Sat, 06 Jun 2009 02:11:03 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Opened, but never played.
+I can only accept check, money order, or Paypal (if it is funded through a bank account, not a debit or credit card).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Aug 2009 20:11:24 +0000</listdate>
+    <saledate>Tue, 11 Aug 2009 01:28:04 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>1985 Ravensburger edition (yellow box).
+Shipping charges are my cost only (postage and box). Combined shipping available and I will use priority or flat rate boxes when available. Please let me know if you wish for the shipment to be insured.
+PayPal to cagood@earthlink.net or Money Order/Cashiers Check to:
+Craig Good
+102 Tannenbaum St.
+Durham, NC 27705 
+Thanks
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Aug 2009 18:08:03 +0000</listdate>
+    <saledate>Tue, 11 Aug 2009 01:28:04 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>new</condition>
+    <notes>Still in shrinkwrap
+Will ship worldwide
+Ship to USA (no insurance, cant keep tracking, by vessel) 
+Shipping cost : $6
+Delivery Time : 20~60 days 
+Ship to USA (insurance, can keep tracking, by vessel)
+Shipping cost : $16
+Delivery Time : 20~60 days 
+Ship to USA (no insurance, cant keep tracking, by air)
+Shipping cost : $20
+Delivery Time : 7~21 days 
+ship to other : i will provide shiping cost later
+See my sale list 
+You can save your shipping cost 
+If you don_T_E_M_P_T_A_G_#039;t like my price, make me an offer! I also make trades
+I can accept multiple currency
+*** You must pay 3.4% + $0.30 USD more If you want payments funded by Credit Card, Debit Card or Buyer Credit ****
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Nov 2009 23:03:59 +0000</listdate>
+    <saledate>Wed, 09 Dec 2009 15:02:32 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>only played a few times... everything is in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2009 23:18:16 +0000</listdate>
+    <saledate>Mon, 30 Nov 2009 18:15:54 +0000</saledate>
+    <price currency='USD'>15.95</price>
+    <condition>likenew</condition>
+    <notes>Game has been played 4 or 5 times and is in great shape.
+Shipping is $5.95</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Dec 2009 20:13:09 +0000</listdate>
+    <saledate>Wed, 09 Dec 2009 14:13:25 +0000</saledate>
+    <price currency='EUR'>12.5</price>
+    <condition>new</condition>
+    <notes>German small box Ravensburger edition. Components are language independent.
+Game is still in shrink.
+Shipping at actual cost dependent on destination, total weight and method of shipment chosen.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Dec 2009 16:22:20 +0000</listdate>
+    <saledate>Mon, 21 Dec 2009 23:37:55 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>good</condition>
+    <notes>Kuhhandel version in the cardboard box. Box has some wear but all cards are in good condition. Printoff of English Rules are included.
+Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Dec 2009 13:31:15 +0000</listdate>
+    <saledate>Tue, 15 Dec 2009 19:05:10 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for johank33.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Dec 2009 11:23:25 +0000</listdate>
+    <saledate>Sun, 17 Jan 2010 00:51:33 +0000</saledate>
+    <price currency='EUR'>7</price>
+    <condition>verygood</condition>
+    <notes>Could be send as a letter (cheaper,faster)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Apr 2010 16:23:54 +0000</listdate>
+    <saledate>Wed, 14 Apr 2010 23:36:03 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>verygood</condition>
+    <notes>1985 edition _T_E_M_P_T_A_G_#039;Kuhhandel_T_E_M_P_T_A_G_#039;, complete, cards in very good condition, box just with minor wear.
+6 Euros worldwide surfacemail delivery.
+4 Euros shipping within the EC.
+2.50 Euros shipping within Germany.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Apr 2010 19:12:32 +0000</listdate>
+    <saledate>Thu, 08 Jul 2010 22:31:53 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>original ravensburger print</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 May 2010 20:46:32 +0000</listdate>
+    <saledate>Fri, 07 May 2010 22:28:35 +0000</saledate>
+    <price currency='GBP'>2</price>
+    <condition>new</condition>
+    <notes>Reserved for archivists</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 May 2010 18:50:11 +0000</listdate>
+    <saledate>Mon, 24 May 2010 17:43:36 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>Older german (language independent) Ravensburger edition. complete and in very good condition.
+6 Euros worldwide shipping, 
+4 Euros delivery within the EC
+2.50 Euros shipping within Germany</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 May 2010 19:25:23 +0000</listdate>
+    <saledate>Thu, 20 May 2010 15:51:26 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>Older german (language independent) Ravensburger edition. complete and in very good condition.
+6 Euros worldwide shipping,
+4 Euros delivery within the EC
+2.50 Euros shipping within Germany</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jun 2010 17:15:00 +0000</listdate>
+    <saledate>Sat, 03 Jul 2010 02:10:38 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>new</condition>
+    <notes>Classic game, brand new in shrink wrap.
+It has a dinged box, but otherwise it_T_E_M_P_T_A_G_#039;s brand new the rest of the box is new. See pictures.
+I will ship worldwide.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Jul 2010 20:26:35 +0000</listdate>
+    <saledate>Tue, 11 Jan 2011 23:49:03 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>German edition, Kuhandel, but game is language independent.
+Postage to UK £2.
+Or free shipping if you collect in Brighton.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jul 2010 03:23:28 +0000</listdate>
+    <saledate>Thu, 08 Jul 2010 22:31:53 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Classic game, brand new in shrink wrap.
+Box has a tiny ding, that_T_E_M_P_T_A_G_#039;s hardly noticable. See picture.
+I will ship worldwide.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Jul 2010 09:18:31 +0000</listdate>
+    <saledate>Tue, 31 Aug 2010 07:48:17 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>verygood</condition>
+    <notes>Minor wear at the box - Cards in Excellent condition
+Could be send as a letter (Cheaper,faster)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Jul 2010 02:31:59 +0000</listdate>
+    <saledate>Fri, 23 Jul 2010 23:40:34 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap. 
+Ravensburger edition, as pictured.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Jul 2010 13:53:16 +0000</listdate>
+    <saledate>Mon, 18 Apr 2011 23:26:39 +0000</saledate>
+    <price currency='EUR'>9.9</price>
+    <condition>new</condition>
+    <notes>Dutch version</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Aug 2010 05:16:02 +0000</listdate>
+    <saledate>Thu, 02 Dec 2010 20:29:52 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Kuhhandel (2001) by Ravensburger
+Box: Very light shelfwear with no significant dings, dents or wrinkles.  Overall, the box is in near mint condition!
+Components: Complete and in like new condition!  The cards have been separated and stored in plastic bags for convenience and protection - you will be very pleased with how the game has been packaged.
+SHIPPING
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 2 Lbs. from zip code 85208.  International buyers are very welcome, but please contact me for a shipping price quote to avoid any surprises or misunderstandings.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Aug 2010 21:38:41 +0000</listdate>
+    <saledate>Sat, 04 Sep 2010 15:24:33 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Sep 2010 05:26:59 +0000</listdate>
+    <saledate>Tue, 07 Dec 2010 03:58:33 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Ravensburger English edition
+There is a crease on one end of the top of the box top.  The rules are in good condition, with a bend next to the staples.  The cards are in very good condition. 
+Shipping charge will be an estimate of the actual cost of shipping the game to you. That means I can usually reduce shipping charges if you buy more than one of my games -- Send me a message and I_T_E_M_P_T_A_G_#039;ll calculate the discount.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Sep 2010 16:55:53 +0000</listdate>
+    <saledate>Wed, 24 Nov 2010 15:44:06 +0000</saledate>
+    <price currency='GBP'>9</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Sep 2010 06:01:08 +0000</listdate>
+    <saledate>Thu, 16 Dec 2010 07:22:10 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>All components present and in like new condition.
+Box has tear where price tag used to be.  Corners are whited from shelfwear.
+If using Paypal other than direct transfer, add 4% to total.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Oct 2010 12:22:30 +0000</listdate>
+    <saledate>Mon, 18 Oct 2010 17:25:31 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>new</condition>
+    <notes>New and unopened.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Nov 2010 22:49:53 +0000</listdate>
+    <saledate>Tue, 23 Nov 2010 04:11:41 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>acceptable</condition>
+    <notes>_T_E_M_P_T_A_G_quot;Kuhhandel_T_E_M_P_T_A_G_quot; - Reserved for historysteph.  Sold in a GeekList auction.
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Nov 2010 02:08:21 +0000</listdate>
+    <saledate>Thu, 25 Nov 2010 16:05:27 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner: Qualm</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Dec 2010 18:57:24 +0000</listdate>
+    <saledate>Sun, 13 Feb 2011 08:46:31 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>good</condition>
+    <notes>Ravensburger old german version</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Jan 2011 14:45:45 +0000</listdate>
+    <saledate>Sun, 13 Feb 2011 08:46:31 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>new</condition>
+    <notes>German Ravensburger small box edition. Components are language independent.
+Game is still in shrinkwrap.
+Shipping at actual cost dependent on destination, total weight and method of shipment chosen.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Jan 2011 04:06:59 +0000</listdate>
+    <saledate>Tue, 12 Apr 2011 16:33:03 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Kuhhandel (1996) by Ravensburger
+Box:  Very light shelfwear with a few minor dings, dents and creases.   Overall the box is in excellent condition!
+Components:  Complete and in excellent condition!  Cards have been stored in plastic bags for convenience and protection - you will be very pleased with how the game has been packaged. 
+SHIPPING:
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 1 lb. from zip code 85208.  International buyers are very welcome, but please contact me before buying for a shipping price quote to avoid any surprises or misunderstandings.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Feb 2011 21:22:50 +0000</listdate>
+    <saledate>Sun, 14 Aug 2011 10:50:26 +0000</saledate>
+    <price currency='EUR'>9.5</price>
+    <condition>new</condition>
+    <notes>Ravenburger - Koehandel
+Language: Dutch _T_E_M_P_T_A_G_amp; French
+Players: 3 to 5
+Age: 10+
+Duration: about 45 min
+Weight: 0.275 kg
+New - mint condition - unopened - still in shrink wrap.
+Theme: Classic bidding and bluffing game. The deck consists of sets of farm animals, 4 cards per animal. Players auction off the top animal of the deck, or try to complete their set by trading with another player. Highest bid wins, but auctioneer always has the choice to buy the animal for the same price as the highest bid. Trading is a blind bidding system: both players place their bid face down on the table and reveal them simultaneously to each other. High bidder gets the other player_T_E_M_P_T_A_G_#039;s animal. Both players swap their bid. It_T_E_M_P_T_A_G_#039;s best to bid just a little bit more than your opponent, but just how much did he bid?
+See Details (more info) or below for complete selling, payment and shipping conditions.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Feb 2011 03:19:25 +0000</listdate>
+    <saledate>Mon, 28 Feb 2011 05:46:01 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>For BGG User fajpunk only - from a geeklist auction
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Mar 2011 16:32:45 +0000</listdate>
+    <saledate>Sun, 03 Apr 2011 00:56:03 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>Brand new, but opened. Not even played once. thus in brand new condition.
+Ravensburger Edition (see pic)
+The game is still in shrink wrap, as only the bottom portion of the foil has been removed.
+I will ship worldwide.
+===========================================================
+Buy other games from me
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+ and I will gladly combine shipping for you to make it cheaper for you for the shipping!!
+===========================================================</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Apr 2011 10:39:00 +0000</listdate>
+    <saledate>Mon, 11 Apr 2011 04:44:57 +0000</saledate>
+    <price currency='USD'>17.95</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition.  English edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Apr 2011 21:02:34 +0000</listdate>
+    <saledate>Tue, 12 Jul 2011 10:59:40 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Kuhhandel (1998) by FX Schmid
+Box:  Very light shelfwear with a few minor dings, dents and creases.   Overall the box is in excellent condition!
+Components:  Complete and in excellent condition!  Cards have been stored in plastic bags for convenience and protection - you will be very pleased with how the game has been packaged. 
+SHIPPING:
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 2 lbs. from zip code 85208.  International buyers are very welcome, but please contact me for a shipping price quote to avoid any surprises or misunderstandings.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 May 2011 20:20:19 +0000</listdate>
+    <saledate>Tue, 24 May 2011 20:22:40 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>for BGG user vaughn from my auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jun 2011 17:39:46 +0000</listdate>
+    <saledate>Sat, 02 Jul 2011 17:49:10 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Card still in shrink. The box has some wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jun 2011 05:25:54 +0000</listdate>
+    <saledate>Tue, 21 Jun 2011 12:48:42 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Everything in good condition.  See image for version.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Sep 2011 15:07:34 +0000</listdate>
+    <saledate>Mon, 12 Sep 2011 18:49:27 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>for auction winner jaaampack</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Sep 2011 23:44:39 +0000</listdate>
+    <saledate>Sun, 09 Oct 2011 22:45:01 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This game is in very good condition.  The box has slight shelf wear and the cards are in very good condition.  I will ship anywhere in the lower US.  No international orders. I charge a flat $5 for shipping.  Please message me with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Oct 2011 09:53:59 +0000</listdate>
+    <saledate>Thu, 27 Oct 2011 22:12:43 +0000</saledate>
+    <price currency='GBP'>4</price>
+    <condition>verygood</condition>
+    <notes>Conditions: Very Good
+Edition: Ravensburg (KUHHANDEL)
+Postage (GBP)
+UK 2.50
+RESERVED FOR PHOENIXGEEK
+RESERVED FOR PHOENIXGEEK
+RESERVED FOR PHOENIXGEEK</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Nov 2011 17:50:20 +0000</listdate>
+    <saledate>Sat, 19 Nov 2011 19:57:27 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>for user halbower.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Nov 2011 18:01:36 +0000</listdate>
+    <saledate>Thu, 15 Dec 2011 18:48:59 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>verygood</condition>
+    <notes>German version but no language problems to playing the game and english rules provided.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Dec 2011 06:54:37 +0000</listdate>
+    <saledate>Tue, 27 Dec 2011 03:14:04 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>Complete. Cards are in excellent, like-new condition.
+Shipping fee is $4.00 via USPS.
+I can also combine shipping.
+I accept PayPal only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Dec 2011 15:06:03 +0000</listdate>
+    <saledate>Wed, 25 Jan 2012 05:19:14 +0000</saledate>
+    <price currency='GBP'>7.99</price>
+    <condition>likenew</condition>
+    <notes>German version but does not hinder play.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Jan 2012 16:05:30 +0000</listdate>
+    <saledate>Fri, 02 Mar 2012 14:00:32 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New in shrink. Koehandel. Ravensburger, Dutch and French edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Feb 2012 20:51:59 +0000</listdate>
+    <saledate>Thu, 02 Feb 2012 21:35:00 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Reserved for FlashFlood52. 
+Unity Game Auction Item 268
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Feb 2012 08:58:11 +0000</listdate>
+    <saledate>Wed, 10 Oct 2012 15:37:13 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>German language independent edition _T_E_M_P_T_A_G_#039;Kuhhandel_T_E_M_P_T_A_G_#039;, complete and in very good shape.
+$10 shipping to US, see shipping rates below for further information.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Mar 2012 10:40:37 +0000</listdate>
+    <saledate>Sat, 28 Jul 2012 13:33:19 +0000</saledate>
+    <price currency='EUR'>6</price>
+    <condition>verygood</condition>
+    <notes>Old german edition (1985) like picture _T_E_M_P_T_A_G_quot;http://www.boardgamegeek.com/image/191051/youre-bluffing_T_E_M_P_T_A_G_quot;,but without the SDJ-nomine sign!
+ 
+Seems to be Rare.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 May 2012 01:58:34 +0000</listdate>
+    <saledate>Thu, 24 May 2012 02:02:59 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>ONLY for sale to my Great Games #4 auction winner _T_E_M_P_T_A_G_quot;Tamburlain_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 May 2012 13:31:34 +0000</listdate>
+    <saledate>Wed, 30 May 2012 01:16:38 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>Shipping weight approximately 1 pound, 10 ounces.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jun 2012 20:06:35 +0000</listdate>
+    <saledate>Sun, 17 Jun 2012 03:28:27 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Edition pictured.
+Outstanding game of bluffing with all the animals in the barn. 
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 off THIS game AND $2 off the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+6 Nimmt! - Category 5
+A la Carte
+Alhambra - Anniversary Edition
+Altamira
+Assyria
+Atlantis
+Auf Achse
+Big Five
+Biblios
+Busen Memo
+Cavum
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Elasund
+Endeavor / Magister Navis
+Era of Inventions
+Fluch der Mumie / Pyramid
+Grand Cru
+Graenaland
+Heckmeck am Bratwurmeck / Pickomino
+Hornet
+Jäger und Sammler
+Kamisado
+Keltis - Kartenspiel
+Keltis - Travel Edition
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kings of Mithril
+KuhHandel / You_T_E_M_P_T_A_G_#039;re Bluffing!
+Land Unter / Turn the Tide
+Level X
+Looping Louie
+Lost Valley
+Magnum Sal
+Mundus Novus
+Nürnberg / Norenberc - Die Zünfte der Stadt
+Onirim
+Opera
+Principato
+Rapa Nui
+Relationship Tightrope
+Saboteur
+San Francisco
+Safranito
+Santa Cruz
+Shipyard / Die Werft
+Stone Age
+Sun, Sea _T_E_M_P_T_A_G_amp; Sand
+Sushizock im Gockelwok
+Terra Turrium
+The Great Fire of London
+Tinner_T_E_M_P_T_A_G_#039;s Trail
+Uluru
+Village
+Vinhos
+Yspahan</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jul 2012 00:28:03 +0000</listdate>
+    <saledate>Wed, 11 Jul 2012 17:12:03 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Edition pictured.
+Outstanding game of bluffing with all the animals in the barn.
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 off THIS game AND $2 off the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+20th Century
+6 Nimmt! - Category 5
+A la Carte
+Alcatraz
+Alhambra - Anniversary Edition
+Altamira
+Assyria
+Atlantis
+Auf Achse
+Basilica
+Big Five
+Biblios
+Busen Memo
+Cavum
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+Elasund
+Endeavor / Magister Navis
+Era of Inventions
+Fluch der Mumie / Pyramid
+Fresko
+Grand Cru
+Graenaland
+Greed, Incorporated
+Hab _T_E_M_P_T_A_G_amp; Gut
+Hamburgum
+Heckmeck am Bratwurmeck / Pickomino
+Hornet
+Jäger und Sammler
+Kamisado
+Keltis - Kartenspiel
+Keltis - Travel Edition
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kings of Mithril
+KuhHandel / You_T_E_M_P_T_A_G_#039;re Bluffing!
+Land Unter / Turn the Tide
+League of Six
+Le Havre
+Level X
+Looping Louie
+Lost Valley
+Magnum Sal
+Meuterer
+Mundus Novus
+Nürnberg / Norenberc - Die Zünfte der Stadt
+Onirim
+Opera
+Pret-a-Porter
+Principato
+Rapa Nui
+Relationship Tightrope
+Saboteur
+San Francisco
+Safranito
+Santa Cruz
+Shipyard / Die Werft
+Steel Driver
+Stone Age
+Strasbourg
+Sun, Sea _T_E_M_P_T_A_G_amp; Sand
+Sushizock im Gockelwok
+Terra Turrium
+The Great Fire of London
+Tinner_T_E_M_P_T_A_G_#039;s Trail
+Tobago
+Trajan
+Uluru
+Village
+Vinhos
+Yspahan
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jul 2012 17:16:23 +0000</listdate>
+    <saledate>Fri, 27 Jul 2012 15:25:16 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Edition pictured.
+Outstanding game of bluffing with all the animals in the barn.
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1830: Railways _T_E_M_P_T_A_G_amp; Robber Barons
+20th Century
+6 Nimmt! - Category 5
+-----  A  -----
+A Castle for All Seasons
+A la Carte
+Alcatraz
+Assyria
+Atlantis
+-----  B  -----
+Basilica
+Big Five
+Biblios
+Busen Memo
+-----  C  -----
+Cafe International: Das Kartenspiel
+Caravelas + Black Ship Expansion
+-----  D  -----
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+Drum Roll
+-----  E  -----
+Eine Frage der Ähre / Heartland
+Endeavor / Magister Navis
+Era of Inventions
+-----  F  -----
+Fluch der Mumie / Pyramid
+Fresko
+-----  G  -----
+Genoa
+Giants
+Giro Galoppo
+-----  H  -----
+Hab _T_E_M_P_T_A_G_amp; Gut
+Hamburgum
+Heckmeck am Bratwurmeck / Pickomino
+Hornet
+-----  J  -----
+Jäger und Sammler
+-----  K  -----
+Keltis - The Board Game
+Keltis - Kartenspiel
+Keltis - Travel Edition
+Key West
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kolejka
+KuhHandel / You_T_E_M_P_T_A_G_#039;re Bluffing!
+Kutschfahrt zu Teufelsburg / The Castle of the Devil
+-----  L  -----
+Land Unter / Turn the Tide
+League of Six
+Le Havre
+Level X
+Looping Louie
+-----  M  -----
+Magnum Sal
+Mali Powstancy + Liberator Expansion
+Maus Au Chocolat
+Meuterer
+Mundus Novus
+-----  N  -----
+Nürnberg / Norenberc - Die Zünfte der Stadt
+-----  O  -----
+Onirim
+-----  P  -----
+Power Grid: Québec/Baden-Württemberg
+Pret-a-Porter
+-----  R  -----
+Rapa Nui
+R-Eco
+-----  S  -----
+Saboteur
+Shipyard / Die Werft
+Steel Driver
+Stone Age
+Strasbourg
+Sun, Sea _T_E_M_P_T_A_G_amp; Sand
+Sushizock im Gockelwok
+-----  T  -----
+The Great Fire of London 1666
+Tobago
+Trajan
+-----  U  -----
+Union Pacific
+-----  V  -----
+Venedig
+Village
+-----  Y  -----
+Yspahan</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jul 2012 16:43:10 +0000</listdate>
+    <saledate>Sun, 29 Jul 2012 23:01:15 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Edition pictured.
+Outstanding game of bluffing with all the animals in the barn.
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1830: Railways _T_E_M_P_T_A_G_amp; Robber Barons
+20th Century
+6 Nimmt! - Category 5
+----- A -----
+A Castle for All Seasons
+A la Carte
+Alcatraz
+Assyria
+Atlantis
+----- B -----
+Basilica
+Big Five
+Biblios
+Busen Memo
+----- C -----
+Cafe International: Das Kartenspiel
+Caravelas + Black Ship Expansion
+----- D -----
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+Drum Roll
+----- E -----
+Eine Frage der Ähre / Heartland
+Endeavor / Magister Navis
+Era of Inventions
+----- F -----
+Fluch der Mumie / Pyramid
+Fresko
+----- G -----
+Genoa
+Giants
+Giro Galoppo
+----- H -----
+Hab _T_E_M_P_T_A_G_amp; Gut
+Hamburgum
+Heckmeck am Bratwurmeck / Pickomino
+Hornet
+----- J -----
+Jäger und Sammler
+----- K -----
+Keltis - The Board Game
+Keltis - Kartenspiel
+Keltis - Travel Edition
+Key West
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kolejka
+KuhHandel / You_T_E_M_P_T_A_G_#039;re Bluffing!
+Kutschfahrt zu Teufelsburg / The Castle of the Devil
+----- L -----
+Land Unter / Turn the Tide
+League of Six
+Le Havre
+Level X
+Looping Louie
+----- M -----
+Magnum Sal
+Mali Powstancy + Liberator Expansion
+Maus Au Chocolat
+Meuterer
+Mundus Novus
+----- N -----
+Nürnberg / Norenberc - Die Zünfte der Stadt
+----- O -----
+Onirim
+----- P -----
+Power Grid: Québec/Baden-Württemberg
+Pret-a-Porter
+----- R -----
+Rapa Nui
+R-Eco
+----- S -----
+Saboteur
+Shipyard / Die Werft
+Steel Driver
+Stone Age
+Strasbourg
+Sun, Sea _T_E_M_P_T_A_G_amp; Sand
+Sushizock im Gockelwok
+----- T -----
+The Great Fire of London 1666
+Tobago
+Trajan
+----- U -----
+Union Pacific
+----- V -----
+Venedig
+Village
+----- Y -----
+Yspahan
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jul 2012 23:02:40 +0000</listdate>
+    <saledate>Wed, 19 Sep 2012 20:11:37 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Edition pictured.
+Outstanding game of bluffing with all the animals in the barn.
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1830: Railways _T_E_M_P_T_A_G_amp; Robber Barons
+20th Century
+6 Nimmt! - Category 5
+----- A -----
+A Castle for All Seasons
+Alcatraz
+Assyria
+Atlantis
+----- B -----
+Basilica
+Big Five
+Biblios
+Busen Memo
+----- C -----
+Cafe International: Das Kartenspiel
+Caravelas + Black Ship Expansion
+----- D -----
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+Drum Roll
+----- E -----
+Eine Frage der Ähre / Heartland
+Endeavor / Magister Navis
+Era of Inventions
+----- F -----
+Fresko
+----- G -----
+Genoa
+Geschenkt / No Thanks!
+Giants
+Giro Galoppo
+----- H -----
+Hamburgum
+Heckmeck am Bratwurmeck / Pickomino
+Hornet
+----- J -----
+Jäger und Sammler
+----- K -----
+Keltis - The Board Game
+Keltis - Kartenspiel
+Keltis - Travel Edition
+Key West
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kolejka
+KuhHandel / You_T_E_M_P_T_A_G_#039;re Bluffing!
+Kutschfahrt zu Teufelsburg / The Castle of the Devil
+----- L -----
+Land Unter / Turn the Tide
+League of Six
+Le Havre
+Level X
+----- M -----
+Magnum Sal
+Mali Powstancy + Liberator Expansion
+Maus Au Chocolat
+Meuterer
+Mondo
+----- N -----
+Norenberc + Townsmen Expansion
+----- O -----
+Onirim
+----- P -----
+Power Grid: Québec/Baden-Württemberg
+Pret-a-Porter
+----- R -----
+Rapa Nui
+R-Eco
+----- S -----
+Saboteur
+Shipyard / Die Werft
+Star Trek Catan
+Steel Driver
+Stone Age
+Strasbourg
+Sun, Sea _T_E_M_P_T_A_G_amp; Sand
+Sushizock im Gockelwok
+----- T -----
+The Great Fire of London 1666
+Tobago
+Trajan
+----- U -----
+Union Pacific
+----- V -----
+Venedig
+Village
+----- Y -----
+Yspahan</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Aug 2012 17:11:24 +0000</listdate>
+    <saledate>Wed, 15 Aug 2012 23:28:03 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>Ravensburger Kuhhandel printing.
+Received in a trade.  Complete, and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Sep 2012 19:36:52 +0000</listdate>
+    <saledate>Mon, 22 Oct 2012 00:31:08 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played about five times. Some box wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Oct 2012 14:47:26 +0000</listdate>
+    <saledate>Sun, 25 Nov 2012 00:05:31 +0000</saledate>
+    <price currency='EUR'>4.5</price>
+    <condition>good</condition>
+    <notes>German 2nd edition (_T_E_M_P_T_A_G_quot;Kuhhandel_T_E_M_P_T_A_G_quot;) from 1985.
+Contents complete _T_E_M_P_T_A_G_amp; in very good condition. Box bottom slightly dented.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Nov 2012 19:51:50 +0000</listdate>
+    <saledate>Sun, 03 Mar 2013 10:46:08 +0000</saledate>
+    <price currency='EUR'>11</price>
+    <condition>new</condition>
+    <notes>NL/FR</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Nov 2012 02:00:44 +0000</listdate>
+    <saledate>Tue, 13 Nov 2012 23:48:33 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>German version named _T_E_M_P_T_A_G_quot;Kuhhandel_T_E_M_P_T_A_G_quot; with printed English instructions
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Nov 2012 18:51:25 +0000</listdate>
+    <saledate>Wed, 28 Nov 2012 00:21:42 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>English Ravensburger version. Price includes shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Nov 2012 17:00:11 +0000</listdate>
+    <saledate>Fri, 07 Dec 2012 00:46:43 +0000</saledate>
+    <price currency='EUR'>4</price>
+    <condition>verygood</condition>
+    <notes>German edition (_T_E_M_P_T_A_G_quot;Kuhhandel_T_E_M_P_T_A_G_quot;) by Ravensburger from 2001.
+Contents complete _T_E_M_P_T_A_G_amp; in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Nov 2012 22:54:45 +0000</listdate>
+    <saledate>Sat, 01 Dec 2012 16:16:08 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Ravensburger English edition. Complete. Played a few times.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Dec 2012 17:58:11 +0000</listdate>
+    <saledate>Mon, 03 Dec 2012 18:59:27 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>German edition. Still in shrink. Price includes shipping!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Jan 2013 17:41:40 +0000</listdate>
+    <saledate>Thu, 24 Jan 2013 13:30:22 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Edition pictured.
+Outstanding game of bluffing with all the animals in the barn.
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1969     _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+1984: Animal Farm     _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+20th Century
+303
+----- A -----
+A Castle for All Seasons
+Amber   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Autokrator - Mini expansion    _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- B -----
+Basilica
+Big Five
+----- C -----
+Cafe International: Das Kartenspiel
+Caravelas + Black Ship Expansion
+Chinatown
+City Tycoon
+----- D -----
+Dahschur - Die Rote Pyramide     _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+----- E -----
+Era of Inventions
+Expadition: Congo River 1884   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- F -----
+Fürstenfeld
+----- G -----
+Geschenkt / No Thanks!
+Goblins, Inc.   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- H -----
+Hamburgum
+----- I -----
+Il Vecchio      _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- K -----
+Keltis - Kartenspiel
+Key West
+Kutschfahrt zu Teufelsburg / The Castle of the Devil
+----- L -----
+Land Unter / Turn the Tide
+League of Six
+Liberte
+----- M -----
+Magnum Sal
+Mali Powstancy + Liberator Expansion
+Manhattan
+Mercurius   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Meuterer
+Milestones   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Mondo
+Mystery of the Abbey
+----- O -----
+Oddville     _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Onirim
+----- P -----
+Pastiche
+Phantom   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Power Grid: Industrial Espionage
+----- R -----
+R-Eco
+----- S -----
+Saboteur
+Slavika  _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Snowdonia   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Steel Driver
+Stone Age
+Strasbourg
+Sushizock im Gockelwok
+----- T -----
+Terra Evolution
+The Great Fire of London 1666
+The Great Zimbabwe      _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+The Palaces of Carrara      _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- V -----
+Vampire Empire   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Venedig
+----- Y -----
+Yedo       _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Jan 2013 22:04:17 +0000</listdate>
+    <saledate>Wed, 06 Mar 2013 20:25:22 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>good</condition>
+    <notes>This game has been played a lot and it shows. Still a perfectly fine copy for fun nights of loud auctioning! (replaced for me by the Master Edition, so it hasn_T_E_M_P_T_A_G_#039;t hit the table in probably 2-3 years.
+German edition. Language independent. Printed English rules included.
+$7 to ship anywhere in the US.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Mar 2013 23:33:05 +0000</listdate>
+    <saledate>Thu, 28 Mar 2013 16:46:38 +0000</saledate>
+    <price currency='USD'>14.99</price>
+    <condition>good</condition>
+    <notes>Box is the folding box, a price sticker was removed so it_T_E_M_P_T_A_G_#039;s not in great condition but the is in excellent condition.  Will ship first class mail in the US.  Will combine shipping, local pick up available in LA/OC.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Jun 2013 20:56:01 +0000</listdate>
+    <saledate>Wed, 05 Jun 2013 21:07:50 +0000</saledate>
+    <price currency='GBP'>9.99</price>
+    <condition>verygood</condition>
+    <notes>Dutch version _T_E_M_P_T_A_G_#039;Koehandel_T_E_M_P_T_A_G_#039;.  Complete _T_E_M_P_T_A_G_amp; Very Good Condition with Dutch rulebook.  The box is in a sturdy condition with a minor amount of shelfwear.
+Reasonable offers will be considered.  I can combine shipping costs with multiple items purchased.
+Shiping costs are: £3.99 (UK), £7.99 (Europe), £15.99 (USA/Canada/ROW)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Jun 2013 01:27:06 +0000</listdate>
+    <saledate>Fri, 05 Jul 2013 15:46:02 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>likenew</condition>
+    <notes>Game in excellent condition, only played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Aug 2013 22:56:37 +0000</listdate>
+    <saledate>Sat, 24 Aug 2013 23:36:00 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>good</condition>
+    <notes>Pictures: [ImageID=1755256] [ImageID=1755254] [ImageID=1755255]
+Posted for satorisnow.  $2.50 shipping to an address in the USA in a padded envelope.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Oct 2013 01:15:45 +0000</listdate>
+    <saledate>Tue, 01 Oct 2013 01:52:32 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>item reserved for user satorisnow
+bgg auction item</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Dec 2013 00:25:34 +0000</listdate>
+    <saledate>Mon, 16 Dec 2013 00:31:16 +0000</saledate>
+    <price currency='GBP'>4</price>
+    <condition>good</condition>
+    <notes>Reserved for user Ravenhoe.
+European auction geeklist Dec 2013</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jan 2014 19:03:49 +0000</listdate>
+    <saledate>Sun, 16 Feb 2014 22:48:10 +0000</saledate>
+    <price currency='EUR'>7.95</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Jan 2014 15:46:43 +0000</listdate>
+    <saledate>Fri, 24 Jan 2014 14:18:33 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Yahooseriously1 from auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Jul 2014 13:32:11 +0000</listdate>
+    <saledate>Wed, 26 Nov 2014 23:12:04 +0000</saledate>
+    <price currency='EUR'>9.75</price>
+    <condition>verygood</condition>
+    <notes>Original German Ravensburger 1985 edition with card tray. Components are language independent.
+Box shows little wear. Inside everything there in great condition. Game has hardly been played - if at all.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jun 2014 19:43:57 +0000</listdate>
+    <saledate>Fri, 05 Dec 2014 18:02:43 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>new</condition>
+    <notes>German Edition 2005 Ravensburger Spiele-Verlag. Shrinkwrapped.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jan 2015 17:14:37 +0000</listdate>
+    <saledate>Mon, 12 Jan 2015 19:34:08 +0000</saledate>
+    <price currency='EUR'>6</price>
+    <condition>likenew</condition>
+    <notes>Der Preis ist Verhandlungsbasis, bitte macht mir einfach ein Angebot. Ich akzeptiere Paypal und Banküberweisung. Versand erfolgt versichert mit DHL und Versandkosten fallen dementsprechend nach Gewicht und Größe an. Falls Du weitere Informationen oder Bilder benötigst schreibe mir bitte eine Nachricht.
+You can send me the money via bank transfer or PayPal. The price is negotiable, please just make me an offer. Ship using DHL and shipping costs are accordingly to the weight and size. If you need more information or pictures please send me a message.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Aug 2014 13:21:13 +0000</listdate>
+    <saledate>Fri, 01 May 2015 08:37:07 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>likenew</condition>
+    <notes>This is the German edition.
+Shipping to the UK only will be at cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jun 2014 08:00:31 +0000</listdate>
+    <saledate>Thu, 16 Jul 2015 07:11:01 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>opened and played once
+English edition
+no text in game</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Oct 2015 05:15:39 +0000</listdate>
+    <saledate>Sun, 11 Oct 2015 12:15:48 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197474/item/4188289#4188289]Item for Geeklist _T_E_M_P_T_A_G_quot;[US ~CLOSED] - 50+ Games Auction: New, Used, OOP, Odd, Kids, Cards, Misc Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+RESERVED FOR Matt Little (IamMattLittle)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Sep 2015 02:05:42 +0000</listdate>
+    <saledate>Fri, 23 Oct 2015 02:18:05 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Played a few times, box is beat up, but cards are in very good condition. Ravensburger English edition 2002
+Click images for larger versions...
+[ImageID=2637820 inline] [ImageID=2637821 inline]
+Package Info and Shipping: 
+Small Flat Rate $6</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Dec 2015 21:37:30 +0000</listdate>
+    <saledate>Tue, 08 Dec 2015 22:52:01 +0000</saledate>
+    <price currency='EUR'>6.9</price>
+    <condition>verygood</condition>
+    <notes>Played once or twice, box with a little shelf wear.
+230 g</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Mar 2016 13:38:54 +0000</listdate>
+    <saledate>Sat, 19 Mar 2016 14:51:15 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Ships with English rules included separately.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Mar 2015 03:27:48 +0000</listdate>
+    <saledate>Wed, 23 Mar 2016 08:04:51 +0000</saledate>
+    <price currency='EUR'>7.5</price>
+    <condition>good</condition>
+    <notes>shipping rates:
+Germany = 2.50 Euro
+worldwide = 5.50 Euro
+game weight: 200 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Mar 2016 14:38:53 +0000</listdate>
+    <saledate>Fri, 22 Apr 2016 17:08:04 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>new</condition>
+    <notes>in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 May 2015 15:19:49 +0000</listdate>
+    <saledate>Sat, 23 Apr 2016 01:42:40 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 May 2016 22:04:04 +0000</listdate>
+    <saledate>Mon, 16 May 2016 02:26:52 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>New in shrink, German edition _T_E_M_P_T_A_G_quot;Kuhhandel_T_E_M_P_T_A_G_quot;
+Please let me know if you have any questions. Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jul 2016 16:29:48 +0000</listdate>
+    <saledate>Mon, 05 Sep 2016 16:00:36 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>likenew</condition>
+    <notes>Kuhhandel - German 1988 version. Contents still in shrink. Box lid scuffed to edges, a little aged (it is nearly 30 years old!). Printout of English rules included.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jul 2016 19:40:27 +0000</listdate>
+    <saledate>Fri, 30 Sep 2016 21:28:08 +0000</saledate>
+    <price currency='EUR'>7.25</price>
+    <condition>good</condition>
+    <notes>Big Box Ravensburger German edition. Cards are language independent.
+Box shows little wear. Inside everything there in good condition. Game has been played a couple of times.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Oct 2016 14:05:34 +0000</listdate>
+    <saledate>Wed, 12 Oct 2016 20:18:01 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/211311/item/4931966#4931966]Item for Geeklist _T_E_M_P_T_A_G_quot;Mega Auction #12 With FREE ITEMS for BIN_T_E_M_P_T_A_G_#039;s!!! Ends Sunday July 24th_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Dec 2016 00:20:57 +0000</listdate>
+    <saledate>Wed, 07 Dec 2016 19:41:53 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>German version. Game is language independent. $5 flat rate shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jan 2017 08:29:44 +0000</listdate>
+    <saledate>Fri, 03 Feb 2017 02:48:40 +0000</saledate>
+    <price currency='EUR'>9.95</price>
+    <condition>new</condition>
+    <notes>Language: german
+Edition Year: 2016
+Publisher: Ravensburger
+Game Condition: Mint
+Box Condition: Mint
+Availability : Now Available</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2017 15:10:27 +0000</listdate>
+    <saledate>Tue, 07 Feb 2017 01:46:11 +0000</saledate>
+    <price currency='EUR'>11.43</price>
+    <condition>new</condition>
+    <notes>Game: Kuhhandel
+Languages: DE
+Condition: New
+Weight range: 0 - 500g 
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 20,99€[Standard]
+o 500-999g: 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 26,99€[Express], 27,99€[Standard]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 24,99€[Standard]
+o 500-999g: 16,99€[Express], 27,99€[Standard]
+o 1000-1499g: 21,99€[Express], 31,99€[Standard]
+o 1500-2000g: 26,99€[Express], 34,99€[Standard]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard], 23,99€[Express]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Express], 15,99€[Standard]
+o 500-999g: 6,99€[Economy], 13,99€[Express], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express], 20,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express], 22,99€[Standard]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 13,99€[Express], 19,99€[Standard]
+o 500-999g: 8,99€[Economy], 17,99€[Express], 22,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 22,99€[Express], 25,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 27,99€[Express], 28,99€[Standard]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 13,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 17,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 26,99€[Express]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Express], 14,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 15,99€[Standard], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express], 22,99€[Standard]
+o 500-999g: 6,99€[Economy], 20,99€[Express], 25,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 25,99€[Express], 28,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 30,99€[Express], 32,99€[Standard]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 13,99€[Express], 20,99€[Standard]
+o 500-999g: 8,99€[Economy], 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 26,99€[Express], 27,99€[Standard]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 9,99€[Standard], 11,99€[Express]
+o 500-999g: 9,99€[Standard], 11,99€[Express]
+o 1000-1499g: 12,99€[Express], 15,99€[Standard]
+o 1500-2000g: 14,99€[Express], 16,99€[Standard]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 24,99€[Standard]
+o 500-999g: 16,99€[Express], 27,99€[Standard]
+o 1000-1499g: 21,99€[Express], 31,99€[Standard]
+o 1500-2000g: 26,99€[Express], 34,99€[Standard]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard], 23,99€[Express]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 6,99€[Economy]
+o 500-999g: 4,99€[Corriere], 8,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 10,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 11,99€[Express]
+o 1000-1499g: 10,99€[Economy], 12,99€[Express], 15,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 14,99€[Express], 16,99€[Standard]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Express], 14,99€[Standard]
+o 500-999g: 8,99€[Economy], 14,99€[Express], 16,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 18,99€[Express], 19,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 21,99€[Standard], 21,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 20,99€[Standard]
+o 500-999g: 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 26,99€[Express], 27,99€[Standard]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 13,99€[Express], 20,99€[Standard]
+o 500-999g: 8,99€[Economy], 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 26,99€[Express], 27,99€[Standard]
+[#]aLjugOsBH1MN2GMVklX7yvWZBCMSJmfFQ4c0ggitN3s=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Feb 2017 15:50:26 +0000</listdate>
+    <saledate>Sat, 11 Feb 2017 03:50:58 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>verygood</condition>
+    <notes>Game is is great shape. Minimal shelf wear, includes English rules print-out.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Aug 2016 19:38:34 +0000</listdate>
+    <saledate>Mon, 20 Feb 2017 23:11:29 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>verygood</condition>
+    <notes>Will accept bank transfer or PayPal if you send _T_E_M_P_T_A_G_quot;for friends and family_T_E_M_P_T_A_G_quot; or if you pay +3% for fees.
+Shipping:
+To Germany: max. 4,99 € (will ship via Deutsche Post or Hermes, please specify)
+Rest: See below
+If you purchase more than one game I will try to figure out the best price for shipping, please ask in advance!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Feb 2017 21:01:55 +0000</listdate>
+    <saledate>Sat, 25 Mar 2017 17:43:06 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>likenew</condition>
+    <notes>Please send a message if you are interested and ask for shipping costs to your location. Payment can be done by bank transfer or Pay pal. If you have any other question, please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Sep 2016 11:53:58 +0000</listdate>
+    <saledate>Fri, 12 May 2017 07:00:06 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>likenew</condition>
+    <notes>Payment by banktransfert</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 May 2017 19:27:50 +0000</listdate>
+    <saledate>Sun, 28 May 2017 03:17:24 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/225182/item/5413716#5413716]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction Time! (Ends June 2nd) (US Only) (Located in Irvine, CA)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Mar 2015 11:43:11 +0000</listdate>
+    <saledate>Fri, 08 Sep 2017 08:42:50 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Aug 2017 23:20:06 +0000</listdate>
+    <saledate>Wed, 04 Oct 2017 18:44:32 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Not played</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 May 2017 20:52:59 +0000</listdate>
+    <saledate>Wed, 25 Oct 2017 09:25:32 +0000</saledate>
+    <price currency='EUR'>7.64</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Oct 2017 12:01:26 +0000</listdate>
+    <saledate>Sun, 05 Nov 2017 10:44:15 +0000</saledate>
+    <price currency='GBP'>3</price>
+    <condition>verygood</condition>
+    <notes>Kuhhandel - German 1988 version. Contents still in shrink. Box lid scuffed to edges. Printout of English rules included.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Nov 2017 16:22:03 +0000</listdate>
+    <saledate>Wed, 15 Nov 2017 16:24:46 +0000</saledate>
+    <price currency='EUR'>9.95</price>
+    <condition>new</condition>
+    <notes>Language: german
+Edition Year: 2016
+Publisher: Ravensburger
+Game Condition: Mint
+Box Condition: Mint
+Availability: Now Available
+ID Gis: 26039 (for reference)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Dec 2017 14:30:53 +0000</listdate>
+    <saledate>Sun, 07 Jan 2018 02:20:39 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played twice.  Box has a small tear in it which is difficult to see.  Cards are pristine.
+Shipping is likely ~ $7.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Nov 2017 20:55:50 +0000</listdate>
+    <saledate>Thu, 11 Jan 2018 14:11:50 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>good</condition>
+    <notes>Please take a look at the version of the game as most of my games are in German!
+Worldwide shipping possible:
+3,00 Euro shipping costs within Germany, 
+4,00 Euro shipping costs for the rest of the world.
+If you prefer tracked shipping, please ask for additional costs.
+Combined shipping is possible.
+Payment through PayPal or European Bank Transfer - any fees are on the buyer. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Feb 2018 06:49:33 +0000</listdate>
+    <saledate>Tue, 06 Mar 2018 06:33:45 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>English edition from Ravensburger.  Box shows some wear, but cards are in excellent condition.  Played once or twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Dec 2017 15:54:10 +0000</listdate>
+    <saledate>Thu, 15 Mar 2018 06:10:44 +0000</saledate>
+    <price currency='EUR'>7.49</price>
+    <condition>likenew</condition>
+    <notes>German rules (no necessary in-game text)
+Like new to very good, little shelf wear, only played once - from a smoke free home
+Shipping inside Germany starting at 3.99 Euro - please ask for international quotations (cheap envelope shipping is possible)
+Paypal is accepted if buyer pays fees</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Apr 2018 14:59:04 +0000</listdate>
+    <saledate>Sun, 29 Apr 2018 02:48:06 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>verygood</condition>
+    <notes>This is the Dutch/French Ravensburger edition, but has a photocopy of the English rules included in the box.
+From a smoke free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jun 2018 16:18:46 +0000</listdate>
+    <saledate>Wed, 06 Jun 2018 01:57:14 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>Auction item for: SuperGLS
+PLEASE WAIT UNTIL ALL ITEMS ARE IN THE MARKETPLACE BEFORE ADDING TO YOUR CART AND SUBMITTING YOUR ORDER. - NOTE: If you are getting at 5% discount I will account for it on your final order.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/240879/item/6166910#6166910]Item for Geeklist _T_E_M_P_T_A_G_quot;** ENDED 8:01pm PST ** SUMMER FUN AUCTION - ENDS JUNE 4TH [INTL SHIP] - 100+ items: STAR WARS EPIC DUELS,Rallyman,VIKINGS,Roads _T_E_M_P_T_A_G_amp; Boats +exp,THURN _T_E_M_P_T_A_G_amp; TAXIS +exp,Aladdin_T_E_M_P_T_A_G_#039;s Dragons,JAVA,Bora Bora,BLACK FLEET (painted),Abstract Games,MORE!!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 May 2018 10:45:15 +0000</listdate>
+    <saledate>Sun, 15 Jul 2018 04:02:03 +0000</saledate>
+    <price currency='EUR'>8.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Nov 2018 20:31:39 +0000</listdate>
+    <saledate>Sun, 25 Nov 2018 21:18:08 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Nov 2018 17:58:38 +0000</listdate>
+    <saledate>Tue, 11 Dec 2018 08:37:32 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Aug 2018 22:29:59 +0000</listdate>
+    <saledate>Tue, 29 Jan 2019 08:26:34 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>likenew</condition>
+    <notes>Cards still in shrinkwrap. Contains photocopy of English rules.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

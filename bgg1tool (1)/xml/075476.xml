@@ -1,0 +1,923 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="75476">
+   <yearpublished>2010</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>120</playingtime>
+   <minplaytime>120</minplaytime>
+   <maxplaytime>120</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Inca Empire</name>
+         
+   <description>In Inca Empire, each player is an _T_E_M_P_T_A_G_amp;quot;Apu,_T_E_M_P_T_A_G_amp;quot; or leader of one of the four regions (_T_E_M_P_T_A_G_amp;quot;suyus_T_E_M_P_T_A_G_amp;quot;). Your job as an Apu is to increase your status in the eyes of the divine emperor (_T_E_M_P_T_A_G_amp;quot;Sapa Inca_T_E_M_P_T_A_G_amp;quot;) by doing the best job of expanding and improving the empire. Each Apu begins with the manpower of their region. They build roads and conquer neighboring regions, increasing the manpower and resources available to them. Apus are rewarded for each new region they add to the empire and for improvements such as terraces, garrisons, cities, and temples._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The player who has the most victory points (VP) at the moment Pizarro arrives at the Inca capital of Cuzco wins the game._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Note: Due to the highly interactive nature of the Sun card placement, Inca Empire cannot be played with only two players._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Inca Empire is a reimplementation of Tahuantinsuyu._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/YSazV6VeTu10AEBUF67ZB0OQ4Eg=/fit-in/200x150/pic802355.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/9D--gcoGHbYFuPHsu0P-yH-28rg=/0x0/pic802355.jpg</image>
+      
+            <boardgamehonor objectid="12828">2011 International Gamers Award - General Strategy; Multi-player Nominee</boardgamehonor>
+                      <boardgamecategory objectid="1015">Civilization</boardgamecategory>
+                                           <boardgameversion objectid="86051">English edition</boardgameversion>
+                             <boardgamedesigner objectid="293">Alan D. Ernstein</boardgamedesigner>
+               <boardgamecategory objectid="1020">Exploration</boardgamecategory>
+                                                                <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+                      <boardgameexpansion objectid="86116">Inca Empire: Bonus Sun Event Cards</boardgameexpansion>
+                      <boardgamepodcastepisode objectid="95978">Ludology Episode 50 - 50 for 50, Part 1</boardgamepodcastepisode>
+               <boardgameversion objectid="49093">Multilingual edition</boardgameversion>
+               <boardgamefamily objectid="43639">Native American</boardgamefamily>
+                                    <boardgamepodcastepisode objectid="19631">Podcast #030 - Monográfico: Ya ha llegado Essen 2010</boardgamepodcastepisode>
+                      <boardgameartist objectid="12282">Alexandre Roche</boardgameartist>
+               <boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+                             <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamepodcastepisode objectid="176171">The Game Pit: Episode 58  - Nations and More....</boardgamepodcastepisode>
+               <boardgamepublisher objectid="4932">White Goblin Games</boardgamepublisher>
+               <boardgamepublisher objectid="538">Z-Man Games, Inc.</boardgamepublisher>
+               <boardgameimplementation objectid="11096" inbound="true">Tahuantinsuyu</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="40">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="17" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="16" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="20" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="30" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="13" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="16">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="13" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="8" />
+     <result value="14" numvotes="2" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1368</usersrated>
+     <average>7.06664</average>
+     <bayesaverage>6.33412</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1225" bayesaverage="6.33412" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="635" bayesaverage="6.48535" />
+            
+           </ranks>
+     
+     <stddev>1.26199</stddev>
+     <median>0</median>
+     <owned>1740</owned>
+     <trading>81</trading>
+     <wanting>149</wanting>
+     <wishing>428</wishing>
+     <numcomments>441</numcomments>
+     <numweights>132</numweights>
+     <averageweight>3.1364</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 19 Oct 2010 09:18:14 +0000</listdate>
+    <saledate>Sun, 24 Oct 2010 23:45:32 +0000</saledate>
+    <price currency='EUR'>33</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Oct 2010 10:12:09 +0000</listdate>
+    <saledate>Tue, 17 May 2011 12:50:00 +0000</saledate>
+    <price currency='EUR'>33</price>
+    <condition>new</condition>
+    <notes>Multilingual edition White Goblin Games</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Oct 2010 12:15:12 +0000</listdate>
+    <saledate>Thu, 04 Nov 2010 03:14:47 +0000</saledate>
+    <price currency='USD'>32.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7058)
+In INCA EMPIRE the players are _T_E_M_P_T_A_G_quot;Apus_T_E_M_P_T_A_G_quot; (leader of one of the four regions/suyus). Your job as an Apu is to increase your status in the eyes of the divine emperor (_T_E_M_P_T_A_G_quot;Sapa Inca_T_E_M_P_T_A_G_quot;) by doing the best job of expanding and improving the empire. Each Apu begins with the manpower of their region of the original empire. They build roads and conquer neighboring regions, increasing the manpower and resources available to them. Apus are awarded for each new region they add to the empire and for improvements such as terraces, garrisons, cities and temples.
+The player who has the most victory points (VP) at the moment Pizarro arrives in the Inca capital at Cuzco wins the game.
+A reinvisioning of the game, _T_E_M_P_T_A_G_quot;Tahuantinsuyu_T_E_M_P_T_A_G_quot;.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Nov 2010 18:16:11 +0000</listdate>
+    <saledate>Mon, 29 Nov 2010 20:44:43 +0000</saledate>
+    <price currency='CAD'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Dec 2010 01:07:20 +0000</listdate>
+    <saledate>Tue, 22 Feb 2011 15:31:18 +0000</saledate>
+    <price currency='USD'>32.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7058)
+In INCA EMPIRE the players are _T_E_M_P_T_A_G_quot;Apus_T_E_M_P_T_A_G_quot; (leader of one of the four regions/suyus). Your job as an Apu is to increase your status in the eyes of the divine emperor (_T_E_M_P_T_A_G_quot;Sapa Inca_T_E_M_P_T_A_G_quot;) by doing the best job of expanding and improving the empire. Each Apu begins with the manpower of their region of the original empire. They build roads and conquer neighboring regions, increasing the manpower and resources available to them. Apus are awarded for each new region they add to the empire and for improvements such as terraces, garrisons, cities and temples.
+The player who has the most victory points (VP) at the moment Pizarro arrives in the Inca capital at Cuzco wins the game.
+A reinvisioning of the game, _T_E_M_P_T_A_G_quot;Tahuantinsuyu_T_E_M_P_T_A_G_quot;.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Dec 2010 18:50:10 +0000</listdate>
+    <saledate>Sun, 03 Apr 2011 19:03:45 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition, played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Dec 2010 11:33:40 +0000</listdate>
+    <saledate>Tue, 28 Dec 2010 18:21:14 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>likenew</condition>
+    <notes>Game is just removed from shrink, unpunched. Multi-lingual edition (English, German, Dutch, French). Includes the Essen 2010 sun cards.
+Shipping will be € 4 to Germany or € 8,60 to the rest of Europe.
+Payment either via PayPal or international bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Feb 2011 15:48:26 +0000</listdate>
+    <saledate>Sun, 03 Apr 2011 05:21:10 +0000</saledate>
+    <price currency='USD'>33.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7058)
+In INCA EMPIRE the players are _T_E_M_P_T_A_G_quot;Apus_T_E_M_P_T_A_G_quot; (leader of one of the four regions/suyus). Your job as an Apu is to increase your status in the eyes of the divine emperor (_T_E_M_P_T_A_G_quot;Sapa Inca_T_E_M_P_T_A_G_quot;) by doing the best job of expanding and improving the empire. Each Apu begins with the manpower of their region of the original empire. They build roads and conquer neighboring regions, increasing the manpower and resources available to them. Apus are awarded for each new region they add to the empire and for improvements such as terraces, garrisons, cities and temples.
+The player who has the most victory points (VP) at the moment Pizarro arrives in the Inca capital at Cuzco wins the game.
+A reinvisioning of the game, _T_E_M_P_T_A_G_quot;Tahuantinsuyu_T_E_M_P_T_A_G_quot;.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Apr 2011 16:07:25 +0000</listdate>
+    <saledate>Sat, 09 Apr 2011 16:27:18 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Only to be sold to username: patrel</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 May 2011 12:35:13 +0000</listdate>
+    <saledate>Tue, 12 Jul 2011 20:50:59 +0000</saledate>
+    <price currency='EUR'>32.95</price>
+    <condition>new</condition>
+    <notes>New in shrink-wrap. The box is lightly dented.
+English language version by Z-Man Games.
+Payment: Paypal or bank transfer
+Shipping:
+To Germany:
+- per letter 1 Euro for single cards (with insurance +1.60 Euro)
+- per envelope up to 1 kilogram 2,50 Euro (with insurance +1.60)
+- per parcel up to 20 kilograms 6 Euro (insurance included)
+International shipping with DHL
+- per letter 1.50 Euro for single cards (with insurance +1.60 Euro)
+- per envelope up to 1 kilogram 7 Euro (with insurance +1.60)
+- per parcel up to 5 kilograms EU 17 Euro (insurance included)
+- per parcel up to 5 kilograms North America 35 Euro (insurance included) other countries on request.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Jun 2011 00:10:50 +0000</listdate>
+    <saledate>Wed, 03 Aug 2011 22:50:05 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>Out of shrink but hasn_T_E_M_P_T_A_G_#039;t been played with.  Nothing has been punched.  Z-man edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jun 2011 02:51:59 +0000</listdate>
+    <saledate>Thu, 16 Jun 2011 03:29:45 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Auction win for User Kdean1 only</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jul 2011 21:10:35 +0000</listdate>
+    <saledate>Fri, 12 Aug 2011 17:45:35 +0000</saledate>
+    <price currency='GBP'>29</price>
+    <condition>new</condition>
+    <notes>The game is new, unpunched and unplayed. 
+It comes with the Essen 2010 exclusive expansion - The Sun Event cards. 
+Selling quite cheaply as we_T_E_M_P_T_A_G_#039;re just interested in freeing up some shelf space. 
+Shipping is 2nd Class - £4.50. Shipping is a little high due to the weight. 
+Shipping to Europe - £10.00.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Jul 2011 20:40:20 +0000</listdate>
+    <saledate>Thu, 08 Sep 2011 03:03:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Complete, very good condition. Shipping is $12. Combined shipping rates are available when purchasing multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Aug 2011 13:49:59 +0000</listdate>
+    <saledate>Fri, 05 Aug 2011 03:52:58 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Reserved for geeklist auction winner Mozart78.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Aug 2011 01:23:40 +0000</listdate>
+    <saledate>Mon, 26 Sep 2011 04:31:10 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played once. Everything is in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Sep 2011 23:49:11 +0000</listdate>
+    <saledate>Wed, 14 Sep 2011 02:36:58 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Z-Man Edition  Punched and sorted however, never played.  Excellent Condition.  I will combine shipping if other games purchased</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Oct 2011 04:48:43 +0000</listdate>
+    <saledate>Tue, 18 Oct 2011 05:03:18 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Kellypup</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Nov 2011 03:52:36 +0000</listdate>
+    <saledate>Sat, 26 Nov 2011 13:15:58 +0000</saledate>
+    <price currency='AUD'>45</price>
+    <condition>verygood</condition>
+    <notes>International edition with English rules. Played once.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Dec 2011 16:55:03 +0000</listdate>
+    <saledate>Tue, 06 Dec 2011 02:37:22 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>For purchase by user colleens only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Feb 2012 06:14:34 +0000</listdate>
+    <saledate>Mon, 02 Apr 2012 23:11:29 +0000</saledate>
+    <price currency='USD'>22.5</price>
+    <condition>verygood</condition>
+    <notes>Only played twice.  Everything in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Mar 2012 02:29:17 +0000</listdate>
+    <saledate>Mon, 21 May 2012 14:53:16 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Never played. Excellent condition.
+Will ship USPS flat rate med.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Mar 2012 11:32:09 +0000</listdate>
+    <saledate>Sun, 07 Apr 2013 03:03:08 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>We played this game only a few times.  All parts in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Apr 2012 05:26:57 +0000</listdate>
+    <saledate>Tue, 17 Apr 2012 03:50:32 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>Reserved for (Vanhel)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 May 2012 03:51:57 +0000</listdate>
+    <saledate>Thu, 03 May 2012 15:05:48 +0000</saledate>
+    <price currency='USD'>130</price>
+    <condition>likenew</condition>
+    <notes>for user gjfleischman; winner of auction; includes Inca Empire; Navegador; Paris Connection; Power Grid Factory Manager; Power Grid The First Sparks; Priests of Ra</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 May 2012 11:12:47 +0000</listdate>
+    <saledate>Sat, 12 May 2012 21:36:10 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Reserved for user jaywowzer </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 May 2012 16:25:52 +0000</listdate>
+    <saledate>Fri, 25 May 2012 17:48:30 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>For auction winner - BlueDane</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 May 2012 18:53:08 +0000</listdate>
+    <saledate>Tue, 29 May 2012 19:18:08 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>ONLY for sale to the winner of my Great Games auction #4 _T_E_M_P_T_A_G_quot;TheCatGuy_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Aug 2012 15:27:26 +0000</listdate>
+    <saledate>Tue, 14 Aug 2012 15:54:56 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Opened, intact, unplayed.
+for Shanthi Gonzales (jazgonz) via my auction</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Sep 2012 10:18:47 +0000</listdate>
+    <saledate>Sat, 03 Nov 2012 17:14:42 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>likenew</condition>
+    <notes>The game is in perfect conditions and it is including bonus Sun Cards.
+Like New.
+Shipping to Europe (contact me for shipping costs).
+Possibility of personal collection in London. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Dec 2012 14:54:30 +0000</listdate>
+    <saledate>Thu, 10 Jan 2013 17:10:09 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>likenew</condition>
+    <notes>English edition. Played twice, excellent condition.
+Will ship via USPS Priority or FedEx ground at actual cost from the 94024 zip code. FedEx ground is significantly cheaper if shipped to a business address. Game will ship the day of or the day after payment clears.
+Will combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Dec 2012 12:57:30 +0000</listdate>
+    <saledate>Tue, 26 Mar 2013 15:09:01 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Very Good. 
+Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Mar 2013 03:21:20 +0000</listdate>
+    <saledate>Thu, 07 Mar 2013 11:51:53 +0000</saledate>
+    <price currency='USD'>63</price>
+    <condition>likenew</condition>
+    <notes>Winnings from auction: http://boardgamegeek.com/geeklist/154152
+Includes:
+Inca Empire
+HomeStretch + Fearsome Floors
+Blokus + Rumis
+Note: This item is only available to user _T_E_M_P_T_A_G_quot;rhiochs_T_E_M_P_T_A_G_quot;.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Nov 2013 16:55:20 +0000</listdate>
+    <saledate>Tue, 12 Nov 2013 19:21:29 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Private Sale for punkin312 only</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Dec 2013 15:38:55 +0000</listdate>
+    <saledate>Sun, 23 Feb 2014 00:47:37 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Game punched and components bagged and cards sleeved, but unplayed.  Mint condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Mar 2014 04:08:03 +0000</listdate>
+    <saledate>Wed, 05 Mar 2014 05:09:36 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Still in shrink-wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Mar 2014 19:36:15 +0000</listdate>
+    <saledate>Tue, 25 Mar 2014 07:13:58 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played once. All cards sleeved.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 May 2014 12:38:44 +0000</listdate>
+    <saledate>Mon, 07 Jul 2014 21:02:43 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened, played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Jul 2014 12:21:36 +0000</listdate>
+    <saledate>Mon, 07 Jul 2014 12:47:41 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Reserved for kmatejka.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jul 2014 13:35:41 +0000</listdate>
+    <saledate>Tue, 29 Jul 2014 22:54:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played once.  Like New excellent copy from a smoke free home in California</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Jul 2014 19:19:56 +0000</listdate>
+    <saledate>Fri, 01 Aug 2014 15:47:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Never played, buyer will pay shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Jul 2014 12:19:05 +0000</listdate>
+    <saledate>Thu, 31 Jul 2014 13:20:45 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Auction item for lfboterow</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Aug 2014 20:45:30 +0000</listdate>
+    <saledate>Sun, 10 Aug 2014 21:02:38 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>White Goblin Games Multilingual edition. Out of shrink, but this copy was never played. Still unpunched and cards are in shrink. Also comes with the Bonus Sun Event cards in a baggie. Beautiful gameboard! Excellent condition.
+Reserved for auction winner ROSBORN
+This sale has been auto-generated for the auction: [geekurl=/geeklist/176988/item/3360778#3360778]Item for Geeklist _T_E_M_P_T_A_G_quot;xxbriguyxx_T_E_M_P_T_A_G_#039;s 23rd _T_E_M_P_T_A_G_quot;Time to cull my game collection_T_E_M_P_T_A_G_quot; Auction, and I need money for GenCon, and I would like a Xbox One, and world peace.. Insanely (or ballsy) low prices because I want to move product!!  **ENDS AUGUST 9TH.  ALL BIDS START AT $6, NO BINS!**_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Aug 2014 17:41:51 +0000</listdate>
+    <saledate>Wed, 10 Sep 2014 17:26:29 +0000</saledate>
+    <price currency='CAD'>45</price>
+    <condition>verygood</condition>
+    <notes>In excellent condition. Includes the Bonus Sun Event Cards, which are very hard to find, and laminated cheatsheets for the cards.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Aug 2014 08:14:07 +0000</listdate>
+    <saledate>Mon, 25 Aug 2014 12:26:46 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>likenew</condition>
+    <notes>includes the _T_E_M_P_T_A_G_quot;Sun Event Bonus-Cards_T_E_M_P_T_A_G_quot;!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Oct 2014 12:59:20 +0000</listdate>
+    <saledate>Thu, 23 Oct 2014 14:49:07 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>This is for auction winner clarkkent22 and includes Torres as well</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Aug 2013 10:02:59 +0000</listdate>
+    <saledate>Sun, 16 Nov 2014 11:27:01 +0000</saledate>
+    <price currency='GBP'>12.5</price>
+    <condition>likenew</condition>
+    <notes>I will send this game to the eventual buyer using a courier delivery service.
+ To most mainland UK destinations the p _T_E_M_P_T_A_G_amp; p cost will be £6.00. Some more remote areas will cost a little more.
+ At the time of writing this I also have Kairo listed for sale on BGG. If you want to purchase this as well I can combine p_T_E_M_P_T_A_G_amp;p cost for very little extra cost.
+ The p _T_E_M_P_T_A_G_amp; p charge to mainland Europe will be £12.50 for a single game.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Nov 2013 13:08:48 +0000</listdate>
+    <saledate>Thu, 02 Apr 2015 15:27:30 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>likenew</condition>
+    <notes>german with goblin</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Apr 2015 09:39:56 +0000</listdate>
+    <saledate>Mon, 06 Apr 2015 13:34:32 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Auction win for Hobbes.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Apr 2015 19:47:39 +0000</listdate>
+    <saledate>Tue, 14 Apr 2015 12:22:58 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>likenew</condition>
+    <notes>for auction winner izernechel; includes inca empire and takenodo</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 May 2015 01:39:26 +0000</listdate>
+    <saledate>Mon, 04 May 2015 01:40:49 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Jun 2015 04:15:29 +0000</listdate>
+    <saledate>Mon, 08 Jun 2015 04:52:15 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191837/item/3926781#3926781]Item for Geeklist _T_E_M_P_T_A_G_quot;Hobbes_T_E_M_P_T_A_G_#039; Thick _T_E_M_P_T_A_G_#039;n Chewy Auction — Painted Space Hulk 3d, After the Flood, Endeavor, 18MEX, Noremberc w/promo, Helvetia, Chinatown, Kashgar with Professionally Printed English Cards, etc. —  Ends June 7, 8:00 PM Pacific_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jul 2014 13:23:22 +0000</listdate>
+    <saledate>Sat, 29 Aug 2015 20:52:15 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>new</condition>
+    <notes>in shrink, including sun cards expansion
+Shipping Germany 6 Euro
+Shipping European Union 9 Euro
+Shipping World 15 Euro
+PayPal plus max. 4 Euro
+Money transfer via IBAN/BIC preferred for Euro countries
+--------------------------------------------------------------
+Private sale without warranty.
+Privater Verkauf unter Ausschluss jeder Gewährleistung.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jun 2015 14:40:01 +0000</listdate>
+    <saledate>Sat, 05 Sep 2015 11:35:06 +0000</saledate>
+    <price currency='USD'>32.95</price>
+    <condition>verygood</condition>
+    <notes>Includes Bonus Sun Event Cards</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Sep 2015 13:56:28 +0000</listdate>
+    <saledate>Mon, 14 Sep 2015 14:00:54 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Thank you Ralf!
+For Ralf Grasser (DoralFL) only.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/192008/item/3967468#3967468]Item for Geeklist _T_E_M_P_T_A_G_quot;[US] Auction - NAME HERE_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Sep 2015 01:18:42 +0000</listdate>
+    <saledate>Wed, 23 Sep 2015 01:20:54 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR [username=BlueDane]</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Oct 2015 13:07:05 +0000</listdate>
+    <saledate>Mon, 05 Oct 2015 23:00:28 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194495/item/4178271#4178271]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2015 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Apr 2015 00:44:54 +0000</listdate>
+    <saledate>Mon, 26 Oct 2015 13:20:30 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>Punched. Sorted. Bagged. Never played. 
+Reserved for Corrino22</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Aug 2014 08:38:10 +0000</listdate>
+    <saledate>Wed, 11 Nov 2015 15:42:04 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes>Alle zum Verkauf stehenden Spiele können auch auf der Essen Spiel 2015, an allen vier Tagen übergeben werden.
+Das Spiel ist ungespielt (nicht in Folie) und ist in einwandfreiem Zustand !
+Inkl. der vier Bonus- Sonnenkarten!
+Versand innerhalb Deutschland 4,50 Euro oder versichert 7,- Euro
+Oder natürlich Abholung Nähe Düsseldorf
+The game is new (unplayed but not shrink wrapped).
+Included are the four bonus sun event cards ! 
+shipping cost within Europe 9,-Euro
+worldwide: please ask for Details
+PayPal is possible. Please ask for details</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Mar 2016 05:40:20 +0000</listdate>
+    <saledate>Tue, 08 Mar 2016 08:29:32 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205792/item/4488446#4488446]Item for Geeklist _T_E_M_P_T_A_G_quot;MORE GOOD STUFF (Auction) ----  CLOSED  ----_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Feb 2016 01:00:30 +0000</listdate>
+    <saledate>Wed, 16 Mar 2016 11:54:15 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Played only a couple times great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Feb 2016 21:25:58 +0000</listdate>
+    <saledate>Fri, 15 Apr 2016 02:17:33 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>opened but never played, unpunched, cards still in shrink, box perfect
+Shipping: Priority/medium-box</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Feb 2016 01:09:26 +0000</listdate>
+    <saledate>Tue, 03 May 2016 14:45:44 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Includes Bonus Sun Event Cards.
+Bought new, opened and sorted. Never played. Complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 May 2016 18:17:42 +0000</listdate>
+    <saledate>Mon, 30 May 2016 20:18:40 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This is for JBmoby sold on origins flee market.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jun 2016 12:17:56 +0000</listdate>
+    <saledate>Sat, 04 Jun 2016 14:23:39 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208301/item/4657288#4657288]Item for Geeklist _T_E_M_P_T_A_G_quot;Origins Virtual Flea Market 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 May 2016 20:15:56 +0000</listdate>
+    <saledate>Sat, 23 Jul 2016 11:33:49 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>Play a couple of times.
+Including bonus sun event cards!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Oct 2016 21:12:25 +0000</listdate>
+    <saledate>Sun, 02 Oct 2016 22:07:04 +0000</saledate>
+    <price currency='EUR'>23</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/211885/item/4804099#4804099]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2016 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jul 2016 02:04:45 +0000</listdate>
+    <saledate>Tue, 20 Dec 2016 19:31:01 +0000</saledate>
+    <price currency='USD'>28.97</price>
+    <condition>likenew</condition>
+    <notes>Out of shrink, never played, cool dry non smoking household. Shipping is USPS flat rate, $16 to continental US.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Jun 2013 05:35:33 +0000</listdate>
+    <saledate>Sat, 24 Dec 2016 02:36:27 +0000</saledate>
+    <price currency='USD'>31.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+INCA EMPIRE.: $31.95
+Z-Man Games [ZMG 7058]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Mar 2016 21:22:20 +0000</listdate>
+    <saledate>Sat, 07 Jan 2017 18:27:55 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Never played, only foil removed.
+Comes with Inca Empire: Bonus Sun Event Cards</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jan 2017 15:52:42 +0000</listdate>
+    <saledate>Thu, 09 Feb 2017 19:26:51 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Contact me for shipping rates.
+APPROXIMATE Shipping Costs
+* I send via CanadaPost
+* Prices BELOW are in CAD
+* I will convert shipping costs to USD and add to your order (xe.com/ucc)
+* Example games around 1.45 kg are priced below
+CANADA
+* Regular Parcel STARTS at $15; Arrives in 7 business days
+* XpressPost STARTS at $30; Arrives in 2 business days
+INTERNATIONAL
+* Small Packet Air STARTS at $50; Arrives in 3 weeks
+* Tracked Packet STARTS at $70; Arrives in 7 business days</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Oct 2016 13:36:15 +0000</listdate>
+    <saledate>Wed, 15 Feb 2017 00:11:44 +0000</saledate>
+    <price currency='GBP'>17</price>
+    <condition>verygood</condition>
+    <notes>Played 3 timers, includes sun bonus tiles. £5 £5 postage to Uk, other countries please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Feb 2017 19:54:35 +0000</listdate>
+    <saledate>Tue, 21 Feb 2017 00:37:56 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>This item is reserved for Geeklist auction winner autumnweave from _T_E_M_P_T_A_G_quot;The After-Holidays Auction_T_E_M_P_T_A_G_quot; and includes the following games:
+Inca Empire
+Vikings
+PLEASE NOTE: Shipping costs will be calculated and added to the purchase price.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Nov 2014 21:06:06 +0000</listdate>
+    <saledate>Mon, 27 Feb 2017 03:52:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Brand new and sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Oct 2016 16:54:23 +0000</listdate>
+    <saledate>Wed, 08 Mar 2017 01:20:05 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>The game is complete and in very good condition. Smoke-free home. No problem with the game itself, only that it gets rarely played, so it_T_E_M_P_T_A_G_#039;s time for it to have a new home. Please ask if you_T_E_M_P_T_A_G_#039;d like any more information or photos. 
+My price INCLUDES shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 May 2017 14:46:21 +0000</listdate>
+    <saledate>Tue, 09 May 2017 15:08:49 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Only for user hapennt for pick up at Origins 2017.
+All other purchasers will be declined
+This is a bundle that includes Tahiti, Hemloch, _T_E_M_P_T_A_G_amp; Uchronia</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jun 2017 06:26:16 +0000</listdate>
+    <saledate>Sun, 04 Jun 2017 22:18:16 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214934/item/4915702#4915702]Item for Geeklist _T_E_M_P_T_A_G_quot;Summer Cleaning Auction - Low Starting Bids (Ends Saturday, June 3, evening PST) - U.S. Only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Apr 2017 18:02:19 +0000</listdate>
+    <saledate>Fri, 28 Jul 2017 09:37:13 +0000</saledate>
+    <price currency='EUR'>37.5</price>
+    <condition>new</condition>
+    <notes>in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Aug 2017 17:42:38 +0000</listdate>
+    <saledate>Sun, 10 Sep 2017 22:30:25 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Complete and in great condition. I will combine shipping on multiple purchases. Will ship via USPS Priority Mail in a medium size flat rate box. Buyer to pay actual USPS shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Aug 2017 09:56:56 +0000</listdate>
+    <saledate>Thu, 21 Sep 2017 19:14:48 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>likenew</condition>
+    <notes>The game:
+White Goblin games (c) 2010.
+English, French, Dutch and German rules included.
+All game materials are still in mint condition.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within EU I prefer the EU-standard-bank-tranfer (SEPA,IBAN/BIC). It is fast and causes no fees.
+Outside EU Paypal and bank-transfer are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Oct 2014 21:17:38 +0000</listdate>
+    <saledate>Tue, 17 Oct 2017 13:57:23 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>Punched _T_E_M_P_T_A_G_amp; bagged but not played.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Oct 2017 13:09:09 +0000</listdate>
+    <saledate>Wed, 22 Nov 2017 10:04:11 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>good</condition>
+    <notes>2010 Z-Man Games. Played, in very good condition.
+MISSING:
+4 x blue wooden sticks (of 60)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Jan 2017 00:21:56 +0000</listdate>
+    <saledate>Wed, 22 Nov 2017 17:59:39 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays shipping from Boston, MA (02210)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Feb 2018 00:49:57 +0000</listdate>
+    <saledate>Sun, 11 Feb 2018 03:37:22 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Only available to the winner of my GL auction. If you are not the winner, please do not elect to purchase this. Thank you.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jan 2018 11:37:51 +0000</listdate>
+    <saledate>Wed, 14 Feb 2018 15:43:12 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Dec 2017 17:37:23 +0000</listdate>
+    <saledate>Sat, 17 Mar 2018 13:52:37 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Mar 2018 16:35:02 +0000</listdate>
+    <saledate>Wed, 16 May 2018 05:29:16 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jul 2018 19:36:51 +0000</listdate>
+    <saledate>Wed, 04 Jul 2018 21:22:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241702/item/6172869#6172869]Item for Geeklist _T_E_M_P_T_A_G_quot;*Closed* Summertime Shelf Clearing Auction - Ends 6/12 LOW STARTING BIDS_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Jul 2018 02:49:09 +0000</listdate>
+    <saledate>Thu, 05 Jul 2018 03:54:44 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and shows no wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Sep 2017 17:21:40 +0000</listdate>
+    <saledate>Tue, 14 Aug 2018 15:58:22 +0000</saledate>
+    <price currency='GBP'>21.99</price>
+    <condition>verygood</condition>
+    <notes>Please ask for postage prior to purchase ...and payment by PayPal only ...
+Many thanks</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Sep 2018 00:51:16 +0000</listdate>
+    <saledate>Sun, 30 Sep 2018 01:02:26 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/244896/item/6412263#6412263]Item for Geeklist _T_E_M_P_T_A_G_quot;Games that must go to make room for Kickstarters_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 May 2018 19:10:18 +0000</listdate>
+    <saledate>Mon, 22 Oct 2018 21:43:01 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Played only once, all components in excellent condition.
+Shipping cost in the UK is £4</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Dec 2018 18:03:54 +0000</listdate>
+    <saledate>Sun, 02 Dec 2018 22:23:36 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Auction item reserved for user gkfrost9. Please do not purchase this unless you are user gkfrost9! Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jun 2018 10:19:21 +0000</listdate>
+    <saledate>Mon, 03 Dec 2018 01:28:32 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>Mint condition.
+Shipping to U.K. only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Feb 2019 12:01:10 +0000</listdate>
+    <saledate>Mon, 18 Feb 2019 17:48:32 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>shrink removed and components examined.
+Shipping extra.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

@@ -1,0 +1,711 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="589">
+   <yearpublished>1983</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>10</age>
+       <name  sortindex="1">Wiz War</name>
+       <name primary="true" sortindex="1">Wiz-War</name>
+         
+   <description>In this light, beer _T_E_M_P_T_A_G_amp;amp; pretzels type of game, players are transformed into wizards attempting to collect treasures from a twisted little maze.  At the heart of the game is a deck of cards that the players use to cast spells, power-up spells, and augment movement.  Each turn, players can move up to three spaces (or more with the use of number cards).  However, the goal is to penetrate the other players' sections of the maze, pick up one of their treasures, and bring it back to your home base.  The first player to capture two such treasures or kill all the other wizards is the winner._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Re-implemented by:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    Wiz-War (eighth edition)_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/j5xUb4RgqNoT7DwiDVzZFtThgSk=/fit-in/200x150/pic184442.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/WU4Wemyt-47T99ivx9QwB0VAROs=/0x0/pic184442.jpg</image>
+      
+            <boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+                             <boardgamepodcastepisode objectid="86199">BGTG 107 - Handcrafted Games (with Lincoln Damerst and Greg Wilzbach)</boardgamepodcastepisode>
+                      <boardgamepublisher objectid="150">Chessex</boardgamepublisher>
+               <boardgameversion objectid="28612">Chessex classic edition 1997</boardgameversion>
+               <boardgameversion objectid="27352">Chessex sixth edition</boardgameversion>
+                                           <boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+               <boardgameversion objectid="26114">Fifth edition</boardgameversion>
+               <boardgamecategory objectid="1046">Fighting</boardgamecategory>
+               <boardgameversion objectid="188937">First edition</boardgameversion>
+               <boardgameversion objectid="29214">Fourth edition</boardgameversion>
+                                    <boardgamedesigner objectid="222">Tom Jolly</boardgamedesigner>
+               <boardgameartist objectid="222">Tom Jolly</boardgameartist>
+               <boardgamepublisher objectid="149">Jolly Games</boardgamepublisher>
+               <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+               <boardgameartist objectid="16109">Phil Morrissey</boardgameartist>
+               <boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+                      <boardgameversion objectid="360421">Second edition</boardgameversion>
+               <boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+               <boardgameversion objectid="360420">Third edition</boardgameversion>
+                             <boardgameimplementation objectid="104710">Wiz-War (eighth edition)</boardgameimplementation>
+               <boardgameexpansion objectid="28071">Wiz-War: Expansion Set</boardgameexpansion>
+               <boardgameexpansion objectid="38450">Wiz-War: Expansion Set #2</boardgameexpansion>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="36">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="21" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="9" />
+     <result value="Not Recommended" numvotes="13" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="18" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="29" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="11" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="12">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="9" />
+     <result level="5" value="Unplayable in another language" numvotes="3" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="4" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1566</usersrated>
+     <average>6.88813</average>
+     <bayesaverage>6.23616</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1452" bayesaverage="6.23616" />
+            
+       
+              <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="305" bayesaverage="6.39904" />
+            
+           </ranks>
+     
+     <stddev>1.58772</stddev>
+     <median>0</median>
+     <owned>1904</owned>
+     <trading>75</trading>
+     <wanting>108</wanting>
+     <wishing>385</wishing>
+     <numcomments>645</numcomments>
+     <numweights>169</numweights>
+     <averageweight>1.9822</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sat, 25 Jan 2003 13:29:37 +0000</listdate>
+    <saledate>Mon, 27 Jan 2003 17:52:25 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>REVISED 1991 EDITION.  Game has not been played, the pieces haven_T_E_M_P_T_A_G_#039;t been punched out.  The box shows minor wear.  </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Feb 2004 02:44:52 +0000</listdate>
+    <saledate>Fri, 20 Feb 2004 02:44:52 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Jul 2004 02:50:51 +0000</listdate>
+    <saledate>Tue, 06 Jul 2004 15:57:44 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>acceptable</condition>
+    <notes>I list the condition as _T_E_M_P_T_A_G_quot;acceptable_T_E_M_P_T_A_G_quot; because it_T_E_M_P_T_A_G_#039;s been played many times, and because it is an older edition, from back when the game came in a small brown box. Included is a set of cards for an internet fan expansion; you could easily strip them out if you prefer. You even get our homemade tiles and counters for said internet expansion; again, strip _T_E_M_P_T_A_G_#039;em out if you prefer.
+All original parts are included. If you want to see more pictures, e-mail me and I will take some.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Aug 2004 21:50:14 +0000</listdate>
+    <saledate>Wed, 11 Aug 2004 06:12:06 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Classic beer-and-pretzel game. 6th Ed. Box slightly bent. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Jun 2005 04:45:34 +0000</listdate>
+    <saledate>Sun, 31 Jul 2005 16:35:34 +0000</saledate>
+    <price currency='USD'>43</price>
+    <condition>verygood</condition>
+    <notes>1991 Fifth Edition.  Complete.  The printing is a bit rubbed on the box, but there are not splits, tears, or creases.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Aug 2005 02:30:19 +0000</listdate>
+    <saledate>Wed, 23 Nov 2005 04:34:31 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>Complete; very good condition. Cards are excellent, not a one looks worn or stained. Box lid has some creases and very mild edge wear. This is the 7th Edition (pictured here).  Shipping is calculated based on where you live. I can send it via Priority Mail if you live in the US. Feel free to ask questions! </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Dec 2005 17:39:01 +0000</listdate>
+    <saledate>Thu, 15 Feb 2007 16:57:46 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>likenew</condition>
+    <notes>1997 Classic Chessex edition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jan 2007 02:06:04 +0000</listdate>
+    <saledate>Sun, 21 Jan 2007 16:36:22 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>1997 chessex edition.
+Opened, but unpunched and unplayed.
+I only ship via UPS.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Mar 2007 15:18:24 +0000</listdate>
+    <saledate>Wed, 16 May 2007 01:00:15 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>likenew</condition>
+    <notes>6th edition. Opened but in great shape, all pieces present.  ALSO INCLUDED IS THE FIRST EXPANSION, complete.  All counters, cards, and board sections are present and complete.  Very rare.  Contact me for shipping info, or if you have any questions!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Mar 2007 19:53:48 +0000</listdate>
+    <saledate>Mon, 05 Mar 2007 23:29:09 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Classic Edition, opened but never played. Minimal shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Apr 2007 03:52:33 +0000</listdate>
+    <saledate>Tue, 15 May 2007 02:22:45 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>Wiz-War Classic Edition. Very good+ condition.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Apr 2007 04:18:34 +0000</listdate>
+    <saledate>Mon, 16 Apr 2007 08:37:08 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap, classic edition by Chessex.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Apr 2007 01:40:47 +0000</listdate>
+    <saledate>Thu, 19 Apr 2007 19:29:53 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes>2 copies.  Asking $90/ea.
+COPY 1 - Like New
+6th Edition.  Brand new condition, never shrink-wrapped.  Chits have not been punched out, but some have fallen out due to shipping, etc.  
+COPY 2 - Good
+6th edition + expansions 1 _T_E_M_P_T_A_G_amp; 2.  Some box damage (mostly from holding way too many cards).  Expansion #s written on face of cards.  
+USPS Priority shipping $6.  International buyers welcome, ask for shipping costs. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Apr 2007 13:33:46 +0000</listdate>
+    <saledate>Sat, 01 Dec 2007 02:02:47 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>likenew</condition>
+    <notes>6th Edition.  Brand new condition, never shrink-wrapped.  Chits have not been punched out, but some have fallen out due to shipping, storage, etc.  
+Shipping is actual cost +$2 for packaging.  International buyers OK.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Aug 2007 18:10:05 +0000</listdate>
+    <saledate>Wed, 03 Mar 2010 10:30:01 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Unpunched - save for one Treasure counter which has falled from sprue and is missing.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jun 2008 20:15:46 +0000</listdate>
+    <saledate>Wed, 02 Jul 2008 12:19:56 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Punched and bagged, but never played. 6th Edition. Slight wear on box corners.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jul 2008 10:54:25 +0000</listdate>
+    <saledate>Fri, 02 Jan 2009 11:46:43 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>5th edition, 
+see http://www.boardgamegeek.com/image/82555</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Aug 2008 00:20:39 +0000</listdate>
+    <saledate>Sun, 31 Aug 2008 02:27:18 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>The game itself is in excellent condition. Maybe played once or twice. The box is a little worn.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Sep 2008 03:42:03 +0000</listdate>
+    <saledate>Thu, 18 Dec 2008 22:08:06 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Chessex Classic Edition.  Complete.  Opened but unplayed.   Cards are crisp and sharp, like brand new.  
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Nov 2008 21:00:52 +0000</listdate>
+    <saledate>Tue, 09 Dec 2008 12:41:38 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>This is my first sale on bgg, I am used to eBay. Sorry for any wordiness.
+This is a LOT sale of the 5th Edition Wiz-War (1991). The price is $50 USD, and does NOT include shipping. 
+Recent pictures uploaded to Wiz-War show you the condition of the game, including the crease in the box top from top left corner, arcing out and back to bottom left corner. 
+The game is unplayed. Counters are unpunched.
+Shipping to be paid by buyer. As of Nov 2008, rates to continental US were between $9 and $17 depending upon speed of service. I will ship to anywhere, once paypal payment has been received. Local Pick-up is free of course. (That_T_E_M_P_T_A_G_#039;s my bid to help out Tourism Toronto!)
+I prefer paypal, but would consider money orders if necessary.
+I have been having problems with creating sales here on bgg, so this may look weird. Your patience is appreciated. 
+Again, please PM me with any questions.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Dec 2008 22:57:58 +0000</listdate>
+    <saledate>Sun, 14 Dec 2008 00:14:27 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>GREAT GAME. Hard to find in this condition. (MINT!!!)
+MINT, Unplayed, 100% Complete, Classic Edition, Cheesex.
+(not shrinkwrapped)
+...
+Make an offer. Make a Trade/currency offer.
+...
+Original Owner. Non-Smoking Home.
+...
+I only ship on Saturdays.
+...
+If you have any questions, please write me.
+Thanks for your consideration.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Feb 2009 15:52:07 +0000</listdate>
+    <saledate>Fri, 13 Feb 2009 04:25:29 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Never played. Complete. Box is intact.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Mar 2009 15:24:03 +0000</listdate>
+    <saledate>Tue, 07 Apr 2009 05:47:39 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>This is the classic edition (I believe it_T_E_M_P_T_A_G_#039;s the 7th).  Game is complete with all counters and cards accounted for.  It doesn_T_E_M_P_T_A_G_#039;t appear to have been played much if at all, the cards are still crisp showing little to no wear.  The box is a bit beat up however, the cover lid has a corner that is beginning to split.  No excessive damage but it_T_E_M_P_T_A_G_#039;s noticeable that it has been handled roughly.
+Shipping rate will depend on your zip code, but since Wiz-War is relatively light, I don_T_E_M_P_T_A_G_#039;t expect it to be more than $8-$10.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 May 2009 19:01:31 +0000</listdate>
+    <saledate>Mon, 25 May 2009 17:08:35 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition - never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Jun 2009 01:16:01 +0000</listdate>
+    <saledate>Thu, 30 Jul 2009 13:49:37 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>verygood</condition>
+    <notes>BUNDLE: Includes the contents of Chessex 1997 Classic edition(CHX 07000, blue/purple-ish box), plus Expansions 1 and 2.
+Only played once, so components are still in excellent condition.  Even the box is in good shape, with only minor wear at the corners.
+Will ship in a USPS flat-rate box for $9.85 to anywhere in the USA.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Aug 2009 19:13:07 +0000</listdate>
+    <saledate>Mon, 21 Sep 2009 20:22:29 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>Chessex Classic Edition (Blue Box). 
+7th edition. 
+Complete.
+Parts sealed in original bags.  Cards not in shrink, but sorted and counted.
+ 
+Maps unused.
+All cards,  except 2, perfect.  2 cards have a very, very slight dog ears on upper edge.  
+Box somewhat crushed on lower right hand.  Box not torn or ripped.
+$9 flat rate shipping for buyers in Lower 48 US States.
+Will calculate shipping from zip 78729 for buyers in other areas.
+Approximately 3 ibs in weight.
+Will ship worldwide..</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Sep 2009 16:49:47 +0000</listdate>
+    <saledate>Thu, 17 Dec 2009 22:11:29 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>This is a Factory sealed 6th Edition. Still in original shrink. Box is in mint condition. Never opened, never played.
+Buyer is responsible for all shipping fees. Tracking and insurance will be provided.
+Any questions feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Oct 2009 18:14:30 +0000</listdate>
+    <saledate>Sat, 10 Oct 2009 18:28:46 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Wiz-War and the expansion set. Boxes show some wear and game has been played a number of times but pieces are in excellent condition - all accounted for and bagged.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2009 20:37:48 +0000</listdate>
+    <saledate>Mon, 01 Nov 2010 02:54:55 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>4th edition.  Cards are in excellent shape except two are missing according to the card list: 1X blunt (supposed to be 2) and Mad Dash.
+Box is worn.  Boards and counters are in excellent shape.  Original low impact 8-sided die included.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Dec 2009 11:21:57 +0000</listdate>
+    <saledate>Wed, 16 Jun 2010 07:10:01 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Wiz-War 6th edition. (Classic edition)
+Some minor scuffing on the box and in the corners. No split corners.
+Contents are complete and in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Jan 2010 11:05:59 +0000</listdate>
+    <saledate>Sun, 07 Mar 2010 00:54:40 +0000</saledate>
+    <price currency='USD'>64.95</price>
+    <condition>good</condition>
+    <notes>Played once. 2lbs</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Feb 2010 16:53:27 +0000</listdate>
+    <saledate>Wed, 17 Feb 2010 03:16:10 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>6th Edition from Chessex.
+Box has some shelf wear but is fully intact and colorful.
+Contents are all accounted for, and amazingly all the cards are still in very good shape.  Rule book is mis-stapled, and has a slight imperfection at the top.  Neither affects actual pages of rules or the integrity of the booklet itself.
+Probably played around 5-6 times over a decade ago.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Feb 2010 17:48:24 +0000</listdate>
+    <saledate>Tue, 16 Feb 2010 21:01:22 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>verygood</condition>
+    <notes>Wiz-War: Base Set and Expansion #1 Sold Together.
+Version: 6th Edition from Chessex.
+Each box (Base + Expansion) has some minor shelf wear but each is intact with all 4 corners and colorful cover.
+Contents are all accounted for, and all the cards are still in very good shape.
+If using Paypal, add 4%. Personal checks must clear.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Jun 2010 14:11:42 +0000</listdate>
+    <saledate>Tue, 08 Jun 2010 16:48:41 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>This item is only for sale to user Jeff Abramson
+(JEFF_RDG), who won it in a BGG auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Aug 2010 10:30:36 +0000</listdate>
+    <saledate>Thu, 07 Oct 2010 19:58:37 +0000</saledate>
+    <price currency='AUD'>50</price>
+    <condition>verygood</condition>
+    <notes>Selling for a friend (I have the game in hand).
+Never used - as good as new - tokens still in bags.
+Box has shelf wear and one split corner but otherwise still in good condition.
+PayPal from overseas buyers, but will accept Direct Deposit from Australian buyers.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Sep 2010 05:13:57 +0000</listdate>
+    <saledate>Tue, 30 Nov 2010 16:51:46 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>acceptable</condition>
+    <notes>Components present and in good shape.  Box is well worn.  Classic Edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Nov 2010 08:45:12 +0000</listdate>
+    <saledate>Wed, 24 Nov 2010 14:43:12 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>good</condition>
+    <notes>RESERVED for kvn299 per:
+http://www.boardgamegeek.com/geeklist/61026/yada-yada-auction-doomtown-firestorm-wiz-war-and-m
+ALL OTHERS WILL BE REJECTED!
+Condition (e.g. box and counter chits) _T_E_M_P_T_A_G_quot;as is_T_E_M_P_T_A_G_quot; noted in auction listing.  Cards inventoried, sleeved, complete and in great shape. Ditto boards, rules. includes unassembled expansion box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Jan 2011 05:17:07 +0000</listdate>
+    <saledate>Thu, 17 Mar 2011 23:11:58 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>good</condition>
+    <notes>Classic Edition of the game. Game in very good to excellent condition. The box is very flimsy and there is a crease on the front cover.  Photo available on request. I will ship USPS Priority unless otherwise requested. Actual cost for shipping plus delivery confirmation.  Insurance optional but recommended.
+International buyers, please email for a shipping quote before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 May 2011 21:23:13 +0000</listdate>
+    <saledate>Thu, 19 May 2011 22:35:36 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>verygood</condition>
+    <notes>Wiz-War Package deal. The Purple “Classic Edition by Chessex (CHX 070000) and Wiz-War Expansion #1 by Chessex (Stock # 7001) New 6th edition. The “New 1993 edition with revised rules and new cards!” version.
+The Base set box has some crunched top issues. The boxes are very thin and it is crushed. But the box shows very little shelf wear. The contents are in mint condition. It is punched and the wizard cards are folded over and in their stands. But it was never played and includes the original die. 
+The expansion box is in much better shape with only a little top crunch and minimal shelf wear. It is un-punched, but some of the pieces have come out of the frame so I guess it is partially punched.
+I am only selling these as a set and the price is $100. I will pay to ship them in the USA via USPS priority mail with tracking. If you live outside the US, I will ship, but you have to pay USPS priority mail flat rate shipping cost and deal with your local customs issues. I will not ship to Brazil.
+I can share some pictures or give you more details if you like. I have not sold at BBG before but I have a 100% feedback on ebay for selling mostly games and CCG’s.
+Thank you for taking the time to look.
+David J Tatu
+Atlanta GA
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jun 2011 03:24:49 +0000</listdate>
+    <saledate>Mon, 13 Jun 2011 16:01:09 +0000</saledate>
+    <price currency='USD'>57</price>
+    <condition>verygood</condition>
+    <notes>Custom homemade PNP WizWar from my auction, but JUST FOR KYTTY!
+(and Babel, also)
+Ships in the same box for you! Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Aug 2011 23:15:25 +0000</listdate>
+    <saledate>Sun, 21 Aug 2011 04:37:33 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>1991 Fifth Edition plus the 1988 Expansion Set #1</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Dec 2011 08:37:49 +0000</listdate>
+    <saledate>Sun, 04 Dec 2011 11:57:55 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>acceptable</condition>
+    <notes>Reserved for 1000rpm in European Geeklist Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Feb 2012 15:58:26 +0000</listdate>
+    <saledate>Sat, 21 Apr 2012 17:55:37 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>acceptable</condition>
+    <notes>Box has some wear, but everything is in good shape
+This is the 6th edition version
+Shipping is 11$</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 May 2012 20:37:47 +0000</listdate>
+    <saledate>Sun, 26 May 2013 20:31:28 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>good</condition>
+    <notes>This is Chessex 6th Edition from 1993.
+Box is not in great shape, but components are good.  Also includes Expansion Set.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jun 2012 05:27:06 +0000</listdate>
+    <saledate>Tue, 19 Jun 2012 18:18:52 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes> RESERVED for munozjtx from JUNE-TASTIC auction 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jan 2013 21:16:06 +0000</listdate>
+    <saledate>Sat, 12 Jan 2013 15:38:21 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Bogie1494
+winner of The _T_E_M_P_T_A_G_quot;I Can_T_E_M_P_T_A_G_#039;t Believe It Has Come to This_T_E_M_P_T_A_G_quot; Auction for Wiz-War and Cave Troll.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Mar 2013 05:48:30 +0000</listdate>
+    <saledate>Thu, 07 Mar 2013 18:53:57 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>acceptable</condition>
+    <notes>For auction winner only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Jul 2013 15:26:16 +0000</listdate>
+    <saledate>Thu, 19 Sep 2013 05:03:35 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Classic Chessex Edition
+Game is in mint condition and is complete and sorted (in mini-ziplocs, except if there is a sorting tray).
+I need to make space and get rid of games I am unlikely to play in the future.  Please check my other listings!  If you buy more than US$100 worth of games, I will give $10 off shipping.  If you buy more than $200 worth of games, I will ship the games for free (in the continental US only)! Games are being sold because I have an updated edition or am unlikely to play again in the future due to my group’s preferences.  Happy shopping!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Sep 2013 18:22:59 +0000</listdate>
+    <saledate>Fri, 07 Feb 2014 08:43:08 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>good</condition>
+    <notes>This is the Chessex Classic Edition (purple box).  Components complete and in very good condition, box showing a little wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Apr 2014 22:02:53 +0000</listdate>
+    <saledate>Sat, 21 Jun 2014 07:03:07 +0000</saledate>
+    <price currency='USD'>58</price>
+    <condition>verygood</condition>
+    <notes>Played once / nearly new
+Chessex Classic Edition 1997 
+Includes 1st and 2nd expansion sets</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 May 2014 04:37:37 +0000</listdate>
+    <saledate>Mon, 05 May 2014 06:02:49 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/172880/item/3195259#3195259]Item for Geeklist _T_E_M_P_T_A_G_quot;Time to get a PhD and move auction - ends Sunday May 4th_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Aug 2014 22:19:19 +0000</listdate>
+    <saledate>Tue, 02 Sep 2014 17:13:44 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Auction item reserved for David Call (dcall)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Oct 2014 19:55:27 +0000</listdate>
+    <saledate>Thu, 23 Oct 2014 22:57:50 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>This item is reserved for auction winner pdrseuss</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jan 2015 03:10:23 +0000</listdate>
+    <saledate>Thu, 08 Jan 2015 12:59:16 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Auction win reserved for 
+allismom3 Chris B</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Oct 2014 17:05:21 +0000</listdate>
+    <saledate>Tue, 27 Jan 2015 01:04:18 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>likenew</condition>
+    <notes>Classic Edition (1997).  Components are complete and in new, unused condition.  Box has minor shelf wear and a short crease in one corner.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Oct 2014 22:50:34 +0000</listdate>
+    <saledate>Wed, 10 Jun 2015 10:36:29 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition, played once
+Buyer pay shippin</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Dec 2015 20:05:03 +0000</listdate>
+    <saledate>Thu, 28 Jan 2016 12:28:28 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Payment within Europe IBAN prefered.
+Postage (package up to 2 kg): 
+Netherlands: Normal: € 6,95 * Track_T_E_M_P_T_A_G_amp;trace: € 6,95 * Registered: € 8,60
+Europe (EU): Normal:€ 9,00 * Track_T_E_M_P_T_A_G_amp;trace:€ 13,00 * Registered:€ 14,65
+World: Normal:€ 18,00 * Track_T_E_M_P_T_A_G_amp;trace:€ 24,30 * Registered:€ 25,95
+Postage (package 2-5 kg):
+Netherlands: Normal: € 6,95 * Track_T_E_M_P_T_A_G_amp;trace: € 6,95 * Registered: € 8,60
+Europe (EU): Track_T_E_M_P_T_A_G_amp;trace:€ 19,50 * Registered:€ 21,15
+World: Track_T_E_M_P_T_A_G_amp;trace:€ 34,30 * Registered:€ 35,95
+Postage (letter up to 250 g):
+Netherlands: Normal:€ 2,76 * Registered:€ 7,95
+Europe (EU): Normal:€ 5,75 * Registered:€ 11,00
+World: Normal:€ 5,75 * Registered:€ 16,00
+Postage (Letter 250 g - 2000 g)
+Netherlands: Normal:€ 3,45* Registered:€ 7,95
+Europe (EU): Normal:€ 10,35* Registered:€ 11,00
+World: Normal:€ 10,35* Registered:€ 16,00
+Please check out my other items for sale!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Feb 2016 17:48:58 +0000</listdate>
+    <saledate>Sun, 21 Feb 2016 00:22:34 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205229/item/4461692#4461692]Item for Geeklist _T_E_M_P_T_A_G_quot;Bills to Pay Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jan 2015 08:19:32 +0000</listdate>
+    <saledate>Thu, 07 Apr 2016 23:20:18 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>verygood</condition>
+    <notes>edition includes 2 expansions</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Apr 2016 20:32:11 +0000</listdate>
+    <saledate>Sun, 10 Apr 2016 21:50:46 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>for ACK ACK only</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2017 01:54:36 +0000</listdate>
+    <saledate>Wed, 05 Jul 2017 03:22:08 +0000</saledate>
+    <price currency='USD'>14.99</price>
+    <condition>good</condition>
+    <notes>Stored on my shelf B2. Box is worn, contents good.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Aug 2017 20:13:00 +0000</listdate>
+    <saledate>Tue, 29 Aug 2017 20:00:35 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Wiz-War 5th ed., plus the first expansion all in the original game box. Slight wear on box sides and corners. Components in near-mint condition, punched and bagged. Includes original die! Gently played 1-2 times. A most excellent copy.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Oct 2017 17:21:18 +0000</listdate>
+    <saledate>Tue, 07 Nov 2017 05:51:24 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230566/item/5659939#5659939]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Sold to Andy Grove (rayrayxl3)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jan 2018 11:43:51 +0000</listdate>
+    <saledate>Mon, 23 Apr 2018 14:58:30 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>acceptable</condition>
+    <notes>UK postage £3.00 elsewhere on request</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Dec 2014 10:41:17 +0000</listdate>
+    <saledate>Sun, 01 Jul 2018 03:54:44 +0000</saledate>
+    <price currency='EUR'>34</price>
+    <condition>likenew</condition>
+    <notes>FIFTH EDITION
+Some light wears in box for aging, components mint condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Jul 2017 21:51:53 +0000</listdate>
+    <saledate>Sun, 25 Nov 2018 00:39:09 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

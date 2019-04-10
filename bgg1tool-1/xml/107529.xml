@@ -1,0 +1,2397 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="107529">
+   <yearpublished>2011</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>45</playingtime>
+   <minplaytime>45</minplaytime>
+   <maxplaytime>45</maxplaytime>
+   <age>8</age>
+       <name primary="true" sortindex="1">Kingdom Builder</name>
+       <name  sortindex="1">Królestwo w Budowie</name>
+         
+   <description>In Kingdom Builder, the players create their own kingdoms by skillfully building their settlements, aiming to earn the most gold at the end of the game._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Nine different kinds of terrain are on the variable game board, including locations and castles. During his turn, a player plays his terrain card and builds three settlements on three hexes of this kind. If possible, a new settlement must be built next to one of that player_T_E_M_P_T_A_G_amp;rsquo;s existing settlements. When building next to a location, the player may seize an extra action tile that he may use from his next turn on. These extra actions allow extraordinary actions such as moving your settlements._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;By building next to a castle, the player will earn gold at the end of the game, but the most gold will be earned by meeting the conditions of the three Kingdom Builder cards; these three cards (from a total of ten in the game) specify the conditions that must be met in order to earn the much-desired gold, such as earning gold for your settlements built next to water hexes or having the majority of settlements in a sector of the board._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Each game, players will use a random set of Kingdom Builder cards (3 of 10), special actions (4 of 8), and terrain sectors to build the map (4 of 8), ensuring you won't play the same game twice!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Kingdom Builder FAQ - please read before posting questions in the forum._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/4rlb3ozPuUFBkziJg-hv2zQD8BU=/fit-in/200x150/pic1152359.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/y_ztUjzGGoO4TwnmTFNDLnOxz90=/0x0/pic1152359.jpg</image>
+      
+            <boardgamepublisher objectid="47">Queen Games</boardgamepublisher>
+                      <boardgamehonor objectid="19818">2011/2012 Boardgames Australia Awards Best International Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="20117">2012 Golden Geek Best Abstract Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="20987">2012 Golden Geek Best Abstract Game Winner</boardgamehonor>
+               <boardgamehonor objectid="20122">2012 Golden Geek Best Family Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="21200">2012 Gouden Ludo Nominee</boardgamehonor>
+               <boardgamehonor objectid="19505">2012 International Gamers Award - General Strategy: Multi-player Nominee</boardgamehonor>
+               <boardgamehonor objectid="21008">2012 Lys Passioné Finalist</boardgamehonor>
+               <boardgamehonor objectid="18369">2012 Spiel des Jahres Nominee</boardgamehonor>
+               <boardgamehonor objectid="18502">2012 Spiel des Jahres Winner</boardgamehonor>
+               <boardgamehonor objectid="19848">2012 Vuoden Peli Adult Game of the Year Nominee</boardgamehonor>
+               <boardgamehonor objectid="22013">2013 Origins Awards Best Board Game Nominee</boardgamehonor>
+               <boardgamepodcastepisode objectid="94985">4VP - S01E04 - Return of the JeDice</boardgamepodcastepisode>
+                             <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+                      <boardgamepublisher objectid="6784">Bergsala Enigma</boardgamepublisher>
+                                           <boardgamepodcastepisode objectid="109679">DJ39: Recomanacions nadalenques 2013</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="112061">Durchgespielt – Spiel des Jahres 2012: Kingdom Builder</boardgamepodcastepisode>
+                      <boardgameversion objectid="136855">English edition</boardgameversion>
+                             <boardgameversion objectid="388871">English-only edition</boardgameversion>
+               <boardgameversion objectid="182862">English/German edition with SdJ</boardgameversion>
+               <boardgamepodcastepisode objectid="182502">Ep 035 – Spiel des Jahres predictions and discussion</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="90419">Episode 003</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="214315">Episode 04 - Anachrony</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="190518">Episode 12 - Ask Us Anything</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="200177">Episode 22 - Games Rule, Rulebooks Drool</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="211576">Episode 33 - The Digital Frontier</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="219883">Episode 39 - Top 5 Surprises</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="187300">Episode 7 - Spiel des Jahres</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="68085">Episodio 4 – Get Bit!, Inventum y Essen 2011</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgameversion objectid="166903">Finnish/Swedish edition</boardgameversion>
+                                                         <boardgamepodcastepisode objectid="153358">Gaming Rules! – Podcast 12</boardgamepodcastepisode>
+               <boardgameversion objectid="189264">German edition with SdJ</boardgameversion>
+               <boardgameversion objectid="139808">German first edition</boardgameversion>
+                                                                                                                                                                                                                   <boardgamefamily objectid="14514">Kingdom Builder</boardgamefamily>
+               <videogamebg objectid="134680">Kingdom Builder</videogamebg>
+               <boardgamepodcastepisode objectid="98644">Kingdom Builder</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="83559">Kingdom Builder (Queen Games): Spiele-Podcast Nr. 150</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="211338">Kingdom Builder - designed by Donald X Vaccarino _T_E_M_P_T_A_G_amp;amp; published by Queen Games</boardgamepodcastepisode>
+                                                         <boardgamecompilation objectid="139993">Kingdom Builder: Big Box</boardgamecompilation>
+               <boardgamecompilation objectid="229130">Kingdom Builder: Big Box (second edition)</boardgamecompilation>
+               <boardgameexpansion objectid="109141">Kingdom Builder: Capitol</boardgameexpansion>
+               <boardgameexpansion objectid="132377">Kingdom Builder: Caves</boardgameexpansion>
+               <boardgameexpansion objectid="137396">Kingdom Builder: Crossroads</boardgameexpansion>
+               <boardgamecompilation objectid="257180">Kingdom Builder: Family Box</boardgamecompilation>
+               <boardgameexpansion objectid="195267">Kingdom Builder: Harvest</boardgameexpansion>
+               <boardgameexpansion objectid="179622">Kingdom Builder: Marshlands</boardgameexpansion>
+               <boardgameexpansion objectid="117793">Kingdom Builder: Nomads</boardgameexpansion>
+               <boardgameexpansion objectid="156102">Kingdom Builder: The Island</boardgameexpansion>
+               <boardgameaccessory objectid="210309">Kingdom Builder: Wooden Settlements</boardgameaccessory>
+               <boardgamepublisher objectid="3218">Lautapelit.fi</boardgamepublisher>
+               <boardgamecategory objectid="1035">Medieval</boardgamecategory>
+                             <boardgamepodcastepisode objectid="196857">MeepleCore Podcast Episode 21 - Guest game designer Steve Avery, new monopoly pieces, how we would spend a million dollars, and more!</boardgamepodcastepisode>
+                             <boardgamepodcastepisode objectid="205133">MN 0161 Kitchen Sink Episode</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+               <boardgameversion objectid="124163">Multilingual first edition</boardgameversion>
+               <boardgameversion objectid="423408">Nordic edition</boardgameversion>
+               <boardgamepodcastepisode objectid="84301">OBG 89: We_T_E_M_P_T_A_G_#039;re All Such Good Sports</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="81796">Podcast #049 - Essen 2011 parte 2</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="233665">Podcast 97 – Kingdom Builder</boardgamepodcastepisode>
+               <boardgameversion objectid="250073">Polish edition</boardgameversion>
+                                                  <boardgamefamily objectid="24255">Queen Yellow Wave Box Series</boardgamefamily>
+               <boardgamepublisher objectid="7466">Rebel</boardgamepublisher>
+                                                  <boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+                      <boardgameartist objectid="34863">Oliver Schlemmer</boardgameartist>
+               <boardgamepodcastepisode objectid="86397">Session Impressions: Kingdom Builder</boardgamepodcastepisode>
+                                    <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+                      <boardgamepodcastepisode objectid="173829">The Game Pit - Episode 56 - The Bumper Review of 2015 (with Top 5s)</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="186340">The Game Pit: Episode 65 - Short Games with Mark Johnson</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="178699">The Good, The Board, and The Hurry the @#$% Up! Episode 64 Real Time Games</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="101085">The Long View: Kingdom Builder</boardgamepodcastepisode>
+                      <boardgamepodcastepisode objectid="75058">The One About Farming</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="80169">The Spiel #153 - Spiel des Schpiel 2012 - Part 1</boardgamepodcastepisode>
+                      <boardgamedesigner objectid="10525">Donald X. Vaccarino</boardgamedesigner>
+               <boardgamepodcastepisode objectid="170386">What Did You Play This Week Podcast Thing Week 58!!!</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="172720">What Did You Play This Week Podcast Thing Week 61!! Don_T_E_M_P_T_A_G_#039;t Forget The Contest</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="185035">What Did You Play This Week Podcast Thing Week 85!</boardgamepodcastepisode>
+                    
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="276">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="147" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="47" />
+     <result value="Recommended" numvotes="144" />
+     <result value="Not Recommended" numvotes="46" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="81" />
+     <result value="Recommended" numvotes="157" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="168" />
+     <result value="Recommended" numvotes="67" />
+     <result value="Not Recommended" numvotes="10" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="26" />
+     <result value="Not Recommended" numvotes="92" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="83">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="11" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="66" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="64">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="1" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="8" />
+     <result value="8" numvotes="36" />
+     <result value="10" numvotes="17" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>16340</usersrated>
+     <average>6.99098</average>
+     <bayesaverage>6.86564</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="481" bayesaverage="6.86564" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="341" bayesaverage="6.8737" />
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="104" bayesaverage="6.9014" />
+            
+           </ranks>
+     
+     <stddev>1.4225</stddev>
+     <median>0</median>
+     <owned>20501</owned>
+     <trading>630</trading>
+     <wanting>452</wanting>
+     <wishing>2957</wishing>
+     <numcomments>3335</numcomments>
+     <numweights>897</numweights>
+     <averageweight>2.0647</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Wed, 07 Sep 2011 14:59:08 +0000</listdate>
+    <saledate>Sun, 11 Sep 2011 04:29:50 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+KINGDOM BUILDER: $34.95 (pre-order)
+Queen Games [QNG 60833]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date:  November 2011
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Sep 2011 05:11:41 +0000</listdate>
+    <saledate>Sun, 09 Oct 2011 19:54:11 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+KINGDOM BUILDER: $34.95 (pre-order)
+Queen Games [QNG 60833]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: November 2011
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Sep 2011 15:05:13 +0000</listdate>
+    <saledate>Tue, 01 Nov 2011 01:15:45 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>new</condition>
+    <notes>Preorder for expected end of October release
+Shipping within the UK is £5
+To mainland Europe is £12</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Oct 2011 20:38:39 +0000</listdate>
+    <saledate>Fri, 14 Oct 2011 18:25:19 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+KINGDOM BUILDER: $34.95 (pre-order)
+Queen Games [QNG 60833]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: November 2011
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2011 18:38:39 +0000</listdate>
+    <saledate>Tue, 01 Nov 2011 02:08:36 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+KINGDOM BUILDER: $34.95 (pre-order)
+Queen Games [QNG 60833]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: November 2011
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2011 02:32:27 +0000</listdate>
+    <saledate>Mon, 07 Nov 2011 04:27:19 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+KINGDOM BUILDER: $34.95 (pre-order)
+Queen Games [QNG 60833]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: November 2011
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2011 09:14:05 +0000</listdate>
+    <saledate>Mon, 14 Nov 2011 23:27:12 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>new</condition>
+    <notes>Preorder for expected early November release
+Shipping within the UK is £5
+To mainland Europe is £12</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Nov 2011 15:27:24 +0000</listdate>
+    <saledate>Wed, 16 Nov 2011 23:04:30 +0000</saledate>
+    <price currency='CAD'>35</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Nov 2011 14:20:33 +0000</listdate>
+    <saledate>Wed, 30 Nov 2011 21:26:34 +0000</saledate>
+    <price currency='USD'>36.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+KINGDOM BUILDER: $36.95 (pre-order)
+Queen Games [QNG 60833]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: Late November 2011
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Nov 2011 16:36:11 +0000</listdate>
+    <saledate>Mon, 28 Nov 2011 19:27:49 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Played a few times.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Dec 2011 16:08:45 +0000</listdate>
+    <saledate>Thu, 15 Dec 2011 10:46:53 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Shipping £7 UK
+Free collection from Brighton
+Europe wild guess at shipping £15</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Dec 2011 06:40:01 +0000</listdate>
+    <saledate>Sun, 15 Jan 2012 04:38:30 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+KINGDOM BUILDER: $37.95
+Queen Games [QNG 60833]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jan 2012 22:48:16 +0000</listdate>
+    <saledate>Sun, 29 Apr 2012 19:18:09 +0000</saledate>
+    <price currency='USD'>36.49</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG 60832)
+The latest release from the designer of Dominion. In Kingdom Builder, the players create their own kingdoms by skillfully building their settlements, aiming to earn the most gold at the end of the game. Build an engine to control more tiles, which give access to more abilities -- which help you earn more gold. Each game, players will use a random set of Kingdom Builder cards (3 of the total of 10 cards), special actions (4 of possible 8) and terrain sectors to build the map (4 of 8 tiles), ensuring you won_T_E_M_P_T_A_G_#039;t play the same game twice. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jan 2012 19:04:48 +0000</listdate>
+    <saledate>Sun, 22 Jan 2012 14:31:12 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played once.  Great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2012 07:40:06 +0000</listdate>
+    <saledate>Thu, 02 Feb 2012 09:38:31 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>Played once. Great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2012 22:10:27 +0000</listdate>
+    <saledate>Thu, 05 Jan 2012 22:40:08 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>OPENED - BUT UNPLAYED...
+UK postage - standard parcel { please pay by cheque if you can ! } I.E. five pounds
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jan 2012 04:54:27 +0000</listdate>
+    <saledate>Sat, 11 Aug 2012 22:11:34 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+KINGDOM BUILDER: $37.95
+Queen Games [QNG 60833]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jan 2012 17:03:15 +0000</listdate>
+    <saledate>Tue, 19 Jun 2012 12:47:52 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>new</condition>
+    <notes>Mint, in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Feb 2012 10:52:38 +0000</listdate>
+    <saledate>Tue, 07 Feb 2012 03:20:54 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Reserved for gamegrl2. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Feb 2012 23:34:52 +0000</listdate>
+    <saledate>Thu, 15 Mar 2012 18:48:47 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Comes with the boardgame geek expansion</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Mar 2012 03:57:59 +0000</listdate>
+    <saledate>Thu, 01 Mar 2012 04:03:48 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>########################
+For user Fizbin44 ONLY
+########################
+Geeklist auction winner
+Shipping is $11.00 and payment must be made through PayPal</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Mar 2012 21:04:13 +0000</listdate>
+    <saledate>Sat, 10 Mar 2012 18:31:20 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Very nice shape, no issues, cards always pile-shuffled (no riffling) so basically pristine. Should be a 4 pound package from zip 80015. I don_T_E_M_P_T_A_G_#039;t charge for packing/handling, and I ship USPS Priority by the lowest rate.
+Please let me know if you have questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Mar 2012 02:44:01 +0000</listdate>
+    <saledate>Mon, 07 May 2012 13:55:57 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played once. In excellent condition.
+Will discuss shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Apr 2012 06:47:36 +0000</listdate>
+    <saledate>Wed, 11 Apr 2012 16:59:40 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>For Patrick Ross (GuppyGamer) only!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Apr 2012 21:06:18 +0000</listdate>
+    <saledate>Thu, 31 May 2012 01:21:23 +0000</saledate>
+    <price currency='USD'>36.49</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG 60832)
+ 
+The latest release from the designer of Dominion. In Kingdom Builder, the players create their own kingdoms by skillfully building their settlements, aiming to earn the most gold at the end of the game. Build an engine to control more tiles, which give access to more abilities -- which help you earn more gold. Each game, players will use a random set of Kingdom Builder cards (3 of the total of 10 cards), special actions (4 of possible 8) and terrain sectors to build the map (4 of 8 tiles), ensuring you won_T_E_M_P_T_A_G_#039;t play the same game twice. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 May 2012 12:35:01 +0000</listdate>
+    <saledate>Mon, 21 May 2012 00:58:35 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Shrink removed from box but all contents unpunched or still in shrink. Mint condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 May 2012 20:20:35 +0000</listdate>
+    <saledate>Sat, 19 May 2012 14:19:41 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>likenew</condition>
+    <notes>Everything is included and in excellent condition.
+Shipping to USA - $11</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 May 2012 02:17:48 +0000</listdate>
+    <saledate>Sat, 10 Nov 2012 14:55:01 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60832)
+ The latest release from the designer of Dominion. In Kingdom Builder, the players create their own kingdoms by skillfully building their settlements, aiming to earn the most gold at the end of the game. Build an engine to control more tiles, which give access to more abilities -- which help you earn more gold. Each game, players will use a random set of Kingdom Builder cards (3 of the total of 10 cards), special actions (4 of possible 8) and terrain sectors to build the map (4 of 8 tiles), ensuring you won_T_E_M_P_T_A_G_#039;t play the same game twice. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jun 2012 15:58:51 +0000</listdate>
+    <saledate>Thu, 05 Jul 2012 10:43:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Only played a couple of times, all components in excellent condition.  </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jun 2012 03:20:36 +0000</listdate>
+    <saledate>Sun, 10 Jun 2012 21:59:47 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Auction win for DainHarper only!
+Please send payment through Paypal to KittyPaws9@gmail.com.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jun 2012 22:28:10 +0000</listdate>
+    <saledate>Sun, 17 Jun 2012 23:17:24 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>***Reserved for user DamonH***</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jul 2012 15:47:46 +0000</listdate>
+    <saledate>Tue, 17 Jul 2012 15:24:42 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>Opened and played a few times, in excellent condition. Includes Capitol expansion.  Gotta clear some games out to make room for new ones, so my loss is your gain. Shipping is $7.00. If you purchase more than one game I_T_E_M_P_T_A_G_#039;ll try to consolidate packages to save shipping . Paypal only please. And sorry, I don_T_E_M_P_T_A_G_#039;t sell to buyers outside of the US.
+Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jul 2012 16:58:16 +0000</listdate>
+    <saledate>Tue, 17 Jul 2012 17:14:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>For Uneyed from the I Have No Reason for Selling These Games auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Jul 2012 14:05:35 +0000</listdate>
+    <saledate>Wed, 15 Aug 2012 02:19:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>*** includes the Capitol promo ***
+sorted / bagged / played once everything in stellar shape
+US buyer agrees to pay for USPS shipping with delivery confirmation.
+Please geekmail me with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Aug 2012 05:05:54 +0000</listdate>
+    <saledate>Wed, 10 Oct 2012 14:13:26 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+KINGDOM BUILDER: $37.95
+Queen Games [QNG 60833]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Sep 2012 02:59:47 +0000</listdate>
+    <saledate>Wed, 05 Sep 2012 04:20:45 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Purchased, punched, and never played.  Get a brand new game (minus the shrink wrap), for about $10 less.
+Shipping based on location. Send me an address and I will send you a quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Sep 2012 23:22:40 +0000</listdate>
+    <saledate>Thu, 13 Sep 2012 00:41:22 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>for slonk_T_E_M_P_T_A_G_#039;s auction win only</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Sep 2012 18:09:10 +0000</listdate>
+    <saledate>Tue, 13 Aug 2013 21:01:20 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>Played Once</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Nov 2012 17:53:02 +0000</listdate>
+    <saledate>Sun, 09 Dec 2012 00:42:01 +0000</saledate>
+    <price currency='USD'>22.5</price>
+    <condition>likenew</condition>
+    <notes>Barely, if ever, played and in perfect condition. 
+Shipping and handling $10.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Nov 2012 02:00:19 +0000</listdate>
+    <saledate>Thu, 29 Nov 2012 14:29:25 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60832)
+The latest release from the designer of Dominion. In Kingdom Builder, the players create their own kingdoms by skillfully building their settlements, aiming to earn the most gold at the end of the game. Build an engine to control more tiles, which give access to more abilities -- which help you earn more gold. Each game, players will use a random set of Kingdom Builder cards (3 of the total of 10 cards), special actions (4 of possible 8) and terrain sectors to build the map (4 of 8 tiles), ensuring you won_T_E_M_P_T_A_G_#039;t play the same game twice. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Nov 2012 19:03:27 +0000</listdate>
+    <saledate>Sun, 02 Dec 2012 23:15:15 +0000</saledate>
+    <price currency='EUR'>28.5</price>
+    <condition>new</condition>
+    <notes>Shipping is:
+without shipping insurance:
+10 EUR to EU and 17 EUR worldwide
+including shipping insurance:
+7 EUR to Germany,18 EUR to EU, 37 EUR to Europe, U.S. and Canada and 44 EUR worldwide
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Nov 2012 01:25:35 +0000</listdate>
+    <saledate>Wed, 12 Dec 2012 05:55:31 +0000</saledate>
+    <price currency='USD'>23.99</price>
+    <condition>likenew</condition>
+    <notes>Mint and complete; played once...s/h is $10.99</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Nov 2012 17:38:26 +0000</listdate>
+    <saledate>Tue, 27 Nov 2012 19:30:09 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>verygood</condition>
+    <notes>For BGG user dagibbs only!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Nov 2012 15:06:59 +0000</listdate>
+    <saledate>Sat, 08 Dec 2012 02:38:53 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60832)
+ 
+The latest release from the designer of Dominion. In Kingdom Builder, the players create their own kingdoms by skillfully building their settlements, aiming to earn the most gold at the end of the game. Build an engine to control more tiles, which give access to more abilities -- which help you earn more gold. Each game, players will use a random set of Kingdom Builder cards (3 of the total of 10 cards), special actions (4 of possible 8) and terrain sectors to build the map (4 of 8 tiles), ensuring you won_T_E_M_P_T_A_G_#039;t play the same game twice. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Dec 2012 02:48:23 +0000</listdate>
+    <saledate>Tue, 08 Jan 2013 17:10:13 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60832)
+ The latest release from the designer of Dominion. In Kingdom Builder, the players create their own kingdoms by skillfully building their settlements, aiming to earn the most gold at the end of the game. Build an engine to control more tiles, which give access to more abilities -- which help you earn more gold. Each game, players will use a random set of Kingdom Builder cards (3 of the total of 10 cards), special actions (4 of possible 8) and terrain sectors to build the map (4 of 8 tiles), ensuring you won_T_E_M_P_T_A_G_#039;t play the same game twice. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Dec 2012 16:17:08 +0000</listdate>
+    <saledate>Sun, 16 Dec 2012 14:35:51 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>likenew</condition>
+    <notes>Played a few times only.  Also contains the Capitol promo.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Jan 2013 23:38:55 +0000</listdate>
+    <saledate>Thu, 21 Feb 2013 19:54:54 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>Played with fiance twice, doesn_T_E_M_P_T_A_G_#039;t really want to play again.  Everything in excellent condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jan 2013 02:24:08 +0000</listdate>
+    <saledate>Tue, 29 Jan 2013 12:08:16 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Played 4 times, my wife doesnt like it, perfect condition, all abgged for easy setup etc</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Feb 2013 02:11:40 +0000</listdate>
+    <saledate>Mon, 20 May 2013 16:49:57 +0000</saledate>
+    <price currency='USD'>31.95</price>
+    <condition>likenew</condition>
+    <notes>opened but never played</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Feb 2013 21:16:17 +0000</listdate>
+    <saledate>Wed, 20 Feb 2013 03:06:51 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>This game has already been purchased through game auction.
+http://boardgamegeek.com/geeklist/153606/item/2522878#item2522878
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Feb 2013 17:01:04 +0000</listdate>
+    <saledate>Mon, 15 Apr 2013 12:41:01 +0000</saledate>
+    <price currency='EUR'>39.5</price>
+    <condition>new</condition>
+    <notes>2-4 plyers (Queen Games)
+Languages; English, Français, Nederlands, Deutsch, Español</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Mar 2013 20:19:40 +0000</listdate>
+    <saledate>Sun, 03 Mar 2013 20:18:59 +0000</saledate>
+    <price currency='USD'>27.5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Mar 2013 16:34:46 +0000</listdate>
+    <saledate>Sat, 09 Mar 2013 08:04:30 +0000</saledate>
+    <price currency='EUR'>1.01</price>
+    <condition>new</condition>
+    <notes>Reserved for lumivarjo! ###
+Selling only the English victory point cards. Nothing else :)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Mar 2013 14:46:36 +0000</listdate>
+    <saledate>Sun, 10 Mar 2013 21:26:29 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>For auction winner SiddGames only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Mar 2013 20:14:16 +0000</listdate>
+    <saledate>Mon, 11 Mar 2013 23:46:57 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60831F)
+ 
+The latest release from the designer of Dominion. In Kingdom Builder, the players create their own kingdoms by skillfully building their settlements, aiming to earn the most gold at the end of the game. Build an engine to control more tiles, which give access to more abilities -- which help you earn more gold. Each game, players will use a random set of Kingdom Builder cards (3 of the total of 10 cards), special actions (4 of possible 8) and terrain sectors to build the map (4 of 8 tiles), ensuring you won_T_E_M_P_T_A_G_#039;t play the same game twice. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Mar 2013 22:22:50 +0000</listdate>
+    <saledate>Tue, 16 Apr 2013 18:59:51 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>played once</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Apr 2013 02:52:31 +0000</listdate>
+    <saledate>Thu, 04 Apr 2013 12:22:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Reserved for auction winner cayluster.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Apr 2013 01:53:10 +0000</listdate>
+    <saledate>Sun, 21 Apr 2013 17:23:58 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>verygood</condition>
+    <notes>very good condition.
+Combined shipping ok. Postage by Click and Send http://auspost.com.au/parcels-mail/ebay-flat-rate-satchels-and-boxes.html
+Bank Deposit preferred
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Apr 2013 14:45:30 +0000</listdate>
+    <saledate>Mon, 15 Apr 2013 16:35:32 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This is for use _T_E_M_P_T_A_G_quot;pa5t0rd_T_E_M_P_T_A_G_quot; only. It includes:
+Kingdom Builder
+Kingdom Builder - Capitol
+Anima: Shadow of Omega
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Apr 2013 16:12:48 +0000</listdate>
+    <saledate>Fri, 26 Apr 2013 19:06:47 +0000</saledate>
+    <price currency='GBP'>27</price>
+    <condition>good</condition>
+    <notes>reserved for auction winner: Sstar</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Apr 2013 12:44:13 +0000</listdate>
+    <saledate>Mon, 12 Aug 2013 03:33:20 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played only a few times.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Apr 2013 15:03:51 +0000</listdate>
+    <saledate>Sat, 11 May 2013 12:21:23 +0000</saledate>
+    <price currency='EUR'>38</price>
+    <condition>new</condition>
+    <notes>2-4 players (Queen Games)
+Languages: English, Français, Nederlands, Español, Deutsch</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Apr 2013 15:04:09 +0000</listdate>
+    <saledate>Mon, 29 Apr 2013 18:44:18 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Apr 2013 04:43:46 +0000</listdate>
+    <saledate>Tue, 30 Apr 2013 16:34:13 +0000</saledate>
+    <price currency='USD'>27.99</price>
+    <condition>likenew</condition>
+    <notes>includes capitol promo. complete game with insert this copy only played once. Check my many other game listings for combined shipping. Expansion game also listed separately.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Apr 2013 16:17:02 +0000</listdate>
+    <saledate>Thu, 23 May 2013 17:21:26 +0000</saledate>
+    <price currency='EUR'>12.9</price>
+    <condition>verygood</condition>
+    <notes>By Queen Games - played just once.
+Shipping is:
+without shipping insurance:
+10 EUR to EU and 17 EUR worldwide
+including shipping insurance:
+7 EUR to Germany,18 EUR to EU, 37 EUR to Europe, U.S. and Canada and 44 EUR worldwide</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 May 2013 03:38:02 +0000</listdate>
+    <saledate>Mon, 06 May 2013 04:43:25 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>likenew</condition>
+    <notes>Like new. With custom storage boxes! Awesome game, but we have a duplicate.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 May 2013 09:55:48 +0000</listdate>
+    <saledate>Thu, 30 May 2013 02:12:48 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>Auction win -- may only be purchased by Wizard Johnson (exitthewizard).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Jun 2013 04:26:53 +0000</listdate>
+    <saledate>Fri, 07 Jun 2013 13:19:48 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Reserved for auction winner bric</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Jun 2013 03:23:06 +0000</listdate>
+    <saledate>Mon, 10 Jun 2013 03:48:48 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Reserved for ShawnI, who won this game in an auction.
+Local pick up.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Jun 2013 05:51:03 +0000</listdate>
+    <saledate>Mon, 10 Jun 2013 19:03:14 +0000</saledate>
+    <price currency='USD'>41</price>
+    <condition>verygood</condition>
+    <notes>***reserved for user tobyjason</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Jun 2013 20:40:13 +0000</listdate>
+    <saledate>Mon, 17 Jun 2013 03:05:02 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Played two or three times. Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Jun 2013 10:42:12 +0000</listdate>
+    <saledate>Tue, 23 Jul 2013 16:12:03 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60832F)
+The latest release from the designer of Dominion. In Kingdom Builder, the players create their own kingdoms by skillfully building their settlements, aiming to earn the most gold at the end of the game. Build an engine to control more tiles, which give access to more abilities -- which help you earn more gold. Each game, players will use a random set of Kingdom Builder cards (3 of the total of 10 cards), special actions (4 of possible 8) and terrain sectors to build the map (4 of 8 tiles), ensuring you won_T_E_M_P_T_A_G_#039;t play the same game twice. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jul 2013 09:53:50 +0000</listdate>
+    <saledate>Thu, 29 Aug 2013 14:31:28 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>Queen Games edition
+New and shrink-wrapped, smoke free home
+Shipping within Germany 4,5€ - please ask for international rates (e.g. Europe some countries 9€, USA 19€)
+Bank transfer by IBAN/BIC preferred. Paypal is possible, but buyer pays the fees</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jul 2013 15:57:28 +0000</listdate>
+    <saledate>Thu, 13 Mar 2014 03:59:05 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60832F)
+The latest release from the designer of Dominion. In Kingdom Builder, the players create their own kingdoms by skillfully building their settlements, aiming to earn the most gold at the end of the game. Build an engine to control more tiles, which give access to more abilities -- which help you earn more gold. Each game, players will use a random set of Kingdom Builder cards (3 of the total of 10 cards), special actions (4 of possible 8) and terrain sectors to build the map (4 of 8 tiles), ensuring you won_T_E_M_P_T_A_G_#039;t play the same game twice. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Jul 2013 17:55:12 +0000</listdate>
+    <saledate>Mon, 29 Jul 2013 18:56:25 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This is for user Freest Rolexes, please do not purchase. 
+This is for Kingdom builder as described in my auction. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Aug 2013 18:36:27 +0000</listdate>
+    <saledate>Mon, 12 Aug 2013 18:57:04 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Ben Smith - auction win.
+Will send total price (including shipping) and paypal payment instructions once I have your shipping address.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Aug 2013 23:38:16 +0000</listdate>
+    <saledate>Thu, 12 Dec 2013 04:54:45 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Kingdom Builder + Nomads expansion. Will all be shipped in single box; the Kingdom Builder box. 
+Played 3 times, VG condition.
+Flat rate of $12 shipping anywhere in the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Sep 2013 17:22:51 +0000</listdate>
+    <saledate>Sat, 28 Sep 2013 16:13:11 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>In like new condition only played two times.  Buyer to pay actual USPS shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Oct 2013 02:33:08 +0000</listdate>
+    <saledate>Sat, 05 Oct 2013 02:50:07 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Reserved for smedleyx.
+Incl exp etc.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Oct 2013 01:12:39 +0000</listdate>
+    <saledate>Thu, 10 Oct 2013 07:27:44 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Minor shelf wear on box.  All the boards, bits, and pieces are in great shape.  Feel free to ask for a shipping estimate.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Oct 2013 02:12:07 +0000</listdate>
+    <saledate>Mon, 21 Oct 2013 12:42:19 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Reserved for avsfan in geeklist auction</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Oct 2013 10:56:02 +0000</listdate>
+    <saledate>Wed, 12 Mar 2014 17:16:48 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>new</condition>
+    <notes>For User Big Bad Broloski only.
+German Edition.
+New and in foil
+EU-Shipping: 8,9€
+Germany: 5,9€
+Worldwide: 14,9€
+WW and EU uninsured. You can add 2€ for insurance.
+Payable with Bank Transfer, Amazon.de-Voucher or Paypal. If you choose Paypal the fees are on you.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Oct 2013 17:48:44 +0000</listdate>
+    <saledate>Tue, 21 Jan 2014 18:30:22 +0000</saledate>
+    <price currency='GBP'>23</price>
+    <condition>new</condition>
+    <notes>
+I add a copy of English rules, fully colour.
+Brand new still shrink wrapped. Please ask for shipping costs.
+I live in Oxford so feel free about picking the game up in person if you_T_E_M_P_T_A_G_#039;re in that area.
+Only in UK.
+I am happy to combine items from my marketplace to make the postage cheapest possible.
+The buyer have to pay the paypal fee.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Oct 2013 01:50:51 +0000</listdate>
+    <saledate>Mon, 30 Dec 2013 19:55:41 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>Shrink wrapped removed. Everything else is the same as a new game in mint condition and never played.
+Pictures available upon request via email.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Nov 2013 03:26:12 +0000</listdate>
+    <saledate>Mon, 04 Nov 2013 16:24:30 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>new</condition>
+    <notes>RESERVED FOR simmons27</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Dec 2013 23:45:21 +0000</listdate>
+    <saledate>Tue, 10 Dec 2013 00:14:43 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Christmas Sale: Just making room for new games for 2014 by getting rid of games we_T_E_M_P_T_A_G_#039;ve played so much we feel ok in letting go. Kingdom Builder comes with the Nomads expansion, this game just never seemed to hit it off in our group, although a couple of us loved it. Never sees the table enough.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Dec 2013 01:34:46 +0000</listdate>
+    <saledate>Tue, 17 Dec 2013 18:07:46 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>new</condition>
+    <notes>Reserved for Smore</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jan 2014 11:23:18 +0000</listdate>
+    <saledate>Sat, 08 Mar 2014 11:58:32 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>verygood</condition>
+    <notes>This is the German edition, but I_T_E_M_P_T_A_G_#039;ve added a full set of English cards so the game is fully _T_E_M_P_T_A_G_#039;Anglicised_T_E_M_P_T_A_G_#039;.
+English rules also included.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jan 2014 18:31:17 +0000</listdate>
+    <saledate>Fri, 24 Jan 2014 22:34:47 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Contains Base game as well as Nomads Expansion and Capitals promo expansion. The Expansion box is gone and all components have been consolidated into base game box.
+Reserved for Mckeon13</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jan 2014 19:26:55 +0000</listdate>
+    <saledate>Wed, 22 Jan 2014 22:58:33 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>For renstru. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Feb 2014 16:46:12 +0000</listdate>
+    <saledate>Sun, 09 Feb 2014 21:28:24 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>German edition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Feb 2014 04:04:34 +0000</listdate>
+    <saledate>Thu, 27 Mar 2014 04:05:57 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New in original shrinkwrap.
+Shipping is $15 to continental US. Payment via Venmo preferred ($1 discount when paying via Venmo). Paypal is also accepted.
+PLEASE CLICK ON MY USERNAME TO SEE MY OTHER SALES - I COMBINE SHIPPING AT 5.00 PER EXTRA GAME. You can also pick up in Chicago at no cost!
+I sell exclusively through BGG, so buying from me always goes back to the site. I always have the lowest price for my edition and condition.
+Feel free to ask any questions!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Feb 2014 00:28:08 +0000</listdate>
+    <saledate>Wed, 16 Apr 2014 03:30:26 +0000</saledate>
+    <price currency='AUD'>45</price>
+    <condition>verygood</condition>
+    <notes>English edition. Played once.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage.
+Local pickup in St Ives is available.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Feb 2014 03:15:14 +0000</listdate>
+    <saledate>Mon, 24 Feb 2014 04:07:29 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>* Held for auction Winner Drew Hicks *</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Mar 2014 03:33:44 +0000</listdate>
+    <saledate>Sat, 01 Mar 2014 07:33:47 +0000</saledate>
+    <price currency='USD'>180</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR AUCTION WINNER DOCSVEN
+Played a couple times. Comes with Nomads and Crossroads in the box. I have the boxes if you want them. Everything is in excellent condition.
+The Capitol expansion is also included.
+Also in this listing is the Kingdom Builder Caves expansion, new in baggie and unpunched.
+Also in this listing is Cadwallon: City of Thieves. 2010 edition. Played once, but everything is in great condition. I will include the Duke of Cadwallon figure, still in the box.
+Also in this listing is the King of Ashes expansion, new in shrink.
+Finally in this listing is the Cadwallon City of Thieves Painted Miniatures, Set A and Set B, still in their boxes.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Mar 2014 16:16:23 +0000</listdate>
+    <saledate>Sun, 02 Mar 2014 18:04:37 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>likenew</condition>
+    <notes>Reserved for LunaUA</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Mar 2014 02:45:03 +0000</listdate>
+    <saledate>Wed, 11 Jun 2014 05:52:11 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>NIS.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Mar 2014 21:24:50 +0000</listdate>
+    <saledate>Mon, 05 May 2014 14:46:49 +0000</saledate>
+    <price currency='EUR'>12.99</price>
+    <condition>new</condition>
+    <notes>German Edition.
+New and in foil
+EU-Shipping: 8,9€
+Germany: 5,9€
+Worldwide: 14,9€
+WW and EU uninsured. You can add 2€ for insurance.
+Payable with Bank Transfer, Amazon.de-Voucher or Paypal. If you choose Paypal the fees are on you.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Apr 2014 01:13:38 +0000</listdate>
+    <saledate>Fri, 04 Apr 2014 01:08:43 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Kingdom Builder and Masons
+For user riverc0il ONLY</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Apr 2014 02:10:53 +0000</listdate>
+    <saledate>Fri, 16 May 2014 15:52:08 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played twice. Box and all components are in excellent condition. Send zip code for an accurate shipping quote from MA 01970. Take $2 off of each additional game purchased from my marketplace with this order. In other words, if you buy 3 games your total discount would be $4. Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Apr 2014 23:46:08 +0000</listdate>
+    <saledate>Sat, 06 Sep 2014 22:06:59 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>New in original shrinkwrap. Very light shelfwear on one box corner.
+Shipping is $15 to continental US. Payment via Venmo preferred ($1 discount when paying via Venmo). Paypal is also accepted.
+PLEASE CLICK ON MY USERNAME TO SEE MY OTHER SALES - I COMBINE SHIPPING AT 5.00 PER EXTRA GAME. You can also pick up in Chicago at no cost!
+I sell exclusively through BGG, so buying from me always goes back to the site. I always have the lowest price for my edition and condition.
+Feel free to ask any questions!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Apr 2014 17:15:33 +0000</listdate>
+    <saledate>Fri, 09 May 2014 17:07:39 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>New in Shrink. 
+Shipping from 94587 California. Buyer pays shipping. 
+Local pick up a possibility, please ask. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 May 2014 15:53:32 +0000</listdate>
+    <saledate>Tue, 06 May 2014 17:11:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Components punched, sorted and bagged but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 May 2014 15:47:14 +0000</listdate>
+    <saledate>Wed, 18 Jun 2014 06:27:34 +0000</saledate>
+    <price currency='EUR'>12.99</price>
+    <condition>new</condition>
+    <notes>New and in foil. German edition.
+EU-Shipping: 8,6€
+Germany: 5,9€
+Worldwide: 14,9€
+WW and EU uninsured. You can add 3€ for insurance.
+Payable with Bank Transfer, Amazon.de-Voucher or Paypal. If you choose Paypal the fees are on you.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 May 2014 04:18:00 +0000</listdate>
+    <saledate>Mon, 28 Jul 2014 18:37:35 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>Buyer pays shipping, or local pickup in Chicago</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 May 2014 08:25:51 +0000</listdate>
+    <saledate>Mon, 26 May 2014 17:43:07 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Steven Heinrich</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jun 2014 20:52:15 +0000</listdate>
+    <saledate>Tue, 10 Jun 2014 06:11:25 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>likenew</condition>
+    <notes>Photos on Request</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jun 2014 17:51:05 +0000</listdate>
+    <saledate>Mon, 11 Aug 2014 20:13:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>New in Shrink. 
+Shipping from 94587 California. Buyer pays shipping.
+I will ship via USPS Flat rate Medium Box. 
+Local pick up a possibility, please ask. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Jun 2014 19:14:29 +0000</listdate>
+    <saledate>Thu, 03 Jul 2014 07:58:16 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Counted and complete.
+Includes the capitol promo.
+Will combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jun 2014 20:50:52 +0000</listdate>
+    <saledate>Tue, 01 Jul 2014 06:27:48 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/174345/item/3256021#3256021]Item for Geeklist _T_E_M_P_T_A_G_quot;DixiJos monthly charity auction (Free worldwide shipping)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Jul 2014 03:55:37 +0000</listdate>
+    <saledate>Tue, 01 Jul 2014 03:58:09 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/175346/item/3292547#3292547]Item for Geeklist _T_E_M_P_T_A_G_quot;Second Summer Auction - US only - Ends 6/29_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for Pip Count 167
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Aug 2014 02:30:39 +0000</listdate>
+    <saledate>Sat, 16 Aug 2014 02:32:15 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Auction lot for Elacor
+Kingdom Builder
+Payment to be made via Amazon gift card</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Aug 2014 23:12:42 +0000</listdate>
+    <saledate>Thu, 04 Sep 2014 18:22:04 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>In excellent condition--played 3 times.  One of the boards has a manufacturing defect--the surface is slightly rippled.  It is hard to see and does not impact play.  (Queen might replace this, I never asked.)
+Buyer will pay actual shipping costs, not included in the price above.  Local pickup is available in the Baltimore, Maryland area.  Cash payment is an option for local pick up only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Sep 2014 14:33:54 +0000</listdate>
+    <saledate>Mon, 15 Sep 2014 17:05:45 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/177905/item/3418177#3418177]Item for Geeklist _T_E_M_P_T_A_G_quot;European Sellers Auction Geeklist: Mid Aug 2014 to mid Sept 2014_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Sep 2014 09:22:21 +0000</listdate>
+    <saledate>Thu, 25 Sep 2014 14:42:45 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/177328/item/3425401#3425401]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2014 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Oct 2014 04:56:09 +0000</listdate>
+    <saledate>Tue, 07 Oct 2014 05:55:12 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/177328/item/3450234#3450234]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2014 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Oct 2014 17:06:37 +0000</listdate>
+    <saledate>Sun, 26 Oct 2014 12:39:37 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Title: Kingdom Builder
+Publisher: Queen
+Version: 2011
+Language(s): English, German, French, Dutch, Spanish
+Condition: Very good - slight box wear, components like new.
+Weight: 1700g + packaging.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Oct 2014 18:08:27 +0000</listdate>
+    <saledate>Fri, 31 Oct 2014 14:13:04 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>likenew</condition>
+    <notes>I would also include the _T_E_M_P_T_A_G_quot;Capitol_T_E_M_P_T_A_G_quot; expansion at no extra cost. The box, components, and manual are in great condition. The game has only been played once. Let me know if you are interested!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Oct 2014 16:48:32 +0000</listdate>
+    <saledate>Thu, 06 Nov 2014 12:37:53 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60832F)
+The latest release from the designer of Dominion. In Kingdom Builder, the players create their own kingdoms by skillfully building their settlements, aiming to earn the most gold at the end of the game. Build an engine to control more tiles, which give access to more abilities -- which help you earn more gold. Each game, players will use a random set of Kingdom Builder cards (3 of the total of 10 cards), special actions (4 of possible 8) and terrain sectors to build the map (4 of 8 tiles), ensuring you won_T_E_M_P_T_A_G_#039;t play the same game twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Dec 2013 18:52:26 +0000</listdate>
+    <saledate>Sat, 29 Nov 2014 20:27:30 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>The shipping charge to a US location is the actual USPS priority mail rate or the FedEx rate for a 4 pound package from zip code 22801, whichever is less. International buyers and buyers of multiple items may contact me for shipping quotes.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Nov 2014 04:29:33 +0000</listdate>
+    <saledate>Tue, 02 Dec 2014 14:33:54 +0000</saledate>
+    <price currency='USD'>35.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+KINGDOM BUILDER: $35.95
+Queen Games [QNG 60833]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Dec 2014 22:29:09 +0000</listdate>
+    <saledate>Tue, 23 Dec 2014 06:30:34 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/183063/item/3601294#3601294]Item for Geeklist _T_E_M_P_T_A_G_quot;It_T_E_M_P_T_A_G_#039;s Beginning to Look a Lot Like Christmas Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jan 2015 04:53:47 +0000</listdate>
+    <saledate>Wed, 28 Jan 2015 04:54:08 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>DO NOT PURCHASE JUST TO GET BGG ITS 3%</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Mar 2014 02:04:49 +0000</listdate>
+    <saledate>Sat, 21 Feb 2015 21:13:22 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>All pieces present.  Buyer pays additional shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Dec 2014 12:44:54 +0000</listdate>
+    <saledate>Sun, 22 Feb 2015 11:47:14 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Dec 2014 00:46:13 +0000</listdate>
+    <saledate>Mon, 09 Mar 2015 03:52:38 +0000</saledate>
+    <price currency='USD'>51</price>
+    <condition>verygood</condition>
+    <notes>Includes base game, also Nomads, Crossroads, and cave tiles. Everything is contained in Crossroads box with insert removed, no other boxes.
+Free shipping.
+Any questions please ask.
+non-smoker</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Mar 2015 18:06:09 +0000</listdate>
+    <saledate>Sun, 15 Mar 2015 19:12:55 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>This is for a lot of Kingdom Builder plus the following expansion, combined in the base game box:
+[thing=117793][/thing]
+Base game has been played well but is in great shape.  I bought the Big Box, so selling my duplicates.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Mar 2015 18:04:23 +0000</listdate>
+    <saledate>Mon, 16 Mar 2015 02:25:50 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/188399/item/3780543#3780543]Item for Geeklist _T_E_M_P_T_A_G_quot;Pi Day Game Auction! Ends 03/14/15 (46808)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Apr 2015 17:52:44 +0000</listdate>
+    <saledate>Sat, 04 Apr 2015 18:06:55 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>For user inexorable74 only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Mar 2015 05:17:02 +0000</listdate>
+    <saledate>Tue, 07 Apr 2015 02:53:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>very nice condition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Feb 2015 15:58:15 +0000</listdate>
+    <saledate>Tue, 14 Apr 2015 01:15:01 +0000</saledate>
+    <price currency='USD'>25.95</price>
+    <condition>verygood</condition>
+    <notes>played a few times, all pieces in great condition.
+actual shipping covered by buyer (will ship cheapest method: USPS, FedEx or UPS)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Apr 2015 05:55:50 +0000</listdate>
+    <saledate>Sat, 23 May 2015 02:58:03 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>★ CURRENT SALE: 10%! List price reflects discount
+★ Condition: Brand new in shrink wrap
+☆ Same as:
+http://amzn.to/1cafcVA
+——————
+★ Shipping Information
+Shipping: $9.50 Expedited (US ONLY)
+No combined shipping discounts
+No international shipping
+——————
+★ Sales Tax
+Sales Tax collected for the following states: AZ, CA, CT, FL, GA, IL, IN, KS, MD, MA, MN, NV, NJ, NY, NC, ND, PA, TN, TX, VA, WA, WV, WI
+——————
+★ Accepted Payment Methods:
+☆ Same Day - One Day Processing:
+* Debit Card (Visa _T_E_M_P_T_A_G_amp; MC)
+* Google Wallet
+* Venmo
+* Bitcoin
+☆ Extra 2-5 Day Processing:
+* Verified Paypal
+Non-payment will result in order cancellation. Please pay promptly within 24 hours following order confirmation to prevent cancellation. Price fluctuations may cause order cancellation. Prompt payment will help prevent cancellation due to fluctuations.
+Please be sure to include your entire address (including ZIP code) on your account prior to submitting your order.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 May 2015 14:05:56 +0000</listdate>
+    <saledate>Sat, 23 May 2015 15:06:07 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>likenew</condition>
+    <notes>Offered in a set with the Kingdom Builder - Nomads expansion. Set price is 15 Euros.
+Unpacked and one quick play test.
+Condition like new.
+Worldwide shipping or local pick up in Berlin (Germany).
+I always ship immediately after payment,
+If you have any questions don_T_E_M_P_T_A_G_#039;t hesitate to leave me a message.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 May 2015 08:12:07 +0000</listdate>
+    <saledate>Tue, 26 May 2015 13:41:50 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>new</condition>
+    <notes>German-SdJ-Edition 2012 Queen Games. Shrinkwrapped.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jun 2015 12:40:43 +0000</listdate>
+    <saledate>Mon, 01 Jun 2015 13:56:34 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>For gilgilad ONLY.  Auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jun 2015 02:26:10 +0000</listdate>
+    <saledate>Wed, 03 Jun 2015 22:36:21 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Not for sale. Purchased in an auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Mar 2015 23:43:17 +0000</listdate>
+    <saledate>Sat, 13 Jun 2015 12:24:07 +0000</saledate>
+    <price currency='AUD'>30</price>
+    <condition>likenew</condition>
+    <notes>Game components are in excellent condition and individually sealed in zip-lock bags.
+Insert is still in box and in excellent condition.
+Top cover of box has a slight crease along bottom right edge, maybe 2cm long.
+Comes with the Capitol promo card included.
+Shipping to Australia only: $15.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Jun 2015 15:03:10 +0000</listdate>
+    <saledate>Mon, 22 Jun 2015 17:34:19 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>likenew</condition>
+    <notes>Played 3 times total, in great shape. Add $10 for shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Jul 2015 00:37:00 +0000</listdate>
+    <saledate>Wed, 15 Jul 2015 01:45:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>listing for letmebefree auction win. ITEM FOR LETMEBEFREE ONLY!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Jul 2015 20:04:14 +0000</listdate>
+    <saledate>Sun, 26 Jul 2015 21:51:33 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>DO NOT PURCHASE UNLESS YOU ARE Cesar D Soto.  Won in game auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Jul 2015 00:10:28 +0000</listdate>
+    <saledate>Wed, 29 Jul 2015 00:18:33 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>hobbyboy
+This sale has been auto-generated for the auction: [geekurl=/geeklist/193973/item/4018099#4018099]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction for Ronald McDonald House - Gen Con Pickup or U.S. Shipping_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Jun 2015 05:58:30 +0000</listdate>
+    <saledate>Fri, 31 Jul 2015 20:20:19 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Game is in Like New condition. Box was opened and components looked through, but the game has never been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jun 2015 10:15:27 +0000</listdate>
+    <saledate>Mon, 03 Aug 2015 11:58:24 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>the price includes the German versions of :
+a) base game (with printed English and Greek rules)
+b) Nomads (includes all the scoring cards in English, Spanish, French, Dutch languages and printed English rules)
+c) Capitol expansion (p_T_E_M_P_T_A_G_#039;n_T_E_M_P_T_A_G_#039;p english version) 
+d) Caves expansion (p_T_E_M_P_T_A_G_#039;n_T_E_M_P_T_A_G_#039;p english version)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Aug 2015 13:06:29 +0000</listdate>
+    <saledate>Tue, 18 Aug 2015 21:12:06 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>This item is for auction winner Zulu_Warrior</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Jul 2015 06:36:29 +0000</listdate>
+    <saledate>Fri, 28 Aug 2015 06:26:57 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>verygood</condition>
+    <notes>Complete and Very Good Condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Sep 2015 15:29:20 +0000</listdate>
+    <saledate>Wed, 02 Sep 2015 16:22:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/195654/item/4094900#4094900]Item for Geeklist _T_E_M_P_T_A_G_quot;Another auction _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Jul 2015 13:48:39 +0000</listdate>
+    <saledate>Sat, 19 Sep 2015 22:53:29 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>new</condition>
+    <notes>Sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Sep 2013 12:08:36 +0000</listdate>
+    <saledate>Wed, 23 Sep 2015 20:02:31 +0000</saledate>
+    <price currency='EUR'>37.5</price>
+    <condition>new</condition>
+    <notes>2-4 players (Queen Games)
+Languages: English, Français, Nederlands, Español, Deutsch</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Sep 2015 14:39:32 +0000</listdate>
+    <saledate>Sat, 03 Oct 2015 13:37:28 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194495/item/4114978#4114978]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2015 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Oct 2015 22:16:32 +0000</listdate>
+    <saledate>Sat, 03 Oct 2015 13:59:36 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>Hi.
+You won the auction. Stop by the Portal booth on friday, saturday or sunday to pick up your game. I work there. 
+Do you want to pay in cash or Paypal?
+This sale has been auto-generated for the auction: [geekurl=/geeklist/194495/item/4164835#4164835]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2015 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Oct 2015 03:00:18 +0000</listdate>
+    <saledate>Sat, 24 Oct 2015 01:05:12 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Shrink wrap
+PayPal or US Postal Money Order
+Other methods of payment may be accepted but contact me before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Aug 2015 04:01:10 +0000</listdate>
+    <saledate>Sat, 21 Nov 2015 01:12:17 +0000</saledate>
+    <price currency='CAD'>22</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Nov 2015 22:46:16 +0000</listdate>
+    <saledate>Tue, 01 Dec 2015 17:34:59 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>likenew</condition>
+    <notes>Played only a few times.  Minor crease on front of box (was there when purchased new).
+Will combine with other orders for reduced shipping.
+AVAILABLE FOR LOCAL PICKUP (ORANGE COUNTY, CA)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Dec 2015 22:44:26 +0000</listdate>
+    <saledate>Wed, 02 Dec 2015 23:13:59 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2015 05:25:34 +0000</listdate>
+    <saledate>Wed, 09 Dec 2015 10:08:26 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>Played once. No missing components. All cards are sleeved!
+Shipping from 22203, but local pickup can be arranged within the DC metro area.
+~4 lb shipping.
+My paypal address is: miek.n.iek@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Nov 2015 12:13:35 +0000</listdate>
+    <saledate>Thu, 10 Dec 2015 23:50:08 +0000</saledate>
+    <price currency='GBP'>19.99</price>
+    <condition>likenew</condition>
+    <notes>Game has been lovingly looked after as part of my game collection in smoke and pet free home and is in really great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Jun 2014 14:07:51 +0000</listdate>
+    <saledate>Fri, 11 Dec 2015 23:54:17 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Another guy in our group is getting the big box so no point in having two copies. Played a few times but in great shape. Includes Nomads expansion, caves expansion and capitols expansion. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Oct 2015 00:21:52 +0000</listdate>
+    <saledate>Fri, 25 Dec 2015 21:04:41 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Only played a handful times. Buyer pays shipping. PayPal and US shipping only please. Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Oct 2015 09:08:35 +0000</listdate>
+    <saledate>Wed, 13 Jan 2016 23:47:23 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jan 2016 10:50:23 +0000</listdate>
+    <saledate>Mon, 08 Feb 2016 16:25:05 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Feb 2016 04:35:13 +0000</listdate>
+    <saledate>Mon, 29 Feb 2016 04:18:36 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Mar 2016 14:57:41 +0000</listdate>
+    <saledate>Wed, 16 Mar 2016 07:37:19 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>new</condition>
+    <notes>Paypal: +1€ for fees</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Mar 2016 13:29:40 +0000</listdate>
+    <saledate>Thu, 24 Mar 2016 00:13:26 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Shipping USPS Priority.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 May 2016 21:49:42 +0000</listdate>
+    <saledate>Mon, 09 May 2016 02:07:53 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Includes Capitols and Caves promos in the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jun 2016 13:33:06 +0000</listdate>
+    <saledate>Tue, 14 Jun 2016 00:15:46 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208301/item/4638703#4638703]Item for Geeklist _T_E_M_P_T_A_G_quot;Origins Virtual Flea Market 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Jan 2016 12:30:38 +0000</listdate>
+    <saledate>Thu, 16 Jun 2016 18:27:41 +0000</saledate>
+    <price currency='EUR'>8.9</price>
+    <condition>likenew</condition>
+    <notes>Unplayed.
+1500 g</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jun 2016 07:15:09 +0000</listdate>
+    <saledate>Wed, 22 Jun 2016 14:25:41 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>new</condition>
+    <notes>Shipping will be calculated based on where it is to be sent.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 May 2016 16:57:54 +0000</listdate>
+    <saledate>Thu, 23 Jun 2016 18:42:09 +0000</saledate>
+    <price currency='EUR'>11</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jul 2016 12:21:24 +0000</listdate>
+    <saledate>Mon, 04 Jul 2016 00:47:57 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This contains the Nomads expansion.  Also the Capitol and the Caves.  This is all contained in the main game box, but I switched inserts and used the Nomads insert so that everything would fit.  The expansion box and main game insert will not be included.
+Will ship USPS priority.
+Payment through Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jul 2016 07:36:25 +0000</listdate>
+    <saledate>Sun, 10 Jul 2016 13:33:41 +0000</saledate>
+    <price currency='EUR'>9.99</price>
+    <condition>new</condition>
+    <notes>Still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jul 2016 21:42:56 +0000</listdate>
+    <saledate>Wed, 20 Jul 2016 15:37:45 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>new, unpunched
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Aug 2016 10:49:44 +0000</listdate>
+    <saledate>Sat, 13 Aug 2016 15:43:57 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>good</condition>
+    <notes>£5 delivery to the UK only. London Pickup/London on Board pickup possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Aug 2016 05:10:52 +0000</listdate>
+    <saledate>Mon, 15 Aug 2016 05:25:01 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/212175/item/4781551#4781551]Item for Geeklist _T_E_M_P_T_A_G_quot;Play my games because I don_T_E_M_P_T_A_G_#039;t - Auction - Ends 8/14_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Aug 2016 16:35:08 +0000</listdate>
+    <saledate>Tue, 16 Aug 2016 04:45:06 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205795/item/4745613#4745613]Item for Geeklist _T_E_M_P_T_A_G_quot;Clearing the Closet Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jul 2016 06:58:37 +0000</listdate>
+    <saledate>Mon, 29 Aug 2016 11:09:47 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>likenew</condition>
+    <notes>Prefer payment by direct deposit.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Aug 2016 01:17:21 +0000</listdate>
+    <saledate>Sat, 03 Sep 2016 01:39:14 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Played once.  Complete and in perfect condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Sep 2016 10:46:58 +0000</listdate>
+    <saledate>Wed, 07 Sep 2016 15:58:57 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Includes Nomads expansion</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Aug 2016 20:23:10 +0000</listdate>
+    <saledate>Thu, 15 Sep 2016 12:56:48 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>German copy but has got English cards  
+Have printed copy of instructions in English in box.
+In good condition, only played a few times
+UK shipping £4, enquire for other locations</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Sep 2016 03:26:06 +0000</listdate>
+    <saledate>Tue, 20 Sep 2016 20:17:53 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>Listing for HaNd_SoLo exclusively for auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2016 09:33:49 +0000</listdate>
+    <saledate>Sat, 22 Oct 2016 11:59:37 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>German edition of the game but with a print out of the English rules provided.
+No text in-game except for scoring cards which are translated in the rulebook.
+Buyer to pay shipping costs.
+No additional charges on top of carriers (e.g. UK 2nd Class - £2.85)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2016 13:39:57 +0000</listdate>
+    <saledate>Mon, 24 Oct 2016 19:02:58 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Game is in great shape! Only played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Feb 2016 12:53:22 +0000</listdate>
+    <saledate>Tue, 08 Nov 2016 01:02:05 +0000</saledate>
+    <price currency='GBP'>24</price>
+    <condition>new</condition>
+    <notes>shrink-wrapped</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Dec 2016 03:47:58 +0000</listdate>
+    <saledate>Sun, 04 Dec 2016 07:08:14 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/217556/item/5046706#5046706]Item for Geeklist _T_E_M_P_T_A_G_quot;Christmas Fund Auction - Ends 12/3_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Sep 2016 17:27:55 +0000</listdate>
+    <saledate>Fri, 09 Dec 2016 03:48:16 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Played once. Free shipping to BGG Con.
+Note that I also Crossroads expansion (separate listing) and will send both together to save shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Dec 2016 03:34:18 +0000</listdate>
+    <saledate>Tue, 03 Jan 2017 15:56:37 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>All components in excellent condition.
+Shipping is from 43224.
+I will gladly combine shipping on multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2017 05:48:14 +0000</listdate>
+    <saledate>Sat, 07 Jan 2017 08:47:56 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205983/item/4502082#4502082]Item for Geeklist _T_E_M_P_T_A_G_quot;Save My Games Before My Child Destroys It All_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Dec 2016 21:14:48 +0000</listdate>
+    <saledate>Tue, 10 Jan 2017 19:28:08 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened, Never Played.   Will only ship to United Kingdom,  £6.99 P_T_E_M_P_T_A_G_amp;P</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Oct 2016 13:13:26 +0000</listdate>
+    <saledate>Fri, 13 Jan 2017 18:11:08 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>I will ship worldwide. Shipping rates are generally as follows:
+EU + worldwide letters
+up to 50 g, 23.5*12.5*1 cm: 1.50 €
+up to 500 g, L+W+H _T_E_M_P_T_A_G_lt; 90 cm: 4.00 €
+up to 1 kg, L+W+H _T_E_M_P_T_A_G_lt; 90 cm: 7.00 €
+[+ 2.50 for tracking _T_E_M_P_T_A_G_amp; insurance up to 35 €]
+parcels
+up to 2 kg; max. 60*30*15 cm for Germany else max. 90 cm (all dimensions added)
+Germany 4.50 € [+ 1.00 € for tracking _T_E_M_P_T_A_G_amp; insurance up to 500 €]
+EU 9.00 € [+ 2.50 € for tracking _T_E_M_P_T_A_G_amp; insurance up to 50 €]
+worldwide 16.00 € [+ 3.50 € for tracking _T_E_M_P_T_A_G_amp; insurance up to 50 €]
+up to 5 kg; max. 120*60*60 cm; tracking _T_E_M_P_T_A_G_amp; insurance up to 500 € by default
+Germany 6.00 €
+EU 16.00 €
+USA 35.00 €
+worldwide 27.00 to 43.00 €
+up to 10 kg; max. 120*60*60 cm; tracking _T_E_M_P_T_A_G_amp; insurance up to 500 € by default
+Germany 7.50 €
+EU 21.00 €
+USA 49.00 €
+worldwide 34.00 to 59.00 €
+If in doubt please ask or refer to DHL_T_E_M_P_T_A_G_#039;s postage calculator. I round DHL-prices up to cover expenses for packing materials.
+Payment by bank transfer (SEPA: IBAN _T_E_M_P_T_A_G_amp; BIC) or paypal. Buyer assumes any fees. For paypal see paypal.com for exact details or refer to the table below.
+Paypal fees are kinda complicated, so please bear with me
+Account registered in: fees
+Germany: 1.9% + 0.35 €
+Northern Europe: 3.7% + 0.35 €
+US, Canada, Europe I: 3.9% + 0.35 €
+Europe II: 4.9% + 0.35 €
+anywhere else: 5.2% + 0.35 €
+Total amount to pay: (cost of game + shipping + tracking_T_E_M_P_T_A_G_amp;insurance + 0.35)/(100 - x%)*100
+Don_T_E_M_P_T_A_G_#039;t worry Some paypal-sites allow to assume the fees when transfering money. If not I_T_E_M_P_T_A_G_#039;ll tell you the exact amount. So either way you don_T_E_M_P_T_A_G_#039;t have to do any math at all
+Northern Europe: Denmark (including Faroe Islands and Greenland), Finland (including Aland), Iceland, Norway, Sweden
+Europe I: Austria, Belgium, Cyprus, Estonia, France (including French Guyana, Guadeloupe, Mayotte, Martinique, Reunion), Gibraltar, Greece, Ireland, Italy, Luxembourg, Malta, Monaco, Montenegro, Netherlands, Portugal, San Marino, Slovak Republic, Slovenia, Spain, United Kingdom (including Channel Islands and Isle of Man), Vatican City
+Europe II: Albania, Andorra, Belarus, Bosnia and Hercegovina, Bulgaria, Croatia, Czech Republic, Georgia, Hungary, Kosovo, Latvia, Liechtenstein, Lithuania, Macedonia, Poland, Republic of Moldova, Romania, Russia, Serbia Switzerland, Turkey, UkraineBezahlung / Payment:</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jan 2017 02:17:26 +0000</listdate>
+    <saledate>Tue, 17 Jan 2017 02:35:52 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Auction winnings for klyn</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jan 2017 17:23:54 +0000</listdate>
+    <saledate>Mon, 30 Jan 2017 13:01:55 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>likenew</condition>
+    <notes>One play. Like new.
+Package in Germany +5€
+Package to elsewhere in Europe +14€</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Nov 2016 02:55:12 +0000</listdate>
+    <saledate>Mon, 20 Feb 2017 01:49:48 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>Brand New. Factory Sealed. Cost does not include shipping. Shipping to be paid for by buyer.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Feb 2017 05:19:24 +0000</listdate>
+    <saledate>Sat, 25 Feb 2017 06:13:06 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/221861/item/5215103#5215103]Item for Geeklist _T_E_M_P_T_A_G_quot;Huge Auction - Ends 2/23/17 - Shipping From 61008_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Feb 2017 11:19:39 +0000</listdate>
+    <saledate>Mon, 27 Feb 2017 13:24:41 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Mar 2017 10:19:52 +0000</listdate>
+    <saledate>Sun, 19 Mar 2017 08:46:23 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222792/item/5256508#5256508]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction!  Auction!  Auction! 3_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Mar 2017 23:51:28 +0000</listdate>
+    <saledate>Sat, 01 Apr 2017 08:03:56 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Mar 2017 15:12:14 +0000</listdate>
+    <saledate>Tue, 04 Apr 2017 21:46:31 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Opened and played one time
+Ships from 92694
+Please contact me for shipping rates.
+Local pick up available from Orange County, CA</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 May 2017 01:41:31 +0000</listdate>
+    <saledate>Mon, 15 May 2017 00:06:27 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Geeklist auction win - for user pdahl ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Jun 2017 07:07:48 +0000</listdate>
+    <saledate>Sat, 10 Jun 2017 14:16:16 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>I will ship worldwide. Shipping rates are generally as follows:
+EU + worldwide letters
+up to 50 g, 23.5*12.5*1 cm: 1.50 €
+up to 500 g, L+W+H _T_E_M_P_T_A_G_lt; 90 cm: 4.00 €
+up to 1 kg, L+W+H _T_E_M_P_T_A_G_lt; 90 cm: 7.00 €
+[+ 2.50 for tracking _T_E_M_P_T_A_G_amp; insurance up to 35 €]
+parcels
+up to 2 kg; max. 60*30*15 cm for Germany else max. 90 cm
+Germany 4.50 € [+ 1.00 € for tracking _T_E_M_P_T_A_G_amp; insurance up to 500 €]
+EU 9.00 € [+ 2.50 € for tracking _T_E_M_P_T_A_G_amp; insurance up to 50 €]
+worldwide 16.00 € [+ 3.50 € for tracking _T_E_M_P_T_A_G_amp; insurance up to 50 €]
+please ask
+Payment by bank transfer (SEPA: IBAN _T_E_M_P_T_A_G_amp; BIC) or
+Paypal - fees, if any, are paid by the buyer</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Jun 2017 02:50:56 +0000</listdate>
+    <saledate>Thu, 15 Jun 2017 03:50:25 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/226136/item/5428804#5428804]Item for Geeklist _T_E_M_P_T_A_G_quot;LESS THAN 12 HOURS LEFT!!! BINS LOWERED - AUCTION - Origins Pickup - We Put Together Our First Auction...But It Has Some Good Stuff!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Please let me know how you would like the game delivered (Origins/Local/Shipped) and how you would like to pay (cash/Paypal). If you choose Origins for delivery I will send you the details upon confirmation of the sale.
+Thanks you!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Jul 2017 03:43:49 +0000</listdate>
+    <saledate>Tue, 04 Jul 2017 17:16:06 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Reserved for SG327 for winning bid in The Traditional 1st Auction: Why Did I Buy This?</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Jul 2017 05:06:44 +0000</listdate>
+    <saledate>Sat, 08 Jul 2017 19:12:12 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>Reserved for Jonner Purinton (Mr Moon 420) ONLY!
+This sale has been auto-generated for the auction: [geekurl=/geeklist/226836/item/5466943#5466943]Item for Geeklist _T_E_M_P_T_A_G_quot;[Closed] Cutting to the Bone Auction - $5 starts, no reserves, USA/CAN, ends July 5 ~10pm EDT_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Jul 2017 02:01:03 +0000</listdate>
+    <saledate>Mon, 10 Jul 2017 02:49:24 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/227316/item/5489290#5489290]Item for Geeklist _T_E_M_P_T_A_G_quot;US Only Auction: Aliens, Flame Rouge, Wargames, and a few bundles.  Ends July 9th._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Jul 2017 04:13:00 +0000</listdate>
+    <saledate>Sat, 22 Jul 2017 12:59:24 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>good</condition>
+    <notes>Geekbay auction item - please do not buy if you do not have a winning bid on this item.
+https://boardgamegeek.com/geeklist/227690/auction-has-ended-oophard-find-games-and-others-au</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Aug 2017 00:26:49 +0000</listdate>
+    <saledate>Tue, 15 Aug 2017 13:04:06 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This is for user Jonathon Furlong (jfurlong) for winning this item from my auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Aug 2017 00:22:00 +0000</listdate>
+    <saledate>Mon, 28 Aug 2017 02:33:13 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>Game is in great condition.
+Shipping costs not included.  Buyer to pay actual shipping and handling via UPS or USPS From zip code 23831</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Sep 2017 14:31:13 +0000</listdate>
+    <saledate>Thu, 07 Sep 2017 16:02:28 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229431/item/5591501#5591501]Item for Geeklist _T_E_M_P_T_A_G_quot;Multi-seller auction.  US shipping and Kansas City local pickup._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Sep 2017 19:16:14 +0000</listdate>
+    <saledate>Wed, 13 Sep 2017 00:13:55 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228712/item/5555472#5555472]Item for Geeklist _T_E_M_P_T_A_G_quot;Downsizing Auction #6 - US Shipping From 87122_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Sep 2017 01:41:10 +0000</listdate>
+    <saledate>Sun, 24 Sep 2017 08:33:38 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>No issues, played a few times. Cards sleeved in Ultra Pro premium sleeves. Back of the box has some mild creasing. Multilingual first edition (2011) Queen Games
+[ImageID=3726230 inline] [ImageID=3726231 inline] [ImageID=3720907 inline]
+reserved for dylansofia</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Oct 2017 16:08:06 +0000</listdate>
+    <saledate>Sun, 08 Oct 2017 20:06:19 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This game is in Like New condition except for a tear on one corner of the box lid.  All other components are unpunched and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Aug 2017 09:32:52 +0000</listdate>
+    <saledate>Mon, 06 Nov 2017 14:46:31 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Nov 2017 02:11:05 +0000</listdate>
+    <saledate>Fri, 10 Nov 2017 02:05:44 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>verygood</condition>
+    <notes>Stored on my shelf B14</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Nov 2017 21:04:01 +0000</listdate>
+    <saledate>Fri, 10 Nov 2017 22:51:55 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230892/item/5715327#5715327]Item for Geeklist _T_E_M_P_T_A_G_quot;PAX Unplugged Virtual Flea Market 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Nov 2017 17:15:34 +0000</listdate>
+    <saledate>Sun, 12 Nov 2017 19:34:37 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>good</condition>
+    <notes>For Whiskeybane from the 100+ Games to Sell in Rochester, NY with BINS! (CLOSED!) Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Aug 2017 23:49:34 +0000</listdate>
+    <saledate>Fri, 24 Nov 2017 15:15:17 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>Brand new, never opened, never played. Gotta clear some games out to make room for new ones, so my loss is your gain. Shipping is $7.00. If you purchase more than one game I_T_E_M_P_T_A_G_#039;ll try to consolidate packages to save shipping . Paypal only please. And sorry, I don_T_E_M_P_T_A_G_#039;t sell to buyers outside of the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Nov 2017 22:14:06 +0000</listdate>
+    <saledate>Thu, 30 Nov 2017 17:17:28 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>Beinhaltet die Erweiterungen:
+Kingdom Builder: Caves (2012)
+Kingdom Builder: Capitol (2011) 
+Versandkosten innerhalb von Deutschland €6</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Nov 2017 10:43:57 +0000</listdate>
+    <saledate>Sat, 02 Dec 2017 17:13:26 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes># Condition
+I played this game several times. It is just not my game and I lack the players and time to play it more often. I want to remove it from my collection and find a new home for the game. The game is still in a very good state and may have some minor tears.
+# Shipping
+I will ship worldwide with DHL. Costs dependent on your location:
+Germany:    4.50 €
+EU:         9.00 €
+Non-EU:    16.00 €
+Additional packaging costs: 2.00 €
+# Shipping time
+I am full-time employed and can only send the package on weekends. If you are really impatient (and I do understand) then please don_T_E_M_P_T_A_G_#039;t order here, I don_T_E_M_P_T_A_G_#039;t want to make you unhappy.
+# Payment
+Ideally via bank transfer with IBAN within EU states or paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Dec 2017 07:56:39 +0000</listdate>
+    <saledate>Wed, 13 Dec 2017 04:23:50 +0000</saledate>
+    <price currency='USD'>24.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Dec 2017 20:16:33 +0000</listdate>
+    <saledate>Sat, 23 Dec 2017 03:40:20 +0000</saledate>
+    <price currency='CAD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played it once, was not the style of strategy I was looking for.  Excellent condition and in both English and German.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Nov 2017 13:02:28 +0000</listdate>
+    <saledate>Sun, 31 Dec 2017 12:09:11 +0000</saledate>
+    <price currency='GBP'>22</price>
+    <condition>likenew</condition>
+    <notes>Have played 3-4 times and is well looked after. No damage or any pieces missing. Shipping to the UK will cost £4, anywhere else we can discuss postage fees. Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Jul 2017 20:47:29 +0000</listdate>
+    <saledate>Mon, 08 Jan 2018 09:58:58 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>Please contact me for the shipping costs.
+PayPal or IBAN/BIC/SWIFT bank transfer.
+PayPal fee of +3,4% applies.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Feb 2018 17:50:28 +0000</listdate>
+    <saledate>Sun, 18 Feb 2018 23:08:18 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/237470/item/5953722#5953722]Item for Geeklist _T_E_M_P_T_A_G_quot;Tennessee Game Days XIII (2018) Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jan 2015 14:11:05 +0000</listdate>
+    <saledate>Wed, 21 Feb 2018 22:26:37 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>verygood</condition>
+    <notes>German
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus max. 2 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Aug 2017 14:48:51 +0000</listdate>
+    <saledate>Thu, 01 Mar 2018 02:59:31 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Includes Nomads, Crossroads, Marshlands expansions and Capitol and Caves promos - everything in original games box, cards sleeved, played twice - excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Mar 2018 23:45:19 +0000</listdate>
+    <saledate>Tue, 27 Mar 2018 03:09:47 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Includes Nomads and Crossroads</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Mar 2018 21:17:31 +0000</listdate>
+    <saledate>Sat, 31 Mar 2018 01:28:09 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Minor\moderate box wear. played a few times. All components present. Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Apr 2018 16:45:14 +0000</listdate>
+    <saledate>Sun, 22 Apr 2018 03:47:17 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/240124/item/6085475#6085475]Item for Geeklist _T_E_M_P_T_A_G_quot;A CANADIAN AUCTION, LOW STARTING BIDS, DISCOUNTS ON BINS, FLAT RATE SHIPPING, AND ENTER TO WIN A FREE GAME_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. Payment should be made via e-transfer (preferred), or by PayPal should e-transfer be impossible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Jan 2018 04:18:15 +0000</listdate>
+    <saledate>Sat, 28 Apr 2018 16:41:54 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 May 2018 02:19:47 +0000</listdate>
+    <saledate>Sun, 20 May 2018 20:45:51 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239373/item/6053519#6053519]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con Spring 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 May 2018 19:44:08 +0000</listdate>
+    <saledate>Mon, 28 May 2018 20:29:03 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231344/item/6164854#6164854]Item for Geeklist _T_E_M_P_T_A_G_quot;Columbus, Ohio Virtual Flea Market (Now including Origins drop off and pick up)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For origins p/u. If paypal: Christopher.boldi@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 May 2018 20:46:17 +0000</listdate>
+    <saledate>Mon, 28 May 2018 23:21:24 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/240664/item/6128132#6128132]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED! -- Moving/Memorial Day Auction! May 20-28. Long Island area, shipping to all US._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jun 2018 12:17:20 +0000</listdate>
+    <saledate>Sat, 02 Jun 2018 23:08:54 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>Very lightly played a couple of times. Still Like New.
+Ships in a Medium Flat Rate box.
+See below for shipping details.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jun 2018 08:09:45 +0000</listdate>
+    <saledate>Tue, 19 Jun 2018 12:29:52 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/242148/item/6198914#6198914]Item for Geeklist _T_E_M_P_T_A_G_quot;(CLOSED) Auction: Carnival Zombie, Goa and many others -  Cardboard for Wheels (KANSAS CITY AREA PICKUP AVAILABLE)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jun 2018 15:49:58 +0000</listdate>
+    <saledate>Sat, 30 Jun 2018 20:13:07 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/240545/item/6203650#6203650]Item for Geeklist _T_E_M_P_T_A_G_quot;2018 Dice Tower Convention Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Payment to be handled at Dice Tower Con. Sold to Bentadams1.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Dec 2017 19:16:09 +0000</listdate>
+    <saledate>Tue, 03 Jul 2018 04:25:55 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>payment:
+bank transfere, paypal for family and friends
+shipment:
+ask</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Jul 2018 11:00:38 +0000</listdate>
+    <saledate>Fri, 06 Jul 2018 13:37:03 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/242798/item/6227917#6227917]Item for Geeklist _T_E_M_P_T_A_G_quot;Before the Thrift Store Games Auction - $1 start on all items - US only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jul 2018 00:49:10 +0000</listdate>
+    <saledate>Fri, 27 Jul 2018 13:06:08 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>+ Why First
+Sale only available for Tuxedomouse through GenCon Virtual Flea Market 2018 Sale
+GenCon Pickup</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jul 2018 03:03:52 +0000</listdate>
+    <saledate>Tue, 31 Jul 2018 15:14:45 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241960/item/6187285#6187285]Item for Geeklist _T_E_M_P_T_A_G_quot;Gencon Virtual Flea Market 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jun 2018 15:59:11 +0000</listdate>
+    <saledate>Wed, 01 Aug 2018 20:29:27 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Aug 2018 15:50:01 +0000</listdate>
+    <saledate>Tue, 14 Aug 2018 19:55:51 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>verygood</condition>
+    <notes>Auction item reserved for BGG user _T_E_M_P_T_A_G_quot;Shwakk_T_E_M_P_T_A_G_quot; only. 
+Please complete this order by clicking _T_E_M_P_T_A_G_quot;Add to Cart_T_E_M_P_T_A_G_quot; and then _T_E_M_P_T_A_G_quot;Proceed to Checkout,_T_E_M_P_T_A_G_quot; making sure your delivery information is correct.  I will confirm the order giving the total owed, including shipping to your state, along with my PayPal account for payment.
+Shipping costs will be based on the policy detailed in the auction header (click on link below). 
+Note: If you plan on local pick-up in the Bronx, NY, please let me know and we can arrange a time for the exchange. 
+This sale has been auto-generated for the auction: [geekurl=/geeklist/244254/item/6292837#6292837]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED - NYC Clearance Auction! - 115+ Items w/ BINs - ENDED 8/13_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Sep 2018 18:29:24 +0000</listdate>
+    <saledate>Tue, 04 Sep 2018 15:55:17 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Sep 2018 12:12:32 +0000</listdate>
+    <saledate>Sat, 22 Sep 2018 18:07:18 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/244796/item/6338520#6338520]Item for Geeklist _T_E_M_P_T_A_G_quot;Montreal Virtual Flea Market - September 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Includes Nomads and Crossroads</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Feb 2018 14:01:40 +0000</listdate>
+    <saledate>Wed, 26 Sep 2018 12:46:55 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Inludes:
+Nomads expansion w/ original box (if requested)
+Foamcore insert.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Sep 2018 01:33:21 +0000</listdate>
+    <saledate>Wed, 17 Oct 2018 03:39:51 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>THIS IS A BUNDLE LISTING for the base game, Nomads, and Crossroads (in shrink).
+Here are the individual listings for each one:
+Base game: https://www.boardgamegeek.com/geekmarket/product/1594467
+Nomads: https://www.boardgamegeek.com/geekmarket/product/1594465
+Crossroads: https://www.boardgamegeek.com/geekmarket/product/1594466
+Check the above links to make sure someone didn_T_E_M_P_T_A_G_#039;t buy one of them first before buying, please. Feel free to place an order for all of the Kingdom Builder listings I have to pull them from the market immediately and just tell me what you want and I_T_E_M_P_T_A_G_#039;ll cancel the sales for the rest.
+Buyer pays actual shipping via USPS, UPS, or FedEx. Shipping from Chicago, IL, USA. Local pickup is available.
+Shipping to other countries is expensive. It could be as much as $30-$60+ depending on where it_T_E_M_P_T_A_G_#039;s going and the weight of package. Please feel free to message me about the shipping cost before buying. 
+PayPal, Zelle, or Venmo, or message me if you prefer another online method and I_T_E_M_P_T_A_G_#039;ll look into it.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Nov 2018 01:03:23 +0000</listdate>
+    <saledate>Wed, 07 Nov 2018 01:08:25 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/247436/item/6491464#6491464]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction to Minimize My Collection - Ending Nov. 5th_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Nov 2018 12:51:16 +0000</listdate>
+    <saledate>Fri, 16 Nov 2018 10:39:23 +0000</saledate>
+    <price currency='EUR'>12.5</price>
+    <condition>acceptable</condition>
+    <notes>Important: missing 6 of the 40 blue houses (the other 3 colors are complete).
+The rest is like new, played the game only twice.
+Shippingcost for the buyer</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Nov 2018 17:58:30 +0000</listdate>
+    <saledate>Sun, 25 Nov 2018 23:27:51 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>The price is low because the box is slightly dented on two corners, and the bottom of the box has creases. Otherwise the box is intact, has no tears or markings, and is sturdy. The contents are in excellent condition,</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Nov 2018 01:25:34 +0000</listdate>
+    <saledate>Tue, 27 Nov 2018 03:34:26 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/247844/item/6548254#6548254]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction PaxU / Baltimore Pick-Up available (Blood Rage Hili, Bruges, Kickstarters, Promos) PaxU / Baltimore_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jan 2016 11:26:53 +0000</listdate>
+    <saledate>Sun, 16 Dec 2018 02:09:29 +0000</saledate>
+    <price currency='EUR'>8.99</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Dec 2018 21:58:07 +0000</listdate>
+    <saledate>Fri, 21 Dec 2018 04:25:27 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>***Includes Capitol expansion***
+For shipping estimate:
+Shipping Weight: 3 lb 13 oz.
+From Zip: 44281
+Will fit in medium flat rate box
+Will fit in Regional Rate Box B
+https://postcalc.usps.com/
+Check out my other games and request a quote for combined shipping:
+http://boardgamegeek.com/geekmarket/user/pregremlin</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Dec 2018 23:15:44 +0000</listdate>
+    <saledate>Wed, 09 Jan 2019 03:23:34 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>good</condition>
+    <notes>Game is in fantastic shape and looks unplayed.  I would have listed this as like new , except it is missing one out of 40, so 39/40.  I found a replacement piece for the missing house, not sure if you will use 40 anyway.  Estimated shipping of $13.65.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

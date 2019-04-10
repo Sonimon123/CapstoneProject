@@ -1,0 +1,1333 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="31722">
+   <yearpublished>2007</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>180</playingtime>
+   <minplaytime>180</minplaytime>
+   <maxplaytime>180</maxplaytime>
+   <age>0</age>
+       <name  sortindex="1">18IR</name>
+       <name primary="true" sortindex="1">Steam over Holland</name>
+         
+   <description>1839, The Netherlands. The new railways are the way to get rich. Invest your money in the best railway companies. Become the President of one or more companies and lead them to become the best earning companies of the game. Build new track and stations, buy the right trains and push the stock value to new heights. Who will become the most successful investor?_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Steam over Holland is an economics game in which the players invest in and control railway companies. The game is part of the 18xx family of games._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/aB292bZNPPp-SZVMXdFT3AJWOiQ=/fit-in/200x150/pic245670.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/qPg5HV7bj-XhTMF40jEUHzxJsaY=/0x0/pic245670.jpg</image>
+      
+            <boardgamefamily objectid="19">18xx</boardgamefamily>
+               <boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+               <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+               <boardgamefamily objectid="10309">Country: The Netherlands</boardgamefamily>
+                             <boardgamecategory objectid="1021">Economic</boardgamecategory>
+                      <boardgameversion objectid="25158">First edition</boardgameversion>
+                                    <boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+                                    <boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+               <boardgamecategory objectid="1034">Trains</boardgamecategory>
+               <boardgamedesigner objectid="7472">Bart Van Dijk</boardgamedesigner>
+               <boardgameartist objectid="7472">Bart Van Dijk</boardgameartist>
+               <boardgamepublisher objectid="4675">Vendetta</boardgamepublisher>
+                    
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="31">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="13" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="19" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="13" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="14" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="6" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="2" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>487</usersrated>
+     <average>7.37863</average>
+     <bayesaverage>6.04656</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2015" bayesaverage="6.04656" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="860" bayesaverage="6.2155" />
+            
+           </ranks>
+     
+     <stddev>1.29135</stddev>
+     <median>0</median>
+     <owned>520</owned>
+     <trading>14</trading>
+     <wanting>103</wanting>
+     <wishing>184</wishing>
+     <numcomments>182</numcomments>
+     <numweights>53</numweights>
+     <averageweight>3.7925</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 22 Oct 2007 10:58:22 +0000</listdate>
+    <saledate>Mon, 29 Oct 2007 14:12:33 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Oct 2007 19:04:53 +0000</listdate>
+    <saledate>Sun, 02 Dec 2007 21:42:41 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes>europa p/h 8.5 euro
+outside europa 14 euro</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Dec 2007 13:14:21 +0000</listdate>
+    <saledate>Sat, 15 Dec 2007 00:29:44 +0000</saledate>
+    <price currency='EUR'>66</price>
+    <condition>new</condition>
+    <notes>europa p/h 8.5 euro
+outside europa 14 euro</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Dec 2007 00:14:43 +0000</listdate>
+    <saledate>Wed, 26 Dec 2007 08:10:10 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes>shrink wrapped
+Any questions about the game feel free to ask.
+p/h: 500-2000 g
+Shipping in Europa 2007:
+Priority: € 11,50 (16,60 $);Normal: € 8,50 (12.30 $)
+Outside Europa 2007:
+Priority: € 22,30 (32.10$); Normal: € 14,00 (20,16$)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Dec 2007 14:10:23 +0000</listdate>
+    <saledate>Fri, 11 Jan 2008 16:03:26 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes>shrink wrapped
+Any questions about the game feel free to ask.
+p/h: 500-2000 g
+Shipping in Europa 2007:
+Priority: € 11,50 (16,60 $);Normal: € 8,50 (12.30 $)
+Outside Europa 2007:
+Priority: € 22,30 (32.10$); Normal: € 14,00 (20,16$)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Jan 2008 18:09:25 +0000</listdate>
+    <saledate>Wed, 20 Feb 2008 12:01:53 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes>shrink wrapped
+Any questions about the game feel free to ask.
+p/h: 500-2000 g
+Shipping in Europa 2007:
+Priority: € 11,75 (17,60 $);Normal: € 9,40 (14.10 $)
+Outside Europa 2007:
+Priority: € 20,50 (30.75 $); Normal: € 18,00 (27,00 $)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Feb 2008 15:35:25 +0000</listdate>
+    <saledate>Tue, 26 Feb 2008 11:49:59 +0000</saledate>
+    <price currency='EUR'>68</price>
+    <condition>new</condition>
+    <notes>shrink wrapped
+Any questions about the game feel free to ask.
+p/h: 500-2000 g
+Shipping in Europa 2007:
+Priority: € 11,75 (17,60 $);Normal: € 9,40 (14.10 $)
+Outside Europa 2007:
+Priority: € 20,50 (30.75 $); Normal: € 18,00 (27,00 $)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Mar 2008 12:35:33 +0000</listdate>
+    <saledate>Wed, 16 Apr 2008 21:00:01 +0000</saledate>
+    <price currency='EUR'>69.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Jul 2008 13:20:47 +0000</listdate>
+    <saledate>Fri, 18 Jul 2008 14:11:39 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>shrink wrapped
+Any questions about the game feel free to ask.
+p/h: 500-2000 g
+Shipping in Europa 2007:
+Priority: € 12 ; Normal: € 9,50
+Outside Europa 2007:
+Priority: € 20,50 ; Normal: € 18,50 </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Jul 2008 17:05:13 +0000</listdate>
+    <saledate>Sat, 06 Dec 2008 08:07:06 +0000</saledate>
+    <price currency='USD'>165</price>
+    <condition>new</condition>
+    <notes>Shrinked.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jul 2008 22:45:51 +0000</listdate>
+    <saledate>Mon, 24 Nov 2008 22:54:20 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>shrink wrapped
+Any questions about the game feel free to ask.
+p/h: 500-2000 g
+Shipping in Europa 2007:
+Priority: € 12 ; Normal: € 9,50
+Outside Europa 2007:
+Priority: € 20,50 ; Normal: € 18,50 </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Nov 2008 14:00:07 +0000</listdate>
+    <saledate>Thu, 12 Feb 2009 06:47:54 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>shrink wrapped
+Any questions about the game feel free to ask.
+p/h: 500-2000 g
+Shipping in Europa 2007:
+Priority: € 12 ; Normal: € 9,50
+Outside Europa 2007:
+Priority: € 20,50 ; Normal: € 18,50 </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Feb 2009 10:53:57 +0000</listdate>
+    <saledate>Mon, 02 Mar 2009 01:26:25 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>shrink wrapped
+Any questions about the game feel free to ask.
+p/h: 500-2000 g
+Shipping in Europa 2007:
+Priority: € 12 ; Normal: € 9,50
+Outside Europa 2007:
+Priority: € 20,50 ; Normal: € 18,50 </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Mar 2009 21:59:58 +0000</listdate>
+    <saledate>Sun, 08 Mar 2009 08:18:10 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>Priority: € 20,50 ; Normal: € 18,50 </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Mar 2009 18:43:20 +0000</listdate>
+    <saledate>Mon, 23 Mar 2009 12:14:00 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>within europa 10.50 euro
+outside
+Normal: € 18,50 </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Mar 2009 06:40:10 +0000</listdate>
+    <saledate>Sat, 28 Mar 2009 16:22:24 +0000</saledate>
+    <price currency='EUR'>62</price>
+    <condition>new</condition>
+    <notes>within europa 10.50 euro
+outside
+Normal: € 18,50 </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Apr 2009 10:24:37 +0000</listdate>
+    <saledate>Sun, 24 May 2009 22:25:38 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>within europa 10.50 euro
+outside
+Normal: € 18,50 </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 May 2009 22:40:47 +0000</listdate>
+    <saledate>Tue, 19 May 2009 01:25:43 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>new</condition>
+    <notes>Still in shrink.  Never played. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 May 2009 03:28:56 +0000</listdate>
+    <saledate>Fri, 22 May 2009 01:12:18 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>new</condition>
+    <notes>Still in shrink.  Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 May 2009 01:27:29 +0000</listdate>
+    <saledate>Sun, 24 May 2009 13:43:26 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>new</condition>
+    <notes>Never played.  Still in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 May 2009 14:42:04 +0000</listdate>
+    <saledate>Fri, 05 Jun 2009 17:21:14 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>new</condition>
+    <notes>Never played.  Still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 May 2009 17:00:48 +0000</listdate>
+    <saledate>Mon, 27 Jul 2009 01:51:20 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>shrink wrapped.
+within europa 10.50 euro
+outside
+Normal: € 18,50 
+Questions just ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jun 2009 02:48:09 +0000</listdate>
+    <saledate>Mon, 15 Jun 2009 21:08:41 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>new</condition>
+    <notes>Still in shrink.  Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Jun 2009 23:39:34 +0000</listdate>
+    <saledate>Fri, 10 Jul 2009 14:47:48 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>new</condition>
+    <notes>Still in shrink. Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jun 2009 13:12:04 +0000</listdate>
+    <saledate>Fri, 26 Jun 2009 12:46:20 +0000</saledate>
+    <price currency='GBP'>55</price>
+    <condition>likenew</condition>
+    <notes>Excellent Unplayed Condition
+UK Postage £5.00</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jun 2009 10:37:48 +0000</listdate>
+    <saledate>Thu, 30 Sep 2010 08:57:05 +0000</saledate>
+    <price currency='EUR'>64.9</price>
+    <condition>new</condition>
+    <notes>mint!
+english edition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Jul 2009 17:36:24 +0000</listdate>
+    <saledate>Mon, 28 Sep 2009 21:35:16 +0000</saledate>
+    <price currency='USD'>104.5</price>
+    <condition>verygood</condition>
+    <notes>Played once and in excellent condition.  USPS Priority Mail shipping is $10.50. Contact me for an international shipping quote and be sure to check on my other games for sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Jul 2009 19:13:32 +0000</listdate>
+    <saledate>Wed, 15 Jul 2009 23:37:43 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>new</condition>
+    <notes>Game is still in shrink and has never been played.
+Shipping to USA by USPS priority mail is $10.50 + $0.70 delivery confirmation.  Insurance is optional and is $2.25.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jul 2009 03:05:51 +0000</listdate>
+    <saledate>Sun, 02 Aug 2009 05:09:07 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>new</condition>
+    <notes>Unplayed.  Still in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2009 17:59:51 +0000</listdate>
+    <saledate>Sun, 02 Aug 2009 23:22:28 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>new</condition>
+    <notes>New in shrink.  Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Aug 2009 00:15:23 +0000</listdate>
+    <saledate>Wed, 12 Aug 2009 01:33:02 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>new</condition>
+    <notes>New in shrink.  Never played.  This is my last one.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Aug 2009 21:28:15 +0000</listdate>
+    <saledate>Wed, 02 Dec 2009 09:50:29 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>New</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Oct 2009 14:41:05 +0000</listdate>
+    <saledate>Mon, 16 Nov 2009 20:38:56 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>likenew</condition>
+    <notes>Bagged tiles, money still wrapped. Appears unplayed. Like new condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Dec 2009 07:34:17 +0000</listdate>
+    <saledate>Mon, 28 Dec 2009 22:50:29 +0000</saledate>
+    <price currency='USD'>89</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Dec 2009 19:31:24 +0000</listdate>
+    <saledate>Fri, 25 Dec 2009 14:17:06 +0000</saledate>
+    <price currency='EUR'>62.5</price>
+    <condition>new</condition>
+    <notes>Shrink wrapped.
+Accept paypal or IBAN with BIC
+Any questions just ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jan 2010 06:02:45 +0000</listdate>
+    <saledate>Tue, 09 Feb 2010 14:13:29 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>Shrink wrapped.
+Accept paypal or IBAN with BIC
+Any questions just ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Feb 2010 23:21:48 +0000</listdate>
+    <saledate>Wed, 03 Mar 2010 10:27:00 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>Shrink wrapped.
+Accept paypal and IBAN with BIC
+Any Questions just ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Mar 2010 12:55:51 +0000</listdate>
+    <saledate>Sat, 15 May 2010 21:53:11 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>Shrink wrapped.
+Accept paypal or IBAN with BIC
+Any questions just ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Apr 2010 17:08:33 +0000</listdate>
+    <saledate>Sun, 18 Apr 2010 05:07:18 +0000</saledate>
+    <price currency='USD'>79</price>
+    <condition>new</condition>
+    <notes>In shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 May 2010 23:07:10 +0000</listdate>
+    <saledate>Sat, 22 May 2010 19:46:37 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>Shrink wrapped.
+Accept paypal or IBAN with BIC
+Any questions just ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Sep 2010 03:27:09 +0000</listdate>
+    <saledate>Sun, 26 Sep 2010 11:23:46 +0000</saledate>
+    <price currency='USD'>89.99</price>
+    <condition>likenew</condition>
+    <notes>Like New.  Played 2 times.
+Will ship anywhere serviced by the USPS.  
+Buyer pays exact shipping costs.  
+Payment via PayPal.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Sep 2010 23:44:16 +0000</listdate>
+    <saledate>Fri, 05 Nov 2010 05:43:50 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>likenew</condition>
+    <notes>Played once. All bits accounted for and bagged.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Oct 2010 12:18:48 +0000</listdate>
+    <saledate>Thu, 27 Jan 2011 17:40:24 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Jan 2011 18:01:38 +0000</listdate>
+    <saledate>Mon, 21 Feb 2011 10:23:36 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Feb 2011 11:39:02 +0000</listdate>
+    <saledate>Sun, 20 Mar 2011 22:46:25 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Jun 2011 18:22:18 +0000</listdate>
+    <saledate>Mon, 06 Jun 2011 18:38:34 +0000</saledate>
+    <price currency='CAD'>80</price>
+    <condition>likenew</condition>
+    <notes>This item is reserved for user Konig.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Jul 2011 22:54:59 +0000</listdate>
+    <saledate>Thu, 25 Aug 2011 23:11:09 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>Really like new. Never, ever, played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jul 2011 18:04:36 +0000</listdate>
+    <saledate>Tue, 15 May 2012 03:34:54 +0000</saledate>
+    <price currency='USD'>84</price>
+    <condition>new</condition>
+    <notes>New and Sealed... Buyer to pay 10.99 shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jul 2011 01:47:12 +0000</listdate>
+    <saledate>Mon, 19 Sep 2011 01:35:31 +0000</saledate>
+    <price currency='USD'>76</price>
+    <condition>new</condition>
+    <notes>In Shrink, Excellent Condition. English Version.
+Shipping _T_E_M_P_T_A_G_amp; Handling: $14.00</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Aug 2011 12:11:22 +0000</listdate>
+    <saledate>Tue, 16 Aug 2011 21:46:43 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>reserved for Mike Johnston
+(CBRMichael)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Oct 2011 22:51:36 +0000</listdate>
+    <saledate>Thu, 13 Oct 2011 01:16:47 +0000</saledate>
+    <price currency='USD'>81</price>
+    <condition>likenew</condition>
+    <notes>Reserved for mcpranno. Won in an auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Oct 2011 02:38:03 +0000</listdate>
+    <saledate>Fri, 21 Oct 2011 19:16:02 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>For Coolpapa only.  </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Nov 2011 23:46:08 +0000</listdate>
+    <saledate>Thu, 10 Nov 2011 00:09:01 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>verygood</condition>
+    <notes>Box has very minor shelf wear. Components are in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Nov 2011 00:30:01 +0000</listdate>
+    <saledate>Fri, 06 Jan 2012 20:15:28 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Shipping is $12. Combined shipping rates are available when purchasing multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Feb 2012 03:33:27 +0000</listdate>
+    <saledate>Mon, 05 Mar 2012 23:34:00 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+I_T_E_M_P_T_A_G_#039;d prefer if you have a non-residential address. That way I can ship via FedEx Ground with $100 insurance and tracking included. It_T_E_M_P_T_A_G_#039;s MUCH cheaper than USPS, and with better handling.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Mar 2012 19:18:51 +0000</listdate>
+    <saledate>Mon, 09 Apr 2012 13:27:35 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played. Components were meticulously punched and bagged but game hasn_T_E_M_P_T_A_G_#039;t seen a table top yet due to lack of opportunities to play these types of games here. Cheapest price on BGG for this title and you will pay actual shipping, whatever it costs me. Probably 10-20 dollars. EMT preferred, paypal available.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Apr 2012 16:16:44 +0000</listdate>
+    <saledate>Sat, 21 Apr 2012 17:52:02 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>In Shrink. Excellent Condition. Vendetta Edition. English Version.
+Reserved for Grant LaDue(ladue)
+     
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Apr 2012 05:11:53 +0000</listdate>
+    <saledate>Sun, 29 Apr 2012 00:20:48 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Butterfly0038</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jun 2012 17:48:50 +0000</listdate>
+    <saledate>Tue, 12 Jun 2012 19:10:22 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>Reserved for user Walt Mulder.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jul 2012 02:29:10 +0000</listdate>
+    <saledate>Fri, 22 Aug 2014 07:15:35 +0000</saledate>
+    <price currency='USD'>99.95</price>
+    <condition>new</condition>
+    <notes>New in Shrinkwrap.  Will combine shipping.  Shipping in the US $12.35</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Sep 2012 18:26:13 +0000</listdate>
+    <saledate>Wed, 12 Sep 2012 21:04:08 +0000</saledate>
+    <price currency='USD'>350</price>
+    <condition>likenew</condition>
+    <notes>This is reserved for PaulH_eh
+includes:
+Steam Over Holland
+1860
+1865
+2038
+Steam
+Scepter of Zavandor
+Homesteaders
+Macao
+Urban Sprawl</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Dec 2012 14:13:43 +0000</listdate>
+    <saledate>Wed, 05 Feb 2014 00:05:05 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Brand new and sealed!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Feb 2013 12:13:50 +0000</listdate>
+    <saledate>Wed, 16 Oct 2013 07:50:20 +0000</saledate>
+    <price currency='EUR'>64</price>
+    <condition>new</condition>
+    <notes>Vendetta Games edition - Brand new in shrink. 
+Shipping cost within germany 5,-€
+All other countries please ask for shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Apr 2013 04:36:51 +0000</listdate>
+    <saledate>Fri, 05 Apr 2013 03:22:31 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Auction item reserved for _T_E_M_P_T_A_G_quot;neevan_T_E_M_P_T_A_G_quot; only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Apr 2013 02:00:03 +0000</listdate>
+    <saledate>Mon, 15 Apr 2013 02:26:20 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Reserved for counterclockwise</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 May 2013 01:46:36 +0000</listdate>
+    <saledate>Fri, 09 May 2014 07:02:10 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>new</condition>
+    <notes>The one and only edition, multi-language (including English) Vendetta edition.
+New in shrink - couple rips in shrink but box cover under those rips is un-damaged.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Aug 2013 12:34:45 +0000</listdate>
+    <saledate>Sat, 10 Aug 2013 12:55:32 +0000</saledate>
+    <price currency='EUR'>33</price>
+    <condition>verygood</condition>
+    <notes>Geeklist Auction Item reserved for user MikeBwithoutadot</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Aug 2013 11:47:37 +0000</listdate>
+    <saledate>Sat, 05 Oct 2013 15:28:17 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Aug 2013 00:26:04 +0000</listdate>
+    <saledate>Fri, 23 Aug 2013 01:12:48 +0000</saledate>
+    <price currency='AUD'>50</price>
+    <condition>likenew</condition>
+    <notes>Played once. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Aug 2013 02:44:35 +0000</listdate>
+    <saledate>Mon, 26 Aug 2013 03:12:20 +0000</saledate>
+    <price currency='USD'>84</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+For user _T_E_M_P_T_A_G_quot;fluffyevil_T_E_M_P_T_A_G_quot; to US address
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Oct 2013 09:49:07 +0000</listdate>
+    <saledate>Mon, 11 Nov 2013 18:38:00 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Oct 2013 06:45:25 +0000</listdate>
+    <saledate>Fri, 24 Jan 2014 07:35:58 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Nov 2013 19:00:11 +0000</listdate>
+    <saledate>Sat, 29 Mar 2014 01:31:46 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Nov 2013 23:22:45 +0000</listdate>
+    <saledate>Mon, 04 Nov 2013 03:48:46 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>Game is like new.  It_T_E_M_P_T_A_G_#039;s been oprned and punched but never played.  I will ship USPS Priority mail.  Please ask any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Nov 2013 21:25:42 +0000</listdate>
+    <saledate>Wed, 20 Aug 2014 01:42:13 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Nov 2013 17:03:41 +0000</listdate>
+    <saledate>Fri, 29 Nov 2013 22:08:17 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Dec 2013 00:13:58 +0000</listdate>
+    <saledate>Wed, 08 Jan 2014 18:31:42 +0000</saledate>
+    <price currency='USD'>58</price>
+    <condition>likenew</condition>
+    <notes>Like new, unplayed.  The hex tiles have been punched and bagged but the share certificate cards are still in shrink.  This is virtually new and looks great.
+Shipping will be by USPS Priority for $10.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jan 2014 03:20:14 +0000</listdate>
+    <saledate>Mon, 20 Jan 2014 17:57:57 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Reserved for cmontgo2!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Jan 2014 02:39:55 +0000</listdate>
+    <saledate>Thu, 30 Jan 2014 16:09:10 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Auction win!  Reserved for swuyau.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Mar 2014 16:05:27 +0000</listdate>
+    <saledate>Fri, 03 Oct 2014 04:31:38 +0000</saledate>
+    <price currency='EUR'>79.99</price>
+    <condition>new</condition>
+    <notes>Steam over Holland
+First Edition
+Publisher: Vendetta</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Aug 2014 03:24:21 +0000</listdate>
+    <saledate>Sat, 04 Oct 2014 08:16:06 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>verygood</condition>
+    <notes>2007 Vendetta. Played, complete, in very good condition.  Copy #640 of 1000.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Oct 2014 16:46:30 +0000</listdate>
+    <saledate>Mon, 17 Nov 2014 18:27:45 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes>Played once. Vendetta edition, copy number 893 of 1000. Game, box, components in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Dec 2014 02:57:41 +0000</listdate>
+    <saledate>Mon, 15 Dec 2014 03:43:14 +0000</saledate>
+    <price currency='USD'>160</price>
+    <condition>verygood</condition>
+    <notes>For pharmakon.  Will not accept other buyers.
+Also includes In the Year of the Dragon + Expansion and Poseidon.
+Buyer to pay actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Nov 2014 20:09:22 +0000</listdate>
+    <saledate>Mon, 26 Jan 2015 22:01:47 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>verygood</condition>
+    <notes>Played, but no known defects in condition.
+Shipping is $15 (priority mail, insured)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Mar 2015 14:02:06 +0000</listdate>
+    <saledate>Mon, 09 Mar 2015 14:43:36 +0000</saledate>
+    <price currency='USD'>69</price>
+    <condition>verygood</condition>
+    <notes>This is for auction winner Happmrdave only
+Steam Over Holland: $69
+Shipping: $12.65
+_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt; Total: $81.65</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Feb 2015 21:05:30 +0000</listdate>
+    <saledate>Sat, 28 Mar 2015 11:14:31 +0000</saledate>
+    <price currency='EUR'>67.5</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment (Kiala or DHL4you) or € 6,75 per shipment (PostNL).
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Nov 2014 23:18:38 +0000</listdate>
+    <saledate>Thu, 09 Apr 2015 00:20:51 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Brand new, In shrink and great condition. Shrink is starting to come off just a bit.  Shipping is 18.00 to US except for Alaska and Hawaii.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Mar 2015 10:43:28 +0000</listdate>
+    <saledate>Sat, 18 Apr 2015 00:26:47 +0000</saledate>
+    <price currency='EUR'>62.5</price>
+    <condition>new</condition>
+    <notes>New, shrinkwrapped
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment (Kiala) or € 6,75 per shipment.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Apr 2015 20:18:26 +0000</listdate>
+    <saledate>Sun, 26 Apr 2015 17:19:08 +0000</saledate>
+    <price currency='EUR'>62.5</price>
+    <condition>new</condition>
+    <notes>New, shrinkwrapped
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment (Kiala) or € 6,75 per shipment.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Apr 2015 20:01:42 +0000</listdate>
+    <saledate>Tue, 28 Apr 2015 11:13:06 +0000</saledate>
+    <price currency='EUR'>62.5</price>
+    <condition>new</condition>
+    <notes>New, shrinkwrapped
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment (Kiala) or € 6,75 per shipment.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Apr 2015 16:05:54 +0000</listdate>
+    <saledate>Wed, 27 May 2015 21:20:16 +0000</saledate>
+    <price currency='EUR'>62.5</price>
+    <condition>new</condition>
+    <notes>New, shrinkwrapped
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment (Kiala) or € 6,75 per shipment.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Jul 2015 16:13:00 +0000</listdate>
+    <saledate>Tue, 21 Jul 2015 17:43:39 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193597/item/4001935#4001935]Item for Geeklist _T_E_M_P_T_A_G_quot;18xx auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Apr 2015 02:39:57 +0000</listdate>
+    <saledate>Sat, 15 Aug 2015 04:07:13 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>new</condition>
+    <notes>Still in shrink!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Jul 2015 15:03:40 +0000</listdate>
+    <saledate>Fri, 21 Aug 2015 18:19:45 +0000</saledate>
+    <price currency='EUR'>62</price>
+    <condition>new</condition>
+    <notes>Reserve for Ioannis
+Shrink wrapped.
+Accept Paypal or IBAN with BIC
+Any questions just ask</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Sep 2015 02:18:13 +0000</listdate>
+    <saledate>Fri, 30 Oct 2015 17:37:33 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition, contains a copy of the revised rules.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Aug 2015 21:46:03 +0000</listdate>
+    <saledate>Tue, 10 Nov 2015 01:48:08 +0000</saledate>
+    <price currency='EUR'>62</price>
+    <condition>new</condition>
+    <notes>New, shrinkwrapped
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2015 13:30:51 +0000</listdate>
+    <saledate>Sat, 28 Nov 2015 14:22:37 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/199504/item/4274258#4274258]Item for Geeklist _T_E_M_P_T_A_G_quot;Games You Want - Auction Ends Black Friday _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Dec 2015 16:34:15 +0000</listdate>
+    <saledate>Mon, 11 Jan 2016 15:51:37 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>Shipping incl. tracking and insurance: 7 EUR for Germany, 17 EUR in the EU, please ask for other countries.
+Played two times. Complete. French Rules are lost.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Sep 2015 03:21:54 +0000</listdate>
+    <saledate>Sat, 16 Jan 2016 19:28:30 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>new</condition>
+    <notes>Still in shrink.  Shrink has some nicks in it.  Box sleeve has one small ding.  I tried to take a picture, but can_T_E_M_P_T_A_G_#039;t get the right combination of surface reflections to make it show up in a picture.  Suffice to say, it isn_T_E_M_P_T_A_G_#039;t a very big ding.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jan 2016 20:36:33 +0000</listdate>
+    <saledate>Tue, 26 Jan 2016 12:57:34 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>New, shrinkwrapped
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Aug 2015 21:39:13 +0000</listdate>
+    <saledate>Sat, 30 Jan 2016 14:27:27 +0000</saledate>
+    <price currency='CAD'>120</price>
+    <condition>verygood</condition>
+    <notes>One black station miscut.  No effect on use.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Nov 2015 14:38:42 +0000</listdate>
+    <saledate>Fri, 05 Feb 2016 15:54:51 +0000</saledate>
+    <price currency='EUR'>58</price>
+    <condition>new</condition>
+    <notes>Shrink wrapped.
+Accept Paypal or IBAN with BIC
+Any questions just ask</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Feb 2016 23:15:34 +0000</listdate>
+    <saledate>Sun, 06 Mar 2016 19:31:46 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened but unplayed. Will ship to CONUS only. Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Feb 2016 20:54:34 +0000</listdate>
+    <saledate>Tue, 08 Mar 2016 11:57:46 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>Shrink wrapped.
+Accept Paypal or IBAN with BIC
+Any questions just ask</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Feb 2016 22:24:45 +0000</listdate>
+    <saledate>Tue, 08 Mar 2016 12:10:47 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>New, shrinkwrapped
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Mar 2016 17:51:04 +0000</listdate>
+    <saledate>Fri, 25 Mar 2016 18:41:05 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>likenew</condition>
+    <notes>Like New to Very Good .
+Played once, minimal wear.
+A small pressure mark on one corner of the box sleeve (minimal and without whitening).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Mar 2016 12:26:36 +0000</listdate>
+    <saledate>Fri, 15 Apr 2016 15:41:42 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>New, shrinkwrapped
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Apr 2016 15:42:41 +0000</listdate>
+    <saledate>Thu, 21 Apr 2016 19:27:44 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>New, shrinkwrapped
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 May 2016 20:02:46 +0000</listdate>
+    <saledate>Mon, 30 May 2016 10:08:12 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 May 2016 20:19:40 +0000</listdate>
+    <saledate>Sun, 19 Jun 2016 13:58:42 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>new</condition>
+    <notes>Shrink is not totally intact but there is no wear to the box</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 May 2016 16:36:39 +0000</listdate>
+    <saledate>Fri, 24 Jun 2016 23:09:17 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 May 2016 20:13:10 +0000</listdate>
+    <saledate>Thu, 01 Sep 2016 05:08:18 +0000</saledate>
+    <price currency='USD'>81</price>
+    <condition>likenew</condition>
+    <notes>We are a smoke-, pet-, and kid-free household. Shipping is via USPS Priority Mail Medium Flat Rate Box 2 at $13.45.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Aug 2016 16:00:29 +0000</listdate>
+    <saledate>Sat, 03 Sep 2016 15:37:10 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Sep 2016 22:17:19 +0000</listdate>
+    <saledate>Thu, 29 Sep 2016 10:57:16 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jul 2016 12:18:37 +0000</listdate>
+    <saledate>Thu, 20 Oct 2016 02:17:28 +0000</saledate>
+    <price currency='CAD'>100</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Oct 2016 06:40:05 +0000</listdate>
+    <saledate>Wed, 26 Oct 2016 08:28:36 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>Shipping within EU. (8,- in Germany - other countries different (usualy 8-15 Euros).
+Payment via paypal or money order (preferred).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Oct 2016 20:04:48 +0000</listdate>
+    <saledate>Mon, 31 Oct 2016 15:44:32 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Oct 2016 16:33:05 +0000</listdate>
+    <saledate>Tue, 20 Dec 2016 11:34:17 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jan 2016 11:06:50 +0000</listdate>
+    <saledate>Sat, 24 Dec 2016 23:17:11 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>new</condition>
+    <notes>New in shrink
+Non smoker
+Payment:
+Bank transfer to my bank account using IBAN/BIC
+Paypal (please add 2 % for the fees)
+Shipping: 
+always insured and with tracking
+Germany: € 7,--
+EU: bis 5 kg € 17,--; bis 10 kg € 22,--
+Rest of the world: Please contact me before purchasing an item to clarify the shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Feb 2017 17:14:15 +0000</listdate>
+    <saledate>Wed, 15 Feb 2017 23:52:07 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>new</condition>
+    <notes>Factory sealed.
+Payment: Bank transfer or PayPal (+3 %)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Dec 2016 11:38:13 +0000</listdate>
+    <saledate>Mon, 20 Feb 2017 22:16:10 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Feb 2017 17:20:12 +0000</listdate>
+    <saledate>Sat, 25 Mar 2017 15:56:24 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Mar 2017 20:34:33 +0000</listdate>
+    <saledate>Tue, 28 Mar 2017 03:38:47 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Sep 2016 12:41:10 +0000</listdate>
+    <saledate>Mon, 17 Apr 2017 01:01:56 +0000</saledate>
+    <price currency='USD'>110</price>
+    <condition>new</condition>
+    <notes>Brand New, in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Apr 2017 12:55:18 +0000</listdate>
+    <saledate>Mon, 15 May 2017 01:30:22 +0000</saledate>
+    <price currency='GBP'>55</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Jul 2017 15:59:07 +0000</listdate>
+    <saledate>Mon, 17 Jul 2017 16:07:51 +0000</saledate>
+    <price currency='USD'>105</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/227350/item/5492475#5492475]Item for Geeklist _T_E_M_P_T_A_G_quot;July 2017 Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Includes Fealty.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Jul 2017 17:52:38 +0000</listdate>
+    <saledate>Mon, 24 Jul 2017 16:17:56 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Played once, in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 May 2017 19:24:11 +0000</listdate>
+    <saledate>Fri, 20 Oct 2017 21:12:43 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>verygood</condition>
+    <notes>Only played twice - almost like new
+extra print-outs of rules and some charts</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Oct 2014 12:23:16 +0000</listdate>
+    <saledate>Mon, 18 Dec 2017 13:34:32 +0000</saledate>
+    <price currency='EUR'>79.99</price>
+    <condition>new</condition>
+    <notes>Steam over Holland_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;First Edition_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Publisher: Vendetta</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jan 2018 05:59:58 +0000</listdate>
+    <saledate>Fri, 12 Jan 2018 03:27:43 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Opened, played once, excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 May 2018 10:23:42 +0000</listdate>
+    <saledate>Thu, 31 May 2018 11:48:26 +0000</saledate>
+    <price currency='GBP'>60</price>
+    <condition>likenew</condition>
+    <notes>In mint condition. The box comes in a very sturdy outer sleeve. There were some issues where some of the company tokens didn’t quite match the company charter colours. For instance there was a purple charter but the token was pink. The tokens were just small wooden houses. So I bought a whole set of matching ones for the charters, and they’re much better quality than the originals (which I used for something else so not included).
+All cards are in premium sleeves.
+The paper money is unused as we used poker chips.
+I’ve also printed out and laminated 5 Player Aid / Reference Sheets.
+Shipping to U.K. only.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Jun 2018 02:15:07 +0000</listdate>
+    <saledate>Fri, 01 Jun 2018 12:03:44 +0000</saledate>
+    <price currency='USD'>117</price>
+    <condition>verygood</condition>
+    <notes>Reserved for used diemacher</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Jul 2018 23:16:32 +0000</listdate>
+    <saledate>Fri, 31 Aug 2018 20:40:55 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>verygood</condition>
+    <notes>Game is in excellent condition having been played once or twice. It come from a smoke and pet free home.
+Buyer to pay exact shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Aug 2018 21:01:06 +0000</listdate>
+    <saledate>Thu, 20 Sep 2018 09:57:59 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Combine shipping after checking my total sales list: https://www.boardgamegeek.com/geekmarket/user/mightyraven
+Within The Netherlands € 4,50 per shipment to a DPD service point near you or € 5,75 per shipment for delivery at your doorstep.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Sep 2018 09:22:19 +0000</listdate>
+    <saledate>Wed, 24 Oct 2018 20:48:24 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Combine shipping after checking my total sales list: https://www.boardgamegeek.com/geekmarket/user/mightyraven
+Within The Netherlands € 4,50 per shipment to a DPD service point near you or € 5,75 per shipment for delivery at your doorstep.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Oct 2018 21:34:01 +0000</listdate>
+    <saledate>Wed, 14 Nov 2018 13:39:28 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Combine shipping after checking my total sales list: https://www.boardgamegeek.com/geekmarket/user/mightyraven
+Within The Netherlands € 4,50 per shipment to a DPD service point near you or € 5,75 per shipment for delivery at your doorstep.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Jan 2019 00:34:06 +0000</listdate>
+    <saledate>Wed, 02 Jan 2019 06:03:57 +0000</saledate>
+    <price currency='AUD'>100</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jan 2019 23:07:57 +0000</listdate>
+    <saledate>Wed, 16 Jan 2019 21:23:33 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English/German/Dutch/French
+Combine shipping after checking my total sales list: https://www.boardgamegeek.com/geekmarket/user/mightyraven
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Aug 2014 13:55:05 +0000</listdate>
+    <saledate>Mon, 21 Jan 2019 13:59:12 +0000</saledate>
+    <price currency='EUR'>80</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

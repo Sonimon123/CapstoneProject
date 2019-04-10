@@ -1,0 +1,770 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="20022">
+   <yearpublished>2006</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>45</playingtime>
+   <minplaytime>45</minplaytime>
+   <maxplaytime>45</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Terra Nova</name>
+         
+   <description>In Terra Nova, players try to claim areas of land by moving control markers and placing fences. Each turn, a player must take three actions, first moving a control marker, then taking two further actions from these possibilities: _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     moving a control marker (whether the same one or a different one) and/or_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     placing a fence next to a control marker that moved this turn._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Areas are scored once they're enclosed and contain no more than three types of landscape. Whoever has the majority of pieces in an area scores points based on the number of spaces and the number of types of landscape in the area, with fewer types scoring more points. Points are split in case of a tie. The game ends once all areas have been scored._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Winner of Premio Archimede 2004._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/G_-XReKQc_fE6wfuEfGHCjufxd0=/fit-in/200x150/pic696514.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/_vW_o87TL1rQsAbeYCIOvrRg0K0=/0x0/pic696514.jpg</image>
+      
+            <boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+               <boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+               <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+               <boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+               <boardgamepublisher objectid="4335">Competo / Marektoy</boardgamepublisher>
+                                                                <boardgameversion objectid="25114">English Winning Moves edition</boardgameversion>
+               <boardgamedesigner objectid="2623">Gaetano Evola</boardgamedesigner>
+               <boardgameversion objectid="33930">German edition</boardgameversion>
+                                                                                            <boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+               <boardgamepublisher objectid="5367">Immortal Eyes Games</boardgamepublisher>
+               <boardgamefamily objectid="13449">Immortal Eyes Games Collection</boardgamefamily>
+               <boardgamedesigner objectid="2622">Rosanna Leocata</boardgamedesigner>
+               <boardgameversion objectid="136691">Marektoy Finnish edition</boardgameversion>
+               <boardgameartist objectid="11825">Michael Menzel</boardgameartist>
+                                                                       <boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+               <boardgamepublisher objectid="59">Winning Moves Games (USA)</boardgamepublisher>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="37">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="26" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="26" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="17" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="13" />
+     <result value="Not Recommended" numvotes="14" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="24" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="14">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="14" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="1" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="5" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1560</usersrated>
+     <average>6.4175</average>
+     <bayesaverage>6.01712</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2123" bayesaverage="6.01712" />
+            
+       
+              <rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="134" bayesaverage="6.27702" />
+            
+           </ranks>
+     
+     <stddev>1.26007</stddev>
+     <median>0</median>
+     <owned>2282</owned>
+     <trading>160</trading>
+     <wanting>42</wanting>
+     <wishing>162</wishing>
+     <numcomments>538</numcomments>
+     <numweights>154</numweights>
+     <averageweight>2.2597</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 01 Sep 2006 14:58:04 +0000</listdate>
+    <saledate>Mon, 20 Nov 2006 01:21:33 +0000</saledate>
+    <price currency='USD'>22.95</price>
+    <condition>new</condition>
+    <notes>We only sell brand new, shrinkwrapped games.  International shipping available.
+Edition: Winning Moves (Immortal Eyes) (2006)
+WNM 7003</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Sep 2007 03:37:37 +0000</listdate>
+    <saledate>Sat, 29 Sep 2007 10:27:26 +0000</saledate>
+    <price currency='USD'>13.5</price>
+    <condition>likenew</condition>
+    <notes>Unused great condition game, real shipping costs only</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Oct 2007 23:59:45 +0000</listdate>
+    <saledate>Fri, 09 Nov 2007 00:01:27 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition, like new, just not my thing.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Dec 2007 04:17:25 +0000</listdate>
+    <saledate>Tue, 22 Apr 2008 00:32:28 +0000</saledate>
+    <price currency='USD'>22.75</price>
+    <condition>new</condition>
+    <notes>Brand new still in shrink wrap Immortal Eyes edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Mar 2008 19:59:02 +0000</listdate>
+    <saledate>Tue, 22 Apr 2008 04:07:37 +0000</saledate>
+    <price currency='USD'>17.95</price>
+    <condition>new</condition>
+    <notes>in shrink, from a smoke-free environment</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Dec 2008 03:52:23 +0000</listdate>
+    <saledate>Wed, 29 Aug 2012 20:22:33 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>In shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Dec 2008 02:26:32 +0000</listdate>
+    <saledate>Wed, 31 Dec 2008 05:52:59 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>Played once, maybe twice?</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Feb 2009 21:31:29 +0000</listdate>
+    <saledate>Fri, 27 Feb 2009 14:54:53 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>new</condition>
+    <notes>In shrink.
+Shipping is $9.  Please ask about combined shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 May 2009 16:38:39 +0000</listdate>
+    <saledate>Sun, 11 Aug 2013 17:43:24 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>In shrink-wrap</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 May 2009 01:10:32 +0000</listdate>
+    <saledate>Thu, 07 Jan 2010 14:52:40 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Punched but never played. Looks brand new.
+I prefer paypal, but will also accept check or money order (though it will be slower).
+I ship by USPS parcel post with delivery confirmation. If you order several games from me, I will combine shipping.
+Shipping cost is $6 to anywhere in the US (probably more if you_T_E_M_P_T_A_G_#039;re in Alaska or Hawaii, but I have no experience in that area). If you order a bunch of stuff, the shipping cost is still $6! I_T_E_M_P_T_A_G_#039;m trying to make room here!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Aug 2009 17:56:45 +0000</listdate>
+    <saledate>Sat, 15 Aug 2009 17:05:11 +0000</saledate>
+    <price currency='USD'>14.25</price>
+    <condition>likenew</condition>
+    <notes>PayPal only and shipping within continental United States only please.
+Non smoking, non pet home, adult owned. 
+With the exception that this game is not shrink wrapped, it is in Like New condition.
+One rate shipping anywhere in the continental United States is only $ 5.50.
+ 
+ 
+  </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Nov 2009 18:31:36 +0000</listdate>
+    <saledate>Wed, 09 Dec 2009 02:52:24 +0000</saledate>
+    <price currency='USD'>9.49</price>
+    <condition>likenew</condition>
+    <notes>No credit cards please.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Nov 2009 21:11:20 +0000</listdate>
+    <saledate>Sat, 06 Nov 2010 11:11:41 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>new</condition>
+    <notes>original german winning moves edition
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Jan 2010 20:58:04 +0000</listdate>
+    <saledate>Mon, 11 Jun 2012 19:19:46 +0000</saledate>
+    <price currency='EUR'>11</price>
+    <condition>likenew</condition>
+    <notes>German edition (Winning moves)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Jun 2010 20:47:19 +0000</listdate>
+    <saledate>Sun, 06 Jun 2010 23:15:06 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Auction Winner oudknoei</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Jul 2010 18:48:03 +0000</listdate>
+    <saledate>Sun, 25 Jul 2010 06:03:56 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>For user dragondrive</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Nov 2010 20:13:50 +0000</listdate>
+    <saledate>Wed, 15 Jun 2011 21:58:38 +0000</saledate>
+    <price currency='USD'>12.5</price>
+    <condition>new</condition>
+    <notes>New, still in the shrinkwrap. Box is in mint condition.
+Shipping: Shipping rates are determined upon sale or by request. Insurance is optional. Combined shipping for multiple items.
+Payment: PayPal
+Return Policy: I will accept returns of any item for a refund of the purchase price within 30 days of the sale. I cannot refund the shipping cost.
+Please feel free to ask questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Nov 2010 14:06:23 +0000</listdate>
+    <saledate>Tue, 07 Dec 2010 14:07:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>New in Shrink. 
+Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Dec 2010 20:17:34 +0000</listdate>
+    <saledate>Sat, 04 Jun 2011 18:43:06 +0000</saledate>
+    <price currency='USD'>11.99</price>
+    <condition>likenew</condition>
+    <notes>Complete, only played once.
+Package will be shipped by the United States Postal Service.  Buyer pays all shipping and handling costs.  I will be happy to combine shipping and handling costs if you buy more than one game.  Local pick-up is available near Los Angeles, CA.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Dec 2010 20:24:36 +0000</listdate>
+    <saledate>Sat, 18 Dec 2010 15:27:22 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>Sold to Doctor_Zaius in my geeklist auction</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Jan 2011 05:54:27 +0000</listdate>
+    <saledate>Mon, 24 Jan 2011 23:28:38 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>Played once. Trying to shrink my collection.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Feb 2011 15:49:28 +0000</listdate>
+    <saledate>Sun, 13 Mar 2011 18:40:33 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Immortal Eyes Games.  Shipping USPS Priority.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Feb 2011 04:28:10 +0000</listdate>
+    <saledate>Mon, 28 Feb 2011 14:03:58 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Terra Nova Bundle reserved for the_kid</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Mar 2011 13:50:21 +0000</listdate>
+    <saledate>Fri, 01 Apr 2011 14:55:13 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Reserved for kimapesan from auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Mar 2011 18:50:40 +0000</listdate>
+    <saledate>Sun, 20 Mar 2011 19:40:24 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>This is for Fizbin44 only.  </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 May 2011 11:45:45 +0000</listdate>
+    <saledate>Thu, 08 Dec 2011 15:42:14 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>In the shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 May 2011 22:43:23 +0000</listdate>
+    <saledate>Fri, 13 May 2011 22:50:52 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>verygood</condition>
+    <notes>For Blakstar</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Jun 2011 03:52:49 +0000</listdate>
+    <saledate>Sat, 30 Jul 2011 02:34:51 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played.  Excellent condition.
+TERRA NOVA: $5.00
+SHIPPING
+US ONLY - $8.00</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Apr 2012 14:03:55 +0000</listdate>
+    <saledate>Thu, 31 May 2012 02:09:17 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>new in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jul 2012 22:18:36 +0000</listdate>
+    <saledate>Tue, 18 Jun 2013 04:34:55 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Played, complete, in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jul 2012 20:05:04 +0000</listdate>
+    <saledate>Sat, 12 Jul 2014 04:26:28 +0000</saledate>
+    <price currency='USD'>11.75</price>
+    <condition>verygood</condition>
+    <notes>Played a couple times.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jul 2012 23:52:33 +0000</listdate>
+    <saledate>Mon, 03 Dec 2012 14:34:12 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>verygood</condition>
+    <notes>Minor corner scuffing, components in excellent condition. Please check out my other games for sale to see if you can bundle and save on postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Sep 2012 21:04:58 +0000</listdate>
+    <saledate>Tue, 04 Sep 2012 21:51:50 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>new</condition>
+    <notes>** RESERVED for BGG user Ted Anderson moremonkeys138, won with a BIN in my auction which ends 9/11/12 **</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Jun 2013 04:35:01 +0000</listdate>
+    <saledate>Fri, 07 Jun 2013 12:23:29 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>Reserved for auction winner natsean</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Jun 2013 16:07:35 +0000</listdate>
+    <saledate>Tue, 10 Sep 2013 11:46:25 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Jun 2013 12:51:41 +0000</listdate>
+    <saledate>Mon, 01 Jul 2013 13:32:48 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>likenew</condition>
+    <notes>For the action _T_E_M_P_T_A_G_quot;3 Men and an Auction_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Jun 2013 13:36:26 +0000</listdate>
+    <saledate>Tue, 02 Jul 2013 00:23:06 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>new</condition>
+    <notes>For the action _T_E_M_P_T_A_G_quot;3 Men and an Auction_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Jul 2013 12:01:34 +0000</listdate>
+    <saledate>Wed, 03 Jul 2013 18:00:36 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR MATTY TOTONCHY AT $6.00</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Sep 2013 07:52:21 +0000</listdate>
+    <saledate>Wed, 25 Jun 2014 16:40:01 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Oct 2013 21:09:09 +0000</listdate>
+    <saledate>Sat, 12 Oct 2013 21:14:34 +0000</saledate>
+    <price currency='EUR'>2</price>
+    <condition>likenew</condition>
+    <notes>Reserved for A skinned math nerd from auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Nov 2013 06:00:21 +0000</listdate>
+    <saledate>Fri, 15 Nov 2013 03:05:29 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>new</condition>
+    <notes>reserved for VikingPrincess</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Jan 2014 19:15:11 +0000</listdate>
+    <saledate>Sun, 17 Aug 2014 07:54:41 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>German version of Terra Nova, box opened, played once. Perfect condition.
+Shipping Germany: 4 Euro
+In case of PayPal: +1 Euro
+Money transfer via IBAN/BIC preferred</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Mar 2014 02:44:47 +0000</listdate>
+    <saledate>Wed, 12 Mar 2014 18:15:49 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>This is the result of a geeklist auction.  Please do not purchase unless you are user molnar</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 May 2014 03:31:17 +0000</listdate>
+    <saledate>Wed, 14 May 2014 23:13:05 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>good</condition>
+    <notes>For hntrbass only. This sale has been auto-generated for the auction: [geekurl=/geeklist/173323/item/3213165#3213165]Item for Geeklist _T_E_M_P_T_A_G_quot;Yet Another Geekway Auction - Ending Tuesday May 13 9:00pm CDT._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Sep 2014 02:59:58 +0000</listdate>
+    <saledate>Thu, 11 Sep 2014 06:22:14 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/178072/item/3409227#3409227]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction (STL - 63141) Ending 9pm CDT 2014-09-10_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Oct 2012 14:47:43 +0000</listdate>
+    <saledate>Mon, 17 Nov 2014 14:16:38 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>new</condition>
+    <notes>Game is complete,  In shrink.
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+Italian version (German one available, too. VERY GOOD)
+Winning Moves</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Jun 2013 17:52:19 +0000</listdate>
+    <saledate>Tue, 20 Jan 2015 11:16:11 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>verygood</condition>
+    <notes>excellent condition - played only once</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Oct 2014 20:35:18 +0000</listdate>
+    <saledate>Tue, 23 Jun 2015 22:58:17 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Sealed, new in shrinkwrap.
+Shipping: Shipping rates are determined upon sale or by request. Insurance is optional. Combined shipping for multiple items.
+Payment: PayPal
+Return Policy: I will accept returns of any item for a refund of the purchase price within 30 days of the sale. I cannot refund the shipping cost.
+Please feel free to ask questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Jun 2015 22:55:48 +0000</listdate>
+    <saledate>Mon, 20 Jul 2015 02:57:24 +0000</saledate>
+    <price currency='USD'>9.5</price>
+    <condition>verygood</condition>
+    <notes>Will discount _T_E_M_P_T_A_G_amp; combine shipping for multiple purchases.  Just let me know in which games you are interested.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Jul 2015 00:03:41 +0000</listdate>
+    <saledate>Fri, 21 Aug 2015 03:33:34 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Very good condition. Played twice.
+Buyer agrees to pay USPS shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Sep 2015 15:31:29 +0000</listdate>
+    <saledate>Wed, 02 Sep 2015 15:47:14 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/195654/item/4095026#4095026]Item for Geeklist _T_E_M_P_T_A_G_quot;Another auction: with free games! -- ends September 1_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Aug 2014 20:45:34 +0000</listdate>
+    <saledate>Wed, 04 Nov 2015 21:26:29 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>2006 Immortal Eyes Games. Played, complete, in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Nov 2015 14:01:30 +0000</listdate>
+    <saledate>Thu, 19 Nov 2015 00:38:46 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198973/item/4249771#4249771]Item for Geeklist _T_E_M_P_T_A_G_quot;[US/Canada Auction - Ends Wednesday, November 11] - Another Auction (Ohio)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Nov 2015 17:21:08 +0000</listdate>
+    <saledate>Wed, 06 Jan 2016 04:46:25 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>verygood</condition>
+    <notes>Box and pieces in excellent condition.  Buyer pays shipping or may arrange local pickup.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Apr 2014 00:38:00 +0000</listdate>
+    <saledate>Fri, 12 Feb 2016 20:45:07 +0000</saledate>
+    <price currency='USD'>12.5</price>
+    <condition>likenew</condition>
+    <notes>Opened and examined but never played. This game is in like new condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Dec 2015 16:02:02 +0000</listdate>
+    <saledate>Thu, 10 Mar 2016 08:22:24 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>The game:
+Winning Moves (c) 2006.
+GERMAN EDITION!
+All game materials are still in mint condition.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within Germany I prefer the standard-bank-tranfer (IBAN). It is fast and causes no fees.
+Outside Germany Paypal and bank-transfer are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Mar 2016 00:56:47 +0000</listdate>
+    <saledate>Fri, 18 Mar 2016 17:57:36 +0000</saledate>
+    <price currency='USD'>11.81</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Jun 2016 08:55:17 +0000</listdate>
+    <saledate>Fri, 08 Jul 2016 11:37:58 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jul 2016 19:50:43 +0000</listdate>
+    <saledate>Sat, 30 Jul 2016 19:51:56 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/210790/item/4765422#4765422]Item for Geeklist _T_E_M_P_T_A_G_quot;Gen Con Virtual Flea Market 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Oct 2016 06:13:11 +0000</listdate>
+    <saledate>Wed, 26 Oct 2016 06:43:00 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/215234/item/4935888#4935888]Item for Geeklist _T_E_M_P_T_A_G_quot;My Prices Are Awful - The Passive Aggressive $1 Auction - First Goal Must Be Met_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Sep 2016 19:47:42 +0000</listdate>
+    <saledate>Fri, 25 Nov 2016 10:31:19 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>verygood</condition>
+    <notes>Barely played, bought from another user on here</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Nov 2016 12:28:19 +0000</listdate>
+    <saledate>Mon, 26 Dec 2016 13:05:44 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>In perfect condition. Language independent.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jul 2016 09:47:36 +0000</listdate>
+    <saledate>Thu, 29 Dec 2016 15:25:23 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Feb 2017 05:22:53 +0000</listdate>
+    <saledate>Tue, 21 Feb 2017 11:52:05 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/221425/item/5189179#5189179]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION -- Sad to See You Go_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Mar 2017 15:31:37 +0000</listdate>
+    <saledate>Wed, 01 Mar 2017 15:39:52 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>verygood</condition>
+    <notes>This was an auction item.  already paid for COD.
+This is for user: Corrino22</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 May 2017 16:41:32 +0000</listdate>
+    <saledate>Fri, 19 May 2017 17:00:29 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/224488/item/5370078#5370078]Item for Geeklist _T_E_M_P_T_A_G_quot;Origins Virtual Flea Market 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 May 2017 04:11:47 +0000</listdate>
+    <saledate>Mon, 22 May 2017 04:29:48 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>My first Geek List Auction Twin Cities MN
+For purchase only by Ryan (Ebyl)
+Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Apr 2017 04:02:23 +0000</listdate>
+    <saledate>Sat, 27 May 2017 11:38:47 +0000</saledate>
+    <price currency='USD'>11.97</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Oct 2017 02:22:39 +0000</listdate>
+    <saledate>Sat, 07 Oct 2017 11:54:53 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230751/item/5666925#5666925]Item for Geeklist _T_E_M_P_T_A_G_quot;CBERG_T_E_M_P_T_A_G_#039;s Shelf Clearing Auction #2 - CLOSED!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for dbc65</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Nov 2017 02:02:54 +0000</listdate>
+    <saledate>Sun, 12 Nov 2017 02:23:56 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230892/item/5723795#5723795]Item for Geeklist _T_E_M_P_T_A_G_quot;PAX Unplugged Virtual Flea Market 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Nov 2017 12:49:39 +0000</listdate>
+    <saledate>Sat, 25 Nov 2017 21:07:22 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Dec 2017 06:19:09 +0000</listdate>
+    <saledate>Thu, 07 Dec 2017 00:31:52 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/232884/item/5775111#5775111]Item for Geeklist _T_E_M_P_T_A_G_quot;Northeast Ohio gamers united AUCTION.  OVER 250 items!  (Ends Dec 1st.)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Aug 2017 01:08:19 +0000</listdate>
+    <saledate>Sat, 23 Dec 2017 12:23:51 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>Game is in great condition.
+Shipping costs not included.  Buyer to pay actual shipping and handling via UPS or USPS From zip code 23831</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jan 2018 22:15:44 +0000</listdate>
+    <saledate>Mon, 08 Jan 2018 14:02:08 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>Please send a message if you are interested and ask for shipping costs to your location. Payment can be done by bank transfer or Pay pal. If you have any other question, please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Apr 2017 18:24:25 +0000</listdate>
+    <saledate>Sun, 06 May 2018 23:05:42 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jun 2018 15:59:40 +0000</listdate>
+    <saledate>Mon, 11 Jun 2018 07:07:41 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Auction item for: goldengamer
+PLEASE WAIT UNTIL ALL ITEMS ARE IN THE MARKETPLACE BEFORE ADDING TO YOUR CART AND SUBMITTING YOUR ORDER. - NOTE: If you are getting at 5% discount I will account for it on your final order.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/240879/item/6166871#6166871]Item for Geeklist _T_E_M_P_T_A_G_quot;** ENDED 8:01pm PST ** SUMMER FUN AUCTION - ENDS JUNE 4TH [INTL SHIP] - 100+ items: STAR WARS EPIC DUELS,Rallyman,VIKINGS,Roads _T_E_M_P_T_A_G_amp; Boats +exp,THURN _T_E_M_P_T_A_G_amp; TAXIS +exp,Aladdin_T_E_M_P_T_A_G_#039;s Dragons,JAVA,Bora Bora,BLACK FLEET (painted),Abstract Games,MORE!!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jun 2018 14:00:38 +0000</listdate>
+    <saledate>Tue, 12 Jun 2018 17:46:11 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231344/item/6192591#6192591]Item for Geeklist _T_E_M_P_T_A_G_quot;Columbus, Ohio Virtual Flea Market (Now including Origins drop off and pick up)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Nov 2014 22:09:33 +0000</listdate>
+    <saledate>Thu, 23 Aug 2018 12:43:06 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Game is complete,  
+Payments: bank account or Paypal _T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;If you want to pay by Paypal, there will be an additional fee
+German version  Winning Moves</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2018 19:20:57 +0000</listdate>
+    <saledate>Mon, 27 Aug 2018 17:02:02 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Sep 2018 19:44:33 +0000</listdate>
+    <saledate>Tue, 04 Dec 2018 02:29:27 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>Factory sealed in original shrink wrap. Shipping is $14.00 for Priority Mail (which includes insurance). PayPal payment can be sent to bitva2@yahoo.com, thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Nov 2018 01:37:35 +0000</listdate>
+    <saledate>Tue, 18 Dec 2018 16:20:12 +0000</saledate>
+    <price currency='USD'>9.49</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

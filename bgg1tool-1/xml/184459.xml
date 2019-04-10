@@ -1,0 +1,508 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="184459">
+   <yearpublished>2016</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>120</playingtime>
+   <minplaytime>45</minplaytime>
+   <maxplaytime>120</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Ave Roma</name>
+         
+   <description>Ave Roma is a worker placement game with some unique mechanisms. All workers have a value and all are common workers. At the beginning of a new turn you always start with five workers, but depending on your previous decisions you will always have different workers. In the first phase you have to send out your workers, and in the next one you have to collect them _T_E_M_P_T_A_G_amp;mdash; but in most cases you get back different ones._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;You have several ways to win the game. You can build buildings, support wars, convince patrons, obtain influence in territories, get money and resources, and so on. It's a complex game with several mechanisms and components._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/aQlCRfWcpBAwVrvI_yU3T2OiEmk=/fit-in/200x150/pic2938270.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/VqZHArAJlNmmdpLj6ZIKNyJ2vLc=/0x0/pic2938270.jpg</image>
+      
+            <boardgamepublisher objectid="28002">A-games (Board Game)</boardgamepublisher>
+               <boardgamecategory objectid="1050">Ancient</boardgamecategory>
+               <boardgamefamily objectid="5606">Ancient Rome</boardgamefamily>
+               <boardgamefamily objectid="47872">Ave Roma</boardgamefamily>
+                             <boardgameexpansion objectid="208304">Ave Roma: CENSOR expansion</boardgameexpansion>
+               <boardgameexpansion objectid="208301">Ave Roma: CONSUL expansion</boardgameexpansion>
+               <boardgameexpansion objectid="211076">Ave Roma: Essen expansion</boardgameexpansion>
+               <boardgameexpansion objectid="208300">Ave Roma: IMPERATOR expansion</boardgameexpansion>
+               <boardgameexpansion objectid="208303">Ave Roma: MAGISTRATUS expansion</boardgameexpansion>
+               <boardgameexpansion objectid="208302">Ave Roma: PREATOR expansion</boardgameexpansion>
+               <boardgamecategory objectid="1015">Civilization</boardgamecategory>
+               <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+               <boardgamecategory objectid="1021">Economic</boardgamecategory>
+               <boardgamepodcastepisode objectid="210487">Episode 4 - Games with Controversial Historical Topics</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="204728">Episode Seven - Anachrony, Ave Roma, Exit: The Game</boardgamepodcastepisode>
+                             <boardgamepodcastepisode objectid="189162">HLG 9: Essen in Zicht</boardgamepodcastepisode>
+               <boardgameversion objectid="285516">Multilingual first edition</boardgameversion>
+               <boardgameversion objectid="356119">Multilingual second edition</boardgameversion>
+                      <boardgameartist objectid="89834">Gyula Pozsgay</boardgameartist>
+               <boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamedesigner objectid="79232">Attila Szőgyi</boardgamedesigner>
+               <boardgameartist objectid="79232">Attila Szőgyi</boardgameartist>
+               <boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+               <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+                      <boardgamepodcastepisode objectid="193253">Vox Republica 131: Online Communities</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="190628">What Did You Play This Week Podcast Thing Week 99</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="3" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="3" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>722</usersrated>
+     <average>7.24515</average>
+     <bayesaverage>6.1497</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1682" bayesaverage="6.1497" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="777" bayesaverage="6.311" />
+            
+           </ranks>
+     
+     <stddev>1.36118</stddev>
+     <median>0</median>
+     <owned>1229</owned>
+     <trading>41</trading>
+     <wanting>110</wanting>
+     <wishing>352</wishing>
+     <numcomments>226</numcomments>
+     <numweights>45</numweights>
+     <averageweight>3.7556</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 05 Jul 2016 01:12:04 +0000</listdate>
+    <saledate>Mon, 15 Aug 2016 16:03:05 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER****  Ave Roma is expected to ship in Q4, 2016.
+This listing is for the Kickstarter Edition of Ave Roma, with the Add-On Imperator and Consul Expansions.
+Shipping to be determined when the game arrives. 
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jul 2016 01:12:04 +0000</listdate>
+    <saledate>Tue, 04 Oct 2016 14:35:35 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER****  Ave Roma is expected to ship in Q4, 2016.
+This listing is for the Kickstarter Edition of Ave Roma, with the Add-On Imperator and Consul Expansions.
+Shipping to be determined when the game arrives. 
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jul 2016 01:12:04 +0000</listdate>
+    <saledate>Wed, 05 Oct 2016 12:56:23 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER****  Ave Roma is expected to ship in Q4, 2016.
+This listing is for the Kickstarter Edition of Ave Roma, with the Add-On Imperator and Consul Expansions.
+Shipping to be determined when the game arrives. 
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Oct 2016 23:19:41 +0000</listdate>
+    <saledate>Wed, 05 Oct 2016 16:38:44 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Unplayed.  Punched.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2016 09:55:41 +0000</listdate>
+    <saledate>Mon, 17 Oct 2016 15:56:55 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter edition, opened but unplayed.
+Postage UK only, £5.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jul 2016 01:12:04 +0000</listdate>
+    <saledate>Sun, 23 Oct 2016 01:17:46 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER****  Ave Roma is expected to ship in Q4, 2016.
+This listing is for the Kickstarter Edition of Ave Roma, with the Add-On Imperator and Consul Expansions.
+Shipping to be determined when the game arrives. 
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jul 2016 01:12:04 +0000</listdate>
+    <saledate>Mon, 07 Nov 2016 20:21:37 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER****  Ave Roma is expected to ship in Q4, 2016.
+This listing is for the Kickstarter Edition of Ave Roma, with the Add-On Imperator and Consul Expansions.
+Shipping to be determined when the game arrives. 
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Nov 2016 12:26:58 +0000</listdate>
+    <saledate>Wed, 23 Nov 2016 17:53:43 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>likenew</condition>
+    <notes>Opened, but not Played.  All Expansions Included.  Only ship to United Kingdom  £7.99 P_T_E_M_P_T_A_G_amp;P</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jul 2016 01:12:04 +0000</listdate>
+    <saledate>Sun, 27 Nov 2016 22:18:13 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER****  Ave Roma is expected to ship in Q4, 2016.
+This listing is for the Kickstarter Edition of Ave Roma, with the Add-On Imperator and Consul Expansions.
+Shipping to be determined when the game arrives. 
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jul 2016 01:12:04 +0000</listdate>
+    <saledate>Wed, 07 Dec 2016 03:29:11 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER****  Ave Roma is expected to ship in Q4, 2016.
+This listing is for the Kickstarter Edition of Ave Roma, with the Add-On Imperator and Consul Expansions.
+Shipping to be determined when the game arrives. 
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Dec 2016 11:37:38 +0000</listdate>
+    <saledate>Tue, 20 Dec 2016 18:35:51 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter version - with 5 expansions and promo cards!
+Shipping to Europe would be 20 euros. Elsewhere, please ask!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jan 2017 14:40:13 +0000</listdate>
+    <saledate>Wed, 11 Jan 2017 15:05:41 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Punched, sorted and bagged but never played. KS edition with all extras / expansions.
+Ships from 27518</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2017 20:06:31 +0000</listdate>
+    <saledate>Thu, 12 Jan 2017 17:58:05 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter Premium Edition of Ave Roma with all the Kickstarter expansions and upgraded worker pieces (Roman columns instead of wooden discs!)
+Game is in excellent condition - it has only been played once and has been carefully stored. 
+Shipping will be £6.30 with Collect+. I am very happy to combine postage on multiple items - please message me for an estimate.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jan 2017 16:12:14 +0000</listdate>
+    <saledate>Tue, 24 Jan 2017 18:57:40 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>This listing is for the Kickstarter Edition of Ave Roma, with the Add-On Imperator and Consul Expansions.
+Shipping weight is approximately five pounds (2.2 kg). 
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2017 07:18:47 +0000</listdate>
+    <saledate>Sun, 29 Jan 2017 11:17:18 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>new</condition>
+    <notes>Kickstarter Version</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Feb 2017 21:57:11 +0000</listdate>
+    <saledate>Sun, 05 Feb 2017 22:33:37 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Item will ship USPS Priority w/ tracking 1-3 days after payment is received.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jan 2017 16:12:14 +0000</listdate>
+    <saledate>Sat, 18 Feb 2017 16:19:57 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>This listing is for the Kickstarter Edition of Ave Roma, with the Add-On Imperator and Consul Expansions.
+Shipping weight is approximately five pounds (2.2 kg). 
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Feb 2017 23:33:41 +0000</listdate>
+    <saledate>Wed, 22 Feb 2017 22:03:24 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter Premium Edition
+Pieces punched and bagged
+English rules only
+Unplayed
+Shipping $15</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Feb 2017 17:32:51 +0000</listdate>
+    <saledate>Sat, 25 Feb 2017 04:12:21 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>This listing is for the Kickstarter Edition of Ave Roma, with the Add-On Imperator and Consul Expansions. Opened, stickers applied and components bagged. Never played. Box is slightly damaged from previous shipping as seen in the picture.
+Shipping weight is approximately five pounds (2.2 kg). Buyer pays for shipping. Will use USPS flat rate medium box unless otherwise requested.
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 19:14:22 +0000</listdate>
+    <saledate>Sun, 12 Mar 2017 19:51:45 +0000</saledate>
+    <price currency='GBP'>60</price>
+    <condition>new</condition>
+    <notes>Premium edition with extra two mini expansions. Unopened, kickstarted, never got round to playing.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Mar 2017 14:15:13 +0000</listdate>
+    <saledate>Mon, 20 Mar 2017 14:44:39 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223313/item/5285163#5285163]Item for Geeklist _T_E_M_P_T_A_G_quot;Spring Cleaning - Ave Roma+, Glory to Rome IV, Royal Turf, Infamous Traffic, Lorenzo, Great Western Trail, Adrenalin, Princes of Florence, Bora Bora, Ta Yu, ETC..._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Mar 2017 23:53:28 +0000</listdate>
+    <saledate>Fri, 31 Mar 2017 05:50:41 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Played a few times.  Retail version - not KS - no expansions.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Mar 2017 15:16:49 +0000</listdate>
+    <saledate>Mon, 03 Apr 2017 11:13:00 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>All 5 expansions included.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Apr 2017 17:35:35 +0000</listdate>
+    <saledate>Sun, 30 Apr 2017 08:33:06 +0000</saledate>
+    <price currency='EUR'>79.9</price>
+    <condition>new</condition>
+    <notes>Kickstarter Edition, Includes the expansions:
+Set 1: Censor
+Set 2: Magistratus
+Set 3: Preator
+Set 4: Consul
+Set 5: Imperator</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Mar 2017 16:24:20 +0000</listdate>
+    <saledate>Thu, 15 Jun 2017 16:27:27 +0000</saledate>
+    <price currency='GBP'>100</price>
+    <condition>likenew</condition>
+    <notes>Includes the expansions:
+Set 1: Censor
+Set 2: Magistratus
+Set 3: Preator
+Set 4: Consul
+Set 5: Imperator
+Also plastic component boxes with professionally printed label cards.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Mar 2017 03:17:38 +0000</listdate>
+    <saledate>Mon, 07 Aug 2017 20:53:21 +0000</saledate>
+    <price currency='USD'>71</price>
+    <condition>likenew</condition>
+    <notes>KS edition. Opened, organized, played once. Buyer to pay shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Aug 2017 03:13:29 +0000</listdate>
+    <saledate>Sun, 08 Oct 2017 03:42:55 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>This listing is for the Kickstarter Edition of Ave Roma, with the Add-On Imperator and Consul Expansions.
+Shipping weight is approximately five pounds (2.2 kg). 
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Dec 2017 04:05:32 +0000</listdate>
+    <saledate>Sat, 02 Dec 2017 15:25:42 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/233356/item/5793202#5793202]Item for Geeklist _T_E_M_P_T_A_G_quot;Downsizing at the end of the year auction [Ends Dec 1st][Ships from Irvine, CA][CLOSED]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Jan 2018 20:04:53 +0000</listdate>
+    <saledate>Wed, 31 Jan 2018 20:11:30 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/236700/item/5910844#5910844]Item for Geeklist _T_E_M_P_T_A_G_quot;My second purge_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Nov 2017 18:56:39 +0000</listdate>
+    <saledate>Thu, 01 Feb 2018 05:18:11 +0000</saledate>
+    <price currency='EUR'>44.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jan 2018 23:19:37 +0000</listdate>
+    <saledate>Wed, 07 Feb 2018 18:32:20 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Aug 2017 18:50:58 +0000</listdate>
+    <saledate>Thu, 15 Feb 2018 19:20:15 +0000</saledate>
+    <price currency='USD'>48.95</price>
+    <condition>verygood</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! 
+1x AVE ROMA
+1x AVE ROMA CENSOR EXP
+1x AVE ROMA MAGISTRATUS EXP
+1x AVE ROMA PRAETOR EXP
+-----------------------
+TOTAL: $48.95
+A-Games [AGAM AVE]
+* Complete and in very good+ to like new condition. See 3 pictures with this listing.
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Apr 2018 02:31:07 +0000</listdate>
+    <saledate>Fri, 27 Apr 2018 03:11:37 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>This item was purchased in the Columbus Ohio Virtual Flea Market by the user ianmercer23.  Please do not purchase this item if you are not that user.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 May 2018 13:42:10 +0000</listdate>
+    <saledate>Thu, 03 May 2018 22:03:49 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Ave Roma Premium edition + ext Imperator + Consul  (kickstarter)
+Buyer pay shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Apr 2018 14:36:21 +0000</listdate>
+    <saledate>Sun, 20 May 2018 17:34:10 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Ave Roma PREMIUM EDITION from KickStarter campaign.
+https://www.kickstarter.com/projects/1205265935/ave-roma-premium-edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jul 2018 13:07:17 +0000</listdate>
+    <saledate>Sat, 14 Jul 2018 13:35:25 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Contains all expansions except the Essen expansion.
+Paypal or Venmo accepted.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Jul 2018 14:29:10 +0000</listdate>
+    <saledate>Mon, 20 Aug 2018 04:23:52 +0000</saledate>
+    <price currency='USD'>62</price>
+    <condition>likenew</condition>
+    <notes>Includes all mini expansions which are very hard to acquire except the Essen expansion which was only given to backers who picked it up at Essen. Very light shelf wear on the box.  Comes with a Plano box to store materials inside. Shipping is flat rate medium box for  $13.65.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Sep 2018 17:47:58 +0000</listdate>
+    <saledate>Thu, 13 Sep 2018 20:01:44 +0000</saledate>
+    <price currency='EUR'>32</price>
+    <condition>new</condition>
+    <notes>The game is new and still in shrink wrap!
+I will ship from Germany and I am willing to ship anywhere.
+Please ask me, for the shipping costs for your land.
+I will charge shipping at cost. Everything will be well packed.
+You can pay me through Paypal or bank transfer to my German bank account but any fees charged must be covered by you.
+If you buy more games, then I make all in one package!
+We have a large private collection of games. Due to space and time constraints we must rid ourselves of some of the games. Therefore, these are private sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Oct 2018 20:37:33 +0000</listdate>
+    <saledate>Sat, 27 Oct 2018 23:34:48 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Includes all bonus Kickstarter content.
+Like new condition. Components punched, sorted/bagged but never played.
+Comes from a smoke-free, pet-free home.
+Shipping is USPS Priority Mail 2-Day Medium Flat Rate Box - $13.60</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Oct 2018 04:09:54 +0000</listdate>
+    <saledate>Tue, 06 Nov 2018 00:00:43 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Components are unplayed and new. The box has some shelf wear. This includes the Kickstarter stretch goal and the 3 expansions. Ships with Usps priority medium flat rate $13.65.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jan 2019 17:01:15 +0000</listdate>
+    <saledate>Tue, 22 Jan 2019 18:46:42 +0000</saledate>
+    <price currency='GBP'>14.99</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter version of game with included expansions. Currently missing 1 end game scoring card that didn_T_E_M_P_T_A_G_#039;t come in the box and manufacturer was unable to replace. Shipping to UK only via RM 2nd class signed for. Will include bulk shipping rates if multiple items bought.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

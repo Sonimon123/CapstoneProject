@@ -1,0 +1,606 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="18289">
+   <yearpublished>2005</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>40</playingtime>
+   <minplaytime>30</minplaytime>
+   <maxplaytime>40</maxplaytime>
+   <age>8</age>
+       <name primary="true" sortindex="1">Key Largo</name>
+       <name  sortindex="1">Poszukiwacze skarbów</name>
+         
+   <description>Created by Paul Randles, designer of Pirate's Cove, and developed by Mike Selinker and Bruno Faidutti, Key Largo transports players into the Florida Keys in 1899. As the new century dawns, players ply the thriving trade of finding treasures in shipwrecks around the island. Before a hurricane hits, players need to search the many shipwrecks and sell the lost treasures to the island denizens for as much cash as possible._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This was designer Paul Randles' final game before passing away in 2003. Tilsit Editions published it in French, German, and Italian in 2005, and Titanic Games made it available in English for the first time, with an all-new graphic design and pieces._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The Titanic edition of Key Largo contains:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Full-color board of the island in the Florida Keys_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;5 wooden boats_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;1 diving helmet_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;130 cards_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;15 divers_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;40 hoses, tridents, and weights_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Money_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Full-color rulebook_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The setting :_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The action takes place on a Caribbean island, in the very last days on the 19th century. The island has long been a pirate's harbour, and it has recently be found out that there were many sunken galleons around. Hurricane Katty is due in ten days, so you have little time to hire a diver team and bring back as much sunken treasure as possible._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The systems :_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Key Largo is a double-guessing game, like Paul Randles' other game, Pirate's Cove. Every morning, each player secretly decides what he will do the coming day - take tourists dolphin watching, search a wreck for treasures, sell treasures at the market, buy equipment at the local shop, or go to the tavern to hire more divers and listen to the rumours. It's also a light management game, where you start with little cash and must make your money grow through fruitful investment. The winner is the richest player when the hurricane breaks through and stops all diving around the island._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/rFwn6RwSp-CqMdUeU83H0m22vxc=/fit-in/200x150/pic634747.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Fii-HlOcZWTI2EIzfFoX7-1aVbI=/0x0/pic634747.jpg</image>
+      
+            <boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+               <boardgameartist objectid="2886">Johann Aumaitre</boardgameartist>
+                      <boardgameartist objectid="12692">David Cochard</boardgameartist>
+               <boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+                      <boardgamepublisher objectid="7496">Egmont Polska</boardgamepublisher>
+                             <boardgamedesigner objectid="125">Bruno Faidutti</boardgamedesigner>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+                                                                <boardgameartist objectid="19263">Andrew Hou</boardgameartist>
+               <boardgameartist objectid="28824">Ben Huen</boardgameartist>
+                             <boardgamecategory objectid="1008">Nautical</boardgamecategory>
+               <boardgamepublisher objectid="4238">Paizo Publishing</boardgamepublisher>
+               <boardgameartist objectid="16874">Drew Pocza</boardgameartist>
+               <boardgameversion objectid="30857">Polish edition</boardgameversion>
+                      <boardgamedesigner objectid="1225">Paul Randles</boardgamedesigner>
+                                                  <boardgamedesigner objectid="604">Mike Selinker</boardgamedesigner>
+               <boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+               <boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+               <boardgamepublisher objectid="42">Tilsit</boardgamepublisher>
+               <boardgamefamily objectid="4534">Tilsit Collection</boardgamefamily>
+               <boardgameversion objectid="26454">Tilsit multilingual edition</boardgameversion>
+               <boardgamepublisher objectid="4713">Titanic Games</boardgamepublisher>
+               <boardgameversion objectid="68756">Titanic Games edition</boardgameversion>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="4">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="1" />
+     <result value="8" numvotes="2" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>799</usersrated>
+     <average>6.60743</average>
+     <bayesaverage>5.93909</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2452" bayesaverage="5.93909" />
+            
+       
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="636" bayesaverage="6.05893" />
+            
+           </ranks>
+     
+     <stddev>1.31271</stddev>
+     <median>0</median>
+     <owned>1262</owned>
+     <trading>84</trading>
+     <wanting>57</wanting>
+     <wishing>200</wishing>
+     <numcomments>249</numcomments>
+     <numweights>66</numweights>
+     <averageweight>2.0303</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sun, 23 Oct 2005 10:51:38 +0000</listdate>
+    <saledate>Wed, 13 Sep 2006 17:50:53 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes>Game is the French Tilsit Edition.
+New and still in Shrink. It contains french, spain and german rules.
+Shipping costs to france or belgium : 7 euros
+Shipping costs to europa : 8,50 euros
+Shipping costs to rest of the world : 12,50 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2006 15:43:31 +0000</listdate>
+    <saledate>Mon, 16 Jul 2007 10:38:02 +0000</saledate>
+    <price currency='EUR'>27.99</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 9.00 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click robbirob. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Mar 2008 02:23:30 +0000</listdate>
+    <saledate>Sat, 20 Dec 2008 23:22:30 +0000</saledate>
+    <price currency='USD'>26.49</price>
+    <condition>new</condition>
+    <notes>Domestic Shipping: USPS PRIORITY MAIL with Delivery Confirmation = $9.99</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 May 2009 07:35:36 +0000</listdate>
+    <saledate>Thu, 09 Sep 2010 13:40:03 +0000</saledate>
+    <price currency='GBP'>19.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £4.40 postage to UK.
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a discount for purchases over £50. Please contact me for details. All items i list are in stock and will be posted within 24 hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Jul 2009 06:12:45 +0000</listdate>
+    <saledate>Mon, 06 Jul 2009 02:00:32 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>excellent condition, smoke-free</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 May 2010 18:53:01 +0000</listdate>
+    <saledate>Fri, 07 May 2010 20:27:41 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Punched but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 May 2010 16:39:14 +0000</listdate>
+    <saledate>Mon, 17 May 2010 00:14:17 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>Brand new, still sealed.  Buyer pays $8.00 shipping.  Check out my other items for sale - will try to provide good shipping deals for multiple item purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Jun 2010 14:29:18 +0000</listdate>
+    <saledate>Wed, 21 Jul 2010 13:08:43 +0000</saledate>
+    <price currency='EUR'>24.5</price>
+    <condition>likenew</condition>
+    <notes>Tilsit Editions International (GER/FR/ITA) edition 2005
+Condition: excellent, played only once. Complete, no damages, no wear and tear.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Aug 2010 04:35:07 +0000</listdate>
+    <saledate>Mon, 06 Dec 2010 00:42:06 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>new</condition>
+    <notes>Titanic games version in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Nov 2010 15:21:19 +0000</listdate>
+    <saledate>Sun, 21 Aug 2011 09:56:51 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Nov 2010 19:33:20 +0000</listdate>
+    <saledate>Sun, 26 Jun 2011 11:55:39 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>he game:
+Original edition from Tilsit - French, German, Italian rules.
+All game parts are punched but still in mint condition.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within EU I prefer the EU-standard-bank-tranfer (SEPA,IBAN/BIC). It is fast and causes no fees.
+Outside EU Paypal and bank-transfer are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Mar 2011 19:55:30 +0000</listdate>
+    <saledate>Sat, 05 Mar 2011 20:40:45 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>RESERVED FOR JOSH PATTERSON (oshuajai)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jun 2011 08:51:44 +0000</listdate>
+    <saledate>Tue, 14 Jun 2011 23:28:44 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>likenew</condition>
+    <notes>auction for travandallie
+mr jack and key largo</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Jun 2011 02:20:37 +0000</listdate>
+    <saledate>Mon, 25 Jul 2011 10:42:08 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>Played only twice.
+This geeklist item is for user naturestee who bought the game in my auction geeklist.  No other user may purchase it.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Sep 2011 01:21:06 +0000</listdate>
+    <saledate>Tue, 27 Sep 2011 04:55:36 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>acceptable</condition>
+    <notes>reserved for DAVE</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Nov 2011 14:21:03 +0000</listdate>
+    <saledate>Fri, 25 Nov 2011 21:34:32 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>likenew</condition>
+    <notes>Like New Conditions
+Titanic Game Edition (English)
+P_T_E_M_P_T_A_G_amp;P
+UK 5.00
+EU 8.50
+Others Please geekmail me!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Jan 2012 21:42:26 +0000</listdate>
+    <saledate>Mon, 05 Mar 2012 11:45:12 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>Multilanguage (French/German/Italian) version.
+Like new - never played, just punched and parts kept in griplocks</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Feb 2012 14:53:22 +0000</listdate>
+    <saledate>Mon, 23 Jul 2012 15:42:20 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Played a couple of times.  Item is in good shape.  Buyer responsible for shipping.  reserved for falcons from my auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jul 2012 14:13:51 +0000</listdate>
+    <saledate>Fri, 27 Jul 2012 16:55:57 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>rez for bigmactruck</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Aug 2012 22:13:13 +0000</listdate>
+    <saledate>Thu, 23 Aug 2012 22:59:49 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>For Tobyjason</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Oct 2012 03:09:55 +0000</listdate>
+    <saledate>Wed, 03 Oct 2012 03:45:41 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Steven Novik at $10.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Dec 2012 23:57:12 +0000</listdate>
+    <saledate>Sun, 02 Dec 2012 02:48:45 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>For starspangledgirl ONLY.  Auction win including Key Largo and Power Struggle.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Dec 2012 20:16:24 +0000</listdate>
+    <saledate>Mon, 03 Dec 2012 21:23:16 +0000</saledate>
+    <price currency='USD'>43</price>
+    <condition>likenew</condition>
+    <notes>For user Arrgames only!  Auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Mar 2013 22:52:11 +0000</listdate>
+    <saledate>Thu, 28 Mar 2013 23:14:29 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>Hold for user LordCuilte, GameStorm pickup.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Mar 2013 10:48:09 +0000</listdate>
+    <saledate>Sun, 31 Mar 2013 06:35:20 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>new</condition>
+    <notes>By Tilsit
+Shipping is:
+without shipping insurance:
+4,50 EUR to Germany,10 EUR to EU and 17 EUR worldwide
+including shipping insurance:
+7 EUR to Germany,18 EUR to EU, 37 EUR to Europe, U.S. and Canada and 44 EUR worldwide</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Apr 2013 19:53:36 +0000</listdate>
+    <saledate>Sat, 22 Jun 2013 12:06:11 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>The components were punched, but the game was never played. This is the Tilsit edition. I have included a color printout of the english rules along with a printout of 3 variants - kinder rules, dummy player and 2-player. Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Jun 2013 00:52:11 +0000</listdate>
+    <saledate>Thu, 26 Sep 2013 23:19:15 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap.
+Canadians will be charge applicable taxes.
+Orders will be processed the same day and shipped by expedited parcel.
+You will be charged exact shipping plus $2 for packing material. Shipped from N2B 1J4.
+Local pickups welcome.
+Orders may be combined and orders over $150 will be shipped in Canada free or in the US for a $10 flat fee. Orders must be placed at the same time.
+We ship the day we receive payment!!!
+We currently only accept PayPal.
+Our prices are up to 30% or more off US MRSP.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Oct 2013 00:02:29 +0000</listdate>
+    <saledate>Tue, 01 Oct 2013 06:35:26 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>item reserved for user cwhitpan
+bgg auction item</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Jan 2014 23:48:38 +0000</listdate>
+    <saledate>Tue, 14 Jan 2014 06:07:27 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>for user MarcinB only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Mar 2014 11:54:42 +0000</listdate>
+    <saledate>Mon, 10 Mar 2014 15:47:00 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>For auction winner (rscott213) only!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 May 2014 17:42:35 +0000</listdate>
+    <saledate>Thu, 01 May 2014 21:27:58 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/172170/item/3172000#3172000]Item for Geeklist _T_E_M_P_T_A_G_quot;Garrett_T_E_M_P_T_A_G_#039;s Games Shelf-Clearing Auction 2014 - Ends 4/27/14_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 May 2014 18:08:32 +0000</listdate>
+    <saledate>Sat, 10 May 2014 04:11:51 +0000</saledate>
+    <price currency='EUR'>26.9</price>
+    <condition>likenew</condition>
+    <notes>Multinational edition by Tilsit. The game is complete and in like new condition.
+Shipping costs (up to 2kg / without insurance / surface mail):
+Germany: 4.50 EUR
+EU: 8.90 EUR
+Outside EU / Worldwide: 15.90 EUR
+Please ask for costs if you want other shipping options.
+Payment via bank transfer is preferred. Paypal is possible. Please add 3 EUR to the price for payment via Paypal.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Jul 2014 20:46:40 +0000</listdate>
+    <saledate>Wed, 30 Jul 2014 08:21:45 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>new</condition>
+    <notes>New In Shrink.  2007 Titanic Games English edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Aug 2014 21:13:31 +0000</listdate>
+    <saledate>Sun, 10 Aug 2014 21:19:13 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>good</condition>
+    <notes>Reserved for auction winner NOTUNSKEPTICAL
+2007 Titanic Games edition. Played a couple times back in the day. All contents in excellent condition.
+Also in this listing is the game Tikal II, Played once. Minor dishing on box lid. Components are in excellent condition.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/176988/item/3350095#3350095]Item for Geeklist _T_E_M_P_T_A_G_quot;xxbriguyxx_T_E_M_P_T_A_G_#039;s 23rd _T_E_M_P_T_A_G_quot;Time to cull my game collection_T_E_M_P_T_A_G_quot; Auction, and I need money for GenCon, and I would like a Xbox One, and world peace.. Insanely (or ballsy) low prices because I want to move product!!  **.ENDS AUGUST 9TH.  ALL BIDS START AT $6**_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Nov 2014 17:46:48 +0000</listdate>
+    <saledate>Mon, 17 Nov 2014 08:25:55 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Dec 2014 19:30:24 +0000</listdate>
+    <saledate>Sun, 14 Dec 2014 20:01:08 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Reserved for Temporaryscars
+To be shipped with Mike Guigliano_T_E_M_P_T_A_G_#039;s (clarkkent22) order.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Jan 2015 06:16:45 +0000</listdate>
+    <saledate>Sat, 03 Jan 2015 07:57:19 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Reserved for neflight86, auction winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Mar 2015 18:06:24 +0000</listdate>
+    <saledate>Sun, 22 Mar 2015 19:24:16 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for themonekeybear</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Apr 2015 18:41:13 +0000</listdate>
+    <saledate>Mon, 06 Apr 2015 22:39:02 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/189254/item/3816205#3816205]Item for Geeklist _T_E_M_P_T_A_G_quot;Help Me Get My Dream Job Auction...._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Mar 2015 21:36:27 +0000</listdate>
+    <saledate>Fri, 15 May 2015 14:56:53 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>likenew</condition>
+    <notes>Played twice, excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Aug 2015 00:35:26 +0000</listdate>
+    <saledate>Thu, 13 Aug 2015 22:53:53 +0000</saledate>
+    <price currency='USD'>16.14</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Mar 2016 12:38:23 +0000</listdate>
+    <saledate>Wed, 23 Mar 2016 17:31:55 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>For Auction Winner book_worm71</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Feb 2016 19:33:19 +0000</listdate>
+    <saledate>Wed, 27 Apr 2016 01:39:33 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>punched but unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 May 2016 03:18:14 +0000</listdate>
+    <saledate>Sun, 17 Jul 2016 21:42:57 +0000</saledate>
+    <price currency='USD'>24.2</price>
+    <condition>new</condition>
+    <notes>New in shrink. Shipping not included (or local pickup Free in San Francisco (CA) or South bay.)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Aug 2016 23:51:46 +0000</listdate>
+    <saledate>Wed, 17 Aug 2016 00:04:31 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>good</condition>
+    <notes>Reserved for auction winner: wizards wharf</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Aug 2016 17:49:20 +0000</listdate>
+    <saledate>Fri, 25 Nov 2016 12:33:43 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>new</condition>
+    <notes>Game: Key Largo (Tilsit)
+Condition: new in shrink
+Language: multilingual
+Thanks in advance for ordering!
+See below for information on shipping, payment _T_E_M_P_T_A_G_amp; cancellation.
+Payment:
+Bank transfer to an EU bank account using IBAN/BIC in advance
+(normally free of charge if your bank account is nominated in EURO)
+Paypal (add 3,- Euro to cover the fees. That should be the first choice for non-EU customers.)
+Pick up the game at my game store (no shipping cost)
+Shipping: always insured and with tracking
+Germany: 5,99€ for the first item
+card games or smaller boxes might be cheaper (please contact me beforehand)
+EU: 13,99€ up to 2kg
+15,99€ up to 5kg
+20,99€ up to 10kg
+Rest of the world: Please contact me before purchasing an item to clarify the shipping costs.
+I can offer discounts on shipping if multiple marketplace purchases are made.
+Returns and Cancellation:
+You may cancel your order without giving any reasons within 14 days after placing your order. Please contact spieleberatung@t-online.de and I will attempt to resolve the matter. Unopened copies of the game that are no longer wanted can be returned, but there is a 10% restocking fee payable of the item price and the buyer is responsible for the return shipping costs.
+Spieleberatung
+Frank Solnitzky
+Hainbuchenweg 1
+36381 Schlüchtern
+Germany
++49-06661-9115039
+frank@spieleberatung.com</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Oct 2015 23:22:25 +0000</listdate>
+    <saledate>Sun, 12 Feb 2017 23:13:46 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Whitening on box corners, please see picture. Contents are in excellent conditions. English rules and player aids are included.
+Shipping:
+I am happy to combine shipping on multiple items.
+I can ship from both US and (if you are patient) Canada.
+I will find the cheapest shipping method. Within the continental USA, this is typically Fedex. International shipping can be very expensive. 
+Insurance and tracking:
+I recommend paying for both of these. As a hobbyist and an individual seller, I cannot take responsibility for items that are damaged or lost in transit.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Jun 2017 20:59:14 +0000</listdate>
+    <saledate>Tue, 27 Jun 2017 23:11:48 +0000</saledate>
+    <price currency='USD'>62</price>
+    <condition>likenew</condition>
+    <notes>For auction winner Carlos Campa only, please. This item includes any other auction winnings.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Jun 2017 19:36:20 +0000</listdate>
+    <saledate>Thu, 10 Aug 2017 16:19:39 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>You_T_E_M_P_T_A_G_#039;re part of a small treasure hunting group diving to collect treasure from an underwater trove of lost cargo from centuries old shipwrecks. You have only a few days to collect and sell as much as you can before the start of hurricane  season. Others also seek the same goals and you must get equipment, avoid underwater hazards and use your wits to amass the most wealth before the approaching winds make diving impossible! Get your boat, pick your diving spot and over into the sea!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Oct 2017 07:40:59 +0000</listdate>
+    <saledate>Tue, 24 Oct 2017 12:20:12 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>For user smic only. 
+Shipping $13
+This sale has been auto-generated for the auction: [geekurl=/geeklist/231612/item/5714721#5714721]Item for Geeklist _T_E_M_P_T_A_G_quot;Olly Olly AUCTION [not] Free! w/ crazy BIN prices_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Feb 2018 00:03:16 +0000</listdate>
+    <saledate>Thu, 01 Mar 2018 17:12:31 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Box has some scratches and wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Nov 2017 15:33:22 +0000</listdate>
+    <saledate>Sat, 09 Jun 2018 21:35:04 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Apr 2015 16:32:53 +0000</listdate>
+    <saledate>Mon, 21 Jan 2019 21:09:22 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Save on multiple items for sale. Each additional item $15 or more save $3. Anything under $15 save $2.
+We_T_E_M_P_T_A_G_#039;ll ship everything together to save on shipping as well.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

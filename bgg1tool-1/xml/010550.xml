@@ -1,0 +1,540 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="10550">
+   <yearpublished>1979</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>8</maxplayers>
+   <playingtime>10</playingtime>
+   <minplaytime>10</minplaytime>
+   <maxplaytime>10</maxplaytime>
+   <age>8</age>
+       <name primary="true" sortindex="1">Big Boggle</name>
+       <name  sortindex="1">Boggle Deluxe</name>
+       <name  sortindex="1">Boggle Master</name>
+       <name  sortindex="1">Maxi Boggle</name>
+       <name  sortindex="1">Maxi Paroliere</name>
+       <name  sortindex="1">Super Boggle</name>
+         
+   <description>Big Boggle is a timed word game where players attempt to find as many connected words as possible from the face up letters resting in a 25 cube grid. When the timer runs out, players compare their list of words and remove any shared words. Points are then awarded for remaining words, depending on how many letters are in the word._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Big Boggle is similar to the standard Boggle, but with the following changes:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    uses a 5x5 grid instead of 4x4_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    the minimum word size is 4 letters instead of 3_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/6x1NMSRmQoA0JoXx-vPyiJf-3H0=/fit-in/200x150/pic914821.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/i3dHYGM8-J0ZqnnNxb-hZCgzs_c=/0x0/pic914821.jpg</image>
+      
+            <boardgamefamily objectid="10257">Boggle</boardgamefamily>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgamefamily objectid="9302">Letter cube games</boardgamefamily>
+               <boardgameversion objectid="266910">Palitoy English edition</boardgameversion>
+               <boardgamepublisher objectid="417">Palitoy Ltd.</boardgamepublisher>
+               <boardgamepublisher objectid="28">Parker Brothers</boardgamepublisher>
+               <boardgameversion objectid="21278">Parker Brothers English edition 1979</boardgameversion>
+               <boardgameversion objectid="39404">Parker Brothers English edition 1979 with Challenge Cube</boardgameversion>
+               <boardgameversion objectid="164886">Parker Brothers English edition 1993</boardgameversion>
+               <boardgameversion objectid="26118">Parker Brothers English edition 1997 in metallic box</boardgameversion>
+               <boardgameversion objectid="216232">Parker Brothers English edition 2003 with electronic timer</boardgameversion>
+               <boardgameversion objectid="23978">Parker Brothers English/French edition 1993</boardgameversion>
+               <boardgameversion objectid="188927">Parker Brothers Portuguese edition</boardgameversion>
+               <boardgameversion objectid="418589">Parker German edition</boardgameversion>
+               <boardgamepublisher objectid="4653">Parker Spiele</boardgamepublisher>
+               <boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+               <boardgamecategory objectid="1037">Real-time</boardgamecategory>
+               <boardgamedesigner objectid="2556">Alan Turoff</boardgamedesigner>
+               <boardgameversion objectid="86243">Winning Moves classic edition 2011</boardgameversion>
+               <boardgamepublisher objectid="59">Winning Moves Games (USA)</boardgamepublisher>
+               <boardgamecategory objectid="1025">Word Game</boardgamecategory>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="22">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="9" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="16" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="16" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="13" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="14" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="12" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="7">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="10" />
+    </results>     
+   
+  <results numplayers="8">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="11" />
+    </results>     
+   
+  <results numplayers="8+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="9" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="11">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="3" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="8" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="1" />
+     <result value="8" numvotes="3" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1162</usersrated>
+     <average>6.85273</average>
+     <bayesaverage>6.13602</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1718" bayesaverage="6.13602" />
+            
+       
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="433" bayesaverage="6.27176" />
+            
+           </ranks>
+     
+     <stddev>1.56848</stddev>
+     <median>0</median>
+     <owned>2013</owned>
+     <trading>81</trading>
+     <wanting>21</wanting>
+     <wishing>90</wishing>
+     <numcomments>432</numcomments>
+     <numweights>99</numweights>
+     <averageweight>1.5455</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 04 Jun 2004 18:01:38 +0000</listdate>
+    <saledate>Wed, 23 Jun 2004 21:23:57 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>good</condition>
+    <notes>Box has a LOT of shelf scuff. Case, cubes, timer, rules are all there. This is a Blue Box version of Big Boggle, (though not the newer BIG blue box version). Similar in size to the Master Boggle boxes.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Feb 2005 20:39:04 +0000</listdate>
+    <saledate>Fri, 15 Apr 2005 20:55:03 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>Box show a LOT of shelf scuff, but the box is solid and the cubes, timer, and rack are all there and in fine shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Apr 2005 05:15:43 +0000</listdate>
+    <saledate>Mon, 18 Jul 2005 22:46:24 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Boggle Deluxe, in shrink with pearl cubes. This is the 5x5 version of the game, which is the same, though with much nicer components, as Big Boggle. I also have a Big Boggle, the description of which is below. If you want to buy the one below, let me know, and I will change this listing so it is for that copy not the Deluxe. The Big Boggle shown below is priced at $15.00. 
+Box has a lot of wear, and has had tape put on it in one spot to keep the cover from shredding further. Game is also missing the rules, and the timer has no feet. Other than that, the case and cubes are there.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Dec 2005 05:15:47 +0000</listdate>
+    <saledate>Wed, 29 Mar 2006 10:46:51 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Big Boggle WITH CHALLENGE CUBE!
+Box is in excellent condition, though it is missing any kind of cardboard insert.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Apr 2006 17:26:29 +0000</listdate>
+    <saledate>Mon, 08 May 2006 20:46:30 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Boggle Deluxe edition. Still in shrinkwrap. If paying through PayPal, I cannot accept credit card or debit payments.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jun 2006 02:09:45 +0000</listdate>
+    <saledate>Sat, 02 Sep 2006 14:20:53 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>100% complete copy in very good condition. Components look unused - even the box insert is straight and crisp. Box has a little shelfwear and a very minor bump on one corner, but no dishing or splits.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Oct 2006 15:15:40 +0000</listdate>
+    <saledate>Sun, 04 Feb 2007 04:03:23 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Box has some wear, but the main component of the game, the box, tray, and dice are in great condition.  </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Feb 2007 03:47:40 +0000</listdate>
+    <saledate>Mon, 19 Mar 2007 14:06:46 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>good</condition>
+    <notes>Big Boggle! It_T_E_M_P_T_A_G_#039;s big! It_T_E_M_P_T_A_G_#039;s Boggle!
+Box shows quite a bit of wear, but otherwise good overall.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Apr 2007 05:51:19 +0000</listdate>
+    <saledate>Wed, 02 Jul 2008 20:30:11 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>100% complete copy in very good to good condition. Components look unused. Box has a little shelfwear and a few very light cosmetic flaws. Game is free from offensive odors (smoke, pet, mildew, etc).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jul 2007 05:56:30 +0000</listdate>
+    <saledate>Sat, 23 Feb 2008 17:34:36 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>good</condition>
+    <notes>Box is very worn, but all the cubes are there, the rack/tray/box is all fine, etc. The sand timer seems to _T_E_M_P_T_A_G_quot;stick_T_E_M_P_T_A_G_quot; a bit though.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Dec 2007 00:39:03 +0000</listdate>
+    <saledate>Sat, 12 Jan 2008 19:39:01 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Big Boggle.
+Box has some shelf wear, but otherwise great shape and 100% complete.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jan 2008 22:58:09 +0000</listdate>
+    <saledate>Wed, 20 Feb 2008 18:04:30 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Big Boggle.
+Box shows some wear - but contents 100% complete and in great shape.
+Challenge Cube included.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jun 2008 03:43:21 +0000</listdate>
+    <saledate>Tue, 24 Jun 2008 20:37:10 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Boggle Master version.
+5x5 grid and 25 cubes. Overall great shape. Rules are a copy.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Jul 2008 03:58:37 +0000</listdate>
+    <saledate>Mon, 28 Jul 2008 22:23:44 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Big Boggle
+1979 Parker Brothers vintage game.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Aug 2008 19:46:30 +0000</listdate>
+    <saledate>Thu, 06 Nov 2008 17:42:00 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Big Boggle.
+Great shape overall and 100% complete.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Aug 2008 21:48:05 +0000</listdate>
+    <saledate>Mon, 10 Nov 2008 03:37:40 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Complete. Box has some scuff and bowing, but contents are just fine.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Nov 2008 06:18:50 +0000</listdate>
+    <saledate>Sat, 29 Nov 2008 07:20:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Big Boggle
+Great overall shape - even has the original insert. Score pad has been replaced.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Jan 2009 03:56:29 +0000</listdate>
+    <saledate>Mon, 09 Feb 2009 20:31:36 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This game is in very good condition and 100% complete, with even an extra white pencil. Components look unused. Box has a little shelfwear and a few very light cosmetic flaws. Game is free from offensive odors (smoke, pet, mildew, etc).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Feb 2009 02:04:43 +0000</listdate>
+    <saledate>Mon, 13 Apr 2009 13:36:16 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This game is in very good condition and 100% complete. Components look unused. Box has a little shelfwear and a few very light cosmetic flaws. Game is free from offensive odors (smoke, pet, mildew, etc).
+Please note that this version did not come with pencils or a notepad, so you will need to supply your own. See the following image for box art used for this version
+http://www.boardgamegeek.com/image/100005</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Mar 2009 20:15:01 +0000</listdate>
+    <saledate>Sun, 22 Mar 2009 00:57:13 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>good</condition>
+    <notes>Big Boggle
+Box shows a fair amount of wear, but is intact with no damage, etc. Otherwise good condition. Rules are a print out.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Jul 2009 19:16:19 +0000</listdate>
+    <saledate>Thu, 09 Jul 2009 01:43:27 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>Boggle Deluxe (aka Big Boggle)
+Box shows some wear and original notepad has been replaced - but otherwise complete in it_T_E_M_P_T_A_G_#039;s glorious 5x5 grid goodness.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Aug 2009 19:57:34 +0000</listdate>
+    <saledate>Tue, 25 Aug 2009 00:36:52 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>Boggle Master (alternate name for Big Boggle)
+Box is worn, but contents are in great shape. Original note pad has been replaced with a substitute.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Dec 2009 02:21:10 +0000</listdate>
+    <saledate>Thu, 10 Dec 2009 07:03:06 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>Big Boggle
+Good condition overall
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Dec 2009 02:09:43 +0000</listdate>
+    <saledate>Thu, 31 Dec 2009 15:39:36 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>verygood</condition>
+    <notes>Box is in really nice shape given it_T_E_M_P_T_A_G_#039;s age, modes shelfwear and a scuff or two along the box edges.
+Game materials are all present, 25 letter cubes, 3 minute timer, a cube grid with dome, and the instructions.  Not much cube wear.
+Pictures available upon request.
+Shipping will be $6 to Easter and Central time zone and $8 to Pacific and Mountain.  International bidders inquire about postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Dec 2009 03:05:36 +0000</listdate>
+    <saledate>Wed, 30 Dec 2009 01:51:52 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>_T_E_M_P_T_A_G_quot;Boggle Master_T_E_M_P_T_A_G_quot; version of Big Boggle.  Very good condition and complete. Very minor shelf wear.
+I ship fast and can combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Mar 2010 03:06:01 +0000</listdate>
+    <saledate>Mon, 05 Apr 2010 01:47:27 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Boggle Deluxe, blue box edition, in excellent condition. Played once or twice, but complete and no visible wear to box or components. Will ship at cost by USPS or UPS; paypal preferred but not absolutely required.Please feel free to contact me with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Apr 2010 03:35:33 +0000</listdate>
+    <saledate>Wed, 28 Apr 2010 17:42:06 +0000</saledate>
+    <price currency='USD'>32.5</price>
+    <condition>verygood</condition>
+    <notes>Big Boggle
+Great shape overall and 100% complete. I_T_E_M_P_T_A_G_#039;ll even toss in the _T_E_M_P_T_A_G_quot;Challenge Cube_T_E_M_P_T_A_G_quot; as a bonus (even though it didn_T_E_M_P_T_A_G_#039;t come with this version).
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 May 2010 16:17:40 +0000</listdate>
+    <saledate>Fri, 14 May 2010 11:35:41 +0000</saledate>
+    <price currency='USD'>32.5</price>
+    <condition>verygood</condition>
+    <notes>Master Boggle (aka Big Boggle)
+100_T_E_M_P_T_A_G_amp; complete and in great shape. Even includes the original box insert.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Jun 2010 01:29:08 +0000</listdate>
+    <saledate>Fri, 11 Jun 2010 22:19:47 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Big Boggle
+Complete and in great shape!
+I welcome international buyers.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Jul 2010 04:14:01 +0000</listdate>
+    <saledate>Mon, 12 Jul 2010 20:33:12 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>1979 Parker Brothers edition.
+Complete - includes 25 letter cubes, cube grid, dome, dark cover for shaking the letters, timer, notepad, rules. 
+Box has general wear, but is in good structural shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Jul 2010 02:59:27 +0000</listdate>
+    <saledate>Mon, 22 Nov 2010 05:55:34 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>likenew</condition>
+    <notes>Pretty much perfect. The very desirable Boggle Master version from Parker Brothers. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. Shipping weight is 3 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Jul 2010 00:19:58 +0000</listdate>
+    <saledate>Sun, 14 Nov 2010 22:40:21 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>good</condition>
+    <notes>For sale to Griffondj only
+All game materials present.  Cubes show very little wear from play.  Box has considerable shelf and edgewear and box cover top has a split.  Parker Brothers 1979 edition cover.
+Shipping is $7 in U.S., elsewhere please inquire.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Aug 2010 15:53:31 +0000</listdate>
+    <saledate>Tue, 16 Nov 2010 15:30:42 +0000</saledate>
+    <price currency='USD'>44.99</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink. Will ship worldwide for actual cost. No hidden fees.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Oct 2010 00:32:06 +0000</listdate>
+    <saledate>Fri, 03 Dec 2010 03:20:08 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>_T_E_M_P_T_A_G_quot;Boggle Master_T_E_M_P_T_A_G_quot; with some dings to the box, components in GREAT shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Oct 2010 16:11:00 +0000</listdate>
+    <saledate>Mon, 06 Dec 2010 16:53:24 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>good</condition>
+    <notes>Big Boggle (1979) from Parker Brothers
+Box:  Moderate shelfwear with a few dings, dents, creases, and splotches.  Box also has some minor tape residue.  Overall the box is in acceptable condition.
+Components:  Complete and and in like new condition!  Pieces have been sorted and stored in plastic bags for convenience and protection - you will be very pleased with how the game has been packaged.  
+SHIPPING:
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 2 Lbs. from zip code 85208.  International buyers are very welcome, but please contact me before buying for a shipping price quote to avoid any surprises or misunderstandings.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Nov 2010 14:47:27 +0000</listdate>
+    <saledate>Tue, 16 Nov 2010 15:44:20 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>for Jeff Kelsheimer only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Dec 2010 23:18:18 +0000</listdate>
+    <saledate>Mon, 06 Dec 2010 19:48:10 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>acceptable</condition>
+    <notes>From _T_E_M_P_T_A_G_quot;Need to Make Room Auction_T_E_M_P_T_A_G_quot;  for Cherp</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Nov 2011 23:42:07 +0000</listdate>
+    <saledate>Sat, 19 Nov 2011 00:45:15 +0000</saledate>
+    <price currency='USD'>12.99</price>
+    <condition>good</condition>
+    <notes>1979 1st edition, box has a split corner and shows wear, contents are in very good condition
+Shipping will be about $10 within Canada, $13 to the US and $20 worldwide
+Free pickup in Toronto and KW can be arranged</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Sep 2012 04:24:23 +0000</listdate>
+    <saledate>Fri, 21 Sep 2012 15:22:18 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Reserved for mildthrill</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 May 2014 02:02:15 +0000</listdate>
+    <saledate>Fri, 09 May 2014 01:36:23 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/172669/item/3189164#3189164]Item for Geeklist _T_E_M_P_T_A_G_quot;One more time (part 3): A fund raising auction for me to travel (again) to Cuba! _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jan 2012 00:54:30 +0000</listdate>
+    <saledate>Tue, 13 Jan 2015 20:51:29 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>acceptable</condition>
+    <notes>Big Boggle: Parker Brothers Bigger Hidden WORD Game
+Parker Brothers
+1979
+Includes letter grid, two translucent lids (one taller, one shorter), sand timer (missing one of its feet). No rules, no box insert.
+Box shows some wear (paper tears, scuffs, etc.), but no structural damage.
+(12)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Jun 2013 14:21:12 +0000</listdate>
+    <saledate>Fri, 13 Feb 2015 13:12:09 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>good</condition>
+    <notes>Game components complete and in good condition
+Box scuffed and a few small stains.
+Shipping to most UK destinations £7</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Oct 2016 02:20:19 +0000</listdate>
+    <saledate>Wed, 12 Oct 2016 02:40:18 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR TAMI WHITSETT AT $5.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Feb 2017 00:06:56 +0000</listdate>
+    <saledate>Sat, 18 Feb 2017 10:00:36 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>acceptable</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/221616/item/5202530#5202530]Item for Geeklist _T_E_M_P_T_A_G_quot;The Largest Los Angeles Game Show (NO SHIP) Virtual Flea Market Sell +Trade Strategicon (OrcCon) LA Hilton Feb 17-20 Over 250+ games listed _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Nov 2017 02:34:43 +0000</listdate>
+    <saledate>Sat, 21 Apr 2018 03:55:40 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Apr 2018 22:12:46 +0000</listdate>
+    <saledate>Tue, 10 Jul 2018 20:32:52 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Games is in good condition and complete.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

@@ -1,0 +1,1282 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="108">
+   <yearpublished>1998</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>20</playingtime>
+   <minplaytime>20</minplaytime>
+   <maxplaytime>20</maxplaytime>
+   <age>8</age>
+       <name primary="true" sortindex="1">TAMSK</name>
+         
+   <description>The hexagonal board has several holes in it for the unique playing pieces.  Each player uses sand timers as his pieces, and a turn is simply to move to an adjacent space, flipping the timer in the process.  The number of times that each space on the board can be occupied is limited, but the more central spaces can have more traffic.  The object of the game is simply to have any of your pieces movable when your opponent's pieces are either locked in place, or out of sand._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This game was originally part of project GIPF._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/ecv2nDF5E8mAfkYV9TKYmt4SvUY=/fit-in/200x150/pic54775.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/xCyNw1DRy0jy0rxWPDeZcnp8Q_w=/0x0/pic54775.jpg</image>
+      
+            <boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+               <boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+               <boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+               <boardgamedesigner objectid="244">Kris Burm</boardgamedesigner>
+                      <boardgameversion objectid="25062">Don _T_E_M_P_T_A_G_amp; Co edition</boardgameversion>
+               <boardgamepublisher objectid="137">Don _T_E_M_P_T_A_G_amp; Co.</boardgamepublisher>
+                                                                                     <boardgameintegration objectid="527">GIPF</boardgameintegration>
+               <boardgamefamily objectid="10">GIPF Project</boardgamefamily>
+               <boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+                      <boardgameartist objectid="12605">lu_T_E_M_P_T_A_G_#039;cifer</boardgameartist>
+               <boardgamepodcastepisode objectid="137661">MN 0040 Two Player Games</boardgamepodcastepisode>
+                             <boardgamecategory objectid="1037">Real-time</boardgamecategory>
+                                           <boardgameversion objectid="27527">Rio Grande edition</boardgameversion>
+               <boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+               <boardgameversion objectid="40397">Schmidt edition</boardgameversion>
+               <boardgamepublisher objectid="38">Schmidt Spiele</boardgamepublisher>
+                             <boardgameintegration objectid="31999">TZAAR</boardgameintegration>
+               <boardgameintegration objectid="7854">YINSH</boardgameintegration>
+               <boardgameintegration objectid="527" inbound="true">GIPF</boardgameintegration>
+               <boardgameintegration objectid="31999" inbound="true">TZAAR</boardgameintegration>
+               <boardgameintegration objectid="7854" inbound="true">YINSH</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="9" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="5" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="4" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1304</usersrated>
+     <average>6.77773</average>
+     <bayesaverage>6.15779</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1662" bayesaverage="6.15779" />
+            
+       
+              <rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="69" bayesaverage="6.59232" />
+            
+           </ranks>
+     
+     <stddev>1.4092</stddev>
+     <median>0</median>
+     <owned>1932</owned>
+     <trading>47</trading>
+     <wanting>206</wanting>
+     <wishing>519</wishing>
+     <numcomments>522</numcomments>
+     <numweights>152</numweights>
+     <averageweight>2.2895</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 09 Aug 2004 23:29:22 +0000</listdate>
+    <saledate>Mon, 09 Aug 2004 23:29:22 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>verygood</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Sep 2004 14:53:01 +0000</listdate>
+    <saledate>Sun, 10 Oct 2004 17:52:10 +0000</saledate>
+    <price currency='USD'>115</price>
+    <condition>new</condition>
+    <notes>New/Sealed! - Not a mark on this one!
+I can accept Paypal if necessary.  Please add 5% to your total if you wish to use this method.  There are plenty of other payment methods availible as well.
+Check out my other auctions and save by combining shipping!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Sep 2004 17:05:29 +0000</listdate>
+    <saledate>Sat, 18 Sep 2004 02:10:51 +0000</saledate>
+    <price currency='USD'>108</price>
+    <condition>new</condition>
+    <notes>Brand new, in shrink.  No additional fees for Paypal.  Shipping price varies by address, email for an estimate.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Nov 2004 16:16:04 +0000</listdate>
+    <saledate>Tue, 23 Nov 2004 16:27:06 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>verygood</condition>
+    <notes>Opened shrink, played once, put away.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Dec 2004 21:21:01 +0000</listdate>
+    <saledate>Mon, 17 Jan 2005 10:41:01 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>likenew</condition>
+    <notes>Everything there in great condition.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.
+Usually shipping a single (regular sized) boardgame (surface) costs 12.30€ worldwide and 8.20€ within Europe. Smaller games ship cheaper. Of course multiple games can be combined.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Jan 2005 20:52:24 +0000</listdate>
+    <saledate>Sat, 22 Jan 2005 21:40:34 +0000</saledate>
+    <price currency='USD'>74.99</price>
+    <condition>new</condition>
+    <notes>New in shrink. Will ship worldwide at cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Feb 2005 21:42:13 +0000</listdate>
+    <saledate>Thu, 17 Feb 2005 18:50:33 +0000</saledate>
+    <price currency='USD'>44.44</price>
+    <condition>verygood</condition>
+    <notes>Rules in german, English, French and Spanish.
+Game components like new, box has a dent on the top.
+Shipping is 9.50$ within U.S., insurance 2.20$ opotional.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jul 2005 17:11:26 +0000</listdate>
+    <saledate>Tue, 13 Sep 2005 19:16:52 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the international edition by DON _T_E_M_P_T_A_G_amp; CO
+++++ new + in shrink ++++
+Shipping is EUR 9.00 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click robbirob. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Sep 2005 02:40:27 +0000</listdate>
+    <saledate>Mon, 19 Sep 2005 23:50:01 +0000</saledate>
+    <price currency='USD'>32.47</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally.  Rio Grande Games (RIO 135)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Sep 2005 17:21:25 +0000</listdate>
+    <saledate>Thu, 24 Nov 2005 09:38:35 +0000</saledate>
+    <price currency='USD'>33.5</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Rio Grande Games (RIO 135)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Dec 2005 05:00:56 +0000</listdate>
+    <saledate>Thu, 04 Jan 2007 17:45:49 +0000</saledate>
+    <price currency='CAD'>44.99</price>
+    <condition>new</condition>
+    <notes>All our games are brand new in shrink wrap. GST _T_E_M_P_T_A_G_amp;/or PST are applicable on all orders depending on your location. Shipping will depend on your location. I will discount shipping on multiple games orders whenever possible to ensure the fairest rate. Please email me with any questions.
+Thanks
+Jason Schill
+JJSUPERSTORE
+jason@fadzone.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2006 09:36:00 +0000</listdate>
+    <saledate>Tue, 05 Sep 2006 08:19:29 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>new</condition>
+    <notes>still factory sealed, by Projekt Gipf - Chris Burm
+1236 gr.
+small package (usually for normal sized games)
+surface mail only - up to. 2.000 gr.)
+Europe/World - € 8.60/12.90
+duration Europe/World - up to 2 weeks/up to 7 weeks
+a l t e r n a t i v e:
+letter by surface mail is often faster than a small package
+(in fact it looks like a small package, because I will put your game into a sturdy box)
+up to 2000 gr – anywhere to the world € 14.00
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 May 2006 14:10:07 +0000</listdate>
+    <saledate>Fri, 21 Sep 2007 20:14:11 +0000</saledate>
+    <price currency='USD'>32.95</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Rio Grande Games (RIO 135)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Dec 2006 14:12:26 +0000</listdate>
+    <saledate>Wed, 25 Apr 2007 05:21:11 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Game is complete, and in great overall condition.
+Notes:
+1.  There is some minor creasing on the lid near one of the corners (ask if you_T_E_M_P_T_A_G_#039;d like me to send you a picture).
+2.  Internal components are in perfect condition.
+Shipping will be roughly the cost of a 3.5-lb package from 48104 to your zip code via either USPS (Priority or Parcel) or FedEx Home/Ground.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Aug 2007 07:15:24 +0000</listdate>
+    <saledate>Sun, 12 Aug 2007 00:51:31 +0000</saledate>
+    <price currency='USD'>28.65</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are NEW and still in their factory shrink-wrap.
+TAMSK: $28.65
+Rio Grande Games (RIO 135)
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Jan 2008 05:14:31 +0000</listdate>
+    <saledate>Thu, 10 Jan 2008 05:28:41 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This game is in excellent condition.  It has been played several times, but the box shows no wear.  I am selling my entire collection of Gipf so if you_T_E_M_P_T_A_G_#039;re interested, please look in the other Gipf games for the entire collection minus Yinsh.
+All games are in excellent condition being in slightly played status.  If you have any questions feel free to ask!
+If you are interested in purchasing multiple games, or the entire collection let me know and I will combine shipping for all games.  
+Eric</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jun 2008 01:57:39 +0000</listdate>
+    <saledate>Sat, 07 Jun 2008 06:00:56 +0000</saledate>
+    <price currency='USD'>23.99</price>
+    <condition>verygood</condition>
+    <notes>$9 shipping to most of US; $12 to West.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jun 2008 23:13:44 +0000</listdate>
+    <saledate>Tue, 16 Sep 2008 20:19:43 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>likenew</condition>
+    <notes>Tamsk - Rio Grande Games
+Like New! Removed from shrink, but still in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $1.00 handling charge.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Aug 2008 22:08:30 +0000</listdate>
+    <saledate>Fri, 19 Dec 2008 17:29:06 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+TAMSK: $29.95
+Rio Grande Games [RIO 135]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Aug 2008 22:10:50 +0000</listdate>
+    <saledate>Thu, 23 Apr 2009 03:00:42 +0000</saledate>
+    <price currency='USD'>23.95</price>
+    <condition>verygood</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+TAMSK:  $23.95
+Rio Grande Games [RIO 135]
+* The game has been played a couple of times but is in perfect (very good+ to like new) condition -- see pictures below.
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Oct 2008 23:08:52 +0000</listdate>
+    <saledate>Mon, 28 May 2012 18:55:20 +0000</saledate>
+    <price currency='EUR'>34.99</price>
+    <condition>likenew</condition>
+    <notes>German game.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Dec 2008 02:30:45 +0000</listdate>
+    <saledate>Wed, 07 Jan 2009 23:55:30 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+TAMSK: $34.95
+Rio Grande Games [RIO 135]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jan 2009 22:39:52 +0000</listdate>
+    <saledate>Fri, 22 May 2009 08:14:28 +0000</saledate>
+    <price currency='USD'>22.5</price>
+    <condition>verygood</condition>
+    <notes>played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Feb 2009 13:22:49 +0000</listdate>
+    <saledate>Thu, 05 Mar 2009 04:39:35 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 May 2009 04:48:19 +0000</listdate>
+    <saledate>Thu, 14 May 2009 21:46:13 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This game is in excellent condition.  It has only been played once
+I prefer paypal payments but I also accept money orders. I will ship once I receive payment. Although I pack my games well, I cannot be responsible for any damage caused during shipping. Insurance is available to buyers at cost.
+Shipping cost is $13.00.  The box is an odd size and will cost more at USPS or UPS.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jul 2009 18:42:33 +0000</listdate>
+    <saledate>Tue, 14 Jul 2009 11:49:23 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This is an item to be purchased by Rhys as a result of a recent geeklist auction.
+Total $25</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Oct 2009 19:51:01 +0000</listdate>
+    <saledate>Thu, 22 Oct 2009 01:30:54 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Dec 2009 15:35:33 +0000</listdate>
+    <saledate>Wed, 16 Dec 2009 00:11:41 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>My copy of this game has been played a few times, but is in great condition.  I actually had two sets, and took the six most accurate timers from both to combine into this set that I_T_E_M_P_T_A_G_#039;m now selling.  Enjoy!
+I also have other Gipf series games for sale, including Punct and Zertz.
+SHIPPING: Once you provide me with your zip code (or country), I will charge you actual shipping cost from my location. Within the U.S., I can ship by Priority Mail (2 days) or Parcel Post (3-7 days), whichever you prefer. If you buy more than one game from me, I will be happy to combine shipping.
+PAYMENT: I accept money orders, cashier_T_E_M_P_T_A_G_#039;s checks, and Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Feb 2010 04:00:26 +0000</listdate>
+    <saledate>Fri, 12 Feb 2010 21:14:18 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>This sale is ONLY for the winning bidder of my Geeklist auction:
+nighthawk326 
+Please do not attempt to by this game if you are not the intended buyer; the transaction will not be honored.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Jul 2010 03:12:08 +0000</listdate>
+    <saledate>Mon, 19 Jul 2010 19:04:40 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Game is opened but only played once - in excellent condition. Buyer pays $9.00 shipping (heavy, big box). I_T_E_M_P_T_A_G_#039;ll happily combine purchases to consolidate shipping, so check out my other games for sale. Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Oct 2010 14:56:09 +0000</listdate>
+    <saledate>Fri, 11 Mar 2011 20:42:18 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition. Schmidt International edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jan 2011 16:29:38 +0000</listdate>
+    <saledate>Sun, 30 Jan 2011 20:39:01 +0000</saledate>
+    <price currency='USD'>69</price>
+    <condition>new</condition>
+    <notes>still in shinkwrap
+Will ship worldwide
+ship to USA
+shipping cost : 20$(insurance, can keep tracking, by vessel)
+Delivery Time : 20 ~ 60days 
+shipping cost : 40$(insurance, can keep tracking, by air)
+Delivery Time : 7 ~ 21days 
+ship to other : i will provide shiping cost later
+See my sale list 
+I will discount if you will buy several games</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Feb 2011 16:19:17 +0000</listdate>
+    <saledate>Sat, 26 Feb 2011 12:06:17 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>In foil</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Feb 2011 06:45:41 +0000</listdate>
+    <saledate>Thu, 24 Feb 2011 14:19:11 +0000</saledate>
+    <price currency='USD'>41</price>
+    <condition>verygood</condition>
+    <notes>Item intended for winner of The Something For Everyone auction: El Rey</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Mar 2011 01:09:32 +0000</listdate>
+    <saledate>Sun, 22 May 2011 11:03:01 +0000</saledate>
+    <price currency='AUD'>15</price>
+    <condition>verygood</condition>
+    <notes>Barely played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 May 2011 16:22:17 +0000</listdate>
+    <saledate>Mon, 09 May 2011 01:19:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This is the original edition, in the larger box. It was played once, and all the components are in excellent condition. The box has minor indentation. The rulebook includes English. 
+In addition to the game, some GIPF potentials are included: 3 TAMSK potentials (now TZAAR potentials), 9 ZÈRTZ potentials, and 6 DVONN potentials. The TAMSK/TZAAR potentials were included in the game, the others are from other sets (they_T_E_M_P_T_A_G_#039;re extras, which is why I am including them here).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Jun 2011 18:39:55 +0000</listdate>
+    <saledate>Wed, 08 Jun 2011 18:59:30 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Auction for (Guantanamo)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jun 2011 01:59:32 +0000</listdate>
+    <saledate>Mon, 14 Nov 2011 21:39:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>acceptable</condition>
+    <notes>The box has some serious issues. The front lid has a split corner, and shelf wear. There is a small tear in the edge. The base of the box has a couple of spots wear the paper separated from the box. One corner is split as well. The contents are in excellent condition. The game is complete. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jun 2011 15:10:29 +0000</listdate>
+    <saledate>Fri, 30 Dec 2011 01:45:44 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>verygood</condition>
+    <notes>TAMSK (1998) by Schmidt
+Box:  Light shelfwear with a few dings, dents, and creases.  Overall the box is in very good to excellent condition!
+Components:  Original rules are missing, but we_T_E_M_P_T_A_G_#039;ve printed out the BGG English translation on a laser printer for you.  Complete and in like new condition!  Pieces have been sorted and stored in plastic bags for convenience and protection - you will be very pleased with how the game has been packaged.   
+SHIPPING:
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 4 lbs. from zip code 85208.  International buyers are very welcome, but please contact me before buying for a shipping price quote to avoid any surprises or misunderstandings.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Aug 2011 16:56:21 +0000</listdate>
+    <saledate>Fri, 07 Oct 2011 08:35:03 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes>original multilingual (GB/D/E/F/I/NL) Schmidt edition (1998)
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Sep 2011 21:58:42 +0000</listdate>
+    <saledate>Thu, 02 Feb 2012 04:10:24 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>acceptable</condition>
+    <notes>Rio Grande Edition - Complete</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Oct 2011 10:44:35 +0000</listdate>
+    <saledate>Fri, 11 Nov 2011 17:30:11 +0000</saledate>
+    <price currency='EUR'>32</price>
+    <condition>new</condition>
+    <notes>original multilingual (GB/D/E/F/I/NL) Schmidt edition (1998)
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Oct 2011 16:18:27 +0000</listdate>
+    <saledate>Wed, 22 Feb 2012 19:04:09 +0000</saledate>
+    <price currency='USD'>69</price>
+    <condition>new</condition>
+    <notes>still in shinkwrap
+Will ship worldwide
+ship to USA
+shipping cost : 20$(insurance, can keep tracking, by vessel)
+Delivery Time : 20 ~ 60days 
+shipping cost : 40$(insurance, can keep tracking, by air)
+Delivery Time : 7 ~ 21days 
+ship to other : i will provide shiping cost later
+See my sale list 
+I will discount if you will buy several games</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Nov 2011 02:18:37 +0000</listdate>
+    <saledate>Fri, 18 Nov 2011 07:52:38 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+TAMSK: $59.95
+Rio Grande Games [RIO 135]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Nov 2011 20:26:57 +0000</listdate>
+    <saledate>Thu, 17 Nov 2011 00:02:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>acceptable</condition>
+    <notes>****SOLD TO USER ORANGEMOOSE VIA AUCTION****</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Nov 2011 15:36:13 +0000</listdate>
+    <saledate>Sat, 26 Nov 2011 01:01:59 +0000</saledate>
+    <price currency='USD'>69.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+TAMSK: $69.95
+Rio Grande Games [RIO 135]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Dec 2011 16:35:42 +0000</listdate>
+    <saledate>Fri, 16 Dec 2011 17:01:55 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>auction for Ana
+Please do not purchase unless you are Ana</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jan 2012 02:05:49 +0000</listdate>
+    <saledate>Tue, 24 Jan 2012 23:25:17 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Sold in auction for $40 to Jeremy Scott.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Mar 2012 23:33:45 +0000</listdate>
+    <saledate>Mon, 05 Mar 2012 02:50:57 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>verygood</condition>
+    <notes>TAMSK
+Very good condition overall. 
+Also contains the six _T_E_M_P_T_A_G_quot;Gipf Potentials_T_E_M_P_T_A_G_#039; as a bonus. 
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Mar 2012 21:06:27 +0000</listdate>
+    <saledate>Sat, 24 Mar 2012 16:15:33 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Very nice shape, no issues, only played a few times. Should be a 4 pound package from zip 80015. I don_T_E_M_P_T_A_G_#039;t charge for packing/handling, and I ship USPS Priority by the lowest rate.
+Please let me know if you have questions.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Apr 2012 11:56:24 +0000</listdate>
+    <saledate>Mon, 30 Apr 2012 00:51:28 +0000</saledate>
+    <price currency='CAD'>35</price>
+    <condition>verygood</condition>
+    <notes>Complete, just a bit of damage on a box corner.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jul 2012 21:55:16 +0000</listdate>
+    <saledate>Mon, 16 Jul 2012 16:28:03 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>This is the Schmidt Edition.  It has been played 20-30 times, but it_T_E_M_P_T_A_G_#039;s in excellent shape.  The box is in very good condition with no split corners.  It_T_E_M_P_T_A_G_#039;s too bad they stopped making this one, it_T_E_M_P_T_A_G_#039;s one of the best in the GIPF series - that_T_E_M_P_T_A_G_#039;s why I have two copies (I_T_E_M_P_T_A_G_#039;m keeping one).  It plays like _T_E_M_P_T_A_G_quot;Quivive on steriods_T_E_M_P_T_A_G_quot;.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2012 13:53:58 +0000</listdate>
+    <saledate>Thu, 02 Aug 2012 17:10:22 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Aug 2012 10:21:50 +0000</listdate>
+    <saledate>Sat, 18 May 2013 11:02:25 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>good</condition>
+    <notes>Game components complete and in very good condition.
+Game box lid cover lifting in two areas and lightly scuffed.
+Shipping to UK destination £7</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Aug 2012 19:28:40 +0000</listdate>
+    <saledate>Sun, 09 Sep 2012 04:18:59 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Sep 2012 05:41:25 +0000</listdate>
+    <saledate>Mon, 19 Nov 2012 09:15:40 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>New in box, shrink-wrapped, never been opened or played.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Sep 2012 22:40:52 +0000</listdate>
+    <saledate>Thu, 27 Sep 2012 16:52:53 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Only for BGG User: jpowelltheowl for auction high bid</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Sep 2012 02:54:25 +0000</listdate>
+    <saledate>Sun, 25 Nov 2012 04:38:34 +0000</saledate>
+    <price currency='USD'>57.99</price>
+    <condition>good</condition>
+    <notes>Contents are in good shape.  Only played a few times.  Rulebook has minor damage.  Box top has compression damage on left side (not surprising since this is the large box, Schmidt Spiele edition), mild shelf/corner wear, and some rippled paper on box top from rain drops.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Oct 2012 12:18:59 +0000</listdate>
+    <saledate>Fri, 11 Jan 2013 22:34:30 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>verygood</condition>
+    <notes>Game is complete.
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+German version
+Schmidt Spiele</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Oct 2012 14:03:31 +0000</listdate>
+    <saledate>Sat, 20 Oct 2012 14:06:45 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>I have owned this game for several years, but haven_T_E_M_P_T_A_G_#039;t really played it that much, so I figured I would offer it up. The game board and pieces are in _T_E_M_P_T_A_G_#039;like new_T_E_M_P_T_A_G_#039; condition, but the top part of the outer box shows some signs of scuff/wear. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Dec 2012 22:09:28 +0000</listdate>
+    <saledate>Sat, 19 Jan 2013 20:41:06 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>good</condition>
+    <notes>Played a couple times, some slight dishing to the box but otherwise in great shape!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jan 2013 02:22:37 +0000</listdate>
+    <saledate>Tue, 20 Aug 2013 18:00:28 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>good</condition>
+    <notes>Minor compression damage on the bottom of the box.  
+One corner on the lid is split.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jan 2013 23:13:10 +0000</listdate>
+    <saledate>Sun, 14 Jul 2013 01:51:42 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>new</condition>
+    <notes>new in shrink, corners are a bit frayed from being on a store shelf for years.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Feb 2013 20:55:09 +0000</listdate>
+    <saledate>Sun, 08 Dec 2013 18:35:55 +0000</saledate>
+    <price currency='EUR'>100</price>
+    <condition>new</condition>
+    <notes>I am offering from the Gipf project game series:
+ 
+* TAMSK
+ 
+The Game is new and in shrink!!
+DON_T_E_M_P_T_A_G_amp;Co-Edition!!
+ 
+---_T_E_M_P_T_A_G_gt; Shipment costs will be 6,50 Euro (Paket HERMES / M Germany)! 
+---_T_E_M_P_T_A_G_gt; EU-shipment 18,50 Euro (Paket DHL)!
+ ---_T_E_M_P_T_A_G_gt; other countrys - please ask for shipment options and costs!
+ 
+____________________________________________________________</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Feb 2013 14:19:56 +0000</listdate>
+    <saledate>Sat, 23 Feb 2013 16:23:38 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>good</condition>
+    <notes>Rio Grande edition, includes potentials. Components are in very good condition.  The box has corner wear and a little dishing, but is generally pretty solid.  USPS shipping, I will only pass on actual postage costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Mar 2013 17:42:35 +0000</listdate>
+    <saledate>Mon, 08 Jul 2013 03:48:13 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Unplayed. Some minimal shelf-wear, small indent on box bottom, game pieces are pristine. Could easily be given as a gift.
+Rio Grande Edition. Made in Germany.
+A little bigger than a Medium Flat Rate Box - $15.00 for shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Mar 2013 03:30:04 +0000</listdate>
+    <saledate>Thu, 15 Aug 2013 02:05:46 +0000</saledate>
+    <price currency='AUD'>39</price>
+    <condition>new</condition>
+    <notes>New in Shrink. Pickup in Sydney CBD/Redfern or will post for $18 in Australia. I_T_E_M_P_T_A_G_#039;m selling the entire GIPF line new so combine and save shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Apr 2013 05:01:26 +0000</listdate>
+    <saledate>Fri, 05 Apr 2013 16:49:18 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Note: Rio Grande Edition
+Game in excellent condition. Box has slight wear. I will only charge the actual USPS shipping price (lowest possible) with delivery confirmation for the game.
+Feel free to browse through my other games for sale in the marketplace. I will provide free shipping in the continental US for orders over $150. I will also offer $10 off on shipping to anywhere else in the world for orders over $150.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Apr 2013 05:48:58 +0000</listdate>
+    <saledate>Fri, 12 Apr 2013 21:21:11 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Complete. Buyer pays actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Jun 2013 18:29:10 +0000</listdate>
+    <saledate>Sun, 14 Jul 2013 01:51:42 +0000</saledate>
+    <price currency='USD'>82</price>
+    <condition>likenew</condition>
+    <notes>Schmidt Spiele International (including English rules) edition.
+This copy is out of shrink but does not appear to have ever been played because the 64 ivory rings are still in a sealed bag.
+I_T_E_M_P_T_A_G_#039;ve included a pic of the box top as there are a couple of imho minor imperfections... notice on the right edge 1/2 way down.. the paper is I want to describe as _T_E_M_P_T_A_G_quot;wrinkled_T_E_M_P_T_A_G_quot;.  Over on the lower edge is a small depression that looks like another game box may have pushed against it.  And at the top above the _T_E_M_P_T_A_G_quot;T_T_E_M_P_T_A_G_quot; looks like a small scratch.  Minor imho but I include the pic as your opnion may differ.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Jun 2013 23:04:06 +0000</listdate>
+    <saledate>Fri, 19 Jul 2013 21:18:23 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>All pieces in good working order. Only minor box wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jul 2013 23:22:54 +0000</listdate>
+    <saledate>Thu, 25 Jul 2013 14:37:55 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>For user dimaradona only 
+Catan exploeres and pirates, revolver 2, catan barbarians 5-6: $55
+S_T_E_M_P_T_A_G_amp;H: $22</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Oct 2013 03:22:03 +0000</listdate>
+    <saledate>Fri, 05 Sep 2014 22:10:49 +0000</saledate>
+    <price currency='USD'>79.95</price>
+    <condition>verygood</condition>
+    <notes>Components looks new - perfect. Box has some general shelf wear. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. I have many hundreds of games for sale and would be happy to combine shipping charges for multiple games to save you money. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Oct 2013 06:00:27 +0000</listdate>
+    <saledate>Mon, 14 Oct 2013 16:31:30 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Game is in very good condition.  Box shows some slight wear and there is slight crinkling in one corner.  Timers work well . </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Oct 2013 11:07:43 +0000</listdate>
+    <saledate>Thu, 17 Oct 2013 05:39:23 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>For BGG user BobinCa only!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Dec 2013 07:24:53 +0000</listdate>
+    <saledate>Sat, 12 Jul 2014 04:26:28 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>good</condition>
+    <notes>Box has some wear. Complete.
+Bigger box; feel free to ask for shipping quote. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Dec 2013 20:02:52 +0000</listdate>
+    <saledate>Mon, 23 Dec 2013 04:27:59 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>new</condition>
+    <notes>Still in shrink. Please contact me for further information.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Dec 2013 07:03:27 +0000</listdate>
+    <saledate>Sat, 21 Dec 2013 04:37:03 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner satorisnow</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Feb 2014 08:55:37 +0000</listdate>
+    <saledate>Sun, 06 Apr 2014 23:00:37 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Some minor wear to the box corners, but otherwise great shape!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Mar 2014 23:43:15 +0000</listdate>
+    <saledate>Thu, 17 Apr 2014 07:59:45 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>New in shrink!  Very rare and out of print! Shipping is $12.00 to the USA only!  Ships the next business day!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 May 2014 01:24:20 +0000</listdate>
+    <saledate>Mon, 05 May 2014 01:26:21 +0000</saledate>
+    <price currency='USD'>47</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/172745/item/3191323#3191323]Item for Geeklist _T_E_M_P_T_A_G_quot;Rodego_T_E_M_P_T_A_G_#039;s Auction III - Ends May 4th [US]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Thank you for your winning bid. You will pay actual shipping costs and payment to be made via PayPal.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 May 2014 12:32:43 +0000</listdate>
+    <saledate>Wed, 02 Jul 2014 21:41:22 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>The shrink is removed, but the playing pieces are still bagged.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jun 2014 22:15:42 +0000</listdate>
+    <saledate>Thu, 19 Jun 2014 14:57:43 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>reserved for user _T_E_M_P_T_A_G_quot;ohms377_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Oct 2014 11:53:34 +0000</listdate>
+    <saledate>Wed, 22 Oct 2014 15:36:53 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Game is complete and in really good condition. Comes from a smoke and pet free home. Buyer to pay shipping from zip code 55387. Feel free to GM me with any questions and I can post pictures upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Nov 2014 02:46:36 +0000</listdate>
+    <saledate>Sat, 27 Dec 2014 22:45:37 +0000</saledate>
+    <price currency='USD'>44.99</price>
+    <condition>good</condition>
+    <notes>Some minor box damage, ships for $14 to the US, a little less if you are near MN.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Mar 2014 08:28:31 +0000</listdate>
+    <saledate>Mon, 05 Jan 2015 22:56:08 +0000</saledate>
+    <price currency='GBP'>32.5</price>
+    <condition>verygood</condition>
+    <notes>Complete - excellent condition. Will pack carefully.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Dec 2013 19:20:52 +0000</listdate>
+    <saledate>Thu, 08 Jan 2015 23:14:11 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 May 2013 19:00:10 +0000</listdate>
+    <saledate>Wed, 28 Jan 2015 16:34:15 +0000</saledate>
+    <price currency='USD'>69</price>
+    <condition>verygood</condition>
+    <notes>The box came with a crease on top.
+Components are very good
+Shipping will be close to $20 to the lower 48 USA
+I can do a F2F transfer in the Southbay area of Los Angeles or in Irvine (close to John Wayne airport)
+I consider international shipping based on BGG profile and activity
+I am open to reasonable counter offers</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Dec 2014 19:22:54 +0000</listdate>
+    <saledate>Fri, 06 Feb 2015 05:39:58 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>The box has some wear in a few spots (see attached pics) but in overall good condition. The components are like new.
+The shipping rate is 6.95 for the Netherlands, 9-12 euros for the EU (depending on the country) and 18 euros for the rest of the world (for standard post). Track _T_E_M_P_T_A_G_amp; trace or insured shipping also available.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Oct 2014 15:42:34 +0000</listdate>
+    <saledate>Fri, 06 Feb 2015 08:26:17 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>verygood</condition>
+    <notes>played sometimes but it is still in very good condition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Feb 2015 00:56:32 +0000</listdate>
+    <saledate>Wed, 04 Mar 2015 20:06:15 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>* I will be out of town from Friday, March 6th through Monday, March 9th. The last day I will be able to ship will be Thursday, March 5th. You can buy games during this time, but I will not have access to a computer over the weekend to answer questions. If there are any orders placed, I will confirm them Monday evening *
+The outer shrinkwrap was removed and the pieces were removed from the plastic, but the game was never played.  The box and components look like new.  Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Apr 2015 12:59:39 +0000</listdate>
+    <saledate>Sun, 03 May 2015 16:30:10 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Nov 2014 07:41:56 +0000</listdate>
+    <saledate>Sat, 09 May 2015 04:36:01 +0000</saledate>
+    <price currency='AUD'>60</price>
+    <condition>verygood</condition>
+    <notes>Payment by direct deposit or money order for Australian buyers. Paypal for international buyers.
+I will provide a quote for shipping if interested.
+I will ship once payment received.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Jun 2015 10:40:54 +0000</listdate>
+    <saledate>Sun, 28 Jun 2015 16:57:39 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>acceptable</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Apr 2015 02:01:21 +0000</listdate>
+    <saledate>Tue, 28 Jul 2015 02:55:50 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>good</condition>
+    <notes>Local pick up only in NYC metro area.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Aug 2015 19:37:54 +0000</listdate>
+    <saledate>Thu, 06 Aug 2015 17:25:29 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194075/item/4022231#4022231]Item for Geeklist _T_E_M_P_T_A_G_quot;Oop Nis Auction, MTG, War +more (US only to end 8-2-15)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+for bigglesbee only
+shipping to MA, USPS Priority $9 add $3 for full insurance.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Jun 2015 18:57:55 +0000</listdate>
+    <saledate>Mon, 07 Sep 2015 15:50:13 +0000</saledate>
+    <price currency='USD'>99</price>
+    <condition>new</condition>
+    <notes>still in shinkwrap
+Will ship worldwide
+ship to USA
+shipping cost : 20$(insurance, can keep tracking, by vessel)
+Delivery Time : 20 ~ 60days 
+shipping cost : 40$(insurance, can keep tracking, by air)
+Delivery Time : 7 ~ 21days 
+ship to other : i will provide shiping cost later
+See my sale list 
+I will discount if you will buy several games</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jul 2015 13:09:45 +0000</listdate>
+    <saledate>Tue, 13 Oct 2015 18:21:31 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>likenew</condition>
+    <notes>Shipping 12 EUR worldwide.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2015 00:30:53 +0000</listdate>
+    <saledate>Sat, 28 Nov 2015 00:32:02 +0000</saledate>
+    <price currency='USD'>67</price>
+    <condition>verygood</condition>
+    <notes>for John/fuzen - please do not purchase if you are not he
+As agreed, $67 plus $25 for Gipf expansion 1, total $82 - includes shipping.
+Payment by PayPal: oberheu@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Nov 2015 13:28:46 +0000</listdate>
+    <saledate>Thu, 10 Dec 2015 23:40:04 +0000</saledate>
+    <price currency='EUR'>79</price>
+    <condition>new</condition>
+    <notes>One of the very last BRAND NEW Tamsk games in the world.
+You can order this one in combination with all Gipf-project-games. All Brand New in shrink!
+For these 7 games: Tamsk, Gipf, Dvonn, Yinsh, Tzaar, Zertz and Pünct you pay only: €319,- + shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Dec 2015 04:58:47 +0000</listdate>
+    <saledate>Fri, 18 Dec 2015 11:20:07 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>This item is for user herendil66 only, from the _T_E_M_P_T_A_G_quot;Two Boardgames Cannot Occupy the Same Space at Once_T_E_M_P_T_A_G_quot; US only Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Dec 2015 21:00:38 +0000</listdate>
+    <saledate>Tue, 29 Dec 2015 22:29:58 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Oct 2015 11:58:52 +0000</listdate>
+    <saledate>Mon, 04 Jan 2016 08:03:47 +0000</saledate>
+    <price currency='GBP'>55</price>
+    <condition>new</condition>
+    <notes>One of the very last BRAND NEW Tamsk games in the world! 
+You can order this one in combination with all Gipf-project-games. All Brand New in shrink!
+For these 7 games: Tamsk, Gipf, Dvonn, Yinsh, Tzaar, Zertz and Pünct you pay only: £225,- + shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Dec 2015 11:04:32 +0000</listdate>
+    <saledate>Wed, 03 Feb 2016 15:24:11 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>new</condition>
+    <notes>Copy is still in shrink. Unfortunately the box has some damage (see photos), especially at the bottom.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jan 2016 09:06:08 +0000</listdate>
+    <saledate>Wed, 03 Feb 2016 15:24:57 +0000</saledate>
+    <price currency='GBP'>55</price>
+    <condition>new</condition>
+    <notes>One of the very last BRAND NEW Tamsk games in the world!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Dec 2015 23:09:10 +0000</listdate>
+    <saledate>Sat, 09 Apr 2016 03:05:29 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>This is a long box that won_T_E_M_P_T_A_G_#039;t fit typical USPS Flat Rate shipping boxes, so please contact for a shipping quote. Figure about $20 within the US; less if shipping near 97214.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Apr 2016 14:37:02 +0000</listdate>
+    <saledate>Mon, 18 Apr 2016 22:23:08 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/207588/item/4563921#4563921]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction for Key Market _T_E_M_P_T_A_G_amp; other goodies:_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For user _T_E_M_P_T_A_G_quot;jjfalzone_T_E_M_P_T_A_G_quot;.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 May 2016 11:17:07 +0000</listdate>
+    <saledate>Thu, 12 May 2016 16:00:35 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>new</condition>
+    <notes>In shrink wrap. Payment can also be done in U.S. Dollars $ (Pay Pal, price 65$).
+Please send a message if you are interested so I can make an estimate of the shipping costs. Payment can be done by bank transfer or Paypal. If you have any questions please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Apr 2016 01:06:28 +0000</listdate>
+    <saledate>Fri, 20 May 2016 01:31:48 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Includes 6 Tamsk potentials. Box has a couple scratches. Components in great condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 May 2016 20:02:17 +0000</listdate>
+    <saledate>Sun, 12 Jun 2016 16:10:54 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes>condition very good / like new
+Please send a message if you are interested so I can make an estimate of the shipping costs. Payment can be done by bank transfer or Paypal. If you have any questions please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2016 21:05:10 +0000</listdate>
+    <saledate>Wed, 03 Aug 2016 05:04:00 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>new</condition>
+    <notes>Still in Shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Aug 2016 07:53:16 +0000</listdate>
+    <saledate>Thu, 01 Sep 2016 22:25:11 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>Played twice, shrink removed last year.
+Can be handed over at Essen 2016 to save the shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Nov 2016 14:12:09 +0000</listdate>
+    <saledate>Wed, 07 Dec 2016 01:01:22 +0000</saledate>
+    <price currency='USD'>64.95</price>
+    <condition>good</condition>
+    <notes>Box shows some wear, components are great. 
+$15 shipping within the U.S. and I_T_E_M_P_T_A_G_#039;ll cover whatever is over (unless it_T_E_M_P_T_A_G_#039;s exorbitant). Local pickup available in the D.C. area (20815).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Oct 2016 07:37:46 +0000</listdate>
+    <saledate>Fri, 23 Dec 2016 12:42:21 +0000</saledate>
+    <price currency='EUR'>75</price>
+    <condition>new</condition>
+    <notes>One of the very last BRAND NEW Tamsk games in the world!
+Bank transfer in euro_T_E_M_P_T_A_G_#039;s preferred = no extra costs (except shipping)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Feb 2017 13:41:11 +0000</listdate>
+    <saledate>Sun, 12 Feb 2017 23:01:22 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jan 2017 06:06:07 +0000</listdate>
+    <saledate>Mon, 27 Feb 2017 17:59:26 +0000</saledate>
+    <price currency='USD'>83.31</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Feb 2017 22:14:03 +0000</listdate>
+    <saledate>Wed, 01 Mar 2017 09:03:26 +0000</saledate>
+    <price currency='USD'>69</price>
+    <condition>likenew</condition>
+    <notes>This copy has never even been played!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Feb 2017 16:57:15 +0000</listdate>
+    <saledate>Fri, 03 Mar 2017 04:51:06 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>The box is not in great shape, but all the components are perfect.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Apr 2017 20:16:44 +0000</listdate>
+    <saledate>Thu, 20 Apr 2017 16:28:07 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Apr 2017 11:57:37 +0000</listdate>
+    <saledate>Sun, 14 May 2017 12:40:35 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>new</condition>
+    <notes>*** this sale is only for Michifus, so please don_T_E_M_P_T_A_G_#039;t buy***
+Brand new, never been played, but box is opened to check components, because of damage box (see picture). Contents in perfect condition.
+Bank transfer in euro_T_E_M_P_T_A_G_#039;s preferred. PayPal with costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Sep 2016 10:24:27 +0000</listdate>
+    <saledate>Tue, 30 May 2017 04:34:26 +0000</saledate>
+    <price currency='USD'>99</price>
+    <condition>new</condition>
+    <notes>still in shinkwrap
+Will ship worldwide
+ship to USA
+shipping cost : 20$(insurance, can keep tracking, by vessel)
+Delivery Time : 20 ~ 60days 
+shipping cost : 40$(insurance, can keep tracking, by air)
+Delivery Time : 7 ~ 21days 
+ship to other : i will provide shiping cost later
+See my sale list 
+I will discount if you will buy several games</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 May 2017 18:36:02 +0000</listdate>
+    <saledate>Sat, 01 Jul 2017 10:54:24 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>Rio Grande edition, never played. Pieces are pristine, box is in excellent condition. Kept with care on bookshelves in a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Jul 2017 16:09:01 +0000</listdate>
+    <saledate>Tue, 04 Jul 2017 17:17:49 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+Buyer pays shipping (oversized box won_T_E_M_P_T_A_G_#039;t fit in a Priority box, ask for a shipping quote).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Jul 2017 20:27:58 +0000</listdate>
+    <saledate>Sun, 06 Aug 2017 17:34:37 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes>Please pay via Paypal to _T_E_M_P_T_A_G_quot;diongarner@yahoo.com_T_E_M_P_T_A_G_quot;
+Will ship via FEDEX to usually arrive within 3 to 4 business days....</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Aug 2017 02:37:27 +0000</listdate>
+    <saledate>Sat, 26 Aug 2017 15:54:38 +0000</saledate>
+    <price currency='CAD'>100</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Sep 2017 19:34:26 +0000</listdate>
+    <saledate>Fri, 15 Sep 2017 15:02:46 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>Looks great. Smoke free home.  Shipping included</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Nov 2017 07:35:50 +0000</listdate>
+    <saledate>Fri, 10 Nov 2017 12:59:20 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220229/item/5732872#5732872]Item for Geeklist _T_E_M_P_T_A_G_quot;Huge Collection Purge Auction - 275+ games/lots, including rarities, big lots, and freebies (Ends 11/8/17; BGG.con Delivery Available)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Dec 2017 22:28:42 +0000</listdate>
+    <saledate>Mon, 25 Dec 2017 11:43:31 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Local delivery possible near Los Angeles (I live in Santa Clarita, work in Pasadena). Delivery at SoCal Games Day works well, too.
+Otherwise domestic _T_E_M_P_T_A_G_amp; international shipping is possible. Combined shipping also possible _T_E_M_P_T_A_G_amp; encouraged.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Dec 2017 21:34:29 +0000</listdate>
+    <saledate>Tue, 09 Jan 2018 13:18:21 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>verygood</condition>
+    <notes>Some wear at the box</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Dec 2017 16:18:42 +0000</listdate>
+    <saledate>Sat, 13 Jan 2018 14:22:00 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>complete
+very good shape
+box has some minor shelfwear (bottom of the box is slightly dented in 1 corner)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Jun 2017 06:48:06 +0000</listdate>
+    <saledate>Tue, 23 Jan 2018 00:03:51 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Sep 2015 20:58:04 +0000</listdate>
+    <saledate>Sat, 27 Jan 2018 19:01:28 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Mar 2018 08:20:07 +0000</listdate>
+    <saledate>Sat, 24 Mar 2018 04:28:05 +0000</saledate>
+    <price currency='EUR'>44</price>
+    <condition>verygood</condition>
+    <notes>Some more  wear at the box</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Feb 2018 20:33:18 +0000</listdate>
+    <saledate>Sat, 28 Apr 2018 01:34:46 +0000</saledate>
+    <price currency='EUR'>80</price>
+    <condition>new</condition>
+    <notes>Still shrinkwarpped.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Feb 2018 04:36:51 +0000</listdate>
+    <saledate>Thu, 03 May 2018 09:18:04 +0000</saledate>
+    <price currency='USD'>150</price>
+    <condition>likenew</condition>
+    <notes>Like New and Complete!  RGG English Edition (Rare!)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Aug 2018 09:55:54 +0000</listdate>
+    <saledate>Thu, 20 Sep 2018 09:19:17 +0000</saledate>
+    <price currency='GBP'>42</price>
+    <condition>verygood</condition>
+    <notes>Played a few times, complete and undamaged.
+Note that while I_T_E_M_P_T_A_G_#039;m prepared to ship worldwide, the size of the box will make international shipping very expensive.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Nov 2018 23:05:26 +0000</listdate>
+    <saledate>Wed, 14 Nov 2018 12:56:59 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Box has some wear, especially around the corners, but the contents are in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Dec 2018 14:38:01 +0000</listdate>
+    <saledate>Sun, 16 Dec 2018 04:04:53 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>verygood</condition>
+    <notes>Tamsk
+Very good condition. Includes bonus Gipf Potentials.
+I welcome international buyers!</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

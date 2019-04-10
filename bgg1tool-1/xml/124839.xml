@@ -1,0 +1,457 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="124839">
+   <yearpublished>2012</yearpublished>
+   <minplayers>1</minplayers>
+   <maxplayers>3</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Hoplomachus: The Lost Cities</name>
+         
+   <description>Hoplomachus [ha-ploh-ma-kuss], or _T_E_M_P_T_A_G_amp;quot;Hoplo_T_E_M_P_T_A_G_amp;quot; for short, is a hex-based tactical board game set inside a gladiatorial arena. One to three players, each representing an ancient city/civilization thought to have been lost to the world, are now on Rome's doorstep vying for a place in the prestigious arena games._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Players have a very clear objective: Eliminate the opponent's champion. Champions start the game in the arena but are inactive and defenseless. They will not fight until the crowd is behind them. Each player takes turns drawing, playing and moving gladiators from their _T_E_M_P_T_A_G_amp;quot;hand_T_E_M_P_T_A_G_amp;quot; and assisting them with tactic chips._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Based on opponent's moves and play style, each person will need to adjust their strategies. Defend your champ, take over and hold the crowd favor areas, assault opponent's champion, cover deployment zones, eliminate tacticians to reduce enemy options, fight beasts to gain crowd favor, the list of tactical possibilities is endless._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Hoplomachus combines combat, tactics, chip (units) management, level progression (through crowd favor system), team play, player vs board, and so much more._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/7nKDw_HQGJL28DQHPEvA-icGT0E=/fit-in/200x150/pic1311902.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/cMAEt4Wmxgbffn6UKg_vhSX8rqY=/0x0/pic1311902.jpg</image>
+      
+            <boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+               <boardgamedesigner objectid="60311">Adam Carlson</boardgamedesigner>
+               <boardgameartist objectid="60315">Josh J. Carlson</boardgameartist>
+               <boardgamedesigner objectid="60315">Josh J. Carlson</boardgamedesigner>
+               <boardgamepublisher objectid="22593">Chip Theory Games</boardgamepublisher>
+               <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+               <boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+               <boardgamecategory objectid="1017">Dice</boardgamecategory>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgameversion objectid="165871">English first edition</boardgameversion>
+               <boardgameversion objectid="304303">English second edition</boardgameversion>
+                      <boardgamecategory objectid="1046">Fighting</boardgamecategory>
+                      <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+               <boardgamefamily objectid="49750">Hoplomachus</boardgamefamily>
+                      <boardgameexpansion objectid="195520">Hoplomachus: Army of One</boardgameexpansion>
+               <boardgameexpansion objectid="154587">Hoplomachus: Beast _T_E_M_P_T_A_G_amp; Master</boardgameexpansion>
+               <boardgameintegration objectid="154587">Hoplomachus: Beast _T_E_M_P_T_A_G_amp; Master</boardgameintegration>
+               <boardgameexpansion objectid="141412">Hoplomachus: Blade_T_E_M_P_T_A_G_#039;s Edge</boardgameexpansion>
+               <boardgameintegration objectid="141412">Hoplomachus: Blade_T_E_M_P_T_A_G_#039;s Edge</boardgameintegration>
+               <boardgameexpansion objectid="234899">Hoplomachus: Carthage</boardgameexpansion>
+               <boardgameexpansion objectid="176900">Hoplomachus: Crowd Favor Gladiator Promo Chips</boardgameexpansion>
+               <boardgameaccessory objectid="176731">Hoplomachus: Crowd Favor Gladiators</boardgameaccessory>
+               <boardgameexpansion objectid="176780">Hoplomachus: Crowd Favor Gladiators – BGG Promo Pack 1</boardgameexpansion>
+               <boardgameexpansion objectid="262318">Hoplomachus: Crowd Favor Gladiators – BGG Promo Pack 2</boardgameexpansion>
+               <boardgameexpansion objectid="262319">Hoplomachus: Crowd Favor Gladiators – BGG Promo Pack 3</boardgameexpansion>
+               <boardgameaccessory objectid="195522">Hoplomachus: Dice Pack</boardgameaccessory>
+               <boardgameexpansion objectid="248766">Hoplomachus: FaMel Ruins Arena</boardgameexpansion>
+               <boardgameexpansion objectid="200265">Hoplomachus: Golden Tribute</boardgameexpansion>
+               <boardgameexpansion objectid="141413">Hoplomachus: Legends of the Sand</boardgameexpansion>
+               <boardgameintegration objectid="141413">Hoplomachus: Legends of the Sand</boardgameintegration>
+               <boardgameexpansion objectid="234898">Hoplomachus: Machu Picchu</boardgameexpansion>
+               <boardgameintegration objectid="176524">Hoplomachus: Origins</boardgameintegration>
+               <boardgameexpansion objectid="200264">Hoplomachus: Paying Homage</boardgameexpansion>
+               <boardgameaccessory objectid="195531">Hoplomachus: Premium Health Chips</boardgameaccessory>
+               <boardgameintegration objectid="139131">Hoplomachus: Rise of Rome</boardgameintegration>
+               <boardgameexpansion objectid="143370">Hoplomachus: Training Grounds</boardgameexpansion>
+               <boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgameintegration objectid="154587" inbound="true">Hoplomachus: Beast _T_E_M_P_T_A_G_amp; Master</boardgameintegration>
+               <boardgameintegration objectid="141412" inbound="true">Hoplomachus: Blade_T_E_M_P_T_A_G_#039;s Edge</boardgameintegration>
+               <boardgameintegration objectid="141413" inbound="true">Hoplomachus: Legends of the Sand</boardgameintegration>
+               <boardgameintegration objectid="176524" inbound="true">Hoplomachus: Origins</boardgameintegration>
+               <boardgameintegration objectid="139131" inbound="true">Hoplomachus: Rise of Rome</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="17">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="11" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="3+">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="4" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>350</usersrated>
+     <average>7.97346</average>
+     <bayesaverage>6.00589</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2156" bayesaverage="6.00589" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="962" bayesaverage="6.12727" />
+            
+           </ranks>
+     
+     <stddev>1.4436</stddev>
+     <median>0</median>
+     <owned>852</owned>
+     <trading>5</trading>
+     <wanting>188</wanting>
+     <wishing>404</wishing>
+     <numcomments>126</numcomments>
+     <numweights>24</numweights>
+     <averageweight>2.5</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 23 Jul 2013 15:09:28 +0000</listdate>
+    <saledate>Thu, 29 Aug 2013 16:56:04 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>The game is fully intact and in like new condition.  This is an original Kickstarter copy.  It includes two arena maps:  The main arena and the kickstarter expansion arena.  The game has only been played 4 times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Nov 2013 16:08:51 +0000</listdate>
+    <saledate>Sun, 17 Nov 2013 17:08:53 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>For auction winner ONLY! As per ...
+http://boardgamegeek.com/geeklist/165128/pre-christmas-making-space-auction-agricola-new-p</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Feb 2014 14:03:41 +0000</listdate>
+    <saledate>Wed, 05 Feb 2014 14:23:57 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>reserved for theritzes</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Mar 2014 02:38:03 +0000</listdate>
+    <saledate>Wed, 12 Mar 2014 04:08:54 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>This is the result of a geeklist auction.  Please do not purchase unless you are user gersh77</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Jul 2014 22:43:13 +0000</listdate>
+    <saledate>Thu, 10 Jul 2014 22:46:40 +0000</saledate>
+    <price currency='CAD'>50</price>
+    <condition>likenew</condition>
+    <notes>Only played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Jul 2014 05:25:18 +0000</listdate>
+    <saledate>Wed, 06 Aug 2014 04:25:16 +0000</saledate>
+    <price currency='USD'>67</price>
+    <condition>verygood</condition>
+    <notes>Reserved for SOMEGI
+This sale has been auto-generated for the auction: [geekurl=/geeklist/176405/item/3333689#3333689]Item for Geeklist _T_E_M_P_T_A_G_quot;Trying to get down to 150 Auction! Wargames, Solo Games, and More!  Worldwide Shipping Available - Ends Sunday, July 27th!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Sep 2014 13:39:04 +0000</listdate>
+    <saledate>Tue, 09 Sep 2014 13:44:58 +0000</saledate>
+    <price currency='USD'>67</price>
+    <condition>likenew</condition>
+    <notes>This item was won in Auction and is reserved for user trmptdrummer. If you are not this user please do not purchase this item.
+Played a couple of times. KS edition. HOPLO TRAINEE - Welcome to the Arena! You will be receiving Hoplomachus: The Lost Cities. Also, you will get our Kickstarter Flip Chip.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Nov 2014 01:58:20 +0000</listdate>
+    <saledate>Fri, 05 Dec 2014 02:20:33 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Complete and in very good condition. Played a few times. 1st Edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Dec 2014 23:30:37 +0000</listdate>
+    <saledate>Wed, 17 Dec 2014 02:53:57 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Components are top quality so everything is in good shape. This is an early version, possibly even a Kick Starter version, that I got through a math trade. There is no other version identification in the rule book but I would be more than happy to send pics of components, etc if interested. Buyer pays shipping which should be ~$15 (from Gainesville, Florida)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Apr 2015 05:21:30 +0000</listdate>
+    <saledate>Fri, 17 Apr 2015 05:25:40 +0000</saledate>
+    <price currency='USD'>57</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/189779/item/3834009#3834009]Item for Geeklist _T_E_M_P_T_A_G_quot;I don_T_E_M_P_T_A_G_#039;t want to, but I have to. _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 May 2015 12:43:50 +0000</listdate>
+    <saledate>Sat, 02 May 2015 13:43:01 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>For kevinruns262</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Dec 2015 01:15:28 +0000</listdate>
+    <saledate>Tue, 01 Dec 2015 01:58:27 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>Reserved for klkitchens</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Nov 2015 01:51:19 +0000</listdate>
+    <saledate>Tue, 01 Dec 2015 12:30:45 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>verygood</condition>
+    <notes>This sale is for a pre-production copy of the game. The art is slightly different from the production version but it doesn_T_E_M_P_T_A_G_#039;t affect gameplay at all, and the game could still be mixed in with the other games in the series without a problem. 
+There is a little crease in the top right corner of the box, but it_T_E_M_P_T_A_G_#039;s minor. There is also some fading or a misprint on the coloring on the right side of the box.
+The game is complete except for it_T_E_M_P_T_A_G_#039;s missing four reference cards. The reference cards aren_T_E_M_P_T_A_G_#039;t necessary.
+There are three chips that are missing the backs. They are only used as markers to designate which city is being attacked during the co-op game. If they had backs, it would be the same Hoplomachus logo. The chips are not used in the solo or versus game. When used, they are placed face up so the missing back doesn_T_E_M_P_T_A_G_#039;t matter. 
+This is a great way to try out this game at a much lower price point.
+Please make any further inquiries prior to purchasing. Game comes from a smoke-free home and ships from 17538.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jan 2016 12:39:47 +0000</listdate>
+    <saledate>Sat, 09 Jan 2016 13:03:46 +0000</saledate>
+    <price currency='GBP'>200</price>
+    <condition>likenew</condition>
+    <notes>Reserved for user Iz Nibz</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Feb 2016 13:16:39 +0000</listdate>
+    <saledate>Mon, 15 Feb 2016 22:16:23 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>likenew</condition>
+    <notes>Played a few times otherwise complete and in excellent, like new condition; the components are very durable.
+Photos available on request.
+Will ship worldwide, please contact for costs. Within the UK - £6.29 using the courier Collect+. Other options available on request.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Mar 2016 09:49:35 +0000</listdate>
+    <saledate>Thu, 17 Mar 2016 14:41:52 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>includes Crowd Favor chips from BGG store. Reserved for rvbait.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Mar 2016 10:20:29 +0000</listdate>
+    <saledate>Fri, 18 Mar 2016 18:59:59 +0000</saledate>
+    <price currency='USD'>62</price>
+    <condition>likenew</condition>
+    <notes>In great condition, only played a few times</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Mar 2016 08:42:11 +0000</listdate>
+    <saledate>Wed, 30 Mar 2016 11:31:07 +0000</saledate>
+    <price currency='EUR'>95</price>
+    <condition>likenew</condition>
+    <notes>It_T_E_M_P_T_A_G_#039;s the newest print/edition and has the chips with a smaller border. 
+It_T_E_M_P_T_A_G_#039;s unpacked and was played a few times, but is in excellent shape without wear or damaged components.
+Shipping:
+Germany : 7,99€
+Europe(DHL Zone 1):  20,99€
+Payment:
+ SEPA bank transfer or Paypal (fees have to be paid by the buyer)
+I have few other Hoplomachus items on sale. If you want to buy more items shipping costs can be combined, just send me a geekmail.
+---------------------------------------
+Other Hoplomachus items:
+Rise of Rome - 105€
+Fa Mel Arena - 25€
+Army of One - 20€
+Beast _T_E_M_P_T_A_G_amp; Master - 15€
+Blade_T_E_M_P_T_A_G_#039;s Edge - 15€
+Legends of the Sand - 20€</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Jun 2016 01:42:01 +0000</listdate>
+    <saledate>Mon, 13 Jun 2016 09:12:36 +0000</saledate>
+    <price currency='USD'>185</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/209786/item/4669341#4669341]Item for Geeklist _T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_quot;My daughter wants a dog_T_E_M_P_T_A_G_quot; auction _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jun 2016 15:17:05 +0000</listdate>
+    <saledate>Mon, 20 Jun 2016 17:08:18 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>This is from an auction for:
+Christopher Dong - chrisemsd - $10 - Hoplomachus: Legends of the Sand
+Christopher Dong - chrisemsd - $10 - Hoplomachus: Blade_T_E_M_P_T_A_G_#039;s Edge
+Christopher Dong - chrisemsd - $10 - Hoplomachus: Beast _T_E_M_P_T_A_G_amp; Master
+Christopher Dong - chrisemsd - $15 - Hoplomachus: Crowd Favor Gladiator Promo Chips</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Sep 2016 03:24:14 +0000</listdate>
+    <saledate>Tue, 13 Sep 2016 09:57:24 +0000</saledate>
+    <price currency='USD'>165</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/213742/item/4857337#4857337]Item for Geeklist _T_E_M_P_T_A_G_quot;Making room for the 2017 models_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Congratulations on winning!
+The estimated shipping cost of $34.50 to 11378 for UPS Ground will be added to the order (sorry its so high, but the box is huge and it is unbelievably heavy). 
+Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Sep 2016 19:09:13 +0000</listdate>
+    <saledate>Wed, 28 Sep 2016 18:29:47 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2016 13:19:03 +0000</listdate>
+    <saledate>Wed, 05 Oct 2016 03:53:48 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>Complete and in great condition.
+Buyer pays shipping from 55417.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Mar 2017 22:22:01 +0000</listdate>
+    <saledate>Thu, 20 Apr 2017 16:26:04 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>This is the Kickstarter version with the extra Beast _T_E_M_P_T_A_G_amp; Criminal dice and Kickstarter Flip Chip.
+This is heavy (8-9# packaged) and is in a large box. UPS _T_E_M_P_T_A_G_amp; FedEx use volume weight not actual for costs.
+Est. $20-25 US, $40-45 to Canada</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Feb 2017 17:03:04 +0000</listdate>
+    <saledate>Thu, 20 Apr 2017 19:43:28 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 May 2017 02:14:54 +0000</listdate>
+    <saledate>Fri, 19 May 2017 01:09:32 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Reserved for mellman99. Amazon gift card for $40.00 sent to hereliesnothing@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Jun 2017 15:02:08 +0000</listdate>
+    <saledate>Fri, 02 Jun 2017 02:13:35 +0000</saledate>
+    <price currency='USD'>56</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/225750/item/5408735#5408735]Item for Geeklist _T_E_M_P_T_A_G_quot;24 Hours Remaining!!! Ulfengaard_T_E_M_P_T_A_G_#039;s Keeping-It-Lean Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Jun 2017 20:36:40 +0000</listdate>
+    <saledate>Sun, 11 Jun 2017 21:11:21 +0000</saledate>
+    <price currency='USD'>102</price>
+    <condition>likenew</condition>
+    <notes>For Ruofei Huang Only.
+Includes Hoplomachus: Rise of Rome</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 May 2017 00:17:04 +0000</listdate>
+    <saledate>Sun, 09 Jul 2017 16:34:42 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Just out of shrink.  Never Played
+Ships from 97404</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Aug 2017 17:56:16 +0000</listdate>
+    <saledate>Tue, 22 Aug 2017 02:02:31 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>Played this twice....decided I wanted to buy some other games so this goes.  In great condition.
+Also comes with the Army of One chips and scenarios for this game.    I kept the other parts of the expansion for the Rome game.
+Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Nov 2017 03:28:15 +0000</listdate>
+    <saledate>Tue, 21 Nov 2017 02:23:43 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Jan 2018 13:51:57 +0000</listdate>
+    <saledate>Fri, 12 Jan 2018 13:48:54 +0000</saledate>
+    <price currency='GBP'>55</price>
+    <condition>likenew</condition>
+    <notes>Hardly played copy of Hoplomachus: The Lost Cities.  Due to the weight shipping is limited to the UK only.  Shipping is £6 via MyHermes.
+Note: Also selling Rise of Rome so the two could be combined for a small saving on shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 May 2018 06:07:01 +0000</listdate>
+    <saledate>Thu, 10 May 2018 06:15:42 +0000</saledate>
+    <price currency='USD'>54</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/240932/item/6128938#6128938]Item for Geeklist _T_E_M_P_T_A_G_quot;Maygames! Maygames! Collection too Big!  Going Down!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Sep 2018 20:35:19 +0000</listdate>
+    <saledate>Fri, 21 Sep 2018 15:52:28 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>buyer to pay for shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Oct 2018 12:46:03 +0000</listdate>
+    <saledate>Thu, 04 Oct 2018 12:29:51 +0000</saledate>
+    <price currency='USD'>275</price>
+    <condition>verygood</condition>
+    <notes>Includes all available expansions and upgrades, not including promos. Intended for auction winner</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Nov 2018 19:46:31 +0000</listdate>
+    <saledate>Sun, 18 Nov 2018 02:37:08 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This game is in fantastic shape.  It includes an extra set of the Larger Stickered Chips.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Oct 2018 16:16:53 +0000</listdate>
+    <saledate>Sun, 18 Nov 2018 15:19:52 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>likenew</condition>
+    <notes>Mint condition.
+Shipping to U.K. only due to weight.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

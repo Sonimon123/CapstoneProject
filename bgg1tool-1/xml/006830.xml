@@ -1,0 +1,651 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="6830">
+   <yearpublished>2001</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>8</age>
+       <name primary="true" sortindex="1">Zendo</name>
+         
+   <description>Zendo is a game of inductive logic in which one player, the Master, creates a rule that the rest of the players, as Students, try to figure out by building and studying configurations of the game pieces. The first student to correctly guess the rule wins._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Inspired by Eleusis, Zendo uses Looney Pyramids but was released as a standalone game in July 2003.  In 2017, a version of Zendo was released that had only one size of pyramid but added blocks and wedges. It also includes an optional system of cards for generating the Master's rule, useful for novice players who are not yet comfortable making their own rules._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/Vle-59bFU911xVUg2O1uKCZN2X8=/fit-in/200x150/pic3808891.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/eKqEv6GdeQHmg1dTIxnulYZ6plw=/0x0/pic3808891.jpg</image>
+      
+                   <boardgamehonor objectid="12323">2005 Mensa Select Winner</boardgamehonor>
+               <boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+               <boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+               <boardgamefamily objectid="9470">Asian Theme</boardgamefamily>
+               <boardgameartist objectid="12597">Alexander Bradley</boardgameartist>
+                      <boardgamecategory objectid="1039">Deduction</boardgamecategory>
+               <boardgameversion objectid="27988">English first edition</boardgameversion>
+               <boardgameversion objectid="364163">English second edition</boardgameversion>
+               <boardgamepodcastepisode objectid="240969">Episode 30 - Getting Feudum And Other Big Box Games To Table</boardgamepodcastepisode>
+                             <boardgamepodcastepisode objectid="10855">GameBreak Audio: Episode #003 - Dr. Watson, I presume?</boardgamepodcastepisode>
+                      <boardgamepodcastepisode objectid="98380">GeekNights 20120515 - Zendo</boardgamepodcastepisode>
+               <boardgamedesigner objectid="2201">Kory Heath</boardgamedesigner>
+                             <boardgamedesigner objectid="122">Andrew Looney</boardgamedesigner>
+               <boardgamepublisher objectid="76">Looney Labs</boardgamepublisher>
+               <boardgamefamily objectid="20">Looney Pyramids</boardgamefamily>
+               <boardgameaccessory objectid="214172">Looney Pyramids</boardgameaccessory>
+               <boardgamefamily objectid="6485">Mensa Select</boardgamefamily>
+                      <boardgamemechanic objectid="2060">Pattern Recognition</boardgamemechanic>
+               <boardgamecompilation objectid="13454">Playing With Pyramids</boardgamecompilation>
+                      <boardgamecategory objectid="1028">Puzzle</boardgamecategory>
+                                                  <boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+                             <boardgamepodcastepisode objectid="231353">TGT 080: Groking Games</boardgamepodcastepisode>
+                      <boardgameartist objectid="89107">Eileen Tjan</boardgameartist>
+                      <boardgamepodcastepisode objectid="205166">Vox Republica 141: Science Is Your Friend</boardgamepodcastepisode>
+                                           <boardgameexpansion objectid="255169">Zendo: Rules Expansion #1</boardgameexpansion>
+             
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="31">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="23" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="22" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="18" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="21" />
+     <result value="Recommended" numvotes="9" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="11" />
+     <result value="Recommended" numvotes="16" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="12" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="17">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="16" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="2" />
+     <result value="8" numvotes="4" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="3" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>2254</usersrated>
+     <average>7.28201</average>
+     <bayesaverage>6.65414</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="705" bayesaverage="6.65414" />
+            
+       
+              <rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="21" bayesaverage="7.02313" />
+            
+           </ranks>
+     
+     <stddev>1.63365</stddev>
+     <median>0</median>
+     <owned>2278</owned>
+     <trading>33</trading>
+     <wanting>321</wanting>
+     <wishing>1123</wishing>
+     <numcomments>820</numcomments>
+     <numweights>196</numweights>
+     <averageweight>2.551</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sat, 13 Dec 2003 06:32:59 +0000</listdate>
+    <saledate>Tue, 06 Jan 2004 15:28:19 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>gently used, played twice
+buyer pays shippng from NY 11783
+PayPal or money order only</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Dec 2003 22:01:51 +0000</listdate>
+    <saledate>Mon, 26 Jan 2004 20:17:10 +0000</saledate>
+    <price currency='USD'>27.5</price>
+    <condition>new</condition>
+    <notes>Brand new _T_E_M_P_T_A_G_amp; Factory Sealed, Box _T_E_M_P_T_A_G_amp; Game Components are in Excellent Condition, English Edition. I package games with care. I will be happy to combine shipping as long as all items will fit in one box. Shipping withing the U.S. is $6.00 Priority mail shipping. Shipping to Canada is $12.00 USPS Air mail shipping and Shipping to other Countries is $18.00 USPS Air Mail Shipping. Games will Ship within Two weeks of order date. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Jan 2004 18:53:14 +0000</listdate>
+    <saledate>Thu, 11 Mar 2004 02:11:38 +0000</saledate>
+    <price currency='USD'>27.5</price>
+    <condition>new</condition>
+    <notes>Brand new _T_E_M_P_T_A_G_amp; Factory Sealed, Box _T_E_M_P_T_A_G_amp; Game Components are in Excellent Condition, English Edition. I package games with care. I will be happy to combine shipping as long as all items will fit in one box. Shipping withing the U.S. is $6.00 Priority mail shipping. Shipping to Canada is $12.00 USPS Air mail shipping and Shipping to other Countries is $18.00 USPS Air Mail Shipping. Games will Ship within Two weeks of order date. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Apr 2004 17:23:53 +0000</listdate>
+    <saledate>Thu, 15 Jul 2004 17:12:21 +0000</saledate>
+    <price currency='USD'>32.95</price>
+    <condition>new</condition>
+    <notes>Game is brand new with publisher shrink-wrap. Save $7 off list price of $40! Items are shipped within one business day of receiving payment. If you do not wish to use PayPal, you may pay me directly (via website or phone) using any major credit card. Shipping is $7.00 for UPS Ground to US locations (no PO Boxes, AK or HI). If you need a different type of shipping or any questions answered, please email before purchasing. CA orders pay 7.25% sales tax. For more info visit www.gamesinabox.com.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Jul 2004 21:04:10 +0000</listdate>
+    <saledate>Fri, 04 Feb 2005 03:37:37 +0000</saledate>
+    <price currency='USD'>32.95</price>
+    <condition>new</condition>
+    <notes>Game is brand new with publisher shrink-wrap. Save $7 off list price of $40! Items are shipped within one business day of receiving payment. If you do not wish to use PayPal, you may pay me directly (via website or phone) using any major credit card. Shipping is $7.00 for UPS Ground to US locations (no PO Boxes, AK or HI). If you need a different type of shipping or any questions answered, please email before purchasing. CA orders pay 7.25% sales tax. For more info visit www.gamesinabox.com.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Apr 2005 17:52:05 +0000</listdate>
+    <saledate>Fri, 22 Apr 2005 14:25:26 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jul 2005 21:58:56 +0000</listdate>
+    <saledate>Thu, 27 Oct 2005 20:44:14 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>ZENDO 2003 Looney Labs.  Brand New in original shrinkwrap in perfect condition.  Zendo comes with a set of 60 Icehouse pyramids (of 4 colors) and 60 stones (of 3 colors).  Everything you need to play many Icehouse classic games.  Great place to get started is with this box set.  Shipping weight is 3 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Sep 2006 16:37:08 +0000</listdate>
+    <saledate>Sat, 30 Sep 2006 17:59:35 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Zendo - Looney Labs
+New! Unopened, and in perfect condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $2.00 handling charge.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Nov 2006 01:10:09 +0000</listdate>
+    <saledate>Mon, 11 Dec 2006 04:02:43 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>OUT OF PRINT!
+New, in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Nov 2007 22:46:16 +0000</listdate>
+    <saledate>Tue, 11 Dec 2007 14:30:34 +0000</saledate>
+    <price currency='USD'>48.95</price>
+    <condition>likenew</condition>
+    <notes>I take Amazon gift certificate as payment, or Paypal if from a funded account.  Shipping in flat $10, via fedex 2-day, no matter how many games you buy.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Feb 2008 02:37:48 +0000</listdate>
+    <saledate>Wed, 20 Feb 2008 07:44:59 +0000</saledate>
+    <price currency='USD'>61.95</price>
+    <condition>new</condition>
+    <notes>In shrink.
+I accept Paypal. Shipping is flat $10 no matter how many games you buy.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jun 2008 02:23:47 +0000</listdate>
+    <saledate>Tue, 10 Jun 2008 14:09:08 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>likenew</condition>
+    <notes>Zendo - Looney Labs
+Like New! Removed from shrink, but still in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $2.00 handling charge.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jun 2008 01:28:15 +0000</listdate>
+    <saledate>Tue, 24 Jun 2008 01:28:15 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Feb 2009 18:35:24 +0000</listdate>
+    <saledate>Thu, 19 Feb 2009 01:22:13 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Mar 2009 03:19:17 +0000</listdate>
+    <saledate>Tue, 31 Mar 2009 13:28:43 +0000</saledate>
+    <price currency='USD'>114</price>
+    <condition>likenew</condition>
+    <notes>Zendo + Icetower + Icehouse pieces 2EA set
+not played
+Will ship worldwide
+Ship to USA (no insurance, cant keep tracking, by vessel) 
+Shipping cost : $6
+Delivery Time : 20~60 days 
+Ship to USA (insurance, can keep tracking, by vessel)
+Shipping cost : $16
+Delivery Time : 20~60 days 
+Ship to USA (no insurance, cant keep tracking, by air)
+Shipping cost : $20
+Delivery Time : 7~21 days 
+ship to other : i will provide shiping cost later
+See my sale list 
+I will discount if you will buy several games
+I can accept multiple currency
+*** You must pay 3.4% + $0.30 USD more If you want payments funded by Credit Card, Debit Card or Buyer Credit ****</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Apr 2009 02:29:14 +0000</listdate>
+    <saledate>Thu, 17 Dec 2009 02:10:56 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>likenew</condition>
+    <notes>Box shows some minor shelfwear but everything else is like new.
+Buyer to pay actual USPS Priority shipping.
+Personal checks must clear prior to shipping.
+Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jul 2009 23:20:54 +0000</listdate>
+    <saledate>Sun, 02 Aug 2009 04:15:35 +0000</saledate>
+    <price currency='USD'>51</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition.  
+I got this new in shrink, but someone had neatly used a black sharpie over the _T_E_M_P_T_A_G_quot;Buddha_T_E_M_P_T_A_G_quot; word on the Zendo cards?  Odd, but doesn_T_E_M_P_T_A_G_#039;t affect gameplay.  you can buy replacement cards if you really need them.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Aug 2009 03:03:49 +0000</listdate>
+    <saledate>Sat, 08 Aug 2009 06:41:34 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>reserved for emike</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Oct 2009 01:43:22 +0000</listdate>
+    <saledate>Thu, 25 Feb 2010 05:02:36 +0000</saledate>
+    <price currency='USD'>56</price>
+    <condition>verygood</condition>
+    <notes>A played copy. The box has some wear on the edges, as do the bottoms of the pyramids.
+Shipping is $14, plus $2 for insurance (optional).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Oct 2010 23:14:48 +0000</listdate>
+    <saledate>Sun, 24 Oct 2010 18:34:42 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Homemade Zendo Set.  7 colors of icehouse pyramid sets. 20 each of 3 colors of glass stones.  Includes the book, Playing with Pyramids, 12 games for icehouse pieces. Kept in sturdy plastic container.  All you need to play Zeno and many more icehouse games.
+This is priced only for Liz Burton.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Jan 2011 12:25:45 +0000</listdate>
+    <saledate>Sat, 08 Jan 2011 00:17:36 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>just open
+no play
+Will ship worldwide
+Ship to USA (no insurance, cant keep tracking, by vessel) 
+Shipping cost : $6
+Delivery Time : 20~60 days 
+Ship to USA (insurance, can keep tracking, by vessel)
+Shipping cost : $16
+Delivery Time : 20~60 days 
+Ship to USA (no insurance, cant keep tracking, by air)
+Shipping cost : $20
+Delivery Time : 7~21 days 
+ship to other : i will provide shiping cost later
+See my sale list 
+You can save your shipping cost 
+If you don_T_E_M_P_T_A_G_#039;t like my price, make me an offer! I also make trades
+I can accept multiple currency
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Apr 2011 22:02:23 +0000</listdate>
+    <saledate>Wed, 04 May 2011 13:53:57 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>ZENDO
+Slight wear on box, otherwise great shape.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Sep 2012 13:18:55 +0000</listdate>
+    <saledate>Tue, 23 Oct 2012 01:42:28 +0000</saledate>
+    <price currency='USD'>125</price>
+    <condition>new</condition>
+    <notes>The outer shrink-wrap was removed, but the game was never played. Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Jun 2013 02:35:46 +0000</listdate>
+    <saledate>Mon, 17 Jun 2013 13:29:46 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>Mint in shrink.  For user tcollett only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Sep 2013 00:48:21 +0000</listdate>
+    <saledate>Mon, 30 Sep 2013 00:55:31 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Lightly played (1-3 times). Smoke free home. Buyer pays shipping costs. Will ship USPS Priority, FedEx or UPS. Please purchase only if willing to pay via PayPal.
+I will consider cash as an option if you live in the Indianapolis area and agree to a local pickup (NE Indy - Fishers/Castleton).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Feb 2015 15:59:26 +0000</listdate>
+    <saledate>Sat, 21 Mar 2015 16:17:27 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Everything complete never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 May 2015 18:47:21 +0000</listdate>
+    <saledate>Sun, 31 May 2015 17:48:56 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>There is some slight wear on the box, but everything is verified complete and in good condition. This is a game I would love to keep in my collection, but it is very hard to find, and thus I feel compelled to sell it if I can get a good price.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Jul 2015 02:51:43 +0000</listdate>
+    <saledate>Wed, 19 Aug 2015 00:31:16 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Sep 2015 05:34:41 +0000</listdate>
+    <saledate>Thu, 10 Sep 2015 12:26:20 +0000</saledate>
+    <price currency='USD'>83</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/195970/item/4103734#4103734]Item for Geeklist _T_E_M_P_T_A_G_quot;Good, Rare, and Out of Print - Auction Ending 9/3_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Oct 2015 21:06:47 +0000</listdate>
+    <saledate>Wed, 28 Oct 2015 00:31:04 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Played a few times. Complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Jun 2016 05:18:17 +0000</listdate>
+    <saledate>Fri, 03 Jun 2016 13:11:04 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208703/item/4648431#4648431]Item for Geeklist _T_E_M_P_T_A_G_quot;May Auction 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Apr 2016 06:33:16 +0000</listdate>
+    <saledate>Sun, 12 Jun 2016 11:44:38 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>Complete and in great condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Nov 2015 16:35:33 +0000</listdate>
+    <saledate>Wed, 10 Aug 2016 00:52:29 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>verygood</condition>
+    <notes>slight box wear</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jul 2016 19:22:56 +0000</listdate>
+    <saledate>Sun, 28 Aug 2016 06:16:26 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>good</condition>
+    <notes>Condition: Good. Game is complete and components show little to no wear. Box shows some shelf wear, some rounding/whitening of a few corners, and a few small marks/bumps. Rule book is a little curled, as well.
+Shipping cost will be my actual cost to ship from 95008. Local pickup in San Jose, CA, is available as well.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Aug 2016 17:03:18 +0000</listdate>
+    <saledate>Tue, 27 Sep 2016 01:45:59 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>verygood</condition>
+    <notes>Box has minimal wear.  no missing pieces.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Apr 2017 21:19:16 +0000</listdate>
+    <saledate>Thu, 27 Apr 2017 19:01:39 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>very complex logic game. lots of people lamented when it went out of print.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 May 2017 21:16:32 +0000</listdate>
+    <saledate>Tue, 30 May 2017 17:19:19 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Zendo pyramid bundle
+Includes:
+-  Zendo
+-  IceDice
+-  Pink Hijinks
+This Zendo set has been enhanced to support more players/options.
+Originally it came w/ 5 sets of 4 colors (60 total pieces). 
+This set includes 6 sets of 6 colors (108 total pieces).
+The cards are sleeved and everything fits neatly into the box, including the materials for the other bundled games. I made a custom insert to organize everything.
+The box is showing its age but is still in overall very good condition. Everything else is pristine.
+Check my gallery for pictures.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jun 2017 14:30:06 +0000</listdate>
+    <saledate>Wed, 07 Jun 2017 14:38:04 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/225906/item/5419349#5419349]Item for Geeklist _T_E_M_P_T_A_G_quot;KC area auction.  US shipping and local pickup.  Multiple sellers.  Ends June 5._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Jul 2017 03:03:52 +0000</listdate>
+    <saledate>Wed, 19 Jul 2017 12:03:45 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>PNP Copy.
+Shipping to be added when buyer confirms purchases (if not local pickup or online shipping change).
+for mac03579 ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Jul 2017 21:55:26 +0000</listdate>
+    <saledate>Wed, 19 Jul 2017 20:30:25 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>This is a strange little game using transparent plastic pyramids in various sizes.  The _T_E_M_P_T_A_G_quot;grand master_T_E_M_P_T_A_G_quot; constructs a series of  configurations and the other players try to deduce what the common rule is that the groups marked with the black stone share that the groupings marked with the white stone do not. Sounds simple? Not really. Test your skills of observation and deduction.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Aug 2017 16:12:12 +0000</listdate>
+    <saledate>Fri, 01 Sep 2017 11:06:52 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>verygood</condition>
+    <notes>Played a couple of times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Aug 2017 18:12:08 +0000</listdate>
+    <saledate>Thu, 07 Sep 2017 00:04:52 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>This is not for thew boxed version but a version assembled from 5 Treehouse sets, Zendo cards from Looney and enough stones in 3 colors. See pics. Comes in a wooden box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Oct 2017 19:23:41 +0000</listdate>
+    <saledate>Sun, 01 Oct 2017 22:22:59 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Dave Vanderark from the $5 auction.  Includes Fresh Fish</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 00:48:20 +0000</listdate>
+    <saledate>Sat, 07 Oct 2017 16:03:00 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>My late husband loved to collect his board games.  He didn_T_E_M_P_T_A_G_#039;t get a chance to play them as much as he would of liked, but if they were played, they were handled with kid gloves.  No food or drinking around his games!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Nov 2017 14:42:07 +0000</listdate>
+    <saledate>Sat, 25 Nov 2017 15:50:45 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Complete, lightly played.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Sep 2017 18:28:35 +0000</listdate>
+    <saledate>Wed, 29 Nov 2017 19:07:43 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>* From a non-smoking home in very dry Colorado.
+* Cards sleeved with 27 Fantasy Flight Green Standard American Premium 57x89 sleeves. Includes Melody (sunshiny)_T_E_M_P_T_A_G_#039;s rule cards from ArtsCow.
+* Buyer to pay any additional paypal fees. Available for delivery at BGG.CON.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Dec 2017 15:52:02 +0000</listdate>
+    <saledate>Thu, 21 Dec 2017 23:01:43 +0000</saledate>
+    <price currency='EUR'>39.99</price>
+    <condition>new</condition>
+    <notes>shipping from 22.12. onwards</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Dec 2017 06:13:56 +0000</listdate>
+    <saledate>Mon, 01 Jan 2018 12:46:27 +0000</saledate>
+    <price currency='EUR'>39.99</price>
+    <condition>new</condition>
+    <notes>shipping from 22.12. onwards</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Feb 2018 04:59:02 +0000</listdate>
+    <saledate>Sat, 10 Feb 2018 23:01:03 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/236926/item/5941266#5941266]Item for Geeklist _T_E_M_P_T_A_G_quot;More game downsizing Auction (USA Only) (Ships from Irvine, CA)[CLOSED]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Feb 2018 16:40:16 +0000</listdate>
+    <saledate>Thu, 22 Feb 2018 02:32:34 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>Reserved for Professor_Finite</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Feb 2018 01:41:42 +0000</listdate>
+    <saledate>Tue, 27 Feb 2018 18:14:30 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Oct 2017 18:13:32 +0000</listdate>
+    <saledate>Sun, 04 Mar 2018 18:06:27 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Apr 2018 01:48:38 +0000</listdate>
+    <saledate>Wed, 25 Apr 2018 04:12:37 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 May 2018 13:27:57 +0000</listdate>
+    <saledate>Wed, 09 May 2018 15:30:04 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/240728/item/6115208#6115208]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction - War of the Ring, Mega Civ, Mythic Battles _T_E_M_P_T_A_G_amp; loads others including KS exclusives_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Feb 2018 20:06:12 +0000</listdate>
+    <saledate>Sun, 27 May 2018 03:49:50 +0000</saledate>
+    <price currency='EUR'>44.9</price>
+    <condition>new</condition>
+    <notes>Language: english
+Edition Year: 2017
+Publisher: Looney Labs
+Game Condition: Mint
+Box Condition: Mint
+PREORDER - Usually available in: waiting release date from the producer approx
+ID Gis: 31221 (for reference)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jul 2018 15:34:06 +0000</listdate>
+    <saledate>Fri, 27 Jul 2018 05:05:23 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Brand new</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 May 2018 14:16:02 +0000</listdate>
+    <saledate>Wed, 14 Nov 2018 00:54:52 +0000</saledate>
+    <price currency='EUR'>44.9</price>
+    <condition>new</condition>
+    <notes>Language: english
+Edition Year: 2017
+Publisher: Looney Labs
+Game Condition: Mint
+Box Condition: Mint
+PREORDER - Usually available in: 2 weeks approx
+ID Gis: 31221 (for reference)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Mar 2018 12:33:02 +0000</listdate>
+    <saledate>Thu, 03 Jan 2019 20:18:07 +0000</saledate>
+    <price currency='EUR'>34.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 9,99€.
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Oct 2018 21:44:07 +0000</listdate>
+    <saledate>Thu, 31 Jan 2019 15:41:56 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Still in shrink, comes with 10 new rules card expansion.
+Check out my game collection at https://boardgamegeek.com/collection/user/Racinrod?own=1_T_E_M_P_T_A_G_amp;subtype=boardgame_T_E_M_P_T_A_G_amp;gallery=large_T_E_M_P_T_A_G_amp;ff=1
+I_T_E_M_P_T_A_G_#039;m willing to sell MOST games in my collection at whatever the average sale price is as sold through BGG. If there is a game you might be interested in purchasing, message me here through BGG and I_T_E_M_P_T_A_G_#039;ll get back to you on price.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

@@ -1,0 +1,952 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="145645">
+   <yearpublished>2013</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>30</playingtime>
+   <minplaytime>30</minplaytime>
+   <maxplaytime>30</maxplaytime>
+   <age>9</age>
+       <name primary="true" sortindex="4">Le Fantôme de l_T_E_M_P_T_A_G_#039;Opéra</name>
+         
+   <description>Le Fant_T_E_M_P_T_A_G_amp;ocirc;me de l_T_E_M_P_T_A_G_amp;rsquo;Op_T_E_M_P_T_A_G_amp;eacute;ra is a two-player game based on the Mr. Jack game system _T_E_M_P_T_A_G_amp;ndash; that is, the game is an asymmetric affair in which one player wants to reveal which suspect token on the game board represents the opponent, with both players taking turns moving all of the suspects to alternately reveal and hide information. That said, the game differs in a number of ways from Mr. Jack. In more detail..._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;In Le Fant_T_E_M_P_T_A_G_amp;ocirc;me de l_T_E_M_P_T_A_G_amp;rsquo;Op_T_E_M_P_T_A_G_amp;eacute;ra, eight suspect tokens stand in the ten rooms of the Op_T_E_M_P_T_A_G_amp;eacute;ra Garnier. Each suspect has a reason to drive the opera singer La Carlotta away from the production, and at the start of the game one of the suspects is randomly determined to be the true identity of the Phantom player. The other player is the Investigator, and he wants to discover the Phantom's identity; if he does so before La Carlotta flees the Op_T_E_M_P_T_A_G_amp;eacute;ra Garnier, then he wins. Otherwise, he loses. (To balance play between newcomers and experienced players La Carlotta's starting position can changed.)_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;At the start of each odd round, eight suspect cards are shuffled and four of them revealed. The Investigator moves one suspect and (likely) uses this suspect's unique ability, then the Phantom moves two of the remaining three suspects, then the Investigator moves the final suspect. The Phantom player then reveals whether he can or cannot cause a disturbance in the Op_T_E_M_P_T_A_G_amp;eacute;ra Garnier, thus scaring La Carlotta; he can cause a disturbance only if he's alone or if he's in the room with the blackout token. If he can cause a disturbance, the Investigator clears all suspects sharing a lit room; if not, the Investigator clears all suspects in the dark or on their own. After this, La Carlotta moves one step closer to fleeing for each suspect that hasn't been declared innocent (and an additional step if the Phantom did create a disturbance)._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;For each even round, the remaining four suspect cards are revealed, and the players again move characters and use their special abilities, with the Phantom going first. The game continues until only a single suspect is not innocent or La Carlotta flees France for the safety of Milan._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;When a character moves, it can move up to as many spaces as the number of characters in the room from which it moves. Most characters can move only through open corridors, but Meg Giry can use secret passageways that connect many of the rooms. The players must use Meg's ability and the other characters' special abilities to hide or reveal information. One character, for example, moves a padlock that blocks one corridor, while another is responsible for the roaming blackout that allows the Phantom to operate in darkness (or at least provide cover for his activity elsewhere). One sweet character can draw everyone from adjacent rooms to her side, while an unpleasant fellow can drive everyone away. Still another reveals (or hides) an alibi card, clearing one suspect (or keeping his true nature unknown). Every character is useful in the right situation. You just have to learn what those situations are..._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/buoRuGjIsGeR7A-C8NFSuuWmKDY=/fit-in/200x150/pic1726671.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/LK7cFDRva5qONc2VpyZ2ucxeTm8=/0x0/pic1726671.jpg</image>
+      
+            <boardgamepublisher objectid="6015">Hurrican</boardgamepublisher>
+                             <boardgamedesigner objectid="1727">Bruno Cathala</boardgamedesigner>
+               <boardgamefamily objectid="17520">Cities: Paris (France)</boardgamefamily>
+               <boardgamefamily objectid="11006">Country: France</boardgamefamily>
+               <boardgamecategory objectid="1039">Deduction</boardgamecategory>
+                      <boardgamepodcastepisode objectid="187685">Episode 5 - Camp Abeartoir Part 7: The Final Beginning</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgameversion objectid="214877">First edition</boardgameversion>
+                                                         <boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+                                    <boardgamedesigner objectid="4337">Ludovic Maublanc</boardgamedesigner>
+               <boardgameartist objectid="37911">Jean-Marie Minguez</boardgameartist>
+               <boardgamefamily objectid="5132">Mr. Jack</boardgamefamily>
+               <boardgamecategory objectid="1093">Novel-based</boardgamecategory>
+                      <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+                      <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+               <boardgameimplementation objectid="21763" inbound="true">Mr. Jack</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="8">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="8" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="1" />
+     <result value="8" numvotes="4" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>942</usersrated>
+     <average>7.06724</average>
+     <bayesaverage>6.18409</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1588" bayesaverage="6.18409" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="769" bayesaverage="6.32392" />
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="371" bayesaverage="6.35408" />
+            
+           </ranks>
+     
+     <stddev>1.128</stddev>
+     <median>0</median>
+     <owned>1512</owned>
+     <trading>55</trading>
+     <wanting>127</wanting>
+     <wishing>451</wishing>
+     <numcomments>215</numcomments>
+     <numweights>34</numweights>
+     <averageweight>2.1765</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 02 Sep 2013 19:59:56 +0000</listdate>
+    <saledate>Sat, 11 Jan 2014 18:26:14 +0000</saledate>
+    <price currency='EUR'>25.5</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Sep 2013 15:59:36 +0000</listdate>
+    <saledate>Thu, 19 Sep 2013 15:42:45 +0000</saledate>
+    <price currency='USD'>28.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+LE FANTOME DE L OPERA: $28.95
+Asmodee Editions [ASM PAO01US]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Sep 2013 19:50:34 +0000</listdate>
+    <saledate>Tue, 24 Sep 2013 16:22:49 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Jan 2014 19:19:55 +0000</listdate>
+    <saledate>Fri, 14 Feb 2014 16:30:53 +0000</saledate>
+    <price currency='EUR'>25.5</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Jan 2014 05:51:02 +0000</listdate>
+    <saledate>Wed, 15 Jan 2014 22:18:11 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Auction win for Der Ubermolch</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Jan 2014 21:38:17 +0000</listdate>
+    <saledate>Sat, 15 Feb 2014 00:48:14 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>likenew</condition>
+    <notes>as new !
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jan 2014 18:29:03 +0000</listdate>
+    <saledate>Thu, 20 Feb 2014 04:01:20 +0000</saledate>
+    <price currency='USD'>26.49</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMPAO01)
+The opera house is clearly haunted, and the ghost wants to drive off La Carlotta, the lead diva. Chandeliers fall, strange voices come out of the shadows, and it_T_E_M_P_T_A_G_#039;s only a matter of time before she leaves Paris forever. Play as the Phantom and scare off the opera singer, or play as the investigator and discover the true identity of the fiend before it_T_E_M_P_T_A_G_#039;s too late! Phantom of the Opera is a game of cat-and-mouse - a two-player battle of wits. The Phantom and the investigator will take turns moving the various suspects and using their unique abilities. The investigator hopes to narrow down the suspects to catch the villain, while the Phantom must elude his pursuer and drive the diva from the stage! </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Apr 2014 04:22:37 +0000</listdate>
+    <saledate>Fri, 04 Apr 2014 02:44:56 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>Brand new, never opened and never played. Gotta clear some games out to make room for new ones, so my loss is your gain. Shipping is $6.00. If you purchase more than one game I_T_E_M_P_T_A_G_#039;ll try to consolidate packages to save shipping . Paypal only please. And sorry, I don_T_E_M_P_T_A_G_#039;t sell to buyers outside of the US.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Apr 2014 20:50:06 +0000</listdate>
+    <saledate>Sat, 12 Apr 2014 21:56:29 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner jlrothe.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Jul 2014 12:53:03 +0000</listdate>
+    <saledate>Wed, 09 Jul 2014 13:21:04 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>Reserved for the winner of The Long View wants to go to Gen Con auction - bgg user byrone</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Sep 2014 15:48:19 +0000</listdate>
+    <saledate>Mon, 01 Sep 2014 16:43:19 +0000</saledate>
+    <price currency='USD'>113</price>
+    <condition>likenew</condition>
+    <notes>reserved for LaMont7
+BUNDLE ALSO INCLUDES
+Sail to India
+Helios
+A Game of Thrones: Second Edition</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Sep 2014 12:34:01 +0000</listdate>
+    <saledate>Sun, 14 Sep 2014 20:29:06 +0000</saledate>
+    <price currency='AUD'>50</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Mar 2014 10:50:34 +0000</listdate>
+    <saledate>Mon, 24 Nov 2014 00:50:35 +0000</saledate>
+    <price currency='USD'>26.99</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMPAO01)
+The opera house is clearly haunted, and the ghost wants to drive off La Carlotta, the lead diva. Chandeliers fall, strange voices come out of the shadows, and it_T_E_M_P_T_A_G_#039;s only a matter of time before she leaves Paris forever. Play as the Phantom and scare off the opera singer, or play as the investigator and discover the true identity of the fiend before it_T_E_M_P_T_A_G_#039;s too late! Phantom of the Opera is a game of cat-and-mouse - a two-player battle of wits. The Phantom and the investigator will take turns moving the various suspects and using their unique abilities. The investigator hopes to narrow down the suspects to catch the villain, while the Phantom must elude his pursuer and drive the diva from the stage! </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Sep 2014 20:43:56 +0000</listdate>
+    <saledate>Mon, 24 Nov 2014 05:59:53 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played 1 time</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Mar 2014 10:50:34 +0000</listdate>
+    <saledate>Mon, 01 Dec 2014 07:56:10 +0000</saledate>
+    <price currency='USD'>26.99</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMPAO01)
+The opera house is clearly haunted, and the ghost wants to drive off La Carlotta, the lead diva. Chandeliers fall, strange voices come out of the shadows, and it_T_E_M_P_T_A_G_#039;s only a matter of time before she leaves Paris forever. Play as the Phantom and scare off the opera singer, or play as the investigator and discover the true identity of the fiend before it_T_E_M_P_T_A_G_#039;s too late! Phantom of the Opera is a game of cat-and-mouse - a two-player battle of wits. The Phantom and the investigator will take turns moving the various suspects and using their unique abilities. The investigator hopes to narrow down the suspects to catch the villain, while the Phantom must elude his pursuer and drive the diva from the stage! </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 May 2014 05:17:54 +0000</listdate>
+    <saledate>Wed, 03 Dec 2014 17:41:43 +0000</saledate>
+    <price currency='USD'>21.95</price>
+    <condition>likenew</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! 
+LE FANTOME DE L OPERA: $21.95
+Asmodee [ASM PAO01]
+* Complete, unpunched / unplayed.
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Feb 2015 15:03:50 +0000</listdate>
+    <saledate>Wed, 04 Feb 2015 22:42:38 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Played once. Will ship USPS flat rate med box.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Feb 2015 22:37:23 +0000</listdate>
+    <saledate>Tue, 24 Feb 2015 22:39:24 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Fantome + Trieste
+For auction winner djthree6t</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Mar 2015 14:34:18 +0000</listdate>
+    <saledate>Mon, 09 Mar 2015 21:33:18 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR WEI-HWA HUANG AT $20.00</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Mar 2014 10:50:34 +0000</listdate>
+    <saledate>Mon, 16 Mar 2015 19:14:59 +0000</saledate>
+    <price currency='USD'>27.49</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMPAO01)
+The opera house is clearly haunted, and the ghost wants to drive off La Carlotta, the lead diva. Chandeliers fall, strange voices come out of the shadows, and it_T_E_M_P_T_A_G_#039;s only a matter of time before she leaves Paris forever. Play as the Phantom and scare off the opera singer, or play as the investigator and discover the true identity of the fiend before it_T_E_M_P_T_A_G_#039;s too late! Phantom of the Opera is a game of cat-and-mouse - a two-player battle of wits. The Phantom and the investigator will take turns moving the various suspects and using their unique abilities. The investigator hopes to narrow down the suspects to catch the villain, while the Phantom must elude his pursuer and drive the diva from the stage! </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Mar 2015 05:39:28 +0000</listdate>
+    <saledate>Thu, 19 Mar 2015 18:33:12 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>For user DiAtros, please do not purchase if you are not him.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Mar 2015 18:58:45 +0000</listdate>
+    <saledate>Sat, 21 Mar 2015 15:21:35 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/188472/item/3787787#3787787]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION: March Reduction Madness!!!  Let_T_E_M_P_T_A_G_#039;s keep it going [ENDS March 22nd] - Local Pickup is easy_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Mar 2015 02:56:39 +0000</listdate>
+    <saledate>Mon, 23 Mar 2015 23:11:18 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Reserved for user: shyam1houston</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Mar 2015 03:44:14 +0000</listdate>
+    <saledate>Tue, 31 Mar 2015 13:00:19 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>*** reserved for auction winner Harley Gardner (cube2the3rd)***
++ shipping costs $11</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Apr 2015 21:39:09 +0000</listdate>
+    <saledate>Mon, 27 Apr 2015 17:32:40 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 May 2015 04:57:14 +0000</listdate>
+    <saledate>Mon, 04 May 2015 05:54:12 +0000</saledate>
+    <price currency='USD'>21.95</price>
+    <condition>likenew</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Jul 2015 14:35:51 +0000</listdate>
+    <saledate>Tue, 07 Jul 2015 17:08:34 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/192839/item/3969026#3969026]Item for Geeklist _T_E_M_P_T_A_G_quot;Short and Sweet NO BIN Auction -- US PayPal Only -- Ends 6/28/15_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Mar 2014 10:50:34 +0000</listdate>
+    <saledate>Mon, 20 Jul 2015 20:28:13 +0000</saledate>
+    <price currency='USD'>27.49</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMPAO01)
+The opera house is clearly haunted, and the ghost wants to drive off La Carlotta, the lead diva. Chandeliers fall, strange voices come out of the shadows, and it_T_E_M_P_T_A_G_#039;s only a matter of time before she leaves Paris forever. Play as the Phantom and scare off the opera singer, or play as the investigator and discover the true identity of the fiend before it_T_E_M_P_T_A_G_#039;s too late! Phantom of the Opera is a game of cat-and-mouse - a two-player battle of wits. The Phantom and the investigator will take turns moving the various suspects and using their unique abilities. The investigator hopes to narrow down the suspects to catch the villain, while the Phantom must elude his pursuer and drive the diva from the stage! </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jul 2015 16:13:46 +0000</listdate>
+    <saledate>Tue, 18 Aug 2015 19:40:42 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played a handful of times. Box and components in NM shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Sep 2015 02:33:32 +0000</listdate>
+    <saledate>Thu, 24 Sep 2015 03:29:11 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/196595/item/4140940#4140940]Item for Geeklist _T_E_M_P_T_A_G_quot;Still got a few things you may desire Auction._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for ehrensing
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Oct 2015 01:20:38 +0000</listdate>
+    <saledate>Mon, 05 Oct 2015 11:36:10 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner Ryan Johnson.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Jul 2015 13:07:00 +0000</listdate>
+    <saledate>Fri, 16 Oct 2015 11:43:12 +0000</saledate>
+    <price currency='USD'>27.49</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMPAO01)
+The opera house is clearly haunted, and the ghost wants to drive off La Carlotta, the lead diva. Chandeliers fall, strange voices come out of the shadows, and it_T_E_M_P_T_A_G_#039;s only a matter of time before she leaves Paris forever. Play as the Phantom and scare off the opera singer, or play as the investigator and discover the true identity of the fiend before it_T_E_M_P_T_A_G_#039;s too late! Phantom of the Opera is a game of cat-and-mouse - a two-player battle of wits. The Phantom and the investigator will take turns moving the various suspects and using their unique abilities. The investigator hopes to narrow down the suspects to catch the villain, while the Phantom must elude his pursuer and drive the diva from the stage! </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Oct 2015 22:00:16 +0000</listdate>
+    <saledate>Sat, 17 Oct 2015 00:50:44 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>for Dan Ridge
+(dice roll) Only please!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Dec 2015 19:32:57 +0000</listdate>
+    <saledate>Wed, 16 Dec 2015 01:59:38 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This Item only for auction winner JerryMaguire</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Aug 2015 05:35:25 +0000</listdate>
+    <saledate>Thu, 24 Dec 2015 18:19:14 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Payment Options: Paypal or Interact e-Transfer to dongdong0220@gmail.com
+Shipping from Montreal, Canada with option for combine shipping or local pick-up (Montreal or Toronto).
+Price is in USD. x1.3 for price in CAD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Jul 2015 13:07:00 +0000</listdate>
+    <saledate>Fri, 22 Jan 2016 08:33:05 +0000</saledate>
+    <price currency='USD'>27.49</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMPAO01)
+The opera house is clearly haunted, and the ghost wants to drive off La Carlotta, the lead diva. Chandeliers fall, strange voices come out of the shadows, and it_T_E_M_P_T_A_G_#039;s only a matter of time before she leaves Paris forever. Play as the Phantom and scare off the opera singer, or play as the investigator and discover the true identity of the fiend before it_T_E_M_P_T_A_G_#039;s too late! Phantom of the Opera is a game of cat-and-mouse - a two-player battle of wits. The Phantom and the investigator will take turns moving the various suspects and using their unique abilities. The investigator hopes to narrow down the suspects to catch the villain, while the Phantom must elude his pursuer and drive the diva from the stage! </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jan 2016 13:06:05 +0000</listdate>
+    <saledate>Sun, 24 Jan 2016 19:24:31 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>Played once, like new condition.  Buyer pays shipping from 43235.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Dec 2015 17:52:11 +0000</listdate>
+    <saledate>Mon, 01 Feb 2016 01:49:09 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Reserved for romanjjamdg!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Feb 2016 06:59:29 +0000</listdate>
+    <saledate>Thu, 11 Feb 2016 15:44:17 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>Reserved for JJL
+Shipping = $12.65</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Feb 2016 14:57:48 +0000</listdate>
+    <saledate>Sun, 14 Feb 2016 01:19:24 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>+ £10 shipping to the UK
+Includes the English version of the game.
+Great 2 players asymmetric deduction game.
+- each character has a special ability and they_T_E_M_P_T_A_G_#039;re pretty fun
+- it plays fast, is easy to learn and works great as a family game
+- it feels thematic
+- you can add handicap to either player, which is great for newbies vs experienced players for instance</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Mar 2016 04:52:57 +0000</listdate>
+    <saledate>Fri, 04 Mar 2016 18:33:38 +0000</saledate>
+    <price currency='USD'>27.49</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMPAO01)
+The opera house is clearly haunted, and the ghost wants to drive off La Carlotta, the lead diva. Chandeliers fall, strange voices come out of the shadows, and it_T_E_M_P_T_A_G_#039;s only a matter of time before she leaves Paris forever. Play as the Phantom and scare off the opera singer, or play as the investigator and discover the true identity of the fiend before it_T_E_M_P_T_A_G_#039;s too late! Phantom of the Opera is a game of cat-and-mouse - a two-player battle of wits. The Phantom and the investigator will take turns moving the various suspects and using their unique abilities. The investigator hopes to narrow down the suspects to catch the villain, while the Phantom must elude his pursuer and drive the diva from the stage!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Mar 2016 18:27:00 +0000</listdate>
+    <saledate>Thu, 31 Mar 2016 19:34:09 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Only played a few times,  excellent condition.
+Shipping to Maine to DC is less than $10.  Max of $12 outside that area.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jun 2016 21:53:21 +0000</listdate>
+    <saledate>Sun, 19 Jun 2016 22:06:04 +0000</saledate>
+    <price currency='GBP'>9.99</price>
+    <condition>likenew</condition>
+    <notes>Payment by PayPal only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Sep 2016 19:03:54 +0000</listdate>
+    <saledate>Thu, 01 Sep 2016 21:27:31 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This is for the Strategicon Flea Market.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Sep 2016 12:39:42 +0000</listdate>
+    <saledate>Sun, 11 Sep 2016 00:40:49 +0000</saledate>
+    <price currency='CAD'>23</price>
+    <condition>verygood</condition>
+    <notes>English, French, Dutch
+no necessary in-game text
+Check out the other games I am selling!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Oct 2016 16:14:20 +0000</listdate>
+    <saledate>Wed, 26 Oct 2016 17:14:47 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/4981579#4981579]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Oct 2016 14:48:20 +0000</listdate>
+    <saledate>Wed, 09 Nov 2016 10:01:59 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>Played twice and only selling to make space.
+Great condition. Box and components all in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Nov 2015 08:22:06 +0000</listdate>
+    <saledate>Tue, 15 Nov 2016 22:41:32 +0000</saledate>
+    <price currency='EUR'>26.9</price>
+    <condition>new</condition>
+    <notes>mint!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Nov 2016 22:26:20 +0000</listdate>
+    <saledate>Wed, 23 Nov 2016 11:31:11 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>Uk postage £4, eu £8, elsewhere £13
+thanks</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Dec 2016 15:14:03 +0000</listdate>
+    <saledate>Fri, 02 Dec 2016 20:33:27 +0000</saledate>
+    <price currency='EUR'>27.09</price>
+    <condition>new</condition>
+    <notes>Game: Le Fantome de l’Opera
+Languages: UK, FR
+Condition: New
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 20,99€[Standard]
+o 500-999g: 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 26,99€[Express], 27,99€[Standard]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 24,99€[Standard]
+o 500-999g: 16,99€[Express], 27,99€[Standard]
+o 1000-1499g: 21,99€[Express], 31,99€[Standard]
+o 1500-2000g: 26,99€[Express], 34,99€[Standard]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard], 23,99€[Express]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Express], 15,99€[Standard]
+o 500-999g: 6,99€[Economy], 13,99€[Express], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express], 20,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express], 22,99€[Standard]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 13,99€[Express], 19,99€[Standard]
+o 500-999g: 8,99€[Economy], 17,99€[Express], 22,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 22,99€[Express], 25,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 27,99€[Express], 28,99€[Standard]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 13,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 17,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 26,99€[Express]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Express], 14,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 15,99€[Standard], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express], 22,99€[Standard]
+o 500-999g: 6,99€[Economy], 20,99€[Express], 25,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 25,99€[Express], 28,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 30,99€[Express], 32,99€[Standard]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 13,99€[Express], 20,99€[Standard]
+o 500-999g: 8,99€[Economy], 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 26,99€[Express], 27,99€[Standard]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 9,99€[Standard], 11,99€[Express]
+o 500-999g: 9,99€[Standard], 11,99€[Express]
+o 1000-1499g: 12,99€[Express], 15,99€[Standard]
+o 1500-2000g: 14,99€[Express], 16,99€[Standard]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 24,99€[Standard]
+o 500-999g: 16,99€[Express], 27,99€[Standard]
+o 1000-1499g: 21,99€[Express], 31,99€[Standard]
+o 1500-2000g: 26,99€[Express], 34,99€[Standard]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard], 23,99€[Express]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 6,99€[Economy]
+o 500-999g: 4,99€[Corriere], 8,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 10,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 11,99€[Express]
+o 1000-1499g: 10,99€[Economy], 12,99€[Express], 15,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 14,99€[Express], 16,99€[Standard]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Express], 14,99€[Standard]
+o 500-999g: 8,99€[Economy], 14,99€[Express], 16,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 18,99€[Express], 19,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 21,99€[Standard], 21,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 20,99€[Standard]
+o 500-999g: 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 26,99€[Express], 27,99€[Standard]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 13,99€[Express], 20,99€[Standard]
+o 500-999g: 8,99€[Economy], 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 26,99€[Express], 27,99€[Standard]
+[#]8Oaee+VlbnMDRGuPUsWGoA8wnhBzeHNjUM7arXKUCns=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Oct 2016 14:25:40 +0000</listdate>
+    <saledate>Mon, 05 Dec 2016 21:50:17 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Dec 2016 04:53:23 +0000</listdate>
+    <saledate>Mon, 12 Dec 2016 12:55:37 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>For user Sonicwarhol only.
+Also includes: Haleakala
+This sale has been auto-generated for the auction: [geekurl=/geeklist/217798/item/5061621#5061621]Item for Geeklist _T_E_M_P_T_A_G_quot;Dreaming of a Cardboard X-mas AUCTION w/ BINS (98371)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Dec 2016 21:51:29 +0000</listdate>
+    <saledate>Fri, 20 Jan 2017 22:52:33 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>new</condition>
+    <notes>The game is brand new, unopened and still in shrink.
+CONDITION
+• Please ask any questions before buying and I will respond as quickly as I can.
+• All items come from a smoke-free home.
+• Over 300+ 100% positive eBay feedback as user dkokoska
+PAYMENT
+• I accept only PayPal. Please let me know your PayPal address and I can send you an invoice.
+• Verified PayPal user
+SHIPPING
+• Shipping is $12 via USPS Priority Mail (actual cost of a medium-sized box)
+• U.S. buyers only.
+• I will ship same or next day after payment.
+• Lots of games for sale and I will combine shipping for multiple games.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Apr 2017 10:43:08 +0000</listdate>
+    <saledate>Sun, 25 Jun 2017 10:37:37 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Aug 2017 00:05:34 +0000</listdate>
+    <saledate>Mon, 21 Aug 2017 00:29:19 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228456/item/5539409#5539409]Item for Geeklist _T_E_M_P_T_A_G_quot;Games Got to Go!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+for saxophonechapa</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Mar 2017 01:06:27 +0000</listdate>
+    <saledate>Mon, 18 Sep 2017 23:51:05 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened but unplayed.  In excellent New condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Nov 2017 13:34:19 +0000</listdate>
+    <saledate>Mon, 13 Nov 2017 22:20:08 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/232331/item/5745232#5745232]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED - Post Essen Purge - U.S. Shipping and PAX Unplugged Pickup, Ends 11/12_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Dec 2017 10:44:15 +0000</listdate>
+    <saledate>Tue, 02 Jan 2018 09:59:02 +0000</saledate>
+    <price currency='EUR'>32</price>
+    <condition>new</condition>
+    <notes>Language: english
+Publisher: Hurrican
+Game Condition: Mint
+Box Condition: Mint
+Availability: Now Available
+ID Gis: 17657 (for reference)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 May 2017 00:30:54 +0000</listdate>
+    <saledate>Wed, 10 Jan 2018 21:32:41 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>Played once, like new</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Nov 2017 01:40:47 +0000</listdate>
+    <saledate>Thu, 11 Jan 2018 00:31:30 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Very good condition, non-smoking home. No shelf ware on box. Played only a few times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Feb 2018 18:37:51 +0000</listdate>
+    <saledate>Mon, 12 Feb 2018 15:05:03 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>verygood</condition>
+    <notes>Very good condition, please contact me with any questions or image requests. Happy to ship worldwide, feel free to enquire regarding shipping. UK postage will be first of second class, signed for or tracked if requested. PP accepted, bank transfer even better. Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Oct 2014 18:16:42 +0000</listdate>
+    <saledate>Wed, 14 Feb 2018 13:09:43 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>new</condition>
+    <notes>Game: Le Fantome de l_T_E_M_P_T_A_G_#039;Opera (Hurrican)
+Condition: new in shrinkwrap
+Language: multilingual
+Payment:
+Bank transfer to an EU bank account using IBAN/BIC in advance
+(normally free of charge if your bank account is nominated in EURO)
+IBAN DE25 5001 0517 5408 4457 20
+BIC INGDDEFFXXX
+Paypal (add 3,- Euro to cover the fees. That should be the first choice for non-EU customers.)
+Pick up the game at my game store (no shipping cost)
+Shipping: always insured and with tracking
+Germany: 5,99€ for the first item
+card games or smaller boxes might be cheaper (please contact me beforehand)
+EU: 13,99€ up to 2kg
+15,99€ up to 5kg
+20,99€ up to 10kg
+Rest of the world: Please contact me before purchasing an item to clarify the shipping costs.
+I can offer discounts on shipping if multiple marketplace purchases are made.
+Returns and Cancellation:
+You may cancel your order without giving any reasons within 14 days after placing your order. Please contact spieleberatung@t-online.de and I will attempt to resolve the matter. Unopened copies of the game that are no longer wanted can be returned, but there is a 10% restocking fee payable of the item price and the buyer is responsible for the return shipping costs.
+Spieleberatung
+Frank Solnitzky
+Hainbuchenweg 1
+36381 Schlüchtern
+Germany
++49-6661-9115039
+spieleberatung@t-online.de</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Feb 2018 16:54:55 +0000</listdate>
+    <saledate>Wed, 21 Feb 2018 19:07:57 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Reserved for warden0503</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Apr 2014 16:27:31 +0000</listdate>
+    <saledate>Tue, 15 May 2018 14:17:11 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>new</condition>
+    <notes>Le Fantôme de l_T_E_M_P_T_A_G_#039;Opéra
+Multilingual first edition
+Publisher: Hurrican</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Apr 2018 03:45:48 +0000</listdate>
+    <saledate>Fri, 13 Jul 2018 18:45:04 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Unplayed and from a smoke and pet free home.
+**  INCLUDES SHIPPING to continental United States, and the first $10 shipping to all other locations.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Sep 2017 21:17:06 +0000</listdate>
+    <saledate>Wed, 25 Jul 2018 01:18:26 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jul 2014 15:06:38 +0000</listdate>
+    <saledate>Tue, 14 Aug 2018 23:56:27 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>punched
+Shipping Germany 6 Euro
+Shipping European Union 9 Euro
+Shipping World 15 Euro
+PayPal plus max. 4 Euro
+Money transfer via IBAN/BIC preferred for Euro countries
+--------------------------------------------------------------
+Private sale without warranty.
+Privater Verkauf unter Ausschluss jeder Gewährleistung.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Sep 2018 01:52:32 +0000</listdate>
+    <saledate>Sun, 07 Oct 2018 05:01:06 +0000</saledate>
+    <price currency='CAD'>24.99</price>
+    <condition>likenew</condition>
+    <notes>Played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Oct 2018 00:29:26 +0000</listdate>
+    <saledate>Mon, 08 Oct 2018 07:31:16 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246356/item/6422082#6422082]Item for Geeklist _T_E_M_P_T_A_G_quot;$10 Flat-rate Shipping Auction (+$5 per additional game)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Oct 2018 06:53:51 +0000</listdate>
+    <saledate>Tue, 23 Oct 2018 21:06:05 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>Played twice, in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Dec 2018 21:10:45 +0000</listdate>
+    <saledate>Wed, 16 Jan 2019 17:33:42 +0000</saledate>
+    <price currency='USD'>24.5</price>
+    <condition>good</condition>
+    <notes>Contents are in Very Good condition.
+Box is in Good condition - small tear in left corner. Otherwise in Very Good condition (see photos)
+Price is in USD
+**
+17 USD ship to USA
+15 USD ship to Canada</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

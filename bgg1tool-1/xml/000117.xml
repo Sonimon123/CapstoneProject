@@ -1,0 +1,1432 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="117">
+   <yearpublished>1999</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>45</playingtime>
+   <minplaytime>30</minplaytime>
+   <maxplaytime>45</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Ta Yü</name>
+       <name  sortindex="1">Tayü</name>
+       <name  sortindex="1">Tayu</name>
+         
+   <description>In Ta Y_T_E_M_P_T_A_G_amp;uuml;, a game of connections, one side tries to extend from the starting tile in the center to reach the western and eastern edges of the board while the opposing side tries to reach the northern and southern edges.  On your turn you simply draw a tile and decide where to place it, extending the network of tiles already on the board._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Several refinements make this simple proposition into an engrossing game.  First, each tile is 3x1 (to be played on a 19x19 board) and has exactly three outlets (potential connection points). Second, your score is not simply the number of spots you've reached on one edge added to the number of spots you've reached on the other, but is the product of those two numbers.  So you can't just concentrate on one side and ignore the other, because zero times anything is still zero.  Third, on each side of the board there are three special points which score double if reached, adding a dab of focus to the choices._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Interestingly, you need to play both offense and defense and will often have to decide to which use to put a particular tile._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/VvYd1Xg4TB6zrEWjcEbXoiCwBjk=/fit-in/200x150/pic240949.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/x29dUB3COK4xSjO2_2ZfdeXB1D0=/0x0/pic240949.jpg</image>
+      
+            <boardgamehonor objectid="8671">1999 Spiel des Jahres Recommended</boardgamehonor>
+               <boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+               <boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+               <boardgamefamily objectid="9470">Asian Theme</boardgamefamily>
+               <boardgamefamily objectid="7345">Connection Games</boardgamefamily>
+               <boardgameversion objectid="178602">Crown _T_E_M_P_T_A_G_amp; Andrews edition</boardgameversion>
+               <boardgamepublisher objectid="792">Crown _T_E_M_P_T_A_G_amp; Andrews Ltd.</boardgamepublisher>
+                                                                                                                                                                         <boardgameversion objectid="24485">German third edition</boardgameversion>
+               <boardgamepublisher objectid="454">Goliath B.V. (Board Game)</boardgamepublisher>
+               <boardgameversion objectid="33180">Goliath Dutch red edition</boardgameversion>
+               <boardgameversion objectid="30904">Goliath multilingual edition</boardgameversion>
+               <boardgameversion objectid="200131">Goliath multilingual edition</boardgameversion>
+               <boardgameversion objectid="277385">Goliath multilingual red edition</boardgameversion>
+               <boardgamepublisher objectid="37">KOSMOS</boardgamepublisher>
+               <boardgameversion objectid="24478">KOSMOS German first edition</boardgameversion>
+               <boardgameversion objectid="24481">KOSMOS German Second (SdJ) Edition</boardgameversion>
+               <boardgameversion objectid="27519">KOSMOS German Third (Sonder) Edition</boardgameversion>
+               <boardgamedesigner objectid="83">Niek Neuwahl</boardgamedesigner>
+               <boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+               <boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+               <boardgameartist objectid="22516">Anke Pohl</boardgameartist>
+                                                  <boardgameartist objectid="22515">Thilo Rick</boardgameartist>
+               <boardgameversion objectid="30656">Rio Grande edition</boardgameversion>
+               <boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+               <boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+               <boardgameartist objectid="11902">Claus Stephan</boardgameartist>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="32">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="15" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="25" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="13" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="16" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="15" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="6" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="2" />
+     <result value="8" numvotes="4" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1362</usersrated>
+     <average>6.9653</average>
+     <bayesaverage>6.27059</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1380" bayesaverage="6.27059" />
+            
+       
+              <rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="44" bayesaverage="6.75128" />
+            
+           </ranks>
+     
+     <stddev>1.29466</stddev>
+     <median>0</median>
+     <owned>1787</owned>
+     <trading>61</trading>
+     <wanting>139</wanting>
+     <wishing>420</wishing>
+     <numcomments>508</numcomments>
+     <numweights>147</numweights>
+     <averageweight>2.0748</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 14 Sep 2004 07:19:49 +0000</listdate>
+    <saledate>Fri, 17 Sep 2004 00:09:27 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>new</condition>
+    <notes>I,m offering the Kosmos edition
+Shipping is EUR 8.20 within Europe or apx. $14.80 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Feb 2005 02:01:16 +0000</listdate>
+    <saledate>Thu, 10 Feb 2005 03:32:08 +0000</saledate>
+    <price currency='USD'>69.99</price>
+    <condition>new</condition>
+    <notes>New in shrink. Kosmos edition. Will ship worldwide for cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jul 2005 18:25:45 +0000</listdate>
+    <saledate>Wed, 27 Jul 2005 16:40:24 +0000</saledate>
+    <price currency='USD'>59.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the german edition by KOSMOS
+++++ new + in shrink ++++
+Shipping is EUR 9.00 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click robbirob. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jul 2005 07:32:16 +0000</listdate>
+    <saledate>Tue, 09 Aug 2005 15:01:26 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>new</condition>
+    <notes>... original Kosmos edition - still in shrink!
+Shipping worldwide at cost!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Aug 2005 07:24:30 +0000</listdate>
+    <saledate>Mon, 01 Aug 2005 09:01:37 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>Only played a couple of times.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Aug 2005 13:28:28 +0000</listdate>
+    <saledate>Thu, 11 Aug 2005 13:19:57 +0000</saledate>
+    <price currency='USD'>59.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the german edition by KOSMOS
+Shipping is EUR 9.00 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click robbirob. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Aug 2005 04:15:09 +0000</listdate>
+    <saledate>Fri, 10 Feb 2006 03:35:38 +0000</saledate>
+    <price currency='USD'>36.6</price>
+    <condition>new</condition>
+    <notes>++++ new + in shrink ++++
+Shipping is EUR 9.00 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click robbirob. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Aug 2005 02:05:36 +0000</listdate>
+    <saledate>Fri, 30 Sep 2005 15:44:26 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>new</condition>
+    <notes>German Kosmos edition in shrink.
+BUT: ONE CORNER OF THE BOX IS BADLY DENTED.
+Shipping for this very heavy game is 12.80$ within U.S., insurance 1.30$ optional.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Aug 2005 18:18:52 +0000</listdate>
+    <saledate>Wed, 16 Nov 2005 02:46:21 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>new</condition>
+    <notes>new in shrink, perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Sep 2005 08:26:01 +0000</listdate>
+    <saledate>Fri, 23 Sep 2005 16:16:52 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>new</condition>
+    <notes>never played +++++ german version, but game parts are completely language independent and you can find rules translations here on boardgamegeek +++++ will be shipped with insurance +++++ payment for usa, canada, asia or australia : paypal or cash (by letter, exchanged already into euros) or bank transfer +++++ payment for other non-euro-currency countries in europe : paypal, cash (by letter, exchanged already into euros) or bank transfer +++++ payment for european countries, that have euro : cash (by letter) or bank transfer (wich by the way is cost-free !) +++++ payment for germany : personal pick up in berlin or bank transfer +++++ for all : no cheques ! +++++ foreign buyers beware : german postal sadly is very expensive for foreign packages (about 18 - 45 euros, it depends on, where the package has to be shipped and the weight), please ask for shipping prices, before you buy !) +++++ shipping inside germany will cost 8 euros, including insurance</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Sep 2005 17:50:08 +0000</listdate>
+    <saledate>Wed, 07 Sep 2005 18:11:59 +0000</saledate>
+    <price currency='USD'>48.5</price>
+    <condition>new</condition>
+    <notes>I am selling one of two that I have left over here.  From my adam-spielt order.
+$48.50.  PayPal only.  US address only.  Will ship UPS ground (included in the price).  No PO boxes.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Oct 2005 16:30:00 +0000</listdate>
+    <saledate>Wed, 02 Nov 2005 23:30:56 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in shrink. I have to figure the shipping out, but it will be reasonable.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Nov 2005 02:23:24 +0000</listdate>
+    <saledate>Wed, 09 Nov 2005 14:12:40 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Rio Grande English version, complete and in excellent condition. Very minimal wear to corners of box; otherwise almost like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Dec 2005 14:53:20 +0000</listdate>
+    <saledate>Sat, 25 Mar 2006 08:05:02 +0000</saledate>
+    <price currency='EUR'>33</price>
+    <condition>new</condition>
+    <notes>DISCOUNT RULES: IF YOU BUY 3 OR MORE GAMES YOU´LL GET DISCOUNT. THE PERCENTAGE IS (DAY+MONTH)/2 (Example: If you buy the games on 12th June you´ll get 12+6=18/2=9 %). So you can get a max. Discount on 31th december of 21 % :_). The date is the BGG-TIME (CST).
+I´m selling a lot of other german boardgames
+Shipping worldwide (Paypal or cash or Western Union). Bank Transfer is also OK, if there are no further costs for me. Picture for condition purposes can me mailed
+Look also at my other games I want _T_E_M_P_T_A_G_quot;to get rid off_T_E_M_P_T_A_G_quot;
+If you are looking for some other games send me an email.
+Shipping costs are roughly:
+--------- up to 2 kg ----- up to 5 kg --- up to 10 kg
+--------- no insurance --- insurance ---- insurance
+Europe (EU) - 9 Euros ----- 17 Euros ----- 22 Euros
+USA/Canada - 13 Euros ----- 32 Euros ----- 42 Euros
+Japan ------ 13 Euros ----- 37 Euros ----- 52 Euros 
+Australia -- 13 Euros ----- 37 Euros ----- 52 Euros
+If you have further questions on shipping costs send me a message
+!!! BUYERS FROM SOUTH KOREA !!! PLEASE BUY FROM MY FRIEND ROBBIROB !!! I DON`T SELL GAMES TO SOUTH KOREA ANY MORE !!!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jan 2006 18:20:48 +0000</listdate>
+    <saledate>Tue, 10 Jan 2006 20:55:04 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Shipping is 12.80$ within U.S. - very heavy game! Insurance is 1.30$ optional.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Feb 2006 02:59:54 +0000</listdate>
+    <saledate>Mon, 06 Feb 2006 07:41:06 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Feb 2006 02:44:06 +0000</listdate>
+    <saledate>Sun, 26 Mar 2006 15:04:13 +0000</saledate>
+    <price currency='USD'>34.99</price>
+    <condition>new</condition>
+    <notes>++++ new + in shrink ++++
+KOSMOS edition
+Shipping is EUR 9.00 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click robbirob. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Mar 2006 11:11:57 +0000</listdate>
+    <saledate>Thu, 13 Jul 2006 09:19:35 +0000</saledate>
+    <price currency='EUR'>22.5</price>
+    <condition>new</condition>
+    <notes>Language: German</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Aug 2006 20:34:07 +0000</listdate>
+    <saledate>Sun, 06 Aug 2006 00:22:54 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>Rio Grande Version, same as when i bought it, paper wrinkle in box top side, no rips, very slight corner wear, $10.00 Shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Sep 2006 01:35:11 +0000</listdate>
+    <saledate>Sat, 26 May 2007 18:45:58 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Open and played once otherwise it is in perfect condition. It weighs a bit, so I need to determine the shipping costs.
+If you pay with a personal check then I will wait 10 business days before shipping.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Oct 2006 14:05:49 +0000</listdate>
+    <saledate>Mon, 30 Apr 2007 13:19:40 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>new</condition>
+    <notes>original 1st edition by Kosmos, in shrink, not the later but cheaper edition
+heaviness: 1718 gramme
+shipping: letter or small package</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Nov 2006 20:57:02 +0000</listdate>
+    <saledate>Wed, 07 Mar 2007 19:37:45 +0000</saledate>
+    <price currency='EUR'>27.99</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 9.00 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks. 
+I can offer even more games upon request. 
+Please also check listings of my friend montsegur - combined regular shipping is possible. 
+For more details on my USA special shipping offer please click the robbirob button. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jan 2007 00:20:28 +0000</listdate>
+    <saledate>Sun, 17 Feb 2008 14:20:44 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Jan 2007 04:23:22 +0000</listdate>
+    <saledate>Sat, 02 Jun 2007 01:29:55 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>likenew</condition>
+    <notes>German/Kosmos _T_E_M_P_T_A_G_quot;SonderEdition_T_E_M_P_T_A_G_quot;.  Opened but unplayed and in near mint condition.
+Domestic shipping by Priority Mail is $8.60. International inquiries should message me for a shipping quote.
+Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Mar 2007 20:05:42 +0000</listdate>
+    <saledate>Tue, 12 Jun 2007 21:06:42 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 9.00 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks. 
+I can offer even more games upon request. 
+Please also check listings of my friend montsegur - combined regular shipping is possible. 
+For more details on my USA special shipping offer please click the robbirob button. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Apr 2007 00:29:08 +0000</listdate>
+    <saledate>Mon, 25 Jun 2007 14:39:36 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Open, played, but complete and in very good condition.  Smoke free.  Shipping on this is quite heavy, 5 lb., and is extra.  The game doesn_T_E_M_P_T_A_G_#039;t fit a flat rate box, sorry.
+Kosmos edition.
+US - c/mo/paypal
+International - paypal</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 May 2007 18:14:28 +0000</listdate>
+    <saledate>Mon, 17 Dec 2007 17:31:42 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>Mint in shrink!  German edition.  No text on the components.  Will provide English rules.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jun 2007 05:23:12 +0000</listdate>
+    <saledate>Sun, 24 Feb 2008 01:37:31 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>German version new in shrink. Box is still in excellent condition. I charge the actual shipping price to ship by USPS. For international orders please contact me before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jun 2007 20:36:52 +0000</listdate>
+    <saledate>Sun, 22 Jul 2007 21:49:39 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 15.00 to countries within the EU
+or EUR 25.00 to other European countries
+or EUR 30.00 to other worldwide destinations.
+++++ All shipping rates include insurance ++++
+ 
+The delivery time varies from 1 to 3 weeks. 
+I can offer even more games upon request. 
+Please also check listings of my friend montsegur - combined regular shipping is possible. 
+For more details on my USA special shipping offer please click the robbirob button. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jul 2007 23:06:36 +0000</listdate>
+    <saledate>Mon, 27 Aug 2007 00:51:48 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>verygood</condition>
+    <notes>played once</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Aug 2007 19:09:52 +0000</listdate>
+    <saledate>Sun, 16 Sep 2007 19:42:11 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>new</condition>
+    <notes>HEAVY GAME ( WITH A GOOD BOX OVER 2000 GRAMMS)
+DISCOUNT RULES: IF YOU BUY 3 OR MORE GAMES YOU´LL GET DISCOUNT. THE PERCENTAGE IS (DAY+MONTH)/2 (Example: If you buy the games on 12th June you´ll get 12+6=18/2=9 %). So you can get a max. Discount on 31th december of 21 % :_). The date is the BGG-TIME (CST).
+I´m selling a lot of other german boardgames
+Shipping worldwide (Paypal or cash or Western Union). Picture for condition purposes can me mailed
+Look also at my other games I want _T_E_M_P_T_A_G_quot;to get rid off_T_E_M_P_T_A_G_quot;
+If you are looking for some other games send me an email.
+Shipping costs are roughly:
+--------- up to 2 kg ----- up to 5 kg --- up to 10 kg
+--------- no insurance --- insurance ---- insurance
+Europe (EU) - 9 Euros ----- 17 Euros ----- 22 Euros
+USA/Canada - 13 Euros ----- 32 Euros ----- 42 Euros
+Japan ------ 13 Euros ----- 37 Euros ----- 52 Euros 
+Australia -- 13 Euros ----- 37 Euros ----- 52 Euros
+If you have further questions on shipping costs send me a message
+!!! BUYERS FROM SOUTH KOREA !!! PLEASE BUY FROM MY FRIEND ROBBIROB !!! I DON`T SELL GAMES TO SOUTH KOREA ANY MORE !!!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Sep 2007 15:13:25 +0000</listdate>
+    <saledate>Tue, 25 Sep 2007 04:29:33 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Kosmos Reiseedition.  Which is to say, pretty much just the Kosmos edition, I_T_E_M_P_T_A_G_#039;m not sure what made it Reise.  :-)
+Played twice; everything is in mint condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Oct 2007 16:30:57 +0000</listdate>
+    <saledate>Tue, 23 Oct 2007 18:19:09 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>The game is new and still in shrink. This is the Goliath edition.
+Shipping to France : 7 euros
+Shipping to Europa : 9 euros
+Shipping to rest of the World : 13 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Oct 2007 03:49:39 +0000</listdate>
+    <saledate>Sun, 14 Oct 2007 18:32:06 +0000</saledate>
+    <price currency='EUR'>32</price>
+    <condition>likenew</condition>
+    <notes>German edition. Unpunched, but in perfect state.
+Shipping:
+- within Germany: 4 euros
+- within Europe: 9 euros
+- other countries: 13 euros
+I accept bank transfer and PayPal.
+PayPal users pay additional 2 euros.
+Price too high? Make me a reasonable offer!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Oct 2007 04:55:21 +0000</listdate>
+    <saledate>Tue, 11 Dec 2007 08:04:25 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Open, few plays.  Shipped anywhere in the US for $10.  I may ship internationally - please ask for rates.  Thanks for lookin_T_E_M_P_T_A_G_#039;.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Oct 2007 18:44:45 +0000</listdate>
+    <saledate>Mon, 26 May 2008 14:09:57 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>The game is new and still in shrink. This is the Goliath edition.
+Shipping to France : 7 euros
+Shipping to Europa : 9 euros
+Shipping to rest of the World : 13 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Nov 2007 08:59:21 +0000</listdate>
+    <saledate>Thu, 29 Nov 2007 21:34:33 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Feb 2008 17:07:10 +0000</listdate>
+    <saledate>Wed, 02 Apr 2008 23:56:44 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>Kosmos edition.  In original shrink. Language independent.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Apr 2008 01:56:43 +0000</listdate>
+    <saledate>Thu, 17 Apr 2008 20:55:55 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>Kosmos edition.  Language independent components.  Mint _T_E_M_P_T_A_G_amp; in the original shrink. (Last copy!)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 May 2008 18:45:25 +0000</listdate>
+    <saledate>Fri, 29 Aug 2008 18:23:47 +0000</saledate>
+    <price currency='EUR'>29.9</price>
+    <condition>new</condition>
+    <notes>The game is new and still in shrink. This is the Goliath edition.
+Shipping to France : 7 euros
+Shipping to Europa : 9 euros
+Shipping to rest of the World : 13 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Aug 2008 17:54:38 +0000</listdate>
+    <saledate>Mon, 25 Aug 2008 00:58:04 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Rarely played, from a smoke and pet-free home. Original Kosmos edition with the nicer, faux-ivory components, in the dark blue box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Aug 2008 08:32:29 +0000</listdate>
+    <saledate>Wed, 05 Nov 2008 05:23:34 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>new</condition>
+    <notes>The game is new and still in shrink. This is the Goliath edition.
+Shipping to France : 7 euros
+Shipping to Europa : 9 euros
+Shipping to rest of the World : 13 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Nov 2008 18:32:47 +0000</listdate>
+    <saledate>Wed, 26 Nov 2008 15:07:15 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>new</condition>
+    <notes>German special edition made by Kosmos, the better looking edition!, still in shrink
+weight: 1866 gramme
+shipping: package</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Nov 2008 09:18:24 +0000</listdate>
+    <saledate>Sat, 29 Nov 2008 19:20:33 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>likenew</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Dec 2008 21:39:51 +0000</listdate>
+    <saledate>Wed, 10 Dec 2008 01:40:08 +0000</saledate>
+    <price currency='USD'>58</price>
+    <condition>new</condition>
+    <notes>as new, original kosmos print, 1000 times better than the goliath re-release !</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Dec 2008 15:24:48 +0000</listdate>
+    <saledate>Wed, 18 Mar 2009 04:46:41 +0000</saledate>
+    <price currency='USD'>99</price>
+    <condition>good</condition>
+    <notes>One copy of the original Ta Yü, Kosmos edition in German with an English language rules printout.  Includes box, insert, a drawstring bag or two (in case you want to separate the circle-back tiles from the non-circle-back tiles), gameboard, and all tiles.  Played about 5 times.  Slight wear on all components, except the tiles, which you could run over with a truck and they would still be fine.  Heavy sucker.  Domestic insured shipping $15.00.  International insured shipping at least $30.00 and probably more depending on your location.  Buyer must be a BGG member for at least 3 months please, preferably with some trade or marketplace feedback already.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Jan 2009 23:28:39 +0000</listdate>
+    <saledate>Wed, 28 Jan 2009 03:20:16 +0000</saledate>
+    <price currency='USD'>125</price>
+    <condition>likenew</condition>
+    <notes>Opened but unplayed original RGG/Kosmos edition.  </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Feb 2009 10:10:13 +0000</listdate>
+    <saledate>Mon, 09 Feb 2009 20:30:20 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>verygood</condition>
+    <notes>This is the Kosmos Ta Yü edition (blue box, white tiles) in English. The box is slightly concaved on the bottom, otherwise all components are accounted for and in nice condition. The game includes box, rules, drawstring bag, gameboard, and all tiles. Shipping will be a flat $10 via FedEx and tracking info will be provided</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Mar 2009 15:29:40 +0000</listdate>
+    <saledate>Tue, 07 Apr 2009 16:14:28 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes>Original, beautiful Kosmos/Riogrande Games edition. Played twice -- fun! In excellent condition. Some minor wear at corners of the box from storage.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 May 2009 22:38:01 +0000</listdate>
+    <saledate>Mon, 16 Nov 2009 13:59:00 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>likenew</condition>
+    <notes>German version.  Played once, in perfect condition.
+Shipping is $16.00 via USPS.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 May 2009 17:51:38 +0000</listdate>
+    <saledate>Mon, 04 Oct 2010 19:46:46 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>verygood</condition>
+    <notes>This is reserved for Pakwan, the winner of an auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jun 2009 18:02:58 +0000</listdate>
+    <saledate>Sun, 21 Jun 2009 03:58:41 +0000</saledate>
+    <price currency='USD'>20.49</price>
+    <condition>new</condition>
+    <notes>Goliath B.V. (GTH 70418)
+In Ta Yü, a sumptuously produced game of connections, one side tries to extend from the starting tile in the center to reach the western and eastern edges of the board while the opposing side tries to reach the northern and southern edges. On your turn you simply draw a tile and decide where to place it, extending the network of tiles already on the board.
+Several refinements make this simple proposition into an engrossing game. First, each tile is 3x1 (to be played on a 19x19 board) and has exactly three outlets (potential connection points). Second, your score is not simply the number of spots you_T_E_M_P_T_A_G_#039;ve reached on one edge added to the number of spots you_T_E_M_P_T_A_G_#039;ve reached on the other, but is the product of those two numbers. So you can_T_E_M_P_T_A_G_#039;t just concentrate on one side and ignore the other, because zero times anything is still zero. Third, on each side of the board there are three special points which score double if reached, adding a dab of focus to the choices.
+Interestingly, you need to play both offense and defense and will often have to decide to which use to put a particular tile.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Jun 2009 02:52:03 +0000</listdate>
+    <saledate>Wed, 15 Jul 2009 07:37:42 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>German KOSMOS version. Has english instructions print out.
+played 1x</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jun 2009 20:57:31 +0000</listdate>
+    <saledate>Thu, 23 Jul 2009 20:45:39 +0000</saledate>
+    <price currency='USD'>20.49</price>
+    <condition>new</condition>
+    <notes>Goliath B.V. (GTH 70418)
+In Ta Yü, a sumptuously produced game of connections, one side tries to extend from the starting tile in the center to reach the western and eastern edges of the board while the opposing side tries to reach the northern and southern edges. On your turn you simply draw a tile and decide where to place it, extending the network of tiles already on the board.
+Several refinements make this simple proposition into an engrossing game. First, each tile is 3x1 (to be played on a 19x19 board) and has exactly three outlets (potential connection points). Second, your score is not simply the number of spots you_T_E_M_P_T_A_G_#039;ve reached on one edge added to the number of spots you_T_E_M_P_T_A_G_#039;ve reached on the other, but is the product of those two numbers. So you can_T_E_M_P_T_A_G_#039;t just concentrate on one side and ignore the other, because zero times anything is still zero. Third, on each side of the board there are three special points which score double if reached, adding a dab of focus to the choices.
+Interestingly, you need to play both offense and defense and will often have to decide to which use to put a particular tile.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Jul 2009 11:36:46 +0000</listdate>
+    <saledate>Tue, 06 Oct 2009 02:00:27 +0000</saledate>
+    <price currency='USD'>73.99</price>
+    <condition>likenew</condition>
+    <notes>Ta Yü - Kosmos
+Like New! Removed from shrink, but still in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $1.00 handling charge</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Jul 2009 14:01:44 +0000</listdate>
+    <saledate>Tue, 11 Aug 2009 08:30:55 +0000</saledate>
+    <price currency='USD'>20.49</price>
+    <condition>new</condition>
+    <notes>Goliath B.V. (GTH 70418)
+In Ta Yü, a sumptuously produced game of connections, one side tries to extend from the starting tile in the center to reach the western and eastern edges of the board while the opposing side tries to reach the northern and southern edges. On your turn you simply draw a tile and decide where to place it, extending the network of tiles already on the board.
+Several refinements make this simple proposition into an engrossing game. First, each tile is 3x1 (to be played on a 19x19 board) and has exactly three outlets (potential connection points). Second, your score is not simply the number of spots you_T_E_M_P_T_A_G_#039;ve reached on one edge added to the number of spots you_T_E_M_P_T_A_G_#039;ve reached on the other, but is the product of those two numbers. So you can_T_E_M_P_T_A_G_#039;t just concentrate on one side and ignore the other, because zero times anything is still zero. Third, on each side of the board there are three special points which score double if reached, adding a dab of focus to the choices.
+Interestingly, you need to play both offense and defense and will often have to decide to which use to put a particular tile.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Aug 2009 16:41:18 +0000</listdate>
+    <saledate>Tue, 30 Mar 2010 14:55:03 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>good</condition>
+    <notes>Goliath version (red).  Played twice, in great condition.
+I can only accept check, money order, or Paypal (if it is funded through a bank account, not a debit or credit card).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Aug 2009 12:54:52 +0000</listdate>
+    <saledate>Mon, 07 Sep 2009 21:22:58 +0000</saledate>
+    <price currency='EUR'>39.5</price>
+    <condition>likenew</condition>
+    <notes>German edition by Kosmos
+Condition: excellent, opened but unplayed.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Sep 2009 02:08:19 +0000</listdate>
+    <saledate>Wed, 20 Jan 2010 06:41:12 +0000</saledate>
+    <price currency='AUD'>60</price>
+    <condition>likenew</condition>
+    <notes>Played once - some shelf wear but otherwise as good as new.
+Rio Grande Version (English Production of the Kosmos Version).
+Will accept direct deposit from Australian buyers, PayPal everyone else.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Mar 2010 19:20:50 +0000</listdate>
+    <saledate>Tue, 09 Mar 2010 19:52:35 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>No shipping required.
+RESERVED FOR John Flood</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Mar 2010 14:08:23 +0000</listdate>
+    <saledate>Fri, 23 Jul 2010 01:02:35 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>NEW IN SHRINK. Goliath English Version.
+Buyer will pay to ship by discounted FedEx Ground with insurance and tracking provided for free IF you have a non-residential address to ship to (this is guaranteed to save at least $2-3 over USPS). Otherwise, it will cost a bit more, and shipping will be by USPS Priority with Delivery Confirmation.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Mar 2010 18:45:27 +0000</listdate>
+    <saledate>Sun, 31 Oct 2010 15:35:59 +0000</saledate>
+    <price currency='USD'>15.99</price>
+    <condition>new</condition>
+    <notes>Goliath Games edition (in red box).
+Brand new in shrink. Will ship worldwide for cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Mar 2010 14:15:40 +0000</listdate>
+    <saledate>Sun, 30 May 2010 01:52:04 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>Kosmos 1st Edition, complete - not the red pieces
+1678 gramme
+shipping: small package or letter</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Apr 2010 15:45:58 +0000</listdate>
+    <saledate>Tue, 06 Apr 2010 14:05:20 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>reserved for Jeff Wu
+Never opened and in shrink. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Apr 2010 16:23:34 +0000</listdate>
+    <saledate>Mon, 24 Jan 2011 22:27:29 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>Goliath edition (multilingual)
+box inlay a bit damaged</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Apr 2010 16:04:24 +0000</listdate>
+    <saledate>Tue, 13 Apr 2010 17:30:57 +0000</saledate>
+    <price currency='USD'>12.95</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 May 2010 01:03:27 +0000</listdate>
+    <saledate>Fri, 14 May 2010 21:07:19 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>reserved for tamburlain</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 May 2010 12:08:02 +0000</listdate>
+    <saledate>Sun, 30 May 2010 17:38:01 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Aug 2010 11:27:50 +0000</listdate>
+    <saledate>Tue, 25 Jan 2011 18:22:44 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>good</condition>
+    <notes>Tayü 1999 Sonderedition in good condition.
+Some slight damage to the box corners (see photo). 
+Components in excellent condition.
+Able to hand over at Essen 2010 (Thursday)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Oct 2010 15:27:26 +0000</listdate>
+    <saledate>Fri, 12 Nov 2010 02:15:10 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>New in box with factory shrinkwrap.
+SHIPPING COSTS: We will ship however you prefer. Please contact us with you address, and we will provide exact costs for you. This game costs $11 to ship in a flat rate priority box to anywhere in the US.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Nov 2010 18:38:29 +0000</listdate>
+    <saledate>Mon, 27 Dec 2010 21:07:49 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>new</condition>
+    <notes>original German Kosmos edition
+new and shrinkwrapped in perfect condition
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Nov 2010 04:56:21 +0000</listdate>
+    <saledate>Mon, 20 Jun 2011 00:45:29 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>New, mint condition, unused in shrink
+AUCTION ITEM FOR Konig</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Dec 2010 12:43:40 +0000</listdate>
+    <saledate>Wed, 12 Jan 2011 13:26:19 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Goliath Edition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Dec 2010 23:50:35 +0000</listdate>
+    <saledate>Sat, 01 Jan 2011 20:20:35 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>new</condition>
+    <notes>original German Kosmos edition
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Apr 2011 23:25:28 +0000</listdate>
+    <saledate>Wed, 13 Apr 2011 09:05:52 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Item intended for auction winner: Michael Evans (mevans444)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Apr 2011 21:51:59 +0000</listdate>
+    <saledate>Tue, 03 May 2011 13:59:40 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR kneumann (KAS) as part of auction at http://www.boardgamegeek.com/geeklist/66781/</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 May 2011 17:15:56 +0000</listdate>
+    <saledate>Sun, 28 Aug 2011 15:41:27 +0000</saledate>
+    <price currency='EUR'>36</price>
+    <condition>likenew</condition>
+    <notes>1999 Kosmos Sonderedition, played 4 times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 May 2011 04:24:37 +0000</listdate>
+    <saledate>Thu, 02 Jun 2011 02:27:57 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played once.  Great shape. Goliath edition.
+I take PayPal only. I charge actual shipping from 80919 via FedEx or USPS, whichever is cheaper or whichever you prefer.  </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 May 2011 15:07:58 +0000</listdate>
+    <saledate>Wed, 11 May 2011 01:30:57 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>for the winner of my BIN auction, xenongames</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 May 2011 00:10:20 +0000</listdate>
+    <saledate>Tue, 31 May 2011 14:35:12 +0000</saledate>
+    <price currency='USD'>69</price>
+    <condition>good</condition>
+    <notes>Rio Grande English language version of the Kosmos edition: blue board, ivory colored pieces.  The board, bag and pieces are in excellent condition.  The box has a little wear, and the plastic inset is broken through from the weight of the pieces in the bag, but the game components themselves are excellent.  Will ship USPS priority rate.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Aug 2011 23:22:42 +0000</listdate>
+    <saledate>Mon, 01 Aug 2011 23:52:59 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>[Reserved for Celinashope]</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Aug 2011 19:19:50 +0000</listdate>
+    <saledate>Tue, 23 Jul 2013 01:28:14 +0000</saledate>
+    <price currency='USD'>79.99</price>
+    <condition>verygood</condition>
+    <notes>Kosmos edition.  Like new condition with minimal shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Mar 2012 14:37:49 +0000</listdate>
+    <saledate>Wed, 02 May 2012 13:48:32 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>new</condition>
+    <notes>Ta Yu (1998) by Rio Grande Games
+Condition: A1-Still in the Shrinkwrap
+Note: This is a very heavy game so shipping costs tend to be a little higher</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jun 2012 20:05:01 +0000</listdate>
+    <saledate>Mon, 09 Jul 2012 17:10:03 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>Box with wear
+components like new
+KOSMOS edition!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Aug 2012 14:19:18 +0000</listdate>
+    <saledate>Mon, 24 Sep 2012 05:18:32 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>verygood</condition>
+    <notes>German edition by Kosmos.
+Contents complete _T_E_M_P_T_A_G_amp; in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Oct 2012 17:47:28 +0000</listdate>
+    <saledate>Sun, 28 Oct 2012 00:39:12 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Local pick up accepted in Fairview Mall, Toronto
+Cell 647 448 3663</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Nov 2012 14:25:20 +0000</listdate>
+    <saledate>Thu, 29 Nov 2012 04:51:06 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>Goliath Edition. The box has a deep scratch through the gloss finish. No corner wear or tears. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Jan 2013 20:17:55 +0000</listdate>
+    <saledate>Mon, 07 Apr 2014 17:10:07 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Goliath Games edition (red box).
+Shipping charges paid by the buyer. Combined shipping  available. Please let me know if you wish for the shipment to be insured.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Jan 2013 03:44:25 +0000</listdate>
+    <saledate>Sat, 26 Jan 2013 06:18:44 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>        for purchase by Elaine Lai Only
+        large flat rate USPS box 
+        paypal to floors@mac.com
+        thank you Elaine</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Feb 2013 11:56:58 +0000</listdate>
+    <saledate>Wed, 06 Feb 2013 07:03:50 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Note: This listing is for user LastFrontier only.
+1999 Kosmos edition. Complete. Board has some bowing and wear at the folds. Box has a crease on the back.
+Shipping Standard Post: $14.20
+Shipping Priority (my packaging): $21.20
+Shipping Priority Medium Flat-rate Box: $12.35</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Feb 2013 08:35:53 +0000</listdate>
+    <saledate>Mon, 03 Feb 2014 10:46:37 +0000</saledate>
+    <price currency='EUR'>22.5</price>
+    <condition>new</condition>
+    <notes>Goliath multilingual edition </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Mar 2013 20:36:56 +0000</listdate>
+    <saledate>Wed, 13 Mar 2013 21:39:58 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>verygood</condition>
+    <notes>Original Kosmos edition with the great tiles. Will ship worldwide for cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Apr 2013 16:44:02 +0000</listdate>
+    <saledate>Fri, 19 Apr 2013 16:00:09 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>good</condition>
+    <notes>KOSMOS/Rio Grande edition with heavy tiles!
+Only graded _T_E_M_P_T_A_G_quot;good_T_E_M_P_T_A_G_quot; due to some scuffs to box corners.  Board, pieces, bag and instructions VG to VG+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Jun 2013 18:54:45 +0000</listdate>
+    <saledate>Fri, 28 Jun 2013 18:59:36 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Goliath _T_E_M_P_T_A_G_#039;Red Box_T_E_M_P_T_A_G_#039; edition.  Some light shelf wear on the box.  Contents are in great condition.
+This item is only for mattwolfe.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Sep 2013 20:50:52 +0000</listdate>
+    <saledate>Thu, 26 Sep 2013 00:31:12 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>Goliath, red box edition. Box has shelf wear, but the components are in very good to excellent condition. 
+I will ship via USPS after payment is received (and shipping costs determined) unless you_T_E_M_P_T_A_G_#039;d like it shipped some other way. I will combine shipping with multiple items. From US zip code: 97520.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Nov 2013 18:24:24 +0000</listdate>
+    <saledate>Mon, 04 Nov 2013 19:21:21 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>Game Reserved for 
+mergryphon 
+through the Buy More Save More Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Nov 2013 12:41:30 +0000</listdate>
+    <saledate>Fri, 14 Feb 2014 16:13:50 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes>Kosmos Edition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Dec 2013 01:21:07 +0000</listdate>
+    <saledate>Mon, 09 Dec 2013 02:04:04 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>(Reserved for Fugazi2112)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Apr 2014 20:11:21 +0000</listdate>
+    <saledate>Sun, 04 May 2014 15:01:06 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>new</condition>
+    <notes>Tayü (KOSMOS), 1,7 Kg
+Condition/Zustand: new, unused and sealed / neu, unbenutzt und in Folie verpackt
+General Information:
+I sell this item as a private seller. I can not give any guarantees or refunds. Nevertheless as a board game collector I describe the item as accurate as possible. In case of missing tiles or damages I mention this in the item description.
+Diesen Artikel verkaufe ich als Privatperson. Eine Garantie oder eine Ruecknahme biete ich nicht an. Als Sammler von Brettspielen achte ich jedoch sehr genau auf den Zustand und auf die Vollzaehligkeit. Die Spiele sind daher meistens tadellos erhalten. Sollten Maengel vorhanden sein, werden diese auch in der Beschreibung unter _T_E_M_P_T_A_G_quot;Condition/Zustand_T_E_M_P_T_A_G_quot; erwaehnt.
+Ich versende Spiele in folgende Länder: / I ship board games and board game expansions to the following countries:
+In case you live in a different country please contact me before you buy an item.
+Shipping/Versand
+nach Deutschland (ohne Inseln):
+Maxibrief (unversichert): EUR 2,20
+Hermes-Paket(max. 50 cm laengste + kuerzeste Seite): EUR 4,50
+DHL-Paket (versichert):
+0 - 10 Kg EUR 6,00
+10 - 20 Kg EUR 11,00
+------------------------------------------------------------
+to Europe (EU): Belgium, Denmark, Finland, France, Greece, Great Britain, Ireland, Italy, Luxembourg, The Netherlands, Österreich, Poland, Portugal, Sweden, Slovakia, Spain, Czech:
+Registered Letter:
+0 - 0.5 Kg EUR 5,50
+0.5 - 1 Kg EUR 9,05
+Small Parcel / Paeckchen (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 10,90
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 17,00
+5 - 10 Kg EUR 22,00
+10 - 20 Kg EUR 32,00
+------------------------------------------------------------
+to Switzerland, Norway, Hungary, Slovenia, Croatia and Rest of Europe:
+Registered Letter:
+0 - 0.5 Kg EUR 5,50
+0.5 - 1 Kg EUR 9,05
+Small Parcel (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 17,90
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 30,00
+5 - 10 Kg EUR 35,00
+10 - 20 Kg EUR 45,00
+------------------------------------------------------------
+to the U.S.A. and Canada:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 5.50
+0.5 - 1 Kg EUR 9.05
+Small Parcel (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 17.90
+DHL Parcel:
+0 - 5 Kg EUR 36.00
+5 - 10 Kg EUR 47.00
+10 - 20 Kg EUR 68.00
+------------------------------------------------------------
+to Australia, Brazil, China, Japan, New Zealand:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 5.50
+0.5 - 1 Kg EUR 9.05
+Small parcel (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 17.90
+DHL Parcel:
+0 - 5 Kg EUR 42.00
+5 - 10 Kg EUR 59.00
+10 - 20 Kg EUR 91.00
+------------------------------------------------------------
+Payment:
+Überweisung/bank transfer via IBAN + BIC
+PayPal
+Money Bookers (Skrill)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Dec 2014 08:36:35 +0000</listdate>
+    <saledate>Mon, 29 Dec 2014 03:24:29 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>This listing is for the Rio Grande Games/Kosmos edition of Ta Yu.  This game has only been played twice and is in excellent condition.   The plastic insert has a couple of cracks in it (it came that way).
+I will ship via USPS Priority Mail so shipping is $11.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Sep 2014 04:04:47 +0000</listdate>
+    <saledate>Fri, 02 Jan 2015 22:30:08 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Opened, and played but in WONDERFUL condition. Shipping is actual cost from zip 48911. Spend $150 or more in my market and I will take 10% off the final total of your order(including shipping!). Pics of any of my games are available upon request!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jan 2015 07:13:03 +0000</listdate>
+    <saledate>Wed, 07 Jan 2015 07:34:30 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Only for user rynelf.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Mar 2015 23:19:09 +0000</listdate>
+    <saledate>Thu, 05 Mar 2015 06:53:42 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>opened, unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Jan 2015 19:57:47 +0000</listdate>
+    <saledate>Sun, 08 Mar 2015 19:55:42 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>Game is complete, _T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Payments: bank account or Paypal _T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;If you want to pay by Paypal, there will be an additional fee_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;multi language version.  beautiful pieces!_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Mar 2015 12:41:54 +0000</listdate>
+    <saledate>Tue, 10 Mar 2015 15:30:43 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>likenew</condition>
+    <notes>For user Dandelion777123</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Sep 2014 17:33:57 +0000</listdate>
+    <saledate>Tue, 17 Mar 2015 21:58:07 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>[u][b]Condition:[/b][/u] [u]Kosmos Edition [/u]in Blue Box: Very Good Condition. Box has minor wear.
+Buyer to pay actual shipping costs, which will be by USPS Priority unless you contact me before buying the item. If you pay by PayPal, you will have to pay the fees.
+If you are a new user, or a buyer with little feedback contact me before purchase before you buy. I reserve the right to refuse to sell. I do not wish to sell internationally unless you contact me first to discuss it, and show that you have participated on BGG.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Dec 2014 14:53:43 +0000</listdate>
+    <saledate>Tue, 19 May 2015 16:11:46 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>acceptable</condition>
+    <notes>The box top looks like new, but has reinforcing transparent tape all around, and the box bottom has visible wear. The board has a few white spots on the seams, but is otherwise solid. The tileset is complete and all tiles are in perfect order. 
+This edition is rare and sought after because of the wonderful mah-jongg like pieces and the fundamental color and board size changes made to the latest edition.
+Shipping: CH: 10 EUR, DE 20 EUR, UK 20 EUR, US 37 EUR. Ask me for other destinations.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Jun 2015 10:34:55 +0000</listdate>
+    <saledate>Fri, 05 Jun 2015 13:29:53 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191799/item/3920695#3920695]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction: Japanese Games, Rarities, and Shrinkwrapped Games - plus some bonus $0 reserve games_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Jun 2015 22:57:05 +0000</listdate>
+    <saledate>Tue, 30 Jun 2015 00:21:01 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This listing is for djdragon001 only.
+This was sold through the VFM at DTC Con.  Cash payment has been received.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Aug 2015 22:36:24 +0000</listdate>
+    <saledate>Tue, 04 Aug 2015 18:42:09 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>Payment to bradleyderek@gmail.com
+This sale has been auto-generated for the auction: [geekurl=/geeklist/193884/item/4022352#4022352]Item for Geeklist _T_E_M_P_T_A_G_quot;All games $10 starting bid Egalitarian Auction ends Friday, July 31!  (US/INTL)  FREE SHIPPING INCENTIVE_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Dec 2015 00:57:26 +0000</listdate>
+    <saledate>Thu, 31 Dec 2015 16:22:09 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Goliath multilingual edition, new in shrink with no noticeable box damage.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Nov 2015 23:12:33 +0000</listdate>
+    <saledate>Tue, 26 Jan 2016 02:41:07 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>likenew</condition>
+    <notes>Only played once.
+Will combine with other orders for reduced shipping.
+AVAILABLE FOR LOCAL PICKUP (ORANGE COUNTY, CA)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Jan 2016 15:31:56 +0000</listdate>
+    <saledate>Thu, 28 Jan 2016 16:12:13 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Oct 2015 00:52:45 +0000</listdate>
+    <saledate>Mon, 01 Feb 2016 20:06:18 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Great condition!  Ships from San Francisco.  I accept Paypal and Bitcoin.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Feb 2016 18:32:25 +0000</listdate>
+    <saledate>Thu, 10 Mar 2016 14:08:17 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Includes printout of English rules</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Apr 2016 19:28:36 +0000</listdate>
+    <saledate>Sat, 14 May 2016 21:24:35 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 May 2016 01:05:42 +0000</listdate>
+    <saledate>Mon, 29 Aug 2016 21:20:38 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Red tiled version; played once
+$9.00 shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 May 2016 18:05:36 +0000</listdate>
+    <saledate>Tue, 30 Aug 2016 13:17:51 +0000</saledate>
+    <price currency='EUR'>22.5</price>
+    <condition>likenew</condition>
+    <notes>Please send a message if you are interested so I can make an estimate of the shipping costs. Payment can be done by bank transfer or Paypal. If you have any questions please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Feb 2016 03:30:20 +0000</listdate>
+    <saledate>Fri, 11 Nov 2016 14:48:24 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>New/sealed!  This is the rare white tile version of the game.  Ships from San Francisco.  I accept Paypal and Bitcoin.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jan 2017 20:03:02 +0000</listdate>
+    <saledate>Tue, 03 Jan 2017 15:29:07 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition, and comes with a custom tile bag. This is the Kosmos gorgeous blue-and-white ceramic-style tiles version. Smoke-free, Adults-only household.
+[imageid=250314]
+[imageid=3323832]</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Jan 2017 12:04:13 +0000</listdate>
+    <saledate>Thu, 09 Feb 2017 12:20:20 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>plus shipping to your country via DHL</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Mar 2017 10:32:00 +0000</listdate>
+    <saledate>Tue, 14 Mar 2017 01:14:30 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222792/item/5256546#5256546]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction!  Auction!  Auction! 3_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Mar 2017 20:55:55 +0000</listdate>
+    <saledate>Fri, 31 Mar 2017 21:19:42 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223313/item/5285334#5285334]Item for Geeklist _T_E_M_P_T_A_G_quot;Spring Cleaning - Ave Roma+, Glory to Rome IV, Royal Turf, Infamous Traffic, Lorenzo, Great Western Trail, Adrenalin, Princes of Florence, Bora Bora, Ta Yu, ETC..._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Apr 2017 14:14:30 +0000</listdate>
+    <saledate>Thu, 27 Apr 2017 09:19:53 +0000</saledate>
+    <price currency='EUR'>33.5</price>
+    <condition>new</condition>
+    <notes>in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 May 2017 08:31:41 +0000</listdate>
+    <saledate>Fri, 26 May 2017 20:36:29 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>The game is new and still in shrink wrap!
+I will ship from Germany and I am willing to ship anywhere.
+Please ask me, for the shipping costs for your land.
+I will charge shipping at cost. Everything will be well packed.
+You can pay me through Paypal or bank transfer to my German bank account but any fees charged must be covered by you.
+If you buy more games, then I make all in one package!
+We have a large private collection of games. Due to space and time constraints we must rid ourselves of some of the games. Therefore, these are private sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Dec 2016 00:14:43 +0000</listdate>
+    <saledate>Thu, 08 Jun 2017 15:45:19 +0000</saledate>
+    <price currency='EUR'>69</price>
+    <condition>new</condition>
+    <notes>Tayü (KOSMOS), 1,7 Kg
+Condition/Zustand: new, unused and sealed / neu, unbenutzt und in Folie verpackt
+General Information:
+I sell this item as a private seller. I can not give any guarantees or refunds. Nevertheless as a board game collector I describe the item as accurate as possible. In case of missing tiles or damages I mention this in the item description.
+Diesen Artikel verkaufe ich als Privatperson. Eine Garantie oder eine Ruecknahme biete ich nicht an. Als Sammler von Brettspielen achte ich jedoch sehr genau auf den Zustand und auf die Vollzaehligkeit. Die Spiele sind daher meistens tadellos erhalten. Sollten Maengel vorhanden sein, werden diese auch in der Beschreibung unter _T_E_M_P_T_A_G_quot;Condition/Zustand_T_E_M_P_T_A_G_quot; erwaehnt.
+Ich versende Spiele in folgende Länder: / I ship board games and board game expansions to the following countries:
+In case you live in a different country please contact me before you buy an item.
+Shipping/Versand
+nach Deutschland (ohne Inseln):
+Maxibrief (unversichert): EUR 2,60
+Hermes-Paket (max. 50 cm laengste + kuerzeste Seite): EUR 4,70
+DHL-Paket (versichert):
+0 - 5 Kg EUR 6,00
+5 - 10 Kg EUR 8,50
+10 - 31,5 Kg 16,50
+------------------------------------------------------------
+to Europe (EU): Belgium, Croatia, Czech Republic, Denmark, Finland, France, Greece, Great Britain, Hungary, Ireland, Italy, Luxembourg, The Netherlands, Österreich, Poland, Portugal, Sweden, Slovakia, Slovenia, Spain:
+Registered Letter:
+0 - 0.5 Kg EUR 6,20
+0.5 - 1 Kg EUR 9,50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 11,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 16,00
+5 - 10 Kg EUR 21,00
+10 - 20 Kg EUR 32,00
+------------------------------------------------------------
+to Switzerland / in die Schweiz:
+Registered Letter:
+0 - 0.5 Kg EUR 6,20
+0.5 - 1 Kg EUR 9,50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 16,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 27,00
+5 - 10 Kg EUR 35,00
+10 - 20 Kg EUR 49,00
+------------------------------------------------------------
+to Norway:
+Registered Letter:
+0 - 0.5 Kg EUR 6,20
+0.5 - 1 Kg EUR 9,50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 16,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 30,00
+5 - 10 Kg EUR 38,00
+10 - 20 Kg EUR 53,00
+------------------------------------------------------------------------------------------------------------------------------------
+to the U.S.A. and Canada:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 6.20
+0.5 - 1 Kg EUR 9.50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.10
+DHL Parcel:
+0 - 5 Kg EUR 37.00
+5 - 10 Kg EUR 54.00
+10 - 20 Kg EUR 76.00
+--------------------------------------------------------------------------------------------------------------------------------------------
+to China:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 6.20
+0.5 - 1 Kg EUR 9.50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.10
+DHL Parcel:
+0 - 5 Kg EUR 43.00
+5 - 10 Kg EUR 59.00
+10 - 20 Kg EUR 95.00
+------------------------------------------------------------------------------------------------------------------------------------------
+to Australia, Brazil, Japan, New Zealand:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 6.20
+0.5 - 1 Kg EUR 9.50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.10
+DHL Parcel:
+0 - 5 Kg EUR 46.00
+5 - 10 Kg EUR 62.00
+10 - 20 Kg EUR 101.00
+------------------------------------------------------------
+Payment:
+Bank transfer via IBAN + BIC / Überweisung
+PayPal</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Jun 2017 15:28:06 +0000</listdate>
+    <saledate>Tue, 12 Sep 2017 10:40:33 +0000</saledate>
+    <price currency='USD'>64.95</price>
+    <condition>good</condition>
+    <notes>Original English edition (same as Kosmos version but with English rules).  Cream colored tiles with blue lines.  Tiles and board are in excellent condition.  Insert is cracked from shipping.  Box has some minor shipping damage.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Oct 2017 18:55:04 +0000</listdate>
+    <saledate>Sat, 21 Oct 2017 14:50:28 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228286/item/5697512#5697512]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2017 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Oct 2017 15:26:00 +0000</listdate>
+    <saledate>Wed, 29 Nov 2017 11:11:59 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>Opened and played once or twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Dec 2017 15:51:47 +0000</listdate>
+    <saledate>Sun, 24 Dec 2017 03:14:49 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>The plastic box insert was cracked _T_E_M_P_T_A_G_amp; repaired.
+Local delivery possible near Los Angeles (I live in Santa Clarita, work in Pasadena). Delivery at SoCal Games Day works well, too.
+Otherwise domestic _T_E_M_P_T_A_G_amp; international shipping is possible. Combined shipping also possible _T_E_M_P_T_A_G_amp; encouraged.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Apr 2018 19:26:42 +0000</listdate>
+    <saledate>Mon, 04 Jun 2018 01:39:23 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>This is the Kosmos gorgeous blue-and-white ceramic-style tiles version. 
+New in Shrink from a smoke free home in California</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Jul 2018 01:08:39 +0000</listdate>
+    <saledate>Thu, 12 Jul 2018 10:14:04 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Jul 2018 16:06:48 +0000</listdate>
+    <saledate>Fri, 20 Jul 2018 21:22:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>The difficult to see backs of the pieces were colored in with pen, to varying degrees of success.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jan 2018 00:10:05 +0000</listdate>
+    <saledate>Fri, 27 Jul 2018 05:19:54 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Oct 2018 21:31:18 +0000</listdate>
+    <saledate>Tue, 09 Oct 2018 18:22:16 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Jan 2018 21:18:24 +0000</listdate>
+    <saledate>Fri, 23 Nov 2018 01:20:11 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Ask for shipping costs.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

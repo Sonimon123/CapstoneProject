@@ -1,0 +1,485 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="207729">
+   <yearpublished>2018</yearpublished>
+   <minplayers>1</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>14</age>
+       <name primary="true" sortindex="5">The Edge: Dawnfall</name>
+         
+   <description>The Edge: Dawnfall is a dynamic, miniature and card battle game with elements of territory control (gathering crystals) as well as campaign play. Each player controls unique units with special abilities that can be enchanted with special spell or progress cards._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Players win the game in solo or co-op mode by completing plot conditions of the scenario, or in the competitive skirmish mode by gaining advantage of 7 Victory Points. The game is set in the original post-apocalyptic universe of The Edge and features 6 factions with very different backstories, game styles and aesthetics._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/wsYJSB-Ixy2BkBkDGV3siLe5y7U=/fit-in/200x150/pic4335864.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/fgaW1oMx6AKkR-_erlgmKuyQlX0=/0x0/pic4335864.jpg</image>
+      
+            <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamepublisher objectid="29412">Awaken Realms</boardgamepublisher>
+               <boardgamefamily objectid="24281">Campaign Games</boardgamefamily>
+               <boardgamemechanic objectid="2023">Cooperative Play</boardgamemechanic>
+               <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+               <boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgameexpansion objectid="235577">The Edge: Dawnfall – Abyssal Empress</boardgameexpansion>
+               <boardgameexpansion objectid="234560">The Edge: Dawnfall – Father of the Sun</boardgameexpansion>
+               <boardgameversion objectid="324129">English edition</boardgameversion>
+               <boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+               <boardgamecategory objectid="1046">Fighting</boardgamecategory>
+               <boardgameversion objectid="433748">French edition</boardgameversion>
+               <boardgameversion objectid="427308">German edition</boardgameversion>
+               <boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+               <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+               <boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+                      <boardgamedesigner objectid="5143">Michał Oracz</boardgamedesigner>
+               <boardgameartist objectid="5143">Michał Oracz</boardgameartist>
+               <boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+               <boardgameartist objectid="114320">Piotr Gacek</boardgameartist>
+               <boardgamedesigner objectid="42812">Krzysztof Piskorski</boardgamedesigner>
+               <boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+               <boardgamedesigner objectid="106124">Marcin Świerkot</boardgamedesigner>
+               <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+               <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="9">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>299</usersrated>
+     <average>8.55376</average>
+     <bayesaverage>5.91824</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2566" bayesaverage="5.91824" />
+            
+           </ranks>
+     
+     <stddev>1.85603</stddev>
+     <median>0</median>
+     <owned>680</owned>
+     <trading>12</trading>
+     <wanting>57</wanting>
+     <wishing>409</wishing>
+     <numcomments>151</numcomments>
+     <numweights>17</numweights>
+     <averageweight>2.7647</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sat, 28 Apr 2018 01:01:01 +0000</listdate>
+    <saledate>Sat, 12 May 2018 10:10:01 +0000</saledate>
+    <price currency='USD'>189.99</price>
+    <condition>new</condition>
+    <notes>Warchest pledge full.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jul 2018 09:28:29 +0000</listdate>
+    <saledate>Mon, 02 Jul 2018 20:10:33 +0000</saledate>
+    <price currency='EUR'>350</price>
+    <condition>new</condition>
+    <notes>Complete War Chest Box. Kickstarter Pledge with all stretch goals in english language.
+I opened the box due to announced shipping problems in the last Kickstarter Update. I checked all parts and everything is fine!
+I already own the game!
+Shipping Germany: 7€
+Shipping Europe: 20€
+Includes:
+- All 6 factions (78 models!)
+- Darkness expansion
+- Bell Crow expansion
+- Abyssal Empress expansion</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jul 2018 07:51:10 +0000</listdate>
+    <saledate>Tue, 17 Jul 2018 11:32:02 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>new</condition>
+    <notes>This is for one Warchest (includes all six factions) and the Darkness stretch goals, which includes the Bell Crow and Abyssal Empress (both the Bell Crow and Abyssal Empress are inside the Darkness box). The Darkness box_T_E_M_P_T_A_G_#039;s plastic wrap was removed so that I could insert the _T_E_M_P_T_A_G_quot;Campaign Secret Envelope_T_E_M_P_T_A_G_quot; that was included in my shipment that is meant to be opened after completing the three campaigns. The Darkness box has an empty slot in its plastic tray that is normally occupied by the Prime Shadow, but the Prime Shadow was an add-on, not a stretch goal, so it is not included. No add-ons are included.
+They are in hand and ready to ship.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Aug 2018 13:06:32 +0000</listdate>
+    <saledate>Fri, 03 Aug 2018 18:32:05 +0000</saledate>
+    <price currency='EUR'>185</price>
+    <condition>new</condition>
+    <notes>Dawnfall Warchest KS with all stretch goals totally unboxed
+Shipping not included (most probably additionally 20.30 €). The game can be sent to destinations in Europe. 
+preferred payment method is bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jul 2018 08:17:11 +0000</listdate>
+    <saledate>Tue, 07 Aug 2018 17:50:25 +0000</saledate>
+    <price currency='EUR'>225</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter Warchest edition
+For shipping costs; please send me a message first.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Aug 2018 13:34:14 +0000</listdate>
+    <saledate>Tue, 07 Aug 2018 20:01:18 +0000</saledate>
+    <price currency='EUR'>299</price>
+    <condition>new</condition>
+    <notes>Complete War Chest Kickstarter Pledge with all stretch goals.
++ Siege Storm Base Game
++ Etherfields Card Pack
++ Campaign Secret Envelope
+Everything new and still in shrink.
+Includes:
+- All 6 factions (78 models!)
+- 420 illustrated action cards + 42 squad cards
+- Game components (4 banner models, 6 custom dice, 8 darkness terrain models, 40 crystal tokens, wooden tokens, 2 cardboard boards 56x84cm each, 36 terrain tiles)
+- Story elements (scenario book, 6 maps, 6 sets of stickers)
+- Darkness expansion (13 models, 47 cards, campaign book and tokens)
+- Bell Crow expansion [Kickstarter Exclusive] (5 models and 17 cards)
+- Abyssal Empress expansion (1 model and 10 cards)
+Available add-ons:
+Cardboard Bosses and Terrain Expansion with Artbook, Storybook and Comicbook (+€79)
+- 6x cardboard standees
+- 30 AI cards
+- 12 additional scenarios
+- 8x cardboard portal
+- 8x cardboard tokens
+- 12x cardboard objectives
+- 12x terrain cards
+- 8 additional scenarios
+Shipping with PostNL:
+Belgium: €6,50
+Luxembourg, The Netherlands: €10,50
+France, England, Germany: €15,50
+Spain, Italy: €18,50
+Sweden: €21,50
+USA: €58,30
+Shipping with BPost:
+Belgium: €6,00
+The Netherlands, Luxembourg, Germany, France, England: €16,40
+Rest of European Union: €49,20
+Rest of Europe and USA: €65,60
+Rest of World: €131,20
+Shipping with DPD:
+Belgium: €6,00
+Germany, Luxembourg, The Netherlands: €10,00
+Denmark, Estonia, France, Hungary, Ireland, Italy, Latvia, Lithuania, Austria, Poland: €23,00
+Bulgaria, Finland, Greece, Croatia, Portugal, Romania, Spain: €30</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Aug 2018 21:10:34 +0000</listdate>
+    <saledate>Sat, 18 Aug 2018 03:13:00 +0000</saledate>
+    <price currency='USD'>700</price>
+    <condition>new</condition>
+    <notes>This is not for the core game. This is what you get for this listing, includes shipping to any USA address.
+• Full terrain bundle
+• Father of the Sun
+• All Bosses bundle
+[ImageID=4259512]</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Sep 2018 17:53:37 +0000</listdate>
+    <saledate>Tue, 04 Sep 2018 13:34:01 +0000</saledate>
+    <price currency='EUR'>290</price>
+    <condition>new</condition>
+    <notes>New in shrink. Full Warchest pledge with darkness expansion and all kickstarter extras. Will accept bank transfer or cash (pickup) as well.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Sep 2018 13:57:12 +0000</listdate>
+    <saledate>Wed, 05 Sep 2018 01:56:33 +0000</saledate>
+    <price currency='EUR'>99</price>
+    <condition>new</condition>
+    <notes>Add-on for The Edge Dawnfall
+Cardboard Bosses and Terrain Expansion with Artbook, Storybook and Comicbook
+Contains:
+- 6x cardboard standees
+- 30 AI cards
+- 12 additional scenarios
+- 8x cardboard portal
+- 8x cardboard tokens
+- 12x cardboard objectives
+- 12x terrain cards
+- 8 additional scenarios
+Shipping with PostNL:
+Belgium: €5,90
+Luxembourg, The Netherlands: €8,50
+France, England, Germany: €13,50
+Spain, Italy: €16,50
+Sweden: €19,50
+USA: €32,50
+Shipping with BPost:
+Belgium: €6,00
+The Netherlands, Luxembourg, Germany, France, England: €16,40
+Rest of European Union: €32,80
+Rest of Europe and USA: €32,80
+Rest of World: €65,60
+Shipping with DPD:
+Belgium: €6,00
+Germany, Luxembourg, The Netherlands: €10,00
+Denmark, Estonia, France, Hungary, Ireland, Italy, Latvia, Lithuania, Austria, Poland, Slovakia, Slovenia, Czech Republic, UK, Sweden: €23,00
+Bulgaria, Finland, Greece, Croatia, Portugal, Romania, Spain: €30</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Aug 2018 02:36:36 +0000</listdate>
+    <saledate>Wed, 05 Sep 2018 17:14:18 +0000</saledate>
+    <price currency='USD'>390</price>
+    <condition>new</condition>
+    <notes>Hot off the press and ready to be played. One complete in the shrinkwrap game with the Darkness add-on is up for grabs. The game weighs about 10 kgs full of beautiful minis.
+Only selling cause I accidently got 2 sets. Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Sep 2018 23:59:56 +0000</listdate>
+    <saledate>Thu, 06 Sep 2018 15:14:30 +0000</saledate>
+    <price currency='USD'>500</price>
+    <condition>new</condition>
+    <notes>Complete War Chest Kickstarter Pledge with all stretch goals. (This is not the Big Box Pledge, so it does not include the bonus Comic Book, Art Book, And Story Book+)
++ Siege Storm Base Game
++ Etherfields Card Pack
++ Campaign Secret Envelope
+http://awakenrealms.com/wp-content/uploads/2016/11/4_Warchest-INSIDE-23.jpg
+Includes:
+- All 6 factions (78 models!)
+- 420 illustrated action cards + 42 squad cards
+- Game components (4 banner models, 6 custom dice, 8 darkness terrain models, 40 crystal tokens, wooden tokens, 2 cardboard boards 56x84cm each, 36 terrain tiles)
+- Story elements (scenario book, 6 maps, 6 sets of stickers)
+- Darkness expansion (13 models, 47 cards, campaign book and tokens)
+- Bell Crow expansion [Kickstarter Exclusive] (5 models and 17 cards)
+- Abyssal Empress expansion (1 model and 10 cards)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Aug 2018 18:49:55 +0000</listdate>
+    <saledate>Fri, 07 Sep 2018 03:21:49 +0000</saledate>
+    <price currency='USD'>175</price>
+    <condition>likenew</condition>
+    <notes>Faceless vs. Reborn with Demon extra faction and KS extras (Darkness).
+Punched. Played once.
+$20 shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Mar 2018 16:15:56 +0000</listdate>
+    <saledate>Sat, 08 Sep 2018 23:07:18 +0000</saledate>
+    <price currency='USD'>234</price>
+    <condition>new</condition>
+    <notes>IN HAND
+Kickstarter The Edge: Dawnfall
+Conflict Box: Rha-Zack vs. Dvergar
+Includes 3rd Faction: Faceless Faction
+Including ALL Stretch Goals _T_E_M_P_T_A_G_amp; Kickstarter Exclusives:
+Darkness Faction
+Bell Crow Expansion
+Abyssal Empress Expansion
+Elite Squads for all included factions
+This game is NOT planned to go into retail.
+See images for everything included.
+Excludes any additional Kickstarter purchasable add-on_T_E_M_P_T_A_G_#039;s.
+If you have any questions please feel free to ask.
+I am offering multiple shipping options. Pick which you prefer!
+Contents:
+Rha-Zack vs. Dvergar factions from conflict box (26 models)
+Faceless faction (13 models)
+210 illustrated action cards and 21 squad cards
+Other game components (2 Banners, 2 custom dice, 20 crystal tokens, 4 darkness terrain models, 18 terrain tiles, Cardboard Board 56x84cm, game wooden tokens, Scenario book, 4 maps and 4 sets of stickers)
+Additional Kickstarter Stretch Goals free with the order:
+Darkness expansion (13 models, 47 cards, campaign book and tokens)
+Bell Crow expansion [Kickstarter Exclusive] (5 models and 17 cards)
+Abyssal Empress expansion (1 model and 10 cards)
+Elite Squads for each faction (9 models with cards)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Sep 2018 19:51:38 +0000</listdate>
+    <saledate>Thu, 20 Sep 2018 00:24:53 +0000</saledate>
+    <price currency='USD'>375</price>
+    <condition>likenew</condition>
+    <notes>Warchest Pledge
+Shrink removed, but contents are unpunched/unplayed. Comes in 2 boxes - main warchest box with 6 factions and a separate box for the stretch goals (Darkness and others)
+Does not include the promos for Etherfields (deck of playing cards) and Siege Storm. If those are important to you, let me know.
+Including (copied from the pledge confirmation I received):
+- All 6 factions (78 models!)
+- 420 ilustrated action cards + 42 squad cards
+- Game components (4 banners, 6 custom dice, 8 darkness terrain models, 40 crystal tokens, wooden tokens, 2 cadrboard boards 56x84cm each, 36 terrain tiles)
+- Story elements (scenario book, 6 maps, 6 sets of stickers)
+Additional Kickstarter Stretch Goals free with the order:
+Darkness expansion (13 modles, 47 cards, campaign book and tokens)
+Bell Crow expansion [Kickstarter Exclusive] (5 models and 17 cards)
+Abyssal Empress expansion (1 model and 10 cards)
+Graphic showing contents:
+http://awakenrealms.com/wp-content/uploads/2016/11/4_Warchest-INSIDE-23.jpg</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Oct 2018 23:27:12 +0000</listdate>
+    <saledate>Fri, 12 Oct 2018 23:37:14 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>likenew</condition>
+    <notes>Opened, but un-punched. Never played.
+Complete War Chest Kickstarter Pledge with all stretch goals. (This is not the Big Box Pledge, so it does not include the bonus Comic Book, Art Book, And Story Book)
++ Siege Storm Base Game
++ Etherfields Card Pack
++ Campaign Secret Envelope
+Includes:
+- All 6 factions (78 models!)
+- 420 illustrated action cards + 42 squad cards
+- Game components (4 banner models, 6 custom dice, 8 darkness terrain models, 40 crystal tokens, wooden tokens, 2 cardboard boards 56x84cm each, 36 terrain tiles)
+- Story elements (scenario book, 6 maps, 6 sets of stickers)
+- Darkness expansion (13 models, 47 cards, campaign book and tokens)
+- Bell Crow expansion [Kickstarter Exclusive] (5 models and 17 cards)
+- Abyssal Empress expansion (1 model and 10 cards)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Sep 2018 07:27:23 +0000</listdate>
+    <saledate>Thu, 18 Oct 2018 16:35:17 +0000</saledate>
+    <price currency='EUR'>300</price>
+    <condition>likenew</condition>
+    <notes>Complete War Chest Kickstarter Pledge with all stretch goals.
++ Siege Storm Base Game
++ Etherfields Card Pack
++ Campaign Secret Envelope
+Includes:
+- All 6 factions (78 models!)
+- 420 illustrated action cards + 42 squad cards
+- Game components (4 banner models, 6 custom dice, 8 darkness terrain models, 40 crystal tokens, wooden tokens, 2 cardboard boards 56x84cm each, 36 terrain tiles)
+- Story elements (scenario book, 6 maps, 6 sets of stickers)
+- Darkness expansion (13 models, 47 cards, campaign book and tokens)
+- Bell Crow expansion [Kickstarter Exclusive] (5 models and 17 cards)
+- Abyssal Empress expansion (1 model and 10 cards)
+Essen pickup possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Oct 2018 20:32:48 +0000</listdate>
+    <saledate>Sun, 21 Oct 2018 06:30:25 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>verygood</condition>
+    <notes>This is the war chest.
+Great Condition, played only a few times for review. No mini_T_E_M_P_T_A_G_#039;s broken, which can happen even with new versions. 
+Mostly sleeved, used high quality FFG sleeves. Will include several packs to continue with sleeving. 
+Removed awful box inserts, and will bag each faction and pack well. 
+Comes with the Darkness Expansion, Solo Campaign, and 3 competitive campaigns. Sticker Sheets still bound and untouched.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Oct 2018 22:38:40 +0000</listdate>
+    <saledate>Sun, 28 Oct 2018 23:33:40 +0000</saledate>
+    <price currency='USD'>264</price>
+    <condition>likenew</condition>
+    <notes>Complete War Chest Kickstarter Pledge with all stretch goals. 
++ Siege Storm Base Game
++ Etherfields Card Pack
++ Campaign Secret Envelope
+Includes:
+- All 6 factions (78 models!)
+- 420 illustrated action cards + 42 squad cards
+- Game components (4 banner models, 6 custom dice, 8 darkness terrain models, 40 crystal tokens, wooden tokens, 2 cardboard boards 56x84cm each, 36 terrain tiles)
+- Story elements (scenario book, 6 maps, 6 sets of stickers)
+- Darkness expansion (13 models, 47 cards, campaign book and tokens)
+- Bell Crow expansion [Kickstarter Exclusive] (5 models and 17 cards)
+- Abyssal Empress expansion (1 model and 10 cards)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2018 21:32:19 +0000</listdate>
+    <saledate>Sat, 08 Dec 2018 14:16:17 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This item corresponds to an auction listing won by Denis Papp (bgg user denis) in my recent auction. This listing is for the Darkness faction box, also containing the Bell Crow miniature and the Abyssal Empress expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Sep 2018 17:06:09 +0000</listdate>
+    <saledate>Wed, 12 Dec 2018 16:27:23 +0000</saledate>
+    <price currency='USD'>672</price>
+    <condition>new</condition>
+    <notes>Complete War Chest Kickstarter Pledge with all stretch goals. (INCLUDING!! Comic Book, Art Book, And Story Book)
++ Siege Storm Base Game
++ Etherfields Card Pack
++ Campaign Secret Envelope
+http://awakenrealms.com/wp-content/uploads/2016/11/4_Warchest-INSIDE-23.jpg
+Includes:
+- All 6 factions (78 models!)
+- 420 illustrated action cards + 42 squad cards
+- Game components (4 banner models, 6 custom dice, 8 darkness terrain models, 40 crystal tokens, wooden tokens, 2 cardboard boards 56x84cm each, 36 terrain tiles)
+- Story elements (scenario book, 6 maps, 6 sets of stickers)
+- Darkness expansion (13 models, 47 cards, campaign book and tokens)
+- Bell Crow expansion [Kickstarter Exclusive] (5 models and 17 cards)
+- Abyssal Empress expansion (1 model and 10 cards)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Dec 2018 21:53:35 +0000</listdate>
+    <saledate>Fri, 14 Dec 2018 21:37:36 +0000</saledate>
+    <price currency='GBP'>200</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter Exclusive Warchest Pledge
+Includes:
+- Prime Shadow Expansion
+- Darkness Expansion
+- Siege Storm Base Game
+- Etherfields Card Pack
+- Campaign Secret Envelope
+The inner box arrived with a small split, which I have a replacement on the way for.
+I will forward this onto the buyer when it arrives (free UK postage).
+Price does not include shipping and fees.
+Worldwide shipping available, please get in touch for a quote!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Dec 2018 10:00:15 +0000</listdate>
+    <saledate>Thu, 31 Jan 2019 09:14:57 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>[b]Darkness faction [/b]expansion in its box, still in shrink. I_T_E_M_P_T_A_G_#039;m selling this along with the Stretch Goals rulebook.
+They are all new and in English.
+25 € +shipping</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

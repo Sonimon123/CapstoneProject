@@ -1,0 +1,776 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="142961">
+   <yearpublished>2013</yearpublished>
+   <minplayers>1</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Thunderstone Advance: Numenera</name>
+         
+   <description>Game description from the publisher:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The ancient evil known as Doom has decided to make a change. In this new world of Numenera, Doom has manifested as an intelligent virus that controls its hosts. The infected are known as _T_E_M_P_T_A_G_amp;quot;Doomladen_T_E_M_P_T_A_G_amp;quot; and they know each other regardless of a host's external form. They are lead by powerful beings with strange relics _T_E_M_P_T_A_G_amp;ndash; the Thunderstones _T_E_M_P_T_A_G_amp;ndash; and once again you must defeat them to save the world._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;In the deck-building game Thunderstone Advance: Numenera, which can be played on its own or combined with other Thunderstone sets, you build a party of heroes to defeat the Thunderstone Bearers. The _T_E_M_P_T_A_G_amp;quot;Doomladen_T_E_M_P_T_A_G_amp;quot; mechanism introduced in this game unites various monster groups against you, and new Setting cards take you into the environment of Monte Cook's Numenera RPG._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/9g_LOW8pTdyRDj8TdbIyZCpDK-o=/fit-in/200x150/pic1683747.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/3Ft5kVWkBpOmKRQmIItzjpIhPu8=/0x0/pic1683747.jpg</image>
+      
+            <boardgamepublisher objectid="396">Alderac Entertainment Group</boardgamepublisher>
+               <boardgamedesigner objectid="75504">Joe Babbitt</boardgamedesigner>
+               <boardgamedesigner objectid="75464">Will M. Baker</boardgamedesigner>
+               <boardgamedesigner objectid="13362">Edward Bolme</boardgamedesigner>
+               <boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+               <boardgamedesigner objectid="75534">Curt Crane</boardgamedesigner>
+               <boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+               <boardgamedesigner objectid="615">Mike Elliott</boardgamedesigner>
+               <boardgameversion objectid="209675">English edition</boardgameversion>
+                                    <boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+                             <boardgameversion objectid="219333">German edition</boardgameversion>
+                      <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+                      <boardgameartist objectid="43387">Guido Kuip</boardgameartist>
+               <boardgameartist objectid="47549">Brynn Metheney</boardgameartist>
+               <boardgamepodcastepisode objectid="138743">MN 0044 Thunderstone _T_E_M_P_T_A_G_amp;amp; Thunderstone Advance</boardgamepodcastepisode>
+               <boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
+                      <boardgamedesigner objectid="8480">Jeff Quick</boardgamedesigner>
+                      <boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamepodcastepisode objectid="109540">TGG Episode 55: Game Designer John Welch, Cheaty Mages, Cuba Libre, Numenera, Moonbase Alpha and More!</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+               <boardgamefamily objectid="5321">Thunderstone</boardgamefamily>
+               <boardgamefamily objectid="26097">Thunderstone Advance</boardgamefamily>
+               <boardgameexpansion objectid="122967">Thunderstone Advance: Caverns of Bane</boardgameexpansion>
+               <boardgameexpansion objectid="158727">Thunderstone Advance: Into the Abyss</boardgameexpansion>
+               <boardgameexpansion objectid="131306">Thunderstone Advance: Root of Corruption</boardgameexpansion>
+               <boardgameintegration objectid="116998">Thunderstone Advance: Towers of Ruin</boardgameintegration>
+               <boardgameintegration objectid="152765">Thunderstone Advance: Worlds Collide</boardgameintegration>
+               <boardgameexpansion objectid="121007">Thunderstone Avatars</boardgameexpansion>
+               <boardgameimplementation objectid="215341">Thunderstone Quest</boardgameimplementation>
+               <boardgameartist objectid="69773">Adrian Wilkins</boardgameartist>
+               <boardgamedesigner objectid="46012">Mark Wootton</boardgamedesigner>
+               <boardgameimplementation objectid="53953" inbound="true">Thunderstone</boardgameimplementation>
+               <boardgameintegration objectid="116998" inbound="true">Thunderstone Advance: Towers of Ruin</boardgameintegration>
+               <boardgameintegration objectid="152765" inbound="true">Thunderstone Advance: Worlds Collide</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="10" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="9" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="14" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1173</usersrated>
+     <average>7.36885</average>
+     <bayesaverage>6.40709</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1080" bayesaverage="6.40709" />
+            
+       
+              <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="201" bayesaverage="6.70525" />
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="549" bayesaverage="6.56707" />
+            
+           </ranks>
+     
+     <stddev>1.39287</stddev>
+     <median>0</median>
+     <owned>2792</owned>
+     <trading>152</trading>
+     <wanting>112</wanting>
+     <wishing>410</wishing>
+     <numcomments>234</numcomments>
+     <numweights>61</numweights>
+     <averageweight>2.7049</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 21 Oct 2013 18:25:34 +0000</listdate>
+    <saledate>Fri, 09 May 2014 12:34:54 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THUNDERSTONE ADVANCE - NUMENERA: $37.95
+Alderac Entertainment Group [AEG 5024]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Oct 2013 18:32:53 +0000</listdate>
+    <saledate>Wed, 12 Mar 2014 05:20:51 +0000</saledate>
+    <price currency='USD'>37.49</price>
+    <condition>new</condition>
+    <notes>Alderac Entertainment Group (AEG5024)
+Doom was driven out of Tala. Defeated a second time, Doom sought out another world to conquer and a new method of doing so. It found the Ninth World, Numenera. Home to heroes and monsters unlike any seen before, Numenera plays host to Doom_T_E_M_P_T_A_G_#039;s attempt to seize control by taking the form of a virus, infecting those now known as Doomladen. These creatures can be human, beasts, or monsters, but all recognize one another and their common master. Can the heroes survive when potentially anyone or anything could be a servant of Doom? Thunderstone Advance: Numenera takes the adventure of Thunderstone to the world of Monte Cook_T_E_M_P_T_A_G_#039;s Numenera. This set features creatures and heroes from the Numenera role-playing game, and expands your Thunderstone set with many new and exciting cards and abilities. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Nov 2013 00:44:55 +0000</listdate>
+    <saledate>Sat, 30 Nov 2013 00:48:15 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>NIS-reserved for Vydar</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Dec 2013 22:42:52 +0000</listdate>
+    <saledate>Wed, 05 Feb 2014 04:47:02 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>100% complete, like new!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Dec 2013 01:50:04 +0000</listdate>
+    <saledate>Sat, 07 Dec 2013 04:17:29 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Cards opened and sorted using dividers, and tokens punched, sorted, and bagged.  Otherwise, game is untouched and unplayed.  Setting cards still sealed.  All components present.
+Stored in non-smoking household without pets.
+Selling due to lack of spousal interest.
+Ships from Arlington, VA, 22204, via lowest cost option among USPS Standard, USPS Priority, and UPS.  Shipping will include tracking and insurance.
+Shipping weight approx. 6 lbs.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Dec 2013 11:59:36 +0000</listdate>
+    <saledate>Fri, 20 Dec 2013 23:02:03 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>likenew</condition>
+    <notes>played twice. Me/my group don_T_E_M_P_T_A_G_#039;t enjoy deck builders it seems.
+postage can be calculated by myhermes/royal mail,or i_T_E_M_P_T_A_G_#039;ll do it once contact has been made. I will only send via some form of tracked or recorded mail. postage can be combined for multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Feb 2014 12:32:01 +0000</listdate>
+    <saledate>Thu, 27 Feb 2014 08:41:56 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Opened, played once. In very good condition.
+Will ship to the UK only. Shipped via MyHermes to your door.
+Payment via Paypal or Amazon gift certificate. 
+Postage cost £5.40
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Mar 2014 16:15:51 +0000</listdate>
+    <saledate>Sat, 08 Mar 2014 17:05:14 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This is for auction winner cbrua. Please DO NOT buy unless you are him.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Mar 2014 00:01:56 +0000</listdate>
+    <saledate>Tue, 18 Mar 2014 02:55:58 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This is for Thunderstone Numenara sold at auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 May 2014 11:07:58 +0000</listdate>
+    <saledate>Mon, 07 Jul 2014 08:47:19 +0000</saledate>
+    <price currency='EUR'>49.99</price>
+    <condition>new</condition>
+    <notes>Thunderstone Advance: Numenera
+English first edition
+Publisher: Alderac Entertainment Group</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jun 2014 22:03:08 +0000</listdate>
+    <saledate>Thu, 26 Jun 2014 16:30:13 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This is for Numenera RPG corebook for BGG user captforest only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Sep 2014 02:23:45 +0000</listdate>
+    <saledate>Sun, 21 Sep 2014 18:29:14 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played twice.  Everything is in very good shape.
+Depending on where you live shipping costs $7-16.  Games get mailed USPS Priority and typically go out the business day after payment is received.  Feel free to ask for a shipping estimate.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Mar 2015 15:08:39 +0000</listdate>
+    <saledate>Tue, 03 Mar 2015 15:31:13 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187484/item/3744150#3744150]Item for Geeklist _T_E_M_P_T_A_G_quot;[U.S. Only] Small, First-Time Auction._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Feb 2015 02:21:30 +0000</listdate>
+    <saledate>Mon, 16 Mar 2015 01:28:16 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Game complete. Game opened and sorted, never played. Stored in non-smoking home.
+Item will be sent USPS. Buyer agrees to pay actual shipping and packaging costs, including tracking and insurance if desired. Shipping cost to be determined after sale.
+As an estimate - the game does fit into a medium sized flat rate box, which costs $12.95 and includes tracking and insurance.
+PM me if there are any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Apr 2015 10:39:52 +0000</listdate>
+    <saledate>Thu, 07 May 2015 08:54:11 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>Only played a handful of times - all components are in mint condition.
+Pay via PayPal (or Bank Transfer for German residents).
+Shipping approx. 5 - 18 euros depending on your location.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jun 2015 20:52:36 +0000</listdate>
+    <saledate>Mon, 01 Jun 2015 22:03:59 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>This also includes the expansions Tower of Ruin Advance and Into the Abyss Advance.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Jun 2015 19:34:04 +0000</listdate>
+    <saledate>Tue, 16 Jun 2015 23:49:32 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>reserved for user darkimage4
+This sale has been auto-generated for the auction: [geekurl=/geeklist/190695/item/3946997#3946997]Item for Geeklist _T_E_M_P_T_A_G_quot;2015 Dice Tower Convention Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Aug 2015 02:48:39 +0000</listdate>
+    <saledate>Sat, 03 Oct 2015 02:41:39 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>verygood</condition>
+    <notes>Complete and in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Oct 2015 19:31:14 +0000</listdate>
+    <saledate>Mon, 26 Oct 2015 22:12:48 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/188821/item/4009218#4009218]Item for Geeklist _T_E_M_P_T_A_G_quot;Stem the Tide_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Nov 2015 15:05:00 +0000</listdate>
+    <saledate>Sun, 01 Nov 2015 15:12:05 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Game Auction winner Mosker.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Nov 2015 14:22:02 +0000</listdate>
+    <saledate>Mon, 23 Nov 2015 20:50:32 +0000</saledate>
+    <price currency='EUR'>47.5</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Dec 2015 04:09:06 +0000</listdate>
+    <saledate>Thu, 10 Dec 2015 14:52:26 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/200364/item/4306842#4306842]Item for Geeklist _T_E_M_P_T_A_G_quot;Final Hours: 150+ games, Pickup in STL available. Ships from STL. Ends Tonight 8pm CST_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For JohnTes only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Nov 2015 20:38:10 +0000</listdate>
+    <saledate>Tue, 15 Dec 2015 15:57:06 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Only played it once or twice.  Willing to do direct pick up if you are local to Philadelphia_T_E_M_P_T_A_G_#039;s eastern suburbs, otherwise, shipping costs will apply.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Dec 2015 00:23:14 +0000</listdate>
+    <saledate>Sun, 03 Jan 2016 21:28:35 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>good</condition>
+    <notes>The box has a little crumple on one of the corners, the components are like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jul 2015 17:16:52 +0000</listdate>
+    <saledate>Tue, 05 Jan 2016 02:12:18 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Everything is verified complete and in very good condition. This is a fun game, I just don_T_E_M_P_T_A_G_#039;t get it to the table often enough to justify keeping it if I can get a good price for it instead.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Nov 2015 18:15:28 +0000</listdate>
+    <saledate>Wed, 17 Feb 2016 21:08:26 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Includes the regular and the foil boxes</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jan 2016 22:07:38 +0000</listdate>
+    <saledate>Fri, 04 Mar 2016 16:04:40 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 17:51:53 +0000</listdate>
+    <saledate>Sat, 05 Mar 2016 10:11:43 +0000</saledate>
+    <price currency='EUR'>47.5</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Mar 2016 21:23:31 +0000</listdate>
+    <saledate>Fri, 18 Mar 2016 22:55:42 +0000</saledate>
+    <price currency='USD'>140</price>
+    <condition>new</condition>
+    <notes>This also includes a copy of Thunrderstone Advance: Worlds Collide.
+This is an auction item that is reserved for jasemhen.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Sep 2015 20:08:42 +0000</listdate>
+    <saledate>Tue, 22 Mar 2016 14:49:32 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>Ships only to Greece.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Feb 2016 00:10:35 +0000</listdate>
+    <saledate>Sun, 10 Apr 2016 21:52:24 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink Wrap
+Buyer pays Shipping from 90278
+Here are the other key stats so you can easily calculate estimated shipping costs :
+Dimensions are 13x16x6
+Weight approx 6.4lbs</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Apr 2016 17:47:30 +0000</listdate>
+    <saledate>Tue, 19 Apr 2016 00:44:27 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Played once, great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Mar 2016 19:58:51 +0000</listdate>
+    <saledate>Tue, 03 May 2016 13:36:58 +0000</saledate>
+    <price currency='CAD'>90</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Jul 2016 14:51:20 +0000</listdate>
+    <saledate>Sat, 16 Jul 2016 14:56:19 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198570/item/4720398#4720398]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION - International - Study in Emerald 1st Edition, WoW Board Game and more_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Sep 2016 19:50:47 +0000</listdate>
+    <saledate>Sun, 18 Sep 2016 23:00:14 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>verygood</condition>
+    <notes>Please do not purchase this unless you won the auction from me.  
+This item is reserved for a specific user.
+Comes with numenera, caverns of bane, worlds collide and starters set.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Sep 2016 12:31:26 +0000</listdate>
+    <saledate>Tue, 20 Sep 2016 21:07:06 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for LuluChia for the math trade offer [listitem=4852485][/listitem] found in [geeklist=212782][/geeklist].
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t provide the corresponding money offer in the trade chain!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Oct 2016 13:49:50 +0000</listdate>
+    <saledate>Tue, 11 Oct 2016 10:05:42 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Box opened and punched, but otherwise all contents like new.  Buyer to pay $10 S_T_E_M_P_T_A_G_amp;H.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Oct 2016 20:39:58 +0000</listdate>
+    <saledate>Fri, 14 Oct 2016 00:32:02 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>new in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2016 08:15:26 +0000</listdate>
+    <saledate>Sun, 16 Oct 2016 19:01:58 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>This copy of _T_E_M_P_T_A_G_quot;Thunderstone Advance: Numenera_T_E_M_P_T_A_G_quot; was only played twice with care. All game components are like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Oct 2016 06:00:44 +0000</listdate>
+    <saledate>Tue, 18 Oct 2016 15:42:04 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>In amazing condition. Never been played. All cards sleeved.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Oct 2016 16:09:02 +0000</listdate>
+    <saledate>Wed, 26 Oct 2016 20:11:34 +0000</saledate>
+    <price currency='GBP'>55</price>
+    <condition>verygood</condition>
+    <notes>Thunderstone Advance: Numenera.
+Excellent condition.
+All cards counted and present.
+Shipping included in price.
+UK only.
+Can be collected from Manchester for a 10% discount.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2016 13:29:09 +0000</listdate>
+    <saledate>Mon, 14 Nov 2016 14:49:00 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>***RESERVED FOR neub***
+Like new. Buyer pays actual shipping from 78640.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Nov 2016 16:24:41 +0000</listdate>
+    <saledate>Mon, 21 Nov 2016 19:52:52 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Played twice.
+Shipping cost exact based on weight and distance from 43004 zip code.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Nov 2016 10:25:39 +0000</listdate>
+    <saledate>Sat, 10 Dec 2016 10:48:02 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Product is opened but unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Oct 2016 12:51:36 +0000</listdate>
+    <saledate>Sun, 18 Dec 2016 22:20:55 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>new</condition>
+    <notes>Still in shrink. Shipping is $15.00. From a nonsmoking petfree home. Excellent condition
+This game can be played on its own or combined with other Thunderstone games.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Dec 2016 00:29:06 +0000</listdate>
+    <saledate>Sat, 31 Dec 2016 01:40:22 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Shipping via usps Priority mail, Rate is 13.45.  Item will ship after payment clears, typically one day.
+IMPORTANT: If paying on paypal via Credit Card you must cover the 2.9% + .30 usd fee. Ex for $100.00 Usd sent the fee is $3.20 (2.90 + .30) if this is not done the payment will be returned to you. 
+Any questions feel free to geekmail me thanks for looking :)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jan 2017 06:34:17 +0000</listdate>
+    <saledate>Thu, 19 Jan 2017 00:05:51 +0000</saledate>
+    <price currency='USD'>59.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Nov 2016 15:05:57 +0000</listdate>
+    <saledate>Thu, 26 Jan 2017 07:15:47 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>Box with wear signs, cards in good conditions.
+Payment with Bank Transfer, or Paypal (the buyer will pay the PayPal fees and the shipping costs)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Dec 2016 16:43:05 +0000</listdate>
+    <saledate>Fri, 27 Jan 2017 03:01:14 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and in excellent condition. Game comes from a  smoke-free home and ships from 17538 (price includes shipping). 
+Private sale for user: raujour
+Please do not purchase.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Feb 2017 22:31:16 +0000</listdate>
+    <saledate>Wed, 15 Feb 2017 10:12:00 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Aug 2016 17:37:36 +0000</listdate>
+    <saledate>Sat, 18 Feb 2017 11:33:21 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>Played once - fantastic condition.
+Includes also Thunderstone: Starter Set (I threw away the box and put all the cards together into the Thunderstone Advance Box) - also played once.
+https://boardgamegeek.com/boardgame/140951/thunderstone-starter-set
+Shipping in Germany 5 Euro.
+Shipping elsewhere around 15 Euro.
+Przesyłka do Polski około 20 zł.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Sep 2016 12:36:46 +0000</listdate>
+    <saledate>Mon, 06 Mar 2017 11:11:25 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Mar 2017 20:52:33 +0000</listdate>
+    <saledate>Tue, 07 Mar 2017 12:33:02 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Auction win for Cksprink
+Do not purchase unless you are this user. Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Jun 2017 01:27:47 +0000</listdate>
+    <saledate>Tue, 27 Jun 2017 04:08:53 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Brand new, never played, still in shrink. Other expansions available.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 May 2017 15:13:15 +0000</listdate>
+    <saledate>Wed, 05 Jul 2017 16:18:56 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Mint played twice
+sold to user timosil</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jun 2017 10:16:23 +0000</listdate>
+    <saledate>Sun, 16 Jul 2017 18:38:00 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>Shipping is 4 Euros via Kiala to Netherlands. 7 Euros to Belgium, Luxembourg, France, or Spain.
+I accept payment via bank transfer or Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Apr 2017 19:12:17 +0000</listdate>
+    <saledate>Tue, 19 Sep 2017 21:43:12 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Only played once.  All cards unsleeved but in mint condition, comes from a smoke free home.  Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Oct 2017 03:20:36 +0000</listdate>
+    <saledate>Tue, 14 Nov 2017 14:44:04 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>All cards WERE sleeved when played.  Cards are like new. Played approximately 5 Times.  Box has super slight tear on corner (pictured).  Board has slight tear, but has no effect on gameplay (pictured).  This just doesn’t hit the table very often. My group prefers deck builders like Clank!.  So I’m making space for new games.  :-)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Mar 2017 16:36:00 +0000</listdate>
+    <saledate>Fri, 08 Dec 2017 11:42:48 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>Played the game two times.
+Shipping within Germany: 6€ 
+Other EU-countries: ask for informations</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Feb 2018 10:01:12 +0000</listdate>
+    <saledate>Thu, 15 Feb 2018 17:29:02 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Ships from 50024</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Feb 2018 13:11:15 +0000</listdate>
+    <saledate>Fri, 23 Feb 2018 02:43:54 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Opened and played a few times.
+*NOTE* Also contains Thunderstone Advance: Caverns of Bane in the same box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Jan 2018 16:15:27 +0000</listdate>
+    <saledate>Sat, 17 Mar 2018 08:11:46 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in Shink,
+Check out my other items for combined shipping!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Feb 2018 17:26:01 +0000</listdate>
+    <saledate>Thu, 12 Apr 2018 04:13:44 +0000</saledate>
+    <price currency='CAD'>122.5</price>
+    <condition>verygood</condition>
+    <notes>From Auction, for User Abslom_Daak.
+Please do not purchase unless you are this user.
+Bundle Includes:
+Thunderstone Advance Numenera
+Conquest of Speros
+Covert
+Draconis Invasion
+Dungeon Time
+Buyer is responsible for shipping costs. 
+If multiple games are purchased, I am willing to combine shipping. 
+Please let me know if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Mar 2018 16:51:04 +0000</listdate>
+    <saledate>Sun, 22 Apr 2018 13:10:15 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>only played once, complete</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Apr 2018 23:52:05 +0000</listdate>
+    <saledate>Wed, 25 Apr 2018 13:11:50 +0000</saledate>
+    <price currency='CAD'>26</price>
+    <condition>verygood</condition>
+    <notes>English
+extensive use of text
+Check out the other games I am selling!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Mar 2018 17:45:18 +0000</listdate>
+    <saledate>Fri, 27 Apr 2018 02:22:33 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>verygood</condition>
+    <notes>Cards are sleeved. Only played one time.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 May 2018 15:07:03 +0000</listdate>
+    <saledate>Fri, 08 Jun 2018 20:19:41 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Still in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jun 2018 17:54:01 +0000</listdate>
+    <saledate>Mon, 11 Jun 2018 12:40:13 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Jul 2018 16:56:41 +0000</listdate>
+    <saledate>Thu, 19 Jul 2018 22:31:30 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>new</condition>
+    <notes>New in shrink - PLEASE NOTE: Minor box bash to one corner
+Post to UK: £5</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jun 2018 13:57:43 +0000</listdate>
+    <saledate>Sun, 29 Jul 2018 07:17:21 +0000</saledate>
+    <price currency='USD'>54</price>
+    <condition>likenew</condition>
+    <notes>As new.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jul 2018 00:40:08 +0000</listdate>
+    <saledate>Tue, 31 Jul 2018 03:15:57 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243459/item/6258827#6258827]Item for Geeklist _T_E_M_P_T_A_G_quot;Giant Purge!  GENCON Pickup Available - US Shipping Only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jul 2018 11:25:42 +0000</listdate>
+    <saledate>Mon, 27 Aug 2018 13:42:47 +0000</saledate>
+    <price currency='USD'>47.98</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Sep 2018 15:08:41 +0000</listdate>
+    <saledate>Thu, 25 Oct 2018 01:38:08 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Shipping is $18.90. All cards are sleeved.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Nov 2018 01:05:21 +0000</listdate>
+    <saledate>Wed, 07 Nov 2018 01:19:23 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/247436/item/6491484#6491484]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction to Minimize My Collection - Ending Nov. 5th_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Jan 2019 09:58:09 +0000</listdate>
+    <saledate>Sun, 17 Feb 2019 23:34:27 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Paypal: +1,5€ for fees</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

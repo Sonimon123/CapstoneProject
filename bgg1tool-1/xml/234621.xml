@@ -1,0 +1,562 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="234621">
+   <yearpublished>2017</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>30</playingtime>
+   <minplaytime>30</minplaytime>
+   <maxplaytime>30</maxplaytime>
+   <age>8</age>
+       <name primary="true" sortindex="1">Tybor der Baumeister</name>
+       <name  sortindex="1">Tybor The Builder</name>
+         
+   <description>Tybor der Baumeister is set in the world of Longsdale, previously seen in Oh My Goods! and its expansions._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;During the game, each player receives a hand of five multipurpose cards, each depicting a professional (priest, soldier, merchant, craftsman, etc.) who has come to Longsdale. After choosing a card to draft, the remaining cards are passed to the next player, then you may choose how to play your chosen card:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    As a worker, only the strength is relevant. The card is placed in the player's tableau._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    As a builder, this person is discarded, then you can build a building from the existing supply, discarding workers with a certain strength to build it._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    As a citizen in the city, they provide special powers and facilitate the building of certain buildings._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;After a predetermined number of rounds, the point values of the buildings are summed, and whoever has the most points wins._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Tybor der Baumeister contains _T_E_M_P_T_A_G_amp;quot;chapters_T_E_M_P_T_A_G_amp;quot; and scenarios set during Tybor's lifespan that serve as variants for tasks or rules of play, with 32 possible combinations. With two copies of the game, up to eight players can compete at once._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/uPIZRt4cmUw9mVJ9EOM1UH4KVu4=/fit-in/200x150/pic3730608.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/H-of3EN70x6VLkkZ8o6ScO3r9kE=/0x0/pic3730608.jpg</image>
+      
+                   <boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+                      <boardgameversion objectid="368087">First edition</boardgameversion>
+               <boardgameartist objectid="11507">Klemens Franz</boardgameartist>
+                      <boardgamepublisher objectid="234">Lookout Games</boardgamepublisher>
+               <boardgamepublisher objectid="10">Mayfair Games</boardgamepublisher>
+               <boardgamepublisher objectid="7452">Österreichisches Spiele Museum e.V.</boardgamepublisher>
+               <boardgamedesigner objectid="11767">Alexander Pfister</boardgamedesigner>
+               <boardgamedesigner objectid="103223">Dennis Rappel</boardgamedesigner>
+               <boardgameversion objectid="406454">Second edition</boardgameversion>
+                      <boardgameexpansion objectid="259967">Tybor der Baumeister: Im Auftrag des Königs</boardgameexpansion>
+               <boardgameaccessory objectid="263959">Tybor der Baumeister: Scoring Pad</boardgameaccessory>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="4" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>495</usersrated>
+     <average>6.91928</average>
+     <bayesaverage>5.90975</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2608" bayesaverage="5.90975" />
+            
+           </ranks>
+     
+     <stddev>1.11178</stddev>
+     <median>0</median>
+     <owned>1239</owned>
+     <trading>33</trading>
+     <wanting>93</wanting>
+     <wishing>329</wishing>
+     <numcomments>146</numcomments>
+     <numweights>13</numweights>
+     <averageweight>2</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Wed, 01 Nov 2017 18:21:35 +0000</listdate>
+    <saledate>Sat, 04 Nov 2017 07:30:34 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>Tybor der Baumeister (Österreichisches Spielemuseum), 0,2 Kg
+Condition/Zustand: new, unused and sealed / neu, unbenutzt und in Folie verpackt
+General Information:
+I sell this item as a private seller. I can not give any guarantees or refunds. Nevertheless as a board game collector I describe the item as accurate as possible. In case of missing tiles or damages I mention this in the item description.
+Diesen Artikel verkaufe ich als Privatperson. Eine Garantie oder eine Ruecknahme biete ich nicht an. Als Sammler von Brettspielen achte ich jedoch sehr genau auf den Zustand und auf die Vollzaehligkeit. Die Spiele sind daher meistens tadellos erhalten. Sollten Maengel vorhanden sein, werden diese auch in der Beschreibung unter _T_E_M_P_T_A_G_quot;Condition/Zustand_T_E_M_P_T_A_G_quot; erwaehnt.
+Ich versende Spiele in folgende Länder: / I ship board games and board game expansions to the following countries:
+In case you live in a different country please contact me before you buy an item.
+Shipping/Versand
+nach Deutschland (ohne Inseln):
+Maxibrief (unversichert): EUR 2,60
+Hermes-Paket (max. 50 cm laengste + kuerzeste Seite): EUR 4,70
+DHL-Paket (versichert):
+0 - 5 Kg EUR 6,00
+5 - 10 Kg EUR 8,50
+10 - 31,5 Kg 16,50
+------------------------------------------------------------
+to Europe (EU): Belgium, Croatia, Czech Republic, Denmark, Finland, France, Greece, Great Britain, Hungary, Ireland, Italy, Luxembourg, The Netherlands, Österreich, Poland, Portugal, Sweden, Slovakia, Slovenia, Spain:
+Registered Letter:
+0 - 0.5 Kg EUR 6,20
+0.5 - 1 Kg EUR 9,50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 11,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 16,00
+5 - 10 Kg EUR 21,00
+10 - 20 Kg EUR 32,00
+------------------------------------------------------------
+to Switzerland / in die Schweiz:
+Registered Letter:
+0 - 0.5 Kg EUR 6,20
+0.5 - 1 Kg EUR 9,50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 16,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 27,00
+5 - 10 Kg EUR 35,00
+10 - 20 Kg EUR 49,00
+------------------------------------------------------------
+to Norway:
+Registered Letter:
+0 - 0.5 Kg EUR 6,20
+0.5 - 1 Kg EUR 9,50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 16,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 30,00
+5 - 10 Kg EUR 38,00
+10 - 20 Kg EUR 53,00
+------------------------------------------------------------------------------------------------------------------------------------
+to the U.S.A. and Canada:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 6.20
+0.5 - 1 Kg EUR 9.50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.10
+DHL Parcel:
+0 - 5 Kg EUR 37.00
+5 - 10 Kg EUR 54.00
+10 - 20 Kg EUR 76.00
+--------------------------------------------------------------------------------------------------------------------------------------------
+to China:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 6.20
+0.5 - 1 Kg EUR 9.50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.10
+DHL Parcel:
+0 - 5 Kg EUR 43.00
+5 - 10 Kg EUR 59.00
+10 - 20 Kg EUR 95.00
+------------------------------------------------------------------------------------------------------------------------------------------
+to Australia, Brazil, Japan, New Zealand:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 6.20
+0.5 - 1 Kg EUR 9.50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.10
+DHL Parcel:
+0 - 5 Kg EUR 46.00
+5 - 10 Kg EUR 62.00
+10 - 20 Kg EUR 101.00
+------------------------------------------------------------
+Payment:
+Bank transfer via IBAN + BIC / Überweisung
+PayPal</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Nov 2017 05:24:00 +0000</listdate>
+    <saledate>Mon, 18 Dec 2017 23:25:27 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played once but in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Dec 2017 01:31:15 +0000</listdate>
+    <saledate>Thu, 21 Dec 2017 14:54:27 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>New/ sealed.  Buyer pays shipping from 43235.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Dec 2017 22:50:00 +0000</listdate>
+    <saledate>Wed, 27 Dec 2017 00:10:49 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Opened, but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Dec 2017 02:31:53 +0000</listdate>
+    <saledate>Sun, 07 Jan 2018 16:20:07 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Brand new, still in shrink. Buyer pays actual shipping costs from 92128.  Can combine with other games to save on shipping.
+Buyer pays any incurred Paypal fees. (use Send Money to Friend option to avoid any fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jan 2018 17:20:53 +0000</listdate>
+    <saledate>Wed, 10 Jan 2018 20:41:20 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>contact me for shipping cost before placing an order</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Jan 2018 00:40:41 +0000</listdate>
+    <saledate>Wed, 17 Jan 2018 03:50:11 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played once without sleeves. Everything is in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jan 2018 15:20:56 +0000</listdate>
+    <saledate>Tue, 06 Feb 2018 03:48:54 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Brand new/ sealed.  Shipping is free to the USA.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Feb 2018 18:13:31 +0000</listdate>
+    <saledate>Wed, 07 Feb 2018 07:30:03 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>new</condition>
+    <notes>Brand new, still in shrink. Buyer pays actual shipping costs from 92128.  Can combine with other games to save on shipping.
+Buyer pays any incurred Paypal fees. (use Send Money to Friend option to avoid any fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Feb 2018 10:09:33 +0000</listdate>
+    <saledate>Wed, 14 Feb 2018 11:38:26 +0000</saledate>
+    <price currency='EUR'>11.4</price>
+    <condition>new</condition>
+    <notes>EU citizens whom have access to free wire transfer, but wanna pay with PayPal instead, have to pay the fee.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Mar 2018 12:23:59 +0000</listdate>
+    <saledate>Wed, 21 Mar 2018 16:54:59 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>verygood</condition>
+    <notes>Played twice, excellent condition.
+Stored in an air conditioned, pet and smoke free home.
+Will accept Paypal (shipped to verified address only) or Amazon gift card payments.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Feb 2018 17:14:48 +0000</listdate>
+    <saledate>Sat, 24 Mar 2018 06:10:46 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Brand new, still in shrink. Buyer pays actual shipping costs from 92128.  Can combine with other games to save on shipping.
+Buyer pays any incurred Paypal fees. (use Send Money to Friend option to avoid any fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Apr 2018 13:41:59 +0000</listdate>
+    <saledate>Tue, 03 Apr 2018 14:11:44 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>reserved for radagast14
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Mar 2018 14:58:14 +0000</listdate>
+    <saledate>Thu, 12 Apr 2018 17:46:22 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>Played once, cards in excellent condition.  Paypal payments only. Can ship in a padded envelope.  Please inquire about shipping options.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Dec 2017 22:02:29 +0000</listdate>
+    <saledate>Thu, 12 Apr 2018 17:54:15 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>Free USA shipping 
+Ask about international shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Mar 2018 20:50:02 +0000</listdate>
+    <saledate>Thu, 12 Apr 2018 22:54:31 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Brand new, still in shrink. Buyer pays actual shipping costs from 92128.  Can combine with other games to save on shipping.
+Buyer pays any incurred Paypal fees. (use Send Money to Friend option to avoid any fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Jan 2018 07:12:17 +0000</listdate>
+    <saledate>Fri, 13 Apr 2018 18:56:10 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>likenew</condition>
+    <notes>Played it only two times
+It_T_E_M_P_T_A_G_#039;s new!
+If you want to pay with PayPal, you have to pay an additional fee (3,4% + 0,35 Euro)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Apr 2018 16:03:31 +0000</listdate>
+    <saledate>Tue, 17 Apr 2018 01:03:53 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>New copy of Tybor der Baumeister
+Buyer to pay actual usps shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Dec 2017 21:04:23 +0000</listdate>
+    <saledate>Tue, 17 Apr 2018 03:06:38 +0000</saledate>
+    <price currency='EUR'>10.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Apr 2018 18:16:04 +0000</listdate>
+    <saledate>Wed, 25 Apr 2018 05:43:14 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>New copy of Tybor der Baumeister
+shipping cost $4.00</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 May 2018 13:50:35 +0000</listdate>
+    <saledate>Mon, 07 May 2018 13:53:01 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/240242/item/6092935#6092935]Item for Geeklist _T_E_M_P_T_A_G_quot;Super Auction!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 May 2018 15:38:23 +0000</listdate>
+    <saledate>Mon, 07 May 2018 14:27:24 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>New copy of Tybor der Baumeister
+Buyer to pay actual usps shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Apr 2018 05:59:28 +0000</listdate>
+    <saledate>Tue, 08 May 2018 01:43:25 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>new</condition>
+    <notes>Brand new, still in shrink. Buyer pays actual shipping costs from 92128.  Can combine with other games to save on shipping.
+Buyer pays any incurred Paypal fees. (use Send Money to Friend option to avoid any fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Apr 2018 21:52:16 +0000</listdate>
+    <saledate>Wed, 09 May 2018 01:35:28 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>Free USA shipping 
+Ask about international shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 May 2018 18:47:08 +0000</listdate>
+    <saledate>Fri, 11 May 2018 07:05:55 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>New copy of Tybor der Baumeister
+shipping cost $4.00</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 May 2018 07:05:10 +0000</listdate>
+    <saledate>Wed, 30 May 2018 04:54:41 +0000</saledate>
+    <price currency='AUD'>25</price>
+    <condition>new</condition>
+    <notes>In shrink-wrap.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage:
+https://www.boardgamegeek.com/geekmarket/user/Scholle
+Pickup available in St Ives.
+Postage is whatever it costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 May 2018 04:02:14 +0000</listdate>
+    <saledate>Thu, 31 May 2018 00:26:58 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>Free USA shipping 
+Ask about international shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 May 2018 21:35:43 +0000</listdate>
+    <saledate>Fri, 01 Jun 2018 15:08:32 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>English Edition
+Box has minor wear</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Nov 2017 12:59:43 +0000</listdate>
+    <saledate>Tue, 12 Jun 2018 02:19:00 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>Tybor der Baumeister (Österreichisches Spielemuseum), 0,2 Kg
+Condition/Zustand: new and sealed / neu und in Folie verpackt
+General Information:
+I sell this item as a private seller. I can not give any guarantees or refunds. Nevertheless as a board game collector I describe the item as accurate as possible. In case of missing tiles or damages I mention this in the item description.
+Diesen Artikel verkaufe ich als Privatperson. Eine Garantie oder eine Ruecknahme biete ich nicht an. Als Sammler von Brettspielen achte ich jedoch sehr genau auf den Zustand und auf die Vollzaehligkeit. Die Spiele sind daher meistens tadellos erhalten. Sollten Maengel vorhanden sein, werden diese auch in der Beschreibung unter _T_E_M_P_T_A_G_quot;Condition/Zustand_T_E_M_P_T_A_G_quot; erwaehnt.
+Ich versende Spiele in folgende Länder: / I ship board games and board game expansions to the following countries:
+In case you live in a different country please contact me before you buy an item.
+Shipping/Versand
+nach Deutschland (ohne Inseln):
+Maxibrief (unversichert): EUR 2,60
+Hermes Paeckchen (laengste und kuerzeste Seite zusammen max. 37 cm, versichert bis EUR 50,--): EUR 4,--
+Hermes-Paket S (laengste + kuerzeste Seite max. 50 cm): EUR 5,60
+DHL-Paket (versichert):
+0 - 5 Kg EUR 6,00
+5 - 10 Kg EUR 8,50
+10 - 31,5 Kg 16,50
+------------------------------------------------------------
+to Europe (EU): Belgium, Croatia, Czech Republic, Denmark, Finland, France, Greece, Great Britain, Hungary, Ireland, Italy, Luxembourg, The Netherlands, Österreich, Poland, Portugal, Sweden, Slovakia, Slovenia, Spain:
+Registered Letter:
+0 - 0.5 Kg EUR 6,20
+0.5 - 1 Kg EUR 9,50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 11,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 16,00
+5 - 10 Kg EUR 21,00
+10 - 20 Kg EUR 32,00
+------------------------------------------------------------
+to Switzerland / in die Schweiz:
+Registered Letter:
+0 - 0.5 Kg EUR 6,20
+0.5 - 1 Kg EUR 9,50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 16,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 27,00
+5 - 10 Kg EUR 35,00
+10 - 20 Kg EUR 49,00
+------------------------------------------------------------
+to Norway:
+Registered Letter:
+0 - 0.5 Kg EUR 6,20
+0.5 - 1 Kg EUR 9,50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 16,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 30,00
+5 - 10 Kg EUR 38,00
+10 - 20 Kg EUR 53,00
+------------------------------------------------------------------------------------------------------------------------------------
+to the U.S.A. and Canada:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 6.20
+0.5 - 1 Kg EUR 9.50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.10
+DHL Parcel:
+0 - 5 Kg EUR 37.00
+5 - 10 Kg EUR 54.00
+10 - 20 Kg EUR 76.00
+--------------------------------------------------------------------------------------------------------------------------------------------
+to China:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 6.20
+0.5 - 1 Kg EUR 9.50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.10
+DHL Parcel:
+0 - 5 Kg EUR 43.00
+5 - 10 Kg EUR 59.00
+10 - 20 Kg EUR 95.00
+------------------------------------------------------------------------------------------------------------------------------------------
+to Australia, Brazil, Japan, New Zealand:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 6.20
+0.5 - 1 Kg EUR 9.50
+Small Parcel / Paeckchen (maximum insurance EUR 50,--, incl. tracking code, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.10
+DHL Parcel:
+0 - 5 Kg EUR 46.00
+5 - 10 Kg EUR 62.00
+10 - 20 Kg EUR 101.00
+------------------------------------------------------------
+Payment:
+Bank transfer via IBAN + BIC / Überweisung
+PayPal</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jul 2018 09:53:29 +0000</listdate>
+    <saledate>Tue, 31 Jul 2018 12:19:41 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played.
+Bilingual (English and German).
+Free shipping within Germany.
+3€ shipping within the EU.
+For shipping outside the EU, please contact me before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Aug 2018 09:41:08 +0000</listdate>
+    <saledate>Sat, 11 Aug 2018 12:48:15 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>likenew</condition>
+    <notes>incl. german and english rules and cards</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jul 2018 15:35:24 +0000</listdate>
+    <saledate>Sat, 11 Aug 2018 21:06:18 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>New copy of Tybor der Baumeister
+shipping cost $4.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Sep 2018 21:06:56 +0000</listdate>
+    <saledate>Sun, 14 Oct 2018 09:23:34 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>likenew</condition>
+    <notes>one time played</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jul 2018 00:01:22 +0000</listdate>
+    <saledate>Thu, 18 Oct 2018 23:39:56 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Brand new, still in shrink. Buyer pays actual shipping costs from 92128.  Can combine with other games to save on shipping.
+Buyer pays any incurred Paypal fees. (use Send Money to Friend option to avoid any fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Nov 2018 13:40:49 +0000</listdate>
+    <saledate>Wed, 07 Nov 2018 15:42:28 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/244672/item/6340551#6340551]Item for Geeklist _T_E_M_P_T_A_G_quot;Not Enough Time Auction. Rising Sun, Blood Rage, KS exclusives. imports and promos! Ends 9/10_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jan 2019 14:23:40 +0000</listdate>
+    <saledate>Wed, 30 Jan 2019 18:15:20 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>likenew</condition>
+    <notes>Never used.
+Shipping within the UK will cost £3 via Royal Mail.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

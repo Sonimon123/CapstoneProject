@@ -1,0 +1,1551 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="559">
+   <yearpublished>1997</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>30</playingtime>
+   <minplaytime>30</minplaytime>
+   <maxplaytime>30</maxplaytime>
+   <age>8</age>
+       <name  sortindex="1">Iron Horse</name>
+       <name primary="true" sortindex="1">Metro</name>
+         
+   <description>Similar to Streetcar, Tsuro, Tantrix and Spaghetti Junction, this game has players putting square tiles onto the board to form rail lines. The major difference in this game, however, is that players are not striving to make short, direct routes like those sought in Streetcar. Instead, the object of the game is to make the rail lines as long as possible.  Players start with a number of trains ringing the board.  Whenever a tile placement connects a train to a station (either on the edge or the center of the board), that train is removed and the player scores one point for each tile that the route crosses, which can cause one tile to score multiple times if the track loops around.  However, players score double for city connections, which are the stations in the center of the board._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game was originally issued as Iron Horse (not to be confused with Iron Horse)._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Re-implemented by:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Cable Car_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/zhm9jZyqp1r8cYYLgPDm2cUMns8=/fit-in/200x150/pic3389098.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/syshlBu8E4fWzL5VOCikVq4-sEU=/0x0/pic3389098.jpg</image>
+      
+            <boardgamepublisher objectid="47">Queen Games</boardgamepublisher>
+               <boardgamehonor objectid="8668">2000 Spiel des Jahres Recommended</boardgamehonor>
+               <boardgamehonor objectid="12816">2001 International Gamers Awards - General Strategy; Multi-player Nominee</boardgamehonor>
+               <boardgamehonor objectid="12333">2001 Mensa Select Winner</boardgamehonor>
+               <boardgamehonor objectid="9285">2005 Årets Spill Best Family Game Nominee</boardgamehonor>
+                      <boardgameimplementation objectid="58602">Cable Car</boardgameimplementation>
+               <boardgamefamily objectid="17520">Cities: Paris (France)</boardgamefamily>
+               <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+               <boardgamepublisher objectid="100">db-Spiele</boardgamepublisher>
+               <boardgameversion objectid="61224">db-Spiele English first edition 1997</boardgameversion>
+               <boardgameversion objectid="69425">db-Spiele German first edition 1997</boardgameversion>
+                                                                <boardgameversion objectid="342494">English/German edition 2017</boardgameversion>
+               <boardgamepodcastepisode objectid="227757">Episode #19: Board Game Challenges</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="227753">Episode 23: Board Game Challenges Report for Quarter #1</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="239989">Episode 34: Metro, Glass Road,  Rocky Road à la Mode, Lorenzo il Magnifico, Arkham Noir: The Witch Cult Murders</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgamepublisher objectid="8845">G3</boardgamepublisher>
+                                                                                                                                                                  <boardgamedesigner objectid="60">Dirk Henn</boardgamedesigner>
+               <boardgameartist objectid="43973">Barbara Henn</boardgameartist>
+                      <boardgamefamily objectid="6485">Mensa Select</boardgamefamily>
+               <videogamebg objectid="240699">Metro - The Board Game</videogamebg>
+                             <boardgamepodcastepisode objectid="163568">MN 0078 Tile Connection Games - Tsuro, Fresh Fish and More</boardgamepodcastepisode>
+                                    <boardgameversion objectid="33156">Polish edition</boardgameversion>
+                                    <boardgameversion objectid="20511">Queen German edition 2000</boardgameversion>
+               <boardgameversion objectid="25262">Queen German edition 2000 with SdJ</boardgameversion>
+               <boardgameversion objectid="305346">Queen German edition 2005 with SdJ</boardgameversion>
+               <boardgameversion objectid="137969">Queen Hungarian edition</boardgameversion>
+               <boardgameversion objectid="26626">Queen multilingual edition</boardgameversion>
+               <boardgameversion objectid="72665">Queen multilingual edition</boardgameversion>
+               <boardgameversion objectid="410607">Queen multilingual edition  with SdJ</boardgameversion>
+               <boardgameversion objectid="114110">Queen multilingual edition 2000</boardgameversion>
+               <boardgameversion objectid="255492">Queen multilingual edition 2014</boardgameversion>
+               <boardgameversion objectid="30606">Queen Nordic edition 2005</boardgameversion>
+                                                                <boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+                             <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+               <boardgamecategory objectid="1034">Trains</boardgamecategory>
+               <boardgamepublisher objectid="1901">Überplay</boardgamepublisher>
+               <boardgameversion objectid="25758">Überplay/Queen Games English edition</boardgameversion>
+               <boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="71">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="38" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="27" />
+     <result value="Recommended" numvotes="29" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="17" />
+     <result value="Recommended" numvotes="35" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="21" />
+     <result value="Recommended" numvotes="30" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="26" />
+     <result value="Not Recommended" numvotes="17" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="29" />
+     <result value="Not Recommended" numvotes="21" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="29" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="27">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="27" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="24">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="3" />
+     <result value="6" numvotes="5" />
+     <result value="8" numvotes="13" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="1" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>5161</usersrated>
+     <average>6.37725</average>
+     <bayesaverage>6.19681</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1555" bayesaverage="6.19681" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="853" bayesaverage="6.2215" />
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="449" bayesaverage="6.24693" />
+            
+           </ranks>
+     
+     <stddev>1.24082</stddev>
+     <median>0</median>
+     <owned>6016</owned>
+     <trading>232</trading>
+     <wanting>110</wanting>
+     <wishing>442</wishing>
+     <numcomments>1483</numcomments>
+     <numweights>546</numweights>
+     <averageweight>1.6941</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 24 Mar 2003 18:55:51 +0000</listdate>
+    <saledate>Thu, 10 Apr 2003 04:06:10 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>played several times.  send me a message if you would like pics, and i will ship by media mail if possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 May 2003 15:13:19 +0000</listdate>
+    <saledate>Mon, 12 May 2003 21:06:12 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Components _T_E_M_P_T_A_G_amp;amp; box in very good condition, nothing missing, nothing damaged.
+There_T_E_M_P_T_A_G_amp;#039;s a label on the side of the box (see photo)
+Shipping 12.30$ worldwide surfacemail.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Oct 2003 19:57:20 +0000</listdate>
+    <saledate>Wed, 26 Nov 2003 14:31:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened, sorted but not played.  English rules included.  Great condition.  NOTE:  10% discount on multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Jan 2004 15:03:16 +0000</listdate>
+    <saledate>Sat, 17 Jan 2004 05:47:44 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>As good as new. Played once.
+(no credit card paypal)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Feb 2004 10:33:27 +0000</listdate>
+    <saledate>Sun, 27 Apr 2008 19:37:04 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes>excellent shape
+publishe by Queen games
+shipping by surface mail
+Europe: 8.20 Euro (using Euro - bank transfer (IBAN and BIC) otherwise paypal)
+World: 12.30 Euro (paypal)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Mar 2004 23:32:38 +0000</listdate>
+    <saledate>Mon, 15 Mar 2004 16:21:06 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped Metro.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 May 2004 07:25:47 +0000</listdate>
+    <saledate>Wed, 09 Jun 2004 13:37:32 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Aug 2004 20:24:40 +0000</listdate>
+    <saledate>Mon, 02 Aug 2004 17:43:16 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Played once or twice. Queen games edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Nov 2004 18:54:48 +0000</listdate>
+    <saledate>Fri, 01 Jul 2005 18:15:44 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>The board pieces are punched out and the game has been played twice; otherwise I would say this game is _T_E_M_P_T_A_G_quot;like new._T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Aug 2005 16:51:33 +0000</listdate>
+    <saledate>Sun, 30 Jul 2006 22:14:09 +0000</saledate>
+    <price currency='USD'>14.5</price>
+    <condition>new</condition>
+    <notes>Uberplay ed. with English box and rules; new in shrink
+Shipping: $7 UPS Ground domestic; actual cost to Alaska, Hawaii and international destinations.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Sep 2005 23:26:18 +0000</listdate>
+    <saledate>Fri, 03 Feb 2006 01:31:49 +0000</saledate>
+    <price currency='USD'>14.5</price>
+    <condition>new</condition>
+    <notes>This game is brand new and manufacturer sealed. S_T_E_M_P_T_A_G_amp;H is $7.00 via USPS Priority Mail to all 50 states. Combined shipping may be available on multiple purchases. Other shipping arrangements are available upon request but may vary in cost. Pennsylvania shipping addresses should include 6% sales tax.
+**VERY FAST SHIPPING - 2-4 business days once payment received**_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Dec 2005 15:35:16 +0000</listdate>
+    <saledate>Sat, 11 Oct 2008 01:04:23 +0000</saledate>
+    <price currency='USD'>26.99</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games reprint. (RIO 043)
+ 
+Number of players: 2-6
+Age of players: 8+
+Length: 45 minutes
+Game Description: The eve of the 1900 World’s Fair is approaching, and excavations are taking place across the city. Bizarre-looking scaffolds arise everywhere. Tunnels are built in the streets to later be covered with earth.Take part in the construction of the Paris Metro! Each player works to complete a set of lines across Paris and scores points based on the length of the lines - after all, we want to show the tourists as much of our fine city as possible. When you complete your lines, you tally your points and the player with the most points when the fair opens, is the winner! 
+Author: Dirk Henn</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Jan 2006 13:51:21 +0000</listdate>
+    <saledate>Wed, 15 Feb 2006 13:00:13 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>verygood</condition>
+    <notes>DISCOUNT RULES: IF YOU BUY 3 OR MORE GAMES YOU´LL GET DISCOUNT. THE PERCENTAGE IS (DAY+MONTH)/2 (Example: If you buy the games on 12th June you´ll get 12+6=18/2=9 %). So you can get a max. Discount on 31th december of 21 % :_). The date is the BGG-TIME (CST).
+I´m selling a lot of other german boardgames
+Shipping worldwide (Paypal or cash or Western Union). Bank Transfer is also OK, if there are no further costs for me. Picture for condition purposes can me mailed
+Look also at my other games I want _T_E_M_P_T_A_G_quot;to get rid off_T_E_M_P_T_A_G_quot;
+If you are looking for some other games send me an email.
+Shipping costs are roughly:
+--------- up to 2 kg ----- up to 5 kg --- up to 10 kg
+--------- no insurance --- insurance ---- insurance
+Europe (EU) - 9 Euros ----- 17 Euros ----- 22 Euros
+USA/Canada - 13 Euros ----- 32 Euros ----- 42 Euros
+Japan ------ 13 Euros ----- 37 Euros ----- 52 Euros 
+Australia -- 13 Euros ----- 37 Euros ----- 52 Euros
+If you have further questions on shipping costs send me a message
+!!! BUYERS FROM SOUTH KOREA !!! PLEASE BUY FROM MY FRIEND ROBBIROB !!! I DON`T SELL GAMES TO SOUTH KOREA ANY MORE !!!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 May 2006 18:17:44 +0000</listdate>
+    <saledate>Sat, 13 May 2006 02:36:58 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>The box has a ding / crush in the upper left corner.  The board _T_E_M_P_T_A_G_amp; bits are in excellent condition and are complete.  The game has only been played a few times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Aug 2006 11:16:29 +0000</listdate>
+    <saledate>Wed, 30 Aug 2006 15:54:05 +0000</saledate>
+    <price currency='GBP'>11.5</price>
+    <condition>new</condition>
+    <notes>Brand new in shrinkwrap.
+UK shipping will be £5.50, elsewhere please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Sep 2006 21:09:34 +0000</listdate>
+    <saledate>Wed, 18 Apr 2007 02:43:35 +0000</saledate>
+    <price currency='USD'>16.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Oct 2006 15:14:49 +0000</listdate>
+    <saledate>Tue, 18 Mar 2008 17:35:28 +0000</saledate>
+    <price currency='USD'>11.5</price>
+    <condition>likenew</condition>
+    <notes>Metro - Uberplay
+Like New! Removed from shrink wrap, but in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $1.00 handling charge.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jan 2007 20:38:13 +0000</listdate>
+    <saledate>Sun, 07 Jan 2007 18:26:19 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This is a private listing for user Firepigeon ONLY for his bid on Lawmama_T_E_M_P_T_A_G_#039;s New Year_T_E_M_P_T_A_G_#039;s auction.
+I will PM you with payment details.  Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Jan 2007 18:35:47 +0000</listdate>
+    <saledate>Fri, 06 Mar 2009 17:05:51 +0000</saledate>
+    <price currency='USD'>14.99</price>
+    <condition>new</condition>
+    <notes>This is a shrink-wrapped Queen/Uberplay edition.
+S_T_E_M_P_T_A_G_amp;H will be by UPS Ground. The rate for shipping will be from Richmond, VA 23059 to your address. 
+Please let me know if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2007 02:21:28 +0000</listdate>
+    <saledate>Thu, 01 Dec 2011 09:00:00 +0000</saledate>
+    <price currency='AUD'>45</price>
+    <condition>new</condition>
+    <notes>Still shrink-wrapped. English Version.
+I will send to anywhere in Australia posted the next business day. For postage quotes, please let me have your postcode. I will package multiple games together to save postage. I charge what it costs to post _T_E_M_P_T_A_G_amp; pack. Direct bank transfer preferred. Delivery/collection is possible in Melbourne (see faq on website).
+For full range of games please check www.games.unhalfbricking.com
+Please do not bother making offers below my advertised price on NEW games. This is as cheap as I can manage.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Aug 2007 19:27:20 +0000</listdate>
+    <saledate>Thu, 04 Dec 2008 03:56:13 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Only played two or three times. Mint.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Dec 2007 15:00:49 +0000</listdate>
+    <saledate>Sat, 08 Mar 2008 04:18:47 +0000</saledate>
+    <price currency='USD'>13.5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Dec 2007 00:01:24 +0000</listdate>
+    <saledate>Tue, 27 Apr 2010 17:44:09 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+METRO: $24.95
+Rio Grande Games [RIO 043]
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Feb 2008 02:21:13 +0000</listdate>
+    <saledate>Sat, 16 Feb 2008 18:36:22 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>verygood</condition>
+    <notes>Uberplay version in great condition. 
+I accept Amazon gift certificate or Paypal. Shipping is flat $10, no matter how many games you buy. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Mar 2008 01:39:45 +0000</listdate>
+    <saledate>Fri, 21 Mar 2008 03:19:08 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>Private sale for Tom Richardson ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Mar 2008 20:45:14 +0000</listdate>
+    <saledate>Thu, 01 May 2008 01:39:13 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>This is the Queen edition; game has only been played a couple of times. All the components are present and it is in excelent shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jun 2008 18:45:18 +0000</listdate>
+    <saledate>Thu, 04 Mar 2010 20:25:06 +0000</saledate>
+    <price currency='EUR'>19.9</price>
+    <condition>new</condition>
+    <notes>The game is new and still in shrink, it_T_E_M_P_T_A_G_#039;s the Uberplay english Edition.
+Shipping to France : 7 Euros
+Shipping to Europa : 9 Euros
+Shipping to rest of the World : 13 Euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Jul 2008 18:13:38 +0000</listdate>
+    <saledate>Sun, 06 Jul 2008 19:39:21 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played a few times, a decent game but just never gets played so no sense in me keeping it. Pieces and rules accounted for, everything looks like new.
+I prefer paypal but will also accept check/m.o..
+Thanks
+Jeff</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Nov 2008 14:55:38 +0000</listdate>
+    <saledate>Wed, 19 Nov 2008 01:36:51 +0000</saledate>
+    <price currency='EUR'>11</price>
+    <condition>new</condition>
+    <notes>German editon (Queen Games)
+shrink wrapped!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Nov 2008 12:35:59 +0000</listdate>
+    <saledate>Sun, 30 Nov 2008 03:44:57 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>Only played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Jan 2009 16:10:52 +0000</listdate>
+    <saledate>Wed, 11 Feb 2009 21:42:37 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition, $6 s/h Metro Paris 1898 by Uberplay/Queen Games</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Jan 2009 17:48:40 +0000</listdate>
+    <saledate>Sun, 01 Feb 2009 16:54:44 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>opened, never played</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Mar 2009 17:08:49 +0000</listdate>
+    <saledate>Tue, 31 Mar 2009 01:05:55 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>Game complete and in very good condition.  Played less than five times.  All pieces have been carefully bagged and counted.  Shipping for this game will be $10 via USPS priority mail.
+I am getting ready to move so I have a number of games for sale.  Please check out my other listings.  I am more than willing to combine shipping to save you money if you buy more than one game.  Please contact me with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Apr 2009 16:22:57 +0000</listdate>
+    <saledate>Mon, 20 Apr 2009 01:44:10 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>From Geeklist auciton _T_E_M_P_T_A_G_quot;Making Room for More Games, Birthday Edition._T_E_M_P_T_A_G_quot;  Reserved for Lukerk</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 May 2009 04:32:26 +0000</listdate>
+    <saledate>Sun, 17 May 2009 02:35:10 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Punched but rarely played, so tiles and board are in near-pristine condition.  All contents verified complete. Box is undamaged.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jun 2009 02:35:50 +0000</listdate>
+    <saledate>Wed, 01 Jul 2009 15:29:08 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played a half dozen times.  No shelf wear, all contents present.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Jul 2009 15:30:27 +0000</listdate>
+    <saledate>Wed, 07 Apr 2010 11:56:51 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>verygood</condition>
+    <notes>some slight box warping due to storage otherwise everything present, correct and in excellent condition
+Shipping UK £4.00 / Europe £8.00</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Sep 2009 10:17:26 +0000</listdate>
+    <saledate>Tue, 01 Feb 2011 23:14:20 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>Queen games, complete and in excellent shape
+weight: 878 gramme
+shipping: letter or small package</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Sep 2009 16:37:49 +0000</listdate>
+    <saledate>Wed, 16 Sep 2009 00:20:57 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Listing for capt yid from _T_E_M_P_T_A_G_quot;Life served me a crap sandwich..._T_E_M_P_T_A_G_quot; auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Nov 2009 00:23:37 +0000</listdate>
+    <saledate>Mon, 16 Nov 2009 15:51:13 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Played once or twice and in near perfect condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2009 23:20:12 +0000</listdate>
+    <saledate>Sun, 29 Nov 2009 01:33:06 +0000</saledate>
+    <price currency='USD'>17.95</price>
+    <condition>verygood</condition>
+    <notes>Game has been played about a dozen times. complete and in very good condition.
+Shipping is $5.95</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Dec 2009 07:09:05 +0000</listdate>
+    <saledate>Fri, 18 Dec 2009 07:46:47 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>for sale only to netizen</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Feb 2010 22:58:58 +0000</listdate>
+    <saledate>Thu, 04 Feb 2010 02:32:40 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Sold via auction:
+http://www.boardgamegeek.com/geeklist/51321/auction-because-of-the-most-expensive-penny-sleeve</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Apr 2010 15:43:04 +0000</listdate>
+    <saledate>Tue, 06 Apr 2010 15:48:31 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>For user Zelif ONLY.
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Apr 2010 10:51:08 +0000</listdate>
+    <saledate>Sun, 11 Apr 2010 16:13:33 +0000</saledate>
+    <price currency='GBP'>7.5</price>
+    <condition>likenew</condition>
+    <notes>postage in UK £5.00</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 May 2010 13:48:15 +0000</listdate>
+    <saledate>Sun, 16 May 2010 05:44:28 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Jun 2010 08:51:37 +0000</listdate>
+    <saledate>Mon, 28 Jun 2010 11:17:03 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Also includes the poker chips
+http://boardgamegeek.com/geeklist/55922/the-im-going-to-shamelessly-closed
+For: David Knepper (Aging One)
+Please add 2.9% to the total including shipping if you plan to pay with Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Jul 2010 11:44:44 +0000</listdate>
+    <saledate>Sat, 04 Dec 2010 10:05:46 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes>The game:
+German version from Queen.
+All game parts are punched but still in very good condition.
+Box back shows light wear.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within EU I prefer the EU-standard-bank-tranfer (SEPA,IBAN/BIC). It is fast and causes no fees.
+Outside EU Paypal and bank-transfer are possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Jul 2010 00:24:28 +0000</listdate>
+    <saledate>Mon, 02 Aug 2010 22:17:46 +0000</saledate>
+    <price currency='USD'>25.99</price>
+    <condition>new</condition>
+    <notes>This is a listing for a new in factory shrinkwrap copy of METRO by Queen Games. This is a copy of the German language of version of the game, but an English translation of the rules will be included. Game is in mint condition. (Please see image below for the actual copy of the game up for sale.)
+[Inventory Code: KC] </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Aug 2010 22:40:45 +0000</listdate>
+    <saledate>Sun, 26 Sep 2010 14:23:51 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>only played a couple of times - everything is in great shape</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Aug 2010 18:53:05 +0000</listdate>
+    <saledate>Fri, 26 Nov 2010 23:41:09 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Very minimal shelf wear.
+Estimated shipping: $10.70 or less</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Sep 2010 21:37:42 +0000</listdate>
+    <saledate>Sat, 18 Dec 2010 18:39:44 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Oct 2010 23:13:22 +0000</listdate>
+    <saledate>Wed, 13 Oct 2010 23:45:44 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>This marketplace item is for user kmatejka from the Gobble Gobble Gobble Auction.
+Shipping charges will be calculated at a later date.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Oct 2010 00:27:02 +0000</listdate>
+    <saledate>Thu, 28 Oct 2010 00:57:24 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>UIEulerZeta</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Nov 2010 11:58:34 +0000</listdate>
+    <saledate>Tue, 21 Jun 2011 07:03:41 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>new</condition>
+    <notes>German or multilingual (GB/F/I/E/NL/D) Queen edition
+new and shrinkwrapped in perfect condition
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Nov 2010 20:40:46 +0000</listdate>
+    <saledate>Mon, 08 Nov 2010 14:04:49 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>Only for Geeklist auction winner twinfreak</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Jan 2011 16:14:17 +0000</listdate>
+    <saledate>Tue, 04 Jan 2011 06:01:07 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>reserved for (mevans444)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Jan 2011 10:19:58 +0000</listdate>
+    <saledate>Sun, 23 Jan 2011 11:32:20 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>German Queen Games edition. Components are language independent.
+Game is still in shrink.
+Shipping at actual cost dependent on destination, total weight and method of shipment chosen.
+Usually shipping a single (regular sized) board game (surface) costs 13.90€ worldwide and 8.60€ within Europe. Smaller games ship cheaper. Of course multiple games can be combined.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Jan 2011 01:40:02 +0000</listdate>
+    <saledate>Thu, 27 Jan 2011 03:49:45 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>For user kostas only.  Includes Warhammer books. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Feb 2011 01:32:55 +0000</listdate>
+    <saledate>Sun, 10 Jul 2011 15:18:07 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played twice</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Feb 2011 23:16:33 +0000</listdate>
+    <saledate>Wed, 23 Feb 2011 23:51:16 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Intended for the winner of The Something For Everyone auction: Dean Lee.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Mar 2011 05:33:57 +0000</listdate>
+    <saledate>Sun, 27 Mar 2011 02:58:59 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>This game has been played a couple times and is in great condition.
+The box shows minimal signs of wear from stacking.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 May 2011 15:56:48 +0000</listdate>
+    <saledate>Fri, 16 Dec 2011 06:12:49 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>likenew</condition>
+    <notes>Components in like new condition. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Jun 2011 10:49:51 +0000</listdate>
+    <saledate>Sat, 25 Jun 2011 16:55:30 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>Unpunched. Great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jul 2011 11:31:53 +0000</listdate>
+    <saledate>Mon, 30 Jan 2012 14:40:44 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>new</condition>
+    <notes>German Queen edition
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jul 2011 18:20:44 +0000</listdate>
+    <saledate>Fri, 06 Apr 2012 04:39:28 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>likenew</condition>
+    <notes>German edition.
+Contents complete _T_E_M_P_T_A_G_amp; in new condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Aug 2011 14:28:37 +0000</listdate>
+    <saledate>Tue, 08 Nov 2011 21:00:18 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>The game has been played a handful of times by adults.  All components are present and in excellent shape.  </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Aug 2011 21:41:06 +0000</listdate>
+    <saledate>Sat, 27 Aug 2011 13:04:26 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This item is reserved for CycloneMBA.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Oct 2011 22:26:50 +0000</listdate>
+    <saledate>Tue, 08 Nov 2011 17:58:52 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Oct 2011 16:12:49 +0000</listdate>
+    <saledate>Tue, 11 Oct 2011 00:41:02 +0000</saledate>
+    <price currency='USD'>10.99</price>
+    <condition>likenew</condition>
+    <notes>This item is not for sale. It was purchased in a GEEKBAY auction and is being listed here to complete the transaction.
+Buyer is Mike Johanson
+Shipping is $7.15 priority regional rate A
+Thanks,
+David Tatu
+Atlanta GA
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Dec 2011 04:43:04 +0000</listdate>
+    <saledate>Thu, 12 Apr 2012 17:39:32 +0000</saledate>
+    <price currency='AUD'>10</price>
+    <condition>verygood</condition>
+    <notes>Queen _T_E_M_P_T_A_G_quot;Metro_T_E_M_P_T_A_G_quot; edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Jan 2012 01:23:58 +0000</listdate>
+    <saledate>Sun, 19 Feb 2012 15:04:53 +0000</saledate>
+    <price currency='USD'>24.88</price>
+    <condition>likenew</condition>
+    <notes>Only played twice.  All pieces present and accounted for, in excellent condition.  I am the original and sole owner of the game.  It comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jan 2012 02:34:33 +0000</listdate>
+    <saledate>Mon, 30 Jan 2012 07:33:15 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Only played once. All pieces present and accounted for, in excellent condition. Perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jan 2012 23:08:02 +0000</listdate>
+    <saledate>Wed, 23 May 2012 01:47:08 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>likenew</condition>
+    <notes>Sole owner.  Played a handful of times with care.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Feb 2012 14:27:09 +0000</listdate>
+    <saledate>Tue, 27 Mar 2012 05:10:03 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>good</condition>
+    <notes>Uberplay English edition complete and in decent shape. PayPal and USA only. Buyer pays actual shipping from NY 11783</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Feb 2012 19:35:59 +0000</listdate>
+    <saledate>Tue, 11 Dec 2012 19:28:41 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Game is in excellent condition.  2003 Uberplay/Queen Games English Edition.  Box bottom has minor scuffing.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Apr 2012 16:56:39 +0000</listdate>
+    <saledate>Sun, 03 Jun 2012 09:53:46 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>good</condition>
+    <notes>German edition.
+Contents complete _T_E_M_P_T_A_G_amp; in excellent condition.
+Box cover has some scuff marks on top, but other game is otherwise in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 May 2012 01:14:02 +0000</listdate>
+    <saledate>Sun, 13 May 2012 02:02:32 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Played several times many years ago but it has been sitting on my shelf unplayed for at least 6 years. Item is in excellent condition except for very minor (i.e., hardly noticeable) scuffing on the bottom of the box (not visible) and on the edge of the board.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 May 2012 20:15:30 +0000</listdate>
+    <saledate>Tue, 08 May 2012 00:33:18 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>This is for xfer who won it in an auction</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 May 2012 01:07:03 +0000</listdate>
+    <saledate>Wed, 23 May 2012 06:53:39 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>BGG Auction - Birthday Blow-Out
+Reserved for Synchronized</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jun 2012 17:40:12 +0000</listdate>
+    <saledate>Mon, 22 Oct 2012 02:50:18 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>verygood</condition>
+    <notes>Queen first multi-lingual edition (including English).
+In very good condition with a slight crease along box bottom.
+Shipping charge will be only actual USPS cost.  Please email me your ZIP code for a quote!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jun 2012 03:01:40 +0000</listdate>
+    <saledate>Wed, 17 Oct 2012 18:19:32 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>Setup cards have some warping, otherwise in very good shape. Shipping is $12. Combined shipping rates are available when purchasing multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Jul 2012 23:09:47 +0000</listdate>
+    <saledate>Wed, 28 Nov 2012 16:07:43 +0000</saledate>
+    <price currency='USD'>23.99</price>
+    <condition>verygood</condition>
+    <notes>Original German edition, but of course the game itself is not language-dependent so the main difference is that the rules included in English are a photocopy. Nice condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Aug 2012 09:28:00 +0000</listdate>
+    <saledate>Sat, 18 Aug 2012 18:37:22 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>original German Queen SDJ-edition
+like new (only shrinkwrap removed) game in box in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Aug 2012 16:39:33 +0000</listdate>
+    <saledate>Tue, 04 Dec 2012 08:50:47 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>original German Queen SDJ-edition
+game in excellent, box in vg condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Sep 2012 02:12:35 +0000</listdate>
+    <saledate>Sat, 08 Sep 2012 03:11:43 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>verygood</condition>
+    <notes>Prefer payment by direct deposit.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Sep 2012 09:11:03 +0000</listdate>
+    <saledate>Wed, 03 Oct 2012 11:44:51 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2012 23:41:48 +0000</listdate>
+    <saledate>Wed, 12 Dec 2012 23:46:47 +0000</saledate>
+    <price currency='GBP'>25.99</price>
+    <condition>verygood</condition>
+    <notes>Complete _T_E_M_P_T_A_G_amp; Excellent Condition with English rulebook.  The box is in a sturdy condition with a very minor amount of shelfwear.
+Reasonable offers will be considered.  I can combine shipping costs with multiple items purchased.
+Shiping costs are: £4.99 (UK), £8.99 (Europe), £23.99 (USA/Canada)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Dec 2012 12:06:09 +0000</listdate>
+    <saledate>Sun, 20 Jan 2013 16:14:17 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>verygood</condition>
+    <notes>This copy of Metro has been played twice. All pieces and tile cards are in excellent condition. The only damage is to one side of the box, where there is an ever-so-slight diagonal crease. It wouldn_T_E_M_P_T_A_G_#039;t prevent me from giving it to a friend, but for the avoidance of doubt, I am mentioning it.
+Willing to take offers.
+Actual shipping costs + 3% for credit card fees. Will accept Google Checkout or PayPal.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jan 2013 18:07:52 +0000</listdate>
+    <saledate>Fri, 22 Feb 2013 17:29:46 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>good</condition>
+    <notes>Game has been played 3 or 4 times, all pieces in fine condition, crease on one setup station card.  Box has small crease and puncture on back, does not effect storage.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Feb 2013 03:12:55 +0000</listdate>
+    <saledate>Tue, 19 Feb 2013 04:57:07 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>This is for THORBOY from my recent game auction.  If you are not this user please do not purchase this game.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Mar 2013 12:37:47 +0000</listdate>
+    <saledate>Wed, 10 Apr 2013 16:57:40 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>Played once.
+Shipping in the UK £5, for Europe please ask!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 May 2013 04:32:08 +0000</listdate>
+    <saledate>Wed, 15 May 2013 18:31:18 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Game is for: Gonzai</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 May 2013 09:58:00 +0000</listdate>
+    <saledate>Sun, 26 May 2013 18:35:56 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Auction win -- may only be purchased by Anthony C (dexdouglas).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Jun 2013 13:38:31 +0000</listdate>
+    <saledate>Thu, 06 Jun 2013 02:41:30 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Reserved for dangerouslycheesy</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Jun 2013 16:17:01 +0000</listdate>
+    <saledate>Fri, 28 Jun 2013 18:59:36 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Queen Games - Multilingual edition.  Excellent condition.  Played a few times.  Very light shelf wear on the box.
+This item is only for mattwolfe.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Jun 2013 18:09:10 +0000</listdate>
+    <saledate>Thu, 05 Dec 2013 15:40:02 +0000</saledate>
+    <price currency='GBP'>17.5</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jul 2013 18:33:06 +0000</listdate>
+    <saledate>Mon, 01 Jul 2013 18:43:27 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Reserved for BIN bid in Geeklist auction. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Jul 2013 07:53:28 +0000</listdate>
+    <saledate>Mon, 19 Aug 2013 11:29:14 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jul 2013 21:24:44 +0000</listdate>
+    <saledate>Wed, 17 Jul 2013 18:29:34 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Complete.  Excellent condition.  All components bagged.  Played thrice.  2003 Uberplay English edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Jul 2013 21:33:26 +0000</listdate>
+    <saledate>Sat, 03 Aug 2013 12:48:02 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>Shipping 4€ to Germany
+Also have a look at my other items on sell.
+Max. shipping cost for 2+ items: 5€ to Germany.
+Payment: Money Transfer or Paypal</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Sep 2013 12:58:18 +0000</listdate>
+    <saledate>Thu, 19 Sep 2013 15:26:31 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Unplayed </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Oct 2013 11:09:29 +0000</listdate>
+    <saledate>Fri, 04 Oct 2013 00:20:03 +0000</saledate>
+    <price currency='USD'>24.49</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60159F)
+Paris 1898. Work is beginning on building the Metropolitan. Who can build the longest Metro line? The players put their Metro carriages on the starting stations and the game begins. The players lay their tracks piece by piece to build lines from their own station to any of the other stations, trying to make the lines as long as possible. The longer the line, the more points the player gets when it is finished. If your line ends in the middle of the board you double your points. But with skillful building the lines of the other players can also be shortened - great fun for the whole family. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Oct 2013 10:45:50 +0000</listdate>
+    <saledate>Wed, 05 Mar 2014 06:23:33 +0000</saledate>
+    <price currency='USD'>24.49</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60159F)
+Paris 1898. Work is beginning on building the Metropolitan. Who can build the longest Metro line? The players put their Metro carriages on the starting stations and the game begins. The players lay their tracks piece by piece to build lines from their own station to any of the other stations, trying to make the lines as long as possible. The longer the line, the more points the player gets when it is finished. If your line ends in the middle of the board you double your points. But with skillful building the lines of the other players can also be shortened - great fun for the whole family. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Oct 2013 00:25:23 +0000</listdate>
+    <saledate>Sat, 22 Feb 2014 10:18:59 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played once. Smoke free home. Buyer pays shipping costs. Will ship USPS Priority, FedEx or UPS. Please purchase only if willing to pay via PayPal.
+I will consider cash as an option if you live in the Indianapolis area and agree to a local pickup (NE Indy - Fishers/Castleton).
+Click on my username above to see my complete sale list. Purchase multiple games to save on shipping!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Oct 2013 03:32:39 +0000</listdate>
+    <saledate>Wed, 18 Dec 2013 13:35:31 +0000</saledate>
+    <price currency='USD'>27.52</price>
+    <condition>new</condition>
+    <notes>FFG clear sleeves available see link for sizes and prices
+http://www.boardgamegeek.com/geekstore.php3?action=viewitem_T_E_M_P_T_A_G_amp;itemid=531415
+boardgameguys.net
+See my full selling and buying history on my other ID
+http://www.boardgamegeek.com/geekstore.php3?action=viewfeedback_T_E_M_P_T_A_G_amp;username=tebald
+Email contact       boardgameguys@pacbell.net 
+Contact number      559)636-BGGS / 559)636-2447
+Ask about how you can receive 10% off
+New in shrink - unused in shrink condition
+US shipping only
+Ships from 93277
+Ships USPS
+CA Tax applicable 8.25% and will be assessed on all CA residents
+Responses to questions are normally made within 24 hours
+Shipping quotes upon request
+Actual shipping charges
+Free pick up available prior arrangements must be made
+All sales are final</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Oct 2013 12:16:28 +0000</listdate>
+    <saledate>Sat, 30 Nov 2013 16:43:56 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Brand new, still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Oct 2013 16:36:08 +0000</listdate>
+    <saledate>Thu, 31 Oct 2013 00:56:55 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Brand new copy of the newest printing</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Oct 2013 20:12:02 +0000</listdate>
+    <saledate>Mon, 04 Nov 2013 18:35:15 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>Still in shrink wrap. Newest edition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Nov 2013 10:08:50 +0000</listdate>
+    <saledate>Sat, 30 Nov 2013 03:15:57 +0000</saledate>
+    <price currency='AUD'>37</price>
+    <condition>new</condition>
+    <notes>New in shrink, pick up is available at Sydney CBD. Please check out my other games, combine multiple games for lower shipping :D</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Dec 2013 07:27:35 +0000</listdate>
+    <saledate>Wed, 18 Dec 2013 13:32:12 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>New in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Dec 2013 02:47:47 +0000</listdate>
+    <saledate>Mon, 20 Jan 2014 02:24:13 +0000</saledate>
+    <price currency='USD'>27.52</price>
+    <condition>new</condition>
+    <notes>FFG clear sleeves available see link for sizes and prices
+http://www.boardgamegeek.com/geekstore.php3?action=viewitem_T_E_M_P_T_A_G_amp;itemid=531415
+boardgameguys.net
+See my full selling and buying history on my other ID
+http://www.boardgamegeek.com/geekstore.php3?action=viewfeedback_T_E_M_P_T_A_G_amp;username=tebald
+Email contact boardgameguys@pacbell.net 
+Contact number 559)636-BGGS / 559)636-2447
+Ask about how you can receive 10% off
+New in shrink - unused in shrink condition
+US shipping only
+Ships from 93277
+Ships USPS
+CA Tax applicable 8.25% and will be assessed on all CA residents
+Responses to questions are normally made within 24 hours
+Shipping quotes upon request
+Actual shipping charges
+Free pick up available prior arrangements must be made
+All sales are final</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Dec 2013 03:38:12 +0000</listdate>
+    <saledate>Mon, 06 Jan 2014 22:03:46 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Dec 2013 06:20:06 +0000</listdate>
+    <saledate>Tue, 31 Dec 2013 00:06:40 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Mint condition</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Jan 2014 06:50:42 +0000</listdate>
+    <saledate>Sat, 04 Jan 2014 23:54:01 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>In shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jan 2014 02:14:48 +0000</listdate>
+    <saledate>Thu, 30 Jan 2014 02:56:27 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Auction sale to Scott Johnson.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Feb 2014 05:41:12 +0000</listdate>
+    <saledate>Tue, 18 Mar 2014 14:04:29 +0000</saledate>
+    <price currency='USD'>27.52</price>
+    <condition>new</condition>
+    <notes>FFG clear sleeves available see link for sizes and prices
+http://www.boardgamegeek.com/geekstore.php3?action=viewitem_T_E_M_P_T_A_G_amp;itemid=531415
+boardgameguys.net
+See my full selling and buying history on my other ID
+http://www.boardgamegeek.com/geekstore.php3?action=viewfeedback_T_E_M_P_T_A_G_amp;username=tebald
+Email contact boardgameguys@pacbell.net 
+Contact number 559)636-BGGS / 559)636-2447
+Ask about how you can receive 10% off
+New in shrink - unused in shrink condition
+US shipping only
+Ships from 93277
+Ships USPS
+CA Tax applicable 8.25% and will be assessed on all CA residents
+Responses to questions are normally made within 24 hours
+Shipping quotes upon request
+Actual shipping charges
+Free pick up available prior arrangements must be made
+All sales are final
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Mar 2014 12:36:30 +0000</listdate>
+    <saledate>Mon, 03 Mar 2014 13:20:30 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>verygood</condition>
+    <notes>Reserved voor Ed_the_Red</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Mar 2014 13:34:12 +0000</listdate>
+    <saledate>Thu, 03 Apr 2014 01:22:06 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>I would prefer a local sale (Twin Cities, MN), but will ship if necessary (buyer pays S_T_E_M_P_T_A_G_amp;H). I regularly attend Wednesday night gaming at the FF Event Center and will bring sold games at that time. I will accept cash at time of delivery.
+Queen/Überplay edition. Never been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Apr 2014 21:19:21 +0000</listdate>
+    <saledate>Mon, 14 Apr 2014 17:54:33 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>2000 Queen Games edition.  There are a few very small dings in the box, but great condition overall and components are complete in excellent shape.
+Shipping will be either Standard or Priority USPS from 85704, probably around $10-12.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jun 2014 23:36:14 +0000</listdate>
+    <saledate>Sat, 21 Jun 2014 02:07:50 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>Item is intended only for user Groobies, the winner of the You need new games, I need...to start student loan repayment auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jun 2014 00:19:13 +0000</listdate>
+    <saledate>Wed, 18 Jun 2014 03:19:31 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>good</condition>
+    <notes>Private sale via GeekList auction to the auction winner, BGG Garindan.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Jul 2014 12:01:52 +0000</listdate>
+    <saledate>Thu, 14 Aug 2014 22:40:36 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>Only played a few times. From a smoke and pet free home!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Feb 2014 05:41:12 +0000</listdate>
+    <saledate>Wed, 08 Oct 2014 01:11:26 +0000</saledate>
+    <price currency='USD'>27.52</price>
+    <condition>new</condition>
+    <notes>FFG clear sleeves available see link for sizes and prices
+http://www.boardgamegeek.com/geekstore.php3?action=viewitem_T_E_M_P_T_A_G_amp;itemid=531415
+boardgameguys.net
+See my full selling and buying history on my other ID
+http://www.boardgamegeek.com/geekstore.php3?action=viewfeedback_T_E_M_P_T_A_G_amp;username=tebald
+Email contact boardgameguys@pacbell.net 
+Contact number 559)636-BGGS / 559)636-2447
+Ask about how you can receive 10% off
+New in shrink - unused in shrink condition
+US shipping only
+Ships from 93277
+Ships USPS
+CA Tax applicable 8.25% and will be assessed on all CA residents
+Responses to questions are normally made within 24 hours
+Shipping quotes upon request
+Actual shipping charges
+Free pick up available prior arrangements must be made
+All sales are final
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Oct 2014 23:11:46 +0000</listdate>
+    <saledate>Tue, 21 Oct 2014 17:11:01 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This is a bgg auction item specific for user: Kwill2.  Shipping estimate for USPS medium flat rate box is $12.65.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Aug 2014 13:25:41 +0000</listdate>
+    <saledate>Mon, 27 Oct 2014 14:41:31 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>new</condition>
+    <notes>2013 reprint of International Edition- new in shrinkwrap - Dutch, English, German, French, Spanish _T_E_M_P_T_A_G_amp; Italian.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Nov 2014 21:30:25 +0000</listdate>
+    <saledate>Wed, 10 Dec 2014 01:54:56 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60159F)
+Paris 1898. Work is beginning on building the Metropolitan. Who can build the longest Metro line? The players put their Metro carriages on the starting stations and the game begins. The players lay their tracks piece by piece to build lines from their own station to any of the other stations, trying to make the lines as long as possible. The longer the line, the more points the player gets when it is finished. If your line ends in the middle of the board you double your points. But with skillful building the lines of the other players can also be shortened - great fun for the whole family.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Aug 2014 14:11:36 +0000</listdate>
+    <saledate>Wed, 10 Dec 2014 09:36:55 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>new</condition>
+    <notes>In shrink, English rules available on the Geek</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Aug 2014 20:54:34 +0000</listdate>
+    <saledate>Tue, 30 Dec 2014 16:01:50 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Nov 2014 18:23:51 +0000</listdate>
+    <saledate>Tue, 27 Jan 2015 14:31:26 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>verygood</condition>
+    <notes>Pretty hard to find these days...
+This is the original _T_E_M_P_T_A_G_#039;Iron Horse_T_E_M_P_T_A_G_#039; db Spiele version of the game.
+Box in excellent shape. Inside everything there in great condition. Game has hardly been played (if at all...).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Jan 2015 02:49:09 +0000</listdate>
+    <saledate>Wed, 28 Jan 2015 22:40:25 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Feb 2015 21:13:44 +0000</listdate>
+    <saledate>Fri, 24 Apr 2015 17:08:53 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Brand new, still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Nov 2014 21:17:52 +0000</listdate>
+    <saledate>Wed, 06 May 2015 07:42:20 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>new</condition>
+    <notes>I´m offering the multilingual Version of Metro. The game is new, unused and in shrink.
+Bezahlung / Payment:
+- Deutschland: Überweisung
+- EU: euro bank transfer with IBAN and BIC (prefered) or paypal
+- Worldwide: PayPal 
+--------------------------
+Versandkosten / Shipping costs:
+- Deutschland: Bitte vorher erfragen.
+- EU:Please ask before buying.
+- Worldwide: please ask before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 May 2015 15:04:35 +0000</listdate>
+    <saledate>Fri, 15 May 2015 19:57:53 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>AUCTION WINNER BEOWULF ONLY</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Apr 2015 01:28:03 +0000</listdate>
+    <saledate>Fri, 22 May 2015 19:14:32 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMQ60159)
+Paris 1898. Work is beginning on building the Metropolitan. Who can build the longest Metro line? The players put their Metro carriages on the starting stations and the game begins. The players lay their tracks piece by piece to build lines from their own station to any of the other stations, trying to make the lines as long as possible. The longer the line, the more points the player gets when it is finished. If your line ends in the middle of the board you double your points. But with skillful building the lines of the other players can also be shortened - great fun for the whole family.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Apr 2015 01:28:03 +0000</listdate>
+    <saledate>Wed, 17 Jun 2015 18:58:55 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMQ60159)
+Paris 1898. Work is beginning on building the Metropolitan. Who can build the longest Metro line? The players put their Metro carriages on the starting stations and the game begins. The players lay their tracks piece by piece to build lines from their own station to any of the other stations, trying to make the lines as long as possible. The longer the line, the more points the player gets when it is finished. If your line ends in the middle of the board you double your points. But with skillful building the lines of the other players can also be shortened - great fun for the whole family.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Jun 2015 07:04:44 +0000</listdate>
+    <saledate>Mon, 29 Jun 2015 13:01:06 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>acceptable</condition>
+    <notes>Just to be sure, this is NOT METRO, but Iron Horse, the game that became Metro, and it is a handmade copy that looks very much like the picture in the auction.  I will find the most reasonable shipping I can, but it will normally fit in a medium flat-rate box for $12.65.  
+This sale has been auto-generated for the auction: [geekurl=/geeklist/192685/item/3968738#3968738]Item for Geeklist _T_E_M_P_T_A_G_quot;Take 2 -- My Second Auction (1 Week Only!)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Apr 2015 13:27:37 +0000</listdate>
+    <saledate>Fri, 17 Jul 2015 07:58:37 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>Please ask for shipping fee. If there are other games on my sales list you are interested in, please let me know. You will probably save some shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Jun 2015 15:11:11 +0000</listdate>
+    <saledate>Tue, 18 Aug 2015 12:30:34 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Aug 2015 15:27:21 +0000</listdate>
+    <saledate>Tue, 01 Sep 2015 18:52:15 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Sep 2015 07:17:47 +0000</listdate>
+    <saledate>Mon, 16 Nov 2015 14:06:32 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Condition: New in shrink wrap</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Aug 2015 18:32:50 +0000</listdate>
+    <saledate>Wed, 30 Dec 2015 13:15:22 +0000</saledate>
+    <price currency='USD'>23.79</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Nov 2015 17:42:54 +0000</listdate>
+    <saledate>Tue, 05 Jan 2016 11:24:17 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Feb 2016 00:24:19 +0000</listdate>
+    <saledate>Mon, 01 Feb 2016 08:58:53 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/204342/item/4419782#4419782]Item for Geeklist _T_E_M_P_T_A_G_quot;A Bored Shelf Clearing Post Blizzard Auction (PHL area)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Oct 2015 11:32:28 +0000</listdate>
+    <saledate>Wed, 03 Feb 2016 20:15:40 +0000</saledate>
+    <price currency='GBP'>16</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Mar 2016 15:25:16 +0000</listdate>
+    <saledate>Sun, 13 Mar 2016 19:58:06 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Oct 2015 07:35:42 +0000</listdate>
+    <saledate>Tue, 15 Mar 2016 21:04:34 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Feb 2016 03:14:40 +0000</listdate>
+    <saledate>Thu, 05 May 2016 14:38:10 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>Still in shrink.  Shrink has a couple of small tears, but box has no damage.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2015 14:42:36 +0000</listdate>
+    <saledate>Sat, 07 May 2016 12:30:38 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>new</condition>
+    <notes>Multilingual edition (Dutch, English, French, German, Italian Spanish) with SdJ logo.
+New, in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Nov 2015 05:16:16 +0000</listdate>
+    <saledate>Fri, 17 Jun 2016 20:33:38 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jul 2016 18:07:24 +0000</listdate>
+    <saledate>Tue, 19 Jul 2016 06:18:47 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>this is a shrink-wrapped game.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jul 2016 22:58:28 +0000</listdate>
+    <saledate>Thu, 18 Aug 2016 22:38:16 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Aug 2016 01:29:49 +0000</listdate>
+    <saledate>Wed, 07 Sep 2016 07:14:04 +0000</saledate>
+    <price currency='USD'>29.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Sep 2016 03:30:13 +0000</listdate>
+    <saledate>Mon, 19 Sep 2016 06:19:55 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214046/item/4873360#4873360]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction Leftovers - Over 200 Games Available At Lower Starting Bids_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Nov 2016 17:20:34 +0000</listdate>
+    <saledate>Fri, 11 Nov 2016 14:10:55 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>All pieces in perfect condition, slight wear on the outside corners of the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Nov 2016 16:17:19 +0000</listdate>
+    <saledate>Mon, 28 Nov 2016 02:52:38 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>auction winner (Robrob)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Nov 2016 20:48:38 +0000</listdate>
+    <saledate>Sun, 25 Dec 2016 20:28:47 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Dec 2016 09:40:30 +0000</listdate>
+    <saledate>Wed, 04 Jan 2017 01:37:09 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 04:50:22 +0000</listdate>
+    <saledate>Sat, 04 Mar 2017 05:06:24 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222287/item/5242173#5242173]Item for Geeklist _T_E_M_P_T_A_G_quot;Still have to many games Auction (Ends March 3rd) US Only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Apr 2016 09:30:48 +0000</listdate>
+    <saledate>Wed, 08 Mar 2017 04:37:46 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>new</condition>
+    <notes>Game is complete,  in shrink 
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+German version 
+rules in German,</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Oct 2016 15:25:10 +0000</listdate>
+    <saledate>Sun, 16 Apr 2017 12:41:09 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Feb 2017 14:43:28 +0000</listdate>
+    <saledate>Tue, 09 May 2017 14:09:08 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Aug 2017 19:35:11 +0000</listdate>
+    <saledate>Tue, 28 Nov 2017 20:27:43 +0000</saledate>
+    <price currency='USD'>12.5</price>
+    <condition>verygood</condition>
+    <notes>Played a few times, but in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Feb 2018 08:42:59 +0000</listdate>
+    <saledate>Tue, 06 Feb 2018 08:46:59 +0000</saledate>
+    <price currency='AUD'>5</price>
+    <condition>good</condition>
+    <notes>DO NOT PURCHASE - Cancon sale to Phil81</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Jul 2018 03:35:17 +0000</listdate>
+    <saledate>Thu, 12 Jul 2018 21:46:45 +0000</saledate>
+    <price currency='USD'>14.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Aug 2018 00:47:49 +0000</listdate>
+    <saledate>Tue, 28 Aug 2018 01:31:01 +0000</saledate>
+    <price currency='AUD'>18</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243831/item/6320486#6320486]Item for Geeklist _T_E_M_P_T_A_G_quot;Sydney No-ship Boardgame Auction and Trade Night - September 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Oct 2016 06:39:21 +0000</listdate>
+    <saledate>Sun, 21 Oct 2018 15:47:58 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>Played 2 times. Payment possible through PayPal or bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Apr 2018 10:43:12 +0000</listdate>
+    <saledate>Sun, 02 Dec 2018 22:17:30 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>good</condition>
+    <notes>UK postage £3.00 elsewhere on request
+Also contains English rules</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

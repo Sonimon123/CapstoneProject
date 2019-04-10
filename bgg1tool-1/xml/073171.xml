@@ -1,0 +1,2574 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="73171">
+   <yearpublished>2010</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>180</playingtime>
+   <minplaytime>180</minplaytime>
+   <maxplaytime>180</maxplaytime>
+   <age>13</age>
+       <name primary="true" sortindex="1">Earth Reborn</name>
+         
+   <description>After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;12 highly detailed miniatures represent the two factions which are:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;NORAD: military in thinking and origins. Scientists, engineers, add to their strength._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;SALEMITES: occultists working with cadavers, bringing the dead to life._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Soon after emerging, these two factions meet - and it is determined that they cannot live together in peace._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, and escort through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial. There are core rules to start the game, and each chapter offers 1-3 new rules along with a scenario that uses these new rules._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game also contains the innovative S.A.G.S. (Scenario Auto Generating System), where 2-4 players can make their own maps and mission objectives for near infinite replayability!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Other features include:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;        A Tetris-like board construction using polyomino floor tiles._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;        An order tiles system to give commands to your miniatures._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;        Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player's turn._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;        The I.P.S. (Iconographic Phrasing System) that allows almost any effect to occur with icons, totally language independent._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;        Colored base arcs on miniatures to simplify Line of Sight, shooting, and close combat. It also multiplies characters_T_E_M_P_T_A_G_amp;rsquo; variations and possibilities._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;        The Search rule, giving a visceral feeling to searching in rooms to find equipment._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;        A Mission Points track that also serves as a Morale Points track. _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;        Radio Scrambling to mess with your opponents' orders._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/8_Qg-lf8n9o4IegR01luiA7wAVY=/fit-in/200x150/pic746581.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/FR7rYu_vq8Tcj7BQpWTJ5I1okbw=/0x0/pic746581.jpg</image>
+      
+            <boardgamepublisher objectid="9413">Ludically</boardgamepublisher>
+               <boardgamehonor objectid="13894">2011 Golden Geek Best 2-Player Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="13896">2011 Golden Geek Best Board Game Artwork/Presentation Nominee</boardgamehonor>
+               <boardgamehonor objectid="13905">2011 Golden Geek Best Thematic Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="13906">2011 Golden Geek Best Wargame Nominee</boardgamehonor>
+               <boardgamehonor objectid="13901">2011 Golden Geek Most Innovative Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="12970">2011 International Gamers Award - General Strategy: Two-players Nominee</boardgamehonor>
+               <boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+               <boardgamecategory objectid="1022">Adventure</boardgamecategory>
+               <boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+                      <boardgamedesigner objectid="1206">Christophe Boelinger</boardgamedesigner>
+               <boardgameartist objectid="1206">Christophe Boelinger</boardgameartist>
+               <boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+                                                                                                   <boardgamepodcastepisode objectid="7005">Episode 115</boardgamepodcastepisode>
+                      <boardgamecategory objectid="1046">Fighting</boardgamecategory>
+               <boardgameversion objectid="43326">First edition</boardgameversion>
+                                    <boardgameartist objectid="38198">David Goujard</boardgameartist>
+               <boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+               <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+               <boardgamepodcastepisode objectid="125068">House Rules 92: Four Scenarios in to Earth Reborn</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="132699">House Rules 99: Earth Reborn Scenarios Five and Six</boardgamepodcastepisode>
+                      <boardgameartist objectid="38196">Paul Mafayon</boardgameartist>
+               <boardgameartist objectid="12317">Thierry Masson</boardgameartist>
+                      <boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+               <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+               <boardgameartist objectid="38199">Jean-Charles Mourey</boardgameartist>
+               <boardgamepodcastepisode objectid="91246">OBG 95: BGG Con and iOS</boardgamepodcastepisode>
+                             <boardgamefamily objectid="41799">Post-Apocalyptic</boardgamefamily>
+               <boardgameartist objectid="38197">Antoine Racano</boardgameartist>
+                                                  <boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+               <boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+               <boardgamecategory objectid="1081">Spies/Secret Agents</boardgamecategory>
+               <boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+                             <boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
+               <boardgamecategory objectid="2481">Zombies</boardgamecategory>
+                    
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="85">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="44" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="71" />
+     <result value="Recommended" numvotes="10" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="9" />
+     <result value="Recommended" numvotes="33" />
+     <result value="Not Recommended" numvotes="18" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="12" />
+     <result value="Recommended" numvotes="39" />
+     <result value="Not Recommended" numvotes="13" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="43" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="41">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="24" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="15" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="35">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="2" />
+     <result value="10" numvotes="4" />
+     <result value="12" numvotes="10" />
+     <result value="14" numvotes="15" />
+     <result value="16" numvotes="4" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>3062</usersrated>
+     <average>7.7311</average>
+     <bayesaverage>7.04813</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="311" bayesaverage="7.04813" />
+            
+       
+              <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="61" bayesaverage="7.27629" />
+            
+           </ranks>
+     
+     <stddev>1.65195</stddev>
+     <median>0</median>
+     <owned>5741</owned>
+     <trading>381</trading>
+     <wanting>323</wanting>
+     <wishing>1771</wishing>
+     <numcomments>1010</numcomments>
+     <numweights>288</numweights>
+     <averageweight>3.8819</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sun, 12 Dec 2010 01:09:55 +0000</listdate>
+    <saledate>Mon, 20 Dec 2010 20:16:32 +0000</saledate>
+    <price currency='USD'>47.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7060)
+After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster.
+12 highly detailed miniatures represent the two factions which are:
+NORAD: military in thinking and origins. Scientists, engineers, add to their strength.
+SALEMITES: occultists working with cadavers, bringing the dead to life.
+Soon after emerging, these two factions meet - and it is determined that they can not live together in peace.
+Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules.
+The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+Other features include:
+1.A Tetris-like board construction using Tetris-shaped floor tiles.
+2.An order tiles system to give commands to your miniatures
+3.Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player_T_E_M_P_T_A_G_#039;s turn.
+4.The I.P.S. (Iconographic Phrasing System) which allows almost any effect to occur with icons, totally language independent.
+5.Colored base arcs on miniatures to simplify Line of Sight, shooting and close combat. It also multiplies characters’ variations and possibilities.
+6.The Search rule, giving a visceral feeling to searching in rooms to find equipment.
+7.A Mission Points track that also serves as Morale Points track. 
+8.Radio Scrambling to mess with your opponents_T_E_M_P_T_A_G_#039; orders. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Dec 2010 13:41:12 +0000</listdate>
+    <saledate>Thu, 30 Dec 2010 21:08:33 +0000</saledate>
+    <price currency='USD'>46.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+EARTH REBORN $46.95 
+Z-Man Games [ZMG 7060]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Dec 2010 23:53:57 +0000</listdate>
+    <saledate>Thu, 20 Jan 2011 12:32:48 +0000</saledate>
+    <price currency='USD'>47.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7060)
+After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster.
+12 highly detailed miniatures represent the two factions which are:
+NORAD: military in thinking and origins. Scientists, engineers, add to their strength.
+SALEMITES: occultists working with cadavers, bringing the dead to life.
+Soon after emerging, these two factions meet - and it is determined that they can not live together in peace.
+Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules.
+The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+Other features include:
+1.A Tetris-like board construction using Tetris-shaped floor tiles.
+2.An order tiles system to give commands to your miniatures
+3.Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player_T_E_M_P_T_A_G_#039;s turn.
+4.The I.P.S. (Iconographic Phrasing System) which allows almost any effect to occur with icons, totally language independent.
+5.Colored base arcs on miniatures to simplify Line of Sight, shooting and close combat. It also multiplies characters’ variations and possibilities.
+6.The Search rule, giving a visceral feeling to searching in rooms to find equipment.
+7.A Mission Points track that also serves as Morale Points track. 
+8.Radio Scrambling to mess with your opponents_T_E_M_P_T_A_G_#039; orders. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Dec 2010 17:37:31 +0000</listdate>
+    <saledate>Fri, 31 Dec 2010 20:16:08 +0000</saledate>
+    <price currency='USD'>46.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+EARTH REBORN $46.95
+Z-Man Games [ZMG 7060]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Dec 2010 21:15:23 +0000</listdate>
+    <saledate>Sat, 15 Jan 2011 19:00:15 +0000</saledate>
+    <price currency='USD'>46.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+EARTH REBORN $46.95
+Z-Man Games [ZMG 7060]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Jan 2011 05:43:18 +0000</listdate>
+    <saledate>Wed, 05 Jan 2011 10:35:47 +0000</saledate>
+    <price currency='USD'>51.99</price>
+    <condition>new</condition>
+    <notes>Odyssey GameShop is your source for the best deals on the games you want. 
+Need Games Now? Give Odyssey GameShop a try! 
+All games are new in original shrink-wrap, unless otherwise noted in listing. 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+EARTH REBORN
+Retail Price - $80.00
+Odyssey GameShop Price - $51.99
+CONDITION: New in Shrink
+NOTE: We have multiple copies available for sale
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+SHIPPING:
+Domestic - USPS Parcel or Priority 
+International – International Priority
+We only charge actual shipping and welcome international orders from all BGG members from around the world!
+(Email us for an international shipping quote).
+SPECIAL ORDERS:
+Odyssey GameShop also takes special orders.
+Please ask us if you want any new games at a discounted price or if you would like to make a purchase and do not see the item in our marketplace. 
+SPECIAL BONUS: 
+All orders will receive exclusive Odyssey GameShop Collectible Die/Dice!
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Odyssey GameShop
+Website: www.OdysseyGameShop.com
+Email/PayPal: odysseygameshop@gmail.com
+Phone: 406-451-1570</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Jan 2011 18:17:57 +0000</listdate>
+    <saledate>Mon, 31 Jan 2011 19:32:04 +0000</saledate>
+    <price currency='GBP'>47.99</price>
+    <condition>new</condition>
+    <notes>£6 postage to UK
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Jan 2011 04:07:58 +0000</listdate>
+    <saledate>Tue, 18 Jan 2011 01:10:34 +0000</saledate>
+    <price currency='USD'>46.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+EARTH REBORN $46.95
+Z-Man Games [ZMG 7060]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Jan 2011 23:02:04 +0000</listdate>
+    <saledate>Wed, 26 Jan 2011 21:14:26 +0000</saledate>
+    <price currency='USD'>46.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+EARTH REBORN $46.95
+Z-Man Games [ZMG 7060]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Jan 2011 03:17:41 +0000</listdate>
+    <saledate>Mon, 24 Jan 2011 13:13:26 +0000</saledate>
+    <price currency='USD'>46.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+EARTH REBORN $46.95
+Z-Man Games [ZMG 7060]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Jan 2011 15:47:30 +0000</listdate>
+    <saledate>Sat, 22 Jan 2011 23:00:55 +0000</saledate>
+    <price currency='USD'>47.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7060)
+After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster.
+12 highly detailed miniatures represent the two factions which are:
+NORAD: military in thinking and origins. Scientists, engineers, add to their strength.
+SALEMITES: occultists working with cadavers, bringing the dead to life.
+Soon after emerging, these two factions meet - and it is determined that they can not live together in peace.
+Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules.
+The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+Other features include:
+1.A Tetris-like board construction using Tetris-shaped floor tiles.
+2.An order tiles system to give commands to your miniatures
+3.Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player_T_E_M_P_T_A_G_#039;s turn.
+4.The I.P.S. (Iconographic Phrasing System) which allows almost any effect to occur with icons, totally language independent.
+5.Colored base arcs on miniatures to simplify Line of Sight, shooting and close combat. It also multiplies characters’ variations and possibilities.
+6.The Search rule, giving a visceral feeling to searching in rooms to find equipment.
+7.A Mission Points track that also serves as Morale Points track. 
+8.Radio Scrambling to mess with your opponents_T_E_M_P_T_A_G_#039; orders. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Jan 2011 13:31:06 +0000</listdate>
+    <saledate>Mon, 24 Jan 2011 23:14:52 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Jan 2011 02:05:22 +0000</listdate>
+    <saledate>Thu, 31 Mar 2011 04:50:51 +0000</saledate>
+    <price currency='USD'>47.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7060)
+After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster.
+12 highly detailed miniatures represent the two factions which are:
+NORAD: military in thinking and origins. Scientists, engineers, add to their strength.
+SALEMITES: occultists working with cadavers, bringing the dead to life.
+Soon after emerging, these two factions meet - and it is determined that they can not live together in peace.
+Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules.
+The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+Other features include:
+1.A Tetris-like board construction using Tetris-shaped floor tiles.
+2.An order tiles system to give commands to your miniatures
+3.Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player_T_E_M_P_T_A_G_#039;s turn.
+4.The I.P.S. (Iconographic Phrasing System) which allows almost any effect to occur with icons, totally language independent.
+5.Colored base arcs on miniatures to simplify Line of Sight, shooting and close combat. It also multiplies characters’ variations and possibilities.
+6.The Search rule, giving a visceral feeling to searching in rooms to find equipment.
+7.A Mission Points track that also serves as Morale Points track. 
+8.Radio Scrambling to mess with your opponents_T_E_M_P_T_A_G_#039; orders. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Feb 2011 14:14:44 +0000</listdate>
+    <saledate>Wed, 23 Feb 2011 22:14:43 +0000</saledate>
+    <price currency='USD'>46.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+EARTH REBORN $46.95
+Z-Man Games [ZMG 7060]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Feb 2011 22:30:52 +0000</listdate>
+    <saledate>Wed, 02 Mar 2011 10:49:33 +0000</saledate>
+    <price currency='USD'>46.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+EARTH REBORN $46.95
+Z-Man Games [ZMG 7060]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Mar 2011 16:34:33 +0000</listdate>
+    <saledate>Thu, 07 Apr 2011 20:16:31 +0000</saledate>
+    <price currency='USD'>47.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7060)
+After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster.
+12 highly detailed miniatures represent the two factions which are:
+NORAD: military in thinking and origins. Scientists, engineers, add to their strength.
+SALEMITES: occultists working with cadavers, bringing the dead to life.
+Soon after emerging, these two factions meet - and it is determined that they can not live together in peace.
+Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules.
+The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+Other features include:
+1.A Tetris-like board construction using Tetris-shaped floor tiles.
+2.An order tiles system to give commands to your miniatures
+3.Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player_T_E_M_P_T_A_G_#039;s turn.
+4.The I.P.S. (Iconographic Phrasing System) which allows almost any effect to occur with icons, totally language independent.
+5.Colored base arcs on miniatures to simplify Line of Sight, shooting and close combat. It also multiplies characters’ variations and possibilities.
+6.The Search rule, giving a visceral feeling to searching in rooms to find equipment.
+7.A Mission Points track that also serves as Morale Points track. 
+8.Radio Scrambling to mess with your opponents_T_E_M_P_T_A_G_#039; orders. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Apr 2011 17:55:02 +0000</listdate>
+    <saledate>Mon, 20 Jun 2011 17:53:03 +0000</saledate>
+    <price currency='USD'>46.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+EARTH REBORN $46.95
+Z-Man Games [ZMG 7060]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Apr 2011 20:55:40 +0000</listdate>
+    <saledate>Fri, 06 May 2011 20:52:32 +0000</saledate>
+    <price currency='USD'>47.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7060)
+After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster.
+12 highly detailed miniatures represent the two factions which are:
+NORAD: military in thinking and origins. Scientists, engineers, add to their strength.
+SALEMITES: occultists working with cadavers, bringing the dead to life.
+Soon after emerging, these two factions meet - and it is determined that they can not live together in peace.
+Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules.
+The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+Other features include:
+1.A Tetris-like board construction using Tetris-shaped floor tiles.
+2.An order tiles system to give commands to your miniatures
+3.Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player_T_E_M_P_T_A_G_#039;s turn.
+4.The I.P.S. (Iconographic Phrasing System) which allows almost any effect to occur with icons, totally language independent.
+5.Colored base arcs on miniatures to simplify Line of Sight, shooting and close combat. It also multiplies characters’ variations and possibilities.
+6.The Search rule, giving a visceral feeling to searching in rooms to find equipment.
+7.A Mission Points track that also serves as Morale Points track. 
+8.Radio Scrambling to mess with your opponents_T_E_M_P_T_A_G_#039; orders. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Apr 2011 15:00:41 +0000</listdate>
+    <saledate>Tue, 11 Jun 2013 10:21:17 +0000</saledate>
+    <price currency='EUR'>54.99</price>
+    <condition>new</condition>
+    <notes>Zman Games - Earth Reborn
+Language: English
+Players: 2-4
+Age: 13+
+Duration: to 4 hour
+Weight: 3.360 kg
+New - mint condition - unopened - still in shrink wrap.
+Theme: After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster. Soon after emerging, these two factions meet - and it is determined that they can not live together in peace. Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules. The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+See Details (more info) or below for complete selling, payment and shipping conditions.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Apr 2011 15:53:05 +0000</listdate>
+    <saledate>Sat, 16 Apr 2011 18:38:14 +0000</saledate>
+    <price currency='GBP'>47</price>
+    <condition>new</condition>
+    <notes>UK courier £5.99
+ Other countries on request
+we aim to ship same day as payment received.
+ </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Apr 2011 02:02:30 +0000</listdate>
+    <saledate>Mon, 18 Apr 2011 17:51:00 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>This game has been opened and the pieces have been punched out but it has never been played.  This is in excellent condition.
+I accept paypal payments only.  Game will ship via UPS.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 May 2011 02:15:55 +0000</listdate>
+    <saledate>Mon, 29 Aug 2011 08:21:09 +0000</saledate>
+    <price currency='USD'>47.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7060)
+After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster.
+12 highly detailed miniatures represent the two factions which are:
+NORAD: military in thinking and origins. Scientists, engineers, add to their strength.
+SALEMITES: occultists working with cadavers, bringing the dead to life.
+Soon after emerging, these two factions meet - and it is determined that they can not live together in peace.
+Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules.
+The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+Other features include:
+1.A Tetris-like board construction using Tetris-shaped floor tiles.
+2.An order tiles system to give commands to your miniatures
+3.Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player_T_E_M_P_T_A_G_#039;s turn.
+4.The I.P.S. (Iconographic Phrasing System) which allows almost any effect to occur with icons, totally language independent.
+5.Colored base arcs on miniatures to simplify Line of Sight, shooting and close combat. It also multiplies characters’ variations and possibilities.
+6.The Search rule, giving a visceral feeling to searching in rooms to find equipment.
+7.A Mission Points track that also serves as Morale Points track. 
+8.Radio Scrambling to mess with your opponents_T_E_M_P_T_A_G_#039; orders. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 May 2011 15:14:51 +0000</listdate>
+    <saledate>Thu, 19 May 2011 18:44:24 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>never played condition.  Mini_T_E_M_P_T_A_G_#039;s are painted.  Better than army painted but by a _T_E_M_P_T_A_G_quot;non_T_E_M_P_T_A_G_quot; professional.  Most folks have commented that they look cool.
+Shipping will be $14</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 May 2011 17:33:14 +0000</listdate>
+    <saledate>Sun, 29 May 2011 19:33:32 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>verygood</condition>
+    <notes>This copy of Earth Reborn is fully punched, but never played.  All pieces present and in excellent condition.  </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Jun 2011 12:47:55 +0000</listdate>
+    <saledate>Fri, 03 Jun 2011 14:53:18 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Only played once.  All pieces included, excellent condition, kept in smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Jun 2011 03:17:29 +0000</listdate>
+    <saledate>Thu, 09 Jun 2011 02:44:07 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>This item is listed for dysjunct who won the item at auction:)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Jun 2011 22:22:04 +0000</listdate>
+    <saledate>Mon, 18 Jul 2011 03:19:31 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink!
+FYI: Very light corner ding
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard Shipping to USA48: $11.95
+I will combine shipping to save you money when ordering multiple games.
+Standard shipping is UPS Ground. Other shipping options are available upon request (Next Day / USPS / FEDEX). Contact for shipping quote.
+Alaska and Hawaii orders are shipped via USPS.
+International orders are shipped via USPS First Class (under 4 pounds) or USPS Priority Mail (up to 70 pounds per box). Contact for shipping quote.
+Orders ship within 1 business day from receipt of payment (5-10 day waiting period on personal checks).
+Ohio residents will be charged 6.5% sales tax.
+Thank-you,
+Mr. B
+ROCKIN’ B GAMES
+www.rockinbgames.com
+mrb.rockinbgames@gmail.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Jun 2011 09:03:36 +0000</listdate>
+    <saledate>Thu, 23 Jun 2011 09:03:10 +0000</saledate>
+    <price currency='GBP'>44.99</price>
+    <condition>new</condition>
+    <notes>New - In shrink wrap
+All profit to UK Charity Green Corridor
+RRP: £54.99
+Green Corridor Price:£44.99
+UK Postage £6.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Jun 2011 13:21:05 +0000</listdate>
+    <saledate>Sat, 11 Jun 2011 15:59:28 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Looks like a good game but I_T_E_M_P_T_A_G_#039;m selling it as I don_T_E_M_P_T_A_G_#039;t realistically have the time to invest in it now that I_T_E_M_P_T_A_G_#039;ve got a baby (also need more space in the house!).  It_T_E_M_P_T_A_G_#039;s only been played 3 times so is in good shape.  The rulebooks show signs of having been flicked through but other than that everything_T_E_M_P_T_A_G_#039;s in pretty much tip top shape.
+Shipping will be £7 as it_T_E_M_P_T_A_G_#039;s a big game.  Due to the weight I_T_E_M_P_T_A_G_#039;m only selling this to UK buyers - trust me, the postage costs for sending heavy packages overseas are crazy now. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Jun 2011 21:25:18 +0000</listdate>
+    <saledate>Mon, 27 Jun 2011 05:36:53 +0000</saledate>
+    <price currency='USD'>43.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. US Postal Service and UPS Ground available.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Jun 2011 23:35:37 +0000</listdate>
+    <saledate>Wed, 22 Jun 2011 19:06:58 +0000</saledate>
+    <price currency='USD'>41</price>
+    <condition>new</condition>
+    <notes>Up for sale is a brand new, still in shrink copy of the game Earth Reborn.  The game has never been opened and is still in new shape.
+Shipping cost is for USPS Parcel Post with Delivery Confirmation, and does not include insurance.  If desired I can also ship UPS with Delivery Confirmation and free $100 insurance, but price will vary based on location.  International buyers please contact me about shipping costs before purchasing.
+I will also give a %2 discount on everything if you pay with check, but be aware it must clear before shipment.
+Please don_T_E_M_P_T_A_G_#039;t hesitate to ask me any questions about shipping or for more info.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jun 2011 08:31:53 +0000</listdate>
+    <saledate>Fri, 22 Jul 2011 21:28:41 +0000</saledate>
+    <price currency='GBP'>42</price>
+    <condition>new</condition>
+    <notes>New - In shrink wrap
+All profit to UK Charity Green Corridor
+RRP: £54.99
+Green Corridor Price:£44.99
+UK Postage £6.00</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jul 2011 05:01:30 +0000</listdate>
+    <saledate>Fri, 12 Aug 2011 12:46:35 +0000</saledate>
+    <price currency='USD'>43.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. US Postal Service and UPS Ground available.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jul 2011 01:29:59 +0000</listdate>
+    <saledate>Mon, 11 Jul 2011 12:45:58 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Aging One</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Aug 2011 16:56:27 +0000</listdate>
+    <saledate>Tue, 09 Aug 2011 17:01:29 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>For user BugLaden ONLY! from Geekbay Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Aug 2011 14:59:40 +0000</listdate>
+    <saledate>Wed, 10 Aug 2011 15:06:18 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>Game is posted for an auction winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Aug 2011 02:23:47 +0000</listdate>
+    <saledate>Wed, 17 Aug 2011 04:43:26 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Reserved for BGG user: urizen95</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Aug 2011 03:14:15 +0000</listdate>
+    <saledate>Fri, 09 Sep 2011 00:05:45 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Only played once.  Everything looks brand new.  Included printed out help sheets</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Aug 2011 01:40:48 +0000</listdate>
+    <saledate>Sun, 11 Sep 2011 04:19:37 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>NIS, one corner _T_E_M_P_T_A_G_quot;smooshed_T_E_M_P_T_A_G_quot; slightly</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Aug 2011 01:35:20 +0000</listdate>
+    <saledate>Wed, 28 Sep 2011 15:36:57 +0000</saledate>
+    <price currency='USD'>47.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7060)
+After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster.
+12 highly detailed miniatures represent the two factions which are:
+NORAD: military in thinking and origins. Scientists, engineers, add to their strength.
+SALEMITES: occultists working with cadavers, bringing the dead to life.
+Soon after emerging, these two factions meet - and it is determined that they can not live together in peace.
+Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules.
+The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+Other features include:
+1.A Tetris-like board construction using Tetris-shaped floor tiles.
+2.An order tiles system to give commands to your miniatures
+3.Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player_T_E_M_P_T_A_G_#039;s turn.
+4.The I.P.S. (Iconographic Phrasing System) which allows almost any effect to occur with icons, totally language independent.
+5.Colored base arcs on miniatures to simplify Line of Sight, shooting and close combat. It also multiplies characters’ variations and possibilities.
+6.The Search rule, giving a visceral feeling to searching in rooms to find equipment.
+7.A Mission Points track that also serves as Morale Points track. 
+8.Radio Scrambling to mess with your opponents_T_E_M_P_T_A_G_#039; orders. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Sep 2011 16:33:42 +0000</listdate>
+    <saledate>Sat, 15 Oct 2011 21:25:39 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>The game has been played once and is in like new condition. 
+I ship to the United States only. Shipping is via USPS parcel post with delivery confirmation. Payment through Paypal only. Buyer pays shipping cost.
+Please check out the other games I am selling! I will combine shipping.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Sep 2011 03:23:20 +0000</listdate>
+    <saledate>Tue, 13 Sep 2011 12:20:29 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Unpunch.  Return accepted and money refunded if not satisfied with condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Sep 2011 02:22:51 +0000</listdate>
+    <saledate>Tue, 20 Sep 2011 02:56:33 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>This item is for the winner of my recent auction:
+************Jake Schreiber*******************
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Sep 2011 18:22:12 +0000</listdate>
+    <saledate>Thu, 22 Sep 2011 00:11:52 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>FOR USER timmontana ONLY!!!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Sep 2011 03:09:21 +0000</listdate>
+    <saledate>Tue, 27 Sep 2011 12:10:48 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>likenew</condition>
+    <notes>For David Chu (davidchujr) only!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Sep 2011 03:46:52 +0000</listdate>
+    <saledate>Tue, 27 Dec 2011 20:45:35 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>In shrinkwrap.  Will combine on shipping.  Shipping from Chicago, IL.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Sep 2011 04:03:56 +0000</listdate>
+    <saledate>Thu, 29 Sep 2011 17:04:26 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Perfect condition. Ships in the US for $9. I accept PayPal or Amazon Payments. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Sep 2011 16:08:08 +0000</listdate>
+    <saledate>Thu, 29 Sep 2011 18:10:08 +0000</saledate>
+    <price currency='USD'>47.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7060)
+After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster.
+12 highly detailed miniatures represent the two factions which are:
+NORAD: military in thinking and origins. Scientists, engineers, add to their strength.
+SALEMITES: occultists working with cadavers, bringing the dead to life.
+Soon after emerging, these two factions meet - and it is determined that they can not live together in peace.
+Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules.
+The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+Other features include:
+1.A Tetris-like board construction using Tetris-shaped floor tiles.
+2.An order tiles system to give commands to your miniatures
+3.Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player_T_E_M_P_T_A_G_#039;s turn.
+4.The I.P.S. (Iconographic Phrasing System) which allows almost any effect to occur with icons, totally language independent.
+5.Colored base arcs on miniatures to simplify Line of Sight, shooting and close combat. It also multiplies characters’ variations and possibilities.
+6.The Search rule, giving a visceral feeling to searching in rooms to find equipment.
+7.A Mission Points track that also serves as Morale Points track. 
+8.Radio Scrambling to mess with your opponents_T_E_M_P_T_A_G_#039; orders. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Sep 2011 19:30:53 +0000</listdate>
+    <saledate>Fri, 14 Oct 2011 06:10:34 +0000</saledate>
+    <price currency='USD'>47.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7060)
+After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster.
+12 highly detailed miniatures represent the two factions which are:
+NORAD: military in thinking and origins. Scientists, engineers, add to their strength.
+SALEMITES: occultists working with cadavers, bringing the dead to life.
+Soon after emerging, these two factions meet - and it is determined that they can not live together in peace.
+Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules.
+The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+Other features include:
+1.A Tetris-like board construction using Tetris-shaped floor tiles.
+2.An order tiles system to give commands to your miniatures
+3.Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player_T_E_M_P_T_A_G_#039;s turn.
+4.The I.P.S. (Iconographic Phrasing System) which allows almost any effect to occur with icons, totally language independent.
+5.Colored base arcs on miniatures to simplify Line of Sight, shooting and close combat. It also multiplies characters’ variations and possibilities.
+6.The Search rule, giving a visceral feeling to searching in rooms to find equipment.
+7.A Mission Points track that also serves as Morale Points track. 
+8.Radio Scrambling to mess with your opponents_T_E_M_P_T_A_G_#039; orders. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Sep 2011 23:57:17 +0000</listdate>
+    <saledate>Fri, 28 Oct 2011 03:45:58 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>new</condition>
+    <notes>Shipping is $15. Combined shipping rates are available when purchasing multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Oct 2011 19:54:26 +0000</listdate>
+    <saledate>Sun, 09 Oct 2011 23:21:09 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Played one time. Everything in great condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2011 10:04:28 +0000</listdate>
+    <saledate>Sun, 30 Oct 2011 15:14:19 +0000</saledate>
+    <price currency='USD'>43.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Oct 2011 20:42:35 +0000</listdate>
+    <saledate>Fri, 23 Dec 2011 21:46:26 +0000</saledate>
+    <price currency='USD'>47.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7060)
+ After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster.
+ 12 highly detailed miniatures represent the two factions which are:
+ NORAD: military in thinking and origins. Scientists, engineers, add to their strength.
+ SALEMITES: occultists working with cadavers, bringing the dead to life.
+ Soon after emerging, these two factions meet - and it is determined that they can not live together in peace.
+ Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules.
+ The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+ Other features include:
+ 1.A Tetris-like board construction using Tetris-shaped floor tiles.
+ 2.An order tiles system to give commands to your miniatures
+ 3.Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player_T_E_M_P_T_A_G_#039;s turn.
+ 4.The I.P.S. (Iconographic Phrasing System) which allows almost any effect to occur with icons, totally language independent.
+ 5.Colored base arcs on miniatures to simplify Line of Sight, shooting and close combat. It also multiplies characters’ variations and possibilities.
+ 6.The Search rule, giving a visceral feeling to searching in rooms to find equipment.
+ 7.A Mission Points track that also serves as Morale Points track. 
+8.Radio Scrambling to mess with your opponents_T_E_M_P_T_A_G_#039; orders. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Oct 2011 05:11:00 +0000</listdate>
+    <saledate>Tue, 18 Oct 2011 16:09:19 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Trailofdead</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Oct 2011 03:39:02 +0000</listdate>
+    <saledate>Mon, 31 Oct 2011 12:27:41 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>for Bankler only for BGG auction won.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Oct 2011 19:48:57 +0000</listdate>
+    <saledate>Sat, 05 Nov 2011 06:13:06 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Opened, punched, stored, but not played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Nov 2011 12:52:17 +0000</listdate>
+    <saledate>Sat, 10 Dec 2011 22:34:26 +0000</saledate>
+    <price currency='USD'>43.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Nov 2011 00:35:31 +0000</listdate>
+    <saledate>Fri, 18 Nov 2011 01:31:00 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>verygood</condition>
+    <notes>Marketplace Entry only for Chris Wuebbles (Togra) for winning in the No-Reserve Auction - These games need playing auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Nov 2011 13:50:35 +0000</listdate>
+    <saledate>Sat, 19 Nov 2011 04:39:18 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>ONLY for sale to my Great Games Auction winner user id _T_E_M_P_T_A_G_quot;slateman_T_E_M_P_T_A_G_quot;
+Parcel post shipping $11.  Box is too large for priority flat raite.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Nov 2011 16:40:27 +0000</listdate>
+    <saledate>Thu, 01 Dec 2011 16:12:19 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>Played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Dec 2011 22:02:58 +0000</listdate>
+    <saledate>Mon, 12 Dec 2011 07:46:56 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>likenew</condition>
+    <notes>For user Zoide ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Dec 2011 07:37:05 +0000</listdate>
+    <saledate>Fri, 16 Dec 2011 20:28:57 +0000</saledate>
+    <price currency='USD'>43.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Dec 2011 23:54:19 +0000</listdate>
+    <saledate>Mon, 30 Jan 2012 01:59:44 +0000</saledate>
+    <price currency='USD'>47.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7060)
+ 
+After 500 years, two factions emerge from their underground cities into a new world, an Earth reborn from nuclear disaster.
+ 
+12 highly detailed miniatures represent the two factions which are:
+ 
+NORAD: military in thinking and origins. Scientists, engineers, add to their strength.
+ 
+SALEMITES: occultists working with cadavers, bringing the dead to life.
+ 
+Soon after emerging, these two factions meet - and it is determined that they can not live together in peace.
+ 
+Earth Reborn offers nine scenarios that take you through missions of rescue, retrieval, escort. Through areas of labs, mansions, towns, and more. Each scenario builds upon the rules of a new chapter: the game system is built like a tutorial: There are core rules to start the game and each chapter offers 1-3 new rules along with a scenario that uses these new rules.
+ 
+The game also contains the innovative S.A.G.S. (Scenario Auto Generating System) where 2-4 players can make their own maps and mission objectives for near infinite replayability!
+ 
+Other features include:
+ 
+1.A Tetris-like board construction using Tetris-shaped floor tiles.
+ 2.An order tiles system to give commands to your miniatures
+ 3.Interrupt Duels with Bluff, betting command points to interrupt an enemy character and act during another player_T_E_M_P_T_A_G_#039;s turn.
+ 4.The I.P.S. (Iconographic Phrasing System) which allows almost any effect to occur with icons, totally language independent.
+ 5.Colored base arcs on miniatures to simplify Line of Sight, shooting and close combat. It also multiplies characters’ variations and possibilities.
+ 6.The Search rule, giving a visceral feeling to searching in rooms to find equipment.
+ 7.A Mission Points track that also serves as Morale Points track. 
+8.Radio Scrambling to mess with your opponents_T_E_M_P_T_A_G_#039; orders. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Dec 2011 14:50:01 +0000</listdate>
+    <saledate>Tue, 27 Dec 2011 01:16:00 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>In shrink.  </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jan 2012 09:21:21 +0000</listdate>
+    <saledate>Wed, 01 Feb 2012 13:10:03 +0000</saledate>
+    <price currency='EUR'>44.95</price>
+    <condition>likenew</condition>
+    <notes>engl. Version
+Shipping to Germany €7 for insured, trackable Package.
+Shipping is €17 for insured, trackable package within the EU.
+Please ask for other shipping rates!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jan 2012 18:54:49 +0000</listdate>
+    <saledate>Mon, 06 Feb 2012 18:28:02 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Punched and cards sleeved; never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jan 2012 20:51:58 +0000</listdate>
+    <saledate>Tue, 24 Jan 2012 01:23:30 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Reserved for IslandEvan</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Feb 2012 22:51:14 +0000</listdate>
+    <saledate>Fri, 03 Feb 2012 01:01:27 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>For travandallie ONLY.  Auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Feb 2012 17:56:42 +0000</listdate>
+    <saledate>Sat, 03 Mar 2012 21:47:54 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Mar 2012 18:49:40 +0000</listdate>
+    <saledate>Sun, 04 Mar 2012 12:31:15 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>likenew</condition>
+    <notes>Only played once, I really enjoyed however not for my gaming group.
+Shipping to mainland UK should be £7.50 (Quite a heavy game).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Mar 2012 03:44:38 +0000</listdate>
+    <saledate>Thu, 08 Mar 2012 19:28:03 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>FOR USER Joshua Gottesman (Joshuaaaaaa)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Apr 2012 14:56:32 +0000</listdate>
+    <saledate>Tue, 10 Apr 2012 17:30:53 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>For Gregory Herring, won through auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Apr 2012 18:12:52 +0000</listdate>
+    <saledate>Wed, 25 Apr 2012 06:03:07 +0000</saledate>
+    <price currency='USD'>82</price>
+    <condition>verygood</condition>
+    <notes>Auction win for dongdong0220
+Earth Reborn _T_E_M_P_T_A_G_amp; Robo Rally</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 May 2012 07:36:48 +0000</listdate>
+    <saledate>Wed, 16 May 2012 01:44:09 +0000</saledate>
+    <price currency='AUD'>60</price>
+    <condition>likenew</condition>
+    <notes>Game removed from shrink. Played once.
+Box and all components in excellent condition.
+All cards sleeved.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 May 2012 14:32:58 +0000</listdate>
+    <saledate>Tue, 29 May 2012 22:50:28 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Reserved for matthean
+For the Auction:
+Auction/Sale List - Bunch of Great Games - Origins Pickup Available - Win Prizes - Ends Tue 5/29/12
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 May 2012 16:14:52 +0000</listdate>
+    <saledate>Wed, 30 May 2012 17:20:53 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Christian Johnson
+Earth Reborn Christian Johnson $40.00 Purge #2 $40.00
+used. Played 5 times. Large box, close to 6 1/2 lbs. No name label inside box top. Bagged _T_E_M_P_T_A_G_amp; labeled. Counted the pieces we used last time I put it away, have not re-counted, but I assume it is complete. I_T_E_M_P_T_A_G_#039;ve included a few printouts from BGG.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jun 2012 17:02:00 +0000</listdate>
+    <saledate>Tue, 05 Jun 2012 05:25:31 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>Punched but never played.
+Buyer will pay actual shipping costs via USPS Priority Mail.  I have several other games up for sale right now, combine shipping and save!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jun 2012 02:35:23 +0000</listdate>
+    <saledate>Tue, 12 Jun 2012 18:18:44 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>This is for an auction sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jun 2012 11:15:10 +0000</listdate>
+    <saledate>Thu, 28 Jun 2012 11:43:54 +0000</saledate>
+    <price currency='GBP'>32</price>
+    <condition>likenew</condition>
+    <notes>Like new - only played once. My wife does not like it otherwise I would DEFINITELY be keeping this game....
+English edition and UK courier is £6.00 shipping, Let me know if you want it shipped outside the UK. Thanks for your interest.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jul 2012 01:50:11 +0000</listdate>
+    <saledate>Fri, 22 Feb 2013 15:15:17 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>New in Shrinkwrap.  Will combine shipping.  Shipping in the US 14.95.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Aug 2012 15:18:10 +0000</listdate>
+    <saledate>Thu, 18 Oct 2012 15:37:14 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened and sorted. All components are stored so that they are neat and fit inside the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Aug 2012 01:49:08 +0000</listdate>
+    <saledate>Wed, 08 Aug 2012 13:48:35 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This is an auction win marketplace item for Jenninib only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Aug 2012 13:22:45 +0000</listdate>
+    <saledate>Mon, 19 Nov 2012 20:15:20 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New in Shrink. Shipping is $13.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Sep 2012 05:20:59 +0000</listdate>
+    <saledate>Sat, 01 Sep 2012 17:10:00 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>Reserved for quietcorn
+Large Flat Rate Shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Sep 2012 16:44:53 +0000</listdate>
+    <saledate>Thu, 04 Oct 2012 01:02:50 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Game is in excellent condition.  Only played a few times.  Pictures available upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Nov 2012 03:46:14 +0000</listdate>
+    <saledate>Sun, 04 Nov 2012 20:27:21 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Still in Shrink
+Shipping to Continental US Only: $10.00
+Payment Method: Amazon digital giftcard</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Nov 2012 03:02:01 +0000</listdate>
+    <saledate>Mon, 12 Nov 2012 04:32:55 +0000</saledate>
+    <price currency='CAD'>45</price>
+    <condition>likenew</condition>
+    <notes>Won in BGG GeekList auction by user SaraCV.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Dec 2012 17:33:06 +0000</listdate>
+    <saledate>Fri, 18 Jan 2013 01:58:28 +0000</saledate>
+    <price currency='GBP'>30.5</price>
+    <condition>verygood</condition>
+    <notes>Played 10 or so times, all the bits were well looked after - the cards sleeved in FFG sleeves from the start (included). 
+The box is in great nick. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Dec 2012 04:24:05 +0000</listdate>
+    <saledate>Tue, 11 Dec 2012 04:25:55 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+RESERVED FOR AUCTION WINNER pa5t0rd</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Dec 2012 14:48:57 +0000</listdate>
+    <saledate>Thu, 13 Jun 2013 18:05:32 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>100% complete, pieces carefully punched, excellent condition, not played.  Smoke-free home.
+Shipping by USPS.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Dec 2012 23:37:07 +0000</listdate>
+    <saledate>Fri, 18 Jan 2013 07:44:58 +0000</saledate>
+    <price currency='USD'>125</price>
+    <condition>new</condition>
+    <notes>Auction win David F.
+(Prepainted Miniatures)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Jan 2013 08:03:59 +0000</listdate>
+    <saledate>Fri, 25 Jan 2013 02:10:35 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Jan 2013 16:01:14 +0000</listdate>
+    <saledate>Tue, 12 Feb 2013 17:00:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Great shape....shipping will be USPS $12  One human figure is detached cleanly from the base and can be glued restoring perfection.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Jan 2013 08:16:16 +0000</listdate>
+    <saledate>Sat, 19 Jan 2013 16:18:37 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Complete and in very good condition.
+Shipping: $14 standard, $19 priority.
+Orders of multiple games can be combined to have cheaper shipping that if they were separate.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Jan 2013 16:05:03 +0000</listdate>
+    <saledate>Fri, 01 Feb 2013 17:04:45 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>likenew</condition>
+    <notes>Played once. Punched, but in mint condition.
+Contact me for shipping costs. It should be about £5 in the UK. Alternatively, meet me in central/SW London to save on shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Jan 2013 22:55:59 +0000</listdate>
+    <saledate>Thu, 20 Jun 2013 03:20:06 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Opened and unpunched, but never played.  All components in great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Feb 2013 18:52:02 +0000</listdate>
+    <saledate>Thu, 21 Mar 2013 01:34:36 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>No condition issues. Personally gently played, and carefully stored.
+Priority Shipping to the West Coast via USPS Priority will be $9.68</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Feb 2013 14:08:58 +0000</listdate>
+    <saledate>Fri, 01 Mar 2013 00:58:32 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>For denrus only!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Mar 2013 00:05:32 +0000</listdate>
+    <saledate>Sun, 03 Mar 2013 01:36:12 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Already sold at auction to Jose Silva.  Shipping total with Poseidon_T_E_M_P_T_A_G_#039;s Kingdom.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Mar 2013 02:51:17 +0000</listdate>
+    <saledate>Mon, 11 Mar 2013 17:17:08 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>* * * AUCTION SALE * * *
+Reserved for geshafer!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Mar 2013 16:40:56 +0000</listdate>
+    <saledate>Sun, 17 Mar 2013 12:25:58 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played once, perfect condition.  There are two Plano boxes that fit inside of the original insert to hold the tokens and they fit very well (everything fits into the original box and insert, even with the Planos).  If you want both Plano boxes, please let me know and I_T_E_M_P_T_A_G_#039;ll add $5, otherwise I_T_E_M_P_T_A_G_#039;ll just dump them into a few baggies.
+I_T_E_M_P_T_A_G_#039;m an avid game collector in a smoke-free home and take good care of my games. Unless otherwise noted above, game is complete with little or no shelf wear or damaged components. High-resolution picture available upon request. 
+Domestic US shipping is ACTUAL SHIPPING COST PLUS $3 for box and packaging (I will finalize after you order, total weight will be about 96oz and shipping zip code will be 30082). International shipping will be ACTUAL SHIPPING COST PLUS USD$6.00 (for the box and hassle, sorry, it is much more effort on my end). Contact me BEFORE PURCHASING if you have any questions about shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Mar 2013 02:35:32 +0000</listdate>
+    <saledate>Wed, 01 May 2013 18:49:21 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>Lightly played over two sittings. Ships from New York to anywhere in the mainland US for $18. It_T_E_M_P_T_A_G_#039;s in great condition without shelf wear. Kept in a nonsmoking household. Inquire for shipping options outside the lower 48 states.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Mar 2013 14:17:23 +0000</listdate>
+    <saledate>Mon, 25 Mar 2013 15:59:17 +0000</saledate>
+    <price currency='USD'>66</price>
+    <condition>verygood</condition>
+    <notes>For user harleymo only.  Price includes City Tycoon _T_E_M_P_T_A_G_amp; Aquadukt too.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Mar 2013 16:44:05 +0000</listdate>
+    <saledate>Fri, 29 Mar 2013 17:12:13 +0000</saledate>
+    <price currency='USD'>121</price>
+    <condition>likenew</condition>
+    <notes>Earth Reborn, A Few Acres of Snow, El Grande, and A Game of Thrones reserved for mcManzi</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Apr 2013 04:52:50 +0000</listdate>
+    <saledate>Mon, 08 Apr 2013 08:45:10 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Grunherz</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Apr 2013 03:41:47 +0000</listdate>
+    <saledate>Thu, 04 Apr 2013 04:35:01 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>For maceo6</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 May 2013 01:55:05 +0000</listdate>
+    <saledate>Wed, 08 May 2013 09:17:36 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>For
+Nathan Poole
+(Josemite)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 May 2013 04:56:21 +0000</listdate>
+    <saledate>Fri, 10 May 2013 01:27:40 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Opened and unpunched but never played. Everything in great shape.
+Shipping is $13, FedEx to lower 48. Will be custom packed at FedEx office.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 May 2013 21:51:26 +0000</listdate>
+    <saledate>Mon, 27 May 2013 19:29:35 +0000</saledate>
+    <price currency='CAD'>35</price>
+    <condition>good</condition>
+    <notes>Box insert missing.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 May 2013 04:21:37 +0000</listdate>
+    <saledate>Tue, 21 May 2013 04:40:30 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>verygood</condition>
+    <notes>For mergryphon only. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 May 2013 19:55:22 +0000</listdate>
+    <saledate>Wed, 22 May 2013 20:32:43 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>For Chris</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Jun 2013 07:17:32 +0000</listdate>
+    <saledate>Tue, 06 Aug 2013 11:51:30 +0000</saledate>
+    <price currency='AUD'>50</price>
+    <condition>verygood</condition>
+    <notes>Game has been played twice, but all components remain in excellent, unmarked condition. Cards sleeved.
+Due to awkward size, I can only ship to Australia. Local pickup (Melbourne CBD) is available, or geekmail me for an estimated shipping cost to your city.
+Payments accepted: Paypal, bank transfer, cash (local pickup only).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Jun 2013 03:46:30 +0000</listdate>
+    <saledate>Tue, 25 Jun 2013 05:02:53 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>auction item for user: Sciurus
+Do not purchase if you are not this user.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Jun 2013 22:36:33 +0000</listdate>
+    <saledate>Tue, 25 Jun 2013 22:41:40 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Hello Gregor</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Jun 2013 20:40:13 +0000</listdate>
+    <saledate>Mon, 15 Jul 2013 02:14:53 +0000</saledate>
+    <price currency='USD'>38.5</price>
+    <condition>likenew</condition>
+    <notes>Played once.  Complete and in pristine condition.
+Buyer to pay actual shipping costs.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Jul 2013 01:10:45 +0000</listdate>
+    <saledate>Sat, 27 Jul 2013 01:18:08 +0000</saledate>
+    <price currency='USD'>173</price>
+    <condition>verygood</condition>
+    <notes>Only for Matthew Weber (daylighter) - Auction
+Includes: 
+Earth Reborn                                 $43.00
+Glenn Drover_T_E_M_P_T_A_G_#039;s Empires: The Age of Discovery $35.00
+StarCraft: The Board Game                 $95.00</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Jul 2013 23:30:52 +0000</listdate>
+    <saledate>Sun, 15 Sep 2013 17:15:59 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>new</condition>
+    <notes>Shipping cost as noted on www.usps.com (7.40 lbs) from zip code 41076</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Aug 2013 12:43:49 +0000</listdate>
+    <saledate>Fri, 16 Aug 2013 19:13:49 +0000</saledate>
+    <price currency='USD'>662</price>
+    <condition>verygood</condition>
+    <notes>This is for my auction [geeklist=160004][/geeklist]. Two items went through the marketplace - http://www.boardgamegeek.com/geekstore.php3?action=viewdetails_T_E_M_P_T_A_G_amp;saleid=215894 (Asteroyds and Resistance). The rest are summed up here for Octavian to _T_E_M_P_T_A_G_quot;purchase_T_E_M_P_T_A_G_quot; so that BGG gets their cut of the sale. :)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Aug 2013 06:31:26 +0000</listdate>
+    <saledate>Sun, 15 Sep 2013 20:06:07 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Aug 2013 19:49:51 +0000</listdate>
+    <saledate>Tue, 20 Aug 2013 00:12:07 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened, Punched, Never Played
+Opened, Never Played
+SELLERS TERMS AND CONDITIONS:
+PAYMENT TERMS: Payment is due within 2 days of the date you placed the order. Please do not purchase if you do not intend to pay, or cannot pay within this time frame. 
+PAYMENT METHODS: PayPal
+SHIPPING: Shipping is a flat $20.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Aug 2013 14:10:15 +0000</listdate>
+    <saledate>Thu, 22 Aug 2013 15:40:52 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Sep 2013 18:09:39 +0000</listdate>
+    <saledate>Thu, 12 Sep 2013 19:10:59 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>likenew</condition>
+    <notes>For morsecrossing</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Sep 2013 17:24:24 +0000</listdate>
+    <saledate>Wed, 23 Oct 2013 19:42:33 +0000</saledate>
+    <price currency='GBP'>29</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Sep 2013 16:20:05 +0000</listdate>
+    <saledate>Thu, 26 Sep 2013 15:26:48 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>verygood</condition>
+    <notes>***reserved for hskrfn822***</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Oct 2013 13:57:15 +0000</listdate>
+    <saledate>Thu, 03 Oct 2013 01:47:03 +0000</saledate>
+    <price currency='USD'>102</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Phil Borderlon
+Includes Summoner Wars and expansions</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Oct 2013 03:27:09 +0000</listdate>
+    <saledate>Mon, 30 Dec 2013 00:14:19 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $13.95</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Oct 2013 19:01:57 +0000</listdate>
+    <saledate>Fri, 08 Nov 2013 22:10:31 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>likenew</condition>
+    <notes>Opened, punched, and never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Oct 2013 06:15:58 +0000</listdate>
+    <saledate>Sat, 12 Oct 2013 03:03:41 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Auction win for Zonedaddy:
+Earth Reborn
+$30</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Oct 2013 21:15:53 +0000</listdate>
+    <saledate>Tue, 20 May 2014 11:46:49 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>******LOCAL METRO BOSTON BUYERS ONLY******
+******YOU MUST PICK THIS UP LOCALLY*******
+******NON-LOCAL BUYERS NOT CONSIDERED*****
+Played twice, nothing missing or damaged. Miniatures were not painted. Cards are sleeved. Tiles and player aids have the cardboard edges darkened with a black marker.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Nov 2013 05:26:53 +0000</listdate>
+    <saledate>Mon, 09 Jun 2014 20:56:57 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition.  Miniatures have been painted.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Dec 2013 17:15:25 +0000</listdate>
+    <saledate>Mon, 09 Dec 2013 22:44:20 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Listing is for adammayc only!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jan 2014 02:13:22 +0000</listdate>
+    <saledate>Mon, 13 Jan 2014 04:16:21 +0000</saledate>
+    <price currency='USD'>87</price>
+    <condition>verygood</condition>
+    <notes>For MwbTruck Only
+Items: 
+Earth Reborn
+Senji
+Vasco da Gama
+Items: $87
+Shipping: $13
+Total: $100</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jan 2014 14:25:17 +0000</listdate>
+    <saledate>Thu, 13 Feb 2014 17:00:27 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Hasn_T_E_M_P_T_A_G_#039;t been played with. Punched and sorted in box. Came with minor dent on box but other than that like new. £6 shipping. Bank Transfer preferred. UK only.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jan 2014 04:30:46 +0000</listdate>
+    <saledate>Wed, 16 Apr 2014 22:05:49 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>likenew</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! 
+EARTH REBORN: $39.95
+Z-Man Games [ZMG 7060]
+* Components in like new condition -- see pictures below.
+SHIPPING
+Continental U.S. - $16.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jan 2014 13:39:00 +0000</listdate>
+    <saledate>Sat, 01 Feb 2014 16:05:50 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>likenew</condition>
+    <notes>played once, cards in sleeves</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Feb 2014 07:45:30 +0000</listdate>
+    <saledate>Tue, 11 Feb 2014 07:42:49 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>likenew</condition>
+    <notes>Played once, good condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Feb 2014 17:13:33 +0000</listdate>
+    <saledate>Thu, 10 Apr 2014 14:34:10 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>new</condition>
+    <notes>Zman Games - Earth Reborn
+Language: English
+Players: 2-4
+Age: 13+
+Duration: to 4 hour
+Weight: 3.360 kg
+New - mint condition - unopened - still in shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Feb 2014 21:14:29 +0000</listdate>
+    <saledate>Sun, 02 Mar 2014 22:29:04 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Reserved for ki hon</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Mar 2014 17:18:52 +0000</listdate>
+    <saledate>Mon, 17 Mar 2014 08:05:17 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This listing is for user bgg_thomas.
+Complete and in excellent condition.
+Buyer pays actual shipping costs.  Will ship via cheapest option between USPS Priority Mail, USPS Parcel Select, or FedEx Ground.  I can combine shipping if you purchase multiple items from me.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Mar 2014 06:00:52 +0000</listdate>
+    <saledate>Thu, 10 Apr 2014 21:26:35 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened, cards sleeved, everything punched out, but never played. Excellent condition. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Apr 2014 23:40:39 +0000</listdate>
+    <saledate>Mon, 28 Apr 2014 17:07:06 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Game never used, has been punched out but cards are still shrink wrapped</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 May 2014 17:01:32 +0000</listdate>
+    <saledate>Tue, 09 Sep 2014 08:26:49 +0000</saledate>
+    <price currency='EUR'>59.99</price>
+    <condition>new</condition>
+    <notes>Earth Reborn
+First edition
+Publisher: Ludically,?Z-Man Games</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 May 2014 14:49:04 +0000</listdate>
+    <saledate>Wed, 28 May 2014 17:43:20 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>likenew</condition>
+    <notes>Played once. Great shape. Shipping $10 + $5 for each additional item.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 May 2014 19:45:55 +0000</listdate>
+    <saledate>Wed, 04 Jun 2014 22:33:21 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>completely unpunched, unplayed. Shrink removed. BUT missing one figure (jack saw). 
+Buyer pays all shipping / paypal. I_T_E_M_P_T_A_G_#039;d highly prefer a local buyer.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 May 2014 12:20:50 +0000</listdate>
+    <saledate>Sat, 31 May 2014 04:19:11 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>*** Available for pickup at Origins 2014 – Open to offers ***
+Condition:
+Only the shrink was removed, game is not punched or played.  Earth Reborn is a large and heavy box (9 pounds).  Game comes from a smoke free and pet free home. Includes all game components.
+Pickup Options (no shipping costs):
+1. Going to Origins 2014? I will be there from Thursday till Sunday and would be happy to bring the game to you.
+2. Game is located in Chantilly, VA, if you are in the local area we can arrange a time for pickup.
+Shipping Options (from Zip code 20151):
+Will ship using preferred method (USPS, UPS, FedEx, etc) and buyer will pay postage. Happy to combine postage for multiple items.  I will pay for insurance and tracking.
+Hurry – Game sale ends June 10, 2014.  After that time, I am going close the sale and put the game in the Origins silent auction. 
+In addition to this game, I pulled 15 more games to sell in the Origin_T_E_M_P_T_A_G_#039;s silent auction on Friday (6/13).  If you would like a copy of the game list please geek mail me.
+Ask if you have any questions or concerns.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 May 2014 11:56:24 +0000</listdate>
+    <saledate>Wed, 13 Aug 2014 18:44:31 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Cards sleeved, all counters punched. Like new, never played, complete.
+Shipping to UK only.
+Shipping: first class royal mail £12.00 to UK.
+Ships the same day as or one day after payment.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jul 2014 14:09:15 +0000</listdate>
+    <saledate>Wed, 06 Aug 2014 20:26:24 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands Euro 4,- per shipment (Kiala or DHL4you) or 6,75 per shipment (PostNL).
+Shipment to Belgium by Kiala is Euro 7,50.
+For other shipment methods and/or destinations please inquire.
+Payment is possible by bank transfer or Paypal (costs +3%)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jul 2014 01:10:05 +0000</listdate>
+    <saledate>Mon, 14 Jul 2014 20:25:21 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This listing is for 051276 only.
+Shipping will be $15</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Aug 2014 01:53:49 +0000</listdate>
+    <saledate>Wed, 27 Aug 2014 15:18:35 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Only played 1-2 times. In great shape, little to no wear on all pieces. Shipping included in price.
+Absolutely awesome game but just doesn_T_E_M_P_T_A_G_#039;t recieve the table time it deserves from my group!
+I_T_E_M_P_T_A_G_#039;ll ship it ASAP(1-2 days) after recieving payment. 
+Feel free to message me with any questions. Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Sep 2014 00:55:21 +0000</listdate>
+    <saledate>Wed, 03 Sep 2014 01:33:06 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/177987/item/3391049#3391049]Item for Geeklist _T_E_M_P_T_A_G_quot;Biggest Little City Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Sep 2014 08:00:16 +0000</listdate>
+    <saledate>Sun, 28 Sep 2014 19:38:09 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/177328/item/3394034#3394034]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2014 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Sep 2014 13:27:24 +0000</listdate>
+    <saledate>Tue, 30 Sep 2014 09:07:00 +0000</saledate>
+    <price currency='EUR'>59.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Nov 2014 19:00:43 +0000</listdate>
+    <saledate>Tue, 04 Nov 2014 18:56:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/181150/item/3523983#3523983]Item for Geeklist _T_E_M_P_T_A_G_quot;Four Day Auction - Pickup in STL and Chicago Available - Ends Nov 2nd_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+for gamtester only.
+If you want, do the marketplace now, and then you can pay later.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Nov 2014 02:48:10 +0000</listdate>
+    <saledate>Sat, 08 Nov 2014 15:05:05 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/178671/item/3538974#3538974]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2014_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Nov 2014 23:29:31 +0000</listdate>
+    <saledate>Wed, 12 Nov 2014 00:08:12 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>For Lobster Trap winner Deron  Dorna :Only:</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Nov 2014 14:10:55 +0000</listdate>
+    <saledate>Mon, 17 Nov 2014 14:59:14 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>This is for the auctions won by Ted F. (jockeyRez). If that isn_T_E_M_P_T_A_G_#039;t you, please don_T_E_M_P_T_A_G_#039;t purchase.
+This is for:
+Deadzone -- $25
+Earth Reborn -- $35
+Des Princes de Flores -- $15</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Nov 2014 21:06:14 +0000</listdate>
+    <saledate>Tue, 25 Nov 2014 00:19:17 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>This game is almost brand new. I have only opened the shrink wrap on the box. Everything inside is still sealed. The game has never been played. I bought this but ended up never playing it and I am working on clearing out games I haven_T_E_M_P_T_A_G_#039;t played. I am accepting PayPal payments only on this item. I am shipping to the U.S. only.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Nov 2014 17:51:24 +0000</listdate>
+    <saledate>Tue, 25 Nov 2014 15:27:24 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Condition: Played once or twice. Box may have minor shelfwear. Comes from a smoke and cat/dog free home. Insert has been removed.
+Ships from the 10036 area code. Manhattan local pickup available.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jul 2014 22:00:11 +0000</listdate>
+    <saledate>Wed, 14 Jan 2015 00:15:12 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Game still in shrink wrap.  Will ship anywhere in the USA.  Shipping cost included in the price.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Feb 2015 23:31:56 +0000</listdate>
+    <saledate>Wed, 04 Feb 2015 23:34:54 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/186413/item/3704505#3704505]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION - Some newer/hotter games included. Ends 2/4/15_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Will be added with Zombie 15 and Myth for shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Dec 2014 12:23:45 +0000</listdate>
+    <saledate>Thu, 05 Feb 2015 13:46:32 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Played but all has been very well looked after, nothing missing and no real wear to any components though a couple of small counters have a small amount of the image torn. Box isn_T_E_M_P_T_A_G_#039;t showing any major shelf wear. Nothing missing and only a couple of the campaign sheets used.
+Postage is UK only, 6.28 via My Hermes tracked or free to collect
+Will accept payment via bank transfer or Paypal.
+Any questions, please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Feb 2015 00:46:34 +0000</listdate>
+    <saledate>Tue, 10 Feb 2015 13:24:30 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Feb 2015 13:27:12 +0000</listdate>
+    <saledate>Tue, 24 Feb 2015 20:48:40 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/183993/item/3742176#3742176]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED -- My Collection Needs to be Smaller Auction -  A few Games Added at the last minute!!  -  Ends tomorrow --  Ends February 23rd_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Mar 2015 13:51:53 +0000</listdate>
+    <saledate>Wed, 11 Mar 2015 14:13:02 +0000</saledate>
+    <price currency='EUR'>41</price>
+    <condition>verygood</condition>
+    <notes>Nur ein-/zweimal gespielt und in einem sehr guten Zustand.
+Versand nur nach Deutschland (+6€) und Bezahlung per Überweisung</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Feb 2015 09:02:09 +0000</listdate>
+    <saledate>Sun, 19 Apr 2015 18:06:22 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>In shrinkwrap</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Apr 2015 18:10:01 +0000</listdate>
+    <saledate>Sun, 26 Apr 2015 13:23:35 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>plus shipping cost</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 May 2015 01:32:02 +0000</listdate>
+    <saledate>Mon, 04 May 2015 02:52:01 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190488/item/3870883#3870883]Item for Geeklist _T_E_M_P_T_A_G_quot;200 games, Pickup in STL/Geekway available, Ships From STL, Ends 4pm CDT Sunday May 3rd_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For FibonacciRocks only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 May 2015 16:41:47 +0000</listdate>
+    <saledate>Tue, 19 May 2015 18:30:44 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190563/item/3869155#3869155]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee VIII:  Who Cut The Cheese?_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Sep 2014 18:10:27 +0000</listdate>
+    <saledate>Wed, 03 Jun 2015 07:26:34 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>Opened and organised but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Jun 2015 16:36:36 +0000</listdate>
+    <saledate>Fri, 05 Jun 2015 17:19:35 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Not for sale. Purchased in an auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Jun 2015 16:10:22 +0000</listdate>
+    <saledate>Wed, 17 Jun 2015 19:03:50 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Sold to JohnnyD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 May 2015 07:24:46 +0000</listdate>
+    <saledate>Wed, 17 Jun 2015 23:08:37 +0000</saledate>
+    <price currency='EUR'>54</price>
+    <condition>new</condition>
+    <notes>New in shrink
+paypal only, buyer pays the paypal fee if there is one</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Jul 2015 19:41:58 +0000</listdate>
+    <saledate>Fri, 24 Jul 2015 23:23:30 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193758/item/4010408#4010408]Item for Geeklist _T_E_M_P_T_A_G_quot;End of Summer Game Auction - Clearing the Shelves_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Aug 2015 13:21:21 +0000</listdate>
+    <saledate>Mon, 24 Aug 2015 05:55:15 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>likenew</condition>
+    <notes>Never played! Mint condition, only shrink-wrap was removed and the tiles sorted in the box. For international shipping - message me!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Aug 2015 02:01:23 +0000</listdate>
+    <saledate>Tue, 25 Aug 2015 20:49:16 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This item is for user smcdonald365 only!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Aug 2015 14:19:01 +0000</listdate>
+    <saledate>Sat, 29 Aug 2015 21:04:36 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Also includes Frontiers
+Reserved for auction winner: chaotic_soliton</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Aug 2015 04:13:20 +0000</listdate>
+    <saledate>Mon, 31 Aug 2015 14:38:55 +0000</saledate>
+    <price currency='CAD'>33</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/195278/item/4084200#4084200]Item for Geeklist _T_E_M_P_T_A_G_quot;[CAN/US] Auction - Culling time is here again - Blue Moon City, _T_E_M_P_T_A_G_amp; More_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For user Symath only!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Aug 2015 00:54:45 +0000</listdate>
+    <saledate>Tue, 01 Sep 2015 06:35:38 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Sep 2015 23:02:00 +0000</listdate>
+    <saledate>Fri, 11 Sep 2015 08:24:37 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>For Flavio Campana, pickup at Essen.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Mar 2014 23:31:39 +0000</listdate>
+    <saledate>Tue, 22 Sep 2015 17:35:54 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>Shipping Germany   7 Euro
+Shipping European Union 16 Euro
+Shipping World starting 35 Euro
+PayPal plus max. 4 Euro
+Money transfer via IBAN/BIC preferred for Euro countries</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Oct 2015 16:44:14 +0000</listdate>
+    <saledate>Wed, 07 Oct 2015 18:34:35 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>good</condition>
+    <notes>Auction winnings for Frankberg</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Oct 2015 17:18:17 +0000</listdate>
+    <saledate>Tue, 13 Oct 2015 18:02:00 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>This item is only for Henry Ho(nighthawk326) Who won this in an auction :
+http://boardgamegeek.com/geeklist/197733/auction-painted-boardgames-and-new-boardgames
+Shipping is not included yet , Will add shipping once address details are provided by Henry</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Jul 2015 00:29:29 +0000</listdate>
+    <saledate>Mon, 26 Oct 2015 12:26:40 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>Reserved for imphat</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 May 2015 22:21:20 +0000</listdate>
+    <saledate>Sat, 07 Nov 2015 15:51:14 +0000</saledate>
+    <price currency='USD'>26.95</price>
+    <condition>verygood</condition>
+    <notes>Paypal NOT accepted.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Nov 2015 22:13:49 +0000</listdate>
+    <saledate>Tue, 17 Nov 2015 00:54:48 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/199490/item/4273416#4273416]Item for Geeklist _T_E_M_P_T_A_G_quot;Culling the collection... QUICK $5 Auction! BLOOD RAGE and MORE!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+eastland23 only!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Nov 2015 03:44:40 +0000</listdate>
+    <saledate>Tue, 17 Nov 2015 05:55:28 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR BGG USER squeg only.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/199383/item/4268307#4268307]Item for Geeklist _T_E_M_P_T_A_G_quot;US Auction/Sale Ends 11/16: Fallout 4 is here. Need to turn games into caps._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Dec 2015 00:07:27 +0000</listdate>
+    <saledate>Sun, 13 Dec 2015 14:56:49 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played once, excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Dec 2015 04:06:34 +0000</listdate>
+    <saledate>Sat, 19 Dec 2015 04:17:37 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197056/item/4170746#4170746]Item for Geeklist _T_E_M_P_T_A_G_quot;Ameritrash Auction with BIN_T_E_M_P_T_A_G_#039;s, OOP_T_E_M_P_T_A_G_#039;s, MILFs, UFO_T_E_M_P_T_A_G_#039;s, BYOB_T_E_M_P_T_A_G_#039;s, and LMAOs_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Dec 2015 21:41:50 +0000</listdate>
+    <saledate>Mon, 21 Dec 2015 15:10:36 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Bulltaco</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Dec 2015 13:41:18 +0000</listdate>
+    <saledate>Sun, 27 Dec 2015 09:32:18 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>The game is played once only  and in very good condition. The components and the rules are in English. 
+Shipping costs with DHL will be 6€ within Germany, 16€ within the EU, 35 within the US. 
+Paypal (+1€ Paypal fee) or bank transfer possible (IBAN / BIC). For other shipping locations, please contact me before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Feb 2016 20:23:23 +0000</listdate>
+    <saledate>Sat, 13 Feb 2016 00:53:38 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>good</condition>
+    <notes>played a small number of times. UK postage £5.79 with my hermes</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Feb 2016 23:31:17 +0000</listdate>
+    <saledate>Sun, 06 Mar 2016 21:30:18 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Charalampos Tsakiris. Includes this item and Claustrophobia.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Mar 2016 03:35:51 +0000</listdate>
+    <saledate>Wed, 30 Mar 2016 15:12:33 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>For purchase by Jason Miller only.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Apr 2016 19:39:36 +0000</listdate>
+    <saledate>Sat, 02 Apr 2016 15:41:43 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>sold at auction for Wizards Wharf</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Jun 2015 13:40:52 +0000</listdate>
+    <saledate>Sun, 24 Apr 2016 08:28:06 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>Bank transfers accepted. Pick-up possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 May 2016 06:51:05 +0000</listdate>
+    <saledate>Wed, 04 May 2016 06:51:12 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Sold to geobaldi5</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Mar 2015 02:20:24 +0000</listdate>
+    <saledate>Mon, 09 May 2016 14:24:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Punched
+Please message me with any questions.
+Buyer pays for shipping from 12065</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 May 2016 05:10:44 +0000</listdate>
+    <saledate>Fri, 13 May 2016 10:20:40 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208466/item/4612619#4612619]Item for Geeklist _T_E_M_P_T_A_G_quot;24 HOURS REMAIN: Scorched Earth. Everything must go. 45 games, including rare titles like A Study in Emerald, Ambush! and Mall of Horror._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 May 2016 00:02:08 +0000</listdate>
+    <saledate>Tue, 24 May 2016 14:51:39 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208104/item/4593889#4593889]Item for Geeklist _T_E_M_P_T_A_G_quot;Geek ADD_T_E_M_P_T_A_G_#039;s Garage cleanup game sale_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 May 2016 07:48:31 +0000</listdate>
+    <saledate>Wed, 01 Jun 2016 10:59:49 +0000</saledate>
+    <price currency='EUR'>62.5</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Jun 2016 17:40:23 +0000</listdate>
+    <saledate>Fri, 03 Jun 2016 18:08:25 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208301/item/4663633#4663633]Item for Geeklist _T_E_M_P_T_A_G_quot;Origins Virtual Flea Market 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Apr 2016 21:11:40 +0000</listdate>
+    <saledate>Tue, 28 Jun 2016 13:10:52 +0000</saledate>
+    <price currency='EUR'>42</price>
+    <condition>verygood</condition>
+    <notes>Even more like new. Never played. In Germany payment through SEPA.
+Shipping:
+In Germany: 7€
+Most of Europe: 16€</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Jul 2016 23:56:05 +0000</listdate>
+    <saledate>Wed, 06 Jul 2016 00:40:50 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>good</condition>
+    <notes>3 command token backs ripped a bit before punch out. Only played a few times.
+Dice tower con 2016 pickup available. This is MUCH preferred as the size of the box will be a pain to ship.
+Item sold dice tower vfm</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jul 2016 01:02:47 +0000</listdate>
+    <saledate>Thu, 21 Jul 2016 01:29:55 +0000</saledate>
+    <price currency='USD'>43.75</price>
+    <condition>likenew</condition>
+    <notes>RESERVED for neevan</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Aug 2016 03:09:34 +0000</listdate>
+    <saledate>Thu, 11 Aug 2016 00:52:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Edit: Reserved for Burke Martin (brkmrtn)
+Cash ok for local pick-up (Seattle WA), paypal for all shipped items.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Sep 2016 21:27:22 +0000</listdate>
+    <saledate>Wed, 07 Sep 2016 09:20:04 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Punched and bagged, unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Sep 2016 22:16:14 +0000</listdate>
+    <saledate>Tue, 13 Sep 2016 01:35:13 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>This auction is for uraneko who won my auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jul 2016 08:18:47 +0000</listdate>
+    <saledate>Wed, 28 Sep 2016 08:47:37 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Never Played. Unpunched and bagged.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Sep 2016 20:44:19 +0000</listdate>
+    <saledate>Wed, 05 Oct 2016 04:33:41 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>Pieces have been popped but the game has never been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Sep 2016 11:33:45 +0000</listdate>
+    <saledate>Thu, 06 Oct 2016 06:47:18 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Sep 2016 12:19:58 +0000</listdate>
+    <saledate>Mon, 10 Oct 2016 16:36:40 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+Local pickup downtown NYC available.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2016 04:28:46 +0000</listdate>
+    <saledate>Tue, 11 Oct 2016 13:19:59 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/215068/item/4924598#4924598]Item for Geeklist _T_E_M_P_T_A_G_quot;Mega End of Summer Auction... Part 2! (Irvine, CA) US Only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Sep 2016 09:17:22 +0000</listdate>
+    <saledate>Sun, 30 Oct 2016 13:23:20 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>4 mal gespielt. Zustand fast wie neu. Spiel ist Englisch, es gab nie eine deutsche version.
+Shipping in Germany for 5,50€. Local pickup possible
+Versand für 5,50€ via Hermes. Barzahlung bei Abholung möglich.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Oct 2016 13:17:57 +0000</listdate>
+    <saledate>Tue, 01 Nov 2016 13:39:53 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/215891/item/4968911#4968911]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.(Punchizzle
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Oct 2016 19:25:38 +0000</listdate>
+    <saledate>Thu, 17 Nov 2016 21:00:24 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Nov 2016 20:57:05 +0000</listdate>
+    <saledate>Wed, 23 Nov 2016 23:17:49 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/217168/item/5031051#5031051]Item for Geeklist _T_E_M_P_T_A_G_quot;Giant Moving Auction!  Many in shrink - Ends 11/22_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Dec 2016 19:05:39 +0000</listdate>
+    <saledate>Tue, 20 Dec 2016 11:19:51 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Played 4 times, in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Oct 2016 12:18:42 +0000</listdate>
+    <saledate>Thu, 29 Dec 2016 02:42:21 +0000</saledate>
+    <price currency='EUR'>43</price>
+    <condition>likenew</condition>
+    <notes>Out of shrink, punched, properly sorted, but never had the time to play it.
+Please look at the pics!
+Let me know if you need more pics, or better ones etc. (Some have bad glare and reflections, sorry I took too many!^^)
+October 2016 note:
+In the process of putting many games into the market, come back and check for possible combined shipping!
+Shipping:
+Will only ship insured!
+Please ask for international shipping quote! (This may work in a _T_E_M_P_T_A_G_quot;letter_T_E_M_P_T_A_G_quot;, so the shipping should be reasonable to most places...)
+Payment:
+Bank transfer within the EU, otherwise paypal possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Dec 2014 01:58:37 +0000</listdate>
+    <saledate>Mon, 30 Jan 2017 02:32:25 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>In shrinkwrap. Perfect. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. I have many hundreds of games for sale and would be happy to combine shipping charges for multiple games to save you money. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Dec 2016 17:27:49 +0000</listdate>
+    <saledate>Thu, 16 Feb 2017 07:50:46 +0000</saledate>
+    <price currency='USD'>22.9</price>
+    <condition>verygood</condition>
+    <notes>100% complete!
+Happy Gaming!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jan 2017 05:35:02 +0000</listdate>
+    <saledate>Sun, 26 Feb 2017 19:19:35 +0000</saledate>
+    <price currency='USD'>40.77</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Mar 2017 20:50:08 +0000</listdate>
+    <saledate>Wed, 08 Mar 2017 22:03:20 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>Unpunched and unplayed.  This is a large box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Aug 2016 16:22:30 +0000</listdate>
+    <saledate>Thu, 09 Mar 2017 05:50:40 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Mar 2017 17:48:14 +0000</listdate>
+    <saledate>Sat, 11 Mar 2017 16:23:08 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Robert William</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Mar 2017 04:39:08 +0000</listdate>
+    <saledate>Sun, 12 Mar 2017 05:26:44 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>new</condition>
+    <notes>****won through auction*****</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Nov 2016 14:13:43 +0000</listdate>
+    <saledate>Thu, 30 Mar 2017 10:19:52 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Apr 2017 21:02:53 +0000</listdate>
+    <saledate>Fri, 14 Apr 2017 00:40:11 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Auction Win for user raygun1966
+Do not purchase if you are not user raygun1966</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 May 2017 19:46:45 +0000</listdate>
+    <saledate>Mon, 22 May 2017 23:27:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Box has ding and slightly crushed/split corner. There is no insert included. All contents there and in good shape. Cards are sleeved.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 May 2017 18:02:55 +0000</listdate>
+    <saledate>Tue, 23 May 2017 18:14:03 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/224553/item/5348449#5348449]Item for Geeklist _T_E_M_P_T_A_G_quot;My Precious Auction! War of the Ring ANNIVERSARY EDITION, Earth Reborn, Black Fleet, Apocalypse Chaos, Unspeakable Words Dlx, Oss, Drakon 4th, Fuji Flush, Katzenjammer Blues_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jul 2015 00:12:29 +0000</listdate>
+    <saledate>Wed, 21 Jun 2017 16:01:59 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Never played my copy.
+Shipping is only $10.00 to anywhere within the continental U.S.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Nov 2016 02:58:39 +0000</listdate>
+    <saledate>Wed, 12 Jul 2017 19:52:40 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Unfortunately, one figure has a broken arm (included) but other than that, the game was tried only once to play. Contents are bagged,  and the box and contents all in excellent shape (except for the one figure).
+Ship USPS priority with $50 insurance, This is a heavy game to ship so I would try to fit it in a flat rate box if possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jan 2016 21:20:24 +0000</listdate>
+    <saledate>Thu, 03 Aug 2017 20:06:39 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in shrink,   shipping 15.00 for heavy game.   ty for looking</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jul 2016 13:26:57 +0000</listdate>
+    <saledate>Sun, 13 Aug 2017 13:59:06 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Opened.  Unplayed.
+Non smoking home.  No pets.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 May 2017 19:58:41 +0000</listdate>
+    <saledate>Sun, 13 Aug 2017 23:43:46 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Aug 2017 00:22:09 +0000</listdate>
+    <saledate>Wed, 23 Aug 2017 05:33:37 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/227688/item/5526202#5526202]Item for Geeklist _T_E_M_P_T_A_G_quot;Downsizing Auction #5 - Gen Con Pickup Available_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Aug 2017 15:20:34 +0000</listdate>
+    <saledate>Mon, 28 Aug 2017 19:35:52 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228930/item/5563524#5563524]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction: GMT Wargames, Racing Games, _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Aug 2017 04:38:11 +0000</listdate>
+    <saledate>Thu, 31 Aug 2017 08:25:03 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229117/item/5575352#5575352]Item for Geeklist _T_E_M_P_T_A_G_quot;BIG AUCTION: Runebound Lot (2st Ed.), Splotter and Fragor Games, OOPs, and Much More!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Sep 2017 17:21:17 +0000</listdate>
+    <saledate>Thu, 14 Sep 2017 19:09:15 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Auction Winner</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 18:17:02 +0000</listdate>
+    <saledate>Sat, 28 Oct 2017 05:38:14 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition.
+From a smoke and pet-free home and will be carefully packed for shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Aug 2017 20:19:53 +0000</listdate>
+    <saledate>Tue, 07 Nov 2017 23:09:57 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>VERSION FRANCAISE !
+FRENCH EDITION !
+Joué une fois.
+Frais de port France : 13 euros
+Post _T_E_M_P_T_A_G_amp; Package fees Europe, most of countries : 21 euros.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Nov 2017 03:28:35 +0000</listdate>
+    <saledate>Tue, 21 Nov 2017 05:21:25 +0000</saledate>
+    <price currency='USD'>190</price>
+    <condition>new</condition>
+    <notes>Includes all games won in auction.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/232293/item/5742660#5742660]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction closed 6:10pm cst** Huge Shelf Clearing Auction  - 100+ Items _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Nov 2017 01:48:19 +0000</listdate>
+    <saledate>Tue, 21 Nov 2017 17:15:32 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230566/item/5663332#5663332]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Note: Item paid in full at BGG.CON 2017 VFM
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Nov 2017 21:48:42 +0000</listdate>
+    <saledate>Sat, 25 Nov 2017 17:24:16 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jan 2018 15:58:12 +0000</listdate>
+    <saledate>Sun, 07 Jan 2018 02:11:33 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Opened and unplayed copy of Earth Reborn</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Dec 2015 15:02:28 +0000</listdate>
+    <saledate>Thu, 18 Jan 2018 09:23:07 +0000</saledate>
+    <price currency='EUR'>69</price>
+    <condition>new</condition>
+    <notes>Shipping only with insurance due to weight</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Mar 2017 18:39:15 +0000</listdate>
+    <saledate>Sun, 25 Feb 2018 06:58:02 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>good</condition>
+    <notes>French édition
+Figurines peintes niveau moyen</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Mar 2018 07:39:31 +0000</listdate>
+    <saledate>Tue, 17 Apr 2018 09:09:33 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Apr 2018 01:54:34 +0000</listdate>
+    <saledate>Tue, 24 Apr 2018 02:03:36 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239747/item/6072345#6072345]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction! Dead Man’s Doubloons Deluxe, Earth Reborn, Uptown (AKA Blockers!)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 May 2018 16:46:32 +0000</listdate>
+    <saledate>Wed, 02 May 2018 22:40:07 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220483/item/6076873#6076873]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction - Reclaiming my shelf space_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Dec 2017 19:15:13 +0000</listdate>
+    <saledate>Sat, 12 May 2018 18:31:38 +0000</saledate>
+    <price currency='GBP'>24.99</price>
+    <condition>verygood</condition>
+    <notes>Please request postage prior to purchase ...
+Payment by Paypal only ...
+Thank you ...</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 May 2018 13:12:34 +0000</listdate>
+    <saledate>Sat, 26 May 2018 17:47:54 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened, never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jun 2018 04:30:47 +0000</listdate>
+    <saledate>Sun, 03 Jun 2018 06:19:26 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>acceptable</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241553/item/6163855#6163855]Item for Geeklist _T_E_M_P_T_A_G_quot;School_T_E_M_P_T_A_G_#039;s Out For Summer Auction - ends 6/2/18 - $5 reserves + LOWERED BIN’s_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Oct 2015 12:09:42 +0000</listdate>
+    <saledate>Tue, 03 Jul 2018 09:21:34 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Shrink wrap
+PayPal or US Postal Money Order
+Other methods of payment may be accepted but contact me before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 May 2018 08:11:09 +0000</listdate>
+    <saledate>Tue, 03 Jul 2018 19:30:57 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>new</condition>
+    <notes>Still in-shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jul 2018 22:28:58 +0000</listdate>
+    <saledate>Sat, 28 Jul 2018 05:48:54 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Summer 2018 Collection Culling auction winner armadaman.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Feb 2018 14:25:37 +0000</listdate>
+    <saledate>Fri, 07 Sep 2018 13:31:49 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Painted two figures, all cards sleeved.
+Shipping from 07852.  So you can estimate how much.  Once I pack up what you want I_T_E_M_P_T_A_G_#039;ll send you the actual amount.
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Sep 2018 19:50:54 +0000</listdate>
+    <saledate>Tue, 02 Oct 2018 12:46:46 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Miniatures are unpainted.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Dec 2017 19:13:12 +0000</listdate>
+    <saledate>Sat, 13 Oct 2018 09:09:54 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>payment:
+bank transfere, 
+paypal
+shipment:
+ask</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Oct 2018 10:47:49 +0000</listdate>
+    <saledate>Wed, 28 Nov 2018 14:49:28 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>played twice
+slechts 2x gespeeld</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Nov 2018 06:10:27 +0000</listdate>
+    <saledate>Sat, 29 Dec 2018 01:09:26 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>Brand new, unopened
+The price is ¥2,500
+I will not ship the game, but I will deliver to a JIGG event or a central Tokyo location
+Check my listings for other games</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Dec 2018 04:40:41 +0000</listdate>
+    <saledate>Sun, 30 Dec 2018 05:48:55 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>PLEASE DO NOT BID.
+This listing is reserved for auction winner _T_E_M_P_T_A_G_#039;Meghanrodriguez_T_E_M_P_T_A_G_#039;.
+PayPal address is _T_E_M_P_T_A_G_#039;jc5@protonmail.com_T_E_M_P_T_A_G_#039;. Please include desired shipping address during payment.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Dec 2018 17:52:25 +0000</listdate>
+    <saledate>Mon, 31 Dec 2018 19:37:47 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>PLEASE DO NOT BID.
+This listing is reserved for auction winner _T_E_M_P_T_A_G_#039;Meghanrodriguez_T_E_M_P_T_A_G_#039;.
+PayPal address is _T_E_M_P_T_A_G_#039;jc5@protonmail.com_T_E_M_P_T_A_G_#039;. Please include desired shipping address during payment.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Jan 2019 04:59:03 +0000</listdate>
+    <saledate>Sat, 12 Jan 2019 15:49:32 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: Item for Geeklist _T_E_M_P_T_A_G_quot;Downsizing My Collection - Part 1 [Auction ends 1/11/19]_T_E_M_P_T_A_G_quot; 
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Oct 2018 02:17:55 +0000</listdate>
+    <saledate>Thu, 24 Jan 2019 03:58:03 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>new</condition>
+    <notes>New _T_E_M_P_T_A_G_amp; still in shrink wrap</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

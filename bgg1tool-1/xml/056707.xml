@@ -1,0 +1,717 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="56707">
+   <yearpublished>2009</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>120</playingtime>
+   <minplaytime>120</minplaytime>
+   <maxplaytime>120</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Colonia</name>
+       <name  sortindex="1">Colonia: 1322 A.D.</name>
+         
+   <description>Colonia in the Middle Ages. The largest city of the Holy Roman Empire is renowned for its famous cathedrals and versatile trade. Reputable patrician families hold influential positions in the City Council and are in control of the city_T_E_M_P_T_A_G_amp;rsquo;s fortune. They are always striving to increase their riches and to consolidate their power. Each family wants to be the most influential - but only one may achieve this goal!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The players take on the role of influential patrician families in Medieval Colonia. They strive to lead their family to the most powerful position by acquiring precious relics. In order to achieve this, players must buy commodities and produce and sell goods. Only families selling their goods for a high price can afford expensive relics. The player owning the most valuable collection of relics at the end of the game will be the winner._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/sB1GNUy6fHkeRWZ89bQy6r1YewE=/fit-in/200x150/pic560068.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/WhiT4cHxDysVBPjyI5ZXIrCNRYQ=/0x0/pic560068.jpg</image>
+      
+                   <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+               <boardgamefamily objectid="17595">Cities: Köln</boardgamefamily>
+                                    <boardgamecategory objectid="1021">Economic</boardgamecategory>
+               <boardgameartist objectid="52259">Marko Fiedler</boardgameartist>
+                                                                                     <boardgamedesigner objectid="60">Dirk Henn</boardgamedesigner>
+                             <boardgamecategory objectid="1035">Medieval</boardgamecategory>
+                                           <boardgameversion objectid="21876">Queen English/German edition</boardgameversion>
+               <boardgamepublisher objectid="47">Queen Games</boardgamepublisher>
+               <boardgameversion objectid="20454">Queen Games Collector_T_E_M_P_T_A_G_#039;s Edition</boardgameversion>
+               <boardgameversion objectid="51066">Queen multilingual edition</boardgameversion>
+                             <boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+               <boardgameartist objectid="11902">Claus Stephan</boardgameartist>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamepodcastepisode objectid="5549">The Spiel #93 - Relic Wranglers</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2017">Voting</boardgamemechanic>
+               <boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="25">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="12" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="12" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="10">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="8" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="4" />
+     <result value="14" numvotes="2" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1099</usersrated>
+     <average>6.60479</average>
+     <bayesaverage>6.02163</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2108" bayesaverage="6.02163" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="961" bayesaverage="6.12806" />
+            
+           </ranks>
+     
+     <stddev>1.47588</stddev>
+     <median>0</median>
+     <owned>1454</owned>
+     <trading>91</trading>
+     <wanting>50</wanting>
+     <wishing>220</wishing>
+     <numcomments>326</numcomments>
+     <numweights>99</numweights>
+     <averageweight>3.1111</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 02 Nov 2009 22:18:56 +0000</listdate>
+    <saledate>Sat, 12 Dec 2009 08:56:02 +0000</saledate>
+    <price currency='EUR'>85</price>
+    <condition>new</condition>
+    <notes>Collectors edtion Colonia from Queen Games still in seal. With Colonia shopping bag. With 228 Wooden figures and beautiful box art.
+Free of costs payments via Paylpal only possible when you won_T_E_M_P_T_A_G_#039;t use a creditcard.
+Inside Europe I prefer payment via Bank (free via IBAN number)
+Weight: 2550 gr.
+2-5 kg
+------------------------
+with track_T_E_M_P_T_A_G_amp;trace
+proof shipping/ delivery
+insurance € 500 zones EU
+insurance € 146 zones ROW
+retour service
+------------------------
+Zone EU 1 € 19.50
+BE / LU/ AT / DE / DK / ES/ FR / GB / IT / SE
+Zone EU 2 € 20.50
+EE / FI / HU / IE / LV / LT / PL / PT / SI / SL / CZ/ BG/ RO
+Zone ROW 1 € 25.00
+Outside European Union AL/ BY/ CH/ GR/ HR/ IS/ NO/ UA/ Canary Islands/ UR/ TR
+Zone ROW 2 € 34.20
+Rest of World
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Dec 2009 16:52:43 +0000</listdate>
+    <saledate>Mon, 18 Jan 2010 02:48:33 +0000</saledate>
+    <price currency='USD'>43.49</price>
+    <condition>new</condition>
+    <notes>Queen Games*
+Please contact us on selection and quantity.
+Queen Games (QNG 60562) $43.49 [Colonia]
+Queen Games (QNG 60563) $46.99 [Colonia Collector_T_E_M_P_T_A_G_#039;s Edition]
+**
+Colonia in the Middle Ages. The largest city of the Holy Roman Empire is renowned for its famous cathedrals and versatile trade. Reputable patrician families hold influential positions in the City Council and are in control of the city’s fortune. They are always striving to increase their riches and to consolidate their power. Each family wants to be the most influential - but only one may achieve this goal!
+The players take on the role of influential patrician families in Medieval Colonia. They strive to lead their family to the most powerful position by acquiring precious relics. In order to achieve this, players must buy commodities and produce and sell goods. Only families selling their goods for a high price can afford expensive relics. The player owning the most valuable collection of relics at the end of the game will be the winner.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Dec 2009 05:36:59 +0000</listdate>
+    <saledate>Tue, 08 Dec 2009 00:18:25 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COLONIA (collector_T_E_M_P_T_A_G_#039;s edition): $59.95
+Queen Games [QNG 60562]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Dec 2009 20:11:34 +0000</listdate>
+    <saledate>Sun, 05 Dec 2010 21:34:03 +0000</saledate>
+    <price currency='EUR'>89</price>
+    <condition>new</condition>
+    <notes>THE COLLECTOR_T_E_M_P_T_A_G_#039;S EDITION!
+mint!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jan 2010 17:43:14 +0000</listdate>
+    <saledate>Sat, 23 Jan 2010 01:08:20 +0000</saledate>
+    <price currency='USD'>43.49</price>
+    <condition>new</condition>
+    <notes>Queen Games*
+Please contact us on selection and quantity.
+Queen Games (QNG 60562) $43.49 [Colonia]
+Queen Games (QNG 60563) $46.99 [Colonia Collector_T_E_M_P_T_A_G_#039;s Edition]
+**
+Colonia in the Middle Ages. The largest city of the Holy Roman Empire is renowned for its famous cathedrals and versatile trade. Reputable patrician families hold influential positions in the City Council and are in control of the city’s fortune. They are always striving to increase their riches and to consolidate their power. Each family wants to be the most influential - but only one may achieve this goal!
+The players take on the role of influential patrician families in Medieval Colonia. They strive to lead their family to the most powerful position by acquiring precious relics. In order to achieve this, players must buy commodities and produce and sell goods. Only families selling their goods for a high price can afford expensive relics. The player owning the most valuable collection of relics at the end of the game will be the winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Feb 2010 07:30:11 +0000</listdate>
+    <saledate>Mon, 01 Feb 2010 17:59:35 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>likenew</condition>
+    <notes>Reserved for vkandtj.
+Chaddyboy_T_E_M_P_T_A_G_#039;s Vickrey Auction winnings...
+Colonia
+Islas Canarias
+Zug Nach Westen</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Feb 2010 18:47:33 +0000</listdate>
+    <saledate>Thu, 11 Feb 2010 18:08:15 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Still in shrink. Brand new.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Mar 2010 18:03:34 +0000</listdate>
+    <saledate>Sun, 14 Mar 2010 21:31:05 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Everything included in great shape. Shipping is $8 US, $20 international. Payment via Amazon gift card to my email address or check. Sorry, no paypal. Enjoy!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Oct 2010 23:15:28 +0000</listdate>
+    <saledate>Sat, 16 Oct 2010 06:03:25 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>for terry egan only!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Jan 2011 21:33:10 +0000</listdate>
+    <saledate>Fri, 18 Mar 2011 04:00:29 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>collectors edition w/meeples</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Jan 2011 16:30:48 +0000</listdate>
+    <saledate>Fri, 04 Feb 2011 18:45:04 +0000</saledate>
+    <price currency='USD'>38.99</price>
+    <condition>new</condition>
+    <notes>Queen Games*
+Please contact us on selection and quantity.
+Queen Games (QNG 60562) $38.99 [Colonia]
+Queen Games (QNG 60563) $41.99 [Colonia Collector_T_E_M_P_T_A_G_#039;s Edition]
+**
+Colonia in the Middle Ages. The largest city of the Holy Roman Empire is renowned for its famous cathedrals and versatile trade. Reputable patrician families hold influential positions in the City Council and are in control of the city’s fortune. They are always striving to increase their riches and to consolidate their power. Each family wants to be the most influential - but only one may achieve this goal!
+The players take on the role of influential patrician families in Medieval Colonia. They strive to lead their family to the most powerful position by acquiring precious relics. In order to achieve this, players must buy commodities and produce and sell goods. Only families selling their goods for a high price can afford expensive relics. The player owning the most valuable collection of relics at the end of the game will be the winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Feb 2011 19:25:33 +0000</listdate>
+    <saledate>Fri, 18 Mar 2011 16:47:37 +0000</saledate>
+    <price currency='CAD'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 May 2011 00:29:27 +0000</listdate>
+    <saledate>Thu, 05 May 2011 00:44:33 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>For user _T_E_M_P_T_A_G_quot;ConnerCP_T_E_M_P_T_A_G_quot; only</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 May 2011 23:00:10 +0000</listdate>
+    <saledate>Fri, 27 May 2011 02:25:50 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>From an auction for Pastor Mora</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jan 2012 14:41:14 +0000</listdate>
+    <saledate>Thu, 21 Feb 2013 18:37:27 +0000</saledate>
+    <price currency='EUR'>37.5</price>
+    <condition>new</condition>
+    <notes>COLLECTORS EDITION
+sealed, German</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Feb 2012 15:26:19 +0000</listdate>
+    <saledate>Thu, 23 Feb 2012 15:30:07 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Reserved for Sam Peavy (speavy)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Apr 2012 01:41:51 +0000</listdate>
+    <saledate>Sun, 15 Apr 2012 18:50:54 +0000</saledate>
+    <price currency='USD'>15.99</price>
+    <condition>new</condition>
+    <notes>Queen Games*
+Please contact us on selection and quantity.
+Queen Games (QNG 60562) $15.99 [Colonia]
+Queen Games (QNG 60563) $41.99 [Colonia Collector_T_E_M_P_T_A_G_#039;s Edition]
+**
+Colonia in the Middle Ages. The largest city of the Holy Roman Empire is renowned for its famous cathedrals and versatile trade. Reputable patrician families hold influential positions in the City Council and are in control of the city’s fortune. They are always striving to increase their riches and to consolidate their power. Each family wants to be the most influential - but only one may achieve this goal!
+The players take on the role of influential patrician families in Medieval Colonia. They strive to lead their family to the most powerful position by acquiring precious relics. In order to achieve this, players must buy commodities and produce and sell goods. Only families selling their goods for a high price can afford expensive relics. The player owning the most valuable collection of relics at the end of the game will be the winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Apr 2012 12:51:57 +0000</listdate>
+    <saledate>Sat, 25 Aug 2012 16:20:06 +0000</saledate>
+    <price currency='USD'>15.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG 60562)
+ 
+Colonia in the Middle Ages. The largest city of the Holy Roman Empire is renowned for its famous cathedrals and versatile trade. Reputable patrician families hold influential positions in the City Council and are in control of the city’s fortune. They are always striving to increase their riches and to consolidate their power. Each family wants to be the most influential - but only one may achieve this goal!
+ 
+The players take on the role of influential patrician families in Medieval Colonia. They strive to lead their family to the most powerful position by acquiring precious relics. In order to achieve this, players must buy commodities and produce and sell goods. Only families selling their goods for a high price can afford expensive relics. The player owning the most valuable collection of relics at the end of the game will be the winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 May 2012 15:48:35 +0000</listdate>
+    <saledate>Wed, 16 May 2012 18:14:37 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>For Jayson Myers (william4192) only.
+Won in the _T_E_M_P_T_A_G_quot;25 Games - 1 Week_T_E_M_P_T_A_G_quot; auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 May 2012 11:42:21 +0000</listdate>
+    <saledate>Fri, 27 Dec 2013 16:43:41 +0000</saledate>
+    <price currency='EUR'>37.5</price>
+    <condition>new</condition>
+    <notes>3-6 players (Queen Games)
+Languages: English, Français, Italiano, Nederlands, Español, Deutsch</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jul 2012 14:13:13 +0000</listdate>
+    <saledate>Fri, 27 Jul 2012 16:55:37 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>reserved for bigmactruck</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Aug 2012 20:14:46 +0000</listdate>
+    <saledate>Fri, 04 Jan 2013 03:18:12 +0000</saledate>
+    <price currency='USD'>15.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60562)
+Colonia in the Middle Ages is the largest city of the _T_E_M_P_T_A_G_quot;Holy Roman Empire_T_E_M_P_T_A_G_quot;. Being one of Europe_T_E_M_P_T_A_G_#039;s metropolises it is renowned for its famous cathedrals and vivid trade. In this game the players are the leaders of patrician families, holding influential positions in the Colonia City Council and controlling the city_T_E_M_P_T_A_G_#039;s fortune. These are the best opportunities to gain riches and power. A crucial element in achieving this goal is the powerful Roman Catholic Church, as was the case frequently in those days. Rare and precious relics enhance the prestige and influence of the Church. The players who can obtain the most valuable relics are striving for victory! </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jan 2013 22:18:43 +0000</listdate>
+    <saledate>Mon, 07 Apr 2014 22:43:59 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>All components intact. Very minor shelf wear. 
+I ship on the first Saturday after payment has been received. Pictures available upon request.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Mar 2013 14:42:25 +0000</listdate>
+    <saledate>Fri, 29 Mar 2013 15:19:51 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Colonia, Dominion, and Race for the Galaxy reserved for agguru.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Jul 2013 14:23:45 +0000</listdate>
+    <saledate>Mon, 29 Jul 2013 22:46:36 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This is the Special edition with the wooden components.
+Condition: Complete game (no missing pieces). All components in great condition. Rules have handwritten clarifications on them.
+Shipping _T_E_M_P_T_A_G_amp; Handling: Please, send me an e-mail and I will let you know about the cost.
+Payment: PayPal ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Aug 2013 18:53:34 +0000</listdate>
+    <saledate>Mon, 16 Sep 2013 21:12:39 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>*** Deluxe version with the wooden meeples ***
+in original shrinkwrap.  
+Please geekmail me with any questions.  US buyer agrees to pay for USPS shipping - I believe that this will fit in a medium flat-rate box.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jan 2014 23:38:44 +0000</listdate>
+    <saledate>Wed, 26 Feb 2014 13:52:23 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New, sealed, perfect shape.
+Shipping will be actual cost; this game is pretty big so email me for an exact quote, probably in the $10-$15 range. I can also do free local pickup in the Sacramento/Davis area.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Mar 2014 22:26:33 +0000</listdate>
+    <saledate>Thu, 03 Apr 2014 11:05:42 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Collectors limited edition.
+Played once. Pristine condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Mar 2014 04:06:05 +0000</listdate>
+    <saledate>Mon, 21 Apr 2014 05:02:56 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>== RESERVED FOR xamsedel ===
+Edition: Queen Games 60561 (English, German)
+Condition: Very Good (crease in top left corner, bottom left corner dinged - please see attached pictures)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Jul 2014 14:42:23 +0000</listdate>
+    <saledate>Sat, 19 Jul 2014 14:50:13 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>reserved for user jmathias</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Sep 2014 02:53:48 +0000</listdate>
+    <saledate>Thu, 11 Sep 2014 13:41:27 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/178072/item/3409191#3409191]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction (STL - 63141) Ending 9pm CDT 2014-09-10_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Sep 2014 21:25:47 +0000</listdate>
+    <saledate>Sun, 14 Sep 2014 04:59:36 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Tom Stearns (gohrns)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Nov 2014 04:21:12 +0000</listdate>
+    <saledate>Thu, 06 Nov 2014 21:48:51 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>_T_E_M_P_T_A_G_quot;This is a marketplace entry for a game sold in the Virtual Flea Market at BGGCon 2014.  This should only be purchased by the user specified below!
+Relevant Details:
+Name: Colonia
+Buyer Username: Jimbowildman
+Price: $20
+VFM Link: http://boardgamegeek.com/geeklist/178671/item/3436713#item3436713
+Payment Options: Cash at con or paypal payment to akunsemiller@gmail.com.
+Note: If you can not pay for and pick this item up in person at BGGCon2014, this sale is not valid._T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Nov 2014 04:37:12 +0000</listdate>
+    <saledate>Mon, 10 Nov 2014 05:59:52 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/178671/item/3535186#3535186]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2014_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Dec 2014 03:26:15 +0000</listdate>
+    <saledate>Sun, 07 Dec 2014 03:27:25 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/181969/item/3569673#3569673]Item for Geeklist _T_E_M_P_T_A_G_quot;LAST FEW HOURS!! Black Friday Auction! Container, Quarriors LOT, Atlantis Rising, Mage Wars LOT, Diamonds Club and more!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Oct 2014 11:55:10 +0000</listdate>
+    <saledate>Wed, 18 Feb 2015 22:19:34 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Reserved for JudytheCat
+Collector_T_E_M_P_T_A_G_#039;s edition 1990 of 2000.
+Game opened but cardboard pieces on unpunched and cards are still in wrap.
+Box has slight dent on the top near the back.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Feb 2015 21:13:39 +0000</listdate>
+    <saledate>Wed, 18 Mar 2015 06:10:45 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink.
+Too big for a USPS Priority Flat Rate box, so shipping will be in as small of a box that I can find that will hold the game box. Ships from 29212.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 May 2015 00:55:26 +0000</listdate>
+    <saledate>Mon, 04 May 2015 12:52:31 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190488/item/3870876#3870876]Item for Geeklist _T_E_M_P_T_A_G_quot;200 games, Pickup in STL/Geekway available, Ships From STL, Ends 4pm CDT Sunday May 3rd_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For boland35 only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Nov 2014 05:42:48 +0000</listdate>
+    <saledate>Tue, 26 May 2015 03:47:18 +0000</saledate>
+    <price currency='USD'>14.99</price>
+    <condition>new</condition>
+    <notes>Item is brand new in factory sealing! Buyer pays shipping, please message me with any questions!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jun 2015 01:22:36 +0000</listdate>
+    <saledate>Tue, 09 Jun 2015 01:34:29 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191346/item/3903282#3903282]Item for Geeklist _T_E_M_P_T_A_G_quot;Dice Tower Convention/Buying a Dodge Challenger auction 2015 part 1_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Jul 2015 01:50:39 +0000</listdate>
+    <saledate>Fri, 03 Jul 2015 06:48:06 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191048/item/3888266#3888266]Item for Geeklist _T_E_M_P_T_A_G_quot;Auctioning a Friend_T_E_M_P_T_A_G_#039;s Collection - More than 100 games for sale!!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+reserved for PapaJoeBear
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Sep 2015 17:57:52 +0000</listdate>
+    <saledate>Mon, 30 Nov 2015 13:56:27 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Shrink wrap
+PayPal or US Postal Money Order
+Other methods of payment may be accepted but contact me before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Dec 2015 03:01:00 +0000</listdate>
+    <saledate>Fri, 18 Dec 2015 17:33:24 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This item is only for user armadaman from the _T_E_M_P_T_A_G_quot;Two Boardgames Cannot Occupy the Same Space at Once_T_E_M_P_T_A_G_quot; US only Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Feb 2016 00:43:02 +0000</listdate>
+    <saledate>Sun, 14 Feb 2016 14:25:23 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>**Hard to Find * OOPS * Grails Auction** Item
+Sold to Beek Man</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Mar 2016 03:21:53 +0000</listdate>
+    <saledate>Mon, 14 Mar 2016 04:51:41 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>For Benjamin Benson, from A Late Winter Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Dec 2013 22:14:22 +0000</listdate>
+    <saledate>Wed, 27 Apr 2016 17:04:20 +0000</saledate>
+    <price currency='USD'>33.95</price>
+    <condition>new</condition>
+    <notes>Description:
+Colonia in the Middle Ages is the largest city of the „Holy Roman Empire“. Being one of Europe’s metropolises it is renowned for its famous cathedrals and vivid trade. 
+In this game the players are the leaders of patrician families, holding influential positions in the Colonia City Council and controlling the city’s fortune.
+These are the best opportunities to gain riches and power. A crucial element in achieving this goal is the powerful Roman Catholic Church, as was the case frequently in those days. 
+Rare and precious relics enhance the prestige and influence of the Church. The players who can obtain the most valuable relics are striving for victory!
+******************************
+Our Philosophy:
+We are not satisfied unless you are satisfied! It_T_E_M_P_T_A_G_#039;s that simple. In business for over 5 years, we understand the most critical aspects of ecommerce. Deliver good value, keep you posted on that status of your order and be available for help should the need arise. 
+Description: 
+All games are new and still in factory shrink-wrap. 
+How to place an Order?
+Via the BoardGameGeek “shopping cart”
+Note: If this is your first purchase on BoardGameGeek, Go to http://boardgamegeek.com/wiki/page/Marketplace_Buyer_Guide for more information.  
+Payment:
+Payment via PayPal “Griffin@GriffinsToyChest.com” (PayPal Verified) 
+Shipping:
+Griffin’s Toy Chest ships via USPS (2-3 day service) or Fed-Ex Ground (2-5 business days) to anywhere within the United States. You will receive a price quote for each shipping option and you choose which of these two shipping option best fits your needs. All shipments are made within 2-3 days of receiving your cleared PayPal payment.  
+Note: feel free to combine items to reduce shipping cost.  
+Returns:
+Our return policy mirrors our philosophy; we are not satisfied unless you are satisfied! You may return any unopened item within 30 days of delivery for a full refund of the purchase price less shipping costs. Simply contact us to make return arrangements.
+Note: if an item is damaged in transit, an item exchange will be made at no additional cost to the buyer.  Note that we take special pains to package all of your items properly but in the event of the unforeseen, we have you covered!
+ 
+Contact: 
+Please contact us via email: Griffin@GriffinsToyChest.com: phone (M-F 9 AM -6PM EST) 1-888-228-3716; or mail: Griffins Toy Chest, P.O. Box 13731, Fairlawn, OH 44313
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Apr 2016 11:39:48 +0000</listdate>
+    <saledate>Fri, 29 Apr 2016 14:18:28 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Aug 2016 14:32:46 +0000</listdate>
+    <saledate>Sat, 27 Aug 2016 03:40:24 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/212850/item/4807920#4807920]Item for Geeklist _T_E_M_P_T_A_G_quot;Make room for 2nd Baby (and new games) Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Dec 2016 03:21:00 +0000</listdate>
+    <saledate>Thu, 29 Dec 2016 11:35:37 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/217961/item/5066073#5066073]Item for Geeklist _T_E_M_P_T_A_G_quot;Holiday Purge Auction - Ends 12/28_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For Trains _T_E_M_P_T_A_G_amp; Colonia</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Dec 2016 20:48:05 +0000</listdate>
+    <saledate>Sat, 18 Feb 2017 03:13:33 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played only a few times.
+Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Mar 2017 05:23:32 +0000</listdate>
+    <saledate>Sun, 05 Mar 2017 17:46:33 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222424/item/5240505#5240505]Item for Geeklist _T_E_M_P_T_A_G_quot;Get ready for daylight savings time! An auction from NorCal_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Feb 2017 02:12:24 +0000</listdate>
+    <saledate>Sat, 25 Mar 2017 01:56:15 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Played once.
+Buyer pays all shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Apr 2017 08:37:49 +0000</listdate>
+    <saledate>Sun, 07 May 2017 20:43:58 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>UK postage £4.00 elsewhere on request</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Aug 2017 05:16:54 +0000</listdate>
+    <saledate>Fri, 04 Aug 2017 14:50:07 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/227688/item/5514786#5514786]Item for Geeklist _T_E_M_P_T_A_G_quot;Downsizing Auction #5 - Gen Con Pickup Available_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Dec 2017 04:26:49 +0000</listdate>
+    <saledate>Sat, 30 Dec 2017 17:59:58 +0000</saledate>
+    <price currency='USD'>29.98</price>
+    <condition>verygood</condition>
+    <notes>Condition: corners lghtly scuffed</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Feb 2017 18:54:12 +0000</listdate>
+    <saledate>Sun, 28 Jan 2018 11:42:51 +0000</saledate>
+    <price currency='EUR'>44</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Feb 2018 00:12:29 +0000</listdate>
+    <saledate>Mon, 26 Feb 2018 03:45:57 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>Complete. Unplayed. Box intact and in good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Aug 2014 13:30:35 +0000</listdate>
+    <saledate>Sat, 03 Mar 2018 13:07:38 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>2009 Queen Games Multilingual Edition. Played, complete, in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Nov 2017 05:13:29 +0000</listdate>
+    <saledate>Fri, 30 Mar 2018 14:26:43 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Opened - unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Dec 2017 00:37:54 +0000</listdate>
+    <saledate>Tue, 15 May 2018 14:09:41 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Never played</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Apr 2018 11:19:19 +0000</listdate>
+    <saledate>Mon, 11 Jun 2018 20:42:38 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Mint condition including the numbered certificate #394 of 2000.
+Shipping to UK only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2017 12:27:06 +0000</listdate>
+    <saledate>Wed, 05 Dec 2018 13:16:42 +0000</saledate>
+    <price currency='GBP'>38</price>
+    <condition>verygood</condition>
+    <notes>#777 of 2000
+Contents are in excellent condition.  Box is in very good to excellent condition with a few creases.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

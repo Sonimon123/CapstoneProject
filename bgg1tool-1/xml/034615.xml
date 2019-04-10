@@ -1,0 +1,852 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="34615">
+   <yearpublished>2008</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>45</playingtime>
+   <minplaytime>45</minplaytime>
+   <maxplaytime>45</maxplaytime>
+   <age>8</age>
+       <name  sortindex="1">Carcassonne Mayflower</name>
+       <name  sortindex="1">Carcassonne New World</name>
+       <name  sortindex="1">Carcassonne Uusi Maailma</name>
+       <name primary="true" sortindex="1">New World: A Carcassonne Game</name>
+         
+   <description>In New World: A Carcassonne Game, players begin as early settlers of the United States on the east coast of the continent. As in the original Carcassonne game, players lay tiles turn by turn to build towns, roads, and other parts of the countryside. A player can choose to place one of his tokens on the tile he lays for the turn, and if that town, road, etc. is completed, then the player scores points and reclaims his token for later use. Whoever scores the most points wins._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;One big twist in New World: A Carcassonne Game compared to the original game is that play starts on the east coast, and as players score points, a pair of surveyors drive exploration inexorably westward. Players who do not complete their features before the surveyors pass them by will find their tokens removed from the board - for no points!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/Hu1RqUbiqaBUXwwYOXEOY2oXp04=/fit-in/200x150/pic303773.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Z1HiP8reECJjKxVMM0SWIzsCat8=/0x0/pic303773.jpg</image>
+      
+            <boardgamepublisher objectid="133">Hans im Glück</boardgamepublisher>
+               <boardgamehonor objectid="9280">2010 Årets Spill Best Family Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="13189">2010 Guldbrikken Best Family Game Nominee</boardgamehonor>
+               <boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+               <boardgamefamily objectid="5549">Age of Discovery</boardgamefamily>
+               <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamepublisher objectid="6784">Bergsala Enigma</boardgamepublisher>
+               <boardgamefamily objectid="2">Carcassonne</boardgamefamily>
+               <boardgamecategory objectid="1029">City Building</boardgamecategory>
+               <boardgamefamily objectid="21622">Colonial Theme</boardgamefamily>
+               <boardgameversion objectid="21199">Dutch edition</boardgameversion>
+                                                         <boardgamecategory objectid="1020">Exploration</boardgamecategory>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgameversion objectid="22255">Finnish edition</boardgameversion>
+               <boardgameversion objectid="85460">French edition</boardgameversion>
+               <boardgameversion objectid="42311">German edition</boardgameversion>
+                                                                       <boardgamepublisher objectid="3218">Lautapelit.fi</boardgamepublisher>
+                             <boardgameversion objectid="270061">Nordic edition</boardgameversion>
+                                    <boardgameversion objectid="25413">Rio Grande English edition</boardgameversion>
+               <boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+                      <boardgamepublisher objectid="5392">Schmidt France</boardgamepublisher>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+               <boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+                      <boardgamedesigner objectid="398">Klaus-Jürgen Wrede</boardgamedesigner>
+               <boardgameimplementation objectid="822" inbound="true">Carcassonne</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="27">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="16" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="9" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="10" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="10" />
+     <result value="Not Recommended" numvotes="11" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="16" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="14">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="14" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="4" />
+     <result value="10" numvotes="6" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>2037</usersrated>
+     <average>6.4795</average>
+     <bayesaverage>6.09749</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1841" bayesaverage="6.09749" />
+            
+       
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="525" bayesaverage="6.17327" />
+            
+           </ranks>
+     
+     <stddev>1.38503</stddev>
+     <median>0</median>
+     <owned>3381</owned>
+     <trading>155</trading>
+     <wanting>59</wanting>
+     <wishing>301</wishing>
+     <numcomments>581</numcomments>
+     <numweights>165</numweights>
+     <averageweight>2.0606</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 28 Aug 2008 11:18:18 +0000</listdate>
+    <saledate>Mon, 23 Aug 2010 17:05:46 +0000</saledate>
+    <price currency='GBP'>19.99</price>
+    <condition>new</condition>
+    <notes>UK ship £3.25 1st Class</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Sep 2008 04:28:04 +0000</listdate>
+    <saledate>Fri, 31 Oct 2008 23:12:16 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+NEW WORLD - A CARCASSONNE GAME: $19.95 ...in stock now
+Rio Grande Games [RIO 317]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Jan 2009 18:54:09 +0000</listdate>
+    <saledate>Thu, 11 Feb 2010 23:23:32 +0000</saledate>
+    <price currency='USD'>18.49</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO 317)
+Type: Area control 
+Number of players: 2-5
+Age of players: 8++
+Length: 45 minutes minutes
+Game Description: 
+In this Carcassonne game, players begin as the early settlers of the United States did on the east coast of America. As they explore westward, they build towns, farms, paths, and compete to score more points than the others players. As exploration moves to the west, players who are slow to complete the features they have started will find themselves left behind - with no points!
+Author: Klaus-Jürgen Wrede
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Mar 2009 19:10:02 +0000</listdate>
+    <saledate>Thu, 19 Mar 2009 20:24:09 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Tiles have been punched, but this one is unplayed.  Great condition overall</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Apr 2009 01:30:11 +0000</listdate>
+    <saledate>Sat, 09 May 2009 07:34:36 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played only 2x - in great condition.
+Priced to sell - I have to get rid of the old games before I can buy any new.
+Check out my other games for sale - will combine shipping.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 May 2009 00:54:49 +0000</listdate>
+    <saledate>Mon, 18 May 2009 02:59:31 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Game reserved for auction winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Jan 2010 00:12:36 +0000</listdate>
+    <saledate>Fri, 07 May 2010 18:56:27 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>likenew</condition>
+    <notes>Like new, played only a few times, pieces punched and bagged. Buyer to pay Canada Post rates. Can only mail within Canada to keep costs down.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Feb 2010 21:23:10 +0000</listdate>
+    <saledate>Thu, 11 Feb 2010 23:07:52 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>This sale is ONLY for the winning bidder of my Geeklist auction:
+AGKorson
+Please do not attempt to by this game if you are not the intended buyer; the transaction will not be honored.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Mar 2010 22:38:35 +0000</listdate>
+    <saledate>Tue, 16 Aug 2011 20:40:32 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Has been played once in a five player game.  
+Everything in great shape.  Please geekmail for shipping costs. (provide zipcode)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 May 2010 14:45:42 +0000</listdate>
+    <saledate>Wed, 04 Aug 2010 18:12:44 +0000</saledate>
+    <price currency='USD'>9.5</price>
+    <condition>verygood</condition>
+    <notes>played once</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Jun 2010 15:49:44 +0000</listdate>
+    <saledate>Mon, 28 Jun 2010 07:23:17 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>Item sold in an auction and reserved for Rococo_Zephyr</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jul 2010 03:41:40 +0000</listdate>
+    <saledate>Sat, 29 Jan 2011 00:11:49 +0000</saledate>
+    <price currency='USD'>13.99</price>
+    <condition>new</condition>
+    <notes>I bought a large amount of games from an out of business game store. I have a perfect E-bay selling record of 153 under scottjjohnson. Also check my BGG trade feedback. 
+Actual shipping charges via USPS priority mail.
+Shipping should be $8.00 to $9.50 depending on destination zip code.
+I will combine any shipping costs. I take care in packing.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jul 2010 21:24:06 +0000</listdate>
+    <saledate>Fri, 12 Aug 2011 20:08:50 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>The game:
+Germanversion from Hans im Glück.
+All game parts are punched but still in mint condition.
+Box bottom shows light wear.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within EU I prefer the EU-standard-bank-tranfer (SEPA,IBAN/BIC). It is fast and causes no fees.
+Outside EU Paypal and bank-transfer are possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Dec 2010 01:08:47 +0000</listdate>
+    <saledate>Sun, 03 Nov 2013 17:04:53 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Feb 2011 02:17:12 +0000</listdate>
+    <saledate>Mon, 21 Jul 2014 11:11:29 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>new, still in shrinkwrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Feb 2011 01:23:23 +0000</listdate>
+    <saledate>Fri, 11 Mar 2011 06:40:48 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>Punched but never played.
+For user travvller.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Mar 2011 16:11:56 +0000</listdate>
+    <saledate>Wed, 19 Mar 2014 17:46:17 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>new</condition>
+    <notes>In shrink
+German
+Shipping Germany  4 Euro
+Shipping European Union 9 Euro
+Shipping World         14 Euro
+PayPal plus 1 Euro
+Money transfer via IBAN/BIC preferred
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jul 2011 13:12:00 +0000</listdate>
+    <saledate>Mon, 18 Jul 2011 15:00:45 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>For Sea Dreamer only </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Jul 2011 03:39:06 +0000</listdate>
+    <saledate>Mon, 25 Jul 2011 12:11:13 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>Auction win for mudmonkey only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Jul 2011 10:16:49 +0000</listdate>
+    <saledate>Thu, 29 Sep 2011 11:18:31 +0000</saledate>
+    <price currency='GBP'>9.99</price>
+    <condition>verygood</condition>
+    <notes>Only played once, components and box are all in a very good condition.
+UK Shipping: £3.50
+Europe: £6.50</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Feb 2012 04:22:56 +0000</listdate>
+    <saledate>Tue, 21 Feb 2012 19:05:45 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Reserved for VikingPrincess</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Feb 2012 04:54:10 +0000</listdate>
+    <saledate>Fri, 24 Feb 2012 04:56:00 +0000</saledate>
+    <price currency='USD'>9.95</price>
+    <condition>likenew</condition>
+    <notes>Flat Rate Priority Shipping w/ Delivery Confirmation $10</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jun 2012 06:27:40 +0000</listdate>
+    <saledate>Tue, 19 Jun 2012 02:41:35 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>Auction win for kcjester only!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jun 2012 17:51:50 +0000</listdate>
+    <saledate>Tue, 25 Mar 2014 13:28:42 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>new in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jul 2012 21:34:45 +0000</listdate>
+    <saledate>Tue, 31 Jul 2012 02:19:16 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>Reserved for Andy Anderson at $10.00</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Sep 2012 03:12:07 +0000</listdate>
+    <saledate>Sat, 15 Sep 2012 16:00:51 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>reserved forcampfire113</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Nov 2012 11:22:33 +0000</listdate>
+    <saledate>Tue, 22 Apr 2014 13:43:25 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>Brand new in factory shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Dec 2012 18:07:24 +0000</listdate>
+    <saledate>Thu, 03 Jan 2013 03:21:38 +0000</saledate>
+    <price currency='USD'>12.99</price>
+    <condition>likenew</condition>
+    <notes>Item Name: New World: A Carcassonne Game
+Description: New World: A Carcassonne Game opened, but unpunched/unplayed in excellent shape.
+Shipping Weight: 3 lbs
+Orders are usually shipped within one business day of receiving payment. Shipping can be calculated by adding the weights of all games purchased together (yes, we do combine items for shipping so take a look at our other games as the cost of shipping that second or third game is small compared to the first one) and adding 1 pound for packaging materials from US zip code 60134. We ship via either the USPS or UPS.
+International buyers please note... shipping overseas is EXPENSIVE. For that first game (unless it_T_E_M_P_T_A_G_#039;s tiny) it_T_E_M_P_T_A_G_#039;ll be no less than $30... additional games don_T_E_M_P_T_A_G_#039;t add much to that. Please be aware of that before placing an order.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Feb 2013 19:53:39 +0000</listdate>
+    <saledate>Mon, 01 Apr 2013 23:40:27 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 May 2013 22:03:13 +0000</listdate>
+    <saledate>Tue, 28 May 2013 10:03:11 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>Played a couple times; all pieces present and in very good condition. Slight wear on box corners. 
+---------------------------------------
+Payment And Shipping Details
+---------------------------------------
+Payments Accepted Through PayPal. 
+1-2 Business Day Handling (After Payment Has Been Received).
+Estimated Shipping And Handling Costs (USA Only):
+Priority Flat Rate $12.35</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Jun 2013 01:14:53 +0000</listdate>
+    <saledate>Sat, 03 Aug 2013 19:47:11 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Like new. Played once.
+Reserved for auction winner lmjarl</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Jun 2013 13:25:32 +0000</listdate>
+    <saledate>Mon, 01 Jul 2013 11:26:51 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>For the action _T_E_M_P_T_A_G_quot;3 Men and an Auction_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Dec 2013 23:23:18 +0000</listdate>
+    <saledate>Mon, 13 Jan 2014 21:38:07 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>likenew</condition>
+    <notes>Up for sale is New World, the game is from the Carcassonne family with a few subtle differences.  It has only be played once and looks brand new</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Apr 2014 15:07:41 +0000</listdate>
+    <saledate>Tue, 29 Apr 2014 03:58:34 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played once or twice.  I ditched the insert and have the tiles in a Crown Royal bag.  Everything is in excellent condition.
+Probably ship via USPS priority mail (Medium) or standard which may be cheaper.
+Non-US shipping will likely be more expensive.  PM me for a quote, or look at prices shipping from Georgia, US to your country.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Apr 2014 13:46:48 +0000</listdate>
+    <saledate>Mon, 28 Apr 2014 14:47:48 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>I am selling a once played Carcassonne New World game. No missing parts and in brand new condition. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 May 2014 17:53:30 +0000</listdate>
+    <saledate>Thu, 04 Sep 2014 02:40:03 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Opened, but never played. In Excellent condition! Please make all payments to my PayPal account (ptbusch at me dot com). Shipping price listed is for USPS Priority Mail 2-Day Delivery within the continental USA (comes with free tracking # and $50 insurance). Shipping discount available for multiple items on the same order (send me a message for a price). **For international orders please ask for a shipping price quote.**</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jun 2014 19:07:26 +0000</listdate>
+    <saledate>Sat, 13 Sep 2014 15:53:58 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Still in original shrink.  Very clean.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jun 2014 23:28:27 +0000</listdate>
+    <saledate>Sun, 31 Aug 2014 13:21:03 +0000</saledate>
+    <price currency='USD'>18.99</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO317F)
+In this Carcassonne game, players begin as the early settlers of the United States did on the east coast of America. As they explore westward, they build towns, farms, paths, and compete to score more points than the others players. As exploration moves to the west, players who are slow to complete the features they have started will find themselves left behind - with no points! </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Jul 2014 04:47:00 +0000</listdate>
+    <saledate>Tue, 15 Jul 2014 05:52:12 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/175628/item/3307120#3307120]Item for Geeklist _T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_#039;Crate Full of Games Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Oct 2014 18:47:32 +0000</listdate>
+    <saledate>Sun, 02 Nov 2014 18:04:53 +0000</saledate>
+    <price currency='EUR'>12.99</price>
+    <condition>verygood</condition>
+    <notes>shipping rates:
+Germany   = 5.00 Euro
+worldwide = 9.00 Euro
+game weight: 800 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Dec 2013 22:06:25 +0000</listdate>
+    <saledate>Sun, 23 Nov 2014 04:42:19 +0000</saledate>
+    <price currency='USD'>17.5</price>
+    <condition>new</condition>
+    <notes>Description:  
+Experience the excitement and the perils of the early settlers in the game, Carcassonne - The New World! Players begin on the Eastern Seaboard and migrate their way westward (as the landscape emerges), tile by tile. By deploying robbers, trappers, farmers, and shopkeepers on their respective trail, plain, farm, and town tiles, players attempt to score as many points as possible. Points are scored both during the game, and at the end. The player with the most points at the end wins the game. Perfect for seasoned the Carcassonne player, or for the brand new player!
+Components:
+95 Land Tiles
+30 Wooden Settlers
+1 Game Board
+2 Wooden Surveyors
+1 Rule Booklet
+1 Summary Sheet
+************************* 
+Our Philosophy:
+We are not satisfied unless you are satisfied! It_T_E_M_P_T_A_G_#039;s that simple. In business for over 5 years, we understand the most critical aspects of ecommerce. Deliver good value, keep you posted on that status of your order and be available for help should the need arise. 
+Description: 
+All games are new and still in factory shrink-wrap. 
+How to place an Order?
+Via the BoardGameGeek “shopping cart”
+Note: If this is your first purchase on BoardGameGeek, Go to http://boardgamegeek.com/wiki/page/Marketplace_Buyer_Guide for more information.  
+Payment:
+Payment via PayPal “Griffin@GriffinsToyChest.com” (PayPal Verified) 
+Shipping:
+Griffin’s Toy Chest ships via USPS (2-3 day service) or Fed-Ex Ground (2-5 business days) to anywhere within the United States. You will receive a price quote for each shipping option and you choose which of these two shipping option best fits your needs. All shipments are made within 2-3 days of receiving your cleared PayPal payment.  
+Note: feel free to combine items to reduce shipping cost.  
+Returns:
+Our return policy mirrors our philosophy; we are not satisfied unless you are satisfied! You may return any unopened item within 30 days of delivery for a full refund of the purchase price less shipping costs. Simply contact us to make return arrangements.
+Note: if an item is damaged in transit, an item exchange will be made at no additional cost to the buyer.  Note that we take special pains to package all of your items properly but in the event of the unforeseen, we have you covered!
+ 
+Contact: 
+Please contact us via email: Griffin@GriffinsToyChest.com: phone (M-F 9 AM -6PM EST) 1-888-228-3716; or mail: Griffins Toy Chest, P.O. Box 13731, Fairlawn, OH 44313
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Dec 2014 08:28:23 +0000</listdate>
+    <saledate>Thu, 15 Jan 2015 17:12:38 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played 2-3 times only, like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Apr 2012 19:50:35 +0000</listdate>
+    <saledate>Wed, 04 Feb 2015 22:49:56 +0000</saledate>
+    <price currency='GBP'>14</price>
+    <condition>verygood</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Jan 2015 21:50:09 +0000</listdate>
+    <saledate>Mon, 30 Mar 2015 01:18:20 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>The game is still shrinkwrapped.  Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Mar 2015 11:43:30 +0000</listdate>
+    <saledate>Sat, 25 Apr 2015 22:22:43 +0000</saledate>
+    <price currency='GBP'>14</price>
+    <condition>new</condition>
+    <notes>Language independent.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Oct 2014 00:59:03 +0000</listdate>
+    <saledate>Mon, 06 Jul 2015 19:24:03 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Apr 2015 22:00:17 +0000</listdate>
+    <saledate>Sun, 18 Oct 2015 07:56:17 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Oct 2015 05:46:00 +0000</listdate>
+    <saledate>Mon, 19 Oct 2015 23:34:39 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198187/item/4215085#4215085]Item for Geeklist _T_E_M_P_T_A_G_quot;Quick Auction: 200+ games, Pickup in STL available. Ships from STL. Ends Sunday October 18th 9pm(ish) CDT_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For Nighthaunt only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Nov 2015 19:34:09 +0000</listdate>
+    <saledate>Fri, 01 Jan 2016 03:31:50 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>German First Edition 2008 Hans-im-Glueck. Shrinkwrapped.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Nov 2012 16:54:50 +0000</listdate>
+    <saledate>Sun, 06 Mar 2016 17:59:07 +0000</saledate>
+    <price currency='EUR'>19.5</price>
+    <condition>new</condition>
+    <notes>Sealed
+French Edition
+no text in game</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Mar 2016 13:29:14 +0000</listdate>
+    <saledate>Sun, 17 Apr 2016 17:50:21 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Nov 2015 05:19:15 +0000</listdate>
+    <saledate>Tue, 26 Apr 2016 17:56:12 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jan 2016 16:51:02 +0000</listdate>
+    <saledate>Sat, 07 May 2016 15:49:02 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Punched, but never played.  Wife got it at GenCon because the love Carcassonne, but just never got interest back.
+Ships via USPS Medium Flat Rate, $12.65.  Will combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jan 2016 22:55:41 +0000</listdate>
+    <saledate>Thu, 09 Jun 2016 00:10:59 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Dec 2015 23:45:58 +0000</listdate>
+    <saledate>Sun, 19 Jun 2016 02:40:27 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Jun 2016 04:23:54 +0000</listdate>
+    <saledate>Mon, 27 Jun 2016 12:17:33 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/210020/item/4679222#4679222]Item for Geeklist _T_E_M_P_T_A_G_quot;It_T_E_M_P_T_A_G_#039;s Not Them, It_T_E_M_P_T_A_G_#039;s Me; Unwanted Games Need a Home - Ends 6/26_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Sep 2016 14:40:07 +0000</listdate>
+    <saledate>Fri, 23 Sep 2016 17:53:04 +0000</saledate>
+    <price currency='GBP'>22.5</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink. Will post to UK only. Postage extra at cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Oct 2016 18:08:13 +0000</listdate>
+    <saledate>Thu, 20 Oct 2016 20:30:08 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>ZEKEMMA ONLY
+This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/4922703#4922703]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2016 21:41:56 +0000</listdate>
+    <saledate>Thu, 01 Dec 2016 09:55:11 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Sep 2016 02:20:01 +0000</listdate>
+    <saledate>Thu, 08 Dec 2016 01:38:43 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>Game is verified complete. Box and components all in very good condition. Shipping will run $9-$12 in the U.S. Feel free to contact me through BGG if you have any questions or if you need a shipping quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 May 2016 19:30:23 +0000</listdate>
+    <saledate>Thu, 02 Mar 2017 10:46:50 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>German edition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jan 2017 08:10:26 +0000</listdate>
+    <saledate>Fri, 10 Mar 2017 19:57:45 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>verygood</condition>
+    <notes>Ausgepackt, Inhalt unbenutzt, OVP minimale Abnutzungsspuren.
+Opened/punched, unplayed, box has minor wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Oct 2016 00:59:52 +0000</listdate>
+    <saledate>Sat, 11 Mar 2017 18:52:22 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>verygood</condition>
+    <notes>Open. Punched. Played once. Very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Mar 2017 05:22:33 +0000</listdate>
+    <saledate>Sun, 26 Mar 2017 15:35:31 +0000</saledate>
+    <price currency='USD'>9.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jun 2015 16:18:30 +0000</listdate>
+    <saledate>Sat, 22 Apr 2017 17:15:40 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played once!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jun 2015 14:47:36 +0000</listdate>
+    <saledate>Tue, 06 Jun 2017 19:23:12 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>verygood</condition>
+    <notes>German rules. Materials language indepedent.
+Shipping cost for buyer.
+IBAN +0%; Paypal +3%
+Exchange also possible at Ducosim fair in Amersfoort.
+Or at game days / evenings from Spelgroep Phoenix in Rotterdam / Leiden.
+Please note that the outer box has a very big dent at the bottom of the back side.
+The content is of course in perfect state.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Jun 2017 14:47:23 +0000</listdate>
+    <saledate>Sun, 11 Jun 2017 14:49:53 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/225115/item/5377394#5377394]Item for Geeklist _T_E_M_P_T_A_G_quot;Local pick up or Origins delivery auction!!  No ship--Auction is now Over!  Thanks!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Feb 2017 23:13:21 +0000</listdate>
+    <saledate>Mon, 18 Sep 2017 03:38:48 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Sep 2017 15:47:59 +0000</listdate>
+    <saledate>Sat, 28 Oct 2017 23:07:01 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Oct 2017 23:52:43 +0000</listdate>
+    <saledate>Wed, 01 Nov 2017 18:11:22 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Box and components in great condition. Selling as part of the _T_E_M_P_T_A_G_quot;collect less, play more_T_E_M_P_T_A_G_quot; philosophy that_T_E_M_P_T_A_G_#039;s now the law in my game room! $13.50 USPS shipping. Thanks for lookin_T_E_M_P_T_A_G_#039;, take care,,,</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Aug 2017 13:16:12 +0000</listdate>
+    <saledate>Thu, 09 Nov 2017 18:44:13 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>new</condition>
+    <notes>Game is still in shrink.
+Payment by bank transfer or PayPal family/friends.
+Shipping to Italy: 7 € (IoInvio) or 9 € (Pacco Ordinario)
+Shipping to other European countries: 8 € (Postamail internazionale, no tracking code) or 18 € (Raccomandata internazionale, with tracking code)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Sep 2014 00:04:03 +0000</listdate>
+    <saledate>Sat, 27 Jan 2018 03:48:17 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>German
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus max. 1 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Aug 2017 14:24:30 +0000</listdate>
+    <saledate>Sat, 17 Feb 2018 11:43:35 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>likenew</condition>
+    <notes>Like new, excellent condition. Played 1 to 5 times max with 2 player only.
+Check out my other listings for more Carcassonne games and items, with some being OOP.
+I will be in the US at the end of October and November (2018), so could ship from within the US or local pickup in Orlando/WDW area. I_T_E_M_P_T_A_G_#039;ll also be at Spiel on Thursday and possibly Friday (2018).
+I ship worldwide, but PLEASE contact me before purchasing if you want to know the shipping costs.
+I don_T_E_M_P_T_A_G_#039;t use Paypal, after being scammed a couple of times. Will only accept bank transfer or cash with local pick-up.
+Afhalen is mogelijk in Dordrecht/Rotterdam op afspraak.
+If you have any other questions, please contact me.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Mar 2018 03:00:44 +0000</listdate>
+    <saledate>Fri, 16 Mar 2018 10:28:13 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238935/item/6027296#6027296]Item for Geeklist _T_E_M_P_T_A_G_quot;CBERG_T_E_M_P_T_A_G_#039;s Shelf Clearing Auction #3_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for ottomaddox</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Oct 2017 02:07:20 +0000</listdate>
+    <saledate>Wed, 28 Mar 2018 16:26:50 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Feb 2018 04:35:33 +0000</listdate>
+    <saledate>Fri, 06 Apr 2018 00:28:20 +0000</saledate>
+    <price currency='USD'>14.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Nov 2017 00:16:31 +0000</listdate>
+    <saledate>Tue, 29 May 2018 15:43:01 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Open, only a couple plays, will add shipping
+any questions please ask</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Jul 2018 20:42:02 +0000</listdate>
+    <saledate>Fri, 13 Jul 2018 12:22:55 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Never played!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jun 2017 14:58:53 +0000</listdate>
+    <saledate>Sun, 22 Jul 2018 19:28:44 +0000</saledate>
+    <price currency='USD'>28.95</price>
+    <condition>verygood</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! 
+NEW WORLD - A CARCASSONNE GAME: $28.95
+Rio Grande Games [RIO 317]
+* see 2 pictures with this listing
+SHIPPING
+Continental U.S. -  $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jul 2018 21:12:09 +0000</listdate>
+    <saledate>Wed, 22 Aug 2018 20:03:07 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Ships from Bay Area in CA</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Sep 2018 02:02:11 +0000</listdate>
+    <saledate>Tue, 04 Sep 2018 03:48:17 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jul 2018 22:51:08 +0000</listdate>
+    <saledate>Thu, 04 Oct 2018 17:53:47 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>likenew</condition>
+    <notes>The game is no longer in shrinkwrap, but it is unplayed and unpunched.
+All components in the game (tiles, wooden pieces, game board and rules/summary sheet) are all present.  The 95 tiles are unpunched.
+The game box is in excellent shape.
+The game comes from a non-smoking household.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

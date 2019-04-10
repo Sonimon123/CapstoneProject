@@ -1,0 +1,1093 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="296">
+   <yearpublished>1998</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Medieval Merchant</name>
+       <name  sortindex="1">Pfeffersäcke</name>
+         
+   <description>Players secure valued markets via affordable trade routes between medieval cities while simultaneously forcing opponents into less affordable and less valued markets.  The cities themselves have a variable number of spaces for players to develop business branches within, or alternatively establish new trade routes into wider reaching cities and towns.  Players may generate income and risk losing dominance over a city, or add branches within a city that lower the value of your product but can award you with a stronger market influence.  At the end of the game, the player with the most influence wins._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/VTTpJjLnYFgHXq7GxDAweQUCZ78=/fit-in/200x150/pic150859.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/xKrhfT2fMwLbU4L6xaJzUpgCbOQ=/0x0/pic150859.jpg</image>
+      
+            <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamedesigner objectid="91">Christwart Conrad</boardgamedesigner>
+                                    <boardgamecategory objectid="1021">Economic</boardgamecategory>
+                                           <boardgameimplementation objectid="245645">Franchise</boardgameimplementation>
+                      <boardgameversion objectid="25875">German first edition</boardgameversion>
+                                                                                                   <boardgameversion objectid="214881">German second edition</boardgameversion>
+               <boardgamepublisher objectid="44">Goldsieber Spiele</boardgamepublisher>
+               <boardgamecategory objectid="1035">Medieval</boardgamecategory>
+                             <boardgameversion objectid="21322">Rio Grande English edition</boardgameversion>
+               <boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+               <boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="8">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="7" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="3" />
+     <result value="14" numvotes="1" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1097</usersrated>
+     <average>6.74916</average>
+     <bayesaverage>6.10201</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1825" bayesaverage="6.10201" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="852" bayesaverage="6.22525" />
+            
+           </ranks>
+     
+     <stddev>1.2729</stddev>
+     <median>0</median>
+     <owned>1495</owned>
+     <trading>91</trading>
+     <wanting>77</wanting>
+     <wishing>192</wishing>
+     <numcomments>382</numcomments>
+     <numweights>126</numweights>
+     <averageweight>3.0952</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 02 Dec 2002 01:22:06 +0000</listdate>
+    <saledate>Thu, 12 Dec 2002 23:33:13 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>It_T_E_M_P_T_A_G_#039;s been played a couple of times but is complete and in excellent shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Feb 2003 22:22:14 +0000</listdate>
+    <saledate>Sun, 16 Feb 2003 22:22:14 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Aug 2003 18:01:39 +0000</listdate>
+    <saledate>Sat, 10 Jan 2004 18:28:39 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>complete, box and components in excellent shape. It_T_E_M_P_T_A_G_#039;s german-style game where you struggle for economic control of growing cities and towns in medieval times. I think it also might be getting harder to find. lots of nice little wooden pieces. Rio Grande (English Language) version.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Aug 2003 11:38:41 +0000</listdate>
+    <saledate>Wed, 19 Nov 2003 16:32:42 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes>German edition by Goldsieber
+complete and in very good shape
+shipping wordlwide: Small package by surface mail, 12.30 Euro
+shipping Europe: Small package by surface mail, 8.20 Euro, bank transfer is now cheaper
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Apr 2004 04:15:49 +0000</listdate>
+    <saledate>Sat, 05 Nov 2005 16:31:44 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>Rio Grande English edition.  punched.  unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 May 2004 20:50:49 +0000</listdate>
+    <saledate>Tue, 01 Jun 2004 06:21:42 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>verygood</condition>
+    <notes>German edition by Goldsieber, box has some minor wear from storage
+shipping wordlwide: Small package by surface mail, 12.30 Euro
+shipping Europe: Small package by surface mail, 8.20 Euro, bank transfer is now cheaper
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Sep 2004 19:14:23 +0000</listdate>
+    <saledate>Mon, 25 Oct 2004 07:41:52 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>German edition ... still in shrink!
+Shipping worldwide at cost!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Jan 2005 16:03:09 +0000</listdate>
+    <saledate>Fri, 04 Feb 2005 18:08:20 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>verygood</condition>
+    <notes>Rio Grande (English) edition. Will ship worldwide for cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Feb 2005 20:47:11 +0000</listdate>
+    <saledate>Mon, 09 May 2005 19:40:00 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>verygood</condition>
+    <notes>I´m offering the Goldsieber edition including German rules
+Shipping is EUR 8.60 within Europe or EUR 13 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Mar 2005 16:04:54 +0000</listdate>
+    <saledate>Sat, 05 Mar 2005 20:33:53 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>German version by Goldsieber. Punched but never played.
+Shipping 3,08 euro in Belgium and 11,55 euro in Europe.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Apr 2005 13:01:50 +0000</listdate>
+    <saledate>Sat, 03 Sep 2005 15:18:59 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>verygood</condition>
+    <notes>Original german edition by Goldsieber - material is language independent, english rules are available here at the Geek.
+The game is played but in perfect shape (personally I would still rate it as _T_E_M_P_T_A_G_#039;like new_T_E_M_P_T_A_G_#039;).
+Shipping worldwide at cost!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Oct 2005 12:49:15 +0000</listdate>
+    <saledate>Wed, 26 Oct 2005 04:53:17 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>The game was purchased new and has been opened but unplayed. The box was shipped with a crushed corner.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Nov 2006 14:30:49 +0000</listdate>
+    <saledate>Tue, 12 Dec 2006 04:19:36 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jan 2007 04:40:58 +0000</listdate>
+    <saledate>Wed, 14 Nov 2007 03:57:30 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Rio Grande Games edition (1998 printing).  Game components have been punched and bagged, but not played.  All components accounted for.
+Minimal wear and tear on bottom game box (around the edges).
+Game comes from a non-smoking house.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Apr 2007 02:43:25 +0000</listdate>
+    <saledate>Mon, 07 Jan 2008 17:25:01 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Complete and in excellent shape, played only once. Shipping is $10. Payment via funds transfer (non-credit card) PayPal.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 May 2007 22:49:53 +0000</listdate>
+    <saledate>Thu, 31 May 2007 00:03:07 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>new</condition>
+    <notes>Mint Sealed Rio Grande version.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 May 2007 22:49:21 +0000</listdate>
+    <saledate>Tue, 10 Jul 2007 01:19:21 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>new</condition>
+    <notes>Medieval Merchant - Rio Grande Games
+New! Still in the shrink wrap, and in perfect condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $2.00 handling charge.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Nov 2007 18:58:20 +0000</listdate>
+    <saledate>Sun, 26 Sep 2010 13:42:22 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>verygood</condition>
+    <notes>Sprache: deutsch / Language: German
+--------------------------
+Bezahlung / Payment:
+- Deutschland: Überweisung
+- EU: euro bank transfer with IBAN and BIC
+- Worldwide: PayPal but buyer has to assume PayPal-fees
+--------------------------
+Versandkosten / Shipping costs:
+- Deutschland: 5,- Euro
+- EU: about 10,- Euro (without insurance). Please ask me before buying the game.
+- Worldwide: Depends on the destination, but probably about 20,- Euro. Please ask me before buying the game.
+--------------------------</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Dec 2007 02:00:00 +0000</listdate>
+    <saledate>Sun, 16 Dec 2007 06:03:42 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>acceptable</condition>
+    <notes>This sale is for Skrebs only...sorry.
+Medieval Merchant is in acceptable condition.
+Simply Catan is new.
+Total before shipping is $22.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Jul 2008 01:38:39 +0000</listdate>
+    <saledate>Sun, 06 Jul 2008 05:17:06 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition
+Rio Grande edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Jul 2008 22:32:59 +0000</listdate>
+    <saledate>Mon, 08 Dec 2008 11:17:45 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>verygood</condition>
+    <notes>German edition (Goldsieber)
+Game bits like new
+Box with some scratches</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Jul 2008 00:57:49 +0000</listdate>
+    <saledate>Tue, 26 Aug 2008 17:34:27 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>verygood</condition>
+    <notes>Opened never-played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Aug 2008 17:24:54 +0000</listdate>
+    <saledate>Wed, 17 Dec 2008 23:44:59 +0000</saledate>
+    <price currency='USD'>24.5</price>
+    <condition>verygood</condition>
+    <notes>Rio Grande English edition gently used, complete and in great shape. Buyer pays shipping from NY 11783, PayPal only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Dec 2008 02:29:47 +0000</listdate>
+    <saledate>Wed, 31 Dec 2008 05:52:59 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Minor wear on rulebook: pages not totally smooth.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Apr 2009 16:27:53 +0000</listdate>
+    <saledate>Fri, 08 May 2009 18:49:55 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>good</condition>
+    <notes>Just some minor shelfwear on the box top, but nothing broken. Otherwise fine. German Pfeffersäcke.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Apr 2009 20:14:52 +0000</listdate>
+    <saledate>Sat, 16 May 2009 13:44:53 +0000</saledate>
+    <price currency='USD'>22.95</price>
+    <condition>verygood</condition>
+    <notes>I really like this game but is too long for a lunch game where I play the most games.  
+Parcel Post Shipping actual cost ABOUT $6.67  depending on where you live in US, see _T_E_M_P_T_A_G_#039;zones_T_E_M_P_T_A_G_#039; here from zip 80126: 
+http://www.usps.com/prices/parcel-post-prices.htm
+If you want faster delivery it is $9.20 priority mail.
+International is 2.6 pounds from US 80126 actual cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Jul 2009 18:04:27 +0000</listdate>
+    <saledate>Thu, 02 Jul 2009 19:28:20 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Rodney Arndt</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Jul 2009 03:59:15 +0000</listdate>
+    <saledate>Tue, 07 Jul 2009 11:04:24 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition. Box says copyright 1996. ISBN 1-892081-12-1
+Shipping is via USPS (Parcel unless otherwise requested.) Please ask for shipping quote. This can be estimated at USPS.com. I am new to boardgamegeek.com, but I have 100% feedback on two leading auction/marketplace sites.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Aug 2009 10:06:40 +0000</listdate>
+    <saledate>Tue, 25 Aug 2009 10:34:19 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes>Complete. German edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Sep 2009 00:46:14 +0000</listdate>
+    <saledate>Sun, 11 Oct 2009 13:15:31 +0000</saledate>
+    <price currency='AUD'>45</price>
+    <condition>new</condition>
+    <notes>German edition in shrink. Game is language independent.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2009 23:09:31 +0000</listdate>
+    <saledate>Tue, 20 Apr 2010 01:29:14 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>verygood</condition>
+    <notes>Game is in very good condition.
+Shipping is $7.95</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Jan 2010 11:19:25 +0000</listdate>
+    <saledate>Mon, 25 Jan 2010 20:25:05 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>verygood</condition>
+    <notes>German version
+Shipping Germany  4 Euro
+Shipping European Union 9 Euro
+Shipping World         14 Euro
+PayPal plus 1 Euro
+Money transfer via IBAN/BIC preferred</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Feb 2010 19:47:03 +0000</listdate>
+    <saledate>Tue, 16 Feb 2010 15:54:51 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>In shrink!   
+Pfeffersäcke version from Goldsieber</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Feb 2010 17:31:38 +0000</listdate>
+    <saledate>Sat, 19 Mar 2011 21:13:16 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition - played once or twice.  some minor scuff marks on box.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Mar 2010 15:39:22 +0000</listdate>
+    <saledate>Tue, 25 Jan 2011 13:41:04 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>verygood</condition>
+    <notes>German version
+Shipping Germany  4 Euro
+Shipping European Union 9 Euro
+Shipping World         14 Euro
+PayPal plus 1 Euro
+Money transfer via IBAN/BIC preferred</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Jun 2010 16:11:31 +0000</listdate>
+    <saledate>Tue, 31 Aug 2010 17:23:49 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>1998 Rio Grande english edition. 
+Shipping will be actual rounded up to nearest dollar. Local pickup available in San Francisco bay area. 
+Note: the game has been sitting on my shelf for years without ever getting to the table (almost made it twice). I occasionally pull it out and look at it fondly but at this point I doubt it ever will. Yes, an altered re-themed version is apparently coming but you may prefer this one.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Jul 2010 09:24:24 +0000</listdate>
+    <saledate>Sat, 16 Jun 2012 02:53:47 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Minor shelfwear, otherwise in wonderful condition. Played a time or two.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Aug 2010 23:45:38 +0000</listdate>
+    <saledate>Wed, 18 Aug 2010 13:44:19 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>good</condition>
+    <notes>Rio Grande (English) version of Goldsieber original.
+All components bagged and in absolutely mint, new condition. EXCEPT for the following:
+1) Rulebook is heavily used. No rips and the staples are firm, but it_T_E_M_P_T_A_G_#039;s been thumbed extensively.
+2) Maybe 4 or 5 of each denomination of paper money (there are 30 of each total) are mildly dogeared, mostly from normal play. The rest are still mint. 
+3) There are about half of the white houses missing, so the game won_T_E_M_P_T_A_G_#039;t play six. It has all the other colors (plus a few spares), so up to five players will work fine.
+AND:
+4) The bottom of the box has some damage. It has the usual white corners from normal shelf wear, but the biggest problem (and the reason it_T_E_M_P_T_A_G_#039;s listed as _T_E_M_P_T_A_G_quot;Good_T_E_M_P_T_A_G_quot; and so cheap) is that there is humidity damage on about 1/4 of the bottom of the box. This means the paper outer is wrinkled and has lifted a little. Note that the box integrity is 100% whole, and that the paper outer is still sealed at the edges and will not come away or peel off. I_T_E_M_P_T_A_G_#039;m only listing it in detail because I know how pedantic and annoying I am, and I expect most of you are the same. 
+Any questions, please geekmail.
+Shipping however you like from zip 11377. I only ever charge actual shipping costs. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Aug 2010 09:22:30 +0000</listdate>
+    <saledate>Mon, 13 Sep 2010 23:55:45 +0000</saledate>
+    <price currency='AUD'>35</price>
+    <condition>verygood</condition>
+    <notes>Selling for a friend (I have the game in hand).
+Box has shelf wear (minor split on one inside corner) but otherwise still in good condition.
+Game - hardly played so components in great condition.
+PayPal from overseas buyers, but will accept Direct Deposit from Australian buyers.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Nov 2010 19:43:32 +0000</listdate>
+    <saledate>Wed, 20 Jul 2011 22:45:45 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>German edition (Goldsieber)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Dec 2010 23:56:42 +0000</listdate>
+    <saledate>Wed, 04 Jan 2012 20:32:13 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Rio Grande Edition circa 1998. Box shows minor wear, but game inside is in almost new condition having only been played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Dec 2010 23:33:12 +0000</listdate>
+    <saledate>Thu, 31 May 2012 17:01:45 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>Box has corner dent. Game is complete but one house has been replaced with a green cube. USPS Priority Flat Rate with Delivery Confirm.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Mar 2011 15:05:18 +0000</listdate>
+    <saledate>Thu, 26 Apr 2012 22:33:57 +0000</saledate>
+    <price currency='USD'>34.4</price>
+    <condition>likenew</condition>
+    <notes>as new
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 May 2011 23:48:35 +0000</listdate>
+    <saledate>Fri, 03 Jun 2011 22:36:17 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jul 2011 23:46:44 +0000</listdate>
+    <saledate>Fri, 15 Jul 2011 17:15:51 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>verygood</condition>
+    <notes>Little bit of shelfwear on the box, but otherwise, everything is in fine condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Aug 2011 17:35:25 +0000</listdate>
+    <saledate>Mon, 01 Aug 2011 18:05:33 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Rokkr from the _T_E_M_P_T_A_G_quot;Save the Feline_T_E_M_P_T_A_G_quot; auction.
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Aug 2011 13:51:54 +0000</listdate>
+    <saledate>Wed, 21 Sep 2011 00:37:25 +0000</saledate>
+    <price currency='USD'>54</price>
+    <condition>likenew</condition>
+    <notes>Pfeffersäcke - Goldsieber edition as pictured below. English color rules included.
+Like new, played once. Rare game in like new condition. 
+The game has been wrapped in see through protective foil to protect from shelf ware.
+Everything in excellent condition. There_T_E_M_P_T_A_G_#039;s new beautiful laminated money in the game besides the original paper ones.
+I will ship it immediately and will ship it worldwide.
+____________________________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 off THIS game AND the other game, for a total of $4 off.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+Africa
+Age of Napoleon
+Age of Steam Expansion #2: Western US and Germany
+Capitol
+El Capitán
+El Grande
+Grand Cru
+Hornet
+Imperial
+K2
+Keltis: Das Kartenspiel
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Liberte
+Loopin_T_E_M_P_T_A_G_#039; Louie
+Medieval Merchant - Pfeffersäcke
+Olympos
+Oregon
+Pastiche
+Parthenon: Rise of the Aegean
+Quebec 1759
+San Francisco
+Steam
+Steel Driver
+Stephensons Rocket
+Terra Turrium
+The Great Fire of London 1666
+The Mississippi Queen
+Thebes
+Torres
+Tribune Expansion
+Um Reifenbreite
+Union Pacific
+Venedig
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Sep 2011 00:44:01 +0000</listdate>
+    <saledate>Wed, 28 Sep 2011 16:30:45 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>For user (Doug1020) only from my recent auction</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jun 2012 02:54:35 +0000</listdate>
+    <saledate>Sun, 10 Jun 2012 23:13:15 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>reserved for anglotger for geeklist auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jul 2012 18:13:49 +0000</listdate>
+    <saledate>Sun, 26 Aug 2012 14:41:13 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>new</condition>
+    <notes>original German Goldsieber edition
+new and shrinkwrapped in perfect condition
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Aug 2012 08:39:45 +0000</listdate>
+    <saledate>Thu, 02 May 2013 10:41:06 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>new</condition>
+    <notes>original German Goldsieber edition
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Sep 2012 04:04:09 +0000</listdate>
+    <saledate>Sun, 09 Sep 2012 01:42:17 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Action win for Al Johnson.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Oct 2012 19:08:48 +0000</listdate>
+    <saledate>Wed, 24 Oct 2012 19:09:21 +0000</saledate>
+    <price currency='EUR'>27</price>
+    <condition>new</condition>
+    <notes>Game is complete. In shrink.
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+English version
+Rio Grande
+Medieval Merchant
+Signed on request</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Dec 2012 02:32:57 +0000</listdate>
+    <saledate>Sat, 08 Dec 2012 06:40:31 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>For bgg user GearPimp only.  Includes Fifth Avenue and Amyitis in addition to this title.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Dec 2012 14:01:18 +0000</listdate>
+    <saledate>Fri, 31 May 2013 11:33:44 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>verygood</condition>
+    <notes>Minor wear at the box, else great condition</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Feb 2013 11:30:07 +0000</listdate>
+    <saledate>Tue, 29 Jul 2014 15:21:25 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>german edition - Pfeffersäcke</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Aug 2013 19:09:33 +0000</listdate>
+    <saledate>Fri, 30 Aug 2013 15:26:45 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Medieval Merchant (1998) Golssieber/Rio Grande
+Condition: A1 - Just Like New. No Shrink but Unpunched.
+Low Shipping in Continental US is $9.25</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jan 2014 19:11:18 +0000</listdate>
+    <saledate>Tue, 21 Jan 2014 03:47:15 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>This is for user jobri, who won it in my auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Mar 2014 03:38:29 +0000</listdate>
+    <saledate>Mon, 10 Mar 2014 05:22:02 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Reserved for James Torr</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Aug 2014 13:48:58 +0000</listdate>
+    <saledate>Tue, 20 Jan 2015 10:17:36 +0000</saledate>
+    <price currency='EUR'>12.5</price>
+    <condition>verygood</condition>
+    <notes>German Edition, but no necessary in-game text
+100% complete, very good condition of game pieces, box with shelf wear. From a smoke free home.
+Shipping within Germany 4,5€ - please ask for international rates (e.g. EU about 10 Euro)
+Paypal is possible, but buyer will pay Paypal fees. IBAN/BIC transfer causes no fees</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Feb 2015 23:57:50 +0000</listdate>
+    <saledate>Fri, 13 Feb 2015 00:31:55 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Oct 2012 07:44:31 +0000</listdate>
+    <saledate>Sun, 22 Mar 2015 21:41:37 +0000</saledate>
+    <price currency='EUR'>27</price>
+    <condition>new</condition>
+    <notes>Game is complete. In shrink. (Shrink  3 millimeter opened)
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+English version
+Rio Grande
+Medieval Merchant
+I can offer another copy in MINT for 29 EURO
+Signed on request
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Feb 2014 03:01:50 +0000</listdate>
+    <saledate>Wed, 10 Jun 2015 14:02:17 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Sep 2015 02:05:14 +0000</listdate>
+    <saledate>Mon, 14 Sep 2015 02:58:08 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/196242/item/4115720#4115720]Item for Geeklist _T_E_M_P_T_A_G_quot;Heavy Cardboard Semi-Annual Auction 2015! _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Jun 2015 01:57:18 +0000</listdate>
+    <saledate>Sun, 11 Oct 2015 02:29:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Game in good shape, box may have some minor shelf wear but has only been played 2 or 3 times.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Dec 2014 11:53:22 +0000</listdate>
+    <saledate>Thu, 03 Dec 2015 09:21:25 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>Game is in very good condition and has not been played, with some components still unpunched.  Box shows minimal signs of shelf wear.
+Expected postage and packing to UK is £7.50 (1st Class tracked and signed for). For Europe (EU) it is £17 for tracked _T_E_M_P_T_A_G_amp; signed for (up to five working days delivery). For USA it is £25 for tracked _T_E_M_P_T_A_G_amp; signed for (up to seven working days delivery). If you opt against tracked and signed for then it will be posted at your risk. Please let me have delivery address details when buying the game and I_T_E_M_P_T_A_G_#039;ll confirm exact postage and packing costs, or send the address to me in a Geekmail for a quote on options available prior to purchasing.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Dec 2015 01:25:22 +0000</listdate>
+    <saledate>Wed, 03 Feb 2016 05:56:31 +0000</saledate>
+    <price currency='USD'>22.5</price>
+    <condition>likenew</condition>
+    <notes>Medieval Merchant, still not punched, but no shrink wrap. I believe this is a first edition by Rio Grande Games.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Feb 2016 09:10:23 +0000</listdate>
+    <saledate>Fri, 05 Feb 2016 15:12:43 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>verygood</condition>
+    <notes>Original German Golsieber edition. Components are language independent.
+(Bottom of the) Box shows a bit of wear. Inside everything there in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Mar 2015 10:17:57 +0000</listdate>
+    <saledate>Mon, 30 May 2016 12:34:59 +0000</saledate>
+    <price currency='EUR'>27</price>
+    <condition>new</condition>
+    <notes>Game is complete. In shrink. (Shrink  3 millimeter opened)_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Payments: bank account or Paypal _T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;If you want to pay by Paypal, there will be an additional fee_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;English version_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Rio Grande_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Medieval Merchant_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;I can offer another copy in MINT for 29 EURO_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Signed on request_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Feb 2012 16:39:12 +0000</listdate>
+    <saledate>Tue, 07 Jun 2016 13:42:22 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Game is in VG condition.
+PayPal at hrice3@yahoo.com</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Feb 2016 15:59:33 +0000</listdate>
+    <saledate>Wed, 22 Jun 2016 06:37:46 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jan 2016 15:02:29 +0000</listdate>
+    <saledate>Sun, 10 Jul 2016 10:04:07 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>good</condition>
+    <notes>Played twice, good condition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jul 2016 05:34:42 +0000</listdate>
+    <saledate>Mon, 01 Aug 2016 01:41:57 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Not original owner, but game is complete.  Box has some shelf wear, but overall the game is in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 May 2014 15:46:16 +0000</listdate>
+    <saledate>Sun, 11 Sep 2016 10:10:22 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Nov 2012 20:22:01 +0000</listdate>
+    <saledate>Sat, 28 Jan 2017 13:23:47 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>good</condition>
+    <notes>German first edition
+Goldsieber Spiele
+the game is unplayed, complete and in an very good condition
+only the box have some wear from storage at the back and the front (see picture)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Feb 2017 14:38:30 +0000</listdate>
+    <saledate>Wed, 01 Mar 2017 06:55:44 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>German edition. Language independent game. Played, in very good condition
+Contact me for the exact shipping costs:
+Belgium or The Netherlands: €4 with Kiala €7 with BPost or PostNL
+other European countries: €9 - €13 (depending on the destination)
+worldwide: €19
+The shipping quotes above are shipping without tracking and no insurance. Contact me for other shipping options or combined shipping.
+Payment: European bank transfer or Paypal (buyer pays fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Feb 2017 03:30:36 +0000</listdate>
+    <saledate>Mon, 03 Apr 2017 06:53:19 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Inside of the box and components (which are sorted and bagged) _T_E_M_P_T_A_G_quot;like new_T_E_M_P_T_A_G_quot;... outside of box has some whitening  shelf wear on most edges.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Feb 2017 18:37:53 +0000</listdate>
+    <saledate>Wed, 12 Apr 2017 19:49:41 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>good</condition>
+    <notes>UK postage £4.00 elsewhere on request</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Mar 2017 15:17:31 +0000</listdate>
+    <saledate>Fri, 13 Oct 2017 15:27:55 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Oct 2017 02:00:35 +0000</listdate>
+    <saledate>Wed, 18 Oct 2017 08:52:33 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228286/item/5597156#5597156]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2017 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Oct 2017 20:18:44 +0000</listdate>
+    <saledate>Thu, 19 Oct 2017 20:32:11 +0000</saledate>
+    <price currency='CAD'>30</price>
+    <condition>verygood</condition>
+    <notes>For Rakasis</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 May 2017 20:17:15 +0000</listdate>
+    <saledate>Sun, 05 Nov 2017 14:08:46 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This game is really in excellent condition, maybe played once. The box is a bit scuffed, hardly noticible with the gorgeous german printing.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Nov 2017 04:30:04 +0000</listdate>
+    <saledate>Sun, 12 Nov 2017 04:32:36 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>likenew</condition>
+    <notes>+ Emira
++ Oasis
++ Robber Knights
++ Tower of Babel
+This sale has been auto-generated for the auction: [geekurl=/geeklist/231827/item/5725045#5725045]Item for Geeklist _T_E_M_P_T_A_G_quot;Pre-PAX Unplugged Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Nov 2017 00:00:37 +0000</listdate>
+    <saledate>Mon, 13 Nov 2017 03:56:05 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>For BlueDane only.
+_T_E_M_P_T_A_G_quot;Play It Again, Sam -- An Auction_T_E_M_P_T_A_G_quot; winner.
+USPS Priority Mailing will be grouped in one listing and PayPal fees (as appropriate) to be covered by winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Dec 2017 16:28:17 +0000</listdate>
+    <saledate>Tue, 26 Dec 2017 15:55:43 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>new</condition>
+    <notes>Original German Goldsieber edition.
+Game is still in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Dec 2017 16:44:09 +0000</listdate>
+    <saledate>Fri, 29 Dec 2017 05:54:01 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>good</condition>
+    <notes>Paper of the rulebook is showing signs of aging, the rest of the components are in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Sep 2013 19:40:02 +0000</listdate>
+    <saledate>Thu, 25 Jan 2018 15:14:51 +0000</saledate>
+    <price currency='USD'>41.95</price>
+    <condition>likenew</condition>
+    <notes>Shrinkwrap removed and punched but never played. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. I have many hundreds of games for sale and would be happy to combine shipping charges for multiple games to save you money. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Mar 2017 07:55:57 +0000</listdate>
+    <saledate>Wed, 31 Jan 2018 04:12:11 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>German edition. Language independent game. Played, in very good condition. Box is a bit scuffed at the edges.
+Contact me for the exact shipping costs:
+Belgium or The Netherlands: €4 with Kiala €7 with BPost or PostNL
+other European countries: €9 - €13 (depending on the destination)
+worldwide: €19
+The shipping quotes above are shipping without tracking and no insurance. Contact me for other shipping options or combined shipping.
+Payment: European bank transfer or Paypal (buyer pays fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jan 2018 12:05:04 +0000</listdate>
+    <saledate>Thu, 03 May 2018 08:04:58 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes>Components complete and undamaged.  The box shows some shelf wear.  The attached image shows the worst of it.  Note this is the German edition.  A print of of the English rules is in the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Apr 2018 04:45:06 +0000</listdate>
+    <saledate>Mon, 07 May 2018 00:05:06 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Factory sealed in original shrink wrap. Shipping is $14.00 for Priority Mail (which includes insurance). PayPal payment can be sent to bitva2@yahoo.com, thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jun 2018 06:12:30 +0000</listdate>
+    <saledate>Mon, 11 Jun 2018 16:10:12 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>For NuMystic only.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/241940/item/6185676#6185676]Item for Geeklist _T_E_M_P_T_A_G_quot;Baby Coming! Need to Mix Things Up! Auction With Giveaways! Trades Accepted! - June 4-11, Brooklyn, NY - US Shipping_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Apr 2016 20:20:15 +0000</listdate>
+    <saledate>Mon, 18 Jun 2018 14:23:41 +0000</saledate>
+    <price currency='EUR'>19.99</price>
+    <condition>verygood</condition>
+    <notes>shipping rates:
+Germany =  5 Euro
+EU = 15 Euro
+all other destinations = EUR 20
+game weight: 1300 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jun 2018 13:41:05 +0000</listdate>
+    <saledate>Fri, 29 Jun 2018 21:48:28 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Nov 2016 12:29:32 +0000</listdate>
+    <saledate>Tue, 10 Jul 2018 20:23:41 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Some shelfwear, otherwise in great condition.
+1.307kg</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jul 2016 23:12:21 +0000</listdate>
+    <saledate>Tue, 31 Jul 2018 01:17:58 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>as new, one small cardboard piece missing and hand remade with a color photocopy
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Aug 2018 16:51:06 +0000</listdate>
+    <saledate>Wed, 08 Aug 2018 03:13:29 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>as new.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Aug 2018 10:35:22 +0000</listdate>
+    <saledate>Mon, 17 Sep 2018 01:42:32 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Excellent shape.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Nov 2016 14:31:20 +0000</listdate>
+    <saledate>Thu, 20 Sep 2018 04:00:45 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Sep 2018 03:45:00 +0000</listdate>
+    <saledate>Sat, 29 Sep 2018 06:07:54 +0000</saledate>
+    <price currency='USD'>24.97</price>
+    <condition>verygood</condition>
+    <notes>Condition: Wear on edges and corners</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 May 2018 20:42:46 +0000</listdate>
+    <saledate>Mon, 03 Dec 2018 10:42:01 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>new</condition>
+    <notes>LE18-253</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Oct 2018 16:24:25 +0000</listdate>
+    <saledate>Tue, 04 Dec 2018 22:47:18 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>The box has marks of storage, but no defects.
+The stuff inside is unplayed an complete.
+Shipping: Germany €6, EU €17 - DHL including tracking and insurance (where available)
+Please ask about shipping costs outside of Europe.
+Payment:
+Bank transfer within Euro Union (prefered option)
+PAYPAL (add +2.5€ to cover costs)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 May 2015 11:42:43 +0000</listdate>
+    <saledate>Sun, 16 Dec 2018 02:09:29 +0000</saledate>
+    <price currency='EUR'>13.99</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Apr 2013 07:55:48 +0000</listdate>
+    <saledate>Thu, 20 Dec 2018 14:02:10 +0000</saledate>
+    <price currency='EUR'>24.99</price>
+    <condition>likenew</condition>
+    <notes>german edition</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Feb 2017 00:08:03 +0000</listdate>
+    <saledate>Sun, 30 Dec 2018 01:33:46 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Jan 2019 06:05:15 +0000</listdate>
+    <saledate>Mon, 07 Jan 2019 03:42:48 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/250259/item/6611183#6611183]Item for Geeklist _T_E_M_P_T_A_G_quot;New Years Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Oct 2018 17:22:46 +0000</listdate>
+    <saledate>Wed, 09 Jan 2019 17:55:55 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Game is in excellent condition and comes form a smoke and pet free home.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

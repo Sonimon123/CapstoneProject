@@ -1,0 +1,910 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="117960">
+   <yearpublished>2012</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>45</playingtime>
+   <minplaytime>45</minplaytime>
+   <maxplaytime>45</maxplaytime>
+   <age>9</age>
+       <name primary="true" sortindex="1">Saint Malo</name>
+         
+   <description>Developer Stefan Br_T_E_M_P_T_A_G_amp;uuml;ck at alea describes Saint Malo as _T_E_M_P_T_A_G_amp;quot;a light, dice-rolling strategy game in which the players draw their own city buildings, walls, and people on wipe-off boards_T_E_M_P_T_A_G_amp;quot;._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;In more detail, in Saint Malo players roll five dice to gain various resources; combinations of dice create enhancements like characters or buildings, which can provide additional victory points, money, or special actions, such as altering the outcome of a die roll. Players draw symbols for their holdings on erasable boards showing a grids of their cities to create individual towns. Players could build storehouses on particular squares, for example, then place a merchant nearby to gain money each turn. Another important character is the soldier; players must acquire these to defend themselves from pirate attacks that can decimate their towns._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Saint Malo rates a 2 out of 10 on Alea's difficulty scale._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/BHhs0j391GvIN0Q1H6V4rpIn1x0=/fit-in/200x150/pic1261795.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ndoq0xJwyfbcpBOPkfnzZyqdRtw=/0x0/pic1261795.jpg</image>
+      
+            <boardgamepublisher objectid="9">alea</boardgamepublisher>
+               <boardgamefamily objectid="59">Alea Medium Box</boardgamefamily>
+               <boardgamedesigner objectid="6940">Inka Brand</boardgamedesigner>
+               <boardgamedesigner objectid="6941">Markus Brand</boardgamedesigner>
+               <boardgamecategory objectid="1029">City Building</boardgamecategory>
+               <boardgamefamily objectid="11006">Country: France</boardgamefamily>
+                      <boardgameartist objectid="11886">Julien Delval</boardgameartist>
+               <boardgamecategory objectid="1017">Dice</boardgamecategory>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+                      <boardgameversion objectid="207188">English/French second edition</boardgameversion>
+               <boardgamepodcastepisode objectid="233804">Episode 31: Witches of the Revolution, Welcome to Centerville, Saint Malo, Burgle Bros., Pandemic: The Cure</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="106083">Episode 6: Bruges/Gaming Pet Peeves</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+                                           <boardgamepodcastepisode objectid="91687">Garrett_T_E_M_P_T_A_G_#039;s Games 338 - Dominare, Spectaculum, and Saint Malo</boardgamepodcastepisode>
+                                                                                                                                                                  <boardgameartist objectid="4959">Harald Lieske</boardgameartist>
+               <boardgamemechanic objectid="2039">Line Drawing</boardgamemechanic>
+               <boardgameversion objectid="147468">Multilingual first edition</boardgameversion>
+                      <boardgamepodcastepisode objectid="96982">Programa 011. Haritz Solana, de Asmodee. Saint Malo y Smash Up!</boardgamepodcastepisode>
+               <boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+                      <boardgamefamily objectid="41222">Roll-and-write</boardgamefamily>
+                                                                <boardgamepodcastepisode objectid="97980">The Spiel #173 - Sim Chitty</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="203098">There_T_E_M_P_T_A_G_#039;s No Such Thing as a Cool Cup</boardgamepodcastepisode>
+                           
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="40">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="11" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="23" />
+     <result value="Recommended" numvotes="14" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="12" />
+     <result value="Recommended" numvotes="16" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="19" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="21" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="15" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="18">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="8" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="10" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="1" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="2" />
+     <result value="10" numvotes="6" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1775</usersrated>
+     <average>6.48118</average>
+     <bayesaverage>6.09127</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1864" bayesaverage="6.09127" />
+            
+       
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="504" bayesaverage="6.18931" />
+            
+           </ranks>
+     
+     <stddev>1.1665</stddev>
+     <median>0</median>
+     <owned>3231</owned>
+     <trading>128</trading>
+     <wanting>163</wanting>
+     <wishing>604</wishing>
+     <numcomments>472</numcomments>
+     <numweights>100</numweights>
+     <averageweight>1.91</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Wed, 17 Oct 2012 22:02:32 +0000</listdate>
+    <saledate>Sun, 24 Feb 2013 22:06:04 +0000</saledate>
+    <price currency='EUR'>17.99</price>
+    <condition>new</condition>
+    <notes>Saint Malo
+Multilingual first edition
+Publisher: alea</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Nov 2012 13:07:49 +0000</listdate>
+    <saledate>Sun, 03 Mar 2013 10:56:18 +0000</saledate>
+    <price currency='EUR'>17.5</price>
+    <condition>new</condition>
+    <notes>MINT!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Nov 2012 16:50:59 +0000</listdate>
+    <saledate>Sun, 25 Nov 2012 11:06:30 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>I sell Saint Malo from Alea.
+Game is in excellent condition, only played once.
+If you choose to pay via paypal the fees are on your side.
+Other payment possibility is via bank transfer (IBAN).
+I am a private seller, so there will be no guarantee.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Dec 2012 20:50:28 +0000</listdate>
+    <saledate>Wed, 19 Dec 2012 09:51:25 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>good</condition>
+    <notes>Copy was damaged in shipment. One corner of the box is pretty dented. Holds the game fine. Played twice, components in appropriate condition for that number of plays. No markers have dried out. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Jan 2013 21:41:26 +0000</listdate>
+    <saledate>Sun, 06 Jan 2013 22:44:34 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played once.  Only two of the player boards have been used.  Everything is in great condition.  Boards and instructions have English on them.  If you have any questions, let me know.
+I usually ship USPS priority mail so if you want something different, let me know.  Thank you.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jan 2013 14:18:14 +0000</listdate>
+    <saledate>Tue, 29 Jan 2013 11:30:50 +0000</saledate>
+    <price currency='EUR'>15.5</price>
+    <condition>new</condition>
+    <notes>shipping rates:
+Germany = 5 Euro
+EU countries = 9 Euro
+worldwide = 9 Euro
+game weight: 780 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Jan 2013 00:25:46 +0000</listdate>
+    <saledate>Sun, 27 Jan 2013 03:26:07 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Mint in original shrink. Includes English rules. Shipping weight is 2+lb; shipping will be by USPS Priority Mail. Max of $10.85 for flat rate.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Feb 2013 10:07:44 +0000</listdate>
+    <saledate>Thu, 30 May 2013 22:01:33 +0000</saledate>
+    <price currency='USD'>13.99</price>
+    <condition>verygood</condition>
+    <notes>One corner of box is crumpled. Contents are in excellent/undamaged condition.
+Shipping is via USPS Medium Flat Rate Priority Mail. Insurance is optional and buyer pays. I combine shipping if you purchase multiple items.
+Please PM me with questions or for photos of the item, and thanks for your interest.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Mar 2013 16:52:40 +0000</listdate>
+    <saledate>Tue, 05 Mar 2013 00:26:55 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Already sold at auction to Doug E.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 May 2013 22:00:45 +0000</listdate>
+    <saledate>Mon, 06 May 2013 00:10:02 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 May 2013 01:21:59 +0000</listdate>
+    <saledate>Sun, 28 Jul 2013 22:38:47 +0000</saledate>
+    <price currency='USD'>21.49</price>
+    <condition>new</condition>
+    <notes>Ravensburger (RVB80503)
+Can you build the most prosperous city and keep it safe from pirates? Roll the dice and then strategically choose what to draw on your erasable game board. Will it be a market place or houses; a nobleman or a solder? Easy to learn and fun to play combination of strategy and luck of the dice. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Jun 2013 16:55:34 +0000</listdate>
+    <saledate>Thu, 04 Sep 2014 14:36:48 +0000</saledate>
+    <price currency='EUR'>17.5</price>
+    <condition>new</condition>
+    <notes>2-5 players (Ravensburger)
+Languages: English, Français, Deutsch</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Aug 2013 21:15:53 +0000</listdate>
+    <saledate>Thu, 16 Jan 2014 22:05:20 +0000</saledate>
+    <price currency='USD'>21.49</price>
+    <condition>new</condition>
+    <notes>Ravensburger (RVB80503)
+Can you build the most prosperous city and keep it safe from pirates? Roll the dice and then strategically choose what to draw on your erasable game board. Will it be a market place or houses; a nobleman or a solder? Easy to learn and fun to play combination of strategy and luck of the dice. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Aug 2013 00:09:59 +0000</listdate>
+    <saledate>Fri, 23 Aug 2013 01:12:48 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played 5 times. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Dec 2013 15:59:52 +0000</listdate>
+    <saledate>Mon, 09 Dec 2013 02:57:55 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Reserved for the winner of the Holiday Auction. Payment for all items won and shipping should be paid to paypal address of glgambill@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Jan 2014 14:15:38 +0000</listdate>
+    <saledate>Tue, 08 Apr 2014 15:07:38 +0000</saledate>
+    <price currency='USD'>21.49</price>
+    <condition>new</condition>
+    <notes>Ravensburger (RVB80503)
+Can you build the most prosperous city and keep it safe from pirates? Roll the dice and then strategically choose what to draw on your erasable game board. Will it be a market place or houses; a nobleman or a solder? Easy to learn and fun to play combination of strategy and luck of the dice. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Apr 2014 19:47:54 +0000</listdate>
+    <saledate>Sat, 23 Aug 2014 21:11:27 +0000</saledate>
+    <price currency='USD'>21.99</price>
+    <condition>new</condition>
+    <notes>Ravensburger (RVB80503)
+ Can you build the most prosperous city and keep it safe from pirates? Roll the dice and then strategically choose what to draw on your erasable game board. Will it be a market place or houses; a nobleman or a solder? Easy to learn and fun to play combination of strategy and luck of the dice. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 May 2014 04:03:16 +0000</listdate>
+    <saledate>Fri, 09 May 2014 02:31:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/172669/item/3188447#3188447]Item for Geeklist _T_E_M_P_T_A_G_quot;One more time: A fund raising auction for me to travel (again) to Cuba! _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 May 2014 04:06:27 +0000</listdate>
+    <saledate>Tue, 13 May 2014 05:34:02 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/173411/item/3216996#3216996]Item for Geeklist _T_E_M_P_T_A_G_quot;[CLOSED] Word to your mother AUCTION w/ BINs, Marvel Dice Masters Starters _T_E_M_P_T_A_G_amp; more!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jun 2014 16:57:14 +0000</listdate>
+    <saledate>Sat, 12 Jul 2014 01:41:22 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>new</condition>
+    <notes>original multilingual (D/GB/F) Alea edition
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Aug 2014 01:54:30 +0000</listdate>
+    <saledate>Fri, 31 Oct 2014 02:48:51 +0000</saledate>
+    <price currency='USD'>12.99</price>
+    <condition>new</condition>
+    <notes>Ravensburger (RVB80503)
+Can you build the most prosperous city and keep it safe from pirates? Roll the dice and then strategically choose what to draw on your erasable game board. Will it be a market place or houses; a nobleman or a solder? Easy to learn and fun to play combination of strategy and luck of the dice.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Aug 2014 01:54:30 +0000</listdate>
+    <saledate>Wed, 03 Dec 2014 21:43:19 +0000</saledate>
+    <price currency='USD'>15.49</price>
+    <condition>new</condition>
+    <notes>Ravensburger (RVB80503)
+Can you build the most prosperous city and keep it safe from pirates? Roll the dice and then strategically choose what to draw on your erasable game board. Will it be a market place or houses; a nobleman or a solder? Easy to learn and fun to play combination of strategy and luck of the dice.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Oct 2014 13:14:48 +0000</listdate>
+    <saledate>Fri, 02 Jan 2015 22:06:46 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>The game is still shrinkwrapped.  Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Apr 2014 14:27:44 +0000</listdate>
+    <saledate>Fri, 16 Jan 2015 15:13:48 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>English/French ales/Ravensbuger edition.
+Out of shrink, and all components punched, sorted, and/or bagged, but NEVER PLAYED. Dry erase pens checked, and work perfectly.
+Comes from a smoke-free, pet-free home.
+FREE shipping (CONUS only).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Feb 2015 17:51:49 +0000</listdate>
+    <saledate>Thu, 12 Feb 2015 18:36:20 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played twice everything in great condition.
+Shipping is from 43224.
+I will gladly combine shipping on multiple items purchased.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Feb 2015 22:50:58 +0000</listdate>
+    <saledate>Sun, 15 Feb 2015 18:23:49 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>stink in shrink, dent on the lower edge of box</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Feb 2015 23:46:03 +0000</listdate>
+    <saledate>Mon, 23 Feb 2015 00:19:01 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187424/item/3742051#3742051]Item for Geeklist _T_E_M_P_T_A_G_quot;Heavy Cardboard Auction - Wargames, Euros, AT...a little bit for everyone!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Sep 2013 19:50:02 +0000</listdate>
+    <saledate>Mon, 23 Mar 2015 15:31:31 +0000</saledate>
+    <price currency='GBP'>16</price>
+    <condition>verygood</condition>
+    <notes>Played 3 times</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Mar 2015 07:57:55 +0000</listdate>
+    <saledate>Tue, 07 Apr 2015 07:20:28 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>Free shipping within Germany.
+3€ shipping within Europe.
+For shipping outside of Europe, please contact me before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Apr 2015 19:25:19 +0000</listdate>
+    <saledate>Tue, 21 Apr 2015 01:33:38 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190045/item/3846103#3846103]Item for Geeklist _T_E_M_P_T_A_G_quot;Keeping My Collection Lean and Mean Auction: Part 4!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+This also includes Potato Man (7$) and Tschak! ($5)
+I will let you know what shipping options you have once I get the confirmation.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 May 2015 15:31:08 +0000</listdate>
+    <saledate>Wed, 13 May 2015 19:35:35 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>Only for user Airick : auction win</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 May 2015 00:38:38 +0000</listdate>
+    <saledate>Thu, 21 May 2015 01:50:08 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191290/item/3900093#3900093]Item for Geeklist _T_E_M_P_T_A_G_quot;Rainy Day Auction - Kohle _T_E_M_P_T_A_G_amp; Kolonie, Hearts _T_E_M_P_T_A_G_amp; Minds, Ciub, Rokoko, Chinatown,etc..._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 May 2015 19:18:35 +0000</listdate>
+    <saledate>Fri, 22 May 2015 07:01:38 +0000</saledate>
+    <price currency='GBP'>9</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191316/item/3901258#3901258]Item for Geeklist _T_E_M_P_T_A_G_quot;[UK/Europe] SIXTH AUCTION - towards my 2015 Challenge: Ends 21 May_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 May 2015 22:31:27 +0000</listdate>
+    <saledate>Fri, 29 May 2015 01:02:36 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>new</condition>
+    <notes>New in Shrink
+Shipping $8</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 May 2015 03:59:52 +0000</listdate>
+    <saledate>Mon, 20 Jul 2015 21:28:03 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>shipping charge between 16 - 20$ in North America
+price is in US dollars</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Aug 2015 05:11:19 +0000</listdate>
+    <saledate>Tue, 18 Aug 2015 20:43:39 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194929/item/4057549#4057549]Item for Geeklist _T_E_M_P_T_A_G_quot;Just Another August Shelf Clearing Auction (Ends Aug. 17th) US ONLY_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Aug 2015 11:46:15 +0000</listdate>
+    <saledate>Mon, 24 Aug 2015 16:01:48 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/195339/item/4076325#4076325]Item for Geeklist _T_E_M_P_T_A_G_quot;Big Auction LAST DAY! ALL BIN REDUCED! Ends August 21nd, 7pm - SPECTER OPS, TICKET TO RIDE:INDIA, MICE _T_E_M_P_T_A_G_amp; MYSTICS, 7 WONDERS, PANDEMIC: THE CURE, and many more_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Apr 2015 05:15:45 +0000</listdate>
+    <saledate>Mon, 07 Sep 2015 20:33:52 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition - played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Oct 2015 04:27:50 +0000</listdate>
+    <saledate>Thu, 22 Oct 2015 18:15:54 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198168/item/4214130#4214130]Item for Geeklist _T_E_M_P_T_A_G_quot;Some A**hole stole my car. Part 2. *94546*_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Oct 2015 15:44:30 +0000</listdate>
+    <saledate>Fri, 30 Oct 2015 18:30:16 +0000</saledate>
+    <price currency='EUR'>9.99</price>
+    <condition>new</condition>
+    <notes>New, unused and in skrink.
+Bezahlung / Payment:
+- Deutschland: Überweisung
+- EU: euro bank transfer with IBAN and BIC (prefered) or paypal
+- Worldwide: PayPal 
+--------------------------
+Versandkosten / Shipping costs:
+- Deutschland: Bitte vorher erfragen.
+- EU:Please ask before buying.
+- Worldwide: please ask before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Dec 2015 04:05:41 +0000</listdate>
+    <saledate>Mon, 07 Dec 2015 04:27:20 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/200364/item/4306826#4306826]Item for Geeklist _T_E_M_P_T_A_G_quot;Quick Auction: 150+ games, Pickup in STL available. Ships from STL. Ends Sunday December 6th 7pm CST_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For spiderM9 only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jan 2016 15:40:53 +0000</listdate>
+    <saledate>Mon, 25 Jan 2016 18:24:41 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Feb 2016 13:59:47 +0000</listdate>
+    <saledate>Thu, 11 Feb 2016 14:33:02 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/204453/item/4423646#4423646]Item for Geeklist _T_E_M_P_T_A_G_quot;Con of the North 2016 No-Ship Auction and Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jan 2016 18:42:55 +0000</listdate>
+    <saledate>Fri, 15 Apr 2016 08:22:54 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 May 2016 13:42:05 +0000</listdate>
+    <saledate>Sat, 14 May 2016 18:25:14 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208527/item/4614993#4614993]Item for Geeklist _T_E_M_P_T_A_G_quot;[Auction Title Goes Here]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Jun 2016 18:55:51 +0000</listdate>
+    <saledate>Mon, 04 Jul 2016 22:20:07 +0000</saledate>
+    <price currency='GBP'>7</price>
+    <condition>good</condition>
+    <notes>Two of the English/French boards have faint markings. All other parts, including the 3 other English/French boards and all German boards, are in very good condition.
+Moving house so need to sell! (This item was listed previously but sale fell through so relisting).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Sep 2016 13:00:43 +0000</listdate>
+    <saledate>Fri, 16 Sep 2016 18:16:34 +0000</saledate>
+    <price currency='CAD'>15.5</price>
+    <condition>verygood</condition>
+    <notes>English, French, German
+some necessary text
+Check out the other games I am selling!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Oct 2016 21:04:43 +0000</listdate>
+    <saledate>Wed, 19 Oct 2016 02:50:03 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2016 22:21:17 +0000</listdate>
+    <saledate>Sat, 05 Nov 2016 04:47:22 +0000</saledate>
+    <price currency='USD'>13.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Nov 2016 21:18:03 +0000</listdate>
+    <saledate>Wed, 09 Nov 2016 21:36:26 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/216338/item/4999024#4999024]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction - Quick need to cull collection - No BIN, No minimums. Ends: November 7th_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jun 2016 15:57:41 +0000</listdate>
+    <saledate>Tue, 03 Jan 2017 11:47:07 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>likenew</condition>
+    <notes>This is the multilingual version (english, french, german) of Saint Malo. I played the game only twice with care. As you can see in the photo all game components are like new. There is no smearing from the pens on the player boards.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Mar 2017 15:37:54 +0000</listdate>
+    <saledate>Sat, 08 Apr 2017 10:09:35 +0000</saledate>
+    <price currency='GBP'>12.5</price>
+    <condition>likenew</condition>
+    <notes>Hardly played, boards and pens in excellent condition. U.K. Postage £2.85</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Apr 2017 15:50:04 +0000</listdate>
+    <saledate>Mon, 24 Apr 2017 16:47:51 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222664/item/5329414#5329414]Item for Geeklist _T_E_M_P_T_A_G_quot;Help an Addict Out Auction. OOP, Eurogames, Splotter_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Oct 2016 00:38:04 +0000</listdate>
+    <saledate>Thu, 27 Apr 2017 11:03:53 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Shrink is removed but game has never been played. There is a significant box dent on the back.
+Message me for a shipping estimate. I ship only via USPS Priority Mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Aug 2014 10:03:30 +0000</listdate>
+    <saledate>Mon, 01 May 2017 12:56:21 +0000</saledate>
+    <price currency='EUR'>19.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Mar 2014 05:44:25 +0000</listdate>
+    <saledate>Wed, 03 May 2017 05:06:43 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SAINT MALO: $19.95
+Ravensburger [RAV 80503]
+SHIPPING
+Continental U.S. - $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Oct 2016 08:35:04 +0000</listdate>
+    <saledate>Sat, 20 May 2017 23:37:49 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>new</condition>
+    <notes>The game is unplayed and still in shrink wrap!
+I will ship from Germany and I am willing to ship anywhere.
+Please ask me, for the shipping costs for your land.
+I will charge shipping at cost. Everything will be well packed.
+You can pay me through Paypal or bank transfer to my German bank account but any fees charged must be covered by you.
+If you buy more games, then I make all in one package!
+We have a large private collection of games. Due to space and time constraints we must rid ourselves of some of the games. Therefore, these are private sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 May 2017 16:00:46 +0000</listdate>
+    <saledate>Thu, 01 Jun 2017 01:58:01 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Never played</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jun 2017 23:37:26 +0000</listdate>
+    <saledate>Sat, 10 Jun 2017 17:49:11 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/224488/item/5441701#5441701]Item for Geeklist _T_E_M_P_T_A_G_quot;Origins Virtual Flea Market 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jun 2017 18:25:31 +0000</listdate>
+    <saledate>Thu, 15 Jun 2017 03:21:09 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>acceptable</condition>
+    <notes>Only played twice, but box bottom is split on two corners, one of which has been patched with tape poorly.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jun 2017 13:33:25 +0000</listdate>
+    <saledate>Mon, 19 Jun 2017 15:46:57 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>This is for bgg user Lzmountaingames</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 May 2015 22:31:27 +0000</listdate>
+    <saledate>Wed, 05 Jul 2017 14:10:49 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>new</condition>
+    <notes>New in Shrink
+Shipping $8</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Sep 2016 21:18:51 +0000</listdate>
+    <saledate>Tue, 11 Jul 2017 19:26:47 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Aug 2017 20:45:37 +0000</listdate>
+    <saledate>Wed, 09 Aug 2017 14:26:41 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>ON HOLD for qidbui</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jan 2017 15:11:53 +0000</listdate>
+    <saledate>Fri, 13 Oct 2017 06:44:25 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Oct 2017 07:35:12 +0000</listdate>
+    <saledate>Sun, 15 Oct 2017 21:14:00 +0000</saledate>
+    <price currency='GBP'>12.99</price>
+    <condition>verygood</condition>
+    <notes>Please ask for postage rates prior to purchase ...
+Paypal payments only ...</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Oct 2017 13:32:43 +0000</listdate>
+    <saledate>Fri, 27 Oct 2017 14:48:27 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This is an auction item for Randall Gruber. If you are not Randall please do not purchase this item.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Nov 2017 15:23:26 +0000</listdate>
+    <saledate>Tue, 05 Dec 2017 15:41:48 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>Includes Saint Malo and Innovation
+This sale has been auto-generated for the auction: [geekurl=/geeklist/230434/item/5652531#5652531]Item for Geeklist _T_E_M_P_T_A_G_quot;Quick Auction to create some space_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Jan 2018 06:59:15 +0000</listdate>
+    <saledate>Sat, 17 Feb 2018 08:55:09 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>likenew</condition>
+    <notes>Never played</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Feb 2018 00:06:29 +0000</listdate>
+    <saledate>Tue, 27 Feb 2018 01:17:38 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/237931/item/5978267#5978267]Item for Geeklist _T_E_M_P_T_A_G_quot;The $5 and Under Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Mar 2018 16:55:27 +0000</listdate>
+    <saledate>Sun, 11 Mar 2018 19:19:07 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238533/item/6005857#6005857]Item for Geeklist _T_E_M_P_T_A_G_quot;auction -130+ games- US shipping only from 12054 - ends 3/11_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Jan 2018 19:42:02 +0000</listdate>
+    <saledate>Sun, 18 Mar 2018 10:53:02 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>In shrink.
+Non EU - Paypal accepted
+EU - SEPA (bank transfer)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Apr 2018 20:10:24 +0000</listdate>
+    <saledate>Sun, 01 Apr 2018 21:42:10 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238054/item/5984078#5984078]Item for Geeklist _T_E_M_P_T_A_G_quot;OK, I can_T_E_M_P_T_A_G_#039;t get to the games I want to play!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Feb 2018 16:34:01 +0000</listdate>
+    <saledate>Fri, 06 Apr 2018 15:48:01 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Never played. Will ship USPS from 03036.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 May 2018 00:23:50 +0000</listdate>
+    <saledate>Tue, 01 May 2018 14:05:17 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/240218/item/6091385#6091385]Item for Geeklist _T_E_M_P_T_A_G_quot;The Culling - Part III (US Auction)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 May 2018 04:41:45 +0000</listdate>
+    <saledate>Thu, 10 May 2018 05:19:17 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/240450/item/6100769#6100769]Item for Geeklist _T_E_M_P_T_A_G_quot;Moving auction ends 5/7/18_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 May 2018 07:55:24 +0000</listdate>
+    <saledate>Fri, 11 May 2018 14:55:53 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/240663/item/6111143#6111143]Item for Geeklist _T_E_M_P_T_A_G_quot;[Auction] International Move. Everything must go!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jan 2018 21:19:43 +0000</listdate>
+    <saledate>Thu, 24 May 2018 23:36:04 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>good</condition>
+    <notes>Shipping Germany  4 Euro
+Shipping World      7 Euro
+PayPal plus max. 2 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jun 2018 16:30:07 +0000</listdate>
+    <saledate>Mon, 16 Jul 2018 17:47:03 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>new</condition>
+    <notes>If you pay via PayPal, pls. use _T_E_M_P_T_A_G_quot;for family _T_E_M_P_T_A_G_amp; friends_T_E_M_P_T_A_G_quot;, otherwise we have to take a small fee ... Thanks!!
+NEW</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jun 2018 16:30:07 +0000</listdate>
+    <saledate>Sun, 29 Jul 2018 02:10:38 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>new</condition>
+    <notes>If you pay via PayPal, pls. use _T_E_M_P_T_A_G_quot;for family _T_E_M_P_T_A_G_amp; friends_T_E_M_P_T_A_G_quot;, otherwise we have to take a small fee ... Thanks!!
+NEW</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Aug 2018 16:57:27 +0000</listdate>
+    <saledate>Wed, 08 Aug 2018 19:03:35 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Aug 2018 03:22:42 +0000</listdate>
+    <saledate>Thu, 09 Aug 2018 11:09:49 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>DO NOT PURCHASE!   Item is reserved for user: joeyjoejoeshabadoo via How Lucky We Are to Be Alive Right Now Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jun 2018 16:30:07 +0000</listdate>
+    <saledate>Tue, 11 Sep 2018 15:36:39 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>new</condition>
+    <notes>If you pay via PayPal, pls. use _T_E_M_P_T_A_G_quot;for family _T_E_M_P_T_A_G_amp; friends_T_E_M_P_T_A_G_quot;, otherwise we have to take a small fee ... Thanks!!
+NEW</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Mar 2016 05:39:31 +0000</listdate>
+    <saledate>Sat, 15 Sep 2018 19:17:34 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Oct 2018 03:00:47 +0000</listdate>
+    <saledate>Thu, 11 Oct 2018 04:54:37 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246163/item/6450256#6450256]Item for Geeklist _T_E_M_P_T_A_G_quot;PAX Unplugged Virtual Flea Market 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+PAX pickup 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Oct 2018 04:26:13 +0000</listdate>
+    <saledate>Fri, 19 Oct 2018 04:32:31 +0000</saledate>
+    <price currency='CAD'>10</price>
+    <condition>likenew</condition>
+    <notes>VFM SALE</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Oct 2018 19:52:12 +0000</listdate>
+    <saledate>Thu, 01 Nov 2018 08:20:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Very good condition, only played once.  Pictures of the game can be provided upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Sep 2018 22:28:49 +0000</listdate>
+    <saledate>Mon, 05 Nov 2018 16:20:44 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays actual shipping via USPS, UPS, or FedEx. Shipping from Chicago, IL, USA. Local pickup is available.
+Shipping to other countries is expensive. It could be as much as $30-$60+ depending on where it_T_E_M_P_T_A_G_#039;s going and the weight of package. Please feel free to message me about the shipping cost before buying. 
+PayPal, Zelle, or Venmo, or message me if you prefer another online method and I_T_E_M_P_T_A_G_#039;ll look into it.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Dec 2018 05:07:41 +0000</listdate>
+    <saledate>Sun, 02 Dec 2018 19:18:27 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>NIS. Buyer pays shipping from 77803. Local pickup available.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Dec 2018 15:02:07 +0000</listdate>
+    <saledate>Thu, 27 Dec 2018 12:13:23 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Jan 2019 03:48:27 +0000</listdate>
+    <saledate>Thu, 03 Jan 2019 22:10:41 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>NIS, smoke-free household.
+Item weighs ~ 2lbs, shipping from 87114.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Jun 2017 16:25:13 +0000</listdate>
+    <saledate>Tue, 08 Jan 2019 20:07:49 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>Zustand / Condition:
+OVP / in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jan 2019 21:20:11 +0000</listdate>
+    <saledate>Tue, 22 Jan 2019 17:33:43 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/251845/item/6663576#6663576]Item for Geeklist _T_E_M_P_T_A_G_quot;I want these games gone auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for user pfaultner.
+</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

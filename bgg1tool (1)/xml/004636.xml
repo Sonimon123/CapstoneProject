@@ -1,0 +1,2843 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="4636">
+   <yearpublished>2002</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>30</playingtime>
+   <minplaytime>30</minplaytime>
+   <maxplaytime>30</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Clans</name>
+       <name  sortindex="1">Klany</name>
+         
+   <description>In Clans, each player is trying to achieve victory by scoring as many points for their color as they can. This is tricky as each player's color is chosen at random and kept hidden until the end of the game. Each of the 12 regions of the board contains five areas, each area containing one of four different terrain types. Each area receives one hut each of five different colors. On their turn, a player moves all huts from one area containing less than seven to an adjacent occupied area, all the while trying to hide which color is theirs. After moving, if one or more areas are completely surrounded by empty areas, they are scored. If all colors are present in a scoring, any colors with only one hut present are removed. The epoch track allows a limited number of areas to score before the game ends, and each scoring can gain a bonus or score nothing depending on the terrain type in which scoring occurred and how far along the track the game has progressed; each scoring advances the track, and each section of the track gives different terrain types bonuses and penalties._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Once at least twelve areas have scored the game ends, then players reveal their colors to find out who was best able to score the most points while keeping their color a secret._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/vS4Oo3ndQ877rYv9l7OI3ZmBINs=/fit-in/200x150/pic402299.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/7w42Ni4Mkd0ZAbUlVxi1JmzsPj4=/0x0/pic402299.jpg</image>
+      
+            <boardgamepublisher objectid="131">Venice Connection</boardgamepublisher>
+               <boardgamepublisher objectid="538">Z-Man Games, Inc.</boardgamepublisher>
+               <boardgamehonor objectid="19878">2003 Deutscher Spiele Preis Best Family/Adult Game 3rd Place</boardgamehonor>
+               <boardgamehonor objectid="12749">2003 Kinderspielexperten _T_E_M_P_T_A_G_quot;8-to-13-year-olds_T_E_M_P_T_A_G_quot; Nominee</boardgamehonor>
+               <boardgamehonor objectid="13139">2003 Nederlandse Spellenprijs Nominee</boardgamehonor>
+               <boardgamehonor objectid="21042">2003 Spiel der Spiele Hit für Familien Recommended</boardgamehonor>
+               <boardgamehonor objectid="8658">2003 Spiel des Jahres Nominee</boardgamehonor>
+                      <boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+               <boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+               <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamemechanic objectid="2043">Area Enclosure</boardgamemechanic>
+                      <boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+                                           <boardgamedesigner objectid="138">Leo Colovini</boardgamedesigner>
+               <boardgamecategory objectid="1039">Deduction</boardgamecategory>
+               <boardgameversion objectid="23740">Dutch edition</boardgameversion>
+                                                                                                          <boardgameimplementation objectid="249670">Fae</boardgameimplementation>
+               <boardgameversion objectid="124058">French edition</boardgameversion>
+                                                                                                                                                                         <boardgameartist objectid="27904">Grafik Studio Krüger</boardgameartist>
+                      <boardgamepodcastepisode objectid="242704">JTRPodcast 041 – Game Rewind June 2017</boardgamepodcastepisode>
+                                           <boardgamecategory objectid="1036">Prehistoric</boardgamecategory>
+                                           <boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+               <boardgameversion objectid="25643">Rio Grande Games edition</boardgameversion>
+                             <boardgameversion objectid="305607">Venice Connection Italian/French/English 2002</boardgameversion>
+                      <boardgameversion objectid="24334">Winning Moves / Venice Connection German first edition 2002</boardgameversion>
+               <boardgamepublisher objectid="9466">Winning Moves France</boardgamepublisher>
+               <boardgamepublisher objectid="26208">Winning Moves Germany</boardgamepublisher>
+               <boardgameversion objectid="28657">Winning Moves with Spiel des Jahres logo</boardgameversion>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="92">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="47" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="47" />
+     <result value="Recommended" numvotes="29" />
+     <result value="Not Recommended" numvotes="10" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="35" />
+     <result value="Recommended" numvotes="44" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="18" />
+     <result value="Recommended" numvotes="37" />
+     <result value="Not Recommended" numvotes="20" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="41" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="27">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="27" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="21">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="7" />
+     <result value="10" numvotes="10" />
+     <result value="12" numvotes="3" />
+     <result value="14" numvotes="1" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>4632</usersrated>
+     <average>6.5591</average>
+     <bayesaverage>6.32844</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1236" bayesaverage="6.32844" />
+            
+       
+              <rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="87" bayesaverage="6.46279" />
+            
+           </ranks>
+     
+     <stddev>1.23154</stddev>
+     <median>0</median>
+     <owned>4566</owned>
+     <trading>210</trading>
+     <wanting>183</wanting>
+     <wishing>550</wishing>
+     <numcomments>1559</numcomments>
+     <numweights>523</numweights>
+     <averageweight>2.0287</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 03 Dec 2002 15:29:05 +0000</listdate>
+    <saledate>Fri, 13 Dec 2002 04:55:16 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>new</condition>
+    <notes>still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Feb 2003 04:17:33 +0000</listdate>
+    <saledate>Thu, 27 Feb 2003 19:27:03 +0000</saledate>
+    <price currency='USD'>12.5</price>
+    <condition>good</condition>
+    <notes>German Edition, components are language neutral.  Game is like new but box bottom has a crease from impact damage.  Not bad but if you want a pristine copy, please buy new!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 May 2003 05:52:58 +0000</listdate>
+    <saledate>Wed, 18 Jun 2003 10:43:25 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>Brand new, sealed from manufacturer!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jun 2003 17:39:33 +0000</listdate>
+    <saledate>Mon, 30 Jun 2003 20:15:07 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>brandnew, still shrinkwrapped.
+look my other offers too, maybe we can combine and save in shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Jul 2003 10:42:03 +0000</listdate>
+    <saledate>Wed, 08 Oct 2003 06:22:06 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>brandnew, still shrinkwrapped.
+Look my other offers too for more german games.
+Feel free and ask for shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Oct 2003 01:44:23 +0000</listdate>
+    <saledate>Fri, 09 Dec 2005 18:55:51 +0000</saledate>
+    <price currency='USD'>19.5</price>
+    <condition>new</condition>
+    <notes>Clans (Rio Grande Games; English-language edition)
+This game is brand new and sealed. S_T_E_M_P_T_A_G_amp;H through UPS Ground is $7.00 in the 48 states (includes tracking _T_E_M_P_T_A_G_amp; insurance). We can combine shipping on multiple purchases. We collect 8.25% sales tax for TX orders.
+ 
+For more games go to www.newspiel.com.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Dec 2003 02:45:23 +0000</listdate>
+    <saledate>Mon, 10 Jan 2005 10:26:41 +0000</saledate>
+    <price currency='USD'>14.25</price>
+    <condition>likenew</condition>
+    <notes>As good as new.  Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Dec 2003 03:17:27 +0000</listdate>
+    <saledate>Sat, 03 Jan 2004 13:57:44 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Mar 2004 09:56:17 +0000</listdate>
+    <saledate>Sun, 28 Mar 2004 21:44:45 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>new</condition>
+    <notes>New German edition in shrinkwrap.
+English rules are available here at BGG.
+Payment by Paypal or cheque in £UK.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Mar 2004 21:33:58 +0000</listdate>
+    <saledate>Wed, 07 Jul 2004 06:14:32 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Game is in Like New condition.  Opened and played twice and will not likely get another play, as nobody was excited about the game at all.
+Shipment by FedEx Ground with all Tracking information provided at a cost of $5.00.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Aug 2004 16:33:04 +0000</listdate>
+    <saledate>Sun, 08 Aug 2004 19:55:25 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Game is brand new and played once. Box is perfect and composnents are complete.
+Shipping by Priority Mail within 24 hours of payment</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Nov 2004 11:27:00 +0000</listdate>
+    <saledate>Sun, 06 Feb 2005 18:10:18 +0000</saledate>
+    <price currency='EUR'>9.99</price>
+    <condition>likenew</condition>
+    <notes>never played +++++ german manual, but the game parts are completely language independet and you can find an english translation here on boardgamegeek +++++ will be shipped with insurance only +++++ payment for germany : personal pick up in berlin or bank transfer +++++ payment for usa and canada : paypal or cash (by letter, exchanged already into euros) or bank transfer +++++ payment for asia and australia: cash (by letter, exchanged already into euros) or bank transfer +++++ countries, that have no euro : cash (by letter, exchanged already into euros) or bank transfer +++++ payment for european countries, that have euro : cash (by letter) or bank transfer (wich is cost-free !) +++++ payment for european countries, that have no euro : cash (by letter, exchanged already into euros) or bank transfer +++++ for all : no checks ! +++++ foreign buyers beware : german postal sadly is very expensive for foreign packages (about 18 - 45 euros, it depends on, where the package has to be shipped), pleask at for prices, befor you buy !) +++++ shipping inside germany will cost 8 euros
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Feb 2005 23:04:08 +0000</listdate>
+    <saledate>Tue, 15 Feb 2005 08:00:01 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Apr 2005 02:27:54 +0000</listdate>
+    <saledate>Tue, 26 Jul 2005 02:19:33 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>item is brand new and still sealed.
+Will happily combine shipping with multiple orders.
+SPECIAL!  Take 5% off the total price for EACH game you buy from me after the first one!!  Maximum 30% off.  Save on Shipping, and get an incredible deal!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jul 2005 16:19:21 +0000</listdate>
+    <saledate>Sat, 30 Jul 2005 16:22:29 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Game has been opened and played.  Some minor wear to board (small tear was in the board when I got it, has been taped with clear scotch tape).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Nov 2005 05:46:02 +0000</listdate>
+    <saledate>Tue, 03 Jan 2006 16:42:13 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap; 2002 Venice Connection edition (Rio Grande logo on back of box).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jan 2006 16:36:47 +0000</listdate>
+    <saledate>Sat, 14 Jan 2006 20:11:36 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>German edition. Rules in German, otherwise no language needed.
+Shipping is 7.50$ within U.S., insurance 1.35$ optional.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Jan 2006 22:58:52 +0000</listdate>
+    <saledate>Fri, 27 Jan 2006 01:22:07 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>I purchased new, but it has been opened, punched and played a handful of times.  The box, board, rules and pieces are all in very good condition, no damage to anything.  All the pieces are there and in little bags, of course!
+Price includes shipping cost.  Ships only in continental USA.
+Paypal only.  Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Apr 2006 18:22:11 +0000</listdate>
+    <saledate>Sat, 08 Apr 2006 06:04:57 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>verygood</condition>
+    <notes>very good condition - this is a german edition with a b/w   set of  english rules  included. There are no language dependant items in this game.  
+postage costs within the EU would be approx £4 </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 May 2006 15:45:28 +0000</listdate>
+    <saledate>Mon, 19 Jun 2006 19:18:36 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Rio Grande version. Excellent condition, played three times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Aug 2006 09:46:22 +0000</listdate>
+    <saledate>Tue, 29 Aug 2006 07:51:50 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>good</condition>
+    <notes>Winning moves edition (German, but game language neutral and translation included). Minor damage to back of box (minor creasing), otherwise condition very good.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Oct 2006 17:50:44 +0000</listdate>
+    <saledate>Fri, 21 Sep 2007 20:14:11 +0000</saledate>
+    <price currency='USD'>17.95</price>
+    <condition>new</condition>
+    <notes>We only sell brand new, shrinkwrapped games. International shipping available.
+Edition: Rio Grande Games (2002)
+RIO 207</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Oct 2006 05:04:54 +0000</listdate>
+    <saledate>Wed, 13 Dec 2006 14:44:16 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>Clans - Rio Grande Games
+Like New! Removed from shrink wrap, but in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $2.00 handling charge.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Oct 2006 17:30:14 +0000</listdate>
+    <saledate>Mon, 30 Oct 2006 01:03:27 +0000</saledate>
+    <price currency='USD'>13.5</price>
+    <condition>new</condition>
+    <notes>New, still in the publishers Shinkwrap - MINT!
+USA payment via check, M.O., or Paypal.
+International via Paypal only.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Apr 2007 05:15:17 +0000</listdate>
+    <saledate>Fri, 16 Oct 2009 01:18:26 +0000</saledate>
+    <price currency='USD'>15.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+CLANS: $15.95
+Rio Grande Games [RIO 207]
+SHIPPING
+Continental U.S.: FedEx $8.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 May 2007 22:48:16 +0000</listdate>
+    <saledate>Tue, 10 Jul 2007 20:43:46 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>New/Sealed Clans The Boardgame! We will ship only w/in the 48 US states via UPS Ground for $5.50 or Priority Mail for $8.50. Totally new and sealed and unopened!
+Fast Shipping with full insurance and tracking # emailed back to you w/in 2 business days! We take Paypal to creditcards@sphiatt.com (include the title of the game you are ordering in the payment box)), or money orders.
+We have 35,000+ Feedback on ebay and over 10,000 transactions with paypal so buy with confidence!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jul 2007 15:42:35 +0000</listdate>
+    <saledate>Tue, 19 Aug 2008 07:00:27 +0000</saledate>
+    <price currency='USD'>15.95</price>
+    <condition>new</condition>
+    <notes>New/Sealed Clans The Boardgame! We will ship only w/in the 48 US states via UPS Ground for $7.50 or Priority Mail for $10.50. Totally new and sealed and unopened!
+Fast Shipping with full insurance and tracking # emailed back to you w/in 2 business days! We take Paypal to creditcards@sphiatt.com (include the title of the game you are ordering in the payment box)), or money orders.
+We have 35,000+ Feedback on ebay and over 10,000 transactions with paypal so buy with confidence!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2007 19:40:59 +0000</listdate>
+    <saledate>Wed, 25 Jul 2007 04:13:24 +0000</saledate>
+    <price currency='USD'>13.95</price>
+    <condition>new</condition>
+    <notes>brand new, shrink wrapped, from a smoke-free environment</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Sep 2007 15:35:00 +0000</listdate>
+    <saledate>Sat, 06 Oct 2007 01:06:20 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played twice and really enjoyed game. Must sell games though.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Oct 2007 04:45:55 +0000</listdate>
+    <saledate>Fri, 14 Dec 2007 04:30:29 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>Sealed in shrinkwrap.  Shipped anywhere in the US for $5.  I may ship internationally - please ask for rates.  Thanks for lookin_T_E_M_P_T_A_G_#039;.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jan 2008 01:18:14 +0000</listdate>
+    <saledate>Tue, 29 Jul 2008 06:07:28 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>All pieces in great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Feb 2008 12:48:07 +0000</listdate>
+    <saledate>Wed, 20 Feb 2008 03:34:16 +0000</saledate>
+    <price currency='USD'>14.5</price>
+    <condition>verygood</condition>
+    <notes>In great condition.
+Shipping will be via fedex 2-day, for flat $10, no matter how many items you order.
+I prefer Amazon gift certificate as payment, or Paypal.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Mar 2008 11:48:46 +0000</listdate>
+    <saledate>Fri, 18 Apr 2008 18:18:52 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>I will send pictures
+Will ship worldwide
+Ship to USA (no insurance, cant keep tracking, by vessel) 
+Shipping cost : $6
+Delivery Time : 20~60 days 
+Ship to USA (insurance, can keep tracking, by vessel)
+Shipping cost : $16
+Delivery Time : 20~60 days 
+Ship to USA (no insurance, cant keep tracking, by air)
+Shipping cost : $20
+Delivery Time : 7~21 days 
+ship to other : i will provide shiping cost later
+See my sale list 
+I will discount if you will buy several games
+*** You must pay 3.4% + $0.30 USD more If you want payments funded by Credit Card, Debit Card or Buyer Credit ****
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Aug 2008 13:25:01 +0000</listdate>
+    <saledate>Wed, 10 Dec 2008 11:25:05 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>Gernan edition (Winning Moves)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Sep 2008 23:41:41 +0000</listdate>
+    <saledate>Sun, 23 Nov 2008 20:56:56 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>likenew</condition>
+    <notes>Like new, rarely played.  Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Nov 2008 04:03:33 +0000</listdate>
+    <saledate>Sun, 11 Jan 2009 21:01:44 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Played a couple of times. The bottom of the box has a dent on one side near the edge; this was there when I bought it (online, so I didn_T_E_M_P_T_A_G_#039;t get to see it first). Noticeable, but none of the part are effected.
+I prefer paypal, but will also accept check or money order (though it will be slower).
+I ship by USPS parcel post with delivery confirmation. If you order several games from me, I will combine shipping.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Dec 2008 18:10:20 +0000</listdate>
+    <saledate>Sun, 14 Dec 2008 00:02:07 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Opened, punched, but never played!  So, excellent condition, from non-smoking home.
+$8 shipping in USA.
+I combine shipping!  So look at my other games for sale.  If you_T_E_M_P_T_A_G_#039;re interested in any of my other games for sale, the additional shipping cost would only be about $3 per large game, or ~$1 per small/card game. 
+Optional insurance $1.35.
+Local buyers may pick up orders of $25 or more in person, in Billerica, MA, USA.
+International orders, please ask about shipping costs before ordering.
+PayPal or checks accepted.
+Thanks for your order. Your game is ready to ship!
+Karl Hanf
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Dec 2008 21:11:53 +0000</listdate>
+    <saledate>Fri, 02 Jan 2009 16:40:11 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>open, unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Jan 2009 19:32:45 +0000</listdate>
+    <saledate>Tue, 27 Mar 2012 04:36:58 +0000</saledate>
+    <price currency='USD'>10.5</price>
+    <condition>verygood</condition>
+    <notes>played a few times, game in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Mar 2009 19:58:06 +0000</listdate>
+    <saledate>Mon, 20 Sep 2010 19:06:48 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>German edition (Winning moves)
+components language independent</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Mar 2009 16:55:27 +0000</listdate>
+    <saledate>Sat, 18 Apr 2009 01:58:59 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>Game complete and in very good condition.  I purchased it new and only played it two times.  Shipping for this game will be $8 via USPS priority mail.
+I am getting ready to move so I have a number of games for sale.  Please check out my other listings.  I am more than willing to combine shipping to save you money if you buy more than one game.  Please contact me with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Apr 2009 18:48:22 +0000</listdate>
+    <saledate>Fri, 22 May 2009 18:04:47 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>Never played.  Opened.  I am selling a number of Eurogames.  Reducing my collection.  Please look at my other items.  I will, of course, combine shipping on multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 May 2009 12:58:15 +0000</listdate>
+    <saledate>Wed, 27 May 2009 20:55:57 +0000</saledate>
+    <price currency='GBP'>11</price>
+    <condition>likenew</condition>
+    <notes>Only played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jun 2009 08:05:07 +0000</listdate>
+    <saledate>Fri, 10 Jul 2009 21:48:00 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>likenew</condition>
+    <notes>Excellent Condition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Aug 2009 19:10:58 +0000</listdate>
+    <saledate>Wed, 10 Feb 2010 02:51:54 +0000</saledate>
+    <price currency='USD'>9.95</price>
+    <condition>likenew</condition>
+    <notes>Very close to mint condition -- played about six times total.   This is the German version of the game with the English rules also included (the game itself is completely language-neutral).  I have handcounted all the pieces and everything is there.  I will ship it anywhere in the USA for $7.  Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Aug 2009 19:49:47 +0000</listdate>
+    <saledate>Sun, 29 Aug 2010 06:02:06 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Sep 2009 14:05:53 +0000</listdate>
+    <saledate>Wed, 21 Oct 2009 00:06:39 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Oct 2009 03:22:24 +0000</listdate>
+    <saledate>Wed, 29 Dec 2010 09:11:29 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+CLANS: $16.95
+Rio Grande Games [RIO 207]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Nov 2009 22:06:31 +0000</listdate>
+    <saledate>Thu, 25 Feb 2010 21:29:44 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>new</condition>
+    <notes>original german winning moves edition
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jan 2010 16:04:31 +0000</listdate>
+    <saledate>Fri, 11 Jun 2010 14:28:10 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>Still in shrink wrap new condition.
+Air-mail Express to US/Europe: 15 euros
+Air-mail Express to Asia: 10 euros
+You may combine items to save shipping fees !
+10kg to EU by Airmail: 80 euros
+10Kg to US by Airmail: 90 euros
+10kg to Oceania by Airmail: 70 euros
+10kg to Japan/Asia by Airmail: 45 euros
+20kg to EU by Airmail: 120 euros
+20kg to US by Airmail: 150 euros
+20kg to Oceania by Airmail: 110 euros
+20kg to Japan/Asia by Airmail: 70 euros
+10kg Ground-mail to EU/US: 50 euros
+10kg Ground-mail to Oceania/Japan/Asia: : 30 euros
+20kg Ground-mail to EU/US: 75 euros
+20kg Ground-mail to Oceania/Japan/Asia: 50 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Feb 2010 13:00:31 +0000</listdate>
+    <saledate>Sun, 12 Dec 2010 05:19:17 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink!
+A portion of the earnings from each sale is donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Shipping to USA48: 
+$8.00 UPS Ground with tracking and insurance
+Other shipping options available upon request.
+I will combine shipping to save you money when ordering multiple games.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Feb 2010 20:28:22 +0000</listdate>
+    <saledate>Fri, 26 Feb 2010 23:24:46 +0000</saledate>
+    <price currency='GBP'>7</price>
+    <condition>verygood</condition>
+    <notes>This game is in very good condition. 
+PLEASE NOTE THAT I WILL ONLY POST TO UK ADDRESSES.
+The estimated postage cost is £4.25
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Mar 2010 10:26:45 +0000</listdate>
+    <saledate>Thu, 08 Apr 2010 09:53:11 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Apr 2010 04:47:20 +0000</listdate>
+    <saledate>Sat, 25 Jun 2011 21:35:02 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Game is complete. Box has some minor scuffs.
+Paypal only please. Email me your zip for a shipping quote.
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Jun 2010 02:43:17 +0000</listdate>
+    <saledate>Thu, 24 Jun 2010 14:51:09 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Reserved for user: personwholives
+Shipping deposit is listed. Buyer will be contacted regarding actual cost when item ships.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Jul 2010 21:56:02 +0000</listdate>
+    <saledate>Sat, 12 Feb 2011 02:45:23 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Played a few times, excellent condition.
+Shipping is actual cost of mailing from 97303 zip code.
+I will wait for payment to clear prior to mailing.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Jul 2010 22:33:31 +0000</listdate>
+    <saledate>Thu, 15 Jul 2010 18:52:20 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>likenew</condition>
+    <notes>played once; in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Jul 2010 11:46:50 +0000</listdate>
+    <saledate>Thu, 29 Jul 2010 06:06:45 +0000</saledate>
+    <price currency='AUD'>25</price>
+    <condition>likenew</condition>
+    <notes>FLAT RATE POSTAGE:
+One Game: $10 within Australia (or $6 within SA)
+Each additional game: $1 p+p
+Registered Post add $3 for the parcel.
+Four Games or more: FREE POSTAGE within Australia!
+I accept PayPal, Bank Deposit or Money Order.
+Pick-up and cash is fine in Adelaide (Blackwood area).
+INTERNATIONAL POSTAGE:
+Please contact me for a quote.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Aug 2010 10:41:43 +0000</listdate>
+    <saledate>Thu, 02 Sep 2010 17:11:35 +0000</saledate>
+    <price currency='EUR'>9.5</price>
+    <condition>verygood</condition>
+    <notes>complete and in very good shape
+690
+shipping: letter</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Aug 2010 01:21:05 +0000</listdate>
+    <saledate>Tue, 10 Aug 2010 16:01:07 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Eric Ziegeweid.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Aug 2010 13:49:48 +0000</listdate>
+    <saledate>Mon, 16 Aug 2010 16:03:08 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>English edition - Language independent game.
+Very Good Condition, played a few times only.
+HOT DEAL: Buy 2 or more games and get 10% discount.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Aug 2010 16:33:06 +0000</listdate>
+    <saledate>Sun, 03 Apr 2011 04:23:34 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>played a 2 or 3 times. Box and game in perfect condition.
+I_T_E_M_P_T_A_G_#039;m offering many other games which can really help on shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Aug 2010 01:26:02 +0000</listdate>
+    <saledate>Mon, 06 Sep 2010 14:31:13 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>Clans (2002) by Winning Moves  
+Box:  Light shelfwear with no significant dings, dents, or creases.  Overall the box is in near mint condition! 
+Components:  Complete and in like new condition!  Pieces have been sorted and stored in plastic bags for convenience and protection - you will be very pleased with how the game has been packaged.
+SHIPPING:
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 2 Lbs. from zip code 85208.  International buyers are very welcome, but please contact me for a shipping price quote to avoid any surprises or misunderstandings.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Sep 2010 00:22:11 +0000</listdate>
+    <saledate>Sun, 20 Mar 2011 00:16:22 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>Played two or three times.  Buyer pays actual shipping plus $1 for packaging (if not using USPS Priority Mail box).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Oct 2010 05:34:36 +0000</listdate>
+    <saledate>Tue, 05 Oct 2010 23:57:31 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Complete and in great shape
+Will combine shipping on multiple purchases</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Oct 2010 19:28:33 +0000</listdate>
+    <saledate>Fri, 31 Dec 2010 17:08:13 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition; played only once.
+(Note: Buyer pays any PayPal fees, if applicable.)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Oct 2010 03:06:50 +0000</listdate>
+    <saledate>Thu, 07 Oct 2010 03:52:14 +0000</saledate>
+    <price currency='USD'>4.95</price>
+    <condition>likenew</condition>
+    <notes>My girlfriend wants me to reduce my collection, so I_T_E_M_P_T_A_G_#039;m listing over 30 games for sale at cheaper prices than CoolStuff Inc. or Boards _T_E_M_P_T_A_G_amp; Bits.  Please check out my other listings.  I_T_E_M_P_T_A_G_#039;ll gladly combine shipping for even bigger discounts so feel free to message me if you have any questions.  Just don_T_E_M_P_T_A_G_#039;t wait too long in case they_T_E_M_P_T_A_G_#039;re all gone!
+S_T_E_M_P_T_A_G_amp;H: $7.95 I will gladly combine shipping for even bigger discounts.
+CONDITION: Like New - Never Played. Everything in excellent condition.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Oct 2010 22:27:35 +0000</listdate>
+    <saledate>Wed, 20 Oct 2010 09:07:13 +0000</saledate>
+    <price currency='GBP'>11</price>
+    <condition>verygood</condition>
+    <notes>Private sale of Clans and Kahuna for p socialworkdad</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Nov 2010 18:21:54 +0000</listdate>
+    <saledate>Thu, 17 Feb 2011 18:32:15 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Nov 2010 08:40:25 +0000</listdate>
+    <saledate>Fri, 26 Nov 2010 11:42:39 +0000</saledate>
+    <price currency='AUD'>25</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Nov 2010 15:50:47 +0000</listdate>
+    <saledate>Sat, 27 Nov 2010 00:05:40 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played a few times.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Dec 2010 00:55:54 +0000</listdate>
+    <saledate>Tue, 14 Dec 2010 01:08:17 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>This item is reserved for - jgag.
+Please don_T_E_M_P_T_A_G_#039;t buy if you_T_E_M_P_T_A_G_#039;re not him.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Jan 2011 15:33:20 +0000</listdate>
+    <saledate>Sun, 02 Jan 2011 20:23:18 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Item listed for user - _T_E_M_P_T_A_G_quot;claudio212_T_E_M_P_T_A_G_quot; - from Spend That Holiday Cash auction.
+Payment should be made to mmoody01@tampabay.rr.com
+Will include total shipping on Genoa item when we finalize shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Feb 2011 13:30:40 +0000</listdate>
+    <saledate>Fri, 14 Sep 2012 04:38:33 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>original German winning moves 1st edition
+new and shrinkwrapped in perfect condition
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Mar 2011 16:43:01 +0000</listdate>
+    <saledate>Tue, 16 Aug 2011 02:54:10 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>Still in shrinkwrap
+Will ship worldwide
+Ship to USA (no insurance, cant keep tracking, by vessel) 
+Shipping cost : $6
+Delivery Time : 20~60 days 
+Ship to USA (insurance, can keep tracking, by vessel)
+Shipping cost : $16
+Delivery Time : 20~60 days 
+Ship to USA (no insurance, cant keep tracking, by air)
+Shipping cost : $20
+Delivery Time : 7~21 days 
+ship to other : i will provide shiping cost later
+See my sale list 
+I will discount if you will buy several games
+I can accept multiple currency
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Mar 2011 16:34:25 +0000</listdate>
+    <saledate>Thu, 26 May 2011 20:46:20 +0000</saledate>
+    <price currency='GBP'>17.5</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 May 2011 22:18:29 +0000</listdate>
+    <saledate>Thu, 12 May 2011 14:31:50 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This game is reserved for Wylde_Karde</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Jun 2011 18:06:36 +0000</listdate>
+    <saledate>Thu, 09 Jun 2011 14:42:03 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>Played twice, carefully.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Jun 2011 22:47:58 +0000</listdate>
+    <saledate>Sat, 11 Jun 2011 22:57:43 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>This is for Orangemoose only.
+$14 BIN at auction
+$10.95 usps priority flat rate medium box shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Aug 2011 02:53:53 +0000</listdate>
+    <saledate>Sat, 06 Aug 2011 08:41:00 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>Played several times, trying to pare down my collection. Great game kept in very good condition: no damage to board, pieces, rules, and excellent box condition.
+I prefer Paypal or Amazon.com Payments or will accept cash or check. I pack very securely and ship via USPS parcel post ($9 to ship). Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Aug 2011 19:36:27 +0000</listdate>
+    <saledate>Mon, 22 Aug 2011 12:58:00 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Aug 2011 19:27:52 +0000</listdate>
+    <saledate>Fri, 19 Aug 2011 05:50:34 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Reserved for geeklist auction winner mattimus21</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Aug 2011 01:10:54 +0000</listdate>
+    <saledate>Tue, 23 Aug 2011 16:38:07 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>This item is reserved for user: Kilgore_Smores</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Aug 2011 18:39:57 +0000</listdate>
+    <saledate>Thu, 25 Aug 2011 19:51:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Orangemoose as per auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Oct 2011 10:22:40 +0000</listdate>
+    <saledate>Wed, 02 Nov 2011 11:08:02 +0000</saledate>
+    <price currency='GBP'>10.5</price>
+    <condition>verygood</condition>
+    <notes>Very good condition, only a handful of plays.
+Winning Moves Dutch edition, but no necessary in-game text, completely language independent. Print-out of rules in English included.
+Postage to UK: £4.5
+Postage to Europe: £7 </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Nov 2011 23:45:21 +0000</listdate>
+    <saledate>Fri, 13 Jan 2012 16:18:19 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>likenew</condition>
+    <notes>Postage to UK only will be at cost.
+This is the Winning Moves (German) edition, with language-independent components, and includes English rules.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Nov 2011 03:44:46 +0000</listdate>
+    <saledate>Tue, 22 Nov 2011 08:28:45 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>For User: travandallie</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2012 01:36:39 +0000</listdate>
+    <saledate>Sun, 29 Jan 2012 19:31:30 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Patrick C. (travvler) from the Hip to Be Square auction (1/28/12).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Feb 2012 22:04:21 +0000</listdate>
+    <saledate>Mon, 26 Mar 2012 05:02:43 +0000</saledate>
+    <price currency='USD'>19.35</price>
+    <condition>likenew</condition>
+    <notes>Venice Collection publishers.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 May 2012 22:50:20 +0000</listdate>
+    <saledate>Thu, 10 May 2012 01:21:33 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>** sold to Travvller via Auction **</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jun 2012 18:08:59 +0000</listdate>
+    <saledate>Wed, 27 Jun 2012 06:08:57 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jun 2012 17:03:59 +0000</listdate>
+    <saledate>Mon, 18 Jun 2012 22:59:33 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Auction item for travvller from my recent auction</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jun 2012 06:21:00 +0000</listdate>
+    <saledate>Fri, 22 Jun 2012 13:12:54 +0000</saledate>
+    <price currency='USD'>11.8</price>
+    <condition>verygood</condition>
+    <notes>+Quiddler
+RESERVED FOR davido from auction, please do not buy unless you are him</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jun 2012 20:22:46 +0000</listdate>
+    <saledate>Sat, 07 Jul 2012 23:08:07 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>new</condition>
+    <notes>Winning moves edition (German)
+outer shrink removed</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jul 2012 12:49:17 +0000</listdate>
+    <saledate>Wed, 11 Jul 2012 12:56:44 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>Played once.  Comes from a  pet _T_E_M_P_T_A_G_amp; smoke free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jul 2012 23:04:23 +0000</listdate>
+    <saledate>Wed, 25 Jul 2012 05:58:48 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>likenew</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! We recently acquired a large number of older, out-of-print games and are pleased to make them available to the BGG community.
+CLANS
+Rio Grande Games [RIO 207]
+* Open, complete, and in like new condition.  See pictures below.
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Sep 2012 20:14:05 +0000</listdate>
+    <saledate>Fri, 07 Sep 2012 23:58:52 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>For my auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Oct 2012 05:56:27 +0000</listdate>
+    <saledate>Thu, 13 Jun 2013 11:16:57 +0000</saledate>
+    <price currency='EUR'>14.95</price>
+    <condition>good</condition>
+    <notes>Sprache: deutsch / Language: German
+--------------------------
+Bezahlung / Payment:
+- Deutschland: Überweisung
+- EU: euro bank transfer with IBAN and BIC
+- Worldwide: PayPal but buyer has to assume PayPal-fees
+--------------------------
+Versandkosten / Shipping costs:
+- Deutschland: 5,- Euro
+- EU: about 10,- Euro (without insurance). Please ask me before buying the game.
+- Worldwide: Depends on the destination, but probably about 20,- Euro. Please ask me before buying the game.
+--------------------------</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Oct 2012 22:11:59 +0000</listdate>
+    <saledate>Mon, 21 Jan 2013 19:42:19 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Minor spots on the outside of the box.  Only played a few times.
+Shipping will be via USPS Priority Mail Medium Flat Rate Box.  It will be $11.35 if within the US.  Ask for overseas rate, if interested.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Nov 2012 20:56:23 +0000</listdate>
+    <saledate>Wed, 23 Jan 2013 04:59:41 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>good</condition>
+    <notes>German
+Shipping Germany  4 Euro
+Shipping World          7 Euro
+PayPal plus 1 Euro
+Money transfer via IBAN/BIC preferred</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Nov 2012 11:14:31 +0000</listdate>
+    <saledate>Sun, 02 Dec 2012 19:22:01 +0000</saledate>
+    <price currency='GBP'>14</price>
+    <condition>likenew</condition>
+    <notes>Game is in German</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Dec 2012 03:25:43 +0000</listdate>
+    <saledate>Thu, 27 Dec 2012 19:08:37 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>New in Shrink.  Shipping in the US $9.95</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Feb 2013 19:47:12 +0000</listdate>
+    <saledate>Sat, 23 Feb 2013 20:19:53 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Selling to BGG user Jaax</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Feb 2013 12:08:34 +0000</listdate>
+    <saledate>Fri, 22 Mar 2013 19:46:40 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>Very Good Condition. Personal copy that I_T_E_M_P_T_A_G_#039;ve owned for a decade or so. Played a handful of times. Otherwise, it_T_E_M_P_T_A_G_#039;s just been taking up space on the shelf.
+Buyer pays actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Mar 2013 06:34:36 +0000</listdate>
+    <saledate>Wed, 06 Mar 2013 10:06:39 +0000</saledate>
+    <price currency='USD'>72</price>
+    <condition>likenew</condition>
+    <notes>Reserved for alexsr
+Items in this transaction include:
+ - Clans $14
+ - Factory Fun (2) $20
+ - Lord of the Rings $6
+ - Portobello Market $7
+ - Tales of the Arabian Nights $25
+$72.00  
+alexsr, you siad that you wanted to provide shipping label. Package weighs 23.8 lbs., and will ship from 47150.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Mar 2013 20:36:18 +0000</listdate>
+    <saledate>Tue, 08 Oct 2013 02:24:31 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Mar 2013 14:18:41 +0000</listdate>
+    <saledate>Sun, 31 Mar 2013 23:03:39 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>New, German rules additionaly included. Shipping costs: 
+Germany: 4,50 Euro
+European Community: 10.90 Euro
+Switzerland: 14.90 Euro
+Rest of the World: 16.90 Euro
+Payment: PayPal, bank transfer
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Mar 2013 22:47:55 +0000</listdate>
+    <saledate>Sun, 31 Mar 2013 15:16:15 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>Purchased this game years ago and it is just not for the wife and I. Played only a couple of times, everything is in excellent condition.
+Payment by either Paypal or Amazon GC please. Feel free to GM me with any offers.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Apr 2013 12:23:02 +0000</listdate>
+    <saledate>Thu, 25 Apr 2013 16:52:11 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>good</condition>
+    <notes>German edition from Winning Moves</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Apr 2013 11:46:21 +0000</listdate>
+    <saledate>Wed, 24 Apr 2013 17:27:20 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>new</condition>
+    <notes>Clans
+Winning Moves / Venice Connection German first edition 2002
+Publisher: Venice Connection,?Winning Moves</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 May 2013 11:38:25 +0000</listdate>
+    <saledate>Thu, 11 Jul 2013 07:31:50 +0000</saledate>
+    <price currency='GBP'>17</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 May 2013 14:16:43 +0000</listdate>
+    <saledate>Wed, 22 May 2013 21:01:29 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Auction Item - for User:  _T_E_M_P_T_A_G_quot;sparkcub_T_E_M_P_T_A_G_quot; only.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Jun 2013 22:25:02 +0000</listdate>
+    <saledate>Tue, 04 Jun 2013 23:51:05 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>reserved for illest503</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Jun 2013 16:11:12 +0000</listdate>
+    <saledate>Mon, 17 Jun 2013 18:48:00 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>verygood</condition>
+    <notes>May have been played once or twice but in very good condition. Somewhere between Like New and Very Good.
+German rules, but other language rules are easily downloaded, no tekst on gamepieces.
+Contant bij afhalen, anders nog overeen te komen.
+Cash on pick-up or otherwise to be agreed on.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jul 2013 18:31:03 +0000</listdate>
+    <saledate>Mon, 01 Jul 2013 18:43:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Reserved for BIN bid in Geeklist auction. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jul 2013 16:51:04 +0000</listdate>
+    <saledate>Tue, 30 Jul 2013 19:25:13 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>This is reserved for RayR and includes Clans, Bison, and Mykerinos plus shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Aug 2013 14:37:39 +0000</listdate>
+    <saledate>Tue, 03 Sep 2013 15:50:20 +0000</saledate>
+    <price currency='EUR'>12.5</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Aug 2013 17:45:36 +0000</listdate>
+    <saledate>Sat, 12 Oct 2013 04:00:10 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Sep 2013 07:40:05 +0000</listdate>
+    <saledate>Tue, 03 Dec 2013 04:40:29 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Shrinkwrap removed and punched but otherwise perfect. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. I have many hundreds of games for sale and would be happy to combine shipping charges for multiple games to save you money. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Sep 2013 01:37:08 +0000</listdate>
+    <saledate>Mon, 16 Sep 2013 16:26:41 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>Private sale to Gelatinous Goo for Clans</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Sep 2013 02:19:02 +0000</listdate>
+    <saledate>Tue, 24 Sep 2013 02:26:48 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>***reserved for user emiljimenez***</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Oct 2013 13:15:09 +0000</listdate>
+    <saledate>Tue, 10 Dec 2013 11:56:44 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>German edition (Winning Moves)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Oct 2013 11:25:44 +0000</listdate>
+    <saledate>Mon, 04 Nov 2013 07:54:22 +0000</saledate>
+    <price currency='EUR'>18.95</price>
+    <condition>new</condition>
+    <notes>Sprache: deutsch / Language: German
+--------------------------
+Bezahlung / Payment:
+- Deutschland: Überweisung
+- EU: euro bank transfer with IBAN and BIC
+- Worldwide: PayPal but buyer has to assume PayPal-fees
+--------------------------
+Versandkosten / Shipping costs:
+- Deutschland: 5,- Euro
+- EU: about 10,- Euro (without insurance). Please ask me before buying the game.
+- Worldwide: Depends on the destination, but probably about 20,- Euro. Please ask me before buying the game.
+--------------------------</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Nov 2013 18:32:42 +0000</listdate>
+    <saledate>Thu, 21 Nov 2013 15:46:39 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>verygood</condition>
+    <notes>Winning Moves version with Spiel des Jahres logo 
+game is complete and in a very good condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Nov 2013 22:13:30 +0000</listdate>
+    <saledate>Wed, 04 Dec 2013 18:55:37 +0000</saledate>
+    <price currency='USD'>27.11</price>
+    <condition>verygood</condition>
+    <notes>Excellent shape.  Played twice.  Is complete.  See the photo.
+Shipping in USA is $6.  Actual cost elsewhere.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Nov 2013 22:24:43 +0000</listdate>
+    <saledate>Thu, 05 Dec 2013 00:23:57 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>likenew</condition>
+    <notes>Clans
+Nick: Winning Moves / Venice Connection German first edition 2002
+Publisher: Venice Connection,?Winning Moves
+Like new, only played once.
+Shipping:
+To Germany (DHL, with tracking): 4.90 EUR
+To *most* EU countries (DHL, with tracking): 15.00 EUR
+(for more shipping information, see below)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Dec 2013 14:31:15 +0000</listdate>
+    <saledate>Fri, 13 Dec 2013 14:01:36 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>Reserved For Chancellor Ochs</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jan 2014 00:08:02 +0000</listdate>
+    <saledate>Tue, 14 Jan 2014 01:01:13 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR CAROL CARPENTER AT $15</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jan 2014 20:41:55 +0000</listdate>
+    <saledate>Sat, 25 Jan 2014 04:06:32 +0000</saledate>
+    <price currency='USD'>32.65</price>
+    <condition>verygood</condition>
+    <notes>English Edition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Feb 2014 23:25:01 +0000</listdate>
+    <saledate>Tue, 25 Feb 2014 18:28:28 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Ink stain on box, contents excellent.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Mar 2014 05:38:52 +0000</listdate>
+    <saledate>Sun, 13 Apr 2014 03:38:35 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>Fantastic game, plays great with 2, 3 or 4.  Excellent condition, only played once or twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Apr 2014 15:55:49 +0000</listdate>
+    <saledate>Wed, 23 Apr 2014 13:26:26 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>The dutch version of the game (completely language independent) in great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Apr 2014 22:36:08 +0000</listdate>
+    <saledate>Mon, 28 Apr 2014 23:39:49 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Reserved for SJacobsen159</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 May 2014 20:04:28 +0000</listdate>
+    <saledate>Thu, 25 Sep 2014 20:29:46 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>English Rio Grande Games edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 May 2014 08:08:43 +0000</listdate>
+    <saledate>Wed, 28 May 2014 05:50:27 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jun 2014 18:37:55 +0000</listdate>
+    <saledate>Wed, 04 Jun 2014 04:17:20 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>[b]Reserved for Goju_Namo from Bargain Auction[/b]</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jun 2014 06:11:08 +0000</listdate>
+    <saledate>Thu, 24 Jul 2014 12:20:51 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>verygood</condition>
+    <notes>I´m offering the german WINNING MOVES edition
+shipping rates:
+Germany = 5 Euro
+EU countries = 9 Euro
+worldwide = 9 Euro
+game weight: 700 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jun 2014 17:08:02 +0000</listdate>
+    <saledate>Sun, 13 Jul 2014 16:43:47 +0000</saledate>
+    <price currency='EUR'>24.99</price>
+    <condition>likenew</condition>
+    <notes>German edition by Winning Moves, with the sign of Spiel des Jahres Nominee, complete
+669 gr.
+shipping by letter with a cardboard box around
+If your currency is Euro, I really prefer bank transfer</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Jul 2014 19:26:11 +0000</listdate>
+    <saledate>Sat, 13 Sep 2014 05:05:12 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games edition. Brand new and sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Aug 2014 20:43:50 +0000</listdate>
+    <saledate>Mon, 15 Sep 2014 14:20:40 +0000</saledate>
+    <price currency='EUR'>39.99</price>
+    <condition>new</condition>
+    <notes>shipping rates:
+Germany = 5 Euro
+worldwide = 9 Euro
+game weight: 500 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Aug 2014 13:07:30 +0000</listdate>
+    <saledate>Sun, 31 Aug 2014 15:26:52 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/177839/item/3385458#3385458]Item for Geeklist _T_E_M_P_T_A_G_quot;August Auction - Dead of Winter, Archon, Glen More...and more!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Oct 2014 20:59:04 +0000</listdate>
+    <saledate>Thu, 16 Oct 2014 16:15:23 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played twice, minor shelfwear on exterior.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Nov 2014 03:08:49 +0000</listdate>
+    <saledate>Sat, 08 Nov 2014 12:41:07 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played a couple of times. Bx and components in excellent condition. Will ship USPS.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Nov 2014 15:02:51 +0000</listdate>
+    <saledate>Sun, 14 Dec 2014 22:16:20 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Dec 2014 20:10:42 +0000</listdate>
+    <saledate>Mon, 29 Dec 2014 10:45:40 +0000</saledate>
+    <price currency='USD'>45.99</price>
+    <condition>verygood</condition>
+    <notes>Very good inside and out.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Dec 2014 12:50:07 +0000</listdate>
+    <saledate>Mon, 05 Jan 2015 02:57:01 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>good</condition>
+    <notes>German
+Shipping Germany  4 Euro
+Shipping World          7 Euro
+PayPal plus max. 1 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Oct 2014 20:11:56 +0000</listdate>
+    <saledate>Wed, 04 Feb 2015 06:44:48 +0000</saledate>
+    <price currency='EUR'>33.99</price>
+    <condition>verygood</condition>
+    <notes>shipping rates:
+Germany = 5 Euro
+worldwide = 9 Euro
+game weight: 500 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Jan 2015 04:54:47 +0000</listdate>
+    <saledate>Thu, 12 Feb 2015 13:52:24 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Feb 2015 02:22:19 +0000</listdate>
+    <saledate>Sun, 15 Feb 2015 05:57:26 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played. Buyer pays shipping from 53189. USPS with insurance and tracking.
+Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Feb 2015 07:04:49 +0000</listdate>
+    <saledate>Fri, 27 Feb 2015 22:03:28 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>verygood</condition>
+    <notes>Original German first edition. Components are language independent.
+Box shows little wear. Inside everything there in great condition. Game has hardly been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Feb 2015 20:58:32 +0000</listdate>
+    <saledate>Wed, 04 Mar 2015 10:02:02 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>good</condition>
+    <notes>German
+Shipping Germany  4 Euro
+Shipping World          7 Euro
+PayPal plus max. 2 Euro
+SEPA transfer via IBAN/BIC usually free in EURO countries</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Mar 2015 02:44:01 +0000</listdate>
+    <saledate>Thu, 19 Mar 2015 03:57:40 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>For Mike Fogus only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Mar 2015 02:01:23 +0000</listdate>
+    <saledate>Thu, 26 Mar 2015 20:13:22 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Apr 2015 14:55:51 +0000</listdate>
+    <saledate>Fri, 24 Apr 2015 17:08:30 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Very little shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Apr 2015 11:13:58 +0000</listdate>
+    <saledate>Sun, 03 May 2015 18:55:08 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Very little shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Apr 2015 14:50:17 +0000</listdate>
+    <saledate>Thu, 14 May 2015 17:14:38 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>English rulebook, complete. Sell to UK only.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Apr 2015 20:57:54 +0000</listdate>
+    <saledate>Wed, 20 May 2015 21:52:16 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Game is unpunched and complete, dutch edition but language neutral except for the rulebook. 
+Item is under 2 kg, Paypal payment will require tracked shipping.  Within Europe IBAN payment by bank transfer is preferred, shipping can also be cheaper then. Willing to work with buyer for the best shipping solution</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Apr 2015 17:14:05 +0000</listdate>
+    <saledate>Thu, 04 Jun 2015 10:43:50 +0000</saledate>
+    <price currency='EUR'>33.99</price>
+    <condition>verygood</condition>
+    <notes>shipping rates:
+Germany = 5 Euro
+worldwide = 9 Euro
+game weight: 620 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 May 2015 02:15:25 +0000</listdate>
+    <saledate>Fri, 19 Jun 2015 18:32:59 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Graded _T_E_M_P_T_A_G_quot;good_T_E_M_P_T_A_G_quot; only because of some scuffing to box edges.  Board and components all VG+.
+Shipping to ME, NH, VT, MA, RI, CT, NY, PA, NJ, DE, and MD is only $6.  Rest of US goes up from there with a max at $11.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 May 2015 19:34:11 +0000</listdate>
+    <saledate>Fri, 17 Jul 2015 04:48:30 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This game has been played a few times. The components are in great shape and the box has minimal corner wear.
+I will be shipping USPS Priority Mail which is $12.65 in addition to the sale price.
+If you would like, I would also ship for $6 using USPS Priority Mail using a hand-made-from-larger-amazon-box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Jul 2015 13:54:56 +0000</listdate>
+    <saledate>Mon, 20 Jul 2015 02:42:23 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Will ship to US/Canada.  Buyer pays shipping.  Shipping will commence once payment clears.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Jul 2015 21:39:30 +0000</listdate>
+    <saledate>Fri, 24 Jul 2015 02:17:31 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193700/item/4007711#4007711]Item for Geeklist _T_E_M_P_T_A_G_quot;Gen Con pickup Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Apr 2015 18:31:44 +0000</listdate>
+    <saledate>Wed, 09 Sep 2015 15:44:11 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>good</condition>
+    <notes>German
+Shipping Germany  4 Euro
+Shipping World      7 Euro
+PayPal plus max. 2 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Apr 2015 18:31:44 +0000</listdate>
+    <saledate>Tue, 15 Sep 2015 11:13:46 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>good</condition>
+    <notes>German
+Shipping Germany  4 Euro
+Shipping World      7 Euro
+PayPal plus max. 2 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Aug 2015 22:11:01 +0000</listdate>
+    <saledate>Wed, 16 Sep 2015 03:28:45 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>acceptable</condition>
+    <notes>Dutch version.
+Slight shelf wear.
+Game is in good/very good condition, but it is missing 3 yellow huts. You could use any 3 yellow cubes/pawns/meeples as replacements.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Sep 2015 01:35:17 +0000</listdate>
+    <saledate>Sun, 20 Sep 2015 02:17:40 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>For autumnweave from the _T_E_M_P_T_A_G_#039;So Many Games Have to Go_T_E_M_P_T_A_G_#039; Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Oct 2014 08:24:17 +0000</listdate>
+    <saledate>Sun, 20 Sep 2015 05:39:38 +0000</saledate>
+    <price currency='GBP'>23.5</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Sep 2015 10:47:23 +0000</listdate>
+    <saledate>Mon, 21 Sep 2015 17:10:27 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Opened but unplayed.
+Non EU - Paypal accepted
+EU - SEPA (bank transfer)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Aug 2015 19:02:37 +0000</listdate>
+    <saledate>Mon, 26 Oct 2015 22:04:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Leo Colovini_T_E_M_P_T_A_G_#039;s CLANS is an under appreciated deduction and bluffing game. Your goal is to make your hidden tribe win without tipping your hand to your mates by whatever means. Won GAMES Magazine Best Abstract Strategy Game 2004 and was a Spiel Des Jahres finalist in 2003. I ended up with 2 copies after a friend sold his collection when he moved. Great game which plays in 30 minutes which is very refreshing! Buyer pays shipping but will ship cheapest available method.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jun 2015 16:02:15 +0000</listdate>
+    <saledate>Sat, 14 Nov 2015 10:34:54 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Shrink removed, but the game is unplayed. Box in perfect condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 May 2015 10:32:26 +0000</listdate>
+    <saledate>Sat, 28 Nov 2015 11:41:24 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Nov 2015 23:11:03 +0000</listdate>
+    <saledate>Tue, 01 Dec 2015 03:07:19 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/199824/item/4286848#4286848]Item for Geeklist _T_E_M_P_T_A_G_quot;7 Day Massive Game Auction: Everything MUST Go!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Nov 2015 12:11:39 +0000</listdate>
+    <saledate>Tue, 01 Dec 2015 19:43:46 +0000</saledate>
+    <price currency='GBP'>24.99</price>
+    <condition>likenew</condition>
+    <notes>Game has been lovingly looked after as part of my game collection in smoke and pet free home and is in really great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Dec 2015 02:03:44 +0000</listdate>
+    <saledate>Thu, 10 Dec 2015 13:22:49 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/200147/item/4298723#4298723]Item for Geeklist _T_E_M_P_T_A_G_quot;Making Space...Essen Titles are crowding my shelves!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. Reserved for Jeffrey Day.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Feb 2015 01:51:29 +0000</listdate>
+    <saledate>Mon, 04 Jan 2016 01:55:35 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Shrinkwrap 
+Paypal or US postal Money Order</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Feb 2016 02:56:20 +0000</listdate>
+    <saledate>Wed, 10 Feb 2016 13:48:34 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Reserved for enemyoftheworld</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Dec 2015 16:07:08 +0000</listdate>
+    <saledate>Mon, 22 Feb 2016 10:50:16 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>likenew</condition>
+    <notes>The game:
+Winning Moves (c) 2002.
+GERMAN EDITION!
+All game materials are still in mint condition.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within Germany I prefer the standard-bank-tranfer (IBAN). It is fast and causes no fees.
+Outside Germany Paypal and bank-transfer are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jan 2016 01:46:22 +0000</listdate>
+    <saledate>Sun, 06 Mar 2016 20:01:17 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink.
+Shipping will be $13.45 for priority USPS shipping.  
+No Alaska or Hawaii shipping.  No international shipping.  Shipping occurs on Wednesdays and Fridays.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Feb 2016 13:39:32 +0000</listdate>
+    <saledate>Wed, 09 Mar 2016 15:51:26 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Paypal: +2€ for fees</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Mar 2016 03:34:38 +0000</listdate>
+    <saledate>Tue, 15 Mar 2016 12:14:56 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/206268/item/4512084#4512084]Item for Geeklist _T_E_M_P_T_A_G_quot;Retrograding my game collection_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Dec 2015 18:26:17 +0000</listdate>
+    <saledate>Fri, 25 Mar 2016 17:12:52 +0000</saledate>
+    <price currency='EUR'>25.19</price>
+    <condition>new</condition>
+    <notes>Game: Clans
+Languages: IT, UK, FR
+Condition: New
+Weight range: 500 - 1000g 
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express]
+o 500-999g: 6,99€[Economy], 18,99€[Express]
+o 1000-1499g: 9,99€[Economy], 21,99€[Express]
+o 1500-2000g: 11,99€[Economy], 24,99€[Express]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express]
+o 500-999g: 6,99€[Economy], 12,99€[Express]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 34,99€[Express]
+o 500-999g: 6,99€[Economy], 36,99€[Express]
+o 1000-1499g: 9,99€[Economy], 39,99€[Express]
+o 1500-2000g: 11,99€[Economy], 42,99€[Express]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 17,99€[Standard]
+o 500-999g: 17,99€[Standard]
+o 1000-1499g: 17,99€[Standard]
+o 1500-2000g: 17,99€[Standard]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy]
+o 500-999g: 8,99€[Economy]
+o 1000-1499g: 10,99€[Economy]
+o 1500-2000g: 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Standard]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[CHINA, REPUBLIC OF (TAIWAN)]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[#]/8Gxu2rinJCrQnAT59ycIb3Cbi6iaffq8zIsO4DGSDE=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Mar 2016 20:19:16 +0000</listdate>
+    <saledate>Wed, 30 Mar 2016 05:29:28 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>The game has been played a couple of times, but everything is in very good condition.
+Please also see my other offers for a combined shipping.
+We are an animal free non-smoking household.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Mar 2016 09:55:09 +0000</listdate>
+    <saledate>Mon, 04 Apr 2016 00:46:42 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>This copy of Clans was modified for my blue-green colorblind spouse.  The blue components have been well-painted in a dark, reddish brown color.
+https://boardgamegeek.com/image/211600/clans</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Mar 2016 21:14:45 +0000</listdate>
+    <saledate>Sat, 09 Apr 2016 16:15:12 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>likenew</condition>
+    <notes>Shrink removed, but game is unplayed.
+Shipping weight is approximately three pounds (1.4 kg).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Feb 2016 21:39:58 +0000</listdate>
+    <saledate>Tue, 12 Apr 2016 21:16:42 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>verygood</condition>
+    <notes>Played only a few times, in excellent condition. Has some very minor shelf wear on box corners.
+Ships from 48075 via USPS.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Apr 2016 08:12:37 +0000</listdate>
+    <saledate>Sun, 17 Apr 2016 16:57:52 +0000</saledate>
+    <price currency='EUR'>25.19</price>
+    <condition>new</condition>
+    <notes>Game: Clans
+Languages: IT, UK, FR
+Condition: New
+Weight range: 500 - 1000g 
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express]
+o 500-999g: 6,99€[Economy], 18,99€[Express]
+o 1000-1499g: 9,99€[Economy], 21,99€[Express]
+o 1500-2000g: 11,99€[Economy], 24,99€[Express]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express]
+o 500-999g: 6,99€[Economy], 12,99€[Express]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 34,99€[Express]
+o 500-999g: 6,99€[Economy], 36,99€[Express]
+o 1000-1499g: 9,99€[Economy], 39,99€[Express]
+o 1500-2000g: 11,99€[Economy], 42,99€[Express]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 17,99€[Standard]
+o 500-999g: 17,99€[Standard]
+o 1000-1499g: 17,99€[Standard]
+o 1500-2000g: 17,99€[Standard]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 6,99€[Economy]
+o 500-999g: 4,99€[Corriere], 8,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 10,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Standard]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[#]/8Gxu2rinJCrQnAT59ycIb3Cbi6iaffq8zIsO4DGSDE=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 May 2016 16:16:14 +0000</listdate>
+    <saledate>Sat, 28 May 2016 20:57:32 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Payment can also be done in euro (15 euro), just let me know if you want to pay in euros. 
+This is the Dutch version, but I have included an English Rulebook in the box. 
+Please send a message if you are interested so I can make an estimate of the shipping costs. Payment can be done by bank transfer or Paypal. If you have any questions please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 May 2016 18:32:48 +0000</listdate>
+    <saledate>Mon, 27 Jun 2016 17:42:40 +0000</saledate>
+    <price currency='USD'>32.5</price>
+    <condition>likenew</condition>
+    <notes>Everything bagged and in mint condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jul 2016 00:58:31 +0000</listdate>
+    <saledate>Mon, 04 Jul 2016 03:14:13 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>BGG user dtmm, DTC 2016</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jul 2016 15:35:59 +0000</listdate>
+    <saledate>Tue, 19 Jul 2016 01:42:50 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 May 2016 16:40:24 +0000</listdate>
+    <saledate>Thu, 18 Aug 2016 20:46:57 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played. Same condition as shrink wrap without the shrink wrap! Buyer pays shipping ($13.00 UPS)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Aug 2016 15:39:05 +0000</listdate>
+    <saledate>Fri, 19 Aug 2016 03:40:52 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/209591/item/4669646#4669646]Item for Geeklist _T_E_M_P_T_A_G_quot;Post-vacation auction - OOPs, Blue Moon City, King of Tokyo, BSG, Clans, Starship Catan, FREE games, and more - ends Aug 17_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 May 2016 07:38:18 +0000</listdate>
+    <saledate>Sat, 20 Aug 2016 13:08:15 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>likenew</condition>
+    <notes>The item is in very good condition. Maybe the game instructions show some wear.
+Payment is done via Paypal, bank transfer or on pickup.
+Shipping within Germany is 5,70 with Hermes. Please ask for international quotes.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Jun 2016 23:54:21 +0000</listdate>
+    <saledate>Sat, 27 Aug 2016 03:57:56 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition.  Played once or twice.  Components are like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Sep 2016 02:51:27 +0000</listdate>
+    <saledate>Sat, 03 Sep 2016 02:53:39 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>verygood</condition>
+    <notes>Reserved for feldfan2014.
+Excellent condition.  Played once or twice.  Components are like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jun 2016 14:43:54 +0000</listdate>
+    <saledate>Tue, 13 Sep 2016 23:01:58 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>Postage and packing £5 to UK (2nd class, signed for).  Contact me for shipping costs elsewhere, thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Sep 2016 23:01:28 +0000</listdate>
+    <saledate>Mon, 26 Sep 2016 23:28:46 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>THIS IS FOR JSTRONG ONLY...</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Oct 2016 01:16:14 +0000</listdate>
+    <saledate>Thu, 06 Oct 2016 01:23:35 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Geeklist auction for wolfchaos</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Aug 2016 18:19:39 +0000</listdate>
+    <saledate>Sun, 09 Oct 2016 21:25:29 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Played once
+Shipping USPS priority.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2016 08:27:54 +0000</listdate>
+    <saledate>Fri, 14 Oct 2016 09:57:19 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/215074/item/4931152#4931152]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION: Octoberly purge - time to SCARE up some sales!  INTL Ship [Navegador, Machi Koro+exp, Carc: The City, Pirate_T_E_M_P_T_A_G_#039;s Cove, Ticket to Ride: Europe, Trans Europa, Dogfight and More!!]_T_E_M_P_T_A_G_quot; [/geekurl]
+Reserved for hippiephysicschick. Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+***If you have multiple items, be sure to ADD THEM ALL TO THE CART before checking out to simplify the process!***</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Sep 2016 18:31:32 +0000</listdate>
+    <saledate>Sat, 15 Oct 2016 01:41:44 +0000</saledate>
+    <price currency='EUR'>17.5</price>
+    <condition>verygood</condition>
+    <notes>This is the Dutch version, but I have included an English Rulebook in the box. 
+Please send a message if you are interested so I can make an estimate of the shipping costs. Payment can be done by bank transfer or Paypal. If you have any questions please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Oct 2016 23:22:22 +0000</listdate>
+    <saledate>Tue, 18 Oct 2016 10:38:59 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>All components in great shape.
+Buyer pays for shipping.
+Local deliver in Calgary can probably be arranged.
+10% discount when buying multiple games from me
+I_T_E_M_P_T_A_G_#039;ll accept Interac e-transfers as well as paypal.
+Thanks for the interest!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Oct 2016 06:02:28 +0000</listdate>
+    <saledate>Wed, 02 Nov 2016 10:14:07 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Great shape.  Please message me with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Oct 2016 18:37:52 +0000</listdate>
+    <saledate>Thu, 17 Nov 2016 16:55:16 +0000</saledate>
+    <price currency='EUR'>17.5</price>
+    <condition>verygood</condition>
+    <notes>This is the Dutch version, but I have included an English Rulebook in the box. 
+Please send a message if you are interested so I can make an estimate of the shipping costs. Payment can be done by bank transfer or Paypal. If you have any questions please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Nov 2016 06:24:38 +0000</listdate>
+    <saledate>Thu, 01 Dec 2016 09:15:04 +0000</saledate>
+    <price currency='EUR'>17.5</price>
+    <condition>verygood</condition>
+    <notes>This is the Dutch version, but I have included an English Rulebook in the box. 
+Please send a message if you are interested so I can make an estimate of the shipping costs. Payment can be done by bank transfer or Paypal. If you have any questions please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Sep 2016 18:55:27 +0000</listdate>
+    <saledate>Sun, 04 Dec 2016 19:37:27 +0000</saledate>
+    <price currency='CAD'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Nov 2016 12:32:44 +0000</listdate>
+    <saledate>Mon, 19 Dec 2016 10:35:33 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>In perfect condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Dec 2016 17:58:05 +0000</listdate>
+    <saledate>Sun, 01 Jan 2017 19:40:31 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>punched but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Dec 2016 16:44:52 +0000</listdate>
+    <saledate>Sun, 01 Jan 2017 19:43:51 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes>U.K. Postage £2.85</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jan 2017 14:11:53 +0000</listdate>
+    <saledate>Wed, 11 Jan 2017 02:07:17 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes>Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,95 by PostNL per shipment for delivery at your doorstep.
+Shipment to Belgium or Luxemburg by Kiala is € 7,50.
+Shipment to the rest of Western EU is €10,- by DHL up to 2kg, €18,- up to 5kg.
+Shipment to the rest of the World is €24,- by DHL up to 2 kg.
+Payment is possible by bank transfer or Paypal (costs +5%)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jan 2017 17:28:01 +0000</listdate>
+    <saledate>Mon, 16 Jan 2017 17:39:51 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This is for the auction: [geekurl=/geeklist/218095/item/5096119#5096119]_T_E_M_P_T_A_G_#039;Crate Full of Games[/geekurl]
+Please do not purchase if you aren_T_E_M_P_T_A_G_#039;t Benjaminviking.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Mar 2016 10:31:56 +0000</listdate>
+    <saledate>Fri, 20 Jan 2017 08:48:01 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>I am technorat on BGG/bordspelmania.eu/MagicCardMarket and technoratic on eBay (rating 106+)
+Like new, played only once.  Includes english rules and game has no language dependency.
+Payment:
+Bank transfer preferred. Paypal (buyer pays Paypal Fees*).
+Shipment:
+Item Weight: 680g (900g with packaging)
+Buyer pays actual shipping cost and I can group items. I will ship by Dutch post (http://www.postnl.nl/en) but am open to any other options.
+Please contact me for any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Dec 2016 02:12:58 +0000</listdate>
+    <saledate>Wed, 25 Jan 2017 14:05:37 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>good</condition>
+    <notes>Box has a small puncture on the bottom corner. Otherwise everything is excellent</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Feb 2017 13:30:45 +0000</listdate>
+    <saledate>Thu, 02 Feb 2017 16:30:28 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>verygood</condition>
+    <notes>Box have minimal wear and tear. The game material are in very good condition.
+I will ship from Germany and I am willing to ship anywhere.
+Please ask me, for the shipping costs for your land.
+I will charge shipping at cost. Everything will be well packed.
+You can pay me through Paypal or bank transfer to my German bank account but any fees charged must be covered by you.
+If you buy more games, then I make all in one package!
+We have a large private collection of games. Due to space and time constraints we must rid ourselves of some of the games. Therefore, these are private sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Nov 2016 16:36:55 +0000</listdate>
+    <saledate>Thu, 09 Feb 2017 12:39:13 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>good</condition>
+    <notes>Library copy.laminated but in verygood condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Feb 2017 00:21:34 +0000</listdate>
+    <saledate>Tue, 28 Feb 2017 13:30:11 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>With a baby on the way, I_T_E_M_P_T_A_G_#039;m clearing out a bunch of games. I have no seller feedback, but I_T_E_M_P_T_A_G_#039;ve been a BGG member since 2004 and have bought a handful of games. I am shipping from 27707 and am happy to combine items for reduced shipping or meet in person. I_T_E_M_P_T_A_G_#039;m happy to entertain any bulk offers, and I_T_E_M_P_T_A_G_#039;m happy to send photos or connect over the phone to establish credibility if the lack of feedback is worrisome. 
+Buyer pays shipping costs for USPS Priority Mail Flat Rate. You can check out my marketplace here: https://boardgamegeek.com/geekmarket/user/jammasterjake 
+Item details for this specific item below. 
+Played maybe once. Light box wear. Components in very good shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Mar 2017 01:15:26 +0000</listdate>
+    <saledate>Wed, 01 Mar 2017 17:39:46 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This item was generated only for user [user=legalbeagle14].</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Feb 2017 15:31:33 +0000</listdate>
+    <saledate>Wed, 15 Mar 2017 16:45:52 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>The Bonus Coins are replaced by yellow plastic coins.
+Like you can see in the Picture.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Mar 2017 12:45:07 +0000</listdate>
+    <saledate>Fri, 21 Apr 2017 18:44:28 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>Game is complete and in excellent condition. Box is in good condition.
+Shipping info:
+Postage will be by Royal Mail, p_T_E_M_P_T_A_G_amp;p will be £3.00.
+If you would prefer a different service, please gm me before purchase.
+If you’re based in London, an in person handover is probably possible, talk to me.
+For international destinations, please geekmail me with your delivery address for a quote before purchase.
+Any questions, please do ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 May 2017 11:23:30 +0000</listdate>
+    <saledate>Wed, 24 May 2017 23:04:15 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Box have minimal wear and tear. The game material are in very good condition.
+I will ship from Germany and I am willing to ship anywhere.
+Please ask me, for the shipping costs for your land.
+I will charge shipping at cost. Everything will be well packed.
+You can pay me through Paypal or bank transfer to my German bank account but any fees charged must be covered by you.
+If you buy more games, then I make all in one package!
+We have a large private collection of games. Due to space and time constraints we must rid ourselves of some of the games. Therefore, these are private sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 May 2017 18:24:32 +0000</listdate>
+    <saledate>Sun, 28 May 2017 00:31:03 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Original edition in excellent condition. Played one time. Box and pieces are pristine. Kept with care on bookshelves in a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 May 2017 11:57:20 +0000</listdate>
+    <saledate>Fri, 02 Jun 2017 22:59:54 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>Shipping costs:
+Netherlands: € 7
+Belgium/Germany/UK: € 10
+Some EU-countries: € 12
+Other: € 18 (some: € 24)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Apr 2017 15:52:17 +0000</listdate>
+    <saledate>Sun, 23 Jul 2017 23:18:11 +0000</saledate>
+    <price currency='EUR'>29.9</price>
+    <condition>new</condition>
+    <notes>Language: italian
+Publisher: Venice Connection
+Game Condition: Mint
+Box Condition: Mint
+Availability: Now Available
+ID Gis: 3086 (for reference)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Jul 2017 18:02:54 +0000</listdate>
+    <saledate>Wed, 26 Jul 2017 15:01:01 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>All components present and in very good condition. I_T_E_M_P_T_A_G_#039;m clearing my shelf for games that have not been played for many years and should find a better home. (Buyer pays shipping using method of choice or local pickup from 92122.)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Mar 2017 00:45:34 +0000</listdate>
+    <saledate>Tue, 05 Sep 2017 02:57:57 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Almost Like New condition, only a few worn corners on the box</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jul 2016 21:58:15 +0000</listdate>
+    <saledate>Wed, 13 Sep 2017 12:20:25 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>good</condition>
+    <notes>German
+Shipping Germany  4 Euro
+Shipping World      7 Euro
+PayPal plus max. 2 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Sep 2017 04:37:42 +0000</listdate>
+    <saledate>Fri, 22 Sep 2017 05:29:31 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner Mulder69.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 May 2017 08:00:35 +0000</listdate>
+    <saledate>Fri, 06 Oct 2017 07:45:51 +0000</saledate>
+    <price currency='EUR'>9.95</price>
+    <condition>verygood</condition>
+    <notes>Clans in very good condition, never actually played this one.
+Can be shipped within the Netherlands by Kiala (€3,95) or PostNL (€6,95) both are not insured and all risks lies with the buyer both Kiala and PostNL have insured services at extra cost. Money by bank transfer upfront.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Sep 2017 17:24:47 +0000</listdate>
+    <saledate>Sun, 08 Oct 2017 16:00:47 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Oct 2017 13:28:02 +0000</listdate>
+    <saledate>Sat, 14 Oct 2017 13:53:47 +0000</saledate>
+    <price currency='EUR'>24.9</price>
+    <condition>verygood</condition>
+    <notes>Language: italian
+Publisher: Venice Connection
+Game Condition: Perfect
+Box Condition: Minor Wear
+Availability: Now Available
+ID Gis: 22159 (for reference)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Apr 2017 15:02:15 +0000</listdate>
+    <saledate>Tue, 24 Oct 2017 22:11:33 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Nov 2017 01:12:48 +0000</listdate>
+    <saledate>Sat, 11 Nov 2017 04:42:32 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>verygood</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! 
+CLANS: $44.95
+Rio Grande Games [RIO 207-b]
+b - Open, complete, and in very good+ condition. See 2 pictures.
+SHIPPING
+Continental U.S. - $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jul 2016 21:58:15 +0000</listdate>
+    <saledate>Sun, 19 Nov 2017 08:16:35 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>good</condition>
+    <notes>German
+Shipping Germany  4 Euro
+Shipping World      7 Euro
+PayPal plus max. 2 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Nov 2017 14:08:14 +0000</listdate>
+    <saledate>Tue, 12 Dec 2017 09:02:12 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>Contents excellent (played once). 
+Box has taken a wee ding (see picture)  otherwise it would be _T_E_M_P_T_A_G_quot;like new_T_E_M_P_T_A_G_quot;.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Apr 2017 01:46:24 +0000</listdate>
+    <saledate>Thu, 04 Jan 2018 01:14:54 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Jan 2018 21:50:27 +0000</listdate>
+    <saledate>Sat, 13 Jan 2018 19:59:10 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>verygood</condition>
+    <notes>Got played only once.
+Non EU - Paypal accepted
+EU - SEPA (bank transfer)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Jan 2018 21:19:07 +0000</listdate>
+    <saledate>Sun, 21 Jan 2018 12:04:52 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jan 2018 16:25:21 +0000</listdate>
+    <saledate>Wed, 24 Jan 2018 18:31:32 +0000</saledate>
+    <price currency='USD'>133.4</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/236084/item/5887722#5887722]Item for Geeklist _T_E_M_P_T_A_G_quot;Build your own discount sale! Time to clear some space. Ends Jan 28 random time._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for recall237</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Jun 2015 05:23:13 +0000</listdate>
+    <saledate>Sat, 27 Jan 2018 23:42:15 +0000</saledate>
+    <price currency='EUR'>33.99</price>
+    <condition>verygood</condition>
+    <notes>shipping rates:
+Germany = 5 Euro
+worldwide = 9 Euro
+game weight: 620 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Feb 2018 16:20:06 +0000</listdate>
+    <saledate>Fri, 02 Mar 2018 20:20:58 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>Payment: Bank transfer</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Jun 2017 18:08:08 +0000</listdate>
+    <saledate>Fri, 09 Mar 2018 11:58:07 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>likenew</condition>
+    <notes>played twice</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Mar 2018 22:08:26 +0000</listdate>
+    <saledate>Sun, 18 Mar 2018 18:32:18 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Mar 2018 01:11:50 +0000</listdate>
+    <saledate>Sat, 31 Mar 2018 16:36:33 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239339/item/6044013#6044013]Item for Geeklist _T_E_M_P_T_A_G_quot;US Only Auction: 18xx, War-games, Euro games and more!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Feb 2018 06:40:18 +0000</listdate>
+    <saledate>Fri, 06 Apr 2018 16:42:05 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>There is a little shelfwear on the box, but everything else is in excellent condition.  
+This will fit in a Regional Rate A box, so shipping will be at most $11 for a US destination, but will definitely be cheaper the closer you live to me in the NW part of the country.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Apr 2018 18:13:11 +0000</listdate>
+    <saledate>Thu, 12 Apr 2018 21:05:00 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Dec 2014 13:56:43 +0000</listdate>
+    <saledate>Sun, 15 Apr 2018 21:50:42 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>New unpunched game in original shrink wrap, german
+Shipping_T_E_M_P_T_A_G_amp;Handling – Priority Mail:
+Switzerland: CHF 10.-- 
+Europe: USD 23.--
+Others: USD 36.--
+We will always combine multiple items to reduce your shipping costs where possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Mar 2018 14:30:03 +0000</listdate>
+    <saledate>Mon, 21 May 2018 22:47:50 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>good</condition>
+    <notes>German
+Shipping Germany  4 Euro
+Shipping World      7 Euro
+PayPal plus max. 2 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Oct 2017 02:44:04 +0000</listdate>
+    <saledate>Wed, 06 Jun 2018 00:41:06 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Shelf wear around edges.
+I only have the English rules -- I must have recycled the Italian and French rules. 
+Please ask for a shipping quote.
+Price is USD.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Apr 2018 16:47:01 +0000</listdate>
+    <saledate>Thu, 07 Jun 2018 05:54:04 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>German edition. Like new, played one time.
+Contact me for the exact shipping costs:
+Belgium or The Netherlands: €4-7 with BPost/PostNL/DPD
+other European countries: €9 - €13 (depending on the destination)
+worldwide: €19
+The shipping quotes above are shipping without tracking and no insurance. Contact me for other shipping options or combined shipping.
+Payment: European bank transfer or Paypal (buyer pays fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jun 2018 12:38:21 +0000</listdate>
+    <saledate>Mon, 11 Jun 2018 14:00:57 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Shipping to lower 48 only $6
+Pet and smoke free home</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 May 2018 15:33:22 +0000</listdate>
+    <saledate>Sat, 16 Jun 2018 03:26:11 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jun 2018 20:40:02 +0000</listdate>
+    <saledate>Mon, 18 Jun 2018 21:02:08 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/242086/item/6194627#6194627]Item for Geeklist _T_E_M_P_T_A_G_quot;Shelf Cleaning Auction - some OOP/hard to find titles_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jul 2018 11:38:48 +0000</listdate>
+    <saledate>Wed, 04 Jul 2018 21:42:31 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>new</condition>
+    <notes>LE18-891</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 May 2018 15:33:22 +0000</listdate>
+    <saledate>Tue, 07 Aug 2018 05:09:33 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Aug 2018 13:04:52 +0000</listdate>
+    <saledate>Tue, 14 Aug 2018 13:53:26 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Box have minimal wear and tear. The game material are in very good condition.
+I will ship from Germany and I am willing to ship anywhere.
+Please ask me, for the shipping costs for your land.
+I will charge shipping at cost. Everything will be well packed.
+You can pay me through Paypal or bank transfer to my German bank account but any fees charged must be covered by you.
+If you buy more games, then I make all in one package!
+We have a large private collection of games. Due to space and time constraints we must rid ourselves of some of the games. Therefore, these are private sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jun 2018 16:25:51 +0000</listdate>
+    <saledate>Tue, 28 Aug 2018 05:21:36 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>verygood</condition>
+    <notes>German edition
+Shipping is 4,50 EUR for Germany.
+Shipping is 9,00 EUR for European Union.
+Shipping is 16,00 EUR for rest of the world.
+Please ask for insured shipping.
+Zahlung auch per Überweisung möglich.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Aug 2018 14:08:56 +0000</listdate>
+    <saledate>Tue, 18 Sep 2018 17:13:19 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Oct 2018 17:58:17 +0000</listdate>
+    <saledate>Sat, 27 Oct 2018 07:28:28 +0000</saledate>
+    <price currency='USD'>23.99</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Oct 2018 17:28:54 +0000</listdate>
+    <saledate>Sun, 28 Oct 2018 21:35:17 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>Sold to CaptainYossarian</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Nov 2018 05:42:03 +0000</listdate>
+    <saledate>Fri, 23 Nov 2018 01:09:29 +0000</saledate>
+    <price currency='USD'>29.98</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Nov 2018 20:47:43 +0000</listdate>
+    <saledate>Fri, 30 Nov 2018 16:10:42 +0000</saledate>
+    <price currency='EUR'>13.9</price>
+    <condition>verygood</condition>
+    <notes>Played twice, box with minor shelf wear.
+700 g</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Sep 2018 19:07:06 +0000</listdate>
+    <saledate>Fri, 07 Dec 2018 14:31:39 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>verygood</condition>
+    <notes>Could be send as a letter (cheaper,faster)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Oct 2018 12:46:40 +0000</listdate>
+    <saledate>Sat, 08 Dec 2018 10:37:58 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Oct 2018 13:10:45 +0000</listdate>
+    <saledate>Sun, 24 Feb 2019 15:08:33 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Aug 2018 15:32:49 +0000</listdate>
+    <saledate>Sun, 24 Feb 2019 17:39:45 +0000</saledate>
+    <price currency='GBP'>14</price>
+    <condition>likenew</condition>
+    <notes>English rules included</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Feb 2019 19:51:16 +0000</listdate>
+    <saledate>Mon, 04 Mar 2019 22:43:28 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

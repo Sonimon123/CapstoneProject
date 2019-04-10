@@ -1,0 +1,667 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="101">
+   <yearpublished>1996</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>8</age>
+       <name  sortindex="1">Brickyard</name>
+       <name primary="true" sortindex="1">Detroit-Cleveland Grand Prix</name>
+         
+   <description>This game is part of a family which includes Top Race, Daytona 500, and Formel 1.  Players are dealt a hand of cards which have movement numbers for one or more of the cars.  When a card is played, the cars are advanced the number of spaces indicated in order from top to bottom.  However, if the track is blocked, then that movement is lost, so the idea is to use the cards that help your opponents (which you'll likely have to play eventually) only when they won't be able to take advantage of the movement._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/b-HTpuSVAlslXl14Iy90T76EITM=/fit-in/200x150/pic70647.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/p3voXKcxiUeTE5BKXpAam3RVpuk=/0x0/pic70647.jpg</image>
+      
+                   <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+               <boardgamefamily objectid="9862">Auto Racing: Wolfgang Kramer card system</boardgamefamily>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+               <boardgamefamily objectid="19286">Cities: Cleveland (Ohio, USA)</boardgamefamily>
+               <boardgamefamily objectid="19133">Cities: Detroit (Michigan, USA)</boardgamefamily>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgameversion objectid="25998">First edition</boardgameversion>
+                      <boardgamedesigner objectid="7">Wolfgang Kramer</boardgamedesigner>
+               <boardgameartist objectid="23114">Ramon Mascarenas</boardgameartist>
+               <boardgamepublisher objectid="10">Mayfair Games</boardgamepublisher>
+               <boardgamepodcastepisode objectid="86554">PGGK 038: Detroit-Cleveland Grand Prix</boardgamepodcastepisode>
+               <boardgamecategory objectid="1031">Racing</boardgamecategory>
+               <boardgameartist objectid="51992">Seth Schwartz</boardgameartist>
+               <boardgamefamily objectid="6206">Sports: Auto Racing</boardgamefamily>
+                      <boardgameimplementation objectid="5389" inbound="true">Niki Lauda_T_E_M_P_T_A_G_#039;s Formel 1</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="27">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="17" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="12" />
+     <result value="Not Recommended" numvotes="10" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="11" />
+     <result value="Recommended" numvotes="9" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="9" />
+     <result value="Recommended" numvotes="12" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="15" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="17" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="15" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="11">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="11" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="7" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1063</usersrated>
+     <average>6.78598</average>
+     <bayesaverage>6.10375</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1813" bayesaverage="6.10375" />
+            
+       
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="452" bayesaverage="6.24269" />
+            
+           </ranks>
+     
+     <stddev>1.17922</stddev>
+     <median>0</median>
+     <owned>1306</owned>
+     <trading>99</trading>
+     <wanting>31</wanting>
+     <wishing>74</wishing>
+     <numcomments>466</numcomments>
+     <numweights>109</numweights>
+     <averageweight>1.6972</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 06 May 2003 15:58:21 +0000</listdate>
+    <saledate>Tue, 06 May 2003 23:17:09 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>terrific condition, played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Jan 2004 10:13:28 +0000</listdate>
+    <saledate>Wed, 18 Feb 2004 15:22:51 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Feb 2005 22:14:33 +0000</listdate>
+    <saledate>Mon, 30 Apr 2007 03:15:00 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Opened buyt unplayed copy of this grand prix racing game.  Buyer to pay shipping based on zip code location.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Nov 2005 16:25:07 +0000</listdate>
+    <saledate>Mon, 06 Feb 2006 04:55:36 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Mayfair Games (MFG0468) </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jan 2006 05:18:56 +0000</listdate>
+    <saledate>Tue, 23 May 2006 15:41:37 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Great shape. Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 May 2006 14:50:54 +0000</listdate>
+    <saledate>Sat, 04 Nov 2006 03:59:26 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Mayfair Games (MFG0468) </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jun 2006 12:07:12 +0000</listdate>
+    <saledate>Mon, 15 Jan 2007 07:08:57 +0000</saledate>
+    <price currency='USD'>11.99</price>
+    <condition>likenew</condition>
+    <notes>I have ASS Top Race, and I need more room for my collection so this is a casualty.  Mint; complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Oct 2006 05:09:44 +0000</listdate>
+    <saledate>Thu, 09 Aug 2007 03:48:14 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Detroit-Cleveland Grand Prix - Mayfair Games
+Like New! Removed from shrink wrap, but in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $2.00 handling charge.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Jan 2007 06:38:01 +0000</listdate>
+    <saledate>Thu, 11 Jan 2007 06:58:57 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>This is a private listing for user everlong205 ONLY for his bid on Lawmama_T_E_M_P_T_A_G_#039;s New Year_T_E_M_P_T_A_G_#039;s auction.
+I will PM you with payment details.  Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 May 2007 06:48:41 +0000</listdate>
+    <saledate>Fri, 21 Sep 2007 20:53:49 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Complete and in great shape. Payment via non-credit card PayPal (funds transfer). Shipping is $8. Combine shipping on multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jun 2007 04:38:28 +0000</listdate>
+    <saledate>Sun, 17 Jun 2007 15:01:36 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played once; complete and in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Jan 2008 00:01:58 +0000</listdate>
+    <saledate>Thu, 04 Dec 2008 19:00:49 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>I have an opened copy and we love playing it.  This is still in its shrinkwrap.  I’m moving (again) and I just don’t want to cart it around.  I’ll charge $10 for shipping to the continental U.S. and shipping plus $2 elsewhere.
+Also, to save shipping, check out my other games (here are some of them): 10 Days in Africa, 10 Days in the USA, Aggravation (Co-5 company), Anachronism (various sets), Apples to Apples Junior 9+, Apples to Apples Junior!, Apples to Apples Expansion Set #1, Barbarian (double game with Survival), Before I Kill You Mr. Bond, Bible Challenge, Bitin’ Off Hedz, Brain Strain, Brawl, Campaign, Cheers, Circus Maximus (Battleline), Civilization (Avalon Hill), Deadwood, Desert Victory, Detroit-Cleveland Grand Prix, Dilbert, Dragon Magazine Games (the Best of), Gangsters Gun Molls and G-Men, Gold Digger, Grab!, Hack! (Knights of the Dinner Table), I.Q. Derby, High Ground (new and used), Knights, Knights of Charlemagne, Life (in Monstropolis), Longstreet’s Assault, Lord of the Fries, Lord of the Rings – The Duel, Mamma Mia, Manhattan, Modern Art, My Word! (regular and Junior), Name Burst, Partyzone “Spy Ring”, Phase 10, Pirates (the constructible strategy game), Portable Adventures, Power Lunch, Qwitch, Rack-O, Read My Lips (Kid!), Red Empire, Seafarers of Catan 5-6 Player Expansion, Settlers of Catan Card Game, Skip-Bo, Solarquest, Space Beans, Stage II, Stock Market Game (AH – 1970), Strat-O-Matic Pro Basketball, Survival (double game with the Barbarian), Talk Show, Trailer Park Gods, Trivial Pursuit (base game and Baby Boomer edition), True Colors, Win Place and Show and Zobmondo!!.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Feb 2008 13:13:16 +0000</listdate>
+    <saledate>Sat, 16 Feb 2008 19:33:10 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>New in Shrinkwrap.
+Shipping cost is exact postage plus 1$ for 
+packaging/handling. I_T_E_M_P_T_A_G_#039;ll mail it anyway you want, parcel 
+post, priority, or express.
+USA seller, with perfect ebay feedback I_T_E_M_P_T_A_G_#039;ll refer you to 
+upon request.
+Note: Shipping to Europe is expensive and I_T_E_M_P_T_A_G_#039;ll only ship 
+there to bidders with multiple positive feedback.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Aug 2008 04:18:35 +0000</listdate>
+    <saledate>Thu, 07 Aug 2008 00:31:55 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>For sale to Raithe only, please. (From BGTG Auction #1, http://www.boardgamegeek.com/geeklist/33377)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Aug 2008 00:48:35 +0000</listdate>
+    <saledate>Mon, 11 Aug 2008 03:09:17 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition. Shipping will be actual postage cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Oct 2008 13:57:01 +0000</listdate>
+    <saledate>Sat, 04 Oct 2008 18:47:42 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Oct 2008 15:03:00 +0000</listdate>
+    <saledate>Mon, 20 Oct 2008 16:47:57 +0000</saledate>
+    <price currency='USD'>12.5</price>
+    <condition>new</condition>
+    <notes>Opened and unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Dec 2008 20:03:41 +0000</listdate>
+    <saledate>Wed, 14 Jan 2009 23:50:01 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>New and in Shrinkwrap.  I have an opened copy and we love playing it.  This is still in its shrinkwrap.  I’m moving (again) and I just don’t want to cart it around.  I’ll charge $10 for shipping to the continental U.S. and shipping plus $2 elsewhere.
+Also, to save shipping, check out my other games (here are some of them): 10 Days in Africa, 10 Days in the USA, Aggravation, Anachronism (various sets), Apples to Apples Junior 9+, Apples to Apples Junior!, Apples to Apples Expansion Set #1, Barbarian (double game with Survival), Battlestations, Before I Kill You Mr. Bond, Bible Challenge, Bitin’ Off Hedz, Brain Strain, Brawl, Campaign, Caesar and Cleopatra, Caveat Emptor, Cheers, Circus Maximus (Battleline), Civilization (Avalon Hill), Clue, Cribbage Board (#29), Deadwood, Desert Victory, Detroit-Cleveland Grand Prix, Difference between Women _T_E_M_P_T_A_G_amp; Men, Dilbert, Formula C Minus (new and used), Funny Friends, Gangsters Gun Molls and G-Men, Give me the Brain, Gold Digger, Grab!, Greed,  High Ground (new and used), I.Q. Derby, Jamie Swise Mystery Game, Just Business, Knights, Knights of Charlemagne, Knockabout, Longstreet’s Assault, Lord of the Fries, Lord of the Rings – The Duel, Mamma Mia, Manhattan, Mob Strategy, Modern Art, My Word! (regular and Junior), Name Burst, Neopets TCG, Od, Origins of World War II, Partyzone “Spy Ring”, Phase 10, Phlounder, Pirates (the constructible strategy game), Ploy, Portable Adventures, Power Lunch, Qwitch, Rack-O, Read My Lips (Kid!), Red Empire, Rummy-Cue, Say What!, Scotland Yard, Seafarers of Catan , Seafarers 5-6 Player Expansion, Serauqs, Settlers of Catan Card Game, Skip-Bo, Solarquest, Space Beans, Stage II, Starfall, Stellar Wars, Stock Market Game (AH – 1970), Stocks _T_E_M_P_T_A_G_amp; Bonds, Stratego (1962 _T_E_M_P_T_A_G_amp; 1970), Survival (double game with the Barbarian), Suitors, Talk Show, Tennis, Time War, Time’s Up, Trailer Park Gods, Trivial Pursuit (base game and Baby Boomer edition), True Colors, Twixt, Web of Gold, Win Place and Show, Word Master Mind, World of Wall Street and Zobmondo!!.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Apr 2009 04:04:25 +0000</listdate>
+    <saledate>Thu, 21 May 2009 20:25:35 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>New and in Shrinkwrap.  I have an opened copy and we love playing it.  This is still in its shrinkwrap.  I’m moving (again) and I just don’t want to cart it around.  I’ll charge $14 for shipping to the continental U.S. and shipping plus $2 elsewhere.
+Also, to save shipping, check out my other games (here are some of them): 10 Days in Africa, 10 Days in the USA, Anachronism (various sets), Apples to Apples Junior 9+, Apples to Apples Junior!, Apples to Apples Expansion Set #1, Barbarian (double game with Survival), Before I Kill You Mr. Bond, Bible Challenge, Bitin’ Off Hedz, Bowl Bound, Brain Strain, Campaign, Caveat Emptor, Cheers, Circus Maximus (Battleline), Civilization (Avalon Hill), Clue, Compatibility, Cribbage Board (#29), Crime Busters, Desert Victory, Detroit-Cleveland Grand Prix, Dig-It!, Dilbert, Fluxx, Formula C Minus (new and used), Fortress America, Funny Friends, Gangsters Gun Molls and G-Men, Generations, Gold Digger, Grab!, Greed,  High Ground (new and used), History of the Second World War (Part Two), How to Host a Murder – The Hollywood Premiere of Powar and Greede, Just Business, Killer Bunnies – Magic Carrot (Red and Violet), Knights of Charlemagne, Knockabout, Longstreet’s Assault, Lord of the Rings – The Duel, Mamma Mia, Manhattan, Mille Bornes, Mob Strategy, Montgolfiere, Murder Mystery Party (The Icicle Twist), Murder Mystery Party Kit, My Word! (regular and Junior), Name Burst, Neopets TCG, Od, Origins of World War II, Partyzone “Spy Ring”, Phase 10, Phlounder, Pirates (the constructible strategy game), Ploy, Power Lunch, Rack-O, Razzle, Read My Lips (Kid!), Red Empire, Rook, Rummy-Cue, Scan, Seafarers 5-6 Player Expansion, Serauqs, Settlers of Catan Card Game, Shogun (James Clavell’s), Skip-Bo, Solarquest, Space Shuttle, Stage II, Stellar Wars, Stock Market Game (AH – 1970), Stratego (1962 _T_E_M_P_T_A_G_amp; 1970), Survival (double game with the Barbarian), Talk Show, Tennis, The Millionaire Game (for Glen Oak High School), Time War, Time’s Up, Trailer Park Gods, Tripoley: Criss Cross Poker, True Colors, Tumblin Dice Timberrr Junior, Twistgammon, Twixt, United Nations, Web of Gold, World of Wall Street and Zobmondo!!.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Jun 2009 19:10:15 +0000</listdate>
+    <saledate>Sat, 15 Jan 2011 17:15:13 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Shipping charges paid by the buyer. Combined shipping  available. Please let me know if you wish for the shipment to be insured.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jun 2009 17:26:31 +0000</listdate>
+    <saledate>Wed, 22 Jul 2009 09:01:53 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>likenew</condition>
+    <notes>Excellent Unplayed Condition
+UK Postage £4.50</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Jul 2009 05:46:03 +0000</listdate>
+    <saledate>Mon, 10 May 2010 05:53:29 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Nice, complete game here. All cards and bits are accounted for, and in nice shape - box, rules, everything.  Looks like a fun game, but just isn_T_E_M_P_T_A_G_#039;t the type for my group.
+Paypal preferred. Shipping is $6.00 in US/Canada. Others may have to pay a bit more for tracking, airmail, etc.
+Make me an offer, trade or otherwise. Paypal preferred.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jul 2009 02:58:59 +0000</listdate>
+    <saledate>Sat, 12 Jun 2010 17:01:19 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>Only for Freitag</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2009 15:29:42 +0000</listdate>
+    <saledate>Sun, 02 Aug 2009 15:44:52 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>likenew</condition>
+    <notes>For kdean1 only. Shipping to Canada is $25.95.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Aug 2009 18:53:30 +0000</listdate>
+    <saledate>Tue, 02 Feb 2010 04:21:38 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>We’ve played this game and I thoroughly enjoy it – but my group is interested in other types of games, and I just don’t have enough room.  I’ll charge $14 for shipping within the continental U.S., and shipping cost plus $2 outside the U.S..
+I’m selling off most of my games.  If you want a list of all I have for sale, just click on my name (Seller: Too Many Games).
+If you want to buy more than one item, I’ll charge the actual shipping cost plus $2 (to cover costs of the packaging etc.).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Dec 2009 19:04:37 +0000</listdate>
+    <saledate>Wed, 06 Jan 2010 19:17:35 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>verygood</condition>
+    <notes>No credit cards please.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Mar 2010 22:36:58 +0000</listdate>
+    <saledate>Tue, 09 Mar 2010 18:21:56 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>RESERVED for the winner of the Geeklist auction!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Mar 2010 20:27:54 +0000</listdate>
+    <saledate>Fri, 23 Apr 2010 15:55:20 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>In like new condition.
+Shipping USPS Priority: $15</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jul 2010 17:25:07 +0000</listdate>
+    <saledate>Sun, 05 Feb 2012 15:46:40 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Mayfair Games (MFG 0468) 
+Experience the thrill of car racing in your own living room. Race around a famous speedway, vying with other cars (and players) to be the first across the finish line.
+Players use the cards dealt them to decide which cars to bid on. Playing cards moves the cars around the track, with the first car past the checkered flag taking home the biggest purse. Easy to understand, Grand Prix is a great family game.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Jul 2010 04:44:51 +0000</listdate>
+    <saledate>Fri, 19 Nov 2010 19:47:17 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Nov 2010 02:08:01 +0000</listdate>
+    <saledate>Mon, 08 Nov 2010 17:33:19 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Sale Item for habsman1.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Feb 2011 02:05:03 +0000</listdate>
+    <saledate>Wed, 05 Oct 2011 04:43:08 +0000</saledate>
+    <price currency='USD'>16.5</price>
+    <condition>verygood</condition>
+    <notes>Very good condition.  Played 2 times by careful adults.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Mar 2011 18:28:35 +0000</listdate>
+    <saledate>Sun, 10 Apr 2011 19:52:56 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>excellent condition 
+ships worldwide</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Mar 2011 23:38:15 +0000</listdate>
+    <saledate>Mon, 09 May 2011 19:23:01 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>Played just a few times. Shipping is exact USPS cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Sep 2011 19:45:54 +0000</listdate>
+    <saledate>Fri, 11 Nov 2011 20:39:03 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>Shipping is $12. Combined shipping rates are available when purchasing multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Nov 2011 09:11:18 +0000</listdate>
+    <saledate>Mon, 19 Mar 2012 03:17:20 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Played once. Has Goodwill tape around the box (clear) but components are excellent.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Mar 2012 03:38:20 +0000</listdate>
+    <saledate>Sat, 10 Mar 2012 15:44:08 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Alan Tomaszewski</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Aug 2012 18:19:45 +0000</listdate>
+    <saledate>Fri, 17 Aug 2012 13:29:16 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>FROM ItsTimeToGetRidOfMoreGames AUCTION.
+RESERVED FOR vikinggeek</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Aug 2012 00:23:26 +0000</listdate>
+    <saledate>Wed, 12 Dec 2012 18:20:19 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Dec 2012 11:27:08 +0000</listdate>
+    <saledate>Mon, 04 Feb 2013 22:13:46 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>Game is in excellent condition.  All the components are present and correct. 
+ 
+Weight inc packing 1175g
+UK Parcel Post  £6.30 
+UK First class  £6.60 
+Surface Worldwide  £9.92 
+Europe Airmail  £9.42 
+USA Airmail  £16.94 
+Shipping costs shown are for an individual game. I will combine shipping as best I can. Large packages (5kg, say 6 games) are very cost-effective to ship internationally via DHL. Ask if you want a detailed price. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Jan 2013 01:20:17 +0000</listdate>
+    <saledate>Wed, 30 Jan 2013 09:41:23 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>Mayfair Games edition in very good condition.
+GameStorm 2013 VFM sale:
+Reserved for Meerkat</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Jan 2014 00:07:34 +0000</listdate>
+    <saledate>Wed, 15 Jan 2014 01:01:19 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR CHRIS BRANDT AT $15.00</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Mar 2014 03:44:29 +0000</listdate>
+    <saledate>Mon, 17 Mar 2014 03:54:57 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>reserved for KoolKow</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Apr 2014 00:21:10 +0000</listdate>
+    <saledate>Mon, 14 Apr 2014 02:17:52 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>reserved for kfranz777 in a geek list auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Apr 2014 01:37:26 +0000</listdate>
+    <saledate>Mon, 09 Jun 2014 21:07:30 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played once</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jan 2015 04:01:44 +0000</listdate>
+    <saledate>Sun, 11 Jan 2015 20:10:11 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>Auction win reserved for 
+bingle Richard Bingle</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Feb 2015 03:32:12 +0000</listdate>
+    <saledate>Fri, 13 Feb 2015 11:58:02 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/185968/item/3730199#3730199]Item for Geeklist _T_E_M_P_T_A_G_quot;Total Confusion 29 Auction List - deliver games at TC-29 on February 19-22nd, 2015! (NO Shipping Costs!) _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2015 03:39:34 +0000</listdate>
+    <saledate>Sun, 02 Aug 2015 10:58:24 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193987/item/4035338#4035338]Item for Geeklist _T_E_M_P_T_A_G_quot;Easy come, Easy go. Little High, Little Low. Cheap Games _T_E_M_P_T_A_G_amp; Rare Games. WBC pickup option!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Aug 2015 20:53:36 +0000</listdate>
+    <saledate>Thu, 20 Aug 2015 18:28:39 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Played once.  All components present and in great condition.  Non-smoking home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Aug 2015 18:19:08 +0000</listdate>
+    <saledate>Sun, 30 Aug 2015 15:53:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/195722/item/4092580#4092580]Item for Geeklist _T_E_M_P_T_A_G_quot;The Unloved - A Quick, Cheap Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Sep 2015 23:36:50 +0000</listdate>
+    <saledate>Tue, 08 Sep 2015 11:36:49 +0000</saledate>
+    <price currency='USD'>13.49</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Sep 2015 04:12:43 +0000</listdate>
+    <saledate>Mon, 14 Sep 2015 11:37:44 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>Also includes:
+Hurry_T_E_M_P_T_A_G_#039;Cup - $2
+Krosmaster: Arena - Exp #2 - Remington Style - $8
+Krosmaster: Arena - Exp #4 - Earth and Wind - $8
+Market transaction ONLY for DoralFL, winner of these items in the _T_E_M_P_T_A_G_quot;US Auction - Board games _T_E_M_P_T_A_G_amp; Myth Minis!_T_E_M_P_T_A_G_quot; auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Nov 2015 23:08:46 +0000</listdate>
+    <saledate>Fri, 06 Nov 2015 23:44:49 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Item reserved for pwilz
+For BGG.Con VFM meetup, payment at time of delivery.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/197039/item/4192239#4192239]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Mar 2015 23:32:42 +0000</listdate>
+    <saledate>Sat, 02 Jan 2016 03:47:59 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>good</condition>
+    <notes>Dent in box corner, everything inside in great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Feb 2016 20:08:20 +0000</listdate>
+    <saledate>Sun, 14 Feb 2016 05:20:34 +0000</saledate>
+    <price currency='USD'>14.75</price>
+    <condition>likenew</condition>
+    <notes>Game is in excellent condition, has been handled with TLC_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;My late husband was an avid board gamer and game collector.  Sadly the time has come for me to find new homes for all his games. (Except my favorites _T_E_M_P_T_A_G_lt;img src=_T_E_M_P_T_A_G_quot;//cf.geekdo-static.com/images/smile.gif_T_E_M_P_T_A_G_quot; alt=_T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_quot; border=_T_E_M_P_T_A_G_quot;0_T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_gt; )  He took excellent care of all his games, no eating or drinking allowed while playing a game.  He had a huge collection, and most of his games had never even been played.  Feel free to message me with any questions or concerns.   Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 May 2016 20:27:50 +0000</listdate>
+    <saledate>Sun, 15 May 2016 00:12:17 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played several times, but still in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 14:18:36 +0000</listdate>
+    <saledate>Wed, 19 Oct 2016 02:48:30 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>NOTE: This game is reserved for the winner of it in my auction MNBUCKMANIAC.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Nov 2016 16:14:29 +0000</listdate>
+    <saledate>Wed, 16 Nov 2016 23:04:24 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/216969/item/5022699#5022699]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED: Quick Auction w/BINS: A Feast for Odin, Grand Prix, Arcane Academy, _T_E_M_P_T_A_G_amp; More!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Oct 2016 13:40:08 +0000</listdate>
+    <saledate>Mon, 12 Dec 2016 00:53:57 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Never played, in perfect condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Oct 2016 14:25:19 +0000</listdate>
+    <saledate>Thu, 15 Dec 2016 18:22:55 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Nov 2016 05:07:46 +0000</listdate>
+    <saledate>Sat, 11 Feb 2017 17:49:55 +0000</saledate>
+    <price currency='USD'>12.78</price>
+    <condition>likenew</condition>
+    <notes>In Excellent Condition. Box is Out of Shrink. But game is Unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Sep 2016 17:03:46 +0000</listdate>
+    <saledate>Thu, 30 Mar 2017 17:28:03 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Game opened, but unplayed. Free shipping to BGG Con.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Sep 2015 17:29:10 +0000</listdate>
+    <saledate>Mon, 11 Sep 2017 03:13:07 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Still in shrink wrap. Will ship flat rate.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Oct 2017 19:39:29 +0000</listdate>
+    <saledate>Thu, 26 Oct 2017 22:00:04 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231599/item/5714174#5714174]Item for Geeklist _T_E_M_P_T_A_G_quot;[UK/Europe] FIFTH AND FINAL AUCTION IN MY 2017 COLLECTION TRIMMING_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Aug 2018 09:10:01 +0000</listdate>
+    <saledate>Tue, 28 Aug 2018 17:15:01 +0000</saledate>
+    <price currency='EUR'>20.25</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Mar 2018 13:49:23 +0000</listdate>
+    <saledate>Tue, 25 Sep 2018 21:45:42 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>good</condition>
+    <notes>I am making space in my game closet by getting rid of games that never make it to the table. 
+Buyer pays for the ACTUAL shipping cost. Contact me with your address and I_T_E_M_P_T_A_G_#039;ll find out what that cost is. I DO NOT inflate the cost of shipping nor do I add a _T_E_M_P_T_A_G_quot;handling charge._T_E_M_P_T_A_G_quot;
+Played a bunch.  Fun game! All components present. Components and box have no damage. 
+Game comes from non-smoker home.
+If shipping to Canada, please add $16.00 to cover the USPS rate. All shipping will be via USPS Priority Mail Flat Rate Box.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Jul 2014 16:38:06 +0000</listdate>
+    <saledate>Thu, 04 Oct 2018 21:19:42 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Game has been played a few times and is in excellent condition, particularly the cards, which are still mic and glossy.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

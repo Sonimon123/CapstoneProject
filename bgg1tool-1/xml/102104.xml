@@ -1,0 +1,522 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="102104">
+   <yearpublished>2011</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>10</playingtime>
+   <minplaytime>10</minplaytime>
+   <maxplaytime>10</maxplaytime>
+   <age>8</age>
+       <name  sortindex="1">Gwiezdny Fluxx</name>
+       <name primary="true" sortindex="1">Star Fluxx</name>
+         
+   <description>Fluxx gets the Science Fiction treatment. From the publisher: _T_E_M_P_T_A_G_amp;quot;Just when you thought that Fluxx had gone as far as it could go - it blasts off for the Stars! Explore the vastness of space-themed humor with your valiant Captain, Engineer, and, of course, your Expendable Crewman. Go check out that Small Moon _T_E_M_P_T_A_G_amp;ndash; or is it really a Space Station? You may be swayed by Unseen Forces, held hostage by Evil Computers, or find your ship infested with Cute Fuzzy Aliens._T_E_M_P_T_A_G_amp;quot;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Like its brethren, Star Fluxx is the game of ever changing rules. It starts out as Draw 1, Play 1, but even that can change. When a Goal card is played, you can win by meeting the Goal, usually by having the correct Keeper cards in front of you. Action and Surprise cards help you to meet the Goal, or stop your opponent. Creeper cards usually prevent you from winning, but are sometimes necessary to meet the Goal._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/O_f9QI6KSHSaat7ZfmpR6rL1PHo=/fit-in/200x150/pic1059779.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ZAsLWJY6_Pqin1HCUz5BZ51OuYI=/0x0/pic1059779.jpg</image>
+      
+            <boardgamepublisher objectid="12031">Black Monk</boardgamepublisher>
+                      <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+                      <boardgameversion objectid="107426">English edition</boardgameversion>
+               <boardgamepodcastepisode objectid="81416">ET41: Vuelven los trenes. Dos rios que hacen un juego y la Galaxxxia</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgamefamily objectid="8">Fluxx</boardgamefamily>
+                      <boardgameexpansion objectid="177946">Fluxx Dice</boardgameexpansion>
+               <boardgameexpansion objectid="44489">Fluxx Promo Cards</boardgameexpansion>
+                      <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+               <boardgamedesigner objectid="122">Andrew Looney</boardgamedesigner>
+               <boardgamepublisher objectid="76">Looney Labs</boardgamepublisher>
+                                    <boardgamesubdomain objectid="5498">Party Games</boardgamesubdomain>
+               <boardgameversion objectid="385111">Polish edition</boardgameversion>
+                             <boardgameartist objectid="35679">Derek Ring</boardgameartist>
+               <boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+               <boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+               <boardgamepodcastepisode objectid="94293">Show #23.5 Session Report: Star Fluxx</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="93273">Show #23: Battlestations, and Star Fluxx</boardgamepodcastepisode>
+                      <boardgamepodcastepisode objectid="64519">The Gaming Gang Episode 28: Star Fluxx, Grave Business, Zombie Survival, Kill Shot, and Fletcher Pratt’s Naval Wargame</boardgamepodcastepisode>
+               <boardgameimplementation objectid="258" inbound="true">Fluxx</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="20">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="13" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="13" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="15" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="14" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="12" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="8">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="6" />
+     <result level="5" value="Unplayable in another language" numvotes="1" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="4" />
+     <result value="10" numvotes="5" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>4291</usersrated>
+     <average>6.38582</average>
+     <bayesaverage>6.1038</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1811" bayesaverage="6.1038" />
+            
+       
+              <rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="211" bayesaverage="5.98359" />
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="619" bayesaverage="6.07288" />
+            
+           </ranks>
+     
+     <stddev>1.65273</stddev>
+     <median>0</median>
+     <owned>9833</owned>
+     <trading>187</trading>
+     <wanting>35</wanting>
+     <wishing>364</wishing>
+     <numcomments>715</numcomments>
+     <numweights>173</numweights>
+     <averageweight>1.4335</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 03 Oct 2011 20:33:55 +0000</listdate>
+    <saledate>Tue, 03 Jul 2012 15:18:50 +0000</saledate>
+    <price currency='USD'>10.4</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard Shipping to USA48: $3.95</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jul 2012 16:41:31 +0000</listdate>
+    <saledate>Mon, 10 Dec 2012 06:59:32 +0000</saledate>
+    <price currency='USD'>10.72</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $3.95
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Dec 2012 16:05:07 +0000</listdate>
+    <saledate>Sat, 15 Jun 2013 15:01:21 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>verygood</condition>
+    <notes>Played on two occasions only and in excellent condition. There is a slight scuff on the box lid (bottom right hand corner, top side).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Dec 2012 21:41:22 +0000</listdate>
+    <saledate>Wed, 25 Jun 2014 19:51:11 +0000</saledate>
+    <price currency='USD'>10.99</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $3.95</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Dec 2012 15:41:58 +0000</listdate>
+    <saledate>Thu, 02 May 2013 18:18:34 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>Looney Labs (LOO047)
+Just when you thought that Fluxx had gone as far as it could go - it blasts off for the Stars! Explore the vastness of space-themed humor with your valiant Captain, Engineer, and, of course, your Expendable Crewman. Go check out that Small Moon - or is it really a Space Station? You may be swayed by Unseen Forces, held hostage by Evil Computers, or find your ship infested with Cute Fuzzy Aliens. Beware the unexpected as Star Fluxx takes you straight into a Wormhole of hilarity. You_T_E_M_P_T_A_G_#039;ll find yourself wanting to play again and again - watch out... It_T_E_M_P_T_A_G_#039;s A Trap! </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jan 2013 22:31:04 +0000</listdate>
+    <saledate>Wed, 24 Jul 2013 22:35:53 +0000</saledate>
+    <price currency='USD'>10.99</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap.
+Canadians will be charge applicable taxes.
+Orders will be processed the same day and shipped by expedited parcel.
+You will be charged exact shipping plus $2 for packing material.  Shipped from N2B 1J4.
+We ship worldwide.
+Orders may be combined and orders over $150 will be shipped in Canada free or in the US for a $10 flat fee.  Orders must be placed at the same time (within 20 min of each other to receive combined shipping or we may have already shipped the first part of the order).
+We will reduce shipping cost on international orders by $10 if the order is over $150.
+We currently only accept PayPal.
+Our prices are always 30% or more off US MRSP.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 May 2013 20:14:10 +0000</listdate>
+    <saledate>Tue, 22 Oct 2013 00:15:52 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>Looney Labs (LOO047)
+Just when you thought that Fluxx had gone as far as it could go - it blasts off for the Stars! Explore the vastness of space-themed humor with your valiant Captain, Engineer, and, of course, your Expendable Crewman. Go check out that Small Moon - or is it really a Space Station? You may be swayed by Unseen Forces, held hostage by Evil Computers, or find your ship infested with Cute Fuzzy Aliens. Beware the unexpected as Star Fluxx takes you straight into a Wormhole of hilarity. You_T_E_M_P_T_A_G_#039;ll find yourself wanting to play again and again - watch out... It_T_E_M_P_T_A_G_#039;s A Trap! </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Aug 2013 00:01:01 +0000</listdate>
+    <saledate>Sun, 15 Sep 2013 00:39:41 +0000</saledate>
+    <price currency='AUD'>12</price>
+    <condition>likenew</condition>
+    <notes>Box and all cards in perfect condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Aug 2013 23:55:30 +0000</listdate>
+    <saledate>Sat, 05 Oct 2013 06:31:07 +0000</saledate>
+    <price currency='USD'>12.99</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap.
+Canadians will be charge applicable taxes.
+Orders will be processed the same day and shipped by expedited parcel.
+You will be charged exact shipping plus $2 for packing material. Shipped from N2B 1J4.
+Local pickups welcome.
+Orders may be combined and orders over $150 will be shipped in Canada free or in the US for a $10 flat fee. Orders must be placed at the same time.
+We ship the day we receive payment!!!
+We currently only accept PayPal.
+Our prices are up to 30% or more off US MRSP.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Sep 2013 16:08:40 +0000</listdate>
+    <saledate>Thu, 05 Sep 2013 19:07:36 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>For user gripen only:
+Star Fluxx: $5
+S_T_E_M_P_T_A_G_amp;H: $5</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Oct 2013 15:11:15 +0000</listdate>
+    <saledate>Sun, 05 Jan 2014 00:41:47 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>Looney Labs (LOO047)
+Just when you thought that Fluxx had gone as far as it could go - it blasts off for the Stars! Explore the vastness of space-themed humor with your valiant Captain, Engineer, and, of course, your Expendable Crewman. Go check out that Small Moon - or is it really a Space Station? You may be swayed by Unseen Forces, held hostage by Evil Computers, or find your ship infested with Cute Fuzzy Aliens. Beware the unexpected as Star Fluxx takes you straight into a Wormhole of hilarity. You_T_E_M_P_T_A_G_#039;ll find yourself wanting to play again and again - watch out... It_T_E_M_P_T_A_G_#039;s A Trap! </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Nov 2013 04:59:08 +0000</listdate>
+    <saledate>Thu, 23 Jan 2014 21:57:20 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>Brand new. Free shipping in the US. Message me for international shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Jan 2014 14:39:36 +0000</listdate>
+    <saledate>Tue, 11 Feb 2014 23:33:19 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>Looney Labs (LOO047)
+Just when you thought that Fluxx had gone as far as it could go - it blasts off for the Stars! Explore the vastness of space-themed humor with your valiant Captain, Engineer, and, of course, your Expendable Crewman. Go check out that Small Moon - or is it really a Space Station? You may be swayed by Unseen Forces, held hostage by Evil Computers, or find your ship infested with Cute Fuzzy Aliens. Beware the unexpected as Star Fluxx takes you straight into a Wormhole of hilarity. You_T_E_M_P_T_A_G_#039;ll find yourself wanting to play again and again - watch out... It_T_E_M_P_T_A_G_#039;s A Trap! </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Mar 2014 16:24:58 +0000</listdate>
+    <saledate>Sun, 02 Mar 2014 18:04:37 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>Reserved for LunaUA.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Apr 2014 19:07:13 +0000</listdate>
+    <saledate>Sat, 03 May 2014 13:00:28 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>Played a few hands. In fine shape. Please check out my other games for sale!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 May 2014 00:22:10 +0000</listdate>
+    <saledate>Fri, 30 May 2014 19:09:04 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/173449/item/3220945#3220945]Item for Geeklist _T_E_M_P_T_A_G_quot;Slaqr_T_E_M_P_T_A_G_#039;s Wedding Ring Fundraiser Geeksale_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 May 2014 18:14:50 +0000</listdate>
+    <saledate>Mon, 03 Nov 2014 23:37:50 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Looney Labs (LOO047)
+Just when you thought that Fluxx had gone as far as it could go - it blasts off for the Stars! Explore the vastness of space-themed humor with your valiant Captain, Engineer, and, of course, your Expendable Crewman. Go check out that Small Moon - or is it really a Space Station? You may be swayed by Unseen Forces, held hostage by Evil Computers, or find your ship infested with Cute Fuzzy Aliens. Beware the unexpected as Star Fluxx takes you straight into a Wormhole of hilarity. You_T_E_M_P_T_A_G_#039;ll find yourself wanting to play again and again - watch out... It_T_E_M_P_T_A_G_#039;s A Trap! </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Apr 2015 19:54:09 +0000</listdate>
+    <saledate>Tue, 05 May 2015 00:38:05 +0000</saledate>
+    <price currency='USD'>7.5</price>
+    <condition>new</condition>
+    <notes>★ CURRENT SALE: 8%
+★ Condition: Brand new in shrink wrap
+☆ Same as:
+http://amzn.to/1CxVjNt
+——————
+★ Shipping Information
+Shipping: $4.50 Expedited
+No combined shipping discounts
+No international shipping
+Non-negotiable
+——————
+★ Sales Tax
+Sales Tax collected for the following states: AZ, CA, CT, FL, GA, IN, KS, MD, MA, MN, NV, NJ, NY, NC, ND, PA, TN, TX, VA, WA, WV, WI
+——————
+★ Accepted Payment Methods:
+☆ Same Day Processing:
+* Debit Card (Visa _T_E_M_P_T_A_G_amp; MC)
+* Google Wallet (Fastest)
+* Venmo
+* Bitcoin
+* Verified Paypal Gift/Friends _T_E_M_P_T_A_G_amp; Family
+☆ 3-5 Day Processing:
+* Verified Paypal Goods/Services
+Non-payment will result in order cancellation. Please pay promptly within 24 hours following order confirmation to prevent cancellation. Price fluctuations may cause order cancellation. Prompt payment will help prevent cancellation due to fluctuations.
+Please be sure to include your entire address (including ZIP code) on your account prior to submitting your order.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 May 2015 05:37:16 +0000</listdate>
+    <saledate>Tue, 19 May 2015 02:04:42 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190563/item/3880759#3880759]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee VIII:  Who Cut The Cheese?_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jun 2015 13:11:12 +0000</listdate>
+    <saledate>Thu, 11 Jun 2015 13:57:24 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>Cash @ 2015 Dice Tower Convention
+This sale has been auto-generated for the auction: [geekurl=/geeklist/190695/item/3941281#3941281]Item for Geeklist _T_E_M_P_T_A_G_quot;2015 Dice Tower Convention Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Aug 2015 19:06:59 +0000</listdate>
+    <saledate>Sat, 22 Aug 2015 19:24:58 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>BGG auction</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Oct 2015 12:10:15 +0000</listdate>
+    <saledate>Wed, 28 Oct 2015 14:09:33 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197969/item/4206692#4206692]Item for Geeklist _T_E_M_P_T_A_G_quot;Hipster Gamer Auction! [US only] Includes Through the Ages, Struggle of Empires, Wizard_T_E_M_P_T_A_G_#039;s Brew, and lots more. BGG.CON pickup available! [Ends 10/?]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Jan 2015 03:35:21 +0000</listdate>
+    <saledate>Wed, 30 Dec 2015 10:12:27 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Looney Labs (LOO047)
+Just when you thought that Fluxx had gone as far as it could go - it blasts off for the Stars! Explore the vastness of space-themed humor with your valiant Captain, Engineer, and, of course, your Expendable Crewman. Go check out that Small Moon - or is it really a Space Station? You may be swayed by Unseen Forces, held hostage by Evil Computers, or find your ship infested with Cute Fuzzy Aliens. Beware the unexpected as Star Fluxx takes you straight into a Wormhole of hilarity. You_T_E_M_P_T_A_G_#039;ll find yourself wanting to play again and again - watch out... It_T_E_M_P_T_A_G_#039;s A Trap!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Nov 2014 16:38:27 +0000</listdate>
+    <saledate>Tue, 10 May 2016 12:57:22 +0000</saledate>
+    <price currency='EUR'>13.5</price>
+    <condition>new</condition>
+    <notes>2-6 players (Looney Labs)
+Languages: English</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Jun 2016 23:27:49 +0000</listdate>
+    <saledate>Mon, 04 Jul 2016 02:59:09 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>verygood</condition>
+    <notes>reserved for Don Riddle for Dice Tower Con auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Aug 2016 14:11:25 +0000</listdate>
+    <saledate>Wed, 24 Aug 2016 07:28:10 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205989/item/4496897#4496897]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION CLOSED- USA Shipping Ending 8/19 Orleans Deluxe, Ugg-Tect, Euphoria, _T_E_M_P_T_A_G_amp; More! _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Dec 2016 14:11:07 +0000</listdate>
+    <saledate>Thu, 29 Dec 2016 16:06:31 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/216348/item/5093276#5093276]Item for Geeklist _T_E_M_P_T_A_G_quot;My 2nd Auction - Ends 11/16_T_E_M_P_T_A_G_quot; [/geekurl]
+Winner is mcpranno. Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Aug 2016 17:31:00 +0000</listdate>
+    <saledate>Mon, 09 Jan 2017 22:37:32 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jan 2017 23:27:26 +0000</listdate>
+    <saledate>Tue, 31 Jan 2017 00:53:07 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>likenew</condition>
+    <notes>Listing for Sms137355 only.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/220680/item/5156112#5156112]Item for Geeklist _T_E_M_P_T_A_G_quot;MULTI BIN DISCOUNT AUCTION - OOP / KS / NIS [ Santorini, Imhotep, Space Hulk, Imperial Assault, Much More ]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Mar 2017 19:25:43 +0000</listdate>
+    <saledate>Sun, 26 Mar 2017 22:43:09 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223293/item/5286028#5286028]Item for Geeklist _T_E_M_P_T_A_G_quot;GameStorm Game Sale_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jan 2015 16:11:55 +0000</listdate>
+    <saledate>Fri, 31 Mar 2017 08:58:28 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>likenew</condition>
+    <notes>Opened, barely played. Like new.
+Postage will be £3 to the UK.
+I accept Bank Transfer or Paypal. Buyer responsible for Paypal fees.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Nov 2016 03:26:53 +0000</listdate>
+    <saledate>Thu, 06 Apr 2017 23:23:21 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>likenew</condition>
+    <notes>Only played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 May 2017 19:30:17 +0000</listdate>
+    <saledate>Tue, 23 May 2017 13:23:12 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>Reserved for ErikBoard</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jun 2017 17:08:50 +0000</listdate>
+    <saledate>Sun, 04 Jun 2017 19:34:58 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>This is for auction winner Matt G. (Zizek) only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 May 2017 13:11:29 +0000</listdate>
+    <saledate>Sat, 24 Jun 2017 16:16:28 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>verygood</condition>
+    <notes>Used once.
+Shipping in the UK will cost £3 via Royal Mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Dec 2017 03:08:26 +0000</listdate>
+    <saledate>Tue, 02 Jan 2018 02:44:18 +0000</saledate>
+    <price currency='AUD'>5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Jan 2018 04:57:32 +0000</listdate>
+    <saledate>Thu, 04 Jan 2018 14:00:10 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/234752/item/5844715#5844715]Item for Geeklist _T_E_M_P_T_A_G_quot;Massive Munchkin _T_E_M_P_T_A_G_amp; Fluxx Auction. MAGFest or Congress of Gamers delivery option. Ships from  20170 (Wash DC). Expires 1/3/18_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jan 2017 08:59:46 +0000</listdate>
+    <saledate>Tue, 06 Feb 2018 16:25:54 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>verygood</condition>
+    <notes>Opened/punched, never played, box has minor wear.
+---------
+PayPal or bank transaction (IBAN).
+Shipping outside of germany is usually 9€ untracked or 14€ tracked.
+Please ask, so i can give you an exact quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jun 2018 13:29:29 +0000</listdate>
+    <saledate>Thu, 12 Jul 2018 02:51:41 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Auction lot</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Sep 2018 17:04:59 +0000</listdate>
+    <saledate>Wed, 12 Sep 2018 03:06:49 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>good</condition>
+    <notes>Auction listing, don_T_E_M_P_T_A_G_#039;t purchase unless you_T_E_M_P_T_A_G_#039;re the winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Sep 2018 22:19:18 +0000</listdate>
+    <saledate>Sun, 23 Sep 2018 22:29:03 +0000</saledate>
+    <price currency='CAD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Dec 2018 20:07:57 +0000</listdate>
+    <saledate>Sat, 15 Dec 2018 21:02:13 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>Item is for maxamilus from auction https://boardgamegeek.com/geeklist/247304/item/6579646?commentid=8450978#comment8450978. 
+If you are not maxamilus, please don_T_E_M_P_T_A_G_#039;t bid. 
+Shipping included</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

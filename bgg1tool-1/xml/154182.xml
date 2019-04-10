@@ -1,0 +1,594 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="154182">
+   <yearpublished>2014</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Helios</name>
+         
+   <description>In Helios, players are high priests in a distant world of the sun god AHAU, and the power of the sun drives everything in the game as players try to build temples, expand cities, and make their civilization flourish._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Development can succeed, though, only if you've secured a supply of the limited raw materials available, and the more that you've built of your temple, the more expensive the remaining parts will be. Glass manastones are the game's currency, and with them you can acquire people, increase the number of points you'll score, and more._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/gZ9o-tpve9dGESYslc4FQYmvPNA=/fit-in/200x150/pic1928217.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/TVgDWWU1tHD1MHfvPLl0EPUXPy4=/0x0/pic1928217.png</image>
+      
+            <boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+               <boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+                                           <boardgameversion objectid="236876">English edition</boardgameversion>
+               <boardgamepodcastepisode objectid="123176">Episode 30 -- Long-eared, Humanoid, Dwarf People Praying to the Sun</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="125138">Episode 81-- Gen Con 2014 Top 11 to Try and Top 11 to Buy with special gues W. Eric Martin from BGG News</boardgamepodcastepisode>
+               <boardgamepublisher objectid="5657">Filosofia Éditions</boardgamepublisher>
+               <boardgameversion objectid="236887">French edition</boardgameversion>
+                             <boardgameversion objectid="231015">German edition</boardgameversion>
+                                                                                                                                                                  <boardgamepublisher objectid="133">Hans im Glück</boardgamepublisher>
+                                                                <boardgameexpansion objectid="165943">Helios: Riese und Ballonfahrerin Erweiterung</boardgameexpansion>
+                             <boardgamedesigner objectid="51251">Martin Kallenborn</boardgamedesigner>
+               <boardgameartist objectid="12484">Dennis Lohausen</boardgameartist>
+               <boardgamecategory objectid="1082">Mythology</boardgamecategory>
+                                    <boardgamedesigner objectid="10246">Matthias Prinz</boardgamedesigner>
+                      <boardgameexpansion objectid="179205">Stadt Land Spielt Limitierter Sonderdruck Tag des Gesellschaftsspiels</boardgameexpansion>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamefamily objectid="27646">Tableau Building</boardgamefamily>
+               <boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+                      <boardgamepodcastepisode objectid="123739">The Game Pit: Episode 26 - Picking Over the Bones</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+               <boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+                             <boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="33">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="17" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="13" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="8" />
+     <result value="Recommended" numvotes="12" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="9" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="12">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="11" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="4" />
+     <result value="12" numvotes="3" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1493</usersrated>
+     <average>6.81906</average>
+     <bayesaverage>6.2343</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1457" bayesaverage="6.2343" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="744" bayesaverage="6.35473" />
+            
+           </ranks>
+     
+     <stddev>1.15637</stddev>
+     <median>0</median>
+     <owned>2453</owned>
+     <trading>154</trading>
+     <wanting>54</wanting>
+     <wishing>259</wishing>
+     <numcomments>365</numcomments>
+     <numweights>87</numweights>
+     <averageweight>2.8736</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 17 Apr 2014 13:33:39 +0000</listdate>
+    <saledate>Sat, 26 Apr 2014 12:49:46 +0000</saledate>
+    <price currency='EUR'>39.99</price>
+    <condition>new</condition>
+    <notes>Helios
+German first edition
+Publisher: Hans im Glück Verlags-GmbH</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Apr 2014 22:04:28 +0000</listdate>
+    <saledate>Sat, 19 Apr 2014 23:42:54 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Very good condition with a little box rash.  This is the German language version but the English rules are available online. $14 to ship USPs priority insured.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 May 2014 15:10:03 +0000</listdate>
+    <saledate>Mon, 22 Sep 2014 22:25:38 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>NEW IN SHRINK - Available now
+Corners of box are slightly dinged from shipping, but everything is completely sealed and intact.
+Hans im Glück German version, but I will provide a printout of my English rules translation (also available here on BGG). Components are completely language independent.
+FREE SHIPPING (for CONUS only).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 May 2014 01:04:25 +0000</listdate>
+    <saledate>Sat, 31 May 2014 01:08:15 +0000</saledate>
+    <price currency='USD'>41</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/174011/item/3242499#3242499]Item for Geeklist _T_E_M_P_T_A_G_quot;Summer Break Auction - Helios and more!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 May 2014 06:54:21 +0000</listdate>
+    <saledate>Wed, 27 Aug 2014 06:46:20 +0000</saledate>
+    <price currency='EUR'>23</price>
+    <condition>likenew</condition>
+    <notes>Versand in Deutschland 5€</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Aug 2014 16:23:29 +0000</listdate>
+    <saledate>Mon, 04 Aug 2014 18:15:51 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>The game:
+Hans im Glück (c) 2014.
+GERMAN VERSION!
+All game materials are still in mint condition.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within EU I prefer the EU-standard-bank-tranfer (SEPA,IBAN/BIC). It is fast and causes no fees.
+Outside EU Paypal and bank-transfer are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Sep 2014 21:44:20 +0000</listdate>
+    <saledate>Sun, 14 Sep 2014 23:28:53 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/178663/item/3418620#3418620]Item for Geeklist _T_E_M_P_T_A_G_quot;The _T_E_M_P_T_A_G_quot;help me reduce my collection again_T_E_M_P_T_A_G_quot; auction!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+caseypd63  only!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Oct 2014 23:19:31 +0000</listdate>
+    <saledate>Wed, 29 Oct 2014 17:03:31 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/180900/item/3513410#3513410]Item for Geeklist _T_E_M_P_T_A_G_quot;The 5_T_E_M_P_T_A_G_#039;s auction experiment!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+thisisnotevan only!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Nov 2014 22:52:07 +0000</listdate>
+    <saledate>Sun, 30 Nov 2014 23:15:20 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>This is a brand new copy of the Z-man Games edition of Helios.  
+I will ship via USPS Priority Mail so shipping is $11.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Dec 2014 11:59:29 +0000</listdate>
+    <saledate>Sat, 31 Jan 2015 14:08:06 +0000</saledate>
+    <price currency='EUR'>26</price>
+    <condition>new</condition>
+    <notes>The game is unplayed and still in shrink wrap!
+I will ship from Germany and I am willing to ship anywhere.
+Please ask me, for the shipping costs for your land.
+I will charge shipping at cost. Everything will be well packed.
+You can pay me through Paypal or bank transfer to my German bank account but any fees charged must be covered by you.
+If you buy more games, then I make all in one package!
+We have a large private collection of games. Due to space and time constraints we must rid ourselves of some of the games. Therefore, these are private sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Mar 2015 04:21:22 +0000</listdate>
+    <saledate>Fri, 20 Mar 2015 00:19:58 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction winner: [geekurl=/geeklist/188355/item/3782279#3782279]EllenCaroline [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jul 2015 14:20:38 +0000</listdate>
+    <saledate>Wed, 15 Jul 2015 01:47:57 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/192983/item/3974906#3974906]Item for Geeklist _T_E_M_P_T_A_G_quot;Beat the heat auction! GenCon pickup available!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Mar 2015 22:49:48 +0000</listdate>
+    <saledate>Fri, 24 Jul 2015 10:01:08 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Apr 2015 15:09:26 +0000</listdate>
+    <saledate>Tue, 04 Aug 2015 22:17:15 +0000</saledate>
+    <price currency='GBP'>16</price>
+    <condition>new</condition>
+    <notes>Brand new, factory sealed.
+UK Shipping (Mainland) - £3.50</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Sep 2015 03:55:26 +0000</listdate>
+    <saledate>Thu, 03 Sep 2015 11:56:09 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/195706/item/4091946#4091946]Item for Geeklist _T_E_M_P_T_A_G_quot;The Decider Auction! 1960: The Making of the President, Runewars + Banners of War, Roll Thru the Ages Iron Age + Mediterranean Exp, Helios, Good Cop Bad Cop, The Convoy, Undermining, Hemloch Midnight Ed, Soulfall_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Sep 2015 15:01:07 +0000</listdate>
+    <saledate>Wed, 30 Sep 2015 15:59:58 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194495/item/4082503#4082503]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2015 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Sep 2015 02:22:41 +0000</listdate>
+    <saledate>Thu, 01 Oct 2015 21:52:59 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>NIS</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Nov 2015 01:16:59 +0000</listdate>
+    <saledate>Mon, 02 Nov 2015 01:33:03 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>For auction winner Erik Nielsen only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Nov 2015 04:47:56 +0000</listdate>
+    <saledate>Sun, 08 Nov 2015 06:25:46 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Reserved for neevan</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Dec 2015 01:15:23 +0000</listdate>
+    <saledate>Tue, 29 Dec 2015 23:55:41 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Auction win for blnichol only.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Dec 2015 17:48:21 +0000</listdate>
+    <saledate>Sun, 10 Jan 2016 14:59:03 +0000</saledate>
+    <price currency='GBP'>13</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Feb 2016 00:29:30 +0000</listdate>
+    <saledate>Fri, 12 Feb 2016 13:33:26 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/202744/item/4366166#4366166]Item for Geeklist _T_E_M_P_T_A_G_quot;Garrett_T_E_M_P_T_A_G_#039;s Games 2016 Shelf-Clearing Auction - ENDS 2/7/16_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Oct 2015 23:36:54 +0000</listdate>
+    <saledate>Sun, 28 Feb 2016 05:30:56 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>Brand new and sealed...mint condition.  Shipping is $12.50 priority mail.  Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Apr 2016 19:16:24 +0000</listdate>
+    <saledate>Mon, 04 Apr 2016 20:43:46 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/206864/item/4536291#4536291]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION - 7th Sea RPG Books, Euro Games and a few PS2 _T_E_M_P_T_A_G_amp; Gameboy games!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2015 04:37:17 +0000</listdate>
+    <saledate>Thu, 12 May 2016 22:59:16 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Z-man version;   Played 4 times;</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 May 2016 03:09:48 +0000</listdate>
+    <saledate>Mon, 30 May 2016 03:32:54 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/209121/item/4642349#4642349]Item for Geeklist _T_E_M_P_T_A_G_quot;Low on Dough Auction Leftovers 2 - Over 150 Games Available At Lower Starting Bids_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jun 2016 02:01:30 +0000</listdate>
+    <saledate>Wed, 22 Jun 2016 02:07:03 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>This is for Cardboardjunkie, from an auction. If this is not you, please do not purchase.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Aug 2016 14:38:52 +0000</listdate>
+    <saledate>Tue, 16 Aug 2016 15:42:12 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>Only to be sold to: squirrelhenge
+Includes:
+Helios
+Parade</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Sep 2016 12:28:35 +0000</listdate>
+    <saledate>Mon, 19 Sep 2016 15:27:36 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for Order for the math trade offer [listitem=4852840][/listitem] found in [geeklist=212782][/geeklist].
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t provide the corresponding money offer in the trade chain!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Sep 2016 02:31:06 +0000</listdate>
+    <saledate>Thu, 29 Sep 2016 05:47:59 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR AARON VANDERBEEK AT $14.00</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Sep 2016 03:06:00 +0000</listdate>
+    <saledate>Fri, 30 Sep 2016 05:18:24 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214443/item/4891553#4891553]Item for Geeklist _T_E_M_P_T_A_G_quot;Essen Season Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Aug 2016 19:41:59 +0000</listdate>
+    <saledate>Fri, 14 Oct 2016 19:51:33 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Buyer to pay actual shipping from southern Ohio.  I will combine shipping for multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Oct 2016 23:05:52 +0000</listdate>
+    <saledate>Mon, 24 Oct 2016 06:30:25 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>For auction winner Annette Villa only, please. This item includes any other auction winnings.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Dec 2016 07:31:42 +0000</listdate>
+    <saledate>Sat, 03 Dec 2016 07:51:08 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>this item is only for auction winner Keenlow</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jul 2016 16:08:30 +0000</listdate>
+    <saledate>Thu, 02 Feb 2017 13:09:01 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>likenew</condition>
+    <notes>My german copy of Helios was only played once with care. You can see no signs of usage (see photo). I_T_E_M_P_T_A_G_#039;ve laminated the thin four outline maps, so they are protected.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Mar 2017 05:29:18 +0000</listdate>
+    <saledate>Sun, 05 Mar 2017 07:45:08 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222424/item/5240538#5240538]Item for Geeklist _T_E_M_P_T_A_G_quot;Get ready for daylight savings time! An auction from NorCal_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Jun 2017 13:34:18 +0000</listdate>
+    <saledate>Fri, 02 Jun 2017 14:29:47 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/226014/item/5422300#5422300]Item for Geeklist _T_E_M_P_T_A_G_quot;Keeping My Collection Lean and Mean: Part 11.5!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Thanks!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Jun 2017 12:32:10 +0000</listdate>
+    <saledate>Fri, 23 Jun 2017 12:38:33 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for WikipediaBrown</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Jul 2017 13:22:38 +0000</listdate>
+    <saledate>Fri, 14 Jul 2017 05:32:53 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>reserved for sao123</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Aug 2017 02:45:48 +0000</listdate>
+    <saledate>Sat, 05 Aug 2017 03:09:22 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/227963/item/5526246#5526246]Item for Geeklist _T_E_M_P_T_A_G_quot;Sizzling Hot Summer Auction (US Only) (Irvine, CA)(Ends Aug 4th)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 02:59:27 +0000</listdate>
+    <saledate>Mon, 02 Oct 2017 05:28:37 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229693/item/5630804#5630804]Item for Geeklist _T_E_M_P_T_A_G_quot;Massive Auction ending Oct 1 North Philly Local Pick_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Nov 2017 16:07:59 +0000</listdate>
+    <saledate>Wed, 08 Nov 2017 17:26:50 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231475/item/5709999#5709999]Item for Geeklist _T_E_M_P_T_A_G_quot;Small, quick auction! (#8) - US Only - Ends 11-10-17_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for user _T_E_M_P_T_A_G_quot;Mad Maestro_T_E_M_P_T_A_G_quot;
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Nov 2017 16:14:15 +0000</listdate>
+    <saledate>Sun, 12 Nov 2017 16:15:35 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220229/item/5732794#5732794]Item for Geeklist _T_E_M_P_T_A_G_quot;Huge Collection Purge Auction - 275+ games/lots, including rarities, big lots, and freebies (Ends 11/8/17; BGG.con Delivery Available)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Sep 2017 04:25:59 +0000</listdate>
+    <saledate>Fri, 17 Nov 2017 11:15:06 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>In perfect condition. Played one time only in a non-smoking and pet-free environment. I will securely wrap the game in bubble wrap prior to shipment (USPS flat rate should be $12.40).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Sep 2017 14:26:03 +0000</listdate>
+    <saledate>Tue, 05 Dec 2017 13:38:36 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Dec 2017 21:23:06 +0000</listdate>
+    <saledate>Tue, 02 Jan 2018 03:43:47 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Played twice, excellent condition. English instructions provided.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Feb 2018 17:02:46 +0000</listdate>
+    <saledate>Mon, 05 Feb 2018 00:05:30 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/236926/item/5922005#5922005]Item for Geeklist _T_E_M_P_T_A_G_quot;More game downsizing Auction (USA Only) (Ships from Irvine, CA)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Feb 2018 17:43:01 +0000</listdate>
+    <saledate>Wed, 14 Feb 2018 17:47:54 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>verygood</condition>
+    <notes>Reserved for LAORead</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Mar 2018 14:35:08 +0000</listdate>
+    <saledate>Sun, 18 Mar 2018 17:32:18 +0000</saledate>
+    <price currency='USD'>12.5</price>
+    <condition>likenew</condition>
+    <notes>Opened, played once
+Not my cup of tea
+USPS Priority Mail - $13.65
+Google Pay/Wallet Preferred.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Nov 2017 00:06:51 +0000</listdate>
+    <saledate>Fri, 04 May 2018 06:00:17 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>new</condition>
+    <notes>2-4 players (Z-Man Games)
+Languages: English</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Apr 2018 23:47:36 +0000</listdate>
+    <saledate>Fri, 04 May 2018 13:05:10 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>likenew</condition>
+    <notes>Scarborough, Ontario</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 May 2018 07:17:48 +0000</listdate>
+    <saledate>Fri, 11 May 2018 14:55:53 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/240663/item/6110986#6110986]Item for Geeklist _T_E_M_P_T_A_G_quot;[Auction] International Move. Everything must go!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Oct 2018 14:42:03 +0000</listdate>
+    <saledate>Wed, 24 Oct 2018 14:42:17 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246415/item/6449261#6449261]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee XIII - Gaming Oktoberfest_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Dec 2015 15:08:42 +0000</listdate>
+    <saledate>Fri, 26 Oct 2018 17:56:27 +0000</saledate>
+    <price currency='GBP'>14</price>
+    <condition>verygood</condition>
+    <notes>Postage £3 within UK</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Feb 2017 18:16:22 +0000</listdate>
+    <saledate>Wed, 05 Dec 2018 14:19:58 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Apr 2015 07:04:42 +0000</listdate>
+    <saledate>Thu, 27 Dec 2018 20:41:47 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

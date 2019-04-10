@@ -1,0 +1,1801 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="58110">
+   <yearpublished>2009</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Horse Fever</name>
+         
+   <description>Horse Fever transports players to a setting based on the noir novels of the 1930s, where each player is called on to impersonate rich bettors that will use any means necessary to cause the bets they place to pay off. They will fix races, bribe bookmakers, make horses fall asleep, buy stables and borrow money from the Mob in order to gain victory for their bets._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Horse Fever has three different game modes: Board Game, Family Game and Party Game. These three different modes enable each kind of player to have a good time. The Board Game will enable expert players to discover a game based on an endless number of strategies; the Family Game will enable little players and families to get to know the basic game dynamics while playing a simpler but yet just as fun game; the Party Game will transform Horse Fever into a platform for a potentially endless number of players and turn any boring party into the most entertaining event of the century._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/1-CFLw3XQMUqF7QsWTy_PktCho8=/fit-in/200x150/pic949941.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/kgEB6Fy-yVtNBdoMX3biPZXifdg=/0x0/pic949941.jpg</image>
+      
+            <boardgamehonor objectid="12651">2010 Ludoteca Ideale Official Selection</boardgamehonor>
+               <boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+               <boardgamecategory objectid="1089">Animals</boardgamecategory>
+               <boardgamepodcastepisode objectid="107451">AP Podcast – Episodio 14: Krosmaster Arena</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+               <boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+               <boardgamepodcastepisode objectid="8372">BGWS 068 – Horse Racing Games</boardgamepodcastepisode>
+               <boardgamepublisher objectid="10768">Cranio Creations</boardgamepublisher>
+                      <boardgamepodcastepisode objectid="97657">El cyberhipodromo, los cylones con mas de un millón de elefantes</boardgamepodcastepisode>
+                             <boardgamepublisher objectid="15605">Galápagos Jogos</boardgamepublisher>
+               <boardgameversion objectid="140232">Galápagos Jogos Portuguese edition</boardgameversion>
+                             <boardgameartist objectid="28355">Giulia Ghigini</boardgameartist>
+                      <boardgamepublisher objectid="264">Heidelberger Spieleverlag</boardgamepublisher>
+                                    <boardgameversion objectid="72358">Multilingual first edition</boardgameversion>
+               <boardgameversion objectid="91866">Multilingual second edition</boardgameversion>
+                      <boardgamecategory objectid="1030">Party Game</boardgamecategory>
+                             <boardgamecategory objectid="1031">Racing</boardgamecategory>
+               <boardgamepodcastepisode objectid="177394">RJ56: Petits Grans Consultors</boardgamepodcastepisode>
+               <boardgamedesigner objectid="28238">Lorenzo Silva</boardgamedesigner>
+               <boardgamedesigner objectid="28239">Lorenzo Tucci Sorrentino</boardgamedesigner>
+               <boardgamefamily objectid="5730">Sports: Horse Racing</boardgamefamily>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+             
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="53">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="19" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="17" />
+     <result value="Not Recommended" numvotes="14" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="26" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="28" />
+     <result value="Recommended" numvotes="14" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="13" />
+     <result value="Recommended" numvotes="20" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="13" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="11" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="25">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="21" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="6" />
+     <result value="10" numvotes="9" />
+     <result value="12" numvotes="3" />
+     <result value="14" numvotes="1" />
+     <result value="16" numvotes="1" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1418</usersrated>
+     <average>7.0039</average>
+     <bayesaverage>6.2771</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1367" bayesaverage="6.2771" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="717" bayesaverage="6.38498" />
+            
+           </ranks>
+     
+     <stddev>1.34465</stddev>
+     <median>0</median>
+     <owned>1898</owned>
+     <trading>85</trading>
+     <wanting>117</wanting>
+     <wishing>407</wishing>
+     <numcomments>336</numcomments>
+     <numweights>100</numweights>
+     <averageweight>2.34</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 12 Nov 2009 09:16:31 +0000</listdate>
+    <saledate>Sun, 20 May 2012 23:59:09 +0000</saledate>
+    <price currency='EUR'>32</price>
+    <condition>new</condition>
+    <notes>MINT!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Nov 2009 16:38:26 +0000</listdate>
+    <saledate>Tue, 02 Mar 2010 23:39:21 +0000</saledate>
+    <price currency='GBP'>32.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £5  postage to UK.
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a  2.5% discount for purchases over £50 and  5% for purchases over £100. All items (700+ unique games) I list are in stock and will be posted within 24 working hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Dec 2009 11:40:25 +0000</listdate>
+    <saledate>Fri, 16 Jul 2010 23:48:46 +0000</saledate>
+    <price currency='EUR'>32</price>
+    <condition>new</condition>
+    <notes>Brand new sealed never opened. On stock and ready to ship.
+NB! Language independent with English, French, German and Italian rules included. 
+More information: www.lauamangud.ee</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Jul 2010 15:08:37 +0000</listdate>
+    <saledate>Fri, 13 Aug 2010 10:33:06 +0000</saledate>
+    <price currency='GBP'>29.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £4  postage to UK.
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a  2.5% discount for purchases over £50 and  5% for purchases over £100. All items (800 unique games) I list are in stock and will be posted within 24 working hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jul 2010 11:08:13 +0000</listdate>
+    <saledate>Sun, 01 Aug 2010 07:05:16 +0000</saledate>
+    <price currency='EUR'>32</price>
+    <condition>new</condition>
+    <notes>Brand new sealed never opened. On stock and ready to ship.
+NB! Language independent with English, French, German and Italian rules included.
+More information: www.lauamangud.ee</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Aug 2010 06:57:13 +0000</listdate>
+    <saledate>Wed, 04 Aug 2010 14:04:25 +0000</saledate>
+    <price currency='EUR'>32</price>
+    <condition>new</condition>
+    <notes>Brand new sealed never opened. On stock and ready to ship.
+NB! Language independent with English, German, French and Italian rules included. 
+More information: www.lauamangud.ee</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Aug 2010 07:53:49 +0000</listdate>
+    <saledate>Mon, 06 Sep 2010 15:31:46 +0000</saledate>
+    <price currency='EUR'>36</price>
+    <condition>new</condition>
+    <notes>Brand new sealed never opened. On stock and ready to ship.
+NB! Language independent with English, German, French and Italian rules included. 
+More information: www.lauamangud.ee</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Sep 2010 14:05:34 +0000</listdate>
+    <saledate>Fri, 10 Sep 2010 20:46:54 +0000</saledate>
+    <price currency='GBP'>33.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £4  postage to UK, £8 to Europe , £17 to the USA
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a  2.5% discount for purchases over £50 and  5% for purchases over £100. All items (800 unique games) I list are in stock and will be posted within 24 working hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Sep 2010 10:11:02 +0000</listdate>
+    <saledate>Sat, 18 Dec 2010 01:06:00 +0000</saledate>
+    <price currency='EUR'>33.9</price>
+    <condition>new</condition>
+    <notes>nuovo sigillato  new shrink-wrapped
+spedizione con corriere espresso 24 ore in tutta italia
+Per i costi di spedizione vai a:
+http://www.lpg.it/eg/6-stima-costi-spedizione-estero.htm
+To check shipping costs go to:
+http://www.lpg.it/eg/6-stima-costi-spedizione-estero.htm
+paypal accepted (add 4%)
+mandami la tua e-mail . ti inviero’ lista completa con offerte e bundle!
+Give me your e-mail I ‘ll send you complete list with sales and bundles!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Mar 2011 20:09:57 +0000</listdate>
+    <saledate>Mon, 28 Mar 2011 17:02:15 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>removed shrink but unpunched and unplayed. 
+selling at a loss so I can get the 2nd edition when it is released in the future.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Apr 2011 03:06:11 +0000</listdate>
+    <saledate>Sun, 03 Apr 2011 09:02:32 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>Game reserved for David Me (davidme) - Winner in the Make Way for New Games Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Apr 2011 12:22:54 +0000</listdate>
+    <saledate>Tue, 12 Apr 2011 02:34:57 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>verygood</condition>
+    <notes>Played once.
+email for pics</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Apr 2011 16:43:48 +0000</listdate>
+    <saledate>Thu, 21 Apr 2011 15:59:57 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Very Good.
+ Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks.
+ </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 May 2011 01:45:28 +0000</listdate>
+    <saledate>Fri, 27 May 2011 20:07:59 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>This item is for El Rey (Konig) only.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Jun 2011 11:15:04 +0000</listdate>
+    <saledate>Fri, 08 Jul 2011 11:18:43 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>First edition
+Unplayed, partly unpunched</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Jul 2011 01:53:01 +0000</listdate>
+    <saledate>Sun, 31 Jul 2011 01:56:56 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>This item is reserved for the user tcollett</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Jul 2011 20:17:37 +0000</listdate>
+    <saledate>Mon, 19 Dec 2011 03:13:58 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>1st edition copy in great condition, all components present, including cd soundtrack</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Aug 2011 16:33:59 +0000</listdate>
+    <saledate>Sat, 08 Oct 2011 16:24:08 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>First edition, opened but never played.  Box and components in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Sep 2011 19:59:59 +0000</listdate>
+    <saledate>Fri, 23 Sep 2011 21:12:31 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>For dbias84 ONLY.  Auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Jan 2012 15:49:21 +0000</listdate>
+    <saledate>Sat, 21 Jan 2012 17:26:18 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Multilingual first edition. Opened, but never played.
+Triplets auction: reserved for neflight86</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jan 2012 02:47:56 +0000</listdate>
+    <saledate>Fri, 07 Dec 2012 23:23:06 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Cranio Creations (CCS 040)
+ 
+Horse Fever transports players to a setting based on the noir novels of the 1930s, where each player is called on to impersonate rich bettors that will use any means necessary to cause the bets they place to pay off. They will fix races, bribe bookmakers, make horses fall asleep, buy stables and borrow money from the Mob in order to gain victory for their bets.
+ 
+Horse Fever has three different game modes: Board Game, Family Game and Party Game. These three different modes enable each kind of player to have a good time. The Board Game will enable expert players to discover a game based on an endless number of strategies; the Family Game will enable little players and families to get to know the basic game dynamics while playing a simpler but yet just as fun game; the Party Game will transform Horse Fever into a platform for a potentially endless number of players and turn any boring party into the most entertaining event of the century.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2012 22:00:21 +0000</listdate>
+    <saledate>Tue, 06 Mar 2012 23:27:59 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>Second Edition. Mint, in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Mar 2012 23:50:32 +0000</listdate>
+    <saledate>Fri, 03 Aug 2012 15:59:04 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>Mint, in shrink. Second edition with upgraded components. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jun 2012 21:30:27 +0000</listdate>
+    <saledate>Mon, 16 Jul 2012 16:28:01 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>1st edition, opened, but never played. From a smoke-free environment, complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Jul 2012 01:19:44 +0000</listdate>
+    <saledate>Sun, 12 Aug 2012 19:02:42 +0000</saledate>
+    <price currency='USD'>35.75</price>
+    <condition>new</condition>
+    <notes>*** 4th Dimension Games ***
+Horse Fever 2nd Edition: $35.75 In Stock (7% sales tax for residents of Pennsylvania)
+This is a New, Sealed in Box Horse Fever 2nd Edition board game.
+Publisher: Coffee Haus Games [CHG019]
+Number of Players: 2-6
+Ages: 10+
+Length: 90 minutes
+Shipping: Shipping rates will be determined upon sale or request. Insurance is optional but highly recommended for higher priced items. The shipping costs are NOT inflated. You pay exactly what I am charged for shipping, along with material costs. I ship through FedEx or USPS, whichever is cheaper. Normal shipping costs run from $8.00 - $11.00. If you have a commercial address that I can send to, your shipping costs will be even less!
+Payment: I accept PayPal, money orders, personal and cashier_T_E_M_P_T_A_G_#039;s checks. Personal checks will be accepted but I will wait until the check has cleared before sending the item. 
+Return Policy: I want you to be completely satisfied with your item. Because of this, I will accept return of any item for a refund of the purchase price within 30 days of the sale. The item must be in the same condition that it was sent. I cannot refund the shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Aug 2012 16:24:32 +0000</listdate>
+    <saledate>Wed, 10 Oct 2012 23:53:34 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>Version Notes: This is the newest, second edition with upgraded components and additional cards.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Aug 2012 16:24:35 +0000</listdate>
+    <saledate>Wed, 12 Sep 2012 15:43:51 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>likenew</condition>
+    <notes>Opened and played once. The components have been kept in excellent condition (bagged and mini-binned). 
+I will ship via USPS after payment is received (and shipping costs determined) unless you_T_E_M_P_T_A_G_#039;d like it shipped some other way. I will combine shipping with multiple items. From US zip code: 97520.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Oct 2012 00:13:02 +0000</listdate>
+    <saledate>Sat, 27 Oct 2012 23:13:43 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Version Notes: This is the second edition with upgraded components and additional cards.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Oct 2012 21:52:32 +0000</listdate>
+    <saledate>Sun, 04 Nov 2012 02:49:12 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Nov 2012 22:55:11 +0000</listdate>
+    <saledate>Tue, 18 Dec 2012 13:46:23 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>In shrink
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         15 Euro
+PayPal plus 1 Euro
+Money transfer via IBAN/BIC preferred
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Dec 2012 07:14:43 +0000</listdate>
+    <saledate>Sun, 16 Dec 2012 22:42:59 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>For sozman only</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2012 05:09:40 +0000</listdate>
+    <saledate>Sat, 05 Jan 2013 23:40:01 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>new</condition>
+    <notes>Multi-language version including English, German etc.
+Game is still in shrink.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jan 2013 18:51:37 +0000</listdate>
+    <saledate>Tue, 12 Nov 2013 11:01:45 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+HORSE FEVER: $34.95
+Cranio Creations [CHG 019]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Apr 2013 20:27:51 +0000</listdate>
+    <saledate>Sat, 09 Nov 2013 23:31:42 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Aug 2013 00:13:05 +0000</listdate>
+    <saledate>Sun, 24 Nov 2013 05:26:18 +0000</saledate>
+    <price currency='USD'>42.99</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap.
+Canadians will be charge applicable taxes.
+Orders will be processed the same day and shipped by expedited parcel.
+You will be charged exact shipping plus $2 for packing material. Shipped from N2B 1J4.
+Local pickups welcome.
+Orders may be combined and orders over $150 will be shipped in Canada free or in the US for a $10 flat fee. Orders must be placed at the same time.
+We ship the day we receive payment!!!
+We currently only accept PayPal.
+Our prices are up to 30% or more off US MRSP.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Sep 2013 10:00:46 +0000</listdate>
+    <saledate>Thu, 26 Sep 2013 12:54:53 +0000</saledate>
+    <price currency='USD'>32.99</price>
+    <condition>new</condition>
+    <notes>COFFEE HAUS GAMES (CHG019)
+Horse Fever transports players to a setting based on the noir novels of the 1930s, where each player is called on to impersonate rich bettors that will use any means necessary to cause the bets they place to pay off. They will fix races, bribe bookmakers, make horses fall asleep, buy stables and borrow money from the Mob in order to gain victory for their bets. Horse Fever has three different game modes: Board Game, Family Game and Party Game. These three different modes enable each kind of player to have a good time. The Board Game will enable expert players to discover a game based on an endless number of strategies; the Family Game will enable little players and families to get to know the basic game dynamics while playing a simpler but yet just as fun game; the Party Game will transform Horse Fever into a platform for a potentially endless number of players and turn any boring party into the most entertaining event of the century. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Sep 2013 19:12:28 +0000</listdate>
+    <saledate>Tue, 29 Oct 2013 19:29:20 +0000</saledate>
+    <price currency='USD'>32.99</price>
+    <condition>new</condition>
+    <notes>COFFEE HAUS GAMES (CHG019)
+Horse Fever transports players to a setting based on the noir novels of the 1930s, where each player is called on to impersonate rich bettors that will use any means necessary to cause the bets they place to pay off. They will fix races, bribe bookmakers, make horses fall asleep, buy stables and borrow money from the Mob in order to gain victory for their bets. Horse Fever has three different game modes: Board Game, Family Game and Party Game. These three different modes enable each kind of player to have a good time. The Board Game will enable expert players to discover a game based on an endless number of strategies; the Family Game will enable little players and families to get to know the basic game dynamics while playing a simpler but yet just as fun game; the Party Game will transform Horse Fever into a platform for a potentially endless number of players and turn any boring party into the most entertaining event of the century. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Oct 2013 23:01:59 +0000</listdate>
+    <saledate>Fri, 01 Nov 2013 14:58:27 +0000</saledate>
+    <price currency='EUR'>26</price>
+    <condition>new</condition>
+    <notes>2011
+Shrink wrapped !
+Accept Paypal or IBAN with BIC
+Any questions just ask.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Oct 2013 21:26:26 +0000</listdate>
+    <saledate>Tue, 18 Feb 2014 09:39:42 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Nov 2013 00:57:33 +0000</listdate>
+    <saledate>Thu, 26 Dec 2013 17:42:19 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>New in Shrink Second Edition Horse Fever. Shipping $12.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Dec 2013 22:28:51 +0000</listdate>
+    <saledate>Sun, 15 Dec 2013 23:34:41 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>For auction winner CABRISC only
+2nd Edition in great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Dec 2013 21:19:08 +0000</listdate>
+    <saledate>Sun, 29 Dec 2013 03:41:32 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Horse Fever is brand new, in shrinkwrap. Shipping is free.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jan 2014 14:52:29 +0000</listdate>
+    <saledate>Sun, 26 Jan 2014 20:13:13 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>New in Shrink Second Edition Horse Fever. Shipping $12.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Feb 2014 02:03:35 +0000</listdate>
+    <saledate>Thu, 03 Apr 2014 01:47:26 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>New in Shrink Second Edition Horse Fever. Will ship worldwide. Buyer from outside US to pay exact shipping cost. US domestic buyers shipping is $12.00.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Feb 2014 01:53:36 +0000</listdate>
+    <saledate>Sun, 23 Feb 2014 14:41:22 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Opened, never played.
+2nd ed.
+USPS Priority shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Mar 2014 12:50:54 +0000</listdate>
+    <saledate>Mon, 24 Mar 2014 09:14:55 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>verygood</condition>
+    <notes>Multilingual second edition (rules in English,?French,?German,?Italian)
+Played a few times, in perfect condition.
+Contact me for the exact shipping costs:
+Belgium or The Netherlands: €4 with Kiala €7 with BPost or PostNL
+other European countries: €9 - €12 (depending on the destination)
+worldwide: €18
+Payment: European bank transfer or Paypal (buyer pays fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Apr 2014 21:39:59 +0000</listdate>
+    <saledate>Mon, 26 May 2014 00:26:55 +0000</saledate>
+    <price currency='USD'>58</price>
+    <condition>new</condition>
+    <notes>Horse Fever Second Edition new in shrink. Will ship worldwide. Buyers outside of US pays exact shipping cost. Shipping for domestic US buyers is 12.00.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Apr 2014 17:18:16 +0000</listdate>
+    <saledate>Thu, 26 Jun 2014 12:32:30 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Has a very very small ding on on corner of bottom box. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 May 2014 20:34:28 +0000</listdate>
+    <saledate>Fri, 20 Jun 2014 00:52:52 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Played a handful of times but everything is in excellent condition.  Free US shipping if you buy two or more games from me.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jun 2014 03:56:56 +0000</listdate>
+    <saledate>Mon, 02 Jun 2014 14:50:52 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>For ctrosejr
+This sale has been auto-generated for the auction: [geekurl=/geeklist/173804/item/3236594#3236594]Item for Geeklist _T_E_M_P_T_A_G_quot;Because you can_T_E_M_P_T_A_G_#039;t play money: An Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Jul 2014 16:10:42 +0000</listdate>
+    <saledate>Tue, 26 Aug 2014 21:37:29 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>New in shrink, buyer pays shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Sep 2014 17:40:53 +0000</listdate>
+    <saledate>Sat, 06 Sep 2014 16:33:28 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Only played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Jan 2015 11:40:39 +0000</listdate>
+    <saledate>Fri, 16 Jan 2015 05:19:53 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>new</condition>
+    <notes>In shrink
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus max. 3 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 May 2012 07:30:25 +0000</listdate>
+    <saledate>Tue, 17 Feb 2015 11:05:17 +0000</saledate>
+    <price currency='EUR'>33.9</price>
+    <condition>new</condition>
+    <notes>mint!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 May 2012 07:30:25 +0000</listdate>
+    <saledate>Wed, 01 Apr 2015 20:22:25 +0000</saledate>
+    <price currency='EUR'>34.9</price>
+    <condition>new</condition>
+    <notes>mint!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Aug 2014 13:08:25 +0000</listdate>
+    <saledate>Fri, 10 Apr 2015 23:01:34 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>New in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Nov 2014 03:18:56 +0000</listdate>
+    <saledate>Wed, 29 Apr 2015 03:15:18 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened, unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Mar 2015 19:37:10 +0000</listdate>
+    <saledate>Fri, 15 May 2015 13:59:25 +0000</saledate>
+    <price currency='CAD'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Feb 2015 10:35:44 +0000</listdate>
+    <saledate>Sun, 14 Jun 2015 12:23:32 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>new</condition>
+    <notes>In shrink
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus max. 3 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Jun 2015 12:12:14 +0000</listdate>
+    <saledate>Wed, 01 Jul 2015 13:57:07 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Like new.  Box is open but cards are still sealed and some pieces are unpunched, others have punched themselves.
+Buyer pays shipping from 43081.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Nov 2015 01:26:11 +0000</listdate>
+    <saledate>Wed, 04 Nov 2015 03:29:37 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/199094/item/4254643#4254643]Item for Geeklist _T_E_M_P_T_A_G_quot;The _T_E_M_P_T_A_G_quot;More like a list of BINs than an auction, but still an auction_T_E_M_P_T_A_G_quot; Auction. _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Oct 2015 00:27:16 +0000</listdate>
+    <saledate>Sat, 28 Nov 2015 01:46:56 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Dec 2015 12:37:03 +0000</listdate>
+    <saledate>Wed, 30 Dec 2015 11:16:03 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>Minor wears and whitenings on the edges of the box.
+Shipping cost: 10 euros to Europe.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Dec 2015 18:29:41 +0000</listdate>
+    <saledate>Sun, 24 Jan 2016 04:24:37 +0000</saledate>
+    <price currency='EUR'>31.4</price>
+    <condition>new</condition>
+    <notes>Game: Horse Fever
+Languages: IT, UK, FR, DE
+Condition: New
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express]
+o 500-999g: 6,99€[Economy], 18,99€[Express]
+o 1000-1499g: 9,99€[Economy], 21,99€[Express]
+o 1500-2000g: 11,99€[Economy], 24,99€[Express]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express]
+o 500-999g: 6,99€[Economy], 12,99€[Express]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 34,99€[Express]
+o 500-999g: 6,99€[Economy], 36,99€[Express]
+o 1000-1499g: 9,99€[Economy], 39,99€[Express]
+o 1500-2000g: 11,99€[Economy], 42,99€[Express]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 17,99€[Standard]
+o 500-999g: 17,99€[Standard]
+o 1000-1499g: 17,99€[Standard]
+o 1500-2000g: 17,99€[Standard]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy]
+o 500-999g: 8,99€[Economy]
+o 1000-1499g: 10,99€[Economy]
+o 1500-2000g: 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Standard]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[CHINA, REPUBLIC OF (TAIWAN)]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[#]ErT3Jl38Kc+Y7Bprqa48IuNcel2mStxuiEkHT0sS3jw=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Aug 2015 21:25:02 +0000</listdate>
+    <saledate>Sun, 28 Feb 2016 02:55:31 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Game was opened but never played. This is the first edition Cranio Creations .
+Generally ship USPS flat rate priority with $50 insurance and tracking. The game should fit in a medium box with a estimated rate of $12.95. Regional shipping may be cheaper.
+Game, box and contents are in excellent ship. The contents are bagged.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 16:39:20 +0000</listdate>
+    <saledate>Sun, 28 Feb 2016 19:10:03 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205783/item/4487750#4487750]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction! Hannibal: Rome vs. Carthage, Horse Fever, Archaeology, Ruins (for 51st State/New Era)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Feb 2016 10:10:04 +0000</listdate>
+    <saledate>Wed, 09 Mar 2016 04:11:35 +0000</saledate>
+    <price currency='EUR'>31.4</price>
+    <condition>new</condition>
+    <notes>Game: Horse Fever
+Languages: IT, UK, FR, DE
+Condition: New
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express]
+o 500-999g: 6,99€[Economy], 18,99€[Express]
+o 1000-1499g: 9,99€[Economy], 21,99€[Express]
+o 1500-2000g: 11,99€[Economy], 24,99€[Express]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express]
+o 500-999g: 6,99€[Economy], 12,99€[Express]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 34,99€[Express]
+o 500-999g: 6,99€[Economy], 36,99€[Express]
+o 1000-1499g: 9,99€[Economy], 39,99€[Express]
+o 1500-2000g: 11,99€[Economy], 42,99€[Express]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 17,99€[Standard]
+o 500-999g: 17,99€[Standard]
+o 1000-1499g: 17,99€[Standard]
+o 1500-2000g: 17,99€[Standard]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 6,99€[Economy]
+o 500-999g: 4,99€[Corriere], 8,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 10,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Standard]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[#]ErT3Jl38Kc+Y7Bprqa48IuNcel2mStxuiEkHT0sS3jw=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Apr 2016 23:33:53 +0000</listdate>
+    <saledate>Thu, 07 Apr 2016 00:19:18 +0000</saledate>
+    <price currency='CAD'>45</price>
+    <condition>likenew</condition>
+    <notes>Opened, but unplayed.  Like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Mar 2016 13:50:14 +0000</listdate>
+    <saledate>Thu, 21 Apr 2016 22:43:51 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 May 2016 08:10:04 +0000</listdate>
+    <saledate>Tue, 24 May 2016 21:10:15 +0000</saledate>
+    <price currency='EUR'>28.34</price>
+    <condition>new</condition>
+    <notes>Game: Horse Fever
+Languages: IT, UK, FR, DE
+Condition: New
+Weight range: 1000 - 1500g 
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express]
+o 500-999g: 6,99€[Economy], 18,99€[Express]
+o 1000-1499g: 9,99€[Economy], 21,99€[Express]
+o 1500-2000g: 11,99€[Economy], 24,99€[Express]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express]
+o 500-999g: 6,99€[Economy], 12,99€[Express]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 34,99€[Express]
+o 500-999g: 6,99€[Economy], 36,99€[Express]
+o 1000-1499g: 9,99€[Economy], 39,99€[Express]
+o 1500-2000g: 11,99€[Economy], 42,99€[Express]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 17,99€[Standard]
+o 500-999g: 17,99€[Standard]
+o 1000-1499g: 17,99€[Standard]
+o 1500-2000g: 17,99€[Standard]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 6,99€[Economy]
+o 500-999g: 4,99€[Corriere], 8,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 10,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Standard]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[#]ErT3Jl38Kc+Y7Bprqa48IuNcel2mStxuiEkHT0sS3jw=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Jun 2016 08:24:48 +0000</listdate>
+    <saledate>Sun, 12 Jun 2016 07:32:34 +0000</saledate>
+    <price currency='EUR'>28.34</price>
+    <condition>new</condition>
+    <notes>Game: Horse Fever
+Languages: IT, UK, FR, DE
+Condition: New
+Weight range: 1000 - 1500g 
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express]
+o 500-999g: 6,99€[Economy], 18,99€[Express]
+o 1000-1499g: 9,99€[Economy], 21,99€[Express]
+o 1500-2000g: 11,99€[Economy], 24,99€[Express]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express]
+o 500-999g: 6,99€[Economy], 12,99€[Express]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 34,99€[Express]
+o 500-999g: 6,99€[Economy], 36,99€[Express]
+o 1000-1499g: 9,99€[Economy], 39,99€[Express]
+o 1500-2000g: 11,99€[Economy], 42,99€[Express]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 17,99€[Standard]
+o 500-999g: 17,99€[Standard]
+o 1000-1499g: 17,99€[Standard]
+o 1500-2000g: 17,99€[Standard]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 6,99€[Economy]
+o 500-999g: 4,99€[Corriere], 8,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 10,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Standard]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[#]ErT3Jl38Kc+Y7Bprqa48IuNcel2mStxuiEkHT0sS3jw=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Aug 2016 18:12:15 +0000</listdate>
+    <saledate>Sat, 13 Aug 2016 05:41:37 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>acceptable</condition>
+    <notes>Corner of box is split. Everything is bagged and in very good shape, CD included, no box insert...not sure if it ever had one.
+Buyer to pay shipping cost from 91950. I will use USPS.
+Non smoking home, but I do have two cats.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Sep 2016 17:01:25 +0000</listdate>
+    <saledate>Fri, 16 Sep 2016 17:03:00 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Reserved for datttran90. If you_T_E_M_P_T_A_G_#039;re not datttran90, please do not buy!  :)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Sep 2016 01:38:42 +0000</listdate>
+    <saledate>Wed, 28 Sep 2016 02:10:27 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>likenew</condition>
+    <notes>Reserved for marlnobor
+Includes Guildhall</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Oct 2016 17:11:29 +0000</listdate>
+    <saledate>Fri, 04 Nov 2016 18:40:18 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Played a few times. Very good condition. Includes a CD that comes with it.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Nov 2016 13:47:09 +0000</listdate>
+    <saledate>Sun, 13 Nov 2016 20:54:47 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>I will only sell game orders totaling $20 or more.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jun 2016 09:22:14 +0000</listdate>
+    <saledate>Mon, 12 Dec 2016 01:05:05 +0000</saledate>
+    <price currency='EUR'>28.9</price>
+    <condition>new</condition>
+    <notes>STILL UNOPENED</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2017 17:13:52 +0000</listdate>
+    <saledate>Wed, 01 Feb 2017 00:49:53 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>For auction winner Eugene Zehner only, please. This item includes any other auction winnings.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Mar 2017 19:07:03 +0000</listdate>
+    <saledate>Fri, 21 Apr 2017 09:12:32 +0000</saledate>
+    <price currency='EUR'>19.9</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Apr 2017 16:11:56 +0000</listdate>
+    <saledate>Mon, 24 Apr 2017 19:25:12 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jul 2017 02:26:27 +0000</listdate>
+    <saledate>Wed, 26 Jul 2017 02:45:59 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>for qualm</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Aug 2016 13:38:01 +0000</listdate>
+    <saledate>Mon, 28 Aug 2017 13:52:07 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>likenew</condition>
+    <notes>trade is also possible, please have a look at my Want in Trade list</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 May 2017 18:47:54 +0000</listdate>
+    <saledate>Wed, 13 Sep 2017 01:42:47 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Jul 2017 10:38:53 +0000</listdate>
+    <saledate>Sat, 16 Sep 2017 06:00:49 +0000</saledate>
+    <price currency='EUR'>27.5</price>
+    <condition>verygood</condition>
+    <notes>Shipping depends on the country of destiny. Contact me so that I can check the correct price at the time.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Oct 2017 19:32:29 +0000</listdate>
+    <saledate>Wed, 22 Nov 2017 16:01:53 +0000</saledate>
+    <price currency='EUR'>44</price>
+    <condition>likenew</condition>
+    <notes>just opened, never played</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Sep 2017 07:57:27 +0000</listdate>
+    <saledate>Thu, 28 Dec 2017 12:05:22 +0000</saledate>
+    <price currency='GBP'>29</price>
+    <condition>likenew</condition>
+    <notes>Uk postage £3
+Note only English rulebook included.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Dec 2017 01:16:57 +0000</listdate>
+    <saledate>Mon, 01 Jan 2018 23:39:38 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This listing is for a copy of Horse Fever by Cranio Games.  Game is punched and played but in very good condition.
+Buyer pays 13.60 for USPS Priority Mail shipping, or, if combined with other games, actual shipping via USPS Priority from zip code 46143.  
+I only accept PayPal and only ship to the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Feb 2018 16:30:20 +0000</listdate>
+    <saledate>Tue, 06 Feb 2018 10:08:09 +0000</saledate>
+    <price currency='EUR'>29.9</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 May 2018 21:14:32 +0000</listdate>
+    <saledate>Thu, 12 Jul 2018 05:40:08 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Some light box damage (some bowing and a small tear in the paper on bottom).  Game components are all in mint shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2018 23:17:33 +0000</listdate>
+    <saledate>Mon, 22 Oct 2018 04:37:15 +0000</saledate>
+    <price currency='USD'>54</price>
+    <condition>verygood</condition>
+    <notes>My entire collection is for sale! Will beat almost any price on the marketplace. Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Oct 2018 19:04:25 +0000</listdate>
+    <saledate>Fri, 26 Oct 2018 23:18:59 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR AUCTION WINNER: itzbharath</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Dec 2018 20:44:05 +0000</listdate>
+    <saledate>Sun, 02 Dec 2018 00:48:19 +0000</saledate>
+    <price currency='EUR'>34.9</price>
+    <condition>new</condition>
+    <notes>Language: fra ger ita uk
+Edition Year: 2014
+Publisher: Cranio Creations
+Game Condition: Mint
+Box Condition: Mint
+Availability: Now Available
+ID Gis: 20453 (for reference)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Dec 2018 05:07:01 +0000</listdate>
+    <saledate>Wed, 05 Dec 2018 13:42:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/249078/item/6563014#6563014]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Nov 2018 22:05:43 +0000</listdate>
+    <saledate>Sat, 22 Dec 2018 22:17:59 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes>Shipping costs with DHL will be 6€ within Germany, 16€ within the EU.
+Paypal (+1€ Paypal fee) or bank transfer possible (IBAN / BIC). For other shipping locations, please contact me before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Nov 2018 15:53:13 +0000</listdate>
+    <saledate>Sun, 13 Jan 2019 18:45:18 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played.
+Check out my game collection at https://boardgamegeek.com/collection/user/Racinrod?own=1_T_E_M_P_T_A_G_amp;subtype=boardgame_T_E_M_P_T_A_G_amp;gallery=large_T_E_M_P_T_A_G_amp;ff=1
+I_T_E_M_P_T_A_G_#039;m willing to sell MOST games in my collection at whatever the average sale price is as sold through BGG. If there is a game you might be interested in purchasing, message me here through BGG and I_T_E_M_P_T_A_G_#039;ll get back to you on price.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Jan 2019 21:04:14 +0000</listdate>
+    <saledate>Wed, 16 Jan 2019 12:35:29 +0000</saledate>
+    <price currency='EUR'>14.9</price>
+    <condition>verygood</condition>
+    <notes>All components are in an excellent (unplayed) condition. There is a very small dent on the backside of the game box (see picture).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Nov 2018 20:18:50 +0000</listdate>
+    <saledate>Thu, 21 Feb 2019 00:31:58 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>This is for a copy of the 2nd edition game. Condition is very good to like new.
+All cards are sleeved in premium sleeves.
+Please add $14 for shipping to the US.
+Thanks!</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

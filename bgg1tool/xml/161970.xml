@@ -1,0 +1,2732 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="161970">
+   <yearpublished>2014</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>120</playingtime>
+   <minplaytime>120</minplaytime>
+   <maxplaytime>120</maxplaytime>
+   <age>13</age>
+       <name  sortindex="1">Alchemicy</name>
+       <name  sortindex="4">De Alchemist</name>
+       <name  sortindex="5">Die Alchemisten</name>
+       <name primary="true" sortindex="1">Alchemists</name>
+       <name  sortindex="1">Alchimistes</name>
+       <name  sortindex="1">Alchimisti</name>
+       <name  sortindex="1">Alchimiștii</name>
+       <name  sortindex="1">Alchymisté</name>
+       <name  sortindex="1">Alquimistas</name>
+       <name  sortindex="1">Алхимики</name>
+       <name  sortindex="1">アルケミスト</name>
+       <name  sortindex="1">煉金術士</name>
+       <name  sortindex="1">연금술 아카데미</name>
+         
+   <description>In Alchemists, two to four budding alchemists compete to discover the secrets of their mystical art. Points can be earned in various ways, but most points are earned by publishing theories _T_E_M_P_T_A_G_amp;ndash; correct theories, that is _T_E_M_P_T_A_G_amp;mdash; and therein lies the problem._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game is played in six rounds. At the beginning of the round, players choose their play order. Those who choose to play later get more rewards._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Players declare all their actions by placing cubes on the various action spaces, then each action space is evaluated in order. Players gain knowledge by mixing ingredients and testing the results using a smartphone app (iOS, Android, and also Windows) that randomizes the rules of alchemy for each new game. And if the alchemists are longing for something even more special, they can always buy magical artifacts to get an extra push. There are 9 of them (different for each game) and they are not only very powerful, but also very expensive. But money means nothing, when there's academic pride at stake! And the possession of these artifacts will definitely earn you some reputation too. Players can also earn money by selling potions of questionable quality to adventurers, but money is just a means to an end. The alchemists don't want riches, after all. They want respect, and respect usually comes from publishing theories._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;During play, players' reputations will go up and down. After six rounds and a final exhibition, reputation will be converted into points. Points will also be scored for artifacts and grants. Then the secrets of alchemy are revealed and players score points or lose points based on whether their theories were correct. Whoever has the most points at the end of the game wins._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Flavor text:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Mandrake root and scorpion tail; spongy mushroom and warty toad _T_E_M_P_T_A_G_amp;mdash; these are the foundations of the alchemist's livelihood, science, and art._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;But what arcane secrets do these strange ingredients hide? Now it is time to find out. Mix them into potions and drink them to determine their effects _T_E_M_P_T_A_G_amp;mdash; or play it safe and test the concoction on a helpful assistant! Gain riches selling potions to wandering adventurers and invest these riches in powerful artifacts. As your knowledge grows, so will your reputation, as you publish your theories for all to see. Knowledge, wealth, and fame can all be found in the murky depths of the alchemist's cauldron._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/4VjOkEjTXNR4KQMjaOK7JibjPSw=/fit-in/200x150/pic2241156.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/VKBFHqR2xm0EFGWfb1sPJZctMCs=/0x0/pic2241156.png</image>
+      
+            <boardgamepublisher objectid="7345">Czech Games Edition</boardgamepublisher>
+                             <boardgamehonor objectid="26776">2014 Golden Geek Best Board Game Artwork _T_E_M_P_T_A_G_amp; Presentation Nominee</boardgamehonor>
+               <boardgamehonor objectid="26787">2014 Golden Geek Best Strategy Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="26773">2014 Golden Geek Board Game of the Year Nominee</boardgamehonor>
+               <boardgamehonor objectid="26782">2014 Golden Geek Most Innovative Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="27655">2014 Meeples_T_E_M_P_T_A_G_#039; Choice Nominee</boardgamehonor>
+               <boardgamehonor objectid="28191">2015 Essener Feder Best Written Rules Winner</boardgamehonor>
+               <boardgamehonor objectid="27364">2015 Goblin Magnifico Nominee</boardgamehonor>
+               <boardgamehonor objectid="27366">2015 Scelto dai Goblin Winner</boardgamehonor>
+               <boardgamehonor objectid="47080">2016 Nederlandse Spellenprijs Best Expert Game Nominee</boardgamehonor>
+                      <boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+                                                                                                   <boardgameexpansion objectid="174522">Alchemists: Publisher</boardgameexpansion>
+               <boardgameexpansion objectid="167849">Alchemists: Ring of Favor</boardgameexpansion>
+               <boardgameexpansion objectid="204650">Alchemists: The King_T_E_M_P_T_A_G_#039;s Golem</boardgameexpansion>
+                                    <boardgamepublisher objectid="3475">Arclight</boardgamepublisher>
+                      <boardgamepodcastepisode objectid="182562">Audycja Przystanek Planszówka – odcinek 11</boardgamepodcastepisode>
+                      <boardgamepodcastepisode objectid="177525">BGA Episode 100 - Top 100 Games of All Time</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="220557">Blood Rage, Viking Quiz - Boards _T_E_M_P_T_A_G_amp;amp; Swords #80</boardgamepodcastepisode>
+                             <boardgamepodcastepisode objectid="142660">BW035 – Uli Blennemann</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+               <boardgameversion objectid="408948">Chinese edition</boardgameversion>
+               <boardgameartist objectid="12692">David Cochard</boardgameartist>
+                      <boardgamepublisher objectid="10768">Cranio Creations</boardgamepublisher>
+               <boardgameversion objectid="260284">Czech edition</boardgameversion>
+                             <boardgamecategory objectid="1039">Deduction</boardgamecategory>
+               <boardgamepublisher objectid="2366">Devir</boardgamepublisher>
+               <boardgamepodcastepisode objectid="136466">Die Alchemisten (Heidelberger): Spiele-Podcast Nr. 240</boardgamepodcastepisode>
+               <boardgamefamily objectid="41489">Digital Hybrid, App Required</boardgamefamily>
+               <boardgamepodcastepisode objectid="137931">Dukes of Dice - Ep. 29 - Charity Up</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="150600">Dukes of Dice - Ep. 44 - Alchemi-con</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="131070">Dukes of Dice Podcast - Ep. 09 - Tribal Spiel</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="149177">Dukes of Dice Podcast - Ep. 43 - Kanban Pun</boardgamepodcastepisode>
+               <boardgameversion objectid="271267">Dutch edition</boardgameversion>
+                                    <boardgameversion objectid="245258">English first edition</boardgameversion>
+                             <boardgameversion objectid="389080">English second edition</boardgameversion>
+               <boardgamepodcastepisode objectid="187318">Ep 1 - Alchemists _T_E_M_P_T_A_G_amp;amp; Istanbul</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="214317">Episode 02 - Alchemists</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="187394">Episode 03: Architects _T_E_M_P_T_A_G_amp;amp; Alchemists</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="196208">Episode 11: The one about our 10x10 Challenge</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="164581">Episode 14: Blood Rage, Universal Soldier, and Space Agency</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="200078">Episode 14: The one about games that ramp up and convention season</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="252319">Episode 23: Deduction +</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="132192">Episode 2: Last Night On Earth, Lost Boys, and Galaxy Trucker</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="140502">Episode 46- Patchistory and RobbCon 2015</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="191634">Episode 62 - Xia: Legends of a Drift System</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="204395">Episode 6: Alchemists, Anomia, Castles of Mad King Ludwig, Roll Player, Celestia</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="131716">Essen 2014 - Alchemists</boardgamepodcastepisode>
+                             <boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+                      <boardgameversion objectid="262188">French edition</boardgameversion>
+                             <boardgamepublisher objectid="29194">GaGa Games</boardgamepublisher>
+               <boardgamepublisher objectid="2862">The Game Master BV</boardgamepublisher>
+                      <boardgameversion objectid="256503">German edition</boardgameversion>
+                                                                                                          <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+               <boardgamepublisher objectid="264">Heidelberger Spieleverlag</boardgamepublisher>
+                      <boardgamepodcastepisode objectid="184227">HLG 6: Samen</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="182639">HLG-EXTRA 2: Ducosim Jubileumbeurs 2016</boardgamepodcastepisode>
+               <boardgamepublisher objectid="8923">IELLO</boardgamepublisher>
+               <boardgameversion objectid="257825">Italian edition</boardgameversion>
+                      <boardgameversion objectid="271666">Japanese edition</boardgameversion>
+                             <boardgamepublisher objectid="8291">Korea Boardgames co., Ltd.</boardgamepublisher>
+               <boardgameversion objectid="281818">Korean edition</boardgameversion>
+                      <boardgamedesigner objectid="75718">Matúš Kotry</boardgamedesigner>
+                      <boardgamepublisher objectid="25203">Lex Games</boardgamepublisher>
+               <boardgamepublisher objectid="7992">MINDOK</boardgamepublisher>
+                             <boardgamepublisher objectid="30552">One Moment Games</boardgamepublisher>
+                      <boardgamepodcastepisode objectid="138841">Podcast #087 - Pon bien las losetas</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="198560">Podcast 49 – Alchemists</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="191473">Podcast EP10 – Top 10 jeux de société</boardgamepodcastepisode>
+               <boardgameversion objectid="262812">Polish edition</boardgameversion>
+                                                                              <boardgameversion objectid="277825">Portuguese edition</boardgameversion>
+                             <boardgamepublisher objectid="7466">Rebel</boardgamepublisher>
+                                                                       <boardgamepodcastepisode objectid="170253">RJ54: Devir Fest 2015 + Meeple Gear Solid</boardgamepodcastepisode>
+               <boardgameversion objectid="269327">Romanian edition</boardgameversion>
+                                    <boardgameversion objectid="446848">Russian edition</boardgameversion>
+                      <boardgameversion objectid="264024">Spanish edition</boardgameversion>
+                                    <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamepodcastepisode objectid="219144">The Dice Men Cometh – Episode 186</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="133515">The Game Pit: Episode 38 - The Big Essen 2014 Review</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="136601">The Game Pit: Episode 40 - Council Chamber Mega Review of 2014 with Top 5s</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="156872">The Good, The Board, and the Game That’s Better Than You Say It Is: Episode 29 Underrated Games</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="152660">The Good, The Board, and The Ugly Episode 5: “God does not play dice” -Albert Einstein</boardgamepodcastepisode>
+                      <boardgamepodcastepisode objectid="175576">The Polyhedron Collider Cast Episode 1: Specter Ops, Euphoria, Dead of Winter, Exploding Kittens</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="134274">The Remotish Gamer - Episode #06 - Top 5 of 2014</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="177270">Top 5 Games You Need To Play More Than Once To Appreciate</boardgamepodcastepisode>
+                             <boardgamepodcastepisode objectid="205166">Vox Republica 141: Science Is Your Friend</boardgamepodcastepisode>
+                      <boardgamepodcastepisode objectid="220091">Winning The One’s Affection – Ep. 1</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+                      <boardgamepodcastepisode objectid="174142">보톡스(Boardgame Talks) 제67회 - 연금술 아카데미 Alchemists</boardgamepodcastepisode>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="252">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="136" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="42" />
+     <result value="Recommended" numvotes="143" />
+     <result value="Not Recommended" numvotes="31" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="103" />
+     <result value="Recommended" numvotes="109" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="128" />
+     <result value="Recommended" numvotes="77" />
+     <result value="Not Recommended" numvotes="14" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="107" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="48">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="21" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="25" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="68">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="4" />
+     <result value="10" numvotes="8" />
+     <result value="12" numvotes="28" />
+     <result value="14" numvotes="24" />
+     <result value="16" numvotes="3" />
+     <result value="18" numvotes="1" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>14259</usersrated>
+     <average>7.70795</average>
+     <bayesaverage>7.4912</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="84" bayesaverage="7.4912" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="68" bayesaverage="7.51214" />
+            
+           </ranks>
+     
+     <stddev>1.39568</stddev>
+     <median>0</median>
+     <owned>18522</owned>
+     <trading>334</trading>
+     <wanting>617</wanting>
+     <wishing>3858</wishing>
+     <numcomments>2269</numcomments>
+     <numweights>783</numweights>
+     <averageweight>3.8544</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sat, 18 Oct 2014 16:17:22 +0000</listdate>
+    <saledate>Sun, 19 Oct 2014 11:25:24 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>new</condition>
+    <notes>Delivery cost in the mainland UK - £5.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Oct 2014 21:14:57 +0000</listdate>
+    <saledate>Mon, 20 Oct 2014 06:16:19 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Oct 2014 16:17:22 +0000</listdate>
+    <saledate>Mon, 20 Oct 2014 17:56:20 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>new</condition>
+    <notes>Delivery cost in the mainland UK - £5.00</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Oct 2014 19:57:05 +0000</listdate>
+    <saledate>Mon, 20 Oct 2014 21:25:17 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Oct 2014 21:16:08 +0000</listdate>
+    <saledate>Mon, 20 Oct 2014 21:43:37 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Oct 2014 21:14:57 +0000</listdate>
+    <saledate>Tue, 21 Oct 2014 08:54:00 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Oct 2014 19:57:05 +0000</listdate>
+    <saledate>Tue, 21 Oct 2014 09:07:19 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Oct 2014 21:14:57 +0000</listdate>
+    <saledate>Tue, 21 Oct 2014 11:59:32 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Oct 2014 17:26:00 +0000</listdate>
+    <saledate>Wed, 22 Oct 2014 00:10:48 +0000</saledate>
+    <price currency='GBP'>32.99</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink
+Will come with _T_E_M_P_T_A_G_quot;Ring Of Favor Promo
+Post to UK only will be £4</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Oct 2014 17:26:00 +0000</listdate>
+    <saledate>Wed, 22 Oct 2014 12:01:09 +0000</saledate>
+    <price currency='GBP'>33.99</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink
+Will come with _T_E_M_P_T_A_G_quot;Ring Of Favor Promo
+Post to UK only will be £4</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Oct 2014 19:57:05 +0000</listdate>
+    <saledate>Wed, 22 Oct 2014 20:54:34 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Oct 2014 19:57:05 +0000</listdate>
+    <saledate>Thu, 23 Oct 2014 19:55:41 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Oct 2014 19:57:05 +0000</listdate>
+    <saledate>Sat, 25 Oct 2014 18:10:29 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Oct 2014 19:57:05 +0000</listdate>
+    <saledate>Mon, 27 Oct 2014 17:37:53 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Oct 2014 19:57:05 +0000</listdate>
+    <saledate>Wed, 29 Oct 2014 03:39:01 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Oct 2014 22:12:09 +0000</listdate>
+    <saledate>Wed, 29 Oct 2014 22:51:03 +0000</saledate>
+    <price currency='EUR'>43</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Oct 2014 22:12:09 +0000</listdate>
+    <saledate>Thu, 30 Oct 2014 00:03:17 +0000</saledate>
+    <price currency='EUR'>43</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Nov 2014 02:11:23 +0000</listdate>
+    <saledate>Mon, 17 Nov 2014 02:37:31 +0000</saledate>
+    <price currency='USD'>105</price>
+    <condition>likenew</condition>
+    <notes>Auction win for larryjrice only.
+Includes:
+Alchemists
+Jungle Rumble
+Roll Through the Ages: Iron Age</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Nov 2014 11:56:30 +0000</listdate>
+    <saledate>Sun, 23 Nov 2014 13:38:41 +0000</saledate>
+    <price currency='EUR'>83</price>
+    <condition>likenew</condition>
+    <notes>This is the Essen 2014 version. FREE SHIPPING WHITING GERMANY WITH GLS EXPRESS
+Comes with special promo-cards (already in the box)
+Game looks and smells like new. The rulebook looks a bit _T_E_M_P_T_A_G_quot;tired_T_E_M_P_T_A_G_quot; as we had to use it a lot.
+Notes on errors - If you send a mail to the publisher they will replace the following:
+It is a well known printing error that the holes in the deduction board are not big enough for the tokens (or the tokens are not small enough). 
+It is a well known printing error that the ingredient colors on the background of the deduction board are a bit misplaced.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Nov 2014 19:39:18 +0000</listdate>
+    <saledate>Tue, 25 Nov 2014 20:19:14 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>verygood</condition>
+    <notes>Played twice and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Nov 2014 15:34:15 +0000</listdate>
+    <saledate>Sat, 29 Nov 2014 00:21:47 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>verygood</condition>
+    <notes>Played twice, from essen so the tokens don_T_E_M_P_T_A_G_#039;t fit in the holes, but no complaint has been raised with the publisher so you can claim the correct tokens if you want to.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Dec 2014 16:04:34 +0000</listdate>
+    <saledate>Mon, 01 Dec 2014 20:52:12 +0000</saledate>
+    <price currency='EUR'>42</price>
+    <condition>verygood</condition>
+    <notes>English edition. Language independent. Played a few times, in very good condition
+Contact me for the exact shipping costs:
+Belgium or The Netherlands: €4 with Kiala €7 with BPost or PostNL
+other European countries: €9 - €12 (depending on the destination)
+worldwide: €18
+The shipping quotes above are shipping without tracking and no insurance. Contact me for other shipping options or combined shipping.
+Payment: European bank transfer or Paypal (buyer pays fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Dec 2014 13:11:47 +0000</listdate>
+    <saledate>Thu, 04 Dec 2014 19:38:21 +0000</saledate>
+    <price currency='EUR'>37.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Dec 2014 20:28:48 +0000</listdate>
+    <saledate>Thu, 11 Dec 2014 22:23:51 +0000</saledate>
+    <price currency='EUR'>43</price>
+    <condition>new</condition>
+    <notes>2nd edition. Available week 51</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Dec 2014 20:28:48 +0000</listdate>
+    <saledate>Fri, 12 Dec 2014 15:38:00 +0000</saledate>
+    <price currency='EUR'>43</price>
+    <condition>new</condition>
+    <notes>2nd edition. Available week 51</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Dec 2014 08:51:37 +0000</listdate>
+    <saledate>Sat, 20 Dec 2014 06:13:59 +0000</saledate>
+    <price currency='EUR'>37.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Dec 2014 15:08:06 +0000</listdate>
+    <saledate>Wed, 24 Dec 2014 01:34:28 +0000</saledate>
+    <price currency='EUR'>43</price>
+    <condition>new</condition>
+    <notes>Available in January.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 02:57:51 +0000</listdate>
+    <saledate>Fri, 26 Dec 2014 05:59:00 +0000</saledate>
+    <price currency='USD'>38.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+ALCHEMISTS:  $38.95
+Czech Games [CGE 00027]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: January 2015
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 02:57:51 +0000</listdate>
+    <saledate>Fri, 26 Dec 2014 08:41:53 +0000</saledate>
+    <price currency='USD'>38.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+ALCHEMISTS:  $38.95
+Czech Games [CGE 00027]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: January 2015
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 14:10:39 +0000</listdate>
+    <saledate>Tue, 30 Dec 2014 02:49:36 +0000</saledate>
+    <price currency='EUR'>43</price>
+    <condition>new</condition>
+    <notes>Game weight: 2.380 kg</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 02:57:51 +0000</listdate>
+    <saledate>Tue, 30 Dec 2014 20:06:00 +0000</saledate>
+    <price currency='USD'>38.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+ALCHEMISTS:  $38.95
+Czech Games [CGE 00027]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: January 2015
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 14:10:39 +0000</listdate>
+    <saledate>Tue, 30 Dec 2014 22:19:44 +0000</saledate>
+    <price currency='EUR'>43</price>
+    <condition>new</condition>
+    <notes>Game weight: 2.380 kg</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 02:57:51 +0000</listdate>
+    <saledate>Wed, 31 Dec 2014 16:10:01 +0000</saledate>
+    <price currency='USD'>38.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+ALCHEMISTS:  $38.95
+Czech Games [CGE 00027]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: January 2015
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 02:57:51 +0000</listdate>
+    <saledate>Mon, 05 Jan 2015 19:26:40 +0000</saledate>
+    <price currency='USD'>38.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+ALCHEMISTS:  $38.95
+Czech Games [CGE 00027]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: January 2015
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 02:57:51 +0000</listdate>
+    <saledate>Tue, 06 Jan 2015 07:13:51 +0000</saledate>
+    <price currency='USD'>38.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+ALCHEMISTS:  $38.95
+Czech Games [CGE 00027]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: January 2015
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Jan 2015 16:42:48 +0000</listdate>
+    <saledate>Wed, 07 Jan 2015 18:38:44 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>I am Selling the promo card Ring of Favor. Never played, perfect condition. I will ship in a padded envelope.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jan 2015 21:25:51 +0000</listdate>
+    <saledate>Sat, 10 Jan 2015 01:09:32 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>New, still shrink-wrapped.
+Shipping:
+To Germany (DHL, with tracking): 5.99 EUR
+To *most* EU countries (DHL, with tracking): 15.99 EUR
+(for more shipping information, see below)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 18:15:13 +0000</listdate>
+    <saledate>Sat, 10 Jan 2015 08:31:51 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>new</condition>
+    <notes>German CGE/Heidelberger edition
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 14:10:39 +0000</listdate>
+    <saledate>Wed, 14 Jan 2015 11:31:37 +0000</saledate>
+    <price currency='EUR'>43</price>
+    <condition>new</condition>
+    <notes>Game weight: 2.380 kg</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Jan 2015 14:26:20 +0000</listdate>
+    <saledate>Fri, 16 Jan 2015 07:21:42 +0000</saledate>
+    <price currency='EUR'>39.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 02:57:51 +0000</listdate>
+    <saledate>Sat, 17 Jan 2015 18:49:01 +0000</saledate>
+    <price currency='USD'>38.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+ALCHEMISTS:  $38.95
+Czech Games [CGE 00027]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: January 2015
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 02:57:51 +0000</listdate>
+    <saledate>Mon, 19 Jan 2015 19:51:24 +0000</saledate>
+    <price currency='USD'>38.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+ALCHEMISTS:  $38.95
+Czech Games [CGE 00027]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: January 2015
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Jan 2015 14:26:20 +0000</listdate>
+    <saledate>Mon, 26 Jan 2015 13:00:46 +0000</saledate>
+    <price currency='EUR'>39.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Jan 2015 20:13:00 +0000</listdate>
+    <saledate>Tue, 27 Jan 2015 17:20:30 +0000</saledate>
+    <price currency='GBP'>28</price>
+    <condition>likenew</condition>
+    <notes>Opened and played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 02:57:51 +0000</listdate>
+    <saledate>Wed, 28 Jan 2015 02:36:48 +0000</saledate>
+    <price currency='USD'>38.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+ALCHEMISTS:  $38.95
+Czech Games [CGE 00027]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: January 2015
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jan 2015 05:31:43 +0000</listdate>
+    <saledate>Thu, 29 Jan 2015 00:59:27 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: February 2015
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jan 2015 05:31:43 +0000</listdate>
+    <saledate>Fri, 30 Jan 2015 20:02:58 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: February 2015
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jan 2015 05:31:43 +0000</listdate>
+    <saledate>Sat, 31 Jan 2015 20:49:08 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: February 2015
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Feb 2015 07:47:52 +0000</listdate>
+    <saledate>Mon, 09 Feb 2015 11:39:38 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Feb 2015 07:47:52 +0000</listdate>
+    <saledate>Tue, 10 Feb 2015 15:01:39 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Feb 2015 07:47:52 +0000</listdate>
+    <saledate>Tue, 10 Feb 2015 17:47:27 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Feb 2015 13:19:36 +0000</listdate>
+    <saledate>Fri, 13 Feb 2015 21:50:16 +0000</saledate>
+    <price currency='GBP'>28.95</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Feb 2015 07:47:52 +0000</listdate>
+    <saledate>Tue, 17 Feb 2015 21:36:58 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Jan 2015 10:09:41 +0000</listdate>
+    <saledate>Wed, 18 Feb 2015 07:43:59 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>likenew</condition>
+    <notes>Include Ring of Favor Promo Card 
+Include new revised punch board and additionnal stickers to correct the first edition production issues.
+Perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Feb 2015 07:47:52 +0000</listdate>
+    <saledate>Thu, 19 Feb 2015 01:48:49 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Feb 2015 22:45:37 +0000</listdate>
+    <saledate>Thu, 26 Feb 2015 08:27:48 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Fresh batch right from the ovens at Czech Games Edition.
+Shipping is $10 to anywhere in the US.
+Texans, I_T_E_M_P_T_A_G_#039;m sorry but I must collect an 8.25% sales tax. That_T_E_M_P_T_A_G_#039;s the law. I don_T_E_M_P_T_A_G_#039;t want, Chuck Norris to come roundhouse kick me or anything.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Feb 2015 01:00:42 +0000</listdate>
+    <saledate>Sat, 28 Feb 2015 02:35:26 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>new</condition>
+    <notes>Buyer pays UPS shipping and PayPal fees (if applicable).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Feb 2015 22:45:37 +0000</listdate>
+    <saledate>Sun, 01 Mar 2015 02:12:05 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Fresh batch right from the ovens at Czech Games Edition.
+Shipping is $10 to anywhere in the US.
+Texans, I_T_E_M_P_T_A_G_#039;m sorry but I must collect an 8.25% sales tax. That_T_E_M_P_T_A_G_#039;s the law. I don_T_E_M_P_T_A_G_#039;t want, Chuck Norris to come roundhouse kick me or anything.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Feb 2015 15:21:29 +0000</listdate>
+    <saledate>Thu, 05 Mar 2015 06:55:43 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Mar 2015 09:27:35 +0000</listdate>
+    <saledate>Fri, 06 Mar 2015 08:56:56 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Opened and unpunched but never played.
+Essen 2014 version with fixed tokens.
+Includes the Ring of Favor promo card.
+Free shipping within Germany.
+5€ shipping within Europe.
+For shipping outside of Europe, please contact me before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Mar 2015 17:04:18 +0000</listdate>
+    <saledate>Fri, 06 Mar 2015 12:34:23 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>new</condition>
+    <notes>Please be aware that although this is an English version of the game, the bottom of the box is in Czech. The rest of the box, the rules and components are all in English.
+This game is offered for sale by King Bee Games.
+Please check out our website www.kingbeegames.co.uk for some great deals!
+We are currently only shipping to the UK and use the Hermes Courier Service. We will always combine shipping to reduce the cost when you purchase multiple games.
+Shipping for this game would be £6.25.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Mar 2015 20:10:44 +0000</listdate>
+    <saledate>Fri, 06 Mar 2015 21:24:53 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187739/item/3753254#3753254]Item for Geeklist _T_E_M_P_T_A_G_quot;February Auction (Tuscany/Viticulture KS Collector Edition, Captains of Industry, more KS and others)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Feb 2015 15:21:29 +0000</listdate>
+    <saledate>Mon, 09 Mar 2015 06:29:15 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Mar 2015 17:04:18 +0000</listdate>
+    <saledate>Fri, 13 Mar 2015 21:54:00 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>new</condition>
+    <notes>Please be aware that although this is an English version of the game, the bottom of the box is in Czech. The rest of the box, the rules and components are all in English.
+This game is offered for sale by King Bee Games.
+Please check out our website www.kingbeegames.co.uk for some great deals!
+We are currently only shipping to the UK and use the Hermes Courier Service. We will always combine shipping to reduce the cost when you purchase multiple games.
+Shipping for this game would be £6.25.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Feb 2015 15:21:29 +0000</listdate>
+    <saledate>Sun, 15 Mar 2015 17:15:03 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Mar 2015 21:27:03 +0000</listdate>
+    <saledate>Wed, 18 Mar 2015 16:57:06 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>New in shrink and unopened.
+Small square section of shrink removed on bottom of box.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Mar 2015 21:24:43 +0000</listdate>
+    <saledate>Wed, 18 Mar 2015 21:47:21 +0000</saledate>
+    <price currency='EUR'>38.5</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment (Kiala or DHL4you) or € 6,75 per shipment (PostNL).
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Mar 2015 16:24:59 +0000</listdate>
+    <saledate>Fri, 20 Mar 2015 21:05:22 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>likenew</condition>
+    <notes>Unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Feb 2015 15:21:29 +0000</listdate>
+    <saledate>Tue, 24 Mar 2015 16:19:21 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Apr 2015 13:49:18 +0000</listdate>
+    <saledate>Fri, 10 Apr 2015 18:27:21 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This item is only for brotherben15 because of this auction: https://www.boardgamegeek.com/geeklist/189431/item/3820828#item3820828</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Feb 2015 17:04:19 +0000</listdate>
+    <saledate>Mon, 13 Apr 2015 13:16:39 +0000</saledate>
+    <price currency='EUR'>37.5</price>
+    <condition>new</condition>
+    <notes>2-4 players (Czech Games Editions)
+Languages: English</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Apr 2015 04:30:49 +0000</listdate>
+    <saledate>Tue, 14 Apr 2015 09:50:04 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Mar 2015 17:26:53 +0000</listdate>
+    <saledate>Sun, 19 Apr 2015 16:50:09 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>new</condition>
+    <notes>This is a brand new copy of the game, still in original shrink
+Please note that this is an English edition of the game, but the base of the box has been misprinted with Czech writing.
+Mainland UK Shipping  - £3
+Other destination please contact me for details
+thanks
+Chris</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Mar 2015 17:26:53 +0000</listdate>
+    <saledate>Mon, 27 Apr 2015 15:54:37 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>new</condition>
+    <notes>This is a brand new copy of the game, still in original shrink
+Please note that this is an English edition of the game, but the base of the box has been misprinted with Czech writing.
+Mainland UK Shipping  - £3
+Other destination please contact me for details
+thanks
+Chris</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Apr 2015 12:12:44 +0000</listdate>
+    <saledate>Thu, 30 Apr 2015 21:13:44 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>comes with Ring of Favour promo card
+UK Postage is £8 tracked</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 May 2015 16:26:50 +0000</listdate>
+    <saledate>Tue, 19 May 2015 14:25:56 +0000</saledate>
+    <price currency='EUR'>38.5</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment (Kiala) or € 6,75 per shipment.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 May 2015 01:29:19 +0000</listdate>
+    <saledate>Tue, 26 May 2015 14:57:54 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jun 2015 20:08:41 +0000</listdate>
+    <saledate>Wed, 03 Jun 2015 10:52:45 +0000</saledate>
+    <price currency='EUR'>36</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment (Kiala) or € 6,75 per shipment.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Apr 2015 16:17:50 +0000</listdate>
+    <saledate>Sat, 06 Jun 2015 05:29:05 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>likenew</condition>
+    <notes>Pickup in Toronto possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 May 2015 08:24:03 +0000</listdate>
+    <saledate>Tue, 09 Jun 2015 15:29:13 +0000</saledate>
+    <price currency='GBP'>16.99</price>
+    <condition>verygood</condition>
+    <notes>The game has been played  once only by three very careful adults.
+I will send this game to the eventual buyer using Royal Mail Confirmed Delivery 2 nd  Class.
+ To most mainland UK destinations the p _T_E_M_P_T_A_G_amp; p cost will be £5.00. Some more remote areas may cost a little more.
+ At the time of writing this I also have other games for sale. If you would like any of these as well I can combine p_T_E_M_P_T_A_G_amp;p and, using a courier service, the cost would probably be very little extra.
+ I am not prepared to send any games outside of the UK because of the huge postage costs involved.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 May 2015 01:29:19 +0000</listdate>
+    <saledate>Wed, 17 Jun 2015 14:54:51 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Jun 2015 17:47:57 +0000</listdate>
+    <saledate>Fri, 19 Jun 2015 03:46:41 +0000</saledate>
+    <price currency='USD'>30.5</price>
+    <condition>new</condition>
+    <notes>★ CURRENT SALE: ~10%! List price reflects discount
+★ Condition: Brand new in shrink wrap
+☆ Same as:
+http://amzn.to/1BZ9zzU
+——————
+★ Shipping Information
+Shipping: $11.00 Expedited (US ONLY)
+No combined shipping discounts
+No international shipping
+——————
+★ Sales Tax
+Sales Tax collected for the following states: AZ, CA, CT, FL, GA, IL, IN, KS, KY, MD, MA, MN, NV, NJ, NY, NC, ND, OH, PA, TN, TX, VA, WA, WV, WI
+——————
+★ Accepted Payment Methods:
+☆ 0-1 Day Processing:
+* Debit Card (Visa _T_E_M_P_T_A_G_amp; MC)
+* Google Wallet
+* Venmo
+* Bitcoin
+☆ 2-5 Day Processing:
+* Verified Paypal
+Non-payment will result in order cancellation. Please pay promptly within 24 hours following order confirmation to prevent cancellation. Price fluctuations may cause order cancellation. Prompt payment will help prevent cancellation due to fluctuations.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jun 2015 07:01:58 +0000</listdate>
+    <saledate>Mon, 22 Jun 2015 07:04:56 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>Sold to Bascaria
+This sale has been auto-generated for the auction: [geekurl=/geeklist/192474/item/3950109#3950109]Item for Geeklist _T_E_M_P_T_A_G_quot;The auction ends on 6/21, U.S only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jun 2015 04:41:09 +0000</listdate>
+    <saledate>Tue, 23 Jun 2015 17:12:21 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Shipping $12.00. I will accept PayPal and Google wallet.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jun 2015 03:12:34 +0000</listdate>
+    <saledate>Tue, 30 Jun 2015 05:45:52 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/192689/item/3960779#3960779]Item for Geeklist _T_E_M_P_T_A_G_quot;Game Auction for my nephew with Leukemia_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Jul 2015 05:27:01 +0000</listdate>
+    <saledate>Fri, 03 Jul 2015 02:38:24 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>Brand NEW in Shrink!!!
+Comes from a smoke-free home. 
+International buyers are welcome!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 May 2015 09:51:40 +0000</listdate>
+    <saledate>Sat, 04 Jul 2015 18:15:42 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jul 2015 16:56:51 +0000</listdate>
+    <saledate>Mon, 06 Jul 2015 01:23:10 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>forr user faceCHEEKwall only</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jun 2015 13:55:40 +0000</listdate>
+    <saledate>Thu, 16 Jul 2015 07:19:09 +0000</saledate>
+    <price currency='EUR'>35.5</price>
+    <condition>new</condition>
+    <notes>2-4 players (Czech Games Editions)_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Languages: English</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 May 2015 01:29:19 +0000</listdate>
+    <saledate>Fri, 17 Jul 2015 15:24:52 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Jun 2015 21:58:03 +0000</listdate>
+    <saledate>Fri, 17 Jul 2015 19:11:15 +0000</saledate>
+    <price currency='EUR'>36</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment (Kiala) or € 6,75 per shipment.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Jun 2015 14:23:47 +0000</listdate>
+    <saledate>Sun, 19 Jul 2015 17:45:03 +0000</saledate>
+    <price currency='GBP'>24.99</price>
+    <condition>new</condition>
+    <notes>UK Shipping = £5
+I_T_E_M_P_T_A_G_#039;m happy to combine orders to save on shipping.
+Will only ship within the UK</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Jul 2015 16:50:18 +0000</listdate>
+    <saledate>Tue, 21 Jul 2015 20:55:46 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Jul 2015 12:38:32 +0000</listdate>
+    <saledate>Fri, 24 Jul 2015 22:25:43 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jul 2015 12:46:31 +0000</listdate>
+    <saledate>Sat, 25 Jul 2015 15:37:00 +0000</saledate>
+    <price currency='GBP'>2.25</price>
+    <condition>new</condition>
+    <notes>Dice Tower KS 2015 Promo card _T_E_M_P_T_A_G_#039;Ring of Favor_T_E_M_P_T_A_G_#039;</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Aug 2015 03:53:21 +0000</listdate>
+    <saledate>Tue, 04 Aug 2015 13:08:33 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193789/item/4011271#4011271]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction! No reserves. BINs. Flat shipping! or NYC local pickup_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Aug 2015 00:22:44 +0000</listdate>
+    <saledate>Sun, 16 Aug 2015 09:19:25 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+* minor box ding
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Mar 2015 17:26:53 +0000</listdate>
+    <saledate>Wed, 19 Aug 2015 09:48:25 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>new</condition>
+    <notes>This is a brand new copy of the game, still in original shrink
+Please note that this is an English edition of the game, but the base of the box has been misprinted with Czech writing.
+Mainland UK Shipping  - £3
+Other destination please contact me for details
+thanks
+Chris</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Aug 2015 15:46:28 +0000</listdate>
+    <saledate>Mon, 24 Aug 2015 02:57:25 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Czech Games Edition (CGE00027)
+Mandrake root and scorpion tail; spongy mushroom and warty toad - these are the foundations of the alchemist_T_E_M_P_T_A_G_#039;s livelihood, science, and art. But what arcane secrets do these strange ingredients hide? Now it is time to find out. Mix them into potions and drink them to determine their effects - or play it safe and test the concoction on a helpful assistant! Gain riches selling potions to wandering adventurers and invest these riches in powerful artifacts. As your knowledge grows, so will your reputation, as you publish your theories for all to see. Knowledge, wealth, and fame can all be found in the murky depths of the alchemist_T_E_M_P_T_A_G_#039;s cauldron.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Sep 2015 04:03:30 +0000</listdate>
+    <saledate>Sat, 05 Sep 2015 19:01:50 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/196246/item/4115785#4115785]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction: Gaming Goodies Galore [Ends 9/13]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Sep 2015 05:06:46 +0000</listdate>
+    <saledate>Mon, 14 Sep 2015 16:54:31 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This is for an opened copy that was only played once and is in excellent condition. Shipping is $15.00 for USPS priority mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Oct 2015 21:10:35 +0000</listdate>
+    <saledate>Tue, 13 Oct 2015 06:19:36 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197912/item/4202865#4202865]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction: Alchemists, Bora Bora, Evolution, Francis Drake, Nations: The Dice Game, Steam Park_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Oct 2015 17:00:07 +0000</listdate>
+    <saledate>Tue, 13 Oct 2015 14:56:09 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194495/item/4135109#4135109]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2015 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Oct 2015 04:18:33 +0000</listdate>
+    <saledate>Mon, 19 Oct 2015 17:12:36 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198187/item/4214906#4214906]Item for Geeklist _T_E_M_P_T_A_G_quot;Quick Auction: 200+ games, Pickup in STL available. Ships from STL. Ends Sunday October 18th 9pm(ish) CDT_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For scottdawn1  only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Sep 2015 23:27:11 +0000</listdate>
+    <saledate>Sat, 24 Oct 2015 16:14:22 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened, punched, sleeved and never played. I played another person_T_E_M_P_T_A_G_#039;s copy and found out I don_T_E_M_P_T_A_G_#039;t like it. 
+$25 + shipping
+Will combine shipping with other sales.
+This game is for BoardGamer2008</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Dec 2014 15:08:06 +0000</listdate>
+    <saledate>Wed, 04 Nov 2015 22:54:43 +0000</saledate>
+    <price currency='EUR'>35.54</price>
+    <condition>new</condition>
+    <notes>Price including VAT: €43</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Nov 2015 07:01:47 +0000</listdate>
+    <saledate>Mon, 16 Nov 2015 08:05:28 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>FOR VFM Winner ONLY: Kapi. DO NOT BUY this if you are not this user.
+Payment:
+Please make this via PayPal: michael.h.sims@gmail.com or Cash at Con. Your choice. 
+Communication:
+My email is michael.h.sims@gmail.com and my cell number is 901-831-2611</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Nov 2015 23:51:17 +0000</listdate>
+    <saledate>Wed, 18 Nov 2015 22:35:52 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Opened, played a few times.  
+Ships from 53045.
+USPS shipping. Cheapest possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2015 10:25:12 +0000</listdate>
+    <saledate>Thu, 26 Nov 2015 07:10:40 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Nov 2015 09:38:58 +0000</listdate>
+    <saledate>Fri, 11 Dec 2015 16:37:20 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Dec 2015 17:07:33 +0000</listdate>
+    <saledate>Mon, 28 Dec 2015 11:31:26 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Dec 2015 12:24:37 +0000</listdate>
+    <saledate>Sat, 02 Jan 2016 23:59:21 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>Will ship only to the following locations:
+GERMANY ONLY !!! (Shipping-costs are not included)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jan 2016 03:53:36 +0000</listdate>
+    <saledate>Tue, 05 Jan 2016 06:12:43 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/202027/item/4348240#4348240]Item for Geeklist _T_E_M_P_T_A_G_quot;New Year New Career Auction! Ends January 4th_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Dec 2015 22:19:00 +0000</listdate>
+    <saledate>Mon, 11 Jan 2016 21:42:17 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>Opened but unpunched.
+Buyer pays actual shipping from 08876.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Mar 2015 19:34:56 +0000</listdate>
+    <saledate>Fri, 15 Jan 2016 01:12:55 +0000</saledate>
+    <price currency='GBP'>29</price>
+    <condition>new</condition>
+    <notes>Contents and all components are English box bottom is Czech.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jan 2016 20:16:04 +0000</listdate>
+    <saledate>Sun, 17 Jan 2016 20:38:18 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>This is an auction item for Kameron Gibson (dirksade). If you are not Kameron please do not purchase this item.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jan 2016 22:02:14 +0000</listdate>
+    <saledate>Sun, 17 Jan 2016 23:04:51 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/203580/item/4390324#4390324]Item for Geeklist _T_E_M_P_T_A_G_quot;$5 NEW YEAR AUCTION! Check these awesome games!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+ajsoares only!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Sep 2015 13:41:16 +0000</listdate>
+    <saledate>Thu, 21 Jan 2016 05:06:28 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>I bought this several months ago, opened it and punched everything out.  Since then I_T_E_M_P_T_A_G_#039;ve not be able to get my wife to try it so I_T_E_M_P_T_A_G_#039;m giving up and selling it.  
+Game is punched and bagged but never played so essentially new. 
+Buyer pays actual shipping cost. Please contact me with your zip code for a shipping quote. This is a very heavy game so expect shipping to be $10-$15 depending on how far it_T_E_M_P_T_A_G_#039;s going.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jan 2016 16:19:00 +0000</listdate>
+    <saledate>Fri, 22 Jan 2016 15:12:34 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/202907/item/4383142#4383142]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee IX: The Second Mouse Gets The Cheese_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+I will give you a shipping amount for this and for Alchemists as on both the winning bidder retracted their bids.  I believe you bought a promo from another user as well and will try to get that into your shipment as well.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Dec 2015 11:48:45 +0000</listdate>
+    <saledate>Sun, 31 Jan 2016 10:36:43 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Feb 2016 10:03:29 +0000</listdate>
+    <saledate>Mon, 01 Feb 2016 12:17:00 +0000</saledate>
+    <price currency='USD'>62.19</price>
+    <condition>likenew</condition>
+    <notes>This item is reserved for user yambanis, pending his confirmation.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Sep 2015 02:11:15 +0000</listdate>
+    <saledate>Mon, 01 Feb 2016 19:57:37 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Played this game twice and found that it was too much for my wife. All components are in excellent condition, however the corners of the box are a little scuffed due to a move.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Feb 2016 00:57:02 +0000</listdate>
+    <saledate>Wed, 10 Feb 2016 19:44:45 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/202744/item/4368459#4368459]Item for Geeklist _T_E_M_P_T_A_G_quot;Garrett_T_E_M_P_T_A_G_#039;s Games 2016 Shelf-Clearing Auction - ENDS 2/7/16_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jan 2016 10:14:47 +0000</listdate>
+    <saledate>Tue, 16 Feb 2016 15:37:18 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>likenew</condition>
+    <notes>Habe das Spiel damals gekauft, weil ich es bei Bekannten gespielt habe und super fand. Leider habe ich niemanden in meinem engeren Kreis, der es mitspielt.
+Daher ist es nach dem Auspacken und Sortieren nie auf den Tisch gekommen. Alle Pappmarker sind doppelt, da ich bei CGE etwas reklamiert habe und direkt alles noch einmal bekommen habe.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Feb 2016 12:42:20 +0000</listdate>
+    <saledate>Thu, 18 Feb 2016 13:22:23 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Aug 2015 10:19:17 +0000</listdate>
+    <saledate>Tue, 23 Feb 2016 02:58:26 +0000</saledate>
+    <price currency='USD'>38.49</price>
+    <condition>new</condition>
+    <notes>Czech Games Edition (CGE00027)
+Mandrake root and scorpion tail; spongy mushroom and warty toad - these are the foundations of the alchemist_T_E_M_P_T_A_G_#039;s livelihood, science, and art. But what arcane secrets do these strange ingredients hide? Now it is time to find out. Mix them into potions and drink them to determine their effects - or play it safe and test the concoction on a helpful assistant! Gain riches selling potions to wandering adventurers and invest these riches in powerful artifacts. As your knowledge grows, so will your reputation, as you publish your theories for all to see. Knowledge, wealth, and fame can all be found in the murky depths of the alchemist_T_E_M_P_T_A_G_#039;s cauldron.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Mar 2016 03:47:13 +0000</listdate>
+    <saledate>Sat, 05 Mar 2016 15:46:23 +0000</saledate>
+    <price currency='CAD'>30</price>
+    <condition>verygood</condition>
+    <notes>Held for user Ivan H.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Jan 2016 11:18:42 +0000</listdate>
+    <saledate>Tue, 08 Mar 2016 12:18:49 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Mar 2016 12:25:40 +0000</listdate>
+    <saledate>Thu, 17 Mar 2016 23:17:28 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Mar 2016 11:35:25 +0000</listdate>
+    <saledate>Fri, 18 Mar 2016 00:43:19 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>Alchemists: Ring of Favor Promo Card included.
+Includes second set of markers for the player boards; the original set did not fit very well in the player boards, so CGE made new markers available.
+Condition is very good; the game has been played only twice.
+Payment via Paypal or IBAN bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Mar 2016 22:33:59 +0000</listdate>
+    <saledate>Sat, 19 Mar 2016 19:32:26 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/206332/item/4513969#4513969]Item for Geeklist _T_E_M_P_T_A_G_quot;Time to Admit I_T_E_M_P_T_A_G_#039;m Not Going To Play These Great Games (The Good Stuff)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Mar 2016 09:35:34 +0000</listdate>
+    <saledate>Fri, 25 Mar 2016 19:18:14 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Mar 2016 20:58:57 +0000</listdate>
+    <saledate>Fri, 01 Apr 2016 19:00:17 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Apr 2016 01:32:48 +0000</listdate>
+    <saledate>Fri, 15 Apr 2016 23:37:33 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This is an awesome game that makes creative use of a phone app (or computer program if you don_T_E_M_P_T_A_G_#039;t have a smart phone). Only played a few times, so in great condition, with almost all of the notepads unused!
+Will ship for free!! Also, would a picture if this site would let me, but contact me if you_T_E_M_P_T_A_G_#039;d like to see one.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Apr 2016 19:27:47 +0000</listdate>
+    <saledate>Sun, 17 Apr 2016 18:29:44 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Apr 2016 20:49:09 +0000</listdate>
+    <saledate>Mon, 18 Apr 2016 14:55:10 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Cards are sleeved.
+Only played a few times. Very good condition.
+Ship to U.S. only via USPS 2-day priority medium flat rate. ($12)
+Local pickup available if you are in the San Diego area. (La Jolla)
+I take Paypal or Square Cash (http://cash.me/)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 May 2016 23:11:24 +0000</listdate>
+    <saledate>Wed, 04 May 2016 03:21:13 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>Not the essen release with the issues.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 May 2016 01:50:39 +0000</listdate>
+    <saledate>Wed, 18 May 2016 13:38:50 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208682/item/4623689#4623689]Item for Geeklist _T_E_M_P_T_A_G_quot;Collection Way Too Large Auction (US Only + Stratigicon Pickup) Ends 5/16_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 May 2016 04:00:59 +0000</listdate>
+    <saledate>Thu, 26 May 2016 04:03:38 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/209199/item/4645553#4645553]Item for Geeklist _T_E_M_P_T_A_G_quot;JT19_T_E_M_P_T_A_G_#039;s _T_E_M_P_T_A_G_quot;Cutting the Collection in Half_T_E_M_P_T_A_G_quot; Auction - most games $10_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 May 2016 01:15:18 +0000</listdate>
+    <saledate>Tue, 31 May 2016 03:06:57 +0000</saledate>
+    <price currency='USD'>33.45</price>
+    <condition>verygood</condition>
+    <notes>$20
+$13.45 -Shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 May 2016 05:53:02 +0000</listdate>
+    <saledate>Wed, 01 Jun 2016 05:06:15 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition, only listed as _T_E_M_P_T_A_G_quot;very good_T_E_M_P_T_A_G_quot; because it_T_E_M_P_T_A_G_#039;s been played twice. The rulebook is the only thing that has seen any wear from constant referencing during the games. Enjoyed it but ready to move it on.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Apr 2016 21:04:48 +0000</listdate>
+    <saledate>Wed, 08 Jun 2016 15:51:46 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Jun 2016 16:21:42 +0000</listdate>
+    <saledate>Fri, 10 Jun 2016 14:41:04 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Jun 2016 16:17:44 +0000</listdate>
+    <saledate>Sun, 12 Jun 2016 16:30:45 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/209707/item/4665651#4665651]Item for Geeklist _T_E_M_P_T_A_G_quot;*** CLOSED *** This time I_T_E_M_P_T_A_G_#039;m serious! A one week auction from California_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 May 2016 01:26:36 +0000</listdate>
+    <saledate>Mon, 13 Jun 2016 15:05:07 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jul 2016 17:33:15 +0000</listdate>
+    <saledate>Mon, 04 Jul 2016 17:38:31 +0000</saledate>
+    <price currency='CAD'>26.5</price>
+    <condition>likenew</condition>
+    <notes>English
+moderate in-game text
+Check out the other games I am selling!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jun 2016 20:18:14 +0000</listdate>
+    <saledate>Tue, 02 Aug 2016 22:57:59 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>In great condition, with the correct size Alchemical tokens and the Ring of Favor promo card.
+I normally post with collect+/myhermes, but happy to use alternatives or arrange collection in central London.
+Any questions, please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Aug 2016 09:00:36 +0000</listdate>
+    <saledate>Thu, 11 Aug 2016 15:19:43 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/212106/item/4777489#4777489]Item for Geeklist _T_E_M_P_T_A_G_quot;I really need space auction!!! Last Day!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Aug 2016 09:11:23 +0000</listdate>
+    <saledate>Fri, 12 Aug 2016 15:11:09 +0000</saledate>
+    <price currency='EUR'>49.34</price>
+    <condition>new</condition>
+    <notes>Game: Alchemists
+Languages: UK
+Condition: New
+Weight range: 2500 - 3000g 
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 27,99€[Express]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 16,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 27,99€[Express]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard], 43,99€[Express]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard], 52,99€[Express]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express]
+o 500-999g: 6,99€[Economy], 18,99€[Express]
+o 1000-1499g: 9,99€[Economy], 21,99€[Express]
+o 1500-2000g: 11,99€[Economy], 24,99€[Express]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 43,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 52,99€[Express]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express]
+o 500-999g: 6,99€[Economy], 12,99€[Express]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 43,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 52,99€[Express]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 28,99€[Express]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard], 43,99€[Express]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy], 52,99€[Express]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 28,99€[Express]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 16,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 16,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 43,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 52,99€[Express]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 28,99€[Express]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 34,99€[Express]
+o 500-999g: 6,99€[Economy], 36,99€[Express]
+o 1000-1499g: 9,99€[Economy], 39,99€[Express]
+o 1500-2000g: 11,99€[Economy], 42,99€[Express]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 9,99€[Standard], 21,99€[Express]
+o 500-999g: 9,99€[Standard], 24,99€[Express]
+o 1000-1499g: 16,99€[Standard], 27,99€[Express]
+o 1500-2000g: 16,99€[Standard], 30,99€[Express]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 28,99€[Express]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard]
+o 500-999g: 6,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 6,99€[Economy]
+o 500-999g: 4,99€[Corriere], 8,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 10,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 28,99€[Express]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Standard], 21,99€[Express]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 24,99€[Express]
+o 1000-1499g: 10,99€[Economy], 16,99€[Standard], 27,99€[Express]
+o 1500-2000g: 12,99€[Economy], 16,99€[Standard], 30,99€[Express]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[#]UZSaN/ltb7K0CgW5gOKcE6kHWa2q+S4Lv91DvJSVA44=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Aug 2016 14:37:33 +0000</listdate>
+    <saledate>Thu, 18 Aug 2016 18:54:37 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Reserved for drgnfli00
+Also includes Steam Park</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Aug 2016 19:47:58 +0000</listdate>
+    <saledate>Mon, 12 Sep 2016 19:48:18 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>The game:
+CGE (c) 2014.
+English edition!
+All game components are still in mint condition.
+Contains the correct replacement game parts (the very first print run had production issues).
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within EU I prefer the EU-standard-bank-tranfer (SEPA,IBAN/BIC). It is fast and causes no fees.
+Outside EU Paypal and bank-transfer are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Oct 2016 12:20:27 +0000</listdate>
+    <saledate>Fri, 04 Nov 2016 16:54:01 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Nov 2016 12:08:15 +0000</listdate>
+    <saledate>Tue, 29 Nov 2016 12:33:54 +0000</saledate>
+    <price currency='GBP'>19</price>
+    <condition>likenew</condition>
+    <notes>Played twice, but the box and contents are like new. 
+Postage to UK - £4
+Postage to Europe - £10</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Aug 2016 08:10:51 +0000</listdate>
+    <saledate>Thu, 01 Dec 2016 04:05:15 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played only a few times. That is the only reason I am listing the game as very good condition, but to my eyes there is nothing wrong with the components.
+Game ships from Los Angeles or can arrange local pick up. USPS medium flat rate  is $13.45 but can be a cheaper depending on how close you are to the southwest US. I feel this should be known without saying, but message me to ask about shipping BEFORE purchasing.
+I can accept PayPal and Chase QuickPay.
+Feel free to email any questions.
+Cheers!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Nov 2016 21:17:13 +0000</listdate>
+    <saledate>Thu, 08 Dec 2016 22:00:39 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>likenew</condition>
+    <notes>Played once. Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Dec 2016 13:22:48 +0000</listdate>
+    <saledate>Sun, 11 Dec 2016 16:38:08 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>For sale only to Warp3dlobst3r for winnings from Geek Auction.
+Please paypal total to novalg@gmail.com
+LOCAL PICKUP REQUESTED</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Dec 2016 17:56:21 +0000</listdate>
+    <saledate>Mon, 12 Dec 2016 22:03:04 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner lasagna.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Aug 2016 17:35:42 +0000</listdate>
+    <saledate>Mon, 02 Jan 2017 07:00:49 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>Only played 2-3 times. Excellent condition with no wear on the components or box. Cards were sleeved while playing but are not included in the sale of the game. Shipping is $12 to the continental U.S.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2017 22:32:47 +0000</listdate>
+    <saledate>Thu, 05 Jan 2017 23:49:57 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>VG
+Shipping weight is about 5.5 lbs.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jan 2017 07:57:50 +0000</listdate>
+    <saledate>Mon, 16 Jan 2017 16:12:12 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This is for the auction: [geekurl=/geeklist/218095/item/5090066#5090066_T_E_M_P_T_A_G_#039;Crate Full of Games[/geekurl]
+Please do not purchase if you aren_T_E_M_P_T_A_G_#039;t bigglesbee.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Jan 2017 12:06:37 +0000</listdate>
+    <saledate>Wed, 25 Jan 2017 09:16:59 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Dec 2016 19:23:43 +0000</listdate>
+    <saledate>Fri, 27 Jan 2017 18:40:26 +0000</saledate>
+    <price currency='GBP'>16.5</price>
+    <condition>verygood</condition>
+    <notes>One of the player mixing shields has the lip torn from the main part and has been stuck back with sellotape, but still functions perfectly for game purposes.
+£5 p_T_E_M_P_T_A_G_amp;p to the UK or pickup in central London.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2017 06:05:59 +0000</listdate>
+    <saledate>Wed, 01 Feb 2017 14:32:38 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220682/item/5159477#5159477]Item for Geeklist _T_E_M_P_T_A_G_quot;The addiction must end. Take my games.  Shipping from 22209.  Ends 1/30._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Dec 2016 08:59:25 +0000</listdate>
+    <saledate>Thu, 09 Feb 2017 14:00:52 +0000</saledate>
+    <price currency='EUR'>38</price>
+    <condition>new</condition>
+    <notes>New in shrink!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Feb 2017 00:16:10 +0000</listdate>
+    <saledate>Sun, 12 Feb 2017 17:11:39 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Feb 2017 20:13:36 +0000</listdate>
+    <saledate>Sun, 19 Feb 2017 21:06:12 +0000</saledate>
+    <price currency='USD'>56</price>
+    <condition>likenew</condition>
+    <notes>This item is reserved for Geeklist auction winner spikedone from _T_E_M_P_T_A_G_quot;The After-Holidays Auction_T_E_M_P_T_A_G_quot; and includes the following games:
+Alchemists (with Ring of Favor promo card)
+Guilds of London
+Aquasphere
+PLEASE NOTE: Shipping costs will be calculated and added to the purchase price.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Mar 2017 05:05:34 +0000</listdate>
+    <saledate>Mon, 06 Mar 2017 06:26:18 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/221345/item/5183748#5183748]Item for Geeklist _T_E_M_P_T_A_G_quot;Big Damn Auction!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Mar 2017 04:48:59 +0000</listdate>
+    <saledate>Tue, 14 Mar 2017 04:52:58 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222798/item/5256779#5256779]Item for Geeklist _T_E_M_P_T_A_G_quot;New_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Mar 2017 06:48:24 +0000</listdate>
+    <saledate>Fri, 24 Mar 2017 16:23:01 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Versand per DHL (7 Euro)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2016 06:48:52 +0000</listdate>
+    <saledate>Fri, 24 Mar 2017 16:57:21 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>Comes with the new player boards</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Mar 2017 17:33:40 +0000</listdate>
+    <saledate>Sun, 26 Mar 2017 18:08:28 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>User: zjensen3
+[Per GeekMail: Includes Alchemists, Glen More and Onitama]
+This sale has been auto-generated for the auction: [geekurl=/geeklist/223555/item/5297627#5297627]Item for Geeklist _T_E_M_P_T_A_G_quot;Overflow Auction! (Dallas/Fort Worth) Ends March 30th! _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Apr 2017 16:37:35 +0000</listdate>
+    <saledate>Sat, 15 Apr 2017 22:25:57 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223762/item/5309627#5309627]Item for Geeklist _T_E_M_P_T_A_G_quot;**Spring Cleaning** Auction no. 5_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Apr 2017 17:44:41 +0000</listdate>
+    <saledate>Mon, 24 Apr 2017 08:52:11 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>The game is new, in shrink. Shipping to most countries in the world: 16 euro (but to Germany, Great Britain, Czech Republic for example around 10-12 euro depending on the game weight). If you want to pay by Pay Pal add 3 euro for the fee. Sepa bank transfer also possible. I have also the Alchemists King`s Golem for sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 May 2017 00:00:52 +0000</listdate>
+    <saledate>Mon, 01 May 2017 00:45:13 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/224539/item/5347979#5347979]Item for Geeklist _T_E_M_P_T_A_G_quot;Get it off my shelf sale - 4/23/17_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 May 2017 14:46:44 +0000</listdate>
+    <saledate>Mon, 15 May 2017 17:10:16 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223158/item/5383479#5383479]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con Spring 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Please let me know if you will not be present at the VFM meet-up.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Jun 2017 15:29:00 +0000</listdate>
+    <saledate>Thu, 01 Jun 2017 15:40:27 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/225668/item/5404964#5404964]Item for Geeklist _T_E_M_P_T_A_G_quot;Pre-Origins Blowout Auction! [US Only - Local pickup, Origins pickup available] Includes Space Hulk, Alchemists, Command _T_E_M_P_T_A_G_amp; Colors, Euphoria, Guilds of London, and tons more! Ends May 31st_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+PayPal or an Amazon Gift Card payment can be made to: chris.kirkman@gmail.com
+Feel free to email me at the address above to arrange pickup at Origins. Thanks for bidding!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jun 2017 03:09:07 +0000</listdate>
+    <saledate>Wed, 28 Jun 2017 03:12:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/224851/item/5470237#5470237]Item for Geeklist _T_E_M_P_T_A_G_quot;2017 Dice Tower Convention Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for user Sir Benabus
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Jul 2017 01:09:18 +0000</listdate>
+    <saledate>Sat, 15 Jul 2017 20:08:53 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/227301/item/5488421#5488421]Item for Geeklist _T_E_M_P_T_A_G_quot;Bloodletting AUCTION, the sequel--this one_T_E_M_P_T_A_G_#039;s a purge.  Lower starting bids.   Ends 7/12.  Ships from Arlington, Virginia._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 May 2017 16:14:02 +0000</listdate>
+    <saledate>Sun, 16 Jul 2017 16:02:55 +0000</saledate>
+    <price currency='EUR'>26.9</price>
+    <condition>good</condition>
+    <notes>One of the shields has a broken part so that it cannot hold cards in it. But it is not really a problem since you can put your cards for a recipe also on the table. The other 3 shields are perfectly fine.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Jul 2017 16:23:57 +0000</listdate>
+    <saledate>Tue, 18 Jul 2017 18:10:14 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/227495/item/5498808#5498808]Item for Geeklist _T_E_M_P_T_A_G_quot;Midsummer Days are Hot - Stay Inside and Play a New Game Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Feb 2017 21:33:56 +0000</listdate>
+    <saledate>Sun, 23 Jul 2017 17:42:22 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Oct 2016 01:49:09 +0000</listdate>
+    <saledate>Thu, 03 Aug 2017 00:02:51 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ALCHEMISTS: $39.95
+Czech Games [CGE 00027]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Mar 2017 14:43:42 +0000</listdate>
+    <saledate>Fri, 04 Aug 2017 06:09:13 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Buyer pays shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Aug 2017 16:53:47 +0000</listdate>
+    <saledate>Wed, 16 Aug 2017 19:27:34 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Includes King_T_E_M_P_T_A_G_#039;s Golem Expansion.
+Shipping from 91789</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Aug 2017 17:51:04 +0000</listdate>
+    <saledate>Wed, 23 Aug 2017 18:00:43 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Hammuabi</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Mar 2017 15:48:02 +0000</listdate>
+    <saledate>Tue, 12 Sep 2017 17:59:29 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>NIS</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Sep 2017 20:44:32 +0000</listdate>
+    <saledate>Wed, 13 Sep 2017 03:40:55 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228405/item/5576086#5576086]Item for Geeklist _T_E_M_P_T_A_G_quot;GrandCon Virtual Flea Market - September 15-17, 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Sep 2017 13:27:18 +0000</listdate>
+    <saledate>Wed, 13 Sep 2017 16:30:10 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>C Dennett
+(night1505)
+Rising Sun in September Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Sep 2017 02:18:57 +0000</listdate>
+    <saledate>Fri, 15 Sep 2017 05:56:21 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/227608/item/5638107#5638107]Item for Geeklist _T_E_M_P_T_A_G_quot;NYC Auction - Queens Pickup Available - Ends 10/1 - Freebies_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. Jancr57 only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jul 2017 19:42:18 +0000</listdate>
+    <saledate>Sat, 16 Sep 2017 17:09:10 +0000</saledate>
+    <price currency='EUR'>37</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Sep 2017 16:12:05 +0000</listdate>
+    <saledate>Thu, 12 Oct 2017 19:58:49 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Played a couple of times.  Game is fully intact and shows only minor wear.
+Shipping is paid by buyer.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Oct 2017 11:32:28 +0000</listdate>
+    <saledate>Sun, 22 Oct 2017 17:12:05 +0000</saledate>
+    <price currency='GBP'>21</price>
+    <condition>verygood</condition>
+    <notes>In perfect condition only played a couple of times, from a pet and smoke free home.
+Postage to U.K. only - £4</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Oct 2017 20:52:46 +0000</listdate>
+    <saledate>Tue, 24 Oct 2017 04:02:35 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231144/item/5692759#5692759]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction Time!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Oct 2017 21:05:08 +0000</listdate>
+    <saledate>Fri, 03 Nov 2017 17:15:21 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played once, in great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Nov 2017 00:36:26 +0000</listdate>
+    <saledate>Mon, 06 Nov 2017 01:28:18 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231923/item/5726861#5726861]Item for Geeklist _T_E_M_P_T_A_G_quot;Re-clearing off the shelves Auction + Heroscape auction (Ends Nov 5)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Nov 2017 02:53:25 +0000</listdate>
+    <saledate>Wed, 08 Nov 2017 04:02:03 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231949/item/5733028#5733028]Item for Geeklist _T_E_M_P_T_A_G_quot;The I Just Got Fired So All Games Must Go Auction. Ends 11/7.  Shipping from Arlington, VA 22206._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Nov 2017 12:24:01 +0000</listdate>
+    <saledate>Sun, 12 Nov 2017 20:06:37 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>For Bizmat from the 100+ Games to Sell in Rochester, NY with BINS! (CLOSED!) Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Nov 2017 19:48:47 +0000</listdate>
+    <saledate>Tue, 21 Nov 2017 15:21:50 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230566/item/5749381#5749381]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Apr 2017 15:17:25 +0000</listdate>
+    <saledate>Sun, 26 Nov 2017 03:07:01 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played once</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Dec 2017 20:47:26 +0000</listdate>
+    <saledate>Tue, 12 Dec 2017 05:53:45 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Never played, excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Dec 2017 06:41:43 +0000</listdate>
+    <saledate>Sat, 16 Dec 2017 13:03:20 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231629/item/5774377#5774377]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction! Low reserves and BIN_T_E_M_P_T_A_G_#039;s! Everything must go!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Dec 2017 00:05:05 +0000</listdate>
+    <saledate>Fri, 22 Dec 2017 00:13:03 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>This is a reserved item for a specific buyer.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Jan 2018 03:39:15 +0000</listdate>
+    <saledate>Tue, 16 Jan 2018 16:18:43 +0000</saledate>
+    <price currency='USD'>175</price>
+    <condition>new</condition>
+    <notes>Items from geek auction - reserved for djmoon (Dave Mooney)
+Alchemists + Kings Golem expansion + promos
+OGRE + Reinforcements Expansion + Objective 218
+Princes of Renaissance + expansion
+NY 1901 + Painted minis + promos
+[New in shrink unless otherwise noted in auction listings]
+[Shipping will be added at final checkout based on buyer ZIP unless local pickup is intended]</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jan 2018 12:31:00 +0000</listdate>
+    <saledate>Sat, 27 Jan 2018 15:36:57 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/236243/item/5892122#5892122]Item for Geeklist _T_E_M_P_T_A_G_quot;Great Games Looking for a New Home!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Jan 2018 15:35:59 +0000</listdate>
+    <saledate>Mon, 12 Feb 2018 04:05:46 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>Played once, mint condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Feb 2018 03:04:25 +0000</listdate>
+    <saledate>Sat, 17 Feb 2018 02:23:29 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>reserved for auction winner Pandakai
+buyer pays shipping usps</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Oct 2017 18:54:06 +0000</listdate>
+    <saledate>Thu, 01 Mar 2018 15:43:29 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Dec 2017 14:56:00 +0000</listdate>
+    <saledate>Tue, 06 Mar 2018 15:35:38 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>The game is unplayed / in new condition. The components and the rules are in English. 
+Shipping costs with DHL will be 6€ within Germany, 16€ within the EU.
+Paypal (+1€ Paypal fee) or bank transfer possible (IBAN / BIC). For other shipping locations, please contact me before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Mar 2018 15:01:41 +0000</listdate>
+    <saledate>Mon, 12 Mar 2018 12:58:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238533/item/6005692#6005692]Item for Geeklist _T_E_M_P_T_A_G_quot;auction -130+ games- US shipping only from 12054 - ends 3/11_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Mar 2018 21:08:49 +0000</listdate>
+    <saledate>Thu, 22 Mar 2018 22:11:41 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238228/item/6008983#6008983]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee XII - The Twelfth Cheddar..._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Mar 2018 15:38:16 +0000</listdate>
+    <saledate>Fri, 23 Mar 2018 21:04:51 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238970/item/6028193#6028193]Item for Geeklist _T_E_M_P_T_A_G_quot;Moving/Paring Down Sale -- Ends 3/21 (US/PayPal) — CLOSED_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Feb 2018 14:07:05 +0000</listdate>
+    <saledate>Thu, 29 Mar 2018 09:04:59 +0000</saledate>
+    <price currency='GBP'>22</price>
+    <condition>verygood</condition>
+    <notes>Alchemists
+[b]Edition:[/b]Czech Games Edition, English 1st edition  2014
+[b]Language:[/b] English, language
+[b]Language Dependance:[/b] High, Lots of  necessary in-game text
+[b]Condition:[/b] Excellent condition, played only once, plenty of score pads left. Box lid shows some bowing due to heavy weight on top but still structurally sound. Box may show signs of corner whitening due to transporting to and from my gaming group.
+[b]Sweetner:[/b] includes ring of favour promo 
+[ImageID=2584709inline]</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Apr 2018 22:28:20 +0000</listdate>
+    <saledate>Wed, 18 Apr 2018 18:56:42 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>Item generated via auction; please do not purchase if you did not win the item.
+Condition: Very Good
+Includes:
+Alchemists + sleeves
+Shipping will be $17 via UPS Ground.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 May 2018 04:03:15 +0000</listdate>
+    <saledate>Fri, 18 May 2018 14:27:35 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>good</condition>
+    <notes>Played a few times. All components present and in very good/perfectly playable condition. From a smoke and pet free home. Pictures available on request.
+CGE version.
+Paypal and Venmo accepted.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jun 2018 21:59:52 +0000</listdate>
+    <saledate>Fri, 08 Jun 2018 23:05:46 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231344/item/6192442#6192442]Item for Geeklist _T_E_M_P_T_A_G_quot;Columbus, Ohio Virtual Flea Market (Now including Origins drop off and pick up)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jun 2018 01:54:20 +0000</listdate>
+    <saledate>Mon, 11 Jun 2018 02:51:53 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241644/item/6169253#6169253]Item for Geeklist _T_E_M_P_T_A_G_quot;Time to Cut Down the Collection - A Few OOPs and Large Collections_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jul 2018 12:47:57 +0000</listdate>
+    <saledate>Mon, 02 Jul 2018 13:06:59 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241960/item/6230538#6230538]Item for Geeklist _T_E_M_P_T_A_G_quot;Gencon Virtual Flea Market 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jul 2018 15:15:11 +0000</listdate>
+    <saledate>Mon, 02 Jul 2018 20:11:37 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/242581/item/6218826#6218826]Item for Geeklist _T_E_M_P_T_A_G_quot;In the Summertime Auction - Ends 7/1_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2018 15:40:26 +0000</listdate>
+    <saledate>Fri, 20 Jul 2018 19:07:47 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>Flat Rate Shipping is $10.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jul 2018 07:00:24 +0000</listdate>
+    <saledate>Mon, 23 Jul 2018 07:33:54 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241960/item/6253367#6253367]Item for Geeklist _T_E_M_P_T_A_G_quot;Gencon Virtual Flea Market 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2018 12:14:51 +0000</listdate>
+    <saledate>Tue, 24 Jul 2018 15:33:58 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>new</condition>
+    <notes>This item is posted as a part of the WargameHQ Shelf Clearing Auction.
+The item listed is only for purchase by:
+hgrablewski
+The price has been set at the winning bid, or Buy It Now, price posted to the auction item comment page.
+If you won multiple items, please be sure to add them all to your cart at once and then check out so I can include them in your shipping estimate.
+As a reminder:
+I will only ship to the addresses within the United States.
+I only accept PayPal and payment details will be sent alongside your final invoice.
+Your item(s) will ship on the Saturday FOLLOWING verified payment. 
+I will provide tracking information for your item and insurance sufficient to cover the final price of the auction on shipped items.
+Please inspect your items within the first 5 business days of receipt, beyond that I cannot assist with disputes. I also make no guarantees implied or otherwise as to the condition of games if the carrier has been rough with shipping. I pack games in peanuts and try to ensure both the games and their contents are secured inside the boxes to minimize issues.
+If you fail to pay for your item within 5 business days, I will cancel the sale and list the item on eBay and you can re-bid on it there at that time.
+If you have any special requests, please Geekmail me so we can discuss prior to payment finalization.
+Thank you for your purchase and I hope you enjoy your new game(s)!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jul 2018 14:08:14 +0000</listdate>
+    <saledate>Wed, 25 Jul 2018 14:10:50 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Reserved for BGG user Inari44, winner of this item in the Gen Con flea market geeklist.   Delivery at Gen Con 2018
+Also Contains:
+Alchemists: The King_T_E_M_P_T_A_G_#039;s Golem
+Alchemists: Ring of Favor
+Alchemists: Publisher</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jul 2018 18:10:28 +0000</listdate>
+    <saledate>Wed, 01 Aug 2018 01:05:56 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Can meet at Gencon. Shipping will be 14</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Aug 2018 03:46:52 +0000</listdate>
+    <saledate>Wed, 01 Aug 2018 10:58:07 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/242993/item/6235325#6235325]Item for Geeklist _T_E_M_P_T_A_G_quot;Hard-To-Let-Go-Of Games Auction, ends July 31_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Jun 2018 19:11:34 +0000</listdate>
+    <saledate>Mon, 06 Aug 2018 23:11:49 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>Punched but never played.
+Buyer pays shipping from 98405.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Aug 2018 06:15:00 +0000</listdate>
+    <saledate>Fri, 24 Aug 2018 18:38:31 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/235572/item/6055797#6055797]Item for Geeklist _T_E_M_P_T_A_G_quot;SF Bay Area Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Sep 2018 01:50:38 +0000</listdate>
+    <saledate>Sat, 22 Sep 2018 18:07:18 +0000</saledate>
+    <price currency='CAD'>35</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/244796/item/6379006#6379006]Item for Geeklist _T_E_M_P_T_A_G_quot;Montreal Virtual Flea Market - September 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+With promo </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Sep 2018 03:04:59 +0000</listdate>
+    <saledate>Tue, 25 Sep 2018 00:24:17 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>Moving sale, selling for $19 obo.  Played a handful of times, in great condition.  Buyer pays shipping or free local pickup in San Francisco.
+Only available to ship or pickup during 19 - 30 Sep 2018 as I am currently not in the country.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jul 2016 10:16:51 +0000</listdate>
+    <saledate>Tue, 02 Oct 2018 16:37:17 +0000</saledate>
+    <price currency='EUR'>18.99</price>
+    <condition>verygood</condition>
+    <notes>All cards are sleeved.
+The cauldron shelfs behind the screen have been upgrade: https://www.boardgamegeek.com/filepage/114681/cauldron-paper-shelf
+See attached image.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Sep 2018 17:07:11 +0000</listdate>
+    <saledate>Wed, 03 Oct 2018 02:52:22 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Minor shelf wear. Otherwise excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Sep 2018 22:12:22 +0000</listdate>
+    <saledate>Tue, 16 Oct 2018 21:58:24 +0000</saledate>
+    <price currency='EUR'>21</price>
+    <condition>good</condition>
+    <notes>Minor damage to the box
+no animals, non smoker
+played maybe twice
+Shipping within GERMANY (+5,90€) for Other Country please send me a message.
+21,-€ +5,90 Shipping (GERMANY) via DHL = 26,90€ in total</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Sep 2018 00:01:05 +0000</listdate>
+    <saledate>Thu, 18 Oct 2018 15:06:42 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Open. Dented front box cover from stacking. Contents NOT punched. Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Oct 2018 17:44:26 +0000</listdate>
+    <saledate>Tue, 30 Oct 2018 18:17:35 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Dec 2017 21:44:05 +0000</listdate>
+    <saledate>Fri, 02 Nov 2018 15:41:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New in Shrinkwrap</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Nov 2015 14:39:01 +0000</listdate>
+    <saledate>Fri, 02 Nov 2018 20:12:49 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>In shrink
+German
+Shipping Germany   7 Euro
+Shipping European Union 16 Euro
+Shipping World starting 29 Euro
+PayPal plus max. 3 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Nov 2018 01:49:48 +0000</listdate>
+    <saledate>Tue, 06 Nov 2018 02:19:02 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Reserved for user Wizards Wharf thru auction.
+I will accept: 
+Paypal: christopherdavidgraves@gmail.com (double check for typos!)
+Venmo: @Christopher-Graves-11
+Cash App: cashtag = $senorgraves</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Nov 2018 02:15:18 +0000</listdate>
+    <saledate>Thu, 08 Nov 2018 02:23:14 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This is for user _T_E_M_P_T_A_G_quot;nisanchez_T_E_M_P_T_A_G_quot;. If you are NOT nisanchez DO NOT BUY THIS! It is from an auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Nov 2018 03:58:33 +0000</listdate>
+    <saledate>Sat, 10 Nov 2018 15:12:35 +0000</saledate>
+    <price currency='USD'>27.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Nov 2018 12:30:18 +0000</listdate>
+    <saledate>Sun, 18 Nov 2018 15:35:38 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>This item is reserved for BGG user _T_E_M_P_T_A_G_quot;georgewrasmussen_T_E_M_P_T_A_G_quot; winner from the auction _T_E_M_P_T_A_G_quot;Even More Games To Go... Euro_T_E_M_P_T_A_G_#039;s,and Wargames Auction._T_E_M_P_T_A_G_quot; If you are not _T_E_M_P_T_A_G_quot;georgewrasmussen_T_E_M_P_T_A_G_quot;, please ignore this posting.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Nov 2018 20:57:34 +0000</listdate>
+    <saledate>Wed, 28 Nov 2018 04:36:29 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Very unique game--complete and has been played several times.
+Buyer to pay actual shipping costs from Central Virginia, Zip Code 23140
+I accept Paypal  for payments.  Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Dec 2018 15:30:17 +0000</listdate>
+    <saledate>Mon, 03 Dec 2018 10:07:47 +0000</saledate>
+    <price currency='EUR'>37</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/247792/item/6547304#6547304]Item for Geeklist _T_E_M_P_T_A_G_quot;Stefan spielt... Shelf-Clearing Funding Charity Auction (EU)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Nov 2018 22:44:43 +0000</listdate>
+    <saledate>Wed, 12 Dec 2018 17:30:22 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>verygood</condition>
+    <notes>Versand innerhalb Deutschlands als versichertes DHL-Paket mit Sendungsverfolgung: 5,99 €
+Für Versand außerhalb Deutschlands bitte einfach eine kurze Nachricht schicken.
+Bezahlung vorzugsweise per Überweisung oder über PayPal.
+---------------------
+Shipping within Germany as an insured, traceable DHL package: 5.99€
+For international shipping please drop me a quick message and I will fill you in on prospective shipping costs.
+I prefer money transfer over PayPal but both are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Oct 2018 19:45:06 +0000</listdate>
+    <saledate>Fri, 14 Dec 2018 07:54:44 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Dec 2018 17:20:03 +0000</listdate>
+    <saledate>Thu, 27 Dec 2018 17:00:14 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Game is in great condition.  Played once.  This version contains the laboratory where the color stripes don_T_E_M_P_T_A_G_#039;t completely align.  In my opinion his does not impact game play.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Dec 2018 14:05:08 +0000</listdate>
+    <saledate>Sun, 30 Dec 2018 04:29:04 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Played a few times</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Nov 2018 13:15:07 +0000</listdate>
+    <saledate>Sun, 30 Dec 2018 16:55:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>I am downsizing my collection.  Game is in like new condition (only played a few times), comes from a smoke-free home and is adult-owned.  I have a Stamps.com account to try to keep shipping down.  Depending on location, shipping will be between $8-$10.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Sep 2017 20:58:02 +0000</listdate>
+    <saledate>Thu, 03 Jan 2019 18:28:55 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Brand new. $10 shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Jan 2019 00:30:29 +0000</listdate>
+    <saledate>Thu, 10 Jan 2019 01:39:46 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Opened and played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jan 2019 22:39:35 +0000</listdate>
+    <saledate>Mon, 21 Jan 2019 22:49:27 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/244376/item/6589714#6589714]Item for Geeklist _T_E_M_P_T_A_G_quot;Central Maryland Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for JJL_WashDC.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Jan 2019 11:29:09 +0000</listdate>
+    <saledate>Fri, 08 Feb 2019 16:01:30 +0000</saledate>
+    <price currency='GBP'>19.99</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

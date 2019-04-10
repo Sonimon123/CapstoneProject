@@ -1,0 +1,727 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="68247">
+   <yearpublished>2010</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>45</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>10</age>
+       <name  sortindex="5">Die Minen von Zavandor</name>
+       <name primary="true" sortindex="5">The Mines of Zavandor</name>
+       <name  sortindex="1">ザヴァンドールの鉱山</name>
+         
+   <description>In this third game in Lookout's Zavandor fantasy setting, it's all about dwarves. And mining. And gemstones. And other enhancements for the mines that need to get developed further during the game to have full effect._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;4 different gems are the currencies in this game. However, when collecting income you draw cards from 4 different mines (card stacks) with each having its own distribution! The number of gems you earn depends on the upgrade level of your dwarves. Gems are used to either win new objects for their mine through simultaneous 4-way auctions, or to enhance their mines, objects, and victory point count. Another innovative part is that each object has to be upgraded to fully use its benefits, e.g. a level 1 dwarf only gives you 1 income per round, some level 3 dwarves give you 3 income._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;On the King's way through the mountain, the requirements for upgrading some special cards always change, and only the player who wins the sapphire auction knows where the next turn will lead to. There are shorter and longer paths to the Coronation Chamber, where the game ends. The game lasts between 10 to 12 rounds._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/nNX20dYsW7uuvnlGJ7tabjnWW9k=/fit-in/200x150/pic844487.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/pT-VLR1W3FIuZweodmJ6XvE7imM=/0x0/pic844487.jpg</image>
+      
+                   <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+                             <boardgameversion objectid="72929">English edition</boardgameversion>
+                      <boardgamepodcastepisode objectid="227717">Episode #58: Game Difficulty</boardgamepodcastepisode>
+               <boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+               <boardgameartist objectid="11507">Klemens Franz</boardgameartist>
+                      <boardgamepodcastepisode objectid="260399">Gaming Rules! Podblast – Episode 7 – Alexander Pfister, Blackout, Great Western Trail, and others</boardgamepodcastepisode>
+               <boardgameversion objectid="21928">German edition</boardgameversion>
+                                                                <boardgamepublisher objectid="1391">Hobby Japan</boardgamepublisher>
+                      <boardgameversion objectid="372658">Japanese edition</boardgameversion>
+               <boardgamepodcastepisode objectid="212884">JTRPodcast 017 – Alexander Pfister’s Games Ranked</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="235210">JTRPodcast 039 – Game Rewind April 2017</boardgamepodcastepisode>
+               <boardgamepublisher objectid="234">Lookout Games</boardgamepublisher>
+               <boardgameexpansion objectid="132120">Die Minen von Zavandor: Die verlorenen Spruchrollen</boardgameexpansion>
+               <boardgamedesigner objectid="11767">Alexander Pfister</boardgamedesigner>
+                                           <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamemechanic objectid="2008">Trading</boardgamemechanic>
+                      <boardgamepublisher objectid="538">Z-Man Games, Inc.</boardgamepublisher>
+               <boardgamefamily objectid="5809">Zavandor</boardgamefamily>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="22">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="9" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="9" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="18" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="11" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="1" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>921</usersrated>
+     <average>6.59759</average>
+     <bayesaverage>5.97853</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2272" bayesaverage="5.97853" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1016" bayesaverage="6.08364" />
+            
+           </ranks>
+     
+     <stddev>1.18272</stddev>
+     <median>0</median>
+     <owned>1762</owned>
+     <trading>155</trading>
+     <wanting>40</wanting>
+     <wishing>185</wishing>
+     <numcomments>301</numcomments>
+     <numweights>75</numweights>
+     <averageweight>2.6</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 29 Oct 2010 15:31:18 +0000</listdate>
+    <saledate>Sat, 30 Oct 2010 13:44:52 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+MINES OF ZAVANDOR: $29.95 ...in stock now...no waiting!
+Z-Man Games
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Nov 2010 03:37:06 +0000</listdate>
+    <saledate>Mon, 15 Nov 2010 01:55:55 +0000</saledate>
+    <price currency='CAD'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Dec 2010 00:32:18 +0000</listdate>
+    <saledate>Sun, 06 Mar 2011 04:19:05 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>new</condition>
+    <notes>Mines of Zavandor - New, In shrinkwrap.
+Payment: PayPal, Money Order, Old fashioned Cash
+Shipping: You pay actual cost! *No goofy math!* Most games cost $8 (or less) to $12 to ship in the US. 
+We will always use the cheapest/fastest method to get you your games. Generally, this will be FedEx Home Delivery or USPS Priority Mail. In the case of large games, the cheapest method may be USPS Parcel Post. If this is the case, we will give you the option of a faster method of shipping.
+YES! You can combine items! Order multiple games and we will combine shipping costs. You STILL only have to pay for the actual shipping cost! (W00t!)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Jan 2011 03:50:40 +0000</listdate>
+    <saledate>Wed, 11 Sep 2013 20:35:19 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>For Mike Guigliano.  INCLUDES Nefertiti, Morgenland(card game), and Robber Knights.  Does not fit in flat rate boxes.  Shipping estimate via standard post is $10.  Please pay via paypal using gift to avoid fees.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Mar 2011 19:36:22 +0000</listdate>
+    <saledate>Wed, 11 May 2011 18:29:03 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Only played a few times. 
+Very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Mar 2011 18:16:27 +0000</listdate>
+    <saledate>Mon, 09 May 2011 19:52:14 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Played only once, this game of dwarven mining and gemstone bidding is ready for you to _T_E_M_P_T_A_G_quot;dig_T_E_M_P_T_A_G_quot; in! i take great care of my games and i_T_E_M_P_T_A_G_#039;m asking $22. I_T_E_M_P_T_A_G_#039;m sorry to see it go,  but i need to make some space in my mead hall and some extra gold in my wallet.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Mar 2011 18:11:37 +0000</listdate>
+    <saledate>Tue, 19 Apr 2011 00:44:33 +0000</saledate>
+    <price currency='USD'>30.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 7059)
+Grimmborn, King of the Dwarves of Zavandor, is about to retire. He needs to arrange for his successor. The traditional method of choosing a successor is having a procession of two to four candidates through the mines. 
+You are one of those candidates, following the Path to Kingship, which winds through the depths of the mountains to reach the Coronation Chamber. On the way, you will be receiving gems with which to bid on to acquire improvements and the upgrading of those improvements. The player with the most victory points upon reaching the chamber is the winner and new King of the Dwarves. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 May 2011 22:56:22 +0000</listdate>
+    <saledate>Mon, 23 May 2011 20:14:44 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Randall Fischer.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Jun 2011 19:21:52 +0000</listdate>
+    <saledate>Tue, 28 Jun 2011 17:31:28 +0000</saledate>
+    <price currency='GBP'>17.5</price>
+    <condition>likenew</condition>
+    <notes>Only played twice. Really needs to be played with more than two.
+UK postage £5.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jul 2011 19:52:50 +0000</listdate>
+    <saledate>Mon, 10 Oct 2011 18:17:14 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>Played once, cards sleeved</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Mar 2012 08:32:46 +0000</listdate>
+    <saledate>Tue, 03 Apr 2012 18:18:03 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>English copy in excellent condition. Complete.
+Minor shelf wear to box.
+UK postage £5.50 1st Class, £5.00 Standard parcels.
+Postage discounts for multiple purchases.
+Please contact me for international postage options
+Collection possible from West London
+Payment via bank transfer or paypal (buyer to add 5% towards paypal fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Apr 2012 21:36:38 +0000</listdate>
+    <saledate>Fri, 01 Jun 2012 16:26:51 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 May 2012 19:26:31 +0000</listdate>
+    <saledate>Fri, 18 May 2012 21:44:38 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>For KittyPaws9 from the Trading Cardboard for Treated Lumber Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 May 2012 21:32:35 +0000</listdate>
+    <saledate>Wed, 18 Jul 2012 23:25:01 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>new, in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 May 2012 19:32:30 +0000</listdate>
+    <saledate>Fri, 08 Jun 2012 01:24:24 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Auction win.  Reserved for lipman.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Aug 2012 21:23:49 +0000</listdate>
+    <saledate>Fri, 21 Dec 2012 16:43:03 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>new, in shrink
+reserved for Bob McFadden</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Aug 2012 13:48:35 +0000</listdate>
+    <saledate>Mon, 20 Aug 2012 17:32:43 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>reserved for Joseph Fisher</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Aug 2012 21:52:35 +0000</listdate>
+    <saledate>Mon, 24 Feb 2014 01:37:13 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Sep 2012 14:41:48 +0000</listdate>
+    <saledate>Wed, 03 Oct 2012 02:33:16 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>reserved for zpimpslappa</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Dec 2012 00:59:58 +0000</listdate>
+    <saledate>Tue, 18 Dec 2012 01:14:07 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>sold to pa5t0rd</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Mar 2013 10:48:31 +0000</listdate>
+    <saledate>Mon, 19 Aug 2013 22:23:37 +0000</saledate>
+    <price currency='GBP'>14.5</price>
+    <condition>verygood</condition>
+    <notes>I bought this game in used but excellent condition. I have played it once so the components and the box are still in excellent condition. All the components are in bags. Postage in the UK will be £5. For shipping cost to other countries, please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 May 2013 02:31:39 +0000</listdate>
+    <saledate>Fri, 24 May 2013 03:59:03 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>For goofymushu only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Jun 2013 13:20:36 +0000</listdate>
+    <saledate>Tue, 02 Jul 2013 00:23:06 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>For the action _T_E_M_P_T_A_G_quot;3 Men and an Auction_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Jul 2013 20:53:32 +0000</listdate>
+    <saledate>Mon, 29 Jul 2013 21:14:35 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>For User Joel
+(Midnightdew)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Oct 2013 21:21:55 +0000</listdate>
+    <saledate>Sun, 13 Oct 2013 07:13:40 +0000</saledate>
+    <price currency='EUR'>3</price>
+    <condition>new</condition>
+    <notes>REserved for Oxyligen from auction</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Feb 2014 02:08:30 +0000</listdate>
+    <saledate>Fri, 14 Feb 2014 23:19:00 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jun 2014 18:05:28 +0000</listdate>
+    <saledate>Mon, 02 Jun 2014 18:09:16 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/173804/item/3240109#3240109]Item for Geeklist _T_E_M_P_T_A_G_quot;Because you can_T_E_M_P_T_A_G_#039;t play money: An Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jun 2014 13:04:14 +0000</listdate>
+    <saledate>Fri, 06 Jun 2014 17:47:12 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for _T_E_M_P_T_A_G_quot;MFatman_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Sep 2014 19:46:47 +0000</listdate>
+    <saledate>Thu, 11 Sep 2014 22:02:07 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Oct 2014 04:53:50 +0000</listdate>
+    <saledate>Wed, 15 Oct 2014 20:44:38 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/179716/item/3467948#3467948]Item for Geeklist _T_E_M_P_T_A_G_quot;Potential Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Mar 2015 15:41:03 +0000</listdate>
+    <saledate>Wed, 18 Mar 2015 04:18:02 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner MINNIJ.
+Z-Man games. Game is out of shrink and box lid has minor dishing. Comes with box band. Cards are in shrink. Board is in shrink as well. Never played, obviously. 
+This sale has been auto-generated for the auction: [geekurl=/geeklist/188174/item/3783958#3783958]Item for Geeklist _T_E_M_P_T_A_G_quot;I_T_E_M_P_T_A_G_#039;m done with these games...and getting rid of them. Guaranteed. Minimum bid of $1 There are no BIN in this auction. Don_T_E_M_P_T_A_G_#039;t worry about a lingering auction, it_T_E_M_P_T_A_G_#039;s a short one. _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Dec 2014 08:52:54 +0000</listdate>
+    <saledate>Tue, 28 Apr 2015 16:02:29 +0000</saledate>
+    <price currency='GBP'>17</price>
+    <condition>likenew</condition>
+    <notes>£3 P_T_E_M_P_T_A_G_amp;P in the UK
+Come with the expansion cards for two players</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 May 2015 03:28:41 +0000</listdate>
+    <saledate>Tue, 26 May 2015 00:58:19 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>for Shudohsoccer - auction win</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 May 2015 05:07:42 +0000</listdate>
+    <saledate>Thu, 28 May 2015 13:35:11 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>Only for auction winner Christian Melson aka MrCloudy
+Payment by:
+SquareCash (Preferred) = $joshpowell
+PayPal = jpowelltheowl@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Sep 2015 12:46:26 +0000</listdate>
+    <saledate>Fri, 09 Oct 2015 03:33:55 +0000</saledate>
+    <price currency='USD'>13.49</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Oct 2015 15:12:41 +0000</listdate>
+    <saledate>Wed, 21 Oct 2015 16:10:14 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197039/item/4177005#4177005]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Nov 2015 12:40:11 +0000</listdate>
+    <saledate>Mon, 28 Dec 2015 21:30:03 +0000</saledate>
+    <price currency='GBP'>2.95</price>
+    <condition>verygood</condition>
+    <notes>Only played once.
+£4 UK Postage
+Will only post to the UK</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Oct 2015 22:01:27 +0000</listdate>
+    <saledate>Sun, 17 Jan 2016 20:00:34 +0000</saledate>
+    <price currency='GBP'>7</price>
+    <condition>verygood</condition>
+    <notes>Played a handful of times and seems good but bidding games just aren_T_E_M_P_T_A_G_#039;t my thing!  
+Price includes second class recorded postage to UK.  If you in another location then please get in touch for a postage quote.
+Please get in touch if you have any further questions :)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jan 2016 13:30:46 +0000</listdate>
+    <saledate>Wed, 03 Feb 2016 12:46:58 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Very good condition, only played once.  Buyer pays shipping from 43235.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Mar 2016 20:37:37 +0000</listdate>
+    <saledate>Tue, 22 Mar 2016 02:03:24 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>For Benjaminviking only - please do not purchase</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jun 2014 18:50:27 +0000</listdate>
+    <saledate>Fri, 13 May 2016 18:49:14 +0000</saledate>
+    <price currency='CAD'>17</price>
+    <condition>likenew</condition>
+    <notes>Played once, excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Apr 2016 02:00:56 +0000</listdate>
+    <saledate>Mon, 23 May 2016 18:19:04 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Jun 2016 02:52:16 +0000</listdate>
+    <saledate>Mon, 27 Jun 2016 13:41:05 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for bryan and sarah only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jul 2016 03:36:14 +0000</listdate>
+    <saledate>Sun, 24 Jul 2016 12:08:08 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>Sale completed at Dice Tower Con 2016. Entering in Marketplace to pay BGG commission.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Aug 2016 06:14:01 +0000</listdate>
+    <saledate>Mon, 15 Aug 2016 07:12:34 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>For auction winner Aaron Vanderbeek only, please. This item includes any other auction winnings.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Sep 2016 16:18:59 +0000</listdate>
+    <saledate>Fri, 02 Sep 2016 16:31:12 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/212737/item/4803155#4803155]Item for Geeklist _T_E_M_P_T_A_G_quot;FINAL 24 HOURS, PRICES REDUCED - Kansas City Area Auction, multiple sellers, ends 8/31, US Shipping_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Sep 2016 03:30:49 +0000</listdate>
+    <saledate>Mon, 19 Sep 2016 03:41:26 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214046/item/4873361#4873361]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction Leftovers - Over 200 Games Available At Lower Starting Bids_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Sep 2016 11:43:56 +0000</listdate>
+    <saledate>Sun, 25 Sep 2016 16:24:10 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>For Rex Wick Only.
+Includes Gnomes.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jan 2016 21:21:08 +0000</listdate>
+    <saledate>Wed, 28 Sep 2016 13:50:49 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Only played a few times. All components in baggies.
+Free shipping to the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Nov 2016 17:55:14 +0000</listdate>
+    <saledate>Thu, 09 Mar 2017 19:33:23 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>U.K. Postage £4.50</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jan 2017 21:02:14 +0000</listdate>
+    <saledate>Wed, 17 May 2017 16:57:04 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>likenew</condition>
+    <notes>The game was played only once with care and is in excellent conditon.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Jun 2017 23:09:19 +0000</listdate>
+    <saledate>Mon, 19 Jun 2017 18:18:21 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/226381/item/5445157#5445157]Item for Geeklist _T_E_M_P_T_A_G_quot;Isaac_T_E_M_P_T_A_G_#039;s _T_E_M_P_T_A_G_quot;They_T_E_M_P_T_A_G_#039;re Not Selling_T_E_M_P_T_A_G_quot; Blowout Sale: Everything Starts at $1! (Part 3 of 5)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Sep 2017 12:38:15 +0000</listdate>
+    <saledate>Fri, 06 Oct 2017 14:07:46 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>good</condition>
+    <notes>Never played</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Oct 2017 17:58:50 +0000</listdate>
+    <saledate>Wed, 11 Oct 2017 21:36:59 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230751/item/5666926#5666926]Item for Geeklist _T_E_M_P_T_A_G_quot;CBERG_T_E_M_P_T_A_G_#039;s Shelf Clearing Auction #2_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for samaganda
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Oct 2017 17:33:33 +0000</listdate>
+    <saledate>Mon, 23 Oct 2017 18:48:52 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228286/item/5699801#5699801]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2017 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Sep 2017 20:25:07 +0000</listdate>
+    <saledate>Tue, 24 Oct 2017 03:27:33 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>new and in shrink.
+You can also check out my website at www.islandgande.com</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Jan 2018 06:06:50 +0000</listdate>
+    <saledate>Wed, 31 Jan 2018 06:38:39 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/234912/item/5926246#5926246]Item for Geeklist _T_E_M_P_T_A_G_quot;EGG 2018 buy, sell, trade list_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for Colton Blankenship, EGG pick-up</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Dec 2017 13:40:37 +0000</listdate>
+    <saledate>Mon, 05 Feb 2018 18:37:53 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>I ship by cheapest usps method, but message before ordering if estimate desired.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Mar 2018 16:49:29 +0000</listdate>
+    <saledate>Mon, 16 Apr 2018 09:16:18 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Sep 2017 14:10:47 +0000</listdate>
+    <saledate>Tue, 24 Apr 2018 13:03:19 +0000</saledate>
+    <price currency='USD'>13.5</price>
+    <condition>verygood</condition>
+    <notes>I have sleeved the larger card. Is in very good condition. The box has a crease in it.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 May 2018 07:37:30 +0000</listdate>
+    <saledate>Fri, 11 May 2018 20:28:59 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/240663/item/6111073#6111073]Item for Geeklist _T_E_M_P_T_A_G_quot;[Auction] International Move. Everything must go!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Jun 2018 02:12:30 +0000</listdate>
+    <saledate>Fri, 01 Jun 2018 02:45:30 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241575/item/6165143#6165143]Item for Geeklist _T_E_M_P_T_A_G_quot;Small, quick auction! (#11) - ZAVANDOR! - US Only -_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for user _T_E_M_P_T_A_G_quot;BlueDane_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jun 2018 12:53:54 +0000</listdate>
+    <saledate>Tue, 05 Jun 2018 15:06:50 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>likenew</condition>
+    <notes>Reserved for user Ragecage -- won in user christopherdgraves auction
+I will accept: 
+Paypal: christopherdavidgraves@gmail.com (double check for typos!)
+Venmo: @Christopher-Graves-11
+Cash App: cashtag = $senorgraves</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Feb 2015 15:16:19 +0000</listdate>
+    <saledate>Tue, 07 Aug 2018 18:46:14 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Game is complete,  components in zip lock bags
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+German version 
+rules in German,</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Sep 2016 16:01:41 +0000</listdate>
+    <saledate>Sat, 08 Sep 2018 19:09:42 +0000</saledate>
+    <price currency='USD'>15.99</price>
+    <condition>new</condition>
+    <notes>Stored on my shelf B9. Shrinkwrap with tear to wrap at bottom of box.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Sep 2018 13:29:15 +0000</listdate>
+    <saledate>Mon, 17 Sep 2018 14:08:40 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/180514/item/6284768#6284768]Item for Geeklist _T_E_M_P_T_A_G_quot;Yet another _T_E_M_P_T_A_G_quot;My first Auction_T_E_M_P_T_A_G_quot; thread_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Oct 2018 03:28:41 +0000</listdate>
+    <saledate>Tue, 23 Oct 2018 11:10:41 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246415/item/6453101#6453101]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee XIII - Gaming Oktoberfest_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Oct 2018 19:23:12 +0000</listdate>
+    <saledate>Tue, 23 Oct 2018 11:31:59 +0000</saledate>
+    <price currency='EUR'>7</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243137/item/6451560#6451560]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2018 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Hi Christian,
+I’ll be in Essen from Wednesday to Sunday. I_T_E_M_P_T_A_G_#039;ll be working at Feuerland Booth (4-C116) this year. 
+For handover I can offer to meet you
+- during setup on Wednesday   OR 
+- at the general Math Trade Meeting on Friday at 12.00. However, I’ll be at the MT meeting place already at 11.30 to avoid some of the crowd and to get a good setup location. So you’re welcome to meet me early…  :-)
+I hope you will be able to make it to the meeting on Friday. If you can’t please contact me and we can work out a handover at the Feuerland Booth.
+For contacting me at the fair, my mobile is +49 176 56806418. I’d appreciate if you could leave me your mobile no as well.
+I’m looking forward to meeting you.
+Cheers,
+Carsten
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Aug 2018 07:33:06 +0000</listdate>
+    <saledate>Tue, 30 Oct 2018 09:32:50 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Nov 2018 07:12:40 +0000</listdate>
+    <saledate>Fri, 30 Nov 2018 23:43:58 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Opened, never played.  Smoke-free, pet-free home.  Buyer pays shipping from 20910.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Dec 2018 21:12:53 +0000</listdate>
+    <saledate>Thu, 13 Dec 2018 04:59:35 +0000</saledate>
+    <price currency='USD'>9.95</price>
+    <condition>new</condition>
+    <notes>*Shipping via USPS 2 day priority medium flat rate at $13.65, unless price is cheaper due to proximity of delivery or you request a different service. 
+In this third game in Lookout_T_E_M_P_T_A_G_#039;s Zavandor fantasy setting, it_T_E_M_P_T_A_G_#039;s all about dwarves. And mining. And gemstones. And other enhancements for the mines that need to get developed further during the game to have full effect.
+4 different gems are the currencies in this game. However, when collecting income you draw cards from 4 different mines (card stacks) with each having its own distribution! The number of gems you earn depends on the upgrade level of your dwarves. Gems are used to either win new objects for their mine through simultaneous 4-way auctions, or to enhance their mines, objects, and victory point count. Another innovative part is that each object has to be upgraded to fully use its benefits, e.g. a level 1 dwarf only gives you 1 income per round, some level 3 dwarves give you 3 income.
+On the King_T_E_M_P_T_A_G_#039;s way through the mountain, the requirements for upgrading some special cards always change, and only the player who wins the sapphire auction knows where the next turn will lead to. There are shorter and longer paths to the Coronation Chamber, where the game ends. The game lasts between 10 to 12 rounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Dec 2018 09:52:07 +0000</listdate>
+    <saledate>Thu, 10 Jan 2019 18:56:32 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Factory sealed in original shrink wrap. Shipping is $14.00 for Priority Mail. PayPal payments can be sent to bitva2@yahoo.com, thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Oct 2018 20:03:57 +0000</listdate>
+    <saledate>Wed, 30 Jan 2019 07:21:42 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

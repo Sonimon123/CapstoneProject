@@ -1,0 +1,1393 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="433">
+   <yearpublished>1987</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Shark</name>
+       <name  sortindex="1">Tiburones de las Finanzas</name>
+         
+   <description>Shark is a stock-trading game slightly reminiscent of Acquire, in that abstract plays on the game board determine the share values of the various companies.  The similarities end there, though, as Shark is more free-wheeling than Acquire._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Each player may buy (maximum 5 shares total during the turn) and sell (unlimited) shares both before and after his turn, and during his turn rolls dice to determine which company he can affect and in what region he can place that company's marker.    Placing next to another of that company's markers increases the company's share price, which pays out in two ways: first, for placing the marker, the player gets money equal to the new price, and secondly, all players get paid the amount of the increase, multiplied by the number of shares each of them owns.    This wealth is not without risks, though, as placing  in a way that brings two companies' marker-groups adjacent to each other causes the smaller group to be removed from the board, decreasing that company's share price accordingly -- and all players  must pay the amount of the decrease, again multiplied by the number of shares they hold in that company!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game ends if all of one company's markers have been used, if one company's share price reaches 15, or all of shares in the game are sold; at which time the players cash out their stock and determine who, with the most money, has won._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/m9Bt3-t048wCIbbaQb2PrTnpBnQ=/fit-in/200x150/pic72190.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/j9YgbTFnFEsMEvN_AsL97p7Dc08=/0x0/pic72190.jpg</image>
+      
+            <boardgamehonor objectid="8778">1987 Spiel des Jahres Recommended</boardgamehonor>
+               <boardgamefamily objectid="7691">Animals: Sharks</boardgamefamily>
+               <boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+                             <boardgamecategory objectid="1021">Economic</boardgamecategory>
+                      <boardgamepublisher objectid="4089">Falomir Juegos</boardgamepublisher>
+               <boardgameversion objectid="166444">Falomir Spanish edition</boardgameversion>
+               <boardgamepublisher objectid="144">Flying Turtle Games</boardgamepublisher>
+               <boardgameversion objectid="28276">Flying Turtle Games edition</boardgameversion>
+                                                                                                                        <boardgameartist objectid="22512">A. Lefort</boardgameartist>
+               <boardgamepublisher objectid="99">Otto Maier Verlag</boardgamepublisher>
+               <boardgameversion objectid="23709">Ravensburger first edition</boardgameversion>
+               <boardgameversion objectid="37144">Ravensburger German first edition</boardgameversion>
+               <boardgameversion objectid="25170">Ravensburger second edition</boardgameversion>
+               <boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+                      <boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+                      <boardgameartist objectid="22513">J. C. Sohier</boardgameartist>
+               <boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+                      <boardgamedesigner objectid="488">H. Jean Vanaise</boardgamedesigner>
+               <boardgameartist objectid="12565">Walter Wagner</boardgameartist>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="21">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="10" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="13" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="12" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="9" />
+     <result value="Recommended" numvotes="10" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="10">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="10" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="3" />
+     <result value="14" numvotes="1" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1209</usersrated>
+     <average>6.64641</average>
+     <bayesaverage>6.06473</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1947" bayesaverage="6.06473" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="914" bayesaverage="6.16751" />
+            
+           </ranks>
+     
+     <stddev>1.3409</stddev>
+     <median>0</median>
+     <owned>1712</owned>
+     <trading>130</trading>
+     <wanting>43</wanting>
+     <wishing>159</wishing>
+     <numcomments>468</numcomments>
+     <numweights>149</numweights>
+     <averageweight>2.2215</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Wed, 26 Feb 2003 01:09:52 +0000</listdate>
+    <saledate>Fri, 14 Mar 2003 15:08:18 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>Flying Turtle version.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 May 2003 16:13:36 +0000</listdate>
+    <saledate>Thu, 14 Jun 2007 18:22:45 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>new</condition>
+    <notes>NEW VERSION
+DISCOUNT RULES: IF YOU BUY 3 OR MORE GAMES YOU´LL GET DISCOUNT. THE PERCENTAGE IS (DAY+MONTH)/2 (Example: If you buy the games on 12th June you´ll get 12+6=18/2=9 %). So you can get a max. Discount on 31th december of 21 % :_). The date is the BGG-TIME (CST).
+I´m selling a lot of other german boardgames
+Shipping worldwide (Paypal or cash or Western Union). Picture for condition purposes can me mailed
+Look also at my other games I want _T_E_M_P_T_A_G_quot;to get rid off_T_E_M_P_T_A_G_quot;
+If you are looking for some other games send me an email.
+Shipping costs are roughly:
+--------- up to 2 kg ----- up to 5 kg --- up to 10 kg
+--------- no insurance --- insurance ---- insurance
+Europe (EU) - 9 Euros ----- 17 Euros ----- 22 Euros
+USA/Canada - 13 Euros ----- 32 Euros ----- 42 Euros
+Japan ------ 13 Euros ----- 37 Euros ----- 52 Euros 
+Australia -- 13 Euros ----- 37 Euros ----- 52 Euros
+If you have further questions on shipping costs send me a message
+!!! BUYERS FROM SOUTH KOREA !!! PLEASE BUY FROM MY FRIEND ROBBIROB !!! I DON`T SELL GAMES TO SOUTH KOREA ANY MORE !!!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Aug 2003 16:32:57 +0000</listdate>
+    <saledate>Wed, 03 Sep 2003 23:48:50 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>brandnew, still shrinkwrapped.
+The Ravensburger Edition !!!
+Look my other offers too, for more sold out and rare german games.
+Feel free and ask for shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Sep 2003 15:42:16 +0000</listdate>
+    <saledate>Tue, 23 Dec 2003 17:10:27 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>brandnew, still shrinkwrapped.
+The Ravensburger Edition !!!
+Look my other offers too, for more sold out and rare german games.
+Feel free and ask for shipping costs.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Oct 2003 20:02:50 +0000</listdate>
+    <saledate>Mon, 06 Oct 2003 16:19:07 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>still factory sealed, this is the newer Ravensburger edition of this nice game (some rules have changes since previous release). </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Dec 2003 22:23:51 +0000</listdate>
+    <saledate>Mon, 09 Jun 2008 16:53:50 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>new</condition>
+    <notes>brandnew, still shrinkwrapped.
+The Ravensburger Edition !!!
+Look my other offers too, for more sold out and rare german games.
+Feel free and ask for shipping costs.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Mar 2004 21:41:16 +0000</listdate>
+    <saledate>Fri, 03 Dec 2004 05:41:02 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Flying Turtle edition. Never Played. Complete of course</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Aug 2004 13:11:41 +0000</listdate>
+    <saledate>Thu, 17 Feb 2005 17:02:20 +0000</saledate>
+    <price currency='GBP'>14</price>
+    <condition>new</condition>
+    <notes>This is the 1991 Ravensburger edition of this Jean Vanaise stock trading game - brand new and unplayed.  Plastic bits are still in cellowrapping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Sep 2004 13:54:12 +0000</listdate>
+    <saledate>Wed, 24 Nov 2004 19:43:04 +0000</saledate>
+    <price currency='USD'>16.99</price>
+    <condition>likenew</condition>
+    <notes>Unplayed. Flying Turtle - english edition.Cards still in shrink. Shipping is 8.50$ within U.S., insurance 1.30$ opotional.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Dec 2004 15:44:16 +0000</listdate>
+    <saledate>Mon, 13 Dec 2004 02:35:06 +0000</saledate>
+    <price currency='USD'>14.99</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Dec 2004 23:11:20 +0000</listdate>
+    <saledate>Mon, 21 Feb 2005 19:16:00 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Ravensburger edition.
+Still in shrink wrap. Hole in the shrink wrap on the left side, but box is in perfect condition.
+$9.00 shipping to Canada, $15 shipping to USA.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jun 2005 15:38:08 +0000</listdate>
+    <saledate>Thu, 30 Jun 2005 18:08:17 +0000</saledate>
+    <price currency='USD'>12.55</price>
+    <condition>good</condition>
+    <notes>Flying Turtle edition.
+ The game came missing 2 pawns of each color, I substituted a different type of pawn to make the count 20 of each color. Just wouldn_T_E_M_P_T_A_G_#039;t be Flying Turtle without some production mess up. 
+ All stock here and in excellent condition. Both dice present and in good condition. Game board excellent. Money all there and in good condition.
+ Rule book present and in very good condition.
+ I added 4 nice wooden pawns for stock counters They are seen in the picture as are the substitute pawns.
+ Shipping weight 3 lbs. from zip code 02333.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jul 2005 08:07:42 +0000</listdate>
+    <saledate>Wed, 05 Jul 2006 15:59:21 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>good</condition>
+    <notes>Flying Turtle edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jul 2005 21:03:28 +0000</listdate>
+    <saledate>Sun, 24 Jul 2005 17:53:47 +0000</saledate>
+    <price currency='USD'>12.99</price>
+    <condition>good</condition>
+    <notes>Box in good condition, game components in very good condition - only played twice.
+German Ravensburger edition.
+Shipping is 8.50$ within U.S., insurance 1.30$ optional.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Nov 2005 05:16:01 +0000</listdate>
+    <saledate>Thu, 01 Dec 2005 12:17:01 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap; 2001 Ravensburger edition (5 building areas).
+Also have the Flying Turtle edition in shrinkwrap for $24.50 (6 building areas).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Nov 2005 06:57:08 +0000</listdate>
+    <saledate>Thu, 23 Mar 2006 13:40:29 +0000</saledate>
+    <price currency='AUD'>35</price>
+    <condition>verygood</condition>
+    <notes>Latest Ravensberger edition with English rules.
+It_T_E_M_P_T_A_G_#039;s complete and in good condition. My gaming group dislikes this one and I can_T_E_M_P_T_A_G_#039;t see it hitting the table.
+Aussie: Bank Transfer preferred.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Dec 2005 03:04:14 +0000</listdate>
+    <saledate>Sun, 30 Apr 2006 02:19:14 +0000</saledate>
+    <price currency='USD'>24.5</price>
+    <condition>new</condition>
+    <notes>Flying Turtle edition; New in shrinkwrap.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Mar 2006 22:52:33 +0000</listdate>
+    <saledate>Mon, 27 Mar 2006 06:02:43 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>2001 Ravensburger Edition. Opened but never played. 
+(The photo I_T_E_M_P_T_A_G_#039;ve included is not of my copy of the game, but it is the same edition as the one I_T_E_M_P_T_A_G_#039;m offering. I only have a personal PayPal account, so if you pay through PayPal, I can_T_E_M_P_T_A_G_#039;t accept credit card orders.)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Jul 2006 00:00:06 +0000</listdate>
+    <saledate>Sun, 17 Sep 2006 02:43:45 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Never opened, box is in excellent shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Oct 2006 20:20:05 +0000</listdate>
+    <saledate>Sun, 04 Feb 2007 23:43:52 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>We only sell brand new, shrinkwrapped games.  International shipping available.
+Edition: Mayfair Games (1987)
+MSP 50552</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Oct 2006 16:59:49 +0000</listdate>
+    <saledate>Mon, 21 May 2007 13:54:07 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>Shark - Ravensburger
+Very Good / Like New! The box has a few dings and dents, but the components are in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $2.00 handling charge.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Feb 2007 15:10:29 +0000</listdate>
+    <saledate>Sat, 05 May 2007 11:33:22 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>We only sell brand new, shrinkwrapped games. International shipping available.
+Edition: Mayfair Games (1987)
+MSP 50552</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 May 2007 16:42:46 +0000</listdate>
+    <saledate>Wed, 11 Jul 2007 02:37:19 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>We only sell brand new, shrinkwrapped games. International shipping available.
+Edition: Mayfair Games (1987)
+MSP 50552</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jul 2007 19:32:11 +0000</listdate>
+    <saledate>Sun, 21 Oct 2007 08:05:26 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>unpunched/unplayed.   flying turtle version.   US buyer agrees to pay $10 for USPS Priority mail shipping.  </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Apr 2008 21:11:40 +0000</listdate>
+    <saledate>Tue, 03 Jun 2008 01:59:49 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>verygood</condition>
+    <notes>Ravensburger edition. Complete and in very good condition.
+12.90 Euros worldwide surface mail delivery.
+8.60 Euros delivery within Europe.
+4.00 Euros shipping within Germany.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 May 2008 15:36:52 +0000</listdate>
+    <saledate>Fri, 13 Jun 2008 07:09:45 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SHARK: 14.95
+Flying Turtle [MSP 50552]
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jun 2008 01:06:28 +0000</listdate>
+    <saledate>Mon, 23 Jun 2008 02:41:25 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SHARK: 14.95
+Flying Turtle [MSP 50552]
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jun 2008 03:57:25 +0000</listdate>
+    <saledate>Sun, 07 Nov 2010 03:49:45 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SHARK: 19.95
+Flying Turtle [MSP 50552]
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jun 2008 04:45:38 +0000</listdate>
+    <saledate>Wed, 10 Sep 2008 04:54:01 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SHARK: 19.95
+Flying Turtle [MSP 50552]
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Aug 2008 00:58:37 +0000</listdate>
+    <saledate>Fri, 01 Aug 2008 05:49:30 +0000</saledate>
+    <price currency='USD'>18.95</price>
+    <condition>verygood</condition>
+    <notes>Ravensburger edition. Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Aug 2008 02:03:44 +0000</listdate>
+    <saledate>Sun, 10 Aug 2008 03:20:48 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>acceptable</condition>
+    <notes>Ravensburger Ed. Missing one blue card but not essential for gameplay. Otherwise everything else is present and in excellent shape.
+Smoke/Pet free home</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Sep 2008 06:32:43 +0000</listdate>
+    <saledate>Sat, 27 Sep 2008 23:56:02 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SHARK: $19.95
+Flying Turtle [MSP 50552]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Sep 2008 02:45:58 +0000</listdate>
+    <saledate>Wed, 08 Apr 2009 14:58:19 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SHARK: $19.95
+Flying Turtle [MSP 50552]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Oct 2008 22:28:01 +0000</listdate>
+    <saledate>Wed, 15 Oct 2008 00:14:51 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Item has already been sold in the GeekList auction, so unless you are Karlsen, please do not buy this item!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Dec 2008 21:55:33 +0000</listdate>
+    <saledate>Fri, 19 Dec 2008 22:05:32 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>new</condition>
+    <notes>Ravensburger, in shrink.  Shrink is a bit worn, but box looks fine.
+Shipping is $11.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Jan 2009 17:12:07 +0000</listdate>
+    <saledate>Sun, 22 Feb 2009 17:37:47 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>new in shrink. Flying Turtle version</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Jan 2009 17:06:44 +0000</listdate>
+    <saledate>Wed, 28 Jan 2009 15:19:01 +0000</saledate>
+    <price currency='USD'>14.99</price>
+    <condition>verygood</condition>
+    <notes>Flying Turtle edition, in very good condition. Buyer to pay actual shipping _T_E_M_P_T_A_G_amp; handling costs, based on location.  Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Feb 2009 20:13:57 +0000</listdate>
+    <saledate>Tue, 17 Nov 2009 13:56:14 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>The box has a little wear to it.
+The components and the board are like new, included are the original rules set and a printout of an article by the game designer, Sid Sackson, about this game.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Feb 2009 05:50:27 +0000</listdate>
+    <saledate>Wed, 25 Feb 2009 00:35:33 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>This is for an auction won at:
+http://www.boardgamegeek.com/geeklist/39676
+Winning bidder p2me1a
+Bundle also included:
+Stack Market
+Shipping for these items will be $10 to a U.S. address.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Apr 2009 16:33:38 +0000</listdate>
+    <saledate>Thu, 18 Jun 2009 18:44:40 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SHARK: $19.95
+Flying Turtle [MSP 50552]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Aug 2009 03:20:39 +0000</listdate>
+    <saledate>Sat, 08 Aug 2009 06:19:39 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>reserved for minionhunter</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Nov 2009 03:28:28 +0000</listdate>
+    <saledate>Thu, 19 Nov 2009 06:35:29 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>Ravensburger edition. In shrink, but there is very minor wear to box where shrink wore through at the corners.
+Shipping is $10.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 May 2010 10:10:29 +0000</listdate>
+    <saledate>Wed, 29 Sep 2010 16:54:56 +0000</saledate>
+    <price currency='EUR'>7</price>
+    <condition>good</condition>
+    <notes>Rare flying turtle edition. Shipping costs (not insured): EU 9 Euros, wordlwide 14 Euros.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jun 2010 20:33:57 +0000</listdate>
+    <saledate>Thu, 17 Jun 2010 00:50:31 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Ravensburger, 2001 edition (black box).  Played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Jul 2010 21:57:06 +0000</listdate>
+    <saledate>Fri, 20 Aug 2010 17:59:07 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Shark (1991) from Ravensburger 
+Box: Box has virtually no shelfwear and a few barely noticeable dents, dings, and creases.  Overall, the box is in near mint condition!
+Contents:  Complete and like new!  The pieces have been sorted and stored in plastic bags for convenience and safety -- you will be very happy with how the game is packaged.
+SHIPPING
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 3 Lbs. International buyers are very welcome, but please contact me for a shipping price quote to avoid any surprises or misunderstandings.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Aug 2010 16:30:20 +0000</listdate>
+    <saledate>Sat, 05 Mar 2011 22:09:01 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>good</condition>
+    <notes>German version
+Shipping Germany  4 Euro
+Shipping European Union 9 Euro
+Shipping World         14 Euro
+PayPal plus 1 Euro
+Money transfer via IBAN/BIC preferred
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Aug 2010 22:07:40 +0000</listdate>
+    <saledate>Fri, 15 Oct 2010 20:08:22 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Shark from Flying Turtle Games 
+Box: Box has very light shelfwear and a few barely noticeable dents, dings, and creases.  Overall, the box is in excellent+ condition!
+Contents:  Complete and factory-sealed!
+SHIPPING:
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 3 Lbs. from zip code 85208.  International buyers are very welcome, but please contact me for a shipping price quote to avoid any surprises or misunderstandings.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Nov 2010 23:29:30 +0000</listdate>
+    <saledate>Tue, 18 Oct 2011 04:19:38 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SHARK: $19.95
+Flying Turtle [MSP 50552]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Nov 2010 10:56:10 +0000</listdate>
+    <saledate>Thu, 30 Dec 2010 17:07:43 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>multilingual (D/GB/F/I/NL) 2nd Ravensburger edition (2001)
+new and shrinkwrapped in perfect condition
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Nov 2010 13:03:53 +0000</listdate>
+    <saledate>Tue, 30 Nov 2010 15:17:19 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>Flying Turtle Games edition. Sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Dec 2010 02:48:24 +0000</listdate>
+    <saledate>Sun, 05 Dec 2010 07:32:30 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>reservered for rfoth</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Jan 2011 19:03:48 +0000</listdate>
+    <saledate>Tue, 04 Jan 2011 04:14:37 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Ravensburger Edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Apr 2011 15:01:43 +0000</listdate>
+    <saledate>Mon, 06 Jun 2011 16:00:12 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>Opened but never played.I think the box would easily fit into a USPS priority mail box for about$10 anywhere in the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jul 2011 18:03:15 +0000</listdate>
+    <saledate>Mon, 22 Aug 2011 19:28:27 +0000</saledate>
+    <price currency='USD'>17.75</price>
+    <condition>likenew</condition>
+    <notes>Shark (2001) from Ravensburger
+2001 Version with Different Box Cover. See the Photos.
+Game is in Excellent Shape.
+Multilingual Edition with Rules in German, French, Duth, Italian and English.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Aug 2011 15:35:38 +0000</listdate>
+    <saledate>Sun, 02 Oct 2011 15:39:12 +0000</saledate>
+    <price currency='EUR'>14.5</price>
+    <condition>likenew</condition>
+    <notes>German edition by Ravensburger (French, Italian, English _T_E_M_P_T_A_G_amp; Dutch rules included).
+Shrink wrap removed, but has never been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Nov 2011 20:30:10 +0000</listdate>
+    <saledate>Tue, 08 Nov 2011 15:43:39 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>for user pdrseuss</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Nov 2011 02:39:55 +0000</listdate>
+    <saledate>Sat, 26 Nov 2011 20:45:54 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SHARK: $19.95
+Flying Turtle [MSP 50552]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Nov 2011 06:47:12 +0000</listdate>
+    <saledate>Thu, 16 Feb 2012 02:19:04 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SHARK: $19.95
+Flying Turtle [MSP 50552]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Dec 2011 16:05:54 +0000</listdate>
+    <saledate>Sat, 19 May 2012 12:34:41 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>German edition by Ravensburger from 2001 (French, English, Italian _T_E_M_P_T_A_G_amp; Dutch rules included).
+Contents complete _T_E_M_P_T_A_G_amp; in very good condition. Some minor scuff marks on the Ravensburger logo.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Apr 2012 20:52:35 +0000</listdate>
+    <saledate>Thu, 14 Feb 2013 18:11:35 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>1991 edition.  Played and in good condition.  The box has significant wear, but everything inside is in very good condition.  
+NOTE: There are 18 markers for each player where the rules listed there should be 20.  However, reading through the forums here lead me to believe that 18 could be correct amount.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 May 2012 01:44:23 +0000</listdate>
+    <saledate>Mon, 21 May 2012 02:19:33 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>For pharmakon only as winner of auction.
+Shipping also includes paypal fee.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jul 2012 18:35:34 +0000</listdate>
+    <saledate>Tue, 21 Aug 2012 18:56:52 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>Reserved:
+Shark Sam Peavy/speavy $9.00
+Raj Sam Peavy/speavy $16.00
+Ploy Sam Peavy/speavy $13.00
+Shipping will be FedEx
+1987 by Flying Turtle.  Never played--opened, viewed _T_E_M_P_T_A_G_amp; bagged.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Aug 2012 04:20:30 +0000</listdate>
+    <saledate>Wed, 19 Sep 2012 13:02:25 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>new</condition>
+    <notes>German Ravensburger edition of the game. Components are language independent.
+Game is still in shrink. Box has a few minor dents.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Sep 2012 20:57:58 +0000</listdate>
+    <saledate>Sat, 29 Sep 2012 01:01:15 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>For user tcollett.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Oct 2012 22:30:52 +0000</listdate>
+    <saledate>Sun, 14 Oct 2012 23:17:10 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>NEW _T_E_M_P_T_A_G_amp; SEALED</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Oct 2012 18:21:43 +0000</listdate>
+    <saledate>Sat, 05 Jan 2013 22:06:12 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Nov 2012 20:47:17 +0000</listdate>
+    <saledate>Mon, 26 Nov 2012 22:46:25 +0000</saledate>
+    <price currency='EUR'>11.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the latest german edition by RAVENSBURGER
+Sshipping rates:
+Germany = 5 Euro
+EU countries = 15 Euro
+worldwide = 19 Euro
+game weight: 1100 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Jan 2013 16:12:34 +0000</listdate>
+    <saledate>Wed, 09 Jan 2013 22:46:20 +0000</saledate>
+    <price currency='USD'>7.95</price>
+    <condition>new</condition>
+    <notes>Brand New and Sealed</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Jan 2013 10:14:33 +0000</listdate>
+    <saledate>Mon, 24 Mar 2014 15:07:01 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>verygood</condition>
+    <notes>Deutsche Ausgabe/German Version!
+Das Spiel ist vollständig und guter Verfassung.
+Es wurde von mir selbst nie benutzt!
+Die Schachtel weist altersbedingte Gebrauchsspuren auf.
+Fotos kann ich bei Bedarf gern zusenden!
+Portokosten innerhalb Deutschlands 4,00 Euro/versichert über den HERMES Paketdienst.
+Andere Portokosten bitte erfragen!
+Please ask for the costs of shipping to other countries!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Jan 2013 00:51:01 +0000</listdate>
+    <saledate>Wed, 16 Jan 2013 05:30:56 +0000</saledate>
+    <price currency='USD'>7.95</price>
+    <condition>new</condition>
+    <notes>New _T_E_M_P_T_A_G_amp; Sealed</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Jan 2013 13:48:11 +0000</listdate>
+    <saledate>Wed, 24 Apr 2013 23:28:31 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>New _T_E_M_P_T_A_G_amp; Sealed</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Jan 2013 21:46:16 +0000</listdate>
+    <saledate>Sun, 27 Jul 2014 13:59:25 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>likenew</condition>
+    <notes>Flying Turtle Games edtion
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Mar 2013 08:53:24 +0000</listdate>
+    <saledate>Tue, 17 Dec 2013 21:15:12 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>good</condition>
+    <notes>German
+Ravensburger second edition
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         15 Euro
+PayPal plus 1 Euro
+Money transfer via IBAN/BIC preferred</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Apr 2013 23:45:58 +0000</listdate>
+    <saledate>Fri, 17 May 2013 01:11:18 +0000</saledate>
+    <price currency='USD'>6.95</price>
+    <condition>new</condition>
+    <notes>New and Sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Apr 2013 05:09:28 +0000</listdate>
+    <saledate>Mon, 29 Apr 2013 13:28:02 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>this item is for sale *only* to BGG user _T_E_M_P_T_A_G_#039;bric_T_E_M_P_T_A_G_#039;</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 May 2013 12:02:33 +0000</listdate>
+    <saledate>Wed, 05 Jun 2013 17:42:09 +0000</saledate>
+    <price currency='USD'>6.95</price>
+    <condition>new</condition>
+    <notes>New _T_E_M_P_T_A_G_amp; Sealed</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 May 2013 09:35:51 +0000</listdate>
+    <saledate>Sat, 28 Sep 2013 08:40:49 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>Played once, in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Jun 2013 23:47:59 +0000</listdate>
+    <saledate>Sun, 14 Jul 2013 05:45:58 +0000</saledate>
+    <price currency='USD'>6.95</price>
+    <condition>new</condition>
+    <notes>New _T_E_M_P_T_A_G_amp; Sealed</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Jun 2013 18:48:32 +0000</listdate>
+    <saledate>Mon, 17 Jun 2013 16:32:00 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Flying Turtle Games edition. Complete and in very good condition inside and out.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Aug 2013 11:26:22 +0000</listdate>
+    <saledate>Wed, 04 Dec 2013 03:18:15 +0000</saledate>
+    <price currency='EUR'>7.5</price>
+    <condition>verygood</condition>
+    <notes>German edition.
+Contents complete _T_E_M_P_T_A_G_amp; in excellent conditon.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Sep 2013 22:07:17 +0000</listdate>
+    <saledate>Thu, 05 Dec 2013 23:19:00 +0000</saledate>
+    <price currency='USD'>7.5</price>
+    <condition>likenew</condition>
+    <notes>opened but unplayed. Flying Turtle version</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Sep 2013 13:54:25 +0000</listdate>
+    <saledate>Sun, 29 Sep 2013 18:56:10 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Ravensburger 2d ed</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Oct 2013 07:41:44 +0000</listdate>
+    <saledate>Sat, 02 Nov 2013 07:37:04 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Jan 2014 17:41:36 +0000</listdate>
+    <saledate>Mon, 12 May 2014 17:47:30 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>Played once. This is the Flying Turtle edition. The game was too nasty to play as a family game. And now 95% of my games are with just my husband, and this game is best with more than 2 players. Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Feb 2014 23:02:06 +0000</listdate>
+    <saledate>Mon, 10 Feb 2014 15:59:33 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>In shrink
+Shark
+Nick: 
+Flying Turtle Games Edition
+Publisher: Flying Turtle Games
+ 
+Artist: A. Lefort,?J. C. Sohier
+Year: 1987
+ 
+Size: Long Rectangle (e.g. Power Grid)
+2.00 pounds
+Dutch,?English,?French,?German?</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Mar 2014 21:23:09 +0000</listdate>
+    <saledate>Mon, 22 Sep 2014 12:50:46 +0000</saledate>
+    <price currency='EUR'>19.99</price>
+    <condition>verygood</condition>
+    <notes>I´m offering the german second edition (black box) by RAVENSBURGER
+shipping rates:
+Germany = 4,5 Euro
+EU countries = 15 Euro
+worldwide = 19 Euro
+game weight: 1100 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Apr 2014 14:22:06 +0000</listdate>
+    <saledate>Tue, 22 Apr 2014 00:09:46 +0000</saledate>
+    <price currency='EUR'>14.9</price>
+    <condition>verygood</condition>
+    <notes>First international version by Flying Turtle Games. The game is in very good condition.
+Shipping costs (up to 2kg / without insurance / surface mail):
+Germany: 4.50 EUR
+EU: 8.90 EUR
+Worldwide: 15.90 EUR
+Please ask for costs if you want other shipping options.
+Payment via bank transfer is preferred. Paypal is possible.
+Please add 2 EUR to the price for payment via Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 May 2014 14:58:39 +0000</listdate>
+    <saledate>Wed, 14 May 2014 15:11:37 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/173361/item/3214794#3214794]Item for Geeklist _T_E_M_P_T_A_G_quot;The _T_E_M_P_T_A_G_quot;Raising Money for Kickstarter_T_E_M_P_T_A_G_quot; Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 May 2014 11:10:25 +0000</listdate>
+    <saledate>Mon, 18 Aug 2014 18:12:32 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>Original Flying Turtle Edition. In immaculate condition despite it_T_E_M_P_T_A_G_#039;s age. Components clean and complete. Box completely unmarked.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jun 2014 17:04:37 +0000</listdate>
+    <saledate>Fri, 20 Jun 2014 23:05:03 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>flying turtle new in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Nov 2014 03:08:09 +0000</listdate>
+    <saledate>Mon, 03 Nov 2014 03:12:37 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/181150/item/3524009#3524009]Item for Geeklist _T_E_M_P_T_A_G_quot;Four Day Auction - Pickup in STL and Chicago Availabie - Ends Nov 2nd_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Payment instructions will follow once confirmed. Please make sure I have your shipping zipcode.
+for bigglesbee only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jun 2012 19:55:34 +0000</listdate>
+    <saledate>Wed, 19 Nov 2014 14:05:28 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>good</condition>
+    <notes>Game is complete,
+1st version FTG
+I have another version for 25 EUR.
+German 2nd version (RAvensburger) box good, components like new (cards in shrink)  ask for rules in foreign languages
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Sep 2013 00:34:13 +0000</listdate>
+    <saledate>Thu, 11 Dec 2014 01:39:28 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>Flying Turtle edition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Aug 2014 11:27:25 +0000</listdate>
+    <saledate>Fri, 12 Dec 2014 20:23:26 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>likenew</condition>
+    <notes>Complete and in like-new condition.  Components have never been used (cards are still shrinkwrapped).  Flying Turtle edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Dec 2014 03:18:58 +0000</listdate>
+    <saledate>Wed, 31 Dec 2014 17:00:26 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>verygood</condition>
+    <notes>Out of Print - 2001 Ravensburger (2nd Ed.)
+Ships via USPS Priority Mail for $10.99 after payment is received via Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Jan 2015 03:26:19 +0000</listdate>
+    <saledate>Tue, 27 Jan 2015 23:24:51 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/185855/item/3684758#3684758]Item for Geeklist _T_E_M_P_T_A_G_quot;Four Day Auction, Ends Sunday Evening - More Title_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For LastFrontier
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Sep 2014 16:23:56 +0000</listdate>
+    <saledate>Sun, 01 Mar 2015 15:15:10 +0000</saledate>
+    <price currency='USD'>14.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Mar 2014 14:49:26 +0000</listdate>
+    <saledate>Fri, 17 Apr 2015 19:33:12 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes>German Ravensburger Second Edition 2001 Ravensburger Spieleverlag. Shrinkwrapped.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Aug 2015 03:14:07 +0000</listdate>
+    <saledate>Mon, 24 Aug 2015 03:32:15 +0000</saledate>
+    <price currency='CAD'>70</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/195278/item/4073785#4073785]Item for Geeklist _T_E_M_P_T_A_G_quot;[CAN/US] Auction - Culling time is here again - Blue Moon City, Earth Reborn, XCOM _T_E_M_P_T_A_G_amp; More_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For user Poserdisposer only.
+Castaways - $30
+Shark - $40
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Nov 2014 17:13:42 +0000</listdate>
+    <saledate>Mon, 31 Aug 2015 15:21:27 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Hi,
+I accept PayPal or a personal check, you can pay with a credit card or personal check via PayPal. I will post the game to you as soon as the funds are confirmed 
+Postage to UK £4.00, Europe £12.00
+Please contact me of there is anything you would like to know about the game or if you would like photos of the contents.
+Thank you</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Nov 2015 03:23:46 +0000</listdate>
+    <saledate>Wed, 04 Nov 2015 05:22:20 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR AARON WATERS AT $7.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Feb 2016 15:16:09 +0000</listdate>
+    <saledate>Sun, 07 Feb 2016 16:30:28 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>SHark (Flying Turtle) $5
+ALSO INCLUDES Seventh Hero for $3
+Sorry for the delay! 
+This sale has been auto-generated for the auction: [geekurl=/geeklist/204254/item/4416656#4416656]Item for Geeklist _T_E_M_P_T_A_G_quot;[ENDS TODAY] Let_T_E_M_P_T_A_G_#039;s hope Batman V. Superman is a good movie AUCTION! Dominare, Shark, Archaeology, Ruins (for 51st State/New Era), Seventh Hero, Schlock Mercenary: Capital Offensive, and an old PCt_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Jun 2015 18:57:03 +0000</listdate>
+    <saledate>Thu, 11 Feb 2016 08:59:58 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>new</condition>
+    <notes>shipping rates:
+Germany = 5 Euro
+EU countries = 15 Euro
+worldwide = 19 Euro
+game weight: 1100 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jan 2016 05:00:01 +0000</listdate>
+    <saledate>Wed, 09 Mar 2016 18:13:42 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Still in shrinkwrap.  No dings or dents.  Small tear in back of wrapping.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Mar 2016 19:43:08 +0000</listdate>
+    <saledate>Sun, 13 Mar 2016 18:40:37 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Please send a message if you are interested so I can make an estimate of the shipping costs. Payment can be done by bank transfer or Paypal. If you have any questions please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Oct 2014 20:01:12 +0000</listdate>
+    <saledate>Sun, 13 Mar 2016 18:41:09 +0000</saledate>
+    <price currency='EUR'>19.99</price>
+    <condition>verygood</condition>
+    <notes>I´m offering the german second edition (black box) by RAVENSBURGER
+shipping rates:
+Germany = 5 Euro
+EU countries = 15 Euro
+worldwide = 19 Euro
+game weight: 1100 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Mar 2016 03:00:28 +0000</listdate>
+    <saledate>Tue, 15 Mar 2016 12:05:43 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Reserved for https://boardgamegeek.com/user/cbourassa
+Still in shrink with slight wear as per picture sent.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Jun 2015 07:14:33 +0000</listdate>
+    <saledate>Fri, 01 Apr 2016 19:23:27 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>verygood</condition>
+    <notes>Box have minimal wear and tear. The game material are in very good condition.
+I will ship from Germany and I am willing to ship anywhere.
+Please ask me, for the shipping costs for your land.
+I will charge shipping at cost. Everything will be well packed.
+You can pay me through Paypal or bank transfer to my German bank account but any fees charged must be covered by you.
+If you buy more games, then I make all in one package!
+We have a large private collection of games. Due to space and time constraints we must rid ourselves of some of the games. Therefore, these are private sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 May 2016 12:07:41 +0000</listdate>
+    <saledate>Tue, 17 May 2016 18:13:15 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Shrink wrap
+PayPal or US Postal Money Order
+Other methods of payment may be accepted but contact me before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Mar 2016 17:40:21 +0000</listdate>
+    <saledate>Thu, 30 Jun 2016 02:16:19 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Please send a message if you are interested so I can make an estimate of the shipping costs. Payment can be done by bank transfer or Paypal. If you have any questions please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jul 2016 17:05:08 +0000</listdate>
+    <saledate>Wed, 13 Jul 2016 20:02:12 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Navaji.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 May 2016 15:29:53 +0000</listdate>
+    <saledate>Wed, 10 Aug 2016 06:53:02 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>likenew</condition>
+    <notes>Complete, pristine, clean copy, box virtually scuff-free.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Feb 2017 05:22:01 +0000</listdate>
+    <saledate>Thu, 02 Feb 2017 22:44:27 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220569/item/5150990#5150990]Item for Geeklist _T_E_M_P_T_A_G_quot;[ENDS TONIGHT!] Double trouble auction: Merchant of Venus 2nd ed with Daedalus Quick-Start insert, Perry Rhodan: The Cosmic League, Shark (Ravensburger 2001), Pizza Box Football, Spielbox 2016 #1_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Aug 2016 14:15:38 +0000</listdate>
+    <saledate>Fri, 03 Feb 2017 03:00:52 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>reserved for tjgarrison
+Hard to categorize the condition of this game.  
+Components are brand new.  Cards, dice, and buildings are all still in shrinkwrap.  
+Box is structurally solid.  Light-to moderate whitening on corners.  Main defect is that top cover is slightly scratched/whitened.  I would say graphics on top cover are still 85% good.  If interested, geekmail me and I will provide photos.
+Buyer pays actual USPS shipping from zip code 37115.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Feb 2017 20:06:39 +0000</listdate>
+    <saledate>Sun, 12 Feb 2017 09:23:25 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Please send a message if you are interested and ask for shipping costs to your location. Payment can be done by bank transfer or Pay pal. If you have any other question, please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Sep 2016 12:02:41 +0000</listdate>
+    <saledate>Sun, 12 Feb 2017 12:15:39 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Please send a message if you are interested so I can make an estimate of the shipping costs. Payment can be done by bank transfer or Paypal. If you have any questions please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Feb 2017 18:36:59 +0000</listdate>
+    <saledate>Wed, 15 Feb 2017 23:07:09 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>good</condition>
+    <notes>Title: Shark
+Publisher: Ravensburger
+Version: 1991
+Language(s): German - with English rules.
+Condition: Good.
+Weight: 950g + packaging.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Feb 2017 11:55:19 +0000</listdate>
+    <saledate>Thu, 23 Feb 2017 19:27:51 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>PayPal or US Postal Money Order
+Other methods of payment may be accepted but contact me before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Oct 2016 17:09:32 +0000</listdate>
+    <saledate>Wed, 08 Mar 2017 01:17:29 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>as new
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Nov 2015 19:11:58 +0000</listdate>
+    <saledate>Fri, 17 Mar 2017 12:41:43 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Aug 2016 20:46:44 +0000</listdate>
+    <saledate>Fri, 31 Mar 2017 17:27:48 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Mar 2014 14:43:05 +0000</listdate>
+    <saledate>Sun, 09 Apr 2017 00:45:01 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Ravensburger edition. Light box wear. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 May 2017 19:54:51 +0000</listdate>
+    <saledate>Fri, 02 Jun 2017 15:42:57 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Game is complete and I also have printed out the English translated rules. The box shows wear but there are not split corners and the lid is not caved in. The board lays flat and is not warped in any way.
+Shipping will be covered by the purchaser and I charged exact price. Once sale is final, I will package the game and determine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Feb 2017 16:20:52 +0000</listdate>
+    <saledate>Wed, 07 Jun 2017 03:59:03 +0000</saledate>
+    <price currency='USD'>6.95</price>
+    <condition>new</condition>
+    <notes>New _T_E_M_P_T_A_G_amp; Sealed</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 May 2017 13:40:42 +0000</listdate>
+    <saledate>Fri, 14 Jul 2017 10:41:38 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>good</condition>
+    <notes>Material complete and 1A, inlet is missing, box with normal using signs. Please have a look at the photo.
+Shipping worldwide is 9,50 Euro including tracking number.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Feb 2017 16:22:21 +0000</listdate>
+    <saledate>Thu, 03 Aug 2017 16:00:54 +0000</saledate>
+    <price currency='USD'>7.95</price>
+    <condition>new</condition>
+    <notes>Shark is a stock-trading game slightly reminiscent of Acquire, in that abstract plays on the game board determine the share values of the various companies. The similarities end there, though, as Shark is more free-wheeling than Acquire.
+Each player may buy (maximum 5 shares total during the turn) and sell (unlimited) shares both before and after his turn, and during his turn rolls dice to determine which company he can affect and in what region he can place that company_T_E_M_P_T_A_G_#039;s marker. Placing next to another of that company_T_E_M_P_T_A_G_#039;s markers increases the company_T_E_M_P_T_A_G_#039;s share price, which pays out in two ways: first, for placing the marker, the player gets money equal to the new price, and secondly, all players get paid the amount of the increase, multiplied by the number of shares each of them owns. This wealth is not without risks, though, as placing in a way that brings two companies_T_E_M_P_T_A_G_#039; marker-groups adjacent to each other causes the smaller group to be removed from the board, decreasing that company_T_E_M_P_T_A_G_#039;s share price accordingly -- and all players must pay the amount of the decrease, again multiplied by the number of shares they hold in that company!
+The game ends if all of one company_T_E_M_P_T_A_G_#039;s markers have been used, if one company_T_E_M_P_T_A_G_#039;s share price reaches 15, or all of shares in the game are sold; at which time the players cash out their stock and determine who, with the most money, has won.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Sep 2017 19:24:30 +0000</listdate>
+    <saledate>Mon, 11 Sep 2017 16:21:56 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>good</condition>
+    <notes>Slight damage to the corners of the box</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Aug 2017 15:40:41 +0000</listdate>
+    <saledate>Wed, 04 Oct 2017 14:51:05 +0000</saledate>
+    <price currency='USD'>13.49</price>
+    <condition>likenew</condition>
+    <notes>Excellent! Box corners have a little whitening, but no rips or tears. Inventoried the components. Rulebook said to have 20 each of player pieces. There are 18 of each of the 4 colors. Since every color is _T_E_M_P_T_A_G_quot;missing_T_E_M_P_T_A_G_quot; exactly 2, I_T_E_M_P_T_A_G_#039;m guessing it_T_E_M_P_T_A_G_#039;s more a misprint. Reading through the rules, one of the ways the game ends is by running out of pieces, so everyone is on an even playing field.
+Edition is the 1987 Flying Turtle Games one.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Apr 2017 17:01:24 +0000</listdate>
+    <saledate>Sat, 21 Oct 2017 09:47:21 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Feb 2017 16:20:52 +0000</listdate>
+    <saledate>Fri, 01 Dec 2017 16:14:01 +0000</saledate>
+    <price currency='USD'>6.95</price>
+    <condition>new</condition>
+    <notes>New _T_E_M_P_T_A_G_amp; Sealed</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Oct 2017 23:54:19 +0000</listdate>
+    <saledate>Mon, 11 Dec 2017 19:04:58 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>My late husband loved to collect his board games.  He didn_T_E_M_P_T_A_G_#039;t get a chance to play them as much as he would of liked, but if they were played, they were handled with kid gloves.  No food or drinking around his games!  
+Game has never been played, shrink wrap has been removed off box, however cards inside are still in shrink wrap</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Feb 2017 16:22:21 +0000</listdate>
+    <saledate>Fri, 15 Dec 2017 13:23:50 +0000</saledate>
+    <price currency='USD'>7.95</price>
+    <condition>new</condition>
+    <notes>Shark is a stock-trading game slightly reminiscent of Acquire, in that abstract plays on the game board determine the share values of the various companies. The similarities end there, though, as Shark is more free-wheeling than Acquire.
+Each player may buy (maximum 5 shares total during the turn) and sell (unlimited) shares both before and after his turn, and during his turn rolls dice to determine which company he can affect and in what region he can place that company_T_E_M_P_T_A_G_#039;s marker. Placing next to another of that company_T_E_M_P_T_A_G_#039;s markers increases the company_T_E_M_P_T_A_G_#039;s share price, which pays out in two ways: first, for placing the marker, the player gets money equal to the new price, and secondly, all players get paid the amount of the increase, multiplied by the number of shares each of them owns. This wealth is not without risks, though, as placing in a way that brings two companies_T_E_M_P_T_A_G_#039; marker-groups adjacent to each other causes the smaller group to be removed from the board, decreasing that company_T_E_M_P_T_A_G_#039;s share price accordingly -- and all players must pay the amount of the decrease, again multiplied by the number of shares they hold in that company!
+The game ends if all of one company_T_E_M_P_T_A_G_#039;s markers have been used, if one company_T_E_M_P_T_A_G_#039;s share price reaches 15, or all of shares in the game are sold; at which time the players cash out their stock and determine who, with the most money, has won.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Sep 2016 12:11:10 +0000</listdate>
+    <saledate>Sun, 07 Jan 2018 06:08:05 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition - Ravensburger 2nd edition.
+From a smoke and pet-free home and will be carefully packed.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jan 2016 03:18:52 +0000</listdate>
+    <saledate>Mon, 19 Mar 2018 04:42:05 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Jan 2018 19:10:37 +0000</listdate>
+    <saledate>Sun, 29 Apr 2018 05:40:21 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Please send a message if you are interested and ask for shipping costs to your location. Payment can be done by bank transfer or Pay pal. If you have any other question, please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Aug 2017 16:38:40 +0000</listdate>
+    <saledate>Sun, 29 Apr 2018 05:40:49 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>As new, obviously unplayed.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Mar 2016 01:03:37 +0000</listdate>
+    <saledate>Tue, 15 May 2018 01:30:44 +0000</saledate>
+    <price currency='CAD'>24.99</price>
+    <condition>new</condition>
+    <notes>In shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Jul 2018 16:38:09 +0000</listdate>
+    <saledate>Fri, 27 Jul 2018 17:40:28 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>acceptable</condition>
+    <notes>Ravensburger 2nd edition as indicated.
+Components VG with very little wear.  Box has whitening to edges and a couple of rough spots where tape was removed.  Box is solid - no split corners, no creases, no dish panning.
+Shipping within 500 miles of southern NH is $10 or less.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Mar 2018 22:33:04 +0000</listdate>
+    <saledate>Sat, 08 Sep 2018 06:48:33 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>new</condition>
+    <notes>Still shrinkwrapped.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Nov 2016 03:57:04 +0000</listdate>
+    <saledate>Mon, 24 Sep 2018 02:50:55 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Mint in the Shrink</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

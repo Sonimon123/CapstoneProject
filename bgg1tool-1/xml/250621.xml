@@ -1,0 +1,629 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="250621">
+   <yearpublished>2018</yearpublished>
+   <minplayers>1</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">18Lilliput</name>
+         
+   <description>In 18Lilliput, players try to build up the best railroad network by using action cards to get richer than the other players._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Every player starts with a railroad corporation and a character that gives them a special ability during the game. The game is limited to eight rounds of play, and every round, each player may select two action cards from a common pool to undertake activities on behalf of their railroads. These actions include laying new track, upgrading track, buying trains, buying new shares or opening a new company, or simply getting money into one's personal cash or into a company's treasury._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;After the action selection phase, each company runs its trains and earns money, which can be withheld for future investments (trains, track, railheads) or paid out to the shareholders. This decision will influence the share price value of the company in question._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;At the end of the game, players sum their cash on hand with the value of their shares, and whoever has the biggest total wins._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;18xx players will find a lot of used and tried mechanisms, as well as many new elements, mingled into a quick and exciting card game._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_amp;mdash;description from the designer_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/kRWdk_S3cxeh65pffprbS9DWgQI=/fit-in/200x150/pic4074251.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/HJsRFUHiEhrjl9rPu9OpbX6vkh8=/0x0/pic4074251.jpg</image>
+      
+                   <boardgamefamily objectid="19">18xx</boardgamefamily>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+               <boardgameversion objectid="410841">Chinese edition</boardgameversion>
+               <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+               <boardgameversion objectid="427401">Czech edition</boardgameversion>
+               <boardgamecategory objectid="1021">Economic</boardgamecategory>
+               <boardgameversion objectid="402021">English/German edition</boardgameversion>
+               <boardgamepublisher objectid="39637">Enjoy Game</boardgamepublisher>
+               <boardgamepublisher objectid="33710">Fox in the Box</boardgamepublisher>
+               <boardgamecategory objectid="1093">Novel-based</boardgamecategory>
+               <boardgamedesigner objectid="1828">Leonhard _T_E_M_P_T_A_G_quot;Lonny_T_E_M_P_T_A_G_quot; Orgler</boardgamedesigner>
+               <boardgameartist objectid="113177">Petr Štich</boardgameartist>
+               <boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+               <boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+               <boardgamecategory objectid="1034">Trains</boardgamecategory>
+               <boardgamecategory objectid="1011">Transportation</boardgamecategory>
+               <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="1" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>312</usersrated>
+     <average>7.56766</average>
+     <bayesaverage>5.92507</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2528" bayesaverage="5.92507" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1031" bayesaverage="6.07004" />
+            
+           </ranks>
+     
+     <stddev>1.24365</stddev>
+     <median>0</median>
+     <owned>1001</owned>
+     <trading>22</trading>
+     <wanting>66</wanting>
+     <wishing>223</wishing>
+     <numcomments>134</numcomments>
+     <numweights>15</numweights>
+     <averageweight>3.4</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sat, 03 Nov 2018 22:27:37 +0000</listdate>
+    <saledate>Sun, 04 Nov 2018 12:06:00 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>German / English KS, opened but unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Nov 2018 17:37:21 +0000</listdate>
+    <saledate>Tue, 06 Nov 2018 20:51:41 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>new</condition>
+    <notes>Accept Paypal or IBAN with BIC
+Any questions just ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Nov 2018 00:24:52 +0000</listdate>
+    <saledate>Fri, 09 Nov 2018 16:08:50 +0000</saledate>
+    <price currency='USD'>54.49</price>
+    <condition>new</condition>
+    <notes>[size=14][b][u]Comments:[/u][/b][/size] 
+To see other titles that I have for sale (and perhaps mitigate shipping costs) enter the following into your browser: http://www.boardgamegeek.com/geekmarket/user/Paladin82Y . 
+Note that I am not a store but just a gamer like you (although one that lost his mind and purchased waaaay too many games over the years). I have tried to accurately describe my offerings from a gamer_T_E_M_P_T_A_G_#039;s perspective. If you are a collector or re-seller and need more details, just let me know.
+[size=14][b][u]Condition Notes:[/u][/b][/size] 
+Smoke-free home.
+Still in shrinkwrap.
+[b][u]Edition Notes:[/u][/b] English.
+[size=14][b][u]Shipping Notes:[/u][/b][/size]
+I am willing to meet you at one of the many local Game Nights close to Waukee, IA (see https://www.boardgamegeek.com/guild/1365) to make the exchange in person which would reduce your shipping cost to $0.00.  
+Otherwise--Yes, I will gladly combine orders to reduce your per-item shipping costs. (To see other items to add to your order see http://www.boardgamegeek.com/geekmarket/user/Paladin82Y).
+When placing an order, please provide a contact phone number--this is ONLY in case there are shipping issues--I am NOT planning to call you. Also, please provide a direct/external (non-BGG) email address.
+Finally, if at all possible, please provide a business (rather than a residential) shipping address and let me know that the address you are providing is a business address (this may expedite delivery).
+[size=14][b][u]Payment Notes:[/u][/b][/size]
+**Note that the listed offered price includes a small discount for a cash (cash, money order, Amazon Gift Card, western union) payment.  I cannot include the discount for payments made via Paypal.
+[b][i]US buyers:[/i][/b]
+When placing the order, let me know if you would like to purchase the optional insurance offered by the shipping company. I cannot remember ever having any material problems, but theoretically there is some risk. If the receiver (you) does NOT request (and does NOT pay extra for) insurance (decision is totally up to you) then the receiver (you) agrees to assume responsibility for lost or damaged packages. I know that this paragraph sounds scary, but my lawyer makes me include this -- again, this is probably a non-issue -- I have never had a package that I shipped go missing and think that I have had two people mention extremely minor blemishes incurred during shipping in the last 600 BGG items that I have shipped.
+See the [i][b]Info from Seller[/b][/i] Section below for more critically important details on payment options.
+ 
+[b][i]non-US buyers:[/i][/b]
+See the [i][b]Info from Seller[/b][/i] Section below for more critically important details on shipping and payment options.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Nov 2018 01:02:08 +0000</listdate>
+    <saledate>Sat, 10 Nov 2018 01:27:15 +0000</saledate>
+    <price currency='USD'>54.49</price>
+    <condition>new</condition>
+    <notes>This is reserved for (jasonc213).  Please do not purchase this unless you are jasonc213.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Nov 2018 07:56:56 +0000</listdate>
+    <saledate>Thu, 15 Nov 2018 16:22:58 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>new</condition>
+    <notes>Still in shrink.  Shipping will be £3 within the UK, and at cost elsewhere.  (1.2kg packed)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Nov 2018 21:53:18 +0000</listdate>
+    <saledate>Mon, 19 Nov 2018 08:51:22 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>Played a couple of times. In perfect condition.
+0.9kg</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Nov 2018 00:24:52 +0000</listdate>
+    <saledate>Mon, 26 Nov 2018 19:53:56 +0000</saledate>
+    <price currency='USD'>51.49</price>
+    <condition>new</condition>
+    <notes>[size=14][b][u]Comments:[/u][/b][/size] 
+To see other titles that I have for sale (and perhaps mitigate shipping costs) enter the following into your browser: http://www.boardgamegeek.com/geekmarket/user/Paladin82Y . 
+Note that I am not a store but just a gamer like you (although one that lost his mind and purchased waaaay too many games over the years). I have tried to accurately describe my offerings from a gamer_T_E_M_P_T_A_G_#039;s perspective. If you are a collector or re-seller and need more details, just let me know.
+[size=14][b][u]Condition Notes:[/u][/b][/size] 
+Smoke-free home.
+Still in shrinkwrap.
+[b][u]Edition Notes:[/u][/b] English.
+[size=14][b][u]Shipping Notes:[/u][/b][/size]
+I am willing to meet you at one of the many local Game Nights close to Waukee, IA (see https://www.boardgamegeek.com/guild/1365) to make the exchange in person which would reduce your shipping cost to $0.00.  
+Otherwise--Yes, I will gladly combine orders to reduce your per-item shipping costs. (To see other items to add to your order see http://www.boardgamegeek.com/geekmarket/user/Paladin82Y).
+When placing an order, please provide a contact phone number--this is ONLY in case there are shipping issues--I am NOT planning to call you. Also, please provide a direct/external (non-BGG) email address.
+Finally, if at all possible, please provide a business (rather than a residential) shipping address and let me know that the address you are providing is a business address (this may expedite delivery).
+[size=14][b][u]Payment Notes:[/u][/b][/size]
+**Note that the listed offered price includes a small discount for a cash (cash, money order, Amazon Gift Card, western union) payment.  I cannot include the discount for payments made via Paypal.
+[b][i]US buyers:[/i][/b]
+When placing the order, let me know if you would like to purchase the optional insurance offered by the shipping company. I cannot remember ever having any material problems, but theoretically there is some risk. If the receiver (you) does NOT request (and does NOT pay extra for) insurance (decision is totally up to you) then the receiver (you) agrees to assume responsibility for lost or damaged packages. I know that this paragraph sounds scary, but my lawyer makes me include this -- again, this is probably a non-issue -- I have never had a package that I shipped go missing and think that I have had two people mention extremely minor blemishes incurred during shipping in the last 600 BGG items that I have shipped.
+See the [i][b]Info from Seller[/b][/i] Section below for more critically important details on payment options.
+ 
+[b][i]non-US buyers:[/i][/b]
+See the [i][b]Info from Seller[/b][/i] Section below for more critically important details on shipping and payment options.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Nov 2018 00:24:52 +0000</listdate>
+    <saledate>Tue, 27 Nov 2018 11:48:08 +0000</saledate>
+    <price currency='USD'>51.49</price>
+    <condition>new</condition>
+    <notes>[size=14][b][u]Comments:[/u][/b][/size] 
+To see other titles that I have for sale (and perhaps mitigate shipping costs) enter the following into your browser: http://www.boardgamegeek.com/geekmarket/user/Paladin82Y . 
+Note that I am not a store but just a gamer like you (although one that lost his mind and purchased waaaay too many games over the years). I have tried to accurately describe my offerings from a gamer_T_E_M_P_T_A_G_#039;s perspective. If you are a collector or re-seller and need more details, just let me know.
+[size=14][b][u]Condition Notes:[/u][/b][/size] 
+Smoke-free home.
+Still in shrinkwrap.
+[b][u]Edition Notes:[/u][/b] English.
+[size=14][b][u]Shipping Notes:[/u][/b][/size]
+I am willing to meet you at one of the many local Game Nights close to Waukee, IA (see https://www.boardgamegeek.com/guild/1365) to make the exchange in person which would reduce your shipping cost to $0.00.  
+Otherwise--Yes, I will gladly combine orders to reduce your per-item shipping costs. (To see other items to add to your order see http://www.boardgamegeek.com/geekmarket/user/Paladin82Y).
+When placing an order, please provide a contact phone number--this is ONLY in case there are shipping issues--I am NOT planning to call you. Also, please provide a direct/external (non-BGG) email address.
+Finally, if at all possible, please provide a business (rather than a residential) shipping address and let me know that the address you are providing is a business address (this may expedite delivery).
+[size=14][b][u]Payment Notes:[/u][/b][/size]
+**Note that the listed offered price includes a small discount for a cash (cash, money order, Amazon Gift Card, western union) payment.  I cannot include the discount for payments made via Paypal.
+[b][i]US buyers:[/i][/b]
+When placing the order, let me know if you would like to purchase the optional insurance offered by the shipping company. I cannot remember ever having any material problems, but theoretically there is some risk. If the receiver (you) does NOT request (and does NOT pay extra for) insurance (decision is totally up to you) then the receiver (you) agrees to assume responsibility for lost or damaged packages. I know that this paragraph sounds scary, but my lawyer makes me include this -- again, this is probably a non-issue -- I have never had a package that I shipped go missing and think that I have had two people mention extremely minor blemishes incurred during shipping in the last 600 BGG items that I have shipped.
+See the [i][b]Info from Seller[/b][/i] Section below for more critically important details on payment options.
+ 
+[b][i]non-US buyers:[/i][/b]
+See the [i][b]Info from Seller[/b][/i] Section below for more critically important details on shipping and payment options.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Nov 2018 14:38:46 +0000</listdate>
+    <saledate>Wed, 28 Nov 2018 11:20:55 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>new</condition>
+    <notes>Still sealed in shrink.
+Shipping to UK only please.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Nov 2018 20:07:39 +0000</listdate>
+    <saledate>Mon, 03 Dec 2018 20:11:25 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Got an extra copy from the KS.  Shipping is $8-13 depending on zip code.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Nov 2018 23:15:11 +0000</listdate>
+    <saledate>Tue, 04 Dec 2018 16:28:15 +0000</saledate>
+    <price currency='USD'>58</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+NOT a Pre-Order!!! Ships TODAY !!! No Waiting !!!
+Get $4 DISCOUNT or MORE for buying more games below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekmarket/user/greengow
+----- 0-9 -----
+1906 San Francisco
+1920 Wall Street
+5 Cucumbers
+6 Nimmt!
+7 Kingdoms
+----- A -----
+After the Flood
+Agra
+Akrotiri
+Altiplano
+Amerigo
+Antike Duellum
+Auf Achse
+Ave Roma
+----- B -----
+Bali
+Batavia
+Baumeister des Colosseums
+Bookmaker
+Busen Memo
+----- C -----
+Carcassonne: Amazonas
+Carcassonne: Gold Rush
+Carpe Diem
+Chicago Express
+Chickwood Forest
+Chronicler
+Cinque Terre
+Council of Four
+Crows Overkill
+----- D -----
+DaJunhe
+Daxu
+Dice Brewing + Extras
+Dokmus
+Dominion: Guilds
+Double Mission: Beyond the Object
+Dragon_T_E_M_P_T_A_G_#039;s Castle
+Drum Roll
+Dynasties: Heirate _T_E_M_P_T_A_G_amp; Herrsche
+----- E -----
+El Gaucho
+Eldritch Horror
+Eldritch Horror: Forsaken Lore
+Eldritch Horror: Mountains of Madness
+----- F -----
+Farlight
+Fine Sand
+First To Fight
+Flying Kiwis
+Freaky
+Fresko (Fresco) Expansion 8,9,10
+Fujian Trader
+----- G -----
+Game of Trains
+Ganymede
+Ganz Schön Clever
+Get Off My Land!
+Glen More
+----- H -----
+Hanzi
+Haru Ichiban
+Hengist
+Hot Tin Roof
+----- I -----
+Ilos
+India Rails
+Indian Summer
+In the Year of the Dragon - 10th Anniversary
+Isaribi
+----- K -----
+K2 Broad Peak
+Keltis
+Keyper
+Key West
+Kings of Mithril
+King_T_E_M_P_T_A_G_#039;s Pouch
+Knister
+Konja
+Kulami
+Kutschfahrt zur Teufelsburg
+----- L -----
+Last Train to Wensleydale
+Lobo 77
+Long Live the Queen
+Lorenzo il Magnifico + Extras
+----- M -----
+Machi Koro Harbor expansion
+Manhattan
+Manila
+Mercatores
+Metro
+Mexica
+Meuterer
+Michael Strogoff
+Mini Rails
+Montana
+M.U.L.E.
+Mystery of the Temples
+----- N -----
+Nord
+Noria
+Notre Dame 10 Anniversary Edition
+----- O -----
+Okanagan
+Olympos + Oikoumene expansion
+Outback
+----- P -----
+Papa Paolo
+Paper Tales
+Papua
+Passing Through Petra
+Pedzace Jeze (Bucket Brigade)
+Porta Nigra
+Portale von Molthar
+Pulsar 2849
+----- Q -----
+Quebec 1759
+----- R -----
+Race to the New Found Land
+Raiatea
+Rajas of the Ganges
+Rattus
+Rattus Cartus
+Rattus: Pied Piper
+Rhein River Trade
+Riverboat
+Robber Knights
+Royals
+----- S -----
+Sagrada
+Santa Maria
+Scythe: Invaders from Afar
+Seidenstrasse
+Settlers of America: Trails to Rails
+Shadows in Kyoto
+Ships
+Shipyard
+Snowdonia
+Snowdonia: Trans-Australian Railway _T_E_M_P_T_A_G_amp; The Daffodil Line 
+Space Base
+Staufer Dynasty
+Stinky Business
+Symphony No. 9
+----- T -----
+Tadmor
+TA-KE
+Taiwan
+The Cat
+The Great Fire of London 1666
+The Mind
+The Quest for El Dorado
+The Voyages of Marco Polo
+Thurn und Taxis
+Ticket To Ride: New York
+Tikal
+Tilting at Windmills
+Tobago
+Touria
+Transatlantic
+Tribes: Early Civilization
+Triovision
+----- U -----
+Ulm
+----- V -----
+Venetia
+Vienna
+Vikings
+----- W -----
+Wendake
+West of Africa
+Whistle Stop
+Würfel Bohnanza
+Würfelland
+----- Y -----
+Ys
+----- Z -----
+Zertz
+ZhanGuo</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Nov 2018 09:39:33 +0000</listdate>
+    <saledate>Tue, 11 Dec 2018 17:56:13 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>Brand new and in shrink.
+Will ship to Germany for 6€, please ask for other European locations.
+Payment via PayPal or wire transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Dec 2018 22:54:48 +0000</listdate>
+    <saledate>Fri, 14 Dec 2018 07:33:02 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>13.65 shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2018 14:55:50 +0000</listdate>
+    <saledate>Sun, 16 Dec 2018 01:36:56 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap from smoke free home. PayPal accepted at purchase or personal check accepted and will ship after check clears. You pay actual shipping charges are based on USPS from Kentucky.
+Padded Prior Mail Envelope (with bubble wrapped game inside $7.50 (see pictures for what padded mailer looks like with game bubble wrapped inside)
+Flat rate medium Priority mail box $13.90
+You choose whichever shipping method you want based on how protected you want the game to be.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2018 14:55:50 +0000</listdate>
+    <saledate>Mon, 17 Dec 2018 17:39:09 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>new</condition>
+    <notes>You will receive one copy of 18Lilliput, brand new in shrink wrap, the full Kickstarter Edition with an extra 30 Brobdingnang tiles included for that variant.  
+PayPal accepted at purchase or personal check accepted and will ship after check clears. You pay actual shipping charges are based on USPS from Kentucky.
+Padded Prior Mail Envelope (with bubble wrapped game inside $7.50 (see pictures for what padded mailer looks like with game bubble wrapped inside)
+Flat rate medium Priority mail box $13.90
+You choose whichever shipping method you want based on how protected you want the game to be.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2018 14:55:50 +0000</listdate>
+    <saledate>Tue, 18 Dec 2018 04:47:04 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>new</condition>
+    <notes>You will receive one copy of 18Lilliput, brand new in shrink wrap, the full Kickstarter Edition with an extra 30 Brobdingnang tiles included for that variant.  
+PayPal accepted at purchase or personal check accepted and will ship after check clears. You pay actual shipping charges are based on USPS from Kentucky.
+Padded Prior Mail Envelope (with bubble wrapped game inside $7.50 (see pictures for what padded mailer looks like with game bubble wrapped inside)
+Flat rate medium Priority mail box $13.90
+You choose whichever shipping method you want based on how protected you want the game to be.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Dec 2018 22:00:20 +0000</listdate>
+    <saledate>Tue, 18 Dec 2018 22:03:48 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243927/item/6599065#6599065]Item for Geeklist _T_E_M_P_T_A_G_quot;Quick, Low BIN Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2018 14:55:50 +0000</listdate>
+    <saledate>Mon, 24 Dec 2018 18:15:56 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>new</condition>
+    <notes>You will receive one copy of 18Lilliput, brand new in shrink wrap, the full Kickstarter Edition with an extra 30 Brobdingnang tiles included for that variant.  
+PayPal accepted at purchase or personal check accepted and will ship after check clears. You pay actual shipping charges are based on USPS from Kentucky.
+Padded Prior Mail Envelope (with bubble wrapped game inside $7.50 (see pictures for what padded mailer looks like with game bubble wrapped inside)
+Flat rate medium Priority mail box $13.90
+You choose whichever shipping method you want based on how protected you want the game to be.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2018 14:55:50 +0000</listdate>
+    <saledate>Wed, 26 Dec 2018 23:40:59 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>new</condition>
+    <notes>You will receive one copy of 18Lilliput, brand new in shrink wrap, the full Kickstarter Edition with an extra 30 Brobdingnang tiles included for that variant.  
+PayPal accepted at purchase or personal check accepted and will ship after check clears. You pay actual shipping charges are based on USPS from Kentucky.
+Padded Prior Mail Envelope (with bubble wrapped game inside $7.50 (see pictures for what padded mailer looks like with game bubble wrapped inside)
+Flat rate medium Priority mail box $13.90
+You choose whichever shipping method you want based on how protected you want the game to be.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Dec 2018 15:43:28 +0000</listdate>
+    <saledate>Mon, 07 Jan 2019 14:19:48 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>new</condition>
+    <notes>Brand new from the Kickstarter.
+Will charge Mid Flat Rate cost to ship - and will return the difference if I can ship it cheaper.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Jan 2019 17:57:05 +0000</listdate>
+    <saledate>Mon, 07 Jan 2019 22:21:39 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>Will ship priority mail. Will check to see if this fits in a Regional A box with would max out at ~$11, otherwise a medium flat rate would be ~$13. Would also consider Priority Flat Rate envelope with the game box padded in bubble wrap this tends to be ~$8. 
+Will consider shipping to Canada, will need to discuss first as rates from the USA are quite absurd.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jan 2019 07:08:43 +0000</listdate>
+    <saledate>Fri, 11 Jan 2019 14:18:36 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/250769/item/6624803#6624803]Item for Geeklist _T_E_M_P_T_A_G_quot;Cleaning up the Shelves Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Jan 2019 17:57:05 +0000</listdate>
+    <saledate>Tue, 15 Jan 2019 07:10:45 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>Will ship priority mail. Will check to see if this fits in a Regional A box with would max out at ~$11, otherwise a medium flat rate would be ~$13. Would also consider Priority Flat Rate envelope with the game box padded in bubble wrap this tends to be ~$8. 
+Will consider shipping to Canada, will need to discuss first as rates from the USA are quite absurd.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Jan 2019 20:56:06 +0000</listdate>
+    <saledate>Mon, 21 Jan 2019 21:12:25 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Jan 2019 03:42:18 +0000</listdate>
+    <saledate>Thu, 31 Jan 2019 18:04:03 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/251844/item/6663571#6663571]Item for Geeklist _T_E_M_P_T_A_G_quot;Rarities Auction - Agricola Decks, BSG Expansion, Aos Expansion_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Winner - elmsley4</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Feb 2019 22:41:57 +0000</listdate>
+    <saledate>Mon, 04 Feb 2019 19:00:14 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>New in shrink. Shipping from 07040.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Jan 2019 23:18:50 +0000</listdate>
+    <saledate>Fri, 08 Feb 2019 21:50:53 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Opened but unplayed. 
+Removed paper money (assume players will use alternative money such as poker chips for faster play)
+Shipping $15</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Feb 2019 01:19:40 +0000</listdate>
+    <saledate>Sat, 16 Feb 2019 23:41:22 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Played once
+Buyer pays shipping from 19609</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Feb 2019 10:40:28 +0000</listdate>
+    <saledate>Mon, 18 Feb 2019 06:12:02 +0000</saledate>
+    <price currency='EUR'>34</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Feb 2019 10:40:28 +0000</listdate>
+    <saledate>Wed, 20 Feb 2019 01:19:08 +0000</saledate>
+    <price currency='EUR'>34</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jan 2019 23:33:46 +0000</listdate>
+    <saledate>Thu, 21 Feb 2019 15:27:10 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>likenew</condition>
+    <notes>Punched, but not played.
+Shipping (to UK only), will be at cost.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

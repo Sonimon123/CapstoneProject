@@ -1,0 +1,2838 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="12995">
+   <yearpublished>2004</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>11</age>
+       <name primary="true" sortindex="1">Dungeon Twister</name>
+         
+   <description>Dungeon Twister is a 2-player high level strategy game where 2 teams of adventurers with various powers are trapped in a dungeon. The board is composed of 8 rooms that can be moved and rotated by the players. Each turn, a player is able to spend actions to move around the dungeon, pick up and use items, battle with the opponents team, or turn and move the rooms of the dungeon._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The goal is to reach 5 victory points.  Points are collected by moving adventurers out of the dungeon or by killing an opponent's adventurer. Objects are disseminated across the whole dungeon and will bring the adventurers well-needed powers._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Each player has the same characters, each with different powers. Some run fast, some fight or disarm traps. The cleric heals, magician burns everything in sight, and the goblin is so weak that the simple fact of getting him out will bring you two victory points._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Combat and actions are managed via cards. To move, fight, heal, or turn a room, you must manage action points obtained by playing cards. Those cards are not drawn but selected from a set of cards by both players. Both players have access to the same panel of cards at the beginning of the game, so the game is really about managing the resources and adapting to the changing environment._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Dungeon Twister is the original game in the Dungeon Twister series_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/OB5fXIsyaxiIjbp5FZB01m8tMDY=/fit-in/200x150/pic97630.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/LmjTmg0wfmeTZX8RXSVPm4kB-fE=/0x0/pic97630.jpg</image>
+      
+            <boardgamepublisher objectid="2778">Pro Ludo</boardgamepublisher>
+               <boardgamehonor objectid="13287">2004 Tric Trac Nominee</boardgamehonor>
+               <boardgamehonor objectid="12964">2005 International Gamers Award - General Strategy: Two-players</boardgamehonor>
+               <boardgamehonor objectid="20329">2006 As d_T_E_M_P_T_A_G_#039;Or - Jeu de l_T_E_M_P_T_A_G_#039;Année Nominee</boardgamehonor>
+               <boardgamehonor objectid="8855">2006 Golden Geek Best 2-Player Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="12503">2006 Lucca Games Best Game Mechanics</boardgamehonor>
+               <boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+               <boardgamecategory objectid="1022">Adventure</boardgamecategory>
+               <boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+               <boardgameversion objectid="24570">Asmodee English Edition First Printing</boardgameversion>
+               <boardgameversion objectid="102661">Asmodee English Edition Second Printing</boardgameversion>
+                      <boardgamedesigner objectid="1206">Christophe Boelinger</boardgamedesigner>
+                      <boardgamefamily objectid="30">Dungeon Twister</boardgamefamily>
+               <videogamebg objectid="127693">Dungeon Twister</videogamebg>
+               <boardgameimplementation objectid="42124">Dungeon Twister 2: Prison</boardgameimplementation>
+               <boardgameexpansion objectid="80115">Dungeon Twister:  Room P3</boardgameexpansion>
+               <boardgameexpansion objectid="14533">Dungeon Twister: 3/4 Players Expansion</boardgameexpansion>
+               <boardgameexpansion objectid="25724">Dungeon Twister: À Feu et À Sang</boardgameexpansion>
+               <boardgameexpansion objectid="246497">Dungeon Twister: Amazone</boardgameexpansion>
+               <boardgameaccessory objectid="153921">Dungeon Twister: Base Set Arabian Stand-Ups</boardgameaccessory>
+               <boardgameaccessory objectid="153922">Dungeon Twister: Base Set Gender-Reversed Stand-Ups</boardgameaccessory>
+               <boardgameaccessory objectid="141130">Dungeon Twister: Base Set Miniatures</boardgameaccessory>
+               <boardgameexpansion objectid="72366">Dungeon Twister: Beggar</boardgameexpansion>
+               <boardgameexpansion objectid="80499">Dungeon Twister: Bonus Objects</boardgameexpansion>
+               <boardgameexpansion objectid="27099">Dungeon Twister: Créatures Sylvestres</boardgameexpansion>
+               <boardgameexpansion objectid="72408">Dungeon Twister: Disciple</boardgameexpansion>
+               <boardgameexpansion objectid="165213">Dungeon Twister: Dwarf Elf Slayer</boardgameexpansion>
+               <boardgameexpansion objectid="165214">Dungeon Twister: Father Christmas</boardgameexpansion>
+               <boardgameaccessory objectid="141236">Dungeon Twister: Fire _T_E_M_P_T_A_G_amp; Water Miniatures</boardgameaccessory>
+               <boardgameexpansion objectid="17565">Dungeon Twister: Fire and Water</boardgameexpansion>
+               <boardgameexpansion objectid="20435">Dungeon Twister: Forces of Darkness</boardgameexpansion>
+               <boardgameaccessory objectid="141237">Dungeon Twister: Forces of Darkness Miniatures</boardgameaccessory>
+               <boardgameexpansion objectid="80011">Dungeon Twister: Forest Elf</boardgameexpansion>
+               <boardgameexpansion objectid="80013">Dungeon Twister: Insaisissable</boardgameexpansion>
+               <boardgameexpansion objectid="80007">Dungeon Twister: Master of Time</boardgameexpansion>
+               <boardgameaccessory objectid="141239">Dungeon Twister: Mercenaires Miniatures</boardgameaccessory>
+               <boardgameexpansion objectid="21795">Dungeon Twister: Mercenaries</boardgameexpansion>
+               <boardgameexpansion objectid="23300">Dungeon Twister: Minotaur</boardgameexpansion>
+               <boardgameexpansion objectid="81180">Dungeon Twister: Neutral Characters</boardgameexpansion>
+               <boardgameexpansion objectid="72367">Dungeon Twister: Ogre</boardgameexpansion>
+               <boardgameexpansion objectid="13809">Dungeon Twister: Paladins _T_E_M_P_T_A_G_amp; Dragons</boardgameexpansion>
+               <boardgameaccessory objectid="141235">Dungeon Twister: Paladins and Dragons Miniatures</boardgameaccessory>
+               <boardgameexpansion objectid="26136">Dungeon Twister: Purple Dragon</boardgameexpansion>
+               <boardgameexpansion objectid="80016">Dungeon Twister: Room P1</boardgameexpansion>
+               <boardgameexpansion objectid="80781">Dungeon Twister: Room P2</boardgameexpansion>
+               <boardgameexpansion objectid="31736">Dungeon Twister: Terres de Glace</boardgameexpansion>
+               <boardgameimplementation objectid="144525">Dungeon Twister: The Card Game</boardgameimplementation>
+               <boardgameexpansion objectid="80008">Dungeon Twister: The Merciless One</boardgameexpansion>
+               <boardgameexpansion objectid="117794">Dungeon Twister: Traps</boardgameexpansion>
+               <boardgameexpansion objectid="80010">Dungeon Twister: Zephyr, the Cheater</boardgameexpansion>
+               <boardgameaccessory objectid="141238">Dungeon Twister: Zombies Set</boardgameaccessory>
+                      <boardgamepublisher objectid="2973">Edge Entertainment</boardgamepublisher>
+                                           <boardgamepodcastepisode objectid="104630">Episodio 11 – Especial verano 2013: Juegos no jugados</boardgamepodcastepisode>
+               <boardgamecategory objectid="1020">Exploration</boardgamecategory>
+               <boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+               <boardgamecategory objectid="1046">Fighting</boardgamecategory>
+               <boardgameversion objectid="27011">French edition</boardgameversion>
+                             <boardgameversion objectid="49598">German edition</boardgameversion>
+                                                                       <boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+               <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+               <boardgameversion objectid="79458">Italian edition</boardgameversion>
+                                           <boardgameartist objectid="12317">Thierry Masson</boardgameartist>
+               <boardgamecategory objectid="1059">Maze</boardgamecategory>
+               <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+               <boardgamepublisher objectid="504">Nexus Editrice</boardgamepublisher>
+                                                                                                          <boardgameartist objectid="12316">Wayne Reynolds</boardgameartist>
+                      <boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+               <boardgameversion objectid="41871">Spanish edition</boardgameversion>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+                                    <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+                             <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+             
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="57">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="44" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="53" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="35" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="39">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="9" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="27" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="1" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="35">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="7" />
+     <result value="12" numvotes="17" />
+     <result value="14" numvotes="8" />
+     <result value="16" numvotes="1" />
+     <result value="18" numvotes="1" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>5494</usersrated>
+     <average>6.84262</average>
+     <bayesaverage>6.56672</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="826" bayesaverage="6.56672" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="520" bayesaverage="6.59886" />
+            
+           </ranks>
+     
+     <stddev>1.50474</stddev>
+     <median>0</median>
+     <owned>7275</owned>
+     <trading>474</trading>
+     <wanting>175</wanting>
+     <wishing>979</wishing>
+     <numcomments>1827</numcomments>
+     <numweights>676</numweights>
+     <averageweight>2.8817</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Wed, 22 Jun 2005 22:16:52 +0000</listdate>
+    <saledate>Thu, 17 Nov 2005 23:44:36 +0000</saledate>
+    <price currency='EUR'>14.99</price>
+    <condition>likenew</condition>
+    <notes>french version, but the game itself is pretty much language independent and you can find various rules translations on boardgamegeek +++++ will be shipped with insurance +++++ payment for usa, canada, asia or australia : paypal or cash (by letter, exchanged already into euros) or bank transfer +++++ payment for other non-euro-countries : cash (by letter, exchanged already into euros) or bank transfer +++++ payment for european countries, that have euro : cash (by letter) or bank transfer (wich by the way is cost-free !) +++++ payment for germany : personal pick up in berlin or bank transfer +++++ foreign buyers beware : german postal sadly is very expensive for foreign packages (about 18 - 45 euros, it depends on, where the package has to be shipped and the weight), pleask at for shipping prices, before you buy !) +++++ shipping inside germany will cost 8 euros, including insurance</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Sep 2005 04:43:44 +0000</listdate>
+    <saledate>Wed, 04 Jan 2006 23:01:31 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>new</condition>
+    <notes>English version. Game is brand new with publisher shrink-wrap. Save $5 off list price of $29.99! Items are shipped within one business day of receiving payment. If you do not wish to use PayPal, you may pay me directly (via website or phone) using any major credit card. Shipping is $7.00 for UPS Ground to US locations (no PO Boxes, AK or HI). If you need a different type of shipping or any questions answered, please email before purchasing. CA orders pay 7.25% sales tax. For more info visit www.gamesinabox.com.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Sep 2005 17:07:34 +0000</listdate>
+    <saledate>Mon, 19 Dec 2005 17:06:02 +0000</saledate>
+    <price currency='USD'>20.5</price>
+    <condition>new</condition>
+    <notes>Dungeon Twister
+This game is brand new and sealed. S_T_E_M_P_T_A_G_amp;H through UPS Ground is $7.50 in the 48 states. We can combine shipping on multiple purchases. We collect 8.25% sales tax for TX orders. 
+For more games go to www.newspiel.com.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Sep 2005 15:15:47 +0000</listdate>
+    <saledate>Wed, 28 Dec 2005 12:26:09 +0000</saledate>
+    <price currency='USD'>18.95</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Asmodee Editions (ASMDT01US) 
+ 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Oct 2005 23:26:34 +0000</listdate>
+    <saledate>Tue, 18 Oct 2005 04:23:01 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition. Payment via cashiers check, money order or non-credit card (funds transfer) PayPal.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Dec 2005 06:11:49 +0000</listdate>
+    <saledate>Sun, 25 Dec 2005 06:39:48 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>English edition.  Complete and in near-mint condition.  Only played once.  Just doesn_T_E_M_P_T_A_G_#039;t grab me.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Jan 2006 01:59:29 +0000</listdate>
+    <saledate>Fri, 20 Jan 2006 03:54:28 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Opened, but never played. In like new shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2006 21:02:00 +0000</listdate>
+    <saledate>Mon, 13 Feb 2006 11:29:52 +0000</saledate>
+    <price currency='USD'>12.99</price>
+    <condition>likenew</condition>
+    <notes>German edition. Shipping is 8.20$ within U.S., insurance 1.35$ optional.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Feb 2006 15:48:16 +0000</listdate>
+    <saledate>Fri, 24 Mar 2006 01:16:54 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This game is brand new and manufacturer sealed. S_T_E_M_P_T_A_G_amp;H is $8.50 via USPS Priority Mail to all 50 states. Combined shipping may be available on multiple purchases. Other shipping arrangements are available upon request but may vary in cost. Pennsylvania shipping addresses should include 6% sales tax.
+**VERY FAST SHIPPING - 2-4 business days once payment received**</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Mar 2006 16:57:00 +0000</listdate>
+    <saledate>Tue, 05 Dec 2006 07:35:33 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>new</condition>
+    <notes>This game is brand new and manufacturer sealed. S_T_E_M_P_T_A_G_amp;H is $8.50 via USPS Priority Mail to all 50 states. Combined shipping may be available on multiple purchases. Other shipping arrangements are available upon request but may vary in cost. Pennsylvania shipping addresses should include 6% sales tax.
+**VERY FAST SHIPPING - 2-4 business days once payment received**</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 May 2006 12:43:13 +0000</listdate>
+    <saledate>Fri, 21 Jul 2006 00:07:11 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>I_T_E_M_P_T_A_G_#039;m selling this and Dungeon Twister - Paladins _T_E_M_P_T_A_G_amp; Dragons as a set.  Dungeon Twister was played one time, is punched and has 1 creased character figure (thin cardboard, straightened, doesn_T_E_M_P_T_A_G_#039;t affect game play).  The Paladins _T_E_M_P_T_A_G_amp; Dragons game is unplayed but punched and is in otherwise excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Jul 2006 00:29:37 +0000</listdate>
+    <saledate>Sun, 15 Oct 2006 14:24:32 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap.  Asmodee (French Edition).
+Offer $27.00 to include the Dungeon Twister Exp 1: Paladins _T_E_M_P_T_A_G_amp; Dragons, (also New in shrinkwrap,  Asmodee, French Edition).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Sep 2006 23:16:30 +0000</listdate>
+    <saledate>Sat, 16 Dec 2006 22:15:06 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Dungeon Twister - Asmodée Editions
+Like New! Removed from shrink, but unplayed and in perfect condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $2.00 handling charge.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Nov 2006 10:43:24 +0000</listdate>
+    <saledate>Sun, 17 Dec 2006 09:54:19 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>good</condition>
+    <notes>Punched, put together. Played once.
+Will accept bank transfer as well as paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Dec 2006 21:56:46 +0000</listdate>
+    <saledate>Tue, 20 Oct 2009 11:54:14 +0000</saledate>
+    <price currency='USD'>20.99</price>
+    <condition>new</condition>
+    <notes>Asmodee Editions (ASM DT01US)
+Dungeon Twister is a board game for two players by Christophe Boelinger. Basically you are in control of a team of eight adventurers who have a range of amazing powers and abilities. 
+You now have the power to pass through walls, throw fire balls, shatter metal, regenerate your body. 
+Dungeon Twister is definitely not just a simple game in a box: it is designed to be played casually or in tournaments. Add-on components will soon be available using the same rules, but they will also introduce new characters, new rooms and new objects, thus allowing you to play with two to three other players! 
+Walls don_T_E_M_P_T_A_G_#039;t scare him! 
+A game of strategy, Dungeon Twister calls on the tactical senses of the players as well as their bluffing skills! 
+A highly tuned finesse for movements is required along with ease in using magic objects and rotating rooms and combat intelligence. The ability to anticipate the enemy_T_E_M_P_T_A_G_#039;s actions will allow you to emerge victorious and to be the first one to get out of the dungeon... or help to eliminate your opponents!
+Content: 
+8 square rooms 
+2 starting zones 
+2 sets of game pieces (8 characters and 6 objects per player) 
+2 sets of 8 figurines and 16 plastic bases 
+2 decks of 16 cards 
+20 open/closed markers 
+10 markers to count game actions 
+1 rule book 
+Game Duration: About 45 minutes 
+Age: 11 and up 
+Number of Player: 2 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Jan 2007 14:50:50 +0000</listdate>
+    <saledate>Fri, 29 May 2009 00:33:56 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played just once...!French edition.
+Still in great condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Feb 2007 11:15:28 +0000</listdate>
+    <saledate>Tue, 06 Mar 2007 22:48:25 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>likenew</condition>
+    <notes>good condition - 
+expected shipping costs in uk will be £4 - will confirm later.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Feb 2007 00:27:02 +0000</listdate>
+    <saledate>Tue, 27 Feb 2007 05:05:41 +0000</saledate>
+    <price currency='AUD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played a few times only. Great strategic game. Check the reviews.
+$10 postage to anywhere in Australia.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Mar 2007 23:18:44 +0000</listdate>
+    <saledate>Thu, 29 Mar 2007 20:01:35 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>Played once. All components in mint condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Apr 2007 19:05:35 +0000</listdate>
+    <saledate>Sun, 22 Apr 2007 00:12:46 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Game is in very good shape. Comes with LOTR trivia Game.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 May 2007 02:58:36 +0000</listdate>
+    <saledate>Fri, 04 May 2007 14:11:48 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 May 2007 17:05:32 +0000</listdate>
+    <saledate>Sat, 11 Aug 2007 23:08:36 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>played a couple of times.   US buyer agrees to pay USPS priority mail shipping.  unfortunately, i will not ship this internationally.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jun 2007 03:58:20 +0000</listdate>
+    <saledate>Wed, 05 Sep 2007 23:32:10 +0000</saledate>
+    <price currency='USD'>18.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+DUNGEON TWISTER: $18.95
+Asmodee [ASM DT01US]
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2007 19:45:01 +0000</listdate>
+    <saledate>Sun, 05 Aug 2007 16:21:37 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>Open but unplayed.  From a smoke-free envrironment</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Aug 2007 17:54:24 +0000</listdate>
+    <saledate>Thu, 09 Aug 2007 07:05:49 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>$9 shipping to US</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Aug 2007 20:47:14 +0000</listdate>
+    <saledate>Fri, 28 May 2010 15:19:32 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Opened, punched but unplayed copy of BOTH the original as well as the Paladins and Dragons expansion.  Buyer to pay actual costs for priority mail with delivery confirmation.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Sep 2007 01:20:40 +0000</listdate>
+    <saledate>Wed, 06 Feb 2008 03:21:56 +0000</saledate>
+    <price currency='USD'>18.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+DUNGEON TWISTER: $18.95
+Asmodee [ASM DT01US]
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Oct 2007 01:27:39 +0000</listdate>
+    <saledate>Fri, 12 Oct 2007 11:24:52 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played twice. Box is in mint condition. All pieces are present. Zip lock bags provided.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Oct 2007 15:00:50 +0000</listdate>
+    <saledate>Thu, 27 Mar 2008 22:24:24 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>verygood</condition>
+    <notes>Shipping is actual cost +$1. International buyers OK.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Oct 2007 03:48:18 +0000</listdate>
+    <saledate>Mon, 29 Oct 2007 21:14:44 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>Brand new and factory sealed!
+Gamers_T_E_M_P_T_A_G_#039; Inn is a real store in Mesa AZ, and will ship via DHL Ground or the USPS. Most games will ship for $7.50 unless it is particularly light or heavy, or if you request Priority or special handling. Insurance is available on all orders for about $2. All games can ship international, and we will quote costs upon request. Delivery confirmation goes with every order.
+We do our best to give an accurate description of condition, and will ship them safely and quickly, and we will gladly combine shipping costs.
+In store pickup _T_E_M_P_T_A_G_amp; payment is available with no shipping or handling charges. Arizona residents must pay 7.5% sales tax.
+About us:
+We can be reached at: info@gamersinnaz.com
+The store is open 24/7/365 and can be phoned at: 480-507-0509
+Street address: 1232 E Southern Ave, Mesa, AZ 85204
+You can check out our history as a Power Seller on eBay at:  http://myworld.ebay.com/gamers_inn
+or on Amazon:
+http://www.amazon.com/gp/shops/index.html/104-7806078-3093525?ie=UTF8_T_E_M_P_T_A_G_amp;sellerID=A2M6J42JR1XQD
+Our home page:
+http://www.gamersinnaz.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Dec 2007 02:42:31 +0000</listdate>
+    <saledate>Wed, 16 Jan 2008 12:49:06 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Game is punched and bagged, very lightly played.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Dec 2007 16:26:17 +0000</listdate>
+    <saledate>Fri, 11 Jan 2008 16:43:59 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Game removed from box, unwrapped, read the rules, never played it.  Trying to trim my collection.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Feb 2008 05:48:20 +0000</listdate>
+    <saledate>Sat, 23 Feb 2008 04:52:04 +0000</saledate>
+    <price currency='USD'>18.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON TWISTER: $18.95
+Asmodee [ASM DT01US]
+SHIPPING
+Continental U.S. - FedEx: 10.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Feb 2008 15:14:59 +0000</listdate>
+    <saledate>Sat, 23 Feb 2008 20:33:19 +0000</saledate>
+    <price currency='GBP'>19.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Feb 2008 02:41:07 +0000</listdate>
+    <saledate>Sat, 16 Feb 2008 18:36:22 +0000</saledate>
+    <price currency='USD'>17.95</price>
+    <condition>verygood</condition>
+    <notes>I accept Amazon gift certificate or Paypal. Shipping is flat $10, no matter how many games you buy. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Feb 2008 01:05:44 +0000</listdate>
+    <saledate>Wed, 19 Mar 2008 04:25:05 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Played only twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Feb 2008 14:11:26 +0000</listdate>
+    <saledate>Wed, 12 Mar 2008 20:45:58 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>I_T_E_M_P_T_A_G_#039;m selling this game as part of a fund raising event.  I_T_E_M_P_T_A_G_#039;m going to donate the proceeds from all games I sell to either CWAC(Children with AIDS Charity) or Project Self Sufficiency NJ.  Both are very worthy causes and while I don_T_E_M_P_T_A_G_#039;t have much to give, evey little bit helps.
+Dungeon Twister is in great condition.  I received it in a trade and only played it once after that.  Everything is present and accounted for.  Shipping will be $6.00 and I will ship it as fast as possible for that price.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Mar 2008 03:01:19 +0000</listdate>
+    <saledate>Tue, 18 Mar 2008 11:44:12 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Opened and punched but never played. This is the original English printing of the game, so the larger character stand-up cards are thin.
+I prefer Paypal, but will accept money order and check also.
+I only charge for postage, nothing extra. Sorry, I ship to USA only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Apr 2008 00:56:21 +0000</listdate>
+    <saledate>Wed, 14 May 2008 09:50:19 +0000</saledate>
+    <price currency='USD'>6.99</price>
+    <condition>new</condition>
+    <notes>NOT A COMPLETE GAME!
+This is for a full set of Dungeon Twister punch-out sheets _T_E_M_P_T_A_G_amp; standees, still wrapped _T_E_M_P_T_A_G_amp; unpunched. This is not a complete game, but it_T_E_M_P_T_A_G_#039;s pretty darn close. I think the only things missing are screens, box _T_E_M_P_T_A_G_amp; instruction manual. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Apr 2008 16:59:17 +0000</listdate>
+    <saledate>Wed, 14 May 2008 19:37:19 +0000</saledate>
+    <price currency='USD'>18.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON TWISTER: $18.95
+Asmodee [ASM DT01US]
+SHIPPING
+Continental U.S. - FedEx: 10.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Apr 2008 19:20:43 +0000</listdate>
+    <saledate>Tue, 22 Apr 2008 19:26:36 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>good</condition>
+    <notes>Private sale for user jeblucas.
+Paladins and Dragons expansion is also coupled with this item.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 May 2008 01:31:22 +0000</listdate>
+    <saledate>Tue, 20 May 2008 06:16:08 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Game is complete and in very good condition.
+Buyer pays actual cost of shipping via FedEx Ground
+Shipping only to US</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 May 2008 00:29:38 +0000</listdate>
+    <saledate>Mon, 01 Sep 2008 23:14:50 +0000</saledate>
+    <price currency='USD'>18.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON TWISTER: $18.95
+Asmodee [ASM DT01US]
+SHIPPING
+Continental U.S. - FedEx: 10.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jun 2008 04:42:04 +0000</listdate>
+    <saledate>Tue, 26 Aug 2008 21:56:15 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>100% complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Sep 2008 00:10:43 +0000</listdate>
+    <saledate>Thu, 26 Mar 2009 13:24:53 +0000</saledate>
+    <price currency='USD'>18.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON TWISTER: $18.95
+Asmodee [ASM DT01US]
+SHIPPING
+Continental U.S. - FedEx: 11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Oct 2008 13:38:04 +0000</listdate>
+    <saledate>Tue, 07 Oct 2008 02:24:46 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>This is a private listing for Matt Kramper.  All other buyers will be rejected.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Nov 2008 23:18:27 +0000</listdate>
+    <saledate>Fri, 02 Jan 2009 14:36:30 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Opened , unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Nov 2008 01:40:32 +0000</listdate>
+    <saledate>Fri, 02 Jan 2009 05:36:56 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Nov 2008 15:18:01 +0000</listdate>
+    <saledate>Sat, 02 May 2009 11:03:46 +0000</saledate>
+    <price currency='EUR'>29.9</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Dec 2008 17:23:44 +0000</listdate>
+    <saledate>Wed, 15 Jul 2009 11:09:12 +0000</saledate>
+    <price currency='USD'>14.99</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Dec 2008 01:26:58 +0000</listdate>
+    <saledate>Tue, 13 Jan 2009 19:18:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Complete and in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Jan 2009 21:07:44 +0000</listdate>
+    <saledate>Wed, 28 Jan 2009 02:24:04 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>Very good condition.
+Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Jan 2009 17:03:31 +0000</listdate>
+    <saledate>Fri, 30 Jan 2009 14:38:57 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>likenew</condition>
+    <notes>By ProLudo - played just once.
+Shipping is:
+without shipping insurance:
+4 EUR to Germany,10 EUR to Europe and 15 EUR worldwide
+including shipping insurance:
+7 EUR to Germany,18 EUR to Europe, 35 EUR to U.S. and Canada and 42 EUR worldwide
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Feb 2009 18:48:28 +0000</listdate>
+    <saledate>Sun, 01 Feb 2009 18:54:19 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Feb 2009 00:00:49 +0000</listdate>
+    <saledate>Tue, 24 Feb 2009 10:14:09 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>english edition, never been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Mar 2009 13:41:29 +0000</listdate>
+    <saledate>Wed, 13 May 2009 09:58:37 +0000</saledate>
+    <price currency='USD'>18.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON TWISTER: $18.95
+Asmodee [ASM DT01US]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Apr 2009 13:25:38 +0000</listdate>
+    <saledate>Sun, 24 May 2009 05:24:13 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>verygood</condition>
+    <notes>Game played just once or twice. Original version but includes two unopened copies of the floor replacement pack.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Apr 2009 11:16:33 +0000</listdate>
+    <saledate>Fri, 01 May 2009 17:55:07 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>for yteer</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 May 2009 14:54:28 +0000</listdate>
+    <saledate>Sat, 02 May 2009 17:03:11 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Never been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 May 2009 07:38:33 +0000</listdate>
+    <saledate>Sun, 10 May 2009 21:15:47 +0000</saledate>
+    <price currency='GBP'>24.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £3.75  postage to UK.
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a discount for purchases over £50. Please contact me for details. All items i list are in stock and will be posted within 24 hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 May 2009 10:49:14 +0000</listdate>
+    <saledate>Sat, 17 Jul 2010 01:42:12 +0000</saledate>
+    <price currency='AUD'>15</price>
+    <condition>likenew</condition>
+    <notes>Opened but never used good as new.
+My version is in French but printed English Rules provided and game components are language independent.
+I will accept Direct Deposit from Australian Buyers.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 May 2009 23:12:34 +0000</listdate>
+    <saledate>Fri, 13 Nov 2009 12:50:26 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Opened, punched, cards still wrapped, never played.  Complete.  Components and Box cherry.
+CONUS delivery only.  S_T_E_M_P_T_A_G_amp;H = $5.00
+Cashier_T_E_M_P_T_A_G_#039;s Check or USPS Money Order.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Jun 2009 05:02:12 +0000</listdate>
+    <saledate>Tue, 17 Nov 2009 15:59:47 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>FOR KYTTY ONLY!  If you are not KYTTY, then do not attempt to buy!
+Played twice.  In great condition.  All pieces bagged _T_E_M_P_T_A_G_amp; sorted.  Will pack well!
+You choose shipping wherever you like from 98104!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Jun 2009 17:38:40 +0000</listdate>
+    <saledate>Tue, 16 Jun 2009 19:50:22 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>All contents are punched and bagged.  The box is in good condition.  I_T_E_M_P_T_A_G_#039;ve only played this once.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jun 2009 08:15:43 +0000</listdate>
+    <saledate>Tue, 03 Nov 2009 20:15:42 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>likenew</condition>
+    <notes>Excellent Condition
+UK Postage £3.50</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jun 2009 17:53:36 +0000</listdate>
+    <saledate>Sun, 12 Jul 2009 03:28:47 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Received in a trade, appears unplayed.  Punched but mint condition.  I charge only actual shipping cost.  Local pickup available.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Jul 2009 15:18:43 +0000</listdate>
+    <saledate>Thu, 09 Jul 2009 06:53:54 +0000</saledate>
+    <price currency='AUD'>30</price>
+    <condition>likenew</condition>
+    <notes>*local pickup in Melbourne or to ship around the world.
+Game is in excellent condition and items were cared for.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Aug 2009 19:20:56 +0000</listdate>
+    <saledate>Fri, 12 Feb 2010 21:20:14 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Excellent Condition. Asmodee Edition. English Version.
+Shipping _T_E_M_P_T_A_G_amp; Handling: $12.00</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Aug 2009 23:37:31 +0000</listdate>
+    <saledate>Thu, 27 Aug 2009 05:58:03 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>Geeklist auction for user: dogzard</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Sep 2009 18:23:56 +0000</listdate>
+    <saledate>Tue, 22 Jun 2010 23:41:36 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>good</condition>
+    <notes>It is the French edition, but I do have a print out of the english rules.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Sep 2009 20:15:52 +0000</listdate>
+    <saledate>Sun, 27 Sep 2009 23:17:15 +0000</saledate>
+    <price currency='GBP'>7</price>
+    <condition>likenew</condition>
+    <notes>Only played once, excellent condition.
+Postage £3 to UK. Extra for Europe.
+Payment via Paypal only.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Oct 2009 21:43:12 +0000</listdate>
+    <saledate>Tue, 26 Jan 2010 19:16:51 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Game only played once. Asmodee edition. Contains all original pieces.
+Shipping is a flat rate of $5 for FedEx Ground.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Oct 2009 15:33:40 +0000</listdate>
+    <saledate>Tue, 27 Oct 2009 02:34:02 +0000</saledate>
+    <price currency='USD'>11.95</price>
+    <condition>likenew</condition>
+    <notes>Complete and excellent condition.
+I ship fast and can combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Nov 2009 18:45:50 +0000</listdate>
+    <saledate>Fri, 08 Jan 2010 21:45:37 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>For all purposes like new. Just that there_T_E_M_P_T_A_G_#039;s a noticeable ding on the short edge of the box.
+Be sure to check out other games I have for sale!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Nov 2009 11:31:51 +0000</listdate>
+    <saledate>Fri, 13 Nov 2009 03:56:21 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>To be sold to RikHavok.
+Shipping will be $15.00 via Priority Mail.
+Includes two expansion: Paladins _T_E_M_P_T_A_G_amp; Dragons, and 3-4 Players.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Nov 2009 21:52:34 +0000</listdate>
+    <saledate>Mon, 30 Nov 2009 04:42:30 +0000</saledate>
+    <price currency='USD'>15.95</price>
+    <condition>likenew</condition>
+    <notes>shrink removed. Unpunched / Unused</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Nov 2009 21:54:31 +0000</listdate>
+    <saledate>Tue, 16 Feb 2010 14:13:58 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This is for the base game plus the two sets of figures for the original base set.  
+Base game is played but in very good shape.
+The figure sets are both in original packaging, brand-new.  One set is orange, the other green.  Can be painted or just used as is.  See photos.
+I_T_E_M_P_T_A_G_#039;m also selling the first expansion as well.
+New in box, photos available upon request.  These are not available now (as far as I can tell)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Nov 2009 00:38:19 +0000</listdate>
+    <saledate>Fri, 18 Dec 2009 04:22:32 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>likenew</condition>
+    <notes>Condition notes: Dungeon Twister -- Like new. Played only a few times. All components present and in excellent condition. 
+------------------------------------------------
+I_T_E_M_P_T_A_G_#039;m in the process of cleaning out the game cabinet. Look back for more deals later. For open and played games, expect prices below what you_T_E_M_P_T_A_G_#039;d pay at an online discounter.
+Shipping: I will ship most games USPS Priority Mail using a flat rate box plus Shipping Confirmation - Estimated Actual Cost: $10.45. I will make every attempt to get you the cheapest and most timely shipping possible.
+All games come from a non-smoking, careful environment. I hope you enjoy owning and playing these games as much as I have.
+I accept Paypal or Money Order or Cashiers Check.
+I do not accept personal checks because I can_T_E_M_P_T_A_G_#039;t ship your game quickly with that payment method.
+Currently only shipping to the U.S. If you are in a foreign country and really want one of these games, contact me and I will try to accommodate you - be aware that international shipping costs may be substantially higher.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Feb 2010 22:59:36 +0000</listdate>
+    <saledate>Thu, 04 Feb 2010 03:12:22 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Sold via auction:
+http://www.boardgamegeek.com/geeklist/51321/auction-because-of-the-most-expensive-penny-sleeve</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Feb 2010 17:05:26 +0000</listdate>
+    <saledate>Fri, 16 Apr 2010 15:39:40 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>verygood</condition>
+    <notes>This package includes: Dungeon Twister, the 3-4 player expansion, as well as the paladins and dragons expansion. I do not have the box for the two expansions just the original Dungeon Twister box. The two expansions have not been punched out of the cardboard yet. The game is in perfect condition and comes from a pet and smoke free home.
+BUYER PAYS ALL SHIPPING AND PAYPAL 3.9% COSTS IF APPLICABLE.
+A great set if you want to jump into the game. Any questions please contact. Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Feb 2010 06:35:29 +0000</listdate>
+    <saledate>Thu, 04 Mar 2010 16:28:41 +0000</saledate>
+    <price currency='CAD'>22</price>
+    <condition>likenew</condition>
+    <notes>Item from recent auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Mar 2010 13:41:44 +0000</listdate>
+    <saledate>Sun, 05 Jun 2011 14:05:12 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Mar 2010 14:23:57 +0000</listdate>
+    <saledate>Wed, 03 Mar 2010 20:54:03 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>opened but never played.  Most of the pieces are not punched out. Some creasing on the box_T_E_M_P_T_A_G_#039;s lid.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Mar 2010 02:44:57 +0000</listdate>
+    <saledate>Thu, 08 Jul 2010 23:48:12 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>extra counters, somewhat punched, never played</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Mar 2010 04:04:31 +0000</listdate>
+    <saledate>Sun, 21 Mar 2010 21:43:05 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This is for a once-played copy of Dungeon Twister, won by Sandy Petersen in my GL auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Mar 2010 12:17:27 +0000</listdate>
+    <saledate>Sat, 27 Mar 2010 17:00:30 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Dungeon Twister, played a few times.  This OOP game looks perfectly new other than being punched.
+Why buy from me? Non-smoking household. Experienced shipper with thousands of feedback confirming it (on eBay as nvstudios).
+Price here includes FREE SHIPPING to continental US. Actual shipping anywhere else.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Apr 2010 02:57:12 +0000</listdate>
+    <saledate>Fri, 30 Apr 2010 18:27:18 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>Opened, played once. Great condition.
+I can look up the costs of shipping with your zip code to give you an exact price for shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Apr 2010 06:19:49 +0000</listdate>
+    <saledate>Mon, 26 Apr 2010 02:04:43 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>All components in excellent condition.
+Shipping will be at actual cost via USPS Priority or Parcel Post (buyer_T_E_M_P_T_A_G_#039;s choice).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 May 2010 15:49:36 +0000</listdate>
+    <saledate>Thu, 10 Jun 2010 18:26:55 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>For Jeremy Fridy (Freitag)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 May 2010 16:03:02 +0000</listdate>
+    <saledate>Wed, 02 Jun 2010 15:28:02 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>likenew</condition>
+    <notes>English version. Includes the 3/4 player expansion. Played a couple times but still in great shape. Retails for $59.98 all together. Ask for estimate on shipping before buying international. Domestic shipping will be $11.00 USPS Priority Mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Jun 2010 14:10:55 +0000</listdate>
+    <saledate>Thu, 10 Jun 2010 14:54:41 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>This item is only for sale to user Jesse Olivier (JesseOlivier), who won it in a BGG auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jun 2010 15:07:51 +0000</listdate>
+    <saledate>Thu, 24 Jun 2010 08:05:49 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>likenew</condition>
+    <notes>First Edition base set. Set up but never played. Postage to UK £5</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Jul 2010 19:35:22 +0000</listdate>
+    <saledate>Sat, 20 Nov 2010 12:34:17 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes>Got in very good condition via Marketplace, played once, didn_T_E_M_P_T_A_G_#039;t like it, back on Marketplace for same price plus cover for Paypal, price does not include postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Jul 2010 13:02:21 +0000</listdate>
+    <saledate>Mon, 07 Feb 2011 10:26:48 +0000</saledate>
+    <price currency='AUD'>70</price>
+    <condition>verygood</condition>
+    <notes>This includes the following :
+- Dungeon Twister Base Set
+- Dungeon Twister 3/4 Player Expansion
+- Dungeon Twister Paladins _T_E_M_P_T_A_G_amp; Dragons Expansion
+- Dungeon Twister Forces of Darkness Expansion
+All games are punched _T_E_M_P_T_A_G_amp; bagged, _T_E_M_P_T_A_G_amp; are all in their original packaging with the exception of Forces of Darkness which is stored in the Base Set box. Everythng is in excellent condition. In fact some of the expansions haven_T_E_M_P_T_A_G_#039;t been played.
+Will ship to Australia only. Game will be packed well _T_E_M_P_T_A_G_amp; shipping will be by parcel post (estimated at $15-$20 depending on location). Pickup available in Sydney West area.
+Happy to answer any questions.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Jul 2010 13:02:02 +0000</listdate>
+    <saledate>Sat, 07 May 2011 14:10:02 +0000</saledate>
+    <price currency='USD'>17.95</price>
+    <condition>likenew</condition>
+    <notes>Game and Box in excellent condition.
+Actual shipping rates apply.
+I ship through UPS or USPS, whichever is cheaper. 
+I will combine shipping from multiple sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jul 2010 02:53:36 +0000</listdate>
+    <saledate>Thu, 10 Feb 2011 23:04:06 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Received as a gift - didnt like it but its like new. 
+NOTE: This purchase also includes the Paladins and Dragons Expansion #1 - The expansion alone is worth $30 - the expansion is already in the same box as the game.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Aug 2010 13:15:56 +0000</listdate>
+    <saledate>Mon, 02 Aug 2010 14:30:07 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>For xdoomsongx from the Good Games Need Good Homes Geeklist Auction.
+Comes with Forces of Darkness expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Aug 2010 20:55:09 +0000</listdate>
+    <saledate>Wed, 01 Dec 2010 00:37:44 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>Dungeon Twister (2005 English edition) by Asmodee
+Box: Light shelfwear with several dings, dents and wrinkles.  Box top has two signficant issues:  1) a C-shaped tear approximately 1_T_E_M_P_T_A_G_quot; high on the left side of the box front; and B) a 4_T_E_M_P_T_A_G_quot; split along the bottom center of the box front.  Overall, the box is in good condition.
+Components: Complete and in like new condition!  The pieces have been separated and stored in plastic bags for convenience and protection - you will be very pleased with how the game has been packaged.
+SHIPPING
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 2 Lbs. from zip code 85208.  International buyers are very welcome, but please contact me for a shipping price quote to avoid any surprises or misunderstandings.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Aug 2010 19:48:04 +0000</listdate>
+    <saledate>Tue, 17 Aug 2010 14:25:53 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>includes paladins _T_E_M_P_T_A_G_amp; dragons and 3/4 exp
+reseved for ninthdoc
+shipping is $21.00 additional</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Aug 2010 04:40:22 +0000</listdate>
+    <saledate>Sun, 22 Aug 2010 04:01:38 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Won at auction for 17 dollars.  If you didn_T_E_M_P_T_A_G_#039;t win this item at auction, please don_T_E_M_P_T_A_G_#039;t buy it.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Aug 2010 19:12:34 +0000</listdate>
+    <saledate>Wed, 25 Aug 2010 16:42:15 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Game played a couple of times, but otherwise in excellent condition.  All parts present.  Pictures of my copy are available upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Aug 2010 19:29:51 +0000</listdate>
+    <saledate>Tue, 24 Aug 2010 19:43:32 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>For user keggy only. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Aug 2010 20:32:28 +0000</listdate>
+    <saledate>Sun, 05 Sep 2010 08:59:32 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>likenew</condition>
+    <notes>Perfect condition, opened but never played. 
+Shipping to the UK for £2.49. 
+Will provide shipping to the EU upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Aug 2010 08:02:53 +0000</listdate>
+    <saledate>Fri, 27 Aug 2010 18:12:03 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>likenew</condition>
+    <notes>All contents present and in MINT condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Sep 2010 21:03:03 +0000</listdate>
+    <saledate>Tue, 26 Oct 2010 14:45:37 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>2005 Asmodee edition. Only played once, not the wife_T_E_M_P_T_A_G_#039;s cup of tea at all - hence me selling it.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Sep 2010 12:38:07 +0000</listdate>
+    <saledate>Mon, 01 Nov 2010 12:41:04 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>Game is unplayed. I just removed the shrink to check if it is complete. I_T_E_M_P_T_A_G_#039;m selling the 3-4 player expansion as well. If interested, please look at my sales inventory.
+I will ship anywhere in the world and never ask more then actual shipping costs. Shipping of multiple items can be combined.
+Payment through PayPal (worldwide) or bank transfer (within EU).
+Any questions? Just ask!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Sep 2010 05:14:38 +0000</listdate>
+    <saledate>Sat, 14 May 2011 03:23:13 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Complete and in great shape.
+Can combine shipping on multiple purchases</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Oct 2010 16:33:12 +0000</listdate>
+    <saledate>Wed, 30 Mar 2011 21:36:02 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>Game played once and is in like new condition. In addition, there was a reprint of the original tiles and character cardboard pieces in the game which was given away when the original printing tiles were deemed insufficient in some way. The replacement tiles and carboard gameplay and character pieces with bases are unpunched and included in the box. Cards and original pieces have also been bagged.
+Allergy info: From a smoke-free, cat-free home.
+Shipping is $10. Game will ship buyer_T_E_M_P_T_A_G_#039;s choice of FedEx Ground or USPS. Expedited shipping can be arranged if desired.
+Consolidated shipping is available if you buy multiple games, please check my other listings.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Oct 2010 10:28:30 +0000</listdate>
+    <saledate>Fri, 29 Oct 2010 10:54:35 +0000</saledate>
+    <price currency='AUD'>12</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Nov 2010 18:55:53 +0000</listdate>
+    <saledate>Thu, 02 Dec 2010 15:50:26 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>likenew</condition>
+    <notes>This is for user Jason Valdez (Tinypocket) only for ER geeklist auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Dec 2010 02:29:45 +0000</listdate>
+    <saledate>Thu, 09 Dec 2010 02:41:01 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>only to be bought by user Mcgartlin</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Dec 2010 15:25:27 +0000</listdate>
+    <saledate>Mon, 06 Jun 2011 15:02:32 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Set includes the base game plus the following expansions: Fire _T_E_M_P_T_A_G_amp; Water, Forces of Darkness, Mercenaries, and Paladins _T_E_M_P_T_A_G_amp; Dragons. It also includes the following promo items: Purple Dragon and Minotaur. Played once or twice. Smoke free home. Buyer pays shipping costs. Will ship USPS Priority, FedEx or UPS. Please purchase only if willing to pay via PayPal.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Jan 2011 00:18:27 +0000</listdate>
+    <saledate>Wed, 13 Apr 2011 01:53:40 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>good</condition>
+    <notes>Box appears to have a bunch of water damage or something. However, the contents are in perfect shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Jan 2011 15:24:27 +0000</listdate>
+    <saledate>Fri, 07 Jan 2011 17:10:35 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>verygood</condition>
+    <notes>Almost unplayed, in great shape (apart from a floor tile with a small, yet noticeable tear in the back).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Jan 2011 23:28:17 +0000</listdate>
+    <saledate>Sat, 17 Sep 2011 09:14:34 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>German edition (Pro Ludo)
+basic game
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Jan 2011 12:56:25 +0000</listdate>
+    <saledate>Tue, 12 Apr 2011 21:35:04 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Played, complete, in very good condition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Feb 2011 04:59:50 +0000</listdate>
+    <saledate>Tue, 01 Feb 2011 15:12:19 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>Reserved for jgoyes, auction winner.
+Shipping charge is for both the game and expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Feb 2011 23:58:31 +0000</listdate>
+    <saledate>Sat, 12 Feb 2011 07:20:28 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Feb 2011 02:22:32 +0000</listdate>
+    <saledate>Fri, 18 Feb 2011 21:08:06 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>reserved for user davidme, bought in my GL auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Feb 2011 19:15:54 +0000</listdate>
+    <saledate>Wed, 23 Feb 2011 15:04:17 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played twice. I will pay shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Feb 2011 03:07:03 +0000</listdate>
+    <saledate>Thu, 24 Feb 2011 04:32:17 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>auction don_T_E_M_P_T_A_G_#039;t buy</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Feb 2011 19:40:53 +0000</listdate>
+    <saledate>Wed, 20 Apr 2011 00:22:48 +0000</saledate>
+    <price currency='CAD'>25</price>
+    <condition>likenew</condition>
+    <notes>Bought new, played once. All near mint condition. This is the second edition. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Mar 2011 06:06:51 +0000</listdate>
+    <saledate>Sun, 20 Mar 2011 00:32:30 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>This game has been played a couple times, but all the components are in great shape.
+The box shows some signs of wear from stacking.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Mar 2011 23:31:17 +0000</listdate>
+    <saledate>Tue, 29 Mar 2011 04:04:36 +0000</saledate>
+    <price currency='USD'>74</price>
+    <condition>new</condition>
+    <notes>For user Cardboard Carnage only — for auction win in ChaosJenkins_T_E_M_P_T_A_G_#039; My Wife and Jeep Need Surgery Auction (http://bit.ly/fBfF5S)
+Note, this includes Dungeon Twister, Paladins _T_E_M_P_T_A_G_amp; Dragons, Forces of Darkness, Fire _T_E_M_P_T_A_G_amp; Water and Mercenaries.
+Combined Purchase Price is $74
+Combined Shipping is $12</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Apr 2011 23:03:08 +0000</listdate>
+    <saledate>Wed, 13 Apr 2011 07:04:17 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>good</condition>
+    <notes>Item intended for auction winner: Tim Robinson (timmontana)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Apr 2011 22:47:02 +0000</listdate>
+    <saledate>Mon, 25 Apr 2011 17:57:00 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>new</condition>
+    <notes>Out of the shrink, but everything is unopened inside, everything is included.  
+Consolidating games that my gaming group will never play. Buyer to pay actual shipping costs, nothing more. Please contact with your zip code so I can check various shipping options.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Apr 2011 17:09:37 +0000</listdate>
+    <saledate>Sun, 24 Apr 2011 17:57:20 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 May 2011 15:42:43 +0000</listdate>
+    <saledate>Fri, 03 Jun 2011 21:17:54 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>great shape.  Paypal only.  Shipping will be $8.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 May 2011 08:47:41 +0000</listdate>
+    <saledate>Thu, 26 May 2011 12:47:28 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 May 2011 04:02:27 +0000</listdate>
+    <saledate>Sun, 19 Jun 2011 12:46:44 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>In excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jun 2011 02:35:14 +0000</listdate>
+    <saledate>Fri, 05 Aug 2011 11:02:17 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>2004 version</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jul 2011 20:56:49 +0000</listdate>
+    <saledate>Sat, 09 Jul 2011 08:05:36 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Everything is there but there is some minor damage to the box. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jul 2011 18:29:03 +0000</listdate>
+    <saledate>Sat, 16 Feb 2013 01:38:24 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Components look brand new. I played it twice.
+I_T_E_M_P_T_A_G_#039;ll use USPS to ship to the lower 48. I_T_E_M_P_T_A_G_#039;ll charge whatever it costs to your zip code. (I_T_E_M_P_T_A_G_#039;ll ship internationaly but it will, of course, cost more.)
+Thanks for taking the time to look at the listing.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jul 2011 16:03:15 +0000</listdate>
+    <saledate>Thu, 14 Jul 2011 13:26:59 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>For Rob Jennings</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jul 2011 03:33:21 +0000</listdate>
+    <saledate>Thu, 14 Jul 2011 18:03:47 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>For aschvey only, from my She_T_E_M_P_T_A_G_#039;s Trying to Have a Baby auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Aug 2011 20:54:32 +0000</listdate>
+    <saledate>Sat, 29 Oct 2011 19:42:50 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>verygood</condition>
+    <notes>asomodee edition basic set</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Aug 2011 11:20:21 +0000</listdate>
+    <saledate>Wed, 31 Aug 2011 21:56:57 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Played a few times.  Top of box has a little bit of shelf wear.  Components in good shape.  Buyer pays actual shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Aug 2011 19:47:13 +0000</listdate>
+    <saledate>Wed, 24 Aug 2011 22:45:09 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Very nice shape, barely played. Should be a 3 pound package from zip 80015, but may vary by a pound at most when fully packed up. I don_T_E_M_P_T_A_G_#039;t charge for packing/handling, and I ship USPS Priority by the lowest rate.
+Please let me know if you have questions.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Aug 2011 02:45:00 +0000</listdate>
+    <saledate>Fri, 26 Aug 2011 13:19:08 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>This is for the winner of my auction only - George Rasmussen. This includes Space Hulk Death Angel.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Aug 2011 10:45:39 +0000</listdate>
+    <saledate>Tue, 20 Sep 2011 21:58:59 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>unused - copy . bits are all there...100 %
+UK postage about 3.00 tops.  cheque please UK.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Sep 2011 02:46:14 +0000</listdate>
+    <saledate>Tue, 20 Sep 2011 14:12:28 +0000</saledate>
+    <price currency='USD'>17.5</price>
+    <condition>good</condition>
+    <notes>A used copy of the Asmodee edition in good condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Sep 2011 20:28:56 +0000</listdate>
+    <saledate>Mon, 12 Sep 2011 01:35:10 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>I have an extra copy of Dungeon Twister - base set. It is in very good condition with some minor wear on the box from storage. I will ship it out promptly upon payment and will select the least expensive shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Dec 2011 21:21:04 +0000</listdate>
+    <saledate>Thu, 08 Dec 2011 22:22:55 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>AUCTION ITEM FOR pennincao</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Dec 2011 03:43:18 +0000</listdate>
+    <saledate>Sat, 21 Apr 2012 02:43:02 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Payment via PayPal to lucia-lance@att.net</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Jan 2012 22:58:42 +0000</listdate>
+    <saledate>Sat, 21 Jan 2012 23:03:57 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Auction item for Justin Kelly/iamretawdid
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2012 23:05:07 +0000</listdate>
+    <saledate>Mon, 28 May 2012 12:48:34 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Only played 2-3 times. Box is glossy and in excellent condition. All components are complete and bagged. Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Feb 2012 21:51:30 +0000</listdate>
+    <saledate>Tue, 28 Feb 2012 20:06:36 +0000</saledate>
+    <price currency='GBP'>9</price>
+    <condition>likenew</condition>
+    <notes>Dungeon Twister is a 2-player high level strategy game where 2 teams of adventurers with various powers are trapped in a dungeon. The board is composed of 8 rooms that can be moved and rotated by the players. Each turn, a player is able to spend actions to move around the dungeon, pick up and use items, battle with the opponents team, or turn and move the rooms of the dungeon.
+The goal is to reach 5 victory points. Points are collected by moving adventurers out of the dungeon or by killing an opponent_T_E_M_P_T_A_G_#039;s adventurer. Treasures are disseminated across the whole dungeon and will bring the adventurers well-needed powers.
+Each player has the same characters, each with different powers. Some run fast, some fight or disarm traps. The cleric heals, magician burns everything in sight and the goblin is so weak that the simple fact of getting him out will bring you two victory points.
+Combat and actions are managed via cards. To move, fight, heal or turn a room, you must manage action points obtained by playing cards. Those cards are not drawn but selected from a set of cards by both players. Both players have access to the same panel of cards at the beginning of the game so the game is really about managing the resources and adapting to the changing environment.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Mar 2012 23:50:54 +0000</listdate>
+    <saledate>Sun, 04 Mar 2012 22:05:22 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>played a few times, but all parts included</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Mar 2012 22:29:44 +0000</listdate>
+    <saledate>Mon, 09 Apr 2012 14:23:10 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>played a few times.  Components are in good shape.  Box has some minor shelf wear</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Apr 2012 12:04:42 +0000</listdate>
+    <saledate>Sat, 07 Apr 2012 16:30:25 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>likenew</condition>
+    <notes>This is for Tim Robinson from My First BGG Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Apr 2012 14:58:42 +0000</listdate>
+    <saledate>Fri, 13 Apr 2012 10:09:46 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>For Jim Chaney, won through auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Apr 2012 15:16:04 +0000</listdate>
+    <saledate>Sat, 19 May 2012 04:53:32 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>good</condition>
+    <notes>Asmodee.  Ships USPS Priority.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Apr 2012 05:29:42 +0000</listdate>
+    <saledate>Wed, 18 Apr 2012 03:48:32 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Jason Mosley</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 May 2012 14:39:11 +0000</listdate>
+    <saledate>Tue, 15 May 2012 15:10:53 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>ONLY for user calandale
+Dungeon Twister
+Exalted: War for the Throne
+Holy War
+Hot Spot
+Psyche-Paths
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 May 2012 14:38:23 +0000</listdate>
+    <saledate>Fri, 15 Jun 2012 21:34:21 +0000</saledate>
+    <price currency='GBP'>12.5</price>
+    <condition>good</condition>
+    <notes>All complete. Slight depresion to the base of the box. Very good game that no one in my house wants to play with me so reluctantly selling.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jun 2012 03:29:34 +0000</listdate>
+    <saledate>Sat, 30 Mar 2013 09:43:12 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Jul 2012 14:25:57 +0000</listdate>
+    <saledate>Thu, 12 Jul 2012 23:08:22 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>reserved for spidey412
+Bob_T_E_M_P_T_A_G_#039;s July 2012 Lucky 7s Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Jul 2012 16:48:38 +0000</listdate>
+    <saledate>Mon, 23 Jul 2012 06:25:06 +0000</saledate>
+    <price currency='USD'>27.95</price>
+    <condition>likenew</condition>
+    <notes>Played twice, in perfect condition.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jul 2012 10:43:32 +0000</listdate>
+    <saledate>Thu, 25 Oct 2012 19:53:51 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Aug 2012 05:33:12 +0000</listdate>
+    <saledate>Wed, 22 Aug 2012 06:04:20 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>Reserved for Zen Dochterman
+Edition: 2005
+Language: English
+Condition: Acceptable, missing orange _T_E_M_P_T_A_G_quot;5 Actions_T_E_M_P_T_A_G_quot; card.
+Sweetner: Paladins and Dragons expansion, complete and very good condition in the same box. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Sep 2012 15:02:22 +0000</listdate>
+    <saledate>Mon, 03 Sep 2012 15:14:02 +0000</saledate>
+    <price currency='CAD'>11</price>
+    <condition>likenew</condition>
+    <notes>Only to be sold to user: 
+MCollier</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Oct 2012 22:12:38 +0000</listdate>
+    <saledate>Wed, 03 Oct 2012 09:12:15 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Auction win for SatanicEssence
+Shipping includes delivery confirmation.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Oct 2012 02:46:40 +0000</listdate>
+    <saledate>Wed, 03 Oct 2012 04:50:39 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Includes Dragon and Paladin and 3/4 Player expansions.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Oct 2012 02:50:22 +0000</listdate>
+    <saledate>Sat, 03 Nov 2012 19:02:18 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Great condition - played once.  Cards are sleeved and bits are in a small plano style box.  
+Missing 1 of the 20 portcullis chits (this doesn_T_E_M_P_T_A_G_#039;t affect gameplay because there are more portcullis chits than actual portcullis spots on the board).  
+Also missing one of the plastic stands (this does affect gameplay if you have all 16 heroes active at once...but you can use a stand from another game).
+Buyer pays shipping from 93003.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Nov 2012 07:33:07 +0000</listdate>
+    <saledate>Sat, 01 Dec 2012 09:57:30 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink from a smoke free home. 
+Paypal to United States only.
+Thanks,
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Nov 2012 00:51:08 +0000</listdate>
+    <saledate>Tue, 27 Nov 2012 01:14:30 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Auction win for:
+Don Schiewer
+(pa5t0rd)
+Dungeon Twister
+BUY IT NOW: $50.00
+SHIPPING: $10.00 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Nov 2012 20:49:52 +0000</listdate>
+    <saledate>Thu, 27 Dec 2012 04:45:15 +0000</saledate>
+    <price currency='USD'>34.99</price>
+    <condition>verygood</condition>
+    <notes>Opened, played a few times, and in great condition. This comes with an opened but unplayed copy of Paladins _T_E_M_P_T_A_G_amp; Dragons.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2012 00:52:20 +0000</listdate>
+    <saledate>Sat, 15 Dec 2012 21:12:40 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>First Edition, Asmodee Edition.  This game is in like-new condition.  The contents are new and unpunched.  I charge a flat $12 for shipping.  Combined rates available. No international shipping. Please message me with any questions.  Thank you for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Jan 2013 16:12:56 +0000</listdate>
+    <saledate>Thu, 03 Jan 2013 19:09:26 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner bogie1494.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Feb 2013 15:51:59 +0000</listdate>
+    <saledate>Sat, 02 Feb 2013 16:47:38 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Only played once and in great shape!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Feb 2013 19:09:05 +0000</listdate>
+    <saledate>Tue, 05 Feb 2013 19:38:10 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Some very minor corner wear on box.
+All components accounted for, only played a small handful of times.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Feb 2013 15:51:54 +0000</listdate>
+    <saledate>Sun, 03 Mar 2013 18:03:10 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played a few times. All pieces accounted for, neatly bagged and ready to be played. Also have several expansions for sale if you want to bundle and save on shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Mar 2013 03:09:17 +0000</listdate>
+    <saledate>Fri, 24 May 2013 22:25:25 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>likenew</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+DUNGEON TWISTER: $29.95
+Asmodee [ASM DT01US]
+* Game is complete and in like new / unpunched condition.
+SHIPPING
+Continental U.S. - FedEx: 13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Mar 2013 04:43:35 +0000</listdate>
+    <saledate>Tue, 19 Mar 2013 05:15:36 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>Auction win for paullywitch </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Mar 2013 20:39:25 +0000</listdate>
+    <saledate>Fri, 22 Mar 2013 21:41:06 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>For Yauchy</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Mar 2013 02:30:29 +0000</listdate>
+    <saledate>Sun, 24 Mar 2013 03:00:30 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>reserved for pa5t0rd</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Mar 2013 01:51:13 +0000</listdate>
+    <saledate>Tue, 15 Oct 2013 15:20:46 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Only played a few times, in great shape.  Includes Paladins and Dragons expansion!
+Check out my other games to save on shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Apr 2013 20:08:59 +0000</listdate>
+    <saledate>Sun, 21 Apr 2013 05:10:21 +0000</saledate>
+    <price currency='GBP'>49</price>
+    <condition>new</condition>
+    <notes>Dungeon Twister + Miniatures Reserved for veemonroe</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Apr 2013 10:10:00 +0000</listdate>
+    <saledate>Fri, 26 Apr 2013 16:59:08 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>This item is reserved for user DougBass68</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 May 2013 18:18:36 +0000</listdate>
+    <saledate>Wed, 04 Sep 2013 00:09:43 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened, played twice, but in pristine condition.
+INCLUDES Paladins _T_E_M_P_T_A_G_amp; Dragons expansion, boxed separately, but will ship together, of course!
+Complete and in great shape.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 May 2013 19:06:59 +0000</listdate>
+    <saledate>Thu, 16 May 2013 20:09:29 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>For ionizedbrian only!!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Jun 2013 19:32:50 +0000</listdate>
+    <saledate>Mon, 18 Nov 2013 10:36:27 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>Punched but unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Jul 2013 02:02:59 +0000</listdate>
+    <saledate>Mon, 08 Jul 2013 03:08:52 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>For Nathan D - Wiscolib</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Aug 2013 17:10:54 +0000</listdate>
+    <saledate>Tue, 24 Sep 2013 02:42:18 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>Size: Medium
+Standard Information listed on all my For Sale Games:
+------------------------------------------------------
+1) Shipping cost is the highest cost of all games purchased + the add on cost of each other game. Promo cards or anything else that fits in a bubble mailer will have a base cost of $5 and and an add on cost of $1, a small game has a base cost of $8 and an add on cost of $2, a medium game has a base cost of $14 and an add on cost of $3 and a large game has a base cost of $20 and add on cost of $4. Anything outside that range will be listed specifically. If you_T_E_M_P_T_A_G_#039;re providing a business address to ship to, take a $1 off the shipping. 
+2) Purchase a $100 or more worth of games and get 5% off your total order.
+3) Purchase $200 or more and get 5% off and free shipping.
+4) If you see any games on my for trade list that aren_T_E_M_P_T_A_G_#039;t up for sale, feel free to ask me to add to the market.
+5) Most conditions are listed as very good, all those items listed as such range from very good to like new. 
+6) Amazon and game store gift cards are usually accepted but please check with me first if that_T_E_M_P_T_A_G_#039;s an option you_T_E_M_P_T_A_G_#039;d like to pursue.
+7) I try to list editions but if an edition isn_T_E_M_P_T_A_G_#039;t listed and it matters to you, please ask! If an item is bought and another edition was expected but you didn_T_E_M_P_T_A_G_#039;t ask, then I_T_E_M_P_T_A_G_#039;m happy to refund but I can_T_E_M_P_T_A_G_#039;t cover either shipping charge.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Sep 2013 06:58:54 +0000</listdate>
+    <saledate>Tue, 21 Jan 2014 12:40:28 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>verygood</condition>
+    <notes>Opened, played few times, complete. Great condition (I am very careful when playing).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Sep 2013 14:31:56 +0000</listdate>
+    <saledate>Sun, 06 Oct 2013 14:46:09 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Basic set Punched, unplayed, complete PLUS like new Paladins and Dragons Expansion included in bundle
+The offered game is from Mike Bartnikowski’s collection.  He passed in late 2012 and we are liquidating his gigantic (over 1200 pieces) Hoard.  We have a live .xls catalog with most of the pieces, asking price and condition.  To learn more, email at bartnikowskishoard@gmail.com.  
+Shipping to be paid by buyer.  We ship from 48192.
+paypal payments accepted at barbarakiss@sbcglobal.net
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Oct 2013 16:50:36 +0000</listdate>
+    <saledate>Sun, 20 Oct 2013 17:40:11 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Carsten Stürmer
+Essen 2013 no shipping auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Nov 2013 21:21:11 +0000</listdate>
+    <saledate>Wed, 06 Nov 2013 21:39:37 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>reserved for user TetsMom</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Nov 2013 05:08:24 +0000</listdate>
+    <saledate>Mon, 11 Nov 2013 10:28:24 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>for auction won by TheOrange</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Nov 2013 17:57:06 +0000</listdate>
+    <saledate>Mon, 18 Nov 2013 04:36:32 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This item represents this entry in the 2013 BGG.con virtual flea market - http://www.boardgamegeek.com/geeklist/160770/item/2841079#item2841079
+The winning bidder was [user=jergarmar], who bid $15 and will pay on site as per the terms of that entry.
+Pickup/delivery will only occur at the VFM meetup at BGG.con.  This transaction is invalid if the seller (or a friend) or buyer is unable to attend the VFM meetup.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Dec 2013 17:30:00 +0000</listdate>
+    <saledate>Sat, 14 Dec 2013 18:12:45 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jan 2014 00:33:07 +0000</listdate>
+    <saledate>Mon, 13 Jan 2014 13:37:50 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>for user socat82 only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jan 2014 17:40:25 +0000</listdate>
+    <saledate>Tue, 04 Feb 2014 03:32:50 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>verygood</condition>
+    <notes>This lot includes Dungeon Twister plus the 5 English Language Expansions
+Paladins and Dragons
+3/4 Players Expansion
+Fire and Water
+Forces of Darkness
+Mercenaries
+I never got around to playing the game even after acquiring all the expansions and organizing them so they are in excellent condition.
+I had one of the first printings that had tiles which didn_T_E_M_P_T_A_G_#039;t match the expansions. I got the replacement kit that got it in sync but still have the original pieces and will include them as well.
+I have combined all of the items into a Rubbermaid translucent clear box and attached scans of the original box top to the Rubbermaid box. You can see photos of this below.
+I still have the original boxes and can send them with the game, but the postage would increase in order to do that. As another option I can take the games out of the Rubbermaid box and send them with only their original boxes.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Mar 2014 22:05:51 +0000</listdate>
+    <saledate>Thu, 13 Mar 2014 00:02:02 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>For auction winner Dexter Gray
+shipping is 5.49</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Mar 2014 20:39:15 +0000</listdate>
+    <saledate>Wed, 19 Mar 2014 03:33:40 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>RESERVED for satorisnow</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Mar 2014 16:53:00 +0000</listdate>
+    <saledate>Wed, 09 Apr 2014 18:02:05 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>Brand New, Factory Sealed. Box and shrink show minor shelf wear on the corners. Very slight dishing of the front cover
+Buyer to pay actual shipping cost from Zip Code 61455. Can also arrange local pickup in Macomb, IL. I am willing to combine shipping if you are interested in more than one item.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Apr 2014 04:34:11 +0000</listdate>
+    <saledate>Mon, 21 Apr 2014 11:15:09 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>For auction winner jbaileymusic only!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Apr 2014 01:48:10 +0000</listdate>
+    <saledate>Mon, 12 May 2014 01:54:07 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>Reserved for geosan.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 May 2014 03:08:58 +0000</listdate>
+    <saledate>Sun, 11 May 2014 04:52:17 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Archangel</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 May 2014 11:30:55 +0000</listdate>
+    <saledate>Sat, 27 Sep 2014 19:50:01 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>Dungeon Twister - deutsche Version
+1-2 gespielt, wie neu und vollständig. Nichtraucherhaushalt.
+Versand bezahlt der Käufer je nach Gewicht und Paketgröße (~4€ für Päckchen innerhalb Deutschlands).
+Bezahlung per Überweisung, PayPal oder Bar bei Abholung (Bremen).
+Falls Fragen, immer her damit :)
+Der Verkauf erfolgt unter Ausschluss jeglicher Gewähr­leistung.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jun 2014 18:02:39 +0000</listdate>
+    <saledate>Wed, 04 Jun 2014 05:20:38 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/173804/item/3236656#3236656]Item for Geeklist _T_E_M_P_T_A_G_quot;Because you can_T_E_M_P_T_A_G_#039;t play money: An Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Jun 2014 22:35:38 +0000</listdate>
+    <saledate>Thu, 26 Jun 2014 07:49:51 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Minor wear on box, top has some dishing. Components in excellent shape.
+Buy two games from me- 3% discount.
+Buy three games- 6% discount.
+Buy four games- 9% discount.
+Buy five games- 12% discount.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Jul 2014 03:41:51 +0000</listdate>
+    <saledate>Tue, 01 Jul 2014 04:25:47 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/174892/item/3274652#3274652]Item for Geeklist _T_E_M_P_T_A_G_quot;Gearing Up For GenCon Summer Clearing Auction! - Ends 6/30/14 - U.S. Only - Shipping + Madison WI Local Pickup Only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jul 2014 15:13:50 +0000</listdate>
+    <saledate>Fri, 11 Jul 2014 22:09:28 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>Played once, all pieces collected in plastic bags. 
+Also selling Paladins _T_E_M_P_T_A_G_amp; Dragons, will sell both as a bundle for £20</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jul 2014 14:00:22 +0000</listdate>
+    <saledate>Mon, 14 Jul 2014 16:47:59 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/174747/item/3269648#3269648]Item for Geeklist _T_E_M_P_T_A_G_quot;Trimming My Collection Auction Ends: 07/13/2014_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+FOR wwbjd ONLY
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Jul 2014 18:03:33 +0000</listdate>
+    <saledate>Fri, 08 Aug 2014 16:00:44 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>item reserved for auction
+113 Dungeon Twister joel siragher $15.00
+Shipping will be calculated later today or tomorrow for total to pay
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Aug 2014 01:31:17 +0000</listdate>
+    <saledate>Mon, 25 Aug 2014 01:32:33 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/177987/item/3391086#3391086]Item for Geeklist _T_E_M_P_T_A_G_quot;Biggest Little City Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Aug 2014 17:16:56 +0000</listdate>
+    <saledate>Fri, 29 Aug 2014 17:46:10 +0000</saledate>
+    <price currency='EUR'>54</price>
+    <condition>good</condition>
+    <notes>Geekbay auction for user bloodhyena
+Includes all other games as well.
+Price for local pickup. Shipping additional 7 EUR.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Sep 2014 18:55:49 +0000</listdate>
+    <saledate>Thu, 25 Sep 2014 15:45:54 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes>Used, but in excellent condition. Buyer pays shipping price.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Sep 2014 03:53:47 +0000</listdate>
+    <saledate>Tue, 16 Sep 2014 04:51:59 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner Cold Blue.
+Neatly packed and bagged, very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Oct 2014 03:15:44 +0000</listdate>
+    <saledate>Wed, 22 Oct 2014 04:15:25 +0000</saledate>
+    <price currency='USD'>91</price>
+    <condition>likenew</condition>
+    <notes>Includes:
+5 Expansions
+This sale is the result of a [url=http://boardgamegeek.com/geeklist/180431/large-auction-over-100-games-including-rare-finds]Game Auction[/url].
+This listing is an exclusive offer to User: glookose</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Nov 2014 02:43:59 +0000</listdate>
+    <saledate>Wed, 05 Nov 2014 06:45:10 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Selling w/ 3-4 player expansion.  Will consider selling separately if expansion sells first.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Nov 2014 04:12:56 +0000</listdate>
+    <saledate>Mon, 24 Nov 2014 07:14:03 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>RESERVED for EYEL1NER</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Dec 2014 03:09:23 +0000</listdate>
+    <saledate>Mon, 15 Dec 2014 07:24:01 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>For jasonkills32.  Will not accept other buyers.
+Also includes Wicked Witches Way and Leonardo da Vinci
+Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Nov 2014 04:09:02 +0000</listdate>
+    <saledate>Wed, 07 Jan 2015 05:02:12 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Bonus set of tiles - unpunched
+Buyer pays shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jun 2014 12:32:23 +0000</listdate>
+    <saledate>Thu, 15 Jan 2015 11:04:18 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>Shipping costs:
+Europe (depending on the zone): 9-12 Eur
+US:17.50 Eur
+** Check my other listings</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Feb 2015 13:22:40 +0000</listdate>
+    <saledate>Tue, 24 Feb 2015 19:23:58 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/183993/item/3742172#3742172]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED -- My Collection Needs to be Smaller Auction -  A few Games Added at the last minute!!  -  Ends tomorrow --  Ends February 23rd_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jan 2015 17:48:00 +0000</listdate>
+    <saledate>Fri, 27 Feb 2015 13:34:34 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>Dungeon Twister _T_E_M_P_T_A_G_amp; Dungeon Twister 3/4 Player Exp., both German and in very good shape.
+Pickup possible in Frankfurt/Main</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Feb 2015 19:54:12 +0000</listdate>
+    <saledate>Wed, 04 Mar 2015 13:01:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Box corners show typical wear. Pieces are bagged, characters are on the plastic stands.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Mar 2015 13:32:05 +0000</listdate>
+    <saledate>Thu, 05 Mar 2015 16:09:43 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187787/item/3759690#3759690]Item for Geeklist _T_E_M_P_T_A_G_quot;Donor Dash Team Shirt Fundraiser Auction to celebrate my dad_T_E_M_P_T_A_G_#039;s THREE year Liverversary!!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Feb 2015 17:22:39 +0000</listdate>
+    <saledate>Sat, 07 Mar 2015 20:30:14 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>Components punched from frames but otherwise unused.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Feb 2015 20:26:55 +0000</listdate>
+    <saledate>Sun, 08 Mar 2015 20:57:33 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Mar 2015 19:17:38 +0000</listdate>
+    <saledate>Tue, 17 Mar 2015 23:23:21 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/185895/item/3716944#3716944]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction - Any offer considered! New games added throughout._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Dungeon Twister + L5R starters. $12 s/h.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Mar 2015 11:24:02 +0000</listdate>
+    <saledate>Sun, 22 Mar 2015 21:23:03 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>good</condition>
+    <notes>Dungeon Twister collection, contains the base game, 3/4 player expansion, Forces of Darkness, Mercenaries,Paladins and Dragons, Terres de Glace, and A Feu et A Sang. Also can include some extra homemade pieces for some of the expansion to add to the 3/4 player expansion options. Grab a bargain, at one point Terres de Glace was fetching more than I am asking for the whole bundle. Even now there is just a single copy available on BGG for $110. Trees de Glace and A feu et a Sang are unused. The base game has been played around 8 times and remains in good condition.
+I am selling off more than half of my collection over the next few weeks. If you are interested in something ask. I might just sell it.
+Will ship to UK only.
+Shipping via Myhermes direct to your door including tracking, £5.
+Payment via paypal. 
+Will combine shipping with other items for lower cost where possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 May 2014 04:16:59 +0000</listdate>
+    <saledate>Tue, 24 Mar 2015 22:10:13 +0000</saledate>
+    <price currency='USD'>149</price>
+    <condition>verygood</condition>
+    <notes>This is a bundle which includes:
+Dungeon Twister
+Dungeon Twister: 3/4 Players Expansion
+Dungeon Twister: Fire and Water
+Dungeon Twister: Forces of Darkness
+Dungeon Twister: Mercenaries
+Dungeon Twister: Paladins _T_E_M_P_T_A_G_amp; Dragons
+Dungeon Twister 2: Prison
+Base game, 3/4 expansion, and prison are opened.  Remainder NIS.  3/4 Expansion sale separate is possible, please geek mail me with offer.
+Will combine shipping with other items and ship at lowest cost/via specific method upon request.  Local pickup encouraged.  Comes from a Smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Mar 2015 19:08:37 +0000</listdate>
+    <saledate>Wed, 25 Mar 2015 22:25:39 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for wagglybean</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Jan 2015 10:53:21 +0000</listdate>
+    <saledate>Sun, 12 Apr 2015 20:53:37 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>New and in shrink.
+Shipping in Germany 6€, international shipping please ask!
+I only ship with DHL and insured.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Oct 2014 15:53:42 +0000</listdate>
+    <saledate>Wed, 15 Apr 2015 22:33:49 +0000</saledate>
+    <price currency='USD'>89</price>
+    <condition>likenew</condition>
+    <notes>This is a bundle of all 6 US boxes:
+Dungeon Twister 
+Paladins _T_E_M_P_T_A_G_amp; Dragons
+3/4 Players
+Fire _T_E_M_P_T_A_G_amp; Water
+Forces of Darkness
+Mercenaries
+Base game: first printing, and it includes the replacement stand ups (thicker card) from the second printing (so there_T_E_M_P_T_A_G_#039;s two sets total!). It has been punched, but is unplayed.
+Paladins _T_E_M_P_T_A_G_amp; Dragons: figure stand ups and tokens punched, everything else still on the cards.
+3/4 Players: partially punched, unplayed.
+Fire _T_E_M_P_T_A_G_amp; Water: unpunched
+Forces of Darkness: unpunched
+Mercenaries: unpunched
+Buyer will pay shipping. GM me with zip code for a quote.
+International: GM me before purchasing to be sure I can ship to your country and for a shipping quote.
+I combine shipping when there_T_E_M_P_T_A_G_#039;s room!
+All of my games are cared for in an OCD fashion in a smoke-free home!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 May 2015 01:30:58 +0000</listdate>
+    <saledate>Mon, 04 May 2015 02:53:33 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190488/item/3867203#3867203]Item for Geeklist _T_E_M_P_T_A_G_quot;200 games, Pickup in STL/Geekway available, Ships From STL, Ends 4pm CDT Sunday May 3rd_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For mxpf only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jun 2015 02:22:57 +0000</listdate>
+    <saledate>Tue, 02 Jun 2015 14:03:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>acceptable</condition>
+    <notes>Not for sale. Purchased in an auction. Comes with expansion 4: Forces of Darkness.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Apr 2015 21:21:46 +0000</listdate>
+    <saledate>Wed, 03 Jun 2015 14:37:00 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened, unplayed.  Not sure if first or second printing.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Jun 2015 19:58:45 +0000</listdate>
+    <saledate>Sat, 27 Jun 2015 15:45:03 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Apr 2015 20:24:06 +0000</listdate>
+    <saledate>Sat, 04 Jul 2015 20:01:00 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Includes the Paladins and Dragons expansion in the same box (but not the expansion_T_E_M_P_T_A_G_#039;s box). I use _T_E_M_P_T_A_G_quot;very good_T_E_M_P_T_A_G_quot; to mean _T_E_M_P_T_A_G_quot;great condition, but played at least once_T_E_M_P_T_A_G_quot;.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Jul 2015 02:06:22 +0000</listdate>
+    <saledate>Sat, 18 Jul 2015 02:25:27 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193360/item/4009341#4009341]Item for Geeklist _T_E_M_P_T_A_G_quot;Gen Con Virtual Flea Market 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Sep 2015 01:26:12 +0000</listdate>
+    <saledate>Tue, 22 Sep 2015 02:47:54 +0000</saledate>
+    <price currency='USD'>19.79</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Sep 2015 01:49:03 +0000</listdate>
+    <saledate>Thu, 24 Sep 2015 01:55:20 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197027/item/4152385#4152385]Item for Geeklist _T_E_M_P_T_A_G_quot;Short Basement Cleanup Sale - KS items and many more!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Oct 2015 22:48:34 +0000</listdate>
+    <saledate>Sat, 10 Oct 2015 23:45:35 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>For Brian Mages Only....
+Other than punching a few of the tiles, it has never been played and is otherwise in pristine condition. See the attached picture for detail. _T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Buyer pays shipping at USPS service desired from 22153. Can be picked up in person in Springfield or Vienna VA if you are in the Washington DC metro area.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Oct 2015 04:24:03 +0000</listdate>
+    <saledate>Tue, 20 Oct 2015 18:28:56 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198187/item/4214962#4214962]Item for Geeklist _T_E_M_P_T_A_G_quot;Quick Auction: 200+ games, Pickup in STL available. Ships from STL. Ends Sunday October 18th 9pm(ish) CDT_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For jdrutter only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Nov 2015 23:11:28 +0000</listdate>
+    <saledate>Sun, 01 Nov 2015 23:46:12 +0000</saledate>
+    <price currency='USD'>97</price>
+    <condition>verygood</condition>
+    <notes>This is for user Wizards Wharf for my auction.  It is for both the Dungeon Twister set and Awful Green Things from Outer Space</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Nov 2015 20:48:23 +0000</listdate>
+    <saledate>Tue, 17 Nov 2015 20:48:56 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197039/item/4185589#4185589]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Sep 2015 13:00:17 +0000</listdate>
+    <saledate>Fri, 04 Dec 2015 02:39:42 +0000</saledate>
+    <price currency='USD'>19.79</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Jan 2016 18:01:33 +0000</listdate>
+    <saledate>Sat, 16 Jan 2016 22:07:28 +0000</saledate>
+    <price currency='GBP'>7.5</price>
+    <condition>verygood</condition>
+    <notes>Played a handful of times. Tokens and player boards have been punched out of frames but all items are bagged in the original box</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jan 2016 14:15:57 +0000</listdate>
+    <saledate>Sun, 24 Jan 2016 14:55:36 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner Pinhead.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Feb 2016 15:56:21 +0000</listdate>
+    <saledate>Sat, 13 Feb 2016 16:32:33 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Will throw in Paladins expansion also
+Shipping from 29715</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Nov 2015 09:41:41 +0000</listdate>
+    <saledate>Sun, 13 Mar 2016 13:45:54 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes>Incluye Paladines y Dragones</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Mar 2016 18:28:04 +0000</listdate>
+    <saledate>Fri, 18 Mar 2016 20:22:30 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>good</condition>
+    <notes>Whiting on the corners, one of the corners is peeling a little. Box shows some general shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Mar 2016 00:46:09 +0000</listdate>
+    <saledate>Thu, 24 Mar 2016 06:03:02 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Reserved for Raygun1966.
+Won at auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Mar 2016 12:30:29 +0000</listdate>
+    <saledate>Fri, 01 Apr 2016 16:18:21 +0000</saledate>
+    <price currency='USD'>29.82</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Jun 2015 03:24:32 +0000</listdate>
+    <saledate>Tue, 12 Apr 2016 04:35:39 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>verygood</condition>
+    <notes>Opened but unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Apr 2016 02:51:37 +0000</listdate>
+    <saledate>Wed, 20 Apr 2016 13:27:01 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/207724/item/4570869#4570869]Item for Geeklist _T_E_M_P_T_A_G_quot;4 Day Auction: 150+ Items, Geekway and STL Pickup available. Ends April 17th 8:00PM CDT_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For crazy_asian only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 May 2016 00:14:29 +0000</listdate>
+    <saledate>Fri, 06 May 2016 18:43:55 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Barely Played.
+10$ Flat Shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 May 2016 13:11:08 +0000</listdate>
+    <saledate>Fri, 06 May 2016 20:53:33 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>good</condition>
+    <notes>reserved for ManlyWan from my auction _T_E_M_P_T_A_G_quot;My first auction, be gentle ... ends morning of May 5th. ( some rare / OOP )_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 May 2016 05:39:18 +0000</listdate>
+    <saledate>Fri, 13 May 2016 15:45:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Box looks brand new. Parts and pieces look new, too. Game may have been played once (it_T_E_M_P_T_A_G_#039;s hard to tell).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 May 2016 21:03:18 +0000</listdate>
+    <saledate>Mon, 30 May 2016 02:23:23 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner: jjfalzone</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 May 2016 14:53:36 +0000</listdate>
+    <saledate>Fri, 17 Jun 2016 16:34:02 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Jun 2016 15:08:10 +0000</listdate>
+    <saledate>Mon, 11 Jul 2016 07:31:11 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Jul 2016 19:07:57 +0000</listdate>
+    <saledate>Thu, 28 Jul 2016 19:23:06 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Bundle including the following:
+Dungeon Twister Base Game - unplayed, partially punched, expansion compatible upgraded components included (original components also included), all components in excellent condition, box has very slight shelf wear and looks near new
+Dungeon Twister: Paladins _T_E_M_P_T_A_G_amp; Dragons - unplayed, punched,  all components in excellent condition, box has very slight shelf wear and looks near new
+Dungeon Twister: 3/4 Players Expansion - unplayed, punched,  all components in excellent condition, box has very slight shelf wear and looks near new
+Dungeon Twister: Forces of Darkness - unplayed, partially punched, expansion compatible upgraded components included (original components also included), all components in excellent condition, box has very slight shelf wear and looks near new
+Payment by PayPal in advance or cash on pickup.
+For shipping this is considered a very large size game, and can only ship via FedEx or multiple USPS Priority Mail boxes.
+The following options are available for delivery within the continental United States:
+1) Local pickup in the San Jose, California area (no cost)
+2) USPS Priority Mail Flat Rate - $6.60 (small), $12.65 (medium), or $17.15 (large), depending on game size. Generally very small games fit in the small box, small or medium in the medium box, and large in the large box. Box fits for some games are very snug, allowing minimal protective padding - if this shipping option is picked for such games seller assumes no responsibility for damage during transit.
+3) USPS Parcel Select Ground / Non-Flat Rate Priority - varies, usually only cheaper than Flat Rate Priority for small and very light weight games (under 2 pounds), an additional fee of $3.25 for the box and packing materials will be added to the shipping costs.
+4) FedEx Ground - varies, usually from $12 for short distance shipments of light weight games to $30 for heavy games (or multiple games up to 10 pounds) or long distance shipments. This is usually the cheapest option for very large games. An additional fee of $3.25 for the box and packing materials will be added to the shipping costs. While expensive, this is the best method if damage during transit is a concern, as all items will be packed in boxes sufficiently sized for protective materials. Shipping rates to Alaska or Hawaii will be higher for FedEx.
+Games will not be shipped by any method other than a shipping box, nor unboxed or in less than complete condition, please do not ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Dec 2011 15:54:40 +0000</listdate>
+    <saledate>Sun, 07 Aug 2016 06:15:25 +0000</saledate>
+    <price currency='USD'>300</price>
+    <condition>verygood</condition>
+    <notes>Dungeon Twister Collection.  Original game + all of the major expansions:
+Dungeon Twister
+Fire and Water (French)
+3/4 Player Extension
+Paladins and Dragons (French)
+Mercenaries (French)
+Forces of Darkness (French)
+Creatures Sylverstres (French)
+Terres de Glace (French)
+These extensions are largely unplayed.  Some are punched, others are not.  Only the original has been played a few times, but is in excellent condition.  If you have played this game before, you know that it is language-independent, except for the rules.  PLEASE do not make me an independent offer for Creatures Sylvestres.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Aug 2016 11:30:53 +0000</listdate>
+    <saledate>Thu, 11 Aug 2016 15:13:06 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>For August Auction BIN winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Sep 2016 23:05:06 +0000</listdate>
+    <saledate>Sun, 11 Sep 2016 01:58:45 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>Shipping cost to the UK will be £3.95.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Sep 2016 23:05:06 +0000</listdate>
+    <saledate>Mon, 19 Sep 2016 06:57:24 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>Shipping cost to the UK will be £3.95.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Jun 2016 14:04:33 +0000</listdate>
+    <saledate>Sat, 01 Oct 2016 11:04:20 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>UK shipping £3
+Free collection from Brighton, UK</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Oct 2016 14:34:30 +0000</listdate>
+    <saledate>Wed, 05 Oct 2016 17:40:44 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/211885/item/4865736#4865736]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2016 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Apr 2016 12:53:53 +0000</listdate>
+    <saledate>Fri, 07 Oct 2016 10:00:25 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes>Only played once.
+#General:
+All of my games come from a passionate boardgaming household with no pets and no smoking
+Usually they are packed with sorting boxes and zip bags to ease and shorten ahe setup and break down time
+I only ship insured!
+#Versand nach Deutschland (Post/DHL, alle Preise in Euro):
+Einschreiben (Versicherung = 20,00 €):
+Großbrief (bis 0,5 kg): 4 €
+Maxibrief (bis 1,0 kg): 5 €
+Maxibrief (bis 2,0 kg): 7,5 €
+Zusatzversicherung: 2€ pro 100€ Versicherung
+Paket (bis 2,0 kg): 5 €
+Paket (bis 10,0 kg): 6 €
+Paket (bis 20,0 kg): 11 €
+Paket (bis 31,5 kg): 13 €
+Bis 500 € versichert
+#International Shipping (DHL, all prices in Euro)::
+Inscribed letter (insured up to 35,00 €)
+Letter (up to 0,5 kg): 6,5 € worldwide
+Letter (up to 1,0 kg): 11 € worldwide
+Letter (up to 2,0 kg): 21 € worldwide
+###
+extra insurance: add 2 € for every additional 100,00 € 
+Parcel (up to 2,0 kg): 15 € (only EU) --_T_E_M_P_T_A_G_gt; insured up to 500 €
+Parcel (up to 5,0 kg): 17 € (EU) or 30 € (Rest of Europe) or 35 € (USA/CAN) oder 45 € (Rest of World)
+Parcel (up to 10,0 kg): 22 € (EU) or 35 € (Rest of Europe) or 50 € (USA/CAN) oder 60 € (Rest of World)
+Parcel (up to 20,0 kg): 32 € (EU) or 50 € (Rest of Europe) or 70 € (USA/CAN) oder 95 € (Rest of World)
+Parcel (up to 31,5 kg): 42 € (EU) or 55 € (Rest of Europe) or 95 € (USA/CAN) oder 125 € (Rest of World)
+Insured up to 500,00 € worldwide
+NO ADDITIONAL FEES FOR PACKAGE AND WRAPPING!
+#Payment:
+Within Euro-zone the EU-standard-bank-transfer (SEPA, IBAN/BIC) is recommended, it´s quick, save and causes no fees. 
+Paypal is certainly also possible, fees within EU are 0,35 Euro + 1,9% of the total.
+Worldwide (outside the EURO-zone) Paypal is recommended.
+Since October 2011 PP-fees are 0,35 Euro + (from 3,9% to 5,2%) of the total.
+For nearly all countries outside Europe, apart from USA and Canada (both 3,9%), the rate is 5.2%.
+Paypal does not allow uninsured shipment above 25 Euro
+and shipments to any other address than the one submitted with the payment.
+Thank you
+Daniel</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jun 2016 21:06:58 +0000</listdate>
+    <saledate>Sat, 08 Oct 2016 03:43:07 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>Only played once or twice. All components in excellent condition.
+Buyer pays $12 shipping via USPS Priority Mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Jun 2016 00:10:05 +0000</listdate>
+    <saledate>Tue, 11 Oct 2016 02:03:21 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Jun 2016 15:08:10 +0000</listdate>
+    <saledate>Tue, 11 Oct 2016 21:10:01 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Oct 2016 11:52:14 +0000</listdate>
+    <saledate>Mon, 17 Oct 2016 20:51:35 +0000</saledate>
+    <price currency='AUD'>25</price>
+    <condition>verygood</condition>
+    <notes>**Includes French version of Paladins and Dragons expansion (with printed copy of English rules)
+pick up available from Osborne Park
+bank transfer preferred</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Oct 2016 18:33:19 +0000</listdate>
+    <saledate>Fri, 21 Oct 2016 20:19:30 +0000</saledate>
+    <price currency='USD'>175</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194887/item/4898400#4898400]Item for Geeklist _T_E_M_P_T_A_G_quot;Make Room For The Baby!!! of Dooooom Auction?!??! CLOSED_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Also includes: Hecatomb Lot, Grind, and Family Business.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Oct 2016 22:14:23 +0000</listdate>
+    <saledate>Wed, 26 Oct 2016 22:49:28 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/215234/item/4933651#4933651]Item for Geeklist _T_E_M_P_T_A_G_quot;My Prices Are Awful - The Passive Aggressive $1 Auction - First Goal Must Be Met_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Dec 2016 08:29:12 +0000</listdate>
+    <saledate>Mon, 05 Dec 2016 13:10:35 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>good</condition>
+    <notes>Reserved for user [user=raynovich][/user]
+From auction: https://boardgamegeek.com/geeklist/217231/auction-holiday-shelf-clearing-ends-sunday-decembe
+Includes listings:
+https://boardgamegeek.com/geeklist/217231/item/5035063#item5035063
+https://boardgamegeek.com/geeklist/217231/item/5035093#item5035093
+https://boardgamegeek.com/geeklist/217231/item/5035184#item5035184
+https://boardgamegeek.com/geeklist/217231/item/5035226#item5035226</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Dec 2016 04:58:13 +0000</listdate>
+    <saledate>Thu, 08 Dec 2016 20:14:02 +0000</saledate>
+    <price currency='USD'>24.98</price>
+    <condition>verygood</condition>
+    <notes>Edition: 0</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Nov 2016 10:11:27 +0000</listdate>
+    <saledate>Sun, 11 Dec 2016 16:18:43 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Dec 2016 01:54:10 +0000</listdate>
+    <saledate>Mon, 19 Dec 2016 04:24:41 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/218072/item/5073071#5073071]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction ending 12/18.  _T_E_M_P_T_A_G_quot;Laid off for the Holidays auction._T_E_M_P_T_A_G_quot;  (US, will ship internationally)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2016 22:27:48 +0000</listdate>
+    <saledate>Wed, 28 Dec 2016 04:31:21 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Feb 2016 14:13:16 +0000</listdate>
+    <saledate>Fri, 13 Jan 2017 00:40:42 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Never played, no insert.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Feb 2017 17:55:06 +0000</listdate>
+    <saledate>Wed, 22 Feb 2017 09:23:02 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Expansions Included: 
+Dungeon Twister: Mercenaries (2006)
+Dungeon Twister: Paladins _T_E_M_P_T_A_G_amp; Dragons (2004)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Feb 2017 13:46:18 +0000</listdate>
+    <saledate>Thu, 02 Mar 2017 19:24:32 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>English edition. In very good condition, played a few times
+Contact me for the exact shipping costs:
+Belgium or The Netherlands: €4 with Kiala €7 with BPost or PostNL
+other European countries: €9 - €13 (depending on the destination)
+worldwide: €19
+The shipping quotes above are shipping without tracking and no insurance. Contact me for other shipping options or combined shipping.
+Payment: European bank transfer or Paypal (buyer pays fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Nov 2014 12:44:44 +0000</listdate>
+    <saledate>Fri, 17 Mar 2017 09:49:53 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>verygood</condition>
+    <notes>With Minotaur figure.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Apr 2017 13:44:41 +0000</listdate>
+    <saledate>Tue, 04 Apr 2017 13:58:20 +0000</saledate>
+    <price currency='USD'>66</price>
+    <condition>likenew</condition>
+    <notes>Item won in auction.
+Intended for jakece (Jake) only.
+https://boardgamegeek.com/geeklist/223480/closed-game-purge-auction-priced-move-palaces-carr
+This item also includes (all NIS):
+Paladins _T_E_M_P_T_A_G_amp; Dragons
+3/4 Player
+Fire _T_E_M_P_T_A_G_amp; Water
+Forces of Darkness
+Mercenaries
+Shipping charge of $20 to be added.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Nov 2015 13:07:28 +0000</listdate>
+    <saledate>Mon, 10 Apr 2017 06:29:24 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>verygood</condition>
+    <notes>Germand edition. Rarely played</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Mar 2017 01:31:57 +0000</listdate>
+    <saledate>Wed, 12 Apr 2017 14:36:44 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>INCLUDES:
+Paladins _T_E_M_P_T_A_G_amp; Dragons Expansion
+3/4 Player Expansion</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Jan 2017 21:37:51 +0000</listdate>
+    <saledate>Mon, 17 Apr 2017 03:25:48 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This is the base game.  No expansions. Opened, but un-played, mint condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Nov 2016 02:08:23 +0000</listdate>
+    <saledate>Tue, 25 Apr 2017 03:58:25 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Some pieces still not punched out</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Mar 2016 09:50:14 +0000</listdate>
+    <saledate>Wed, 10 May 2017 12:26:08 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>verygood</condition>
+    <notes>Incl. Minotaur additional character.
+Shipping within Poland 2,50 Euro, Shipping within EU from 9 Euro (depending on country).
+Payment via Paypal, Cash or Wire Transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 14:25:54 +0000</listdate>
+    <saledate>Sat, 03 Jun 2017 16:05:25 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Played once, like new. Box has some slight shelf wear. This is the Original French edition which has heavier weight cardboard. Includes printed out English rules and player aids. Also includes the original plastic stands and the Replacement ones which are slightly larger and sturdier.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Apr 2017 15:21:43 +0000</listdate>
+    <saledate>Tue, 27 Jun 2017 17:52:40 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Jun 2017 14:18:52 +0000</listdate>
+    <saledate>Fri, 30 Jun 2017 15:53:19 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/226787/item/5465264#5465264]Item for Geeklist _T_E_M_P_T_A_G_quot;Another auction to make room for new games_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jul 2015 07:38:36 +0000</listdate>
+    <saledate>Sat, 29 Jul 2017 05:19:15 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Payment Options: Paypal or Interact e-Transfer
+Shipping from Montreal, Canada with option for combine shipping or local pick-up (Montreal or Toronto).
+This bundle includes:
+Dungeon Twister: Base Game
+Dungeon Twister: 3/4 Players Expansion
+- All components are fit into the expansion box</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Aug 2017 05:04:35 +0000</listdate>
+    <saledate>Wed, 09 Aug 2017 20:24:40 +0000</saledate>
+    <price currency='USD'>24.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Sep 2017 20:19:36 +0000</listdate>
+    <saledate>Mon, 04 Sep 2017 16:48:16 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>**item for cowardingcow only**
+This sale has been auto-generated for the auction: [geekurl=/geeklist/229171/item/5578607#5578607]Item for Geeklist _T_E_M_P_T_A_G_quot;Making room for new games auction - No minimum starting bid_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Mar 2015 01:20:39 +0000</listdate>
+    <saledate>Mon, 09 Oct 2017 14:54:02 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Oct 2017 03:15:28 +0000</listdate>
+    <saledate>Sun, 29 Oct 2017 06:45:16 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231585/item/5713683#5713683]Item for Geeklist _T_E_M_P_T_A_G_quot;Reverse Auction: Prices go down as time goes on. 3rd Round of Mark Downs_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Nov 2017 20:26:07 +0000</listdate>
+    <saledate>Mon, 13 Nov 2017 01:23:14 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>likenew</condition>
+    <notes>Dungeon Twister Collection. Original game + most of the major expansions: Dungeon Twister (opened, very good), Paladins and Dragons (still in shrink-wrap), Fire and Water (still in shrink-wrap), Forces of Darkness (opened, very good), Mercenaries (opened, very good).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Oct 2017 17:09:19 +0000</listdate>
+    <saledate>Thu, 16 Nov 2017 20:33:21 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>verygood</condition>
+    <notes>Condition: Strored in a magestorm box</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Aug 2016 12:05:14 +0000</listdate>
+    <saledate>Mon, 12 Feb 2018 19:02:29 +0000</saledate>
+    <price currency='EUR'>34</price>
+    <condition>likenew</condition>
+    <notes>The item is in very good condition.
+Core game and the first expansion _T_E_M_P_T_A_G_quot;Paladine _T_E_M_P_T_A_G_amp; Drachen_T_E_M_P_T_A_G_quot;
+Payment is done via Paypal friends _T_E_M_P_T_A_G_amp; family, bank transfer or on pickup.
+Shipping within Germany is 4,70 with Hermes.
+Please ask for international quotes.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Feb 2018 01:30:43 +0000</listdate>
+    <saledate>Sun, 18 Feb 2018 04:14:34 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>verygood</condition>
+    <notes>Also includes 4 first expansions.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/236733/item/5969570#5969570]Item for Geeklist _T_E_M_P_T_A_G_quot;Montreal Virtual Flea Market - February 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 May 2017 09:34:01 +0000</listdate>
+    <saledate>Tue, 06 Mar 2018 20:52:29 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>good</condition>
+    <notes>Die Box ist ein bisschen eingedrückt, aber ansonsten ist das Spiel noch in gutem Zustand (stand die meiste Zeit im Regal).
+Versandkosten: 5 Euro in Deutschland. Banküberweisung ist auch möglich.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Nov 2017 23:51:32 +0000</listdate>
+    <saledate>Mon, 19 Mar 2018 11:42:39 +0000</saledate>
+    <price currency='GBP'>28</price>
+    <condition>verygood</condition>
+    <notes>Postage is £3 to the U.K.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 May 2018 23:42:35 +0000</listdate>
+    <saledate>Sun, 20 May 2018 23:55:24 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>For Michael Lind.
+Includes: Dungeon Twister: Paladins _T_E_M_P_T_A_G_amp; Dragons along with base game.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jun 2018 15:14:11 +0000</listdate>
+    <saledate>Thu, 14 Jun 2018 17:42:35 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/242154/item/6199727#6199727]Item for Geeklist _T_E_M_P_T_A_G_quot;Moving + Origins Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jun 2018 18:44:03 +0000</listdate>
+    <saledate>Tue, 19 Jun 2018 02:44:27 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Includes base game and :
+Dungeon Twister: Paladins _T_E_M_P_T_A_G_amp; Dragons (exp #1)
+Dungeon Twister: 3/4 Players Expansion (exp #2)
+Each with their original boxes.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Apr 2018 12:45:25 +0000</listdate>
+    <saledate>Tue, 19 Jun 2018 09:47:28 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>likenew</condition>
+    <notes>Will only sell with 3/4 Players expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Apr 2018 18:48:28 +0000</listdate>
+    <saledate>Sun, 01 Jul 2018 20:49:16 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes>Complete
+Very good shape
+I pay the Geek, you pay Paypal</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Apr 2018 18:52:12 +0000</listdate>
+    <saledate>Wed, 15 Aug 2018 22:02:38 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Aug 2018 00:44:01 +0000</listdate>
+    <saledate>Mon, 27 Aug 2018 20:55:21 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>new</condition>
+    <notes>Will figure out shipping after I recieve your adress.
+Paypal
+jeremytbaker@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Aug 2018 22:38:03 +0000</listdate>
+    <saledate>Wed, 29 Aug 2018 23:55:19 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Auction won by WrekTaFyr
+$15 plus shipping of $8.47
+Total: $23.47
+Please pay to Bulkoth@gmail.com via friends and family.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Sep 2018 15:47:03 +0000</listdate>
+    <saledate>Thu, 27 Sep 2018 21:30:44 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Box has some shelf wear. Buyer pays shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Oct 2018 03:41:49 +0000</listdate>
+    <saledate>Fri, 26 Oct 2018 02:10:45 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246415/item/6453214#6453214]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee XIII - Gaming Oktoberfest_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Oct 2018 23:51:12 +0000</listdate>
+    <saledate>Thu, 01 Nov 2018 03:57:12 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Box and all components are in near-mint condition. Opened but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Sep 2018 03:01:50 +0000</listdate>
+    <saledate>Mon, 12 Nov 2018 03:08:40 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>verygood</condition>
+    <notes>Played a few times.  The game is complete with the components inventoried and bagged.    The box has some light shelf wear but is structurally sound.  Shipping in the US 13.85.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Aug 2018 15:12:20 +0000</listdate>
+    <saledate>Tue, 20 Nov 2018 01:40:33 +0000</saledate>
+    <price currency='USD'>5.99</price>
+    <condition>verygood</condition>
+    <notes>Stored on my shelf B10.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Nov 2018 17:20:34 +0000</listdate>
+    <saledate>Wed, 28 Nov 2018 22:54:27 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>verygood</condition>
+    <notes>Non smoking household.
+Price: 22,- € + shipping; payment by bank transfer or Paypal
+Shipping:
+Germany 4,50 €
+EU 9,- €
+Europe other 16,- €
+North America 16,- €</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

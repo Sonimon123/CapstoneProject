@@ -1,0 +1,805 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="77">
+   <yearpublished>1991</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>240</playingtime>
+   <minplaytime>240</minplaytime>
+   <maxplaytime>240</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">EastFront</name>
+         
+   <description>EastFront details the conflict between Germany and the Soviet Union during WWII.  Players have to contend with production, supply, command control and whether to try and break the other sides' lines.  Several scenarios cover every major point of the war.  The game comes with a fantastic, detailed map of Eastern Europe and Russia printed on cardstock and many wooden blocks for the units.  This is a standalone game that can also serve as one element of the complete EuroFront series which covers the entire European conflict of WWII._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This title uses the Columbia Games Block system.  While there are variations in the rule sets, all of the _T_E_M_P_T_A_G_amp;quot;Front_T_E_M_P_T_A_G_amp;quot; series of games are based on the block system.  Basically this means that rather than using the traditional  counters to represent units on the map the game uses wooden blocks that stand upright with unit details only shown on one side.  This accomplishes two things:  First it provides an easy way of producing a _T_E_M_P_T_A_G_amp;quot;fog of war_T_E_M_P_T_A_G_amp;quot; because your opponent cannot tell, save through good memory or deduction, what type of unit a specific piece is or its current strength.  Second, having the blocks stand on end allows the possibility of rotating a block so the current strength is the top number.  Although most war games have some type of mechanism that allows units to take losses in steps of their overall strength, counters normally have at most two steps because they only have two sides.  Blocks, however, have four so you can easily keep track of twice the amount of detail that many other war games provide._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;With the use of blocks, Columbia has provided a way of adding a good deal of depth to their war games without adding complex layers of bookkeeping, allowing interesting and relatively short sessions of play._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/txiDjBaf8FvoTA3Sr76C48CWsdg=/fit-in/200x150/pic289183.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/8bGUVDA5ot5xkS_hauSc97Cl1Zk=/0x0/pic289183.jpg</image>
+      
+            <boardgamehonor objectid="22418">1991 Charles S. Roberts Best Wargaming Graphics Nominee</boardgamehonor>
+               <boardgamehonor objectid="22410">1991 Charles S. Roberts Best World War II Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="22411">1991 Charles S. Roberts Best World War II Board Game Winner</boardgamehonor>
+               <boardgamehonor objectid="22420">1991 James F. Dunnigan Award for Playability _T_E_M_P_T_A_G_amp; Design Nominee</boardgamehonor>
+               <boardgamehonor objectid="22421">1991 James F. Dunnigan Award for Playability _T_E_M_P_T_A_G_amp; Design Winner</boardgamehonor>
+               <boardgamehonor objectid="12940">1991 Origins Awards Best Modern-Day Boardgame Winner</boardgamehonor>
+               <boardgamedesigner objectid="62">Craig Besinque</boardgamedesigner>
+               <boardgamefamily objectid="6137">Block wargames</boardgamefamily>
+               <boardgamefamily objectid="2299">Columbia Front Series</boardgamefamily>
+               <boardgamepublisher objectid="49">Columbia Games</boardgamepublisher>
+                      <boardgamefamily objectid="11966">Country: Russia</boardgamefamily>
+               <boardgamedesigner objectid="64">Tom Dalgliesh</boardgamedesigner>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgameimplementation objectid="22143">EastFront II</boardgameimplementation>
+               <boardgameexpansion objectid="81">EuroFront</boardgameexpansion>
+               <boardgameversion objectid="25821">First edition</boardgameversion>
+               <boardgameartist objectid="3414">Eric Hotz</boardgameartist>
+                      <boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+                      <boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+               <boardgameexpansion objectid="80">VolgaFront</boardgameexpansion>
+               <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+               <boardgamecategory objectid="1049">World War II</boardgamecategory>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="1" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="1" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>640</usersrated>
+     <average>7.65349</average>
+     <bayesaverage>6.21718</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1505" bayesaverage="6.21718" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="87" bayesaverage="7.18446" />
+            
+           </ranks>
+     
+     <stddev>1.65322</stddev>
+     <median>0</median>
+     <owned>1056</owned>
+     <trading>53</trading>
+     <wanting>41</wanting>
+     <wishing>138</wishing>
+     <numcomments>321</numcomments>
+     <numweights>89</numweights>
+     <averageweight>3.618</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 07 May 2004 19:04:13 +0000</listdate>
+    <saledate>Fri, 07 May 2004 21:44:34 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Played but in very good shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Sep 2004 23:27:05 +0000</listdate>
+    <saledate>Thu, 09 Sep 2004 16:18:34 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Will combine with other front games for reduced price</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Oct 2005 00:27:27 +0000</listdate>
+    <saledate>Wed, 01 Feb 2006 22:09:32 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Note:  This game has been reserved for Earl_8Minus0.
+        It is not for sale to anyone else.
+1991 Edition - Complete; Box cover shows some wear;
+Contents in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Mar 2006 15:58:50 +0000</listdate>
+    <saledate>Thu, 30 Mar 2006 12:09:36 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>This has been played a few times, but it is complete.   Box shows some shelf wear.   I plan to ship via USPS Priority mail.   international shipping, please check with me before purchasing.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Nov 2006 21:18:59 +0000</listdate>
+    <saledate>Thu, 14 Feb 2008 23:03:20 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Complete, played and in excellent condition. Minimal wear to box and components. First edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jan 2007 00:27:54 +0000</listdate>
+    <saledate>Wed, 05 Mar 2008 18:03:38 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>1st ed.  stickers still on sheet.  no counters punched.  rulebook has been leafed through.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Sep 2007 00:30:08 +0000</listdate>
+    <saledate>Sun, 09 Sep 2007 23:03:56 +0000</saledate>
+    <price currency='USD'>34.99</price>
+    <condition>verygood</condition>
+    <notes>Has photocopied rulebook; otherwise very good, complete. $9 shipping in US.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Mar 2008 03:48:33 +0000</listdate>
+    <saledate>Mon, 26 May 2008 09:30:26 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>EastFront I by Columbia Games. New in factory shrink. S_T_E_M_P_T_A_G_amp;H to the U.S. is $10. Please inquire about international shipping rates. Thanks for looking.
+osprey</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Oct 2008 22:20:44 +0000</listdate>
+    <saledate>Thu, 06 Nov 2008 14:08:30 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>verygood</condition>
+    <notes>Complete (except the four standard six-sided dice).  In very good condition.  The countersheet included has not been punched.  The slipcase is showing wear, but everything inside the box is in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Nov 2008 22:08:28 +0000</listdate>
+    <saledate>Sun, 06 Feb 2011 04:20:44 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>good</condition>
+    <notes>some minor damage to box sleeve.   Pls see my other listings
+From my personal game stash. I charge actual postage only. No handling fees! payment in $US accepted, as well as Canadian. I combine shipping! Prices MAY be negotiable.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Feb 2009 18:04:27 +0000</listdate>
+    <saledate>Mon, 04 May 2009 18:46:42 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>includes Volgafront expansion and 3.02 rulebook.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Feb 2009 22:31:08 +0000</listdate>
+    <saledate>Mon, 23 Mar 2009 06:51:31 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>complete and in very good condition,all sales final
+trades considered</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Apr 2009 18:57:29 +0000</listdate>
+    <saledate>Sun, 14 Jun 2009 10:48:58 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>new</condition>
+    <notes>CONDITION: 1st Edition, Brand new, in original shrinkwrap.  
+POSTAGE COST:
+UK postage:  £5.50
+European Postage: £8.50
+Rest of World Postage: £16.50
+Any buyers in and around London are welcome to collect in person (cash on collection).
+COMBINED SHIPPING:
+I will always combine multiple items to reduce your shipping costs where possible.  Please note that it is NOT always cheaper to combine shipping on games outside the UK due to the weight limit of 2KG on the Small Packet service. As a rough approximation, outside the UK it is usually cheaper to combine 5 or more games, while 4 or less are best sent individually.  This depends entirely on the specific games - please contact me before buying if you wish to purchase multiple games so that I can give you an accurate shipping cost.
+ABOUT ME:
+I have been playing and collecting games for over 25 years and I also sell games and magazines on ebay with the same username (saabdastard) where I have a 100% positive rating and a feedback score of over 4000. I am a verified PAYPAL Premier account holder (since 2004), with over 650 PayPal Verified Buyers.
+SELLERS TERMS AND CONDITIONS:
+PAYMENT TERMS: 
+Please wait until you receive my invoice before sending payment. 
+Payment is due within 5 days of the date you receive my invoice. 
+Please do not purchase if you do not intend to pay, or cannot pay within this time frame.
+PAYMENT METHODS: 
+UK buyers may use PayPal, cheque or cash-on-collection.
+Overseas buyers MUST USE PAYPAL only.
+SHIPPING:
+Buyer is responsible for all shipping costs. Europe and Rest of World rates shown above are for Airmail. Surface Mail rate to Rest of World is available if you wish (same as Europe Air rate), but Surface Mail to Rest of World can take up to 2 months!  There is no real difference between Air and Surface rates for Europe.
+INSURANCE:
+Insurance is optional on all items, unless noted. Failure to take out optional insurance limits my liability for loss or damage in the mail to the amount automatically covered by Royal Mail (currently £36 per package for Small Packets, £150 for International Standard).
+CUSTOMS:
+Buyers outside the EU are responsible for all Customs charges applicable to their country.
+RETURNS:
+New Unopened items may be returned for a refund of the purchase price of the item, excluding shipping charges, within 7 days of the delivery date. All returned items must be in the original packaging and in the condition that they were shipped to you.
+Defective or damaged items can be returned for an exchange or refund within 7 days of the delivery date. All returns require authorization from me BEFORE returning the item. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Jun 2009 16:28:12 +0000</listdate>
+    <saledate>Sat, 22 Jan 2011 12:36:06 +0000</saledate>
+    <price currency='CAD'>44</price>
+    <condition>likenew</condition>
+    <notes>- This is the first edition of the game.
+- Never played it
+- Blocks have 2 coats of Krylon matte finish on them for added protection.
+- Counters have been cut.
+- Never played the game.
+- 10 extra black and 10 extra red blocks included
+- 1 extra sheet of stickers included.
+- 2 laminated photocopies of the map can be included (1 regular size, one 1.5x bigger for more room); would have to mailed separately in a shipping tube.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Aug 2009 04:57:14 +0000</listdate>
+    <saledate>Fri, 17 Dec 2010 19:35:59 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Oct 2009 11:47:49 +0000</listdate>
+    <saledate>Thu, 24 Jun 2010 14:37:11 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>no shrink, but otherwise new. Combine this with the other games found in this series, found in my for sale list.
+Shipping at cost, will combine
+payment with paypal or money transfer in Europe.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jan 2010 03:01:06 +0000</listdate>
+    <saledate>Thu, 18 Feb 2010 15:42:53 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>EastFront (1991) from Columbia Games
+Box: light shelf-wear. There is a small smudge on the back of the slipcase. Overall the box is in excellent+ condition!
+Contents: Complete and like new! The game is the 1st Edition, but I have included a print-out of the 2nd Edition rules (there are spots where key rules are underlined in the printed-out manual).
+SHIPPING
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 4 Lbs. International buyers are very welcome, but please contact me for a shipping price quote to avoid any surprises or misunderstandings.
+I will gladly combine shipping for multiple purchases. The final cost will be based on the total weight, but be aware that large packages that are shipped more than a certain distance accrue a large surcharge, so combining shipping may not save any money.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jan 2010 18:11:00 +0000</listdate>
+    <saledate>Sat, 15 May 2010 17:03:53 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Really like new condition; opened, stickers applied but unplayed.  Buyer to pay actual shipping costs.  Also, have westfront, medfront, eurofront, masterfront available. Will provide a 10% discount off the total if you buy two of the front games, a 20% discount off the total if you buy three or more of the front games.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jan 2010 22:58:35 +0000</listdate>
+    <saledate>Tue, 26 Jan 2010 17:33:30 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>good</condition>
+    <notes>For John Lapham, winner of the _T_E_M_P_T_A_G_quot;For Haiti_T_E_M_P_T_A_G_quot; auction ONLY.
+Includes Volga Front.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Jun 2010 02:28:15 +0000</listdate>
+    <saledate>Tue, 22 Jun 2010 01:41:51 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Has counterset and the errata stickers (which have been applied to the blocks). Excellent shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Jul 2010 22:46:15 +0000</listdate>
+    <saledate>Tue, 20 Jul 2010 23:43:38 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>This game has never been played.  There is an extra set of stickers included.  If using PayPal please add 3.9% to total.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jul 2011 03:21:58 +0000</listdate>
+    <saledate>Fri, 30 Sep 2011 18:57:15 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This is for the first edition - Version 3 which includes version 3 of the rules (copyright 2000) in the box.
+I_T_E_M_P_T_A_G_#039;m not going to call this like new, because the labels have been applied.  The game contents are in excellent condition and appear to be unplayed.  I bought it secondhand, and never played it, just unfolded it and looked at the map.  I checked it pretty carefully and cannot see any wear on any of the game contents.
+I checked the blocks and all the labels have been cleanly applied and and centered.  There are 4 extra blocks 2 black and 2 red.  The counters/markers are all crisp.  There is tufting in the corner where they came out of the counter sheet.  
+There is no marking or wear on the counters or the rulebook.  The rulebook appears to be unread or very gently read.  There is a second copy of the rulebook included.  This has been 3 hole punched to go in a binder.
+The dice are not original  There are four blue speckled dice, high quality, but not the originals (I checked against photos here).  
+The game sleeve with the artwork has some rubbing wear, and light dirt marks.  There are no tears or holes in the cover, just wear from sitting on a shelf.  I_T_E_M_P_T_A_G_#039;d call the game sleeve very good, the generic black Columbia box has no wear and is in excellent condition.
+Summary: Game is complete.  Contents unmarked _T_E_M_P_T_A_G_amp; excellent, without wear. Dice are replacements. Box sleeve has noticeable whiting, and some dirt marks.  Photos available upon request.
+International buyers welcome.  This game weighs a little over 2 lbs, so it can go overseas first class rather than priority.  US shipping will be via a priority flat rate box, unless you have a strong preference for parcel post.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Jul 2011 19:56:01 +0000</listdate>
+    <saledate>Mon, 05 Sep 2011 23:25:34 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Box is well worn. Blocks (x120, +4 blanks), counters (x60) and map (x1) are in good shape. The two summary sheets have some small notes on them. Also includes 4 orange dice and rulebook. Shipping is $12. Combine shipping rates are available when purchasing multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Aug 2011 13:32:14 +0000</listdate>
+    <saledate>Mon, 05 Sep 2011 19:48:08 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Never played. First Edition Eastfront.
+Note that I have all of the other games in the set for sale as well for inexpensive prices so you can grab the whole set if you like.
+I_T_E_M_P_T_A_G_#039;ll send USPS. I_T_E_M_P_T_A_G_#039;m not sure what shipping will cost but I_T_E_M_P_T_A_G_#039;ll set it at $10 and eat any extra.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Apr 2012 13:15:39 +0000</listdate>
+    <saledate>Wed, 20 Jun 2012 04:29:32 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>Map is in excellent condition. Blocks are in excellent condition as well. Box has minor wear on some edges. Rules booklet is very good with no markings.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 May 2012 12:04:07 +0000</listdate>
+    <saledate>Tue, 12 Jun 2012 11:54:13 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>good</condition>
+    <notes>Shipping cost from Denmark are insanely high for single games but are more reasonable for bigger orders, so please check my profile and see if any of my other games interest you.
+Shipping costs within the EU(+Norway):
+Less than 2 kg: 30 euro
+Less than 5 kg: 40 euro
+Less than 10 kg: 60 euro
+Shipping costs to countries outside the EU:
+Base price is 32 dollars/25 euros  + 9 dollars/7 euros for each kg of weight</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jul 2012 21:39:01 +0000</listdate>
+    <saledate>Tue, 14 Aug 2012 02:07:14 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>verygood</condition>
+    <notes> East Front by Columbia Games 1991, very good condition, box a little worn. 
+***with Volga Front**** new 
+and several articles, optinal rules etc</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Nov 2012 13:52:53 +0000</listdate>
+    <saledate>Thu, 29 Aug 2013 21:00:18 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>likenew</condition>
+    <notes>This has been standing on my shelf or in a box for many years. It is unplayed and _T_E_M_P_T_A_G_quot;unpunched_T_E_M_P_T_A_G_quot; (the stickers aren_T_E_M_P_T_A_G_#039;t even on th blocks yet).
+The real shipping charges will be added to the price of the game. The buyer can decide how I ship it, whether to incur extra costs for speedy delivery, for example.
+Ich nehme auch eine Banküberweisung als Bezahlsmethode an. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Nov 2012 17:00:21 +0000</listdate>
+    <saledate>Mon, 19 Nov 2012 15:29:02 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Just for Sean Messina.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jan 2013 07:14:36 +0000</listdate>
+    <saledate>Sat, 16 Feb 2013 05:02:07 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>Significant damage to the box sleeve. Map, rules and blocks are in good shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Feb 2013 08:31:56 +0000</listdate>
+    <saledate>Tue, 12 Feb 2013 12:37:57 +0000</saledate>
+    <price currency='USD'>24.94</price>
+    <condition>likenew</condition>
+    <notes>Unplayed.  Countersheet unpunched.  Contents are in excellent condition.  The slipcover has some wear to it but no rips or tears.  Also have WestFront for sale for $19.94.  I know the 2 new editions are out for both of these games but these are cheap cheap cheap and great games.  Someone needs to grab these.  Worldwide shipping and will be packed well. All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Apr 2013 12:38:38 +0000</listdate>
+    <saledate>Sat, 27 Apr 2013 08:33:18 +0000</saledate>
+    <price currency='AUD'>25</price>
+    <condition>good</condition>
+    <notes>Played heaps but still great shape. Note this is the original game with the smaller map - not EastFront II with the huge map.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Jun 2013 13:16:50 +0000</listdate>
+    <saledate>Mon, 12 Aug 2013 05:29:10 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>1st Edition Columbia Games version. Unstickered and like new, except for some slight markings on the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jul 2013 12:54:15 +0000</listdate>
+    <saledate>Mon, 01 Jul 2013 13:33:22 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>For Auction Winner Bloddragon (Anthony Procacci). It includes EastFront, WestFront, and MedFront first editions. I can get these in the mail on Wednesday.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Oct 2013 03:21:08 +0000</listdate>
+    <saledate>Mon, 16 Dec 2013 07:19:47 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>verygood</condition>
+    <notes>EastFront
+WestFront
+EuroFront
+MedFront
+Hexagony
+Throneworld
+Attack Force
+FOR USER GERSH77 ONLY</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Dec 2013 04:45:40 +0000</listdate>
+    <saledate>Sat, 11 Jan 2014 17:39:55 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Shrinkwrap copy.  No box damage.  Shrink torn on one side panel.  Get the original for a cheap cheap price.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Dec 2013 05:03:42 +0000</listdate>
+    <saledate>Sun, 29 Dec 2013 21:36:59 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Condition: Like New. Never Played. Will also include Volga Front.
+Take a look at my other games for combine shipping.
+For US Orders: Shipping methods for domestic (US) orders is Parcel Post (UPS or USPS).
+For International Orders: Before purchasing, I strongly suggest that you request a shipping quote. Shipping costs are based on weight and destination and will include insurance. International orders will be shipped USPS Priority Mail International or USPS International Air Mail which can take up to two 2 to 4 weeks to arrive.
+For questions I can be reached by e-mail at lglauner@charter.net</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Jan 2014 22:44:07 +0000</listdate>
+    <saledate>Tue, 21 Jan 2014 08:41:26 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>New in Shrink.
+Buyer pays shipping fee ($12.35).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Feb 2014 08:58:19 +0000</listdate>
+    <saledate>Fri, 28 Feb 2014 09:29:54 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>1st edition. but played only 2 times
+UK postage £ 7    </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Mar 2014 01:23:21 +0000</listdate>
+    <saledate>Thu, 13 Mar 2014 01:34:06 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>good</condition>
+    <notes>EastFront + Fellowship + OS. Only for auction winner: gersh77</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 May 2014 20:33:37 +0000</listdate>
+    <saledate>Tue, 05 Aug 2014 11:02:39 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>Game complete. All components in very good condition.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Jun 2014 10:40:30 +0000</listdate>
+    <saledate>Sun, 15 Jun 2014 22:21:28 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>likenew</condition>
+    <notes>Pristine, unplayed.  £10.00 P_T_E_M_P_T_A_G_amp;P in UK, otherwise cash on collection is fine.  All other games in series are for sale £40 each, no additional postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Nov 2014 18:47:43 +0000</listdate>
+    <saledate>Wed, 10 Dec 2014 07:18:45 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played once; blocks stickered, sorted and bagged.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Apr 2015 13:51:28 +0000</listdate>
+    <saledate>Mon, 25 May 2015 14:43:27 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>Counter sheet and 1 stickered block missing, box damaged.
+1991 Columbia Games. Box sleeve in poor shape:  Side tear, considerable abrasion; heavy wear.
+Rules and map VG; Soviet and German OB; 4 D6.
+US shipping via priority mail $5.50 - $10.00 (depends on distance from 20912).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Nov 2014 14:17:18 +0000</listdate>
+    <saledate>Sat, 01 Aug 2015 00:42:04 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>EastFront WITH the VolgaFront expansion!
+This is in pristine condition, sadly completely unplayed. Labels were applied carefully to the block, with the aid of a bit of glue, since the stickers for this edition had a tendency not to stick so well.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Nov 2014 08:02:01 +0000</listdate>
+    <saledate>Fri, 21 Aug 2015 15:52:58 +0000</saledate>
+    <price currency='USD'>4.99</price>
+    <condition>likenew</condition>
+    <notes>Columbia Games EastFront1 sticker sheet in new condition.  
+I somehow ended up with two of these extra sheets and only need to keep one as a backup.  Selling my extra sheet.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Aug 2014 19:34:28 +0000</listdate>
+    <saledate>Sun, 23 Aug 2015 20:55:04 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Used: Minor shelf wear to the box from long-term storage. The game and inserts/maps are all in excellent condition. The wooden block pieces are carefully sorted into the small box provided. (see photo)
+US buyers; S/H for this item will be $25 from here in Canada to anywhere in the USA.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Aug 2015 00:20:37 +0000</listdate>
+    <saledate>Sun, 30 Aug 2015 00:49:12 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>EastFront, like new, stickers haven_T_E_M_P_T_A_G_#039;t been applied, never played.
+Will give $5 discount if bought with WestFront</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Sep 2015 20:59:10 +0000</listdate>
+    <saledate>Fri, 27 Nov 2015 00:44:06 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>complete (unpunched and unplayed)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Oct 2015 19:34:02 +0000</listdate>
+    <saledate>Sun, 29 Nov 2015 14:38:37 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Unplayed, complete, blocks still unstickered. Box worn from too many moves, but intact and unsplit.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Sep 2014 14:55:08 +0000</listdate>
+    <saledate>Sun, 13 Dec 2015 02:59:44 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>New in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Jun 2015 22:26:59 +0000</listdate>
+    <saledate>Thu, 14 Jan 2016 05:08:39 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>I also have VolgaFront for sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Jul 2015 08:42:59 +0000</listdate>
+    <saledate>Sat, 16 Jan 2016 16:34:10 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>acceptable</condition>
+    <notes>+ P_T_E_M_P_T_A_G_amp;P (depending on location send to)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Mar 2015 23:52:43 +0000</listdate>
+    <saledate>Wed, 03 Feb 2016 11:58:17 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Feb 2016 12:59:40 +0000</listdate>
+    <saledate>Sun, 06 Mar 2016 21:18:25 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>This is actually 2nd edition from 1994.  Box has seen wear-and-tear, components are excellent.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 19:06:03 +0000</listdate>
+    <saledate>Mon, 02 May 2016 00:25:50 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Aug 2015 20:41:25 +0000</listdate>
+    <saledate>Tue, 10 May 2016 05:00:35 +0000</saledate>
+    <price currency='EUR'>39.9</price>
+    <condition>verygood</condition>
+    <notes>The game is complete and in very good condition. I also have the accompanying WestFront game for sale.
+Shipping costs (up to 2kg / without insurance / surface mail):
+Germany: 4.50 EUR
+EU: 9.50 EUR
+Outside EU / Worldwide: 16.50 EUR
+Please ask for costs if you want other shipping options.
+Payment via bank transfer is preferred. Paypal is possible. Please add 2 EUR to the price for payment via Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Apr 2014 08:52:19 +0000</listdate>
+    <saledate>Wed, 25 May 2016 02:36:28 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>good</condition>
+    <notes>Please contact me to check postage costs.
+Payment by direct deposit for Aussie buyers, paypal for international buyers.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jun 2016 13:57:30 +0000</listdate>
+    <saledate>Sat, 18 Jun 2016 12:51:01 +0000</saledate>
+    <price currency='EUR'>39.9</price>
+    <condition>verygood</condition>
+    <notes>The game is complete and in very good condition. I also have the accompanying WestFront game for sale.
+Shipping costs (up to 2kg / without insurance / surface mail):
+Germany: 4.90 EUR
+EU: 9.90 EUR
+Outside EU / Worldwide: 16.90 EUR
+Please ask for costs if you want other shipping options.
+Payment via bank transfer is preferred. Paypal is possible. Please add 2 EUR to the price for payment via Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Feb 2015 16:50:43 +0000</listdate>
+    <saledate>Thu, 22 Sep 2016 20:03:28 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>Blocks are mounted.
+I sell by the way the extension Volga Front.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Oct 2016 14:57:23 +0000</listdate>
+    <saledate>Mon, 24 Oct 2016 04:05:56 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>Karton altersbedingt mit Shelfwear, Inhalt sehr gut</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2016 21:36:04 +0000</listdate>
+    <saledate>Thu, 10 Nov 2016 07:44:50 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>PayPal only please. Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Oct 2016 16:46:55 +0000</listdate>
+    <saledate>Sat, 12 Nov 2016 19:55:13 +0000</saledate>
+    <price currency='EUR'>99</price>
+    <condition>likenew</condition>
+    <notes>Condition excellent. Played twice. 
+Sell it together with Volga Front updated rules, opaque protection on labels, tables laminated (rounded corners).
+Both maps professionally mounted on 1/2 inch board, painted black
+sides and protected (cost over €100,- alone). 
+Volga-front and 2 magazines about Eastfront, extra markers from West-front game, mini map of Central Germany. : extra €25,- 
+Have series of photographs made to show all components</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Nov 2016 23:41:57 +0000</listdate>
+    <saledate>Tue, 29 Nov 2016 19:17:36 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Mar 2017 20:23:19 +0000</listdate>
+    <saledate>Wed, 08 Mar 2017 23:30:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222541/item/5243612#5243612]Item for Geeklist _T_E_M_P_T_A_G_quot;LAST DAY - Prices lowered - Games I_T_E_M_P_T_A_G_#039;ll Never Get Around To Sale (NYC Local, all types of games, lots of wargames and Steam games)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Mar 2016 00:26:08 +0000</listdate>
+    <saledate>Fri, 10 Mar 2017 03:59:34 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Stickered, played, all components present and in excellent condition. Box sleeve shows some shelf wear.
+$9 shipping East of the Mississippi except for Illinois, Wisconsin and Minnesota; $13 West of the Mississippi and to Illinois, Wisconsin and Minnesota.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Mar 2017 17:37:32 +0000</listdate>
+    <saledate>Thu, 16 Mar 2017 22:14:09 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>hardly been used [ has 2nd edition box cover ]
+UK postage small packet £ 5</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Mar 2017 16:34:06 +0000</listdate>
+    <saledate>Tue, 23 May 2017 02:29:40 +0000</saledate>
+    <price currency='USD'>18.95</price>
+    <condition>likenew</condition>
+    <notes>This is for the first edition.  Everything is stickered and in excellent condition.   Domestic shipping is $13. Shipping to Canada is $60 and other international locations is $75. I ALWAYS combine shipping for multiple purchases at +$1.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Apr 2017 02:15:30 +0000</listdate>
+    <saledate>Sat, 27 May 2017 03:13:54 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>verygood</condition>
+    <notes>EastFront AND Volga Front!!  Volga Front has never been played and is essentially new.  The box shows some shelf wear, but all corners are tight.  The components are in excellent condition.  The game comes with two rules books: one has tidy highlighting, the other is like new.  I will ship USPS medium flat rate, $13.60, so it will have a tracking number.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 May 2017 16:35:46 +0000</listdate>
+    <saledate>Sun, 16 Jul 2017 15:02:56 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>good</condition>
+    <notes>Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus max. 2 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 May 2017 19:25:40 +0000</listdate>
+    <saledate>Sat, 05 Aug 2017 00:25:49 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>In original shrink wrap. Mint.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Oct 2016 13:13:44 +0000</listdate>
+    <saledate>Sat, 20 Jan 2018 20:13:17 +0000</saledate>
+    <price currency='GBP'>59.95</price>
+    <condition>likenew</condition>
+    <notes>East Front 1st Edition
+As new - Stickers not affixed to blocks yet shrink wrap removed</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jan 2018 20:20:42 +0000</listdate>
+    <saledate>Sun, 04 Feb 2018 15:31:05 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Game unplayed  and unpunched .  Ships at lowest way available.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 May 2018 02:28:03 +0000</listdate>
+    <saledate>Mon, 21 May 2018 02:51:06 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Holding for:
+Douglas Gearhart
+https://www.boardgamegeek.com/geeklist/237768/culling-games-auction-mostly-wargames-few-euros
+[ImageID=4121657original]</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jun 2018 07:52:20 +0000</listdate>
+    <saledate>Tue, 17 Jul 2018 08:02:14 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238688/item/6200015#6200015]Item for Geeklist _T_E_M_P_T_A_G_quot;[AUCTION] [US] [WBC]  Auction time! Free shipping to the WBC! Ends June 25th._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For user: uglywalrus
+Includes:
+EastFront
+Shipping will be calculated and added.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jul 2018 23:52:59 +0000</listdate>
+    <saledate>Mon, 23 Jul 2018 12:56:25 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243043/item/6237392#6237392]Item for Geeklist _T_E_M_P_T_A_G_quot;Large Wargame, Kickstarter and Other Games Auction ---  $5 Starting Bids!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Jan 2018 10:20:17 +0000</listdate>
+    <saledate>Wed, 05 Sep 2018 06:21:17 +0000</saledate>
+    <price currency='EUR'>49.99</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Sep 2018 04:33:52 +0000</listdate>
+    <saledate>Thu, 27 Sep 2018 11:11:24 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/245713/item/6369917#6369917]Item for Geeklist _T_E_M_P_T_A_G_quot;72hr Auction Ends 9/26 - Root+Exp, Food Chain Magnate, Feast for Odin, Clans of Caledonia, more!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+User docgeo1
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Feb 2014 01:46:36 +0000</listdate>
+    <saledate>Tue, 27 Nov 2018 02:43:49 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>good</condition>
+    <notes>well played, box a bit tatty, but otherwise in good nick</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

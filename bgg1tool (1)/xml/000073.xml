@@ -1,0 +1,1475 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="73">
+   <yearpublished>1996</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>10</age>
+       <name  sortindex="1">Premiere</name>
+       <name primary="true" sortindex="1">Show Manager</name>
+       <name  sortindex="1">Showmanager</name>
+         
+   <description>The players put together four shows in any order: Queenie, Wolf, King Lear, and Ballet.  To accomplish this, players draft actor cards from a constantly changing queue of cards.  Each card represents actors of varying skills at roles.  Once a player puts together all the needed roles for a show, the value is judged against all the other productions of that type, with points given relative to the other productions._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This is a Queen Games reprint of the db-Spiele original, Premiere._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/2BflkTw35XWFq8ShlZAoVe2wKuM=/fit-in/200x150/pic3717385.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/4wIfrIxQ3Ne_I47tX9uss0nW0Z0=/0x0/pic3717385.png</image>
+      
+            <boardgamepublisher objectid="47">Queen Games</boardgamepublisher>
+               <boardgamehonor objectid="19884">1997 Deutscher Spiele Preis Best Family/Adult Game 3rd Place</boardgamehonor>
+               <boardgamehonor objectid="8950">1997 Fairplay À la carte Winner</boardgamehonor>
+               <boardgamehonor objectid="13413">1997 Meeples_T_E_M_P_T_A_G_#039; Choice Award</boardgamehonor>
+               <boardgamehonor objectid="8675">1997 Spiel des Jahres Recommended</boardgamehonor>
+               <boardgameimplementation objectid="2570">Atlantic Star</boardgameimplementation>
+               <boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+               <boardgamepublisher objectid="100">db-Spiele</boardgamepublisher>
+               <boardgameversion objectid="69424">db-Spiele first edition</boardgameversion>
+                                                  <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+                                                                                     <boardgameartist objectid="962">Jo Hartwig</boardgameartist>
+               <boardgamedesigner objectid="60">Dirk Henn</boardgamedesigner>
+               <boardgameartist objectid="11800">Reinhard Horst</boardgameartist>
+               <boardgameversion objectid="24726">Queen first edition</boardgameversion>
+               <boardgameversion objectid="222284">Queen Games first edition with SdJ logo</boardgameversion>
+               <boardgameversion objectid="70468">Queen second edition</boardgameversion>
+               <boardgamefamily objectid="24255">Queen Yellow Wave Box Series</boardgamefamily>
+                             <boardgameartist objectid="34863">Oliver Schlemmer</boardgameartist>
+               <boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+                      <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+             
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="43">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="17" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="14" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="22" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="11" />
+     <result value="Recommended" numvotes="18" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="19" />
+     <result value="Recommended" numvotes="15" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="23" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="16" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="10">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="8" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="2" />
+     <result value="10" numvotes="7" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1596</usersrated>
+     <average>7.04613</average>
+     <bayesaverage>6.36616</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1164" bayesaverage="6.36616" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="610" bayesaverage="6.51287" />
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="250" bayesaverage="6.53838" />
+            
+           </ranks>
+     
+     <stddev>1.26615</stddev>
+     <median>0</median>
+     <owned>1794</owned>
+     <trading>68</trading>
+     <wanting>150</wanting>
+     <wishing>365</wishing>
+     <numcomments>523</numcomments>
+     <numweights>158</numweights>
+     <averageweight>2.0949</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sat, 30 Nov 2002 23:47:38 +0000</listdate>
+    <saledate>Thu, 05 Dec 2002 07:46:04 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>new</condition>
+    <notes>2 to 7 day shipping from Germany to USA + Canada for approx. $ 5.oo to 9.00 - depending on the distance. Just mail me your ZIP or Postal code for more details. 
+Other reasonable worldwide shipping rates on request. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Dec 2002 19:07:58 +0000</listdate>
+    <saledate>Tue, 10 Dec 2002 20:19:14 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Good condition _T_E_M_P_T_A_G_amp; complete.
+To save on shipping look for my other offers</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Dec 2002 13:22:17 +0000</listdate>
+    <saledate>Fri, 27 Dec 2002 16:53:59 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>new</condition>
+    <notes>Sorry, no more special USA + Canada shipping for this year.
+If you place an order for a game only regular surface mail
+from Germany can be arranged for $ 9.70.
+Or I can hold the game for you until the next special 
+shipping for the USA + Canada will take place (in January).
+For detailed shipping rates please mail me your ZIP or Postal code.
+Other reasonable worldwide shipping rates on request.
+Merry x-mas and a happy new year !
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Dec 2002 16:25:08 +0000</listdate>
+    <saledate>Wed, 18 Dec 2002 13:55:59 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>good</condition>
+    <notes>Just minor wear (box), componets complete and in good condition.
+Look for my other offers to save on shipping !</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Dec 2002 21:21:44 +0000</listdate>
+    <saledate>Wed, 18 Dec 2002 13:58:45 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>new</condition>
+    <notes>I´m selling a lot of other german boardgames Shipping worldwide (Paypal or cash). Picture for condition purposes can me mailed (not the one above)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Jan 2003 19:43:54 +0000</listdate>
+    <saledate>Sun, 05 Jan 2003 07:55:28 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>The game is complete and has never been played (unpunched tiles), just the box has some wear (but no damages!)
+Look for my other offers to save on shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Feb 2003 19:59:19 +0000</listdate>
+    <saledate>Thu, 03 Apr 2003 14:24:27 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>cards are still sealed, all counter unpunched, box in excellent conditions
+shipping: small package
+Please look at my site http://de.geocities.com/hauwech_jetzt/shipping.html
+for further information about shipping costs.
+Payment: paypal (preferred, add fees)
+Look at http://cgi2.ebay.com/aw-cgi/eBayISAPI.dll?ViewFeedback_T_E_M_P_T_A_G_amp;userid=hauwech.jetzt
+for my ebay feedback. I’ve made lot’s of international transactions at ebay, but not in the last six month.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 May 2003 15:11:44 +0000</listdate>
+    <saledate>Tue, 06 May 2003 01:00:52 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>good</condition>
+    <notes>Components _T_E_M_P_T_A_G_amp;amp; box in good condition, nothing missing, nothing damaged.
+There_T_E_M_P_T_A_G_amp;#039;s a note in the rulebook and a label on the side of the box (see photo)
+Shipping 12.30$ worldwide surfacemail.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 May 2003 21:15:52 +0000</listdate>
+    <saledate>Fri, 09 May 2003 10:29:07 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>++++++++USA SPECIAL+++++++++++
+2 to 5 day shipping to the USA only $ 7.20.
+Shipping schedule is May 27th. Maybe even earlier.
+Please contact me for the next open shipping window to the USA
+or
+make me an offer and take off 20 % from the quoted price and I will arrange regular shipping from Germany for EUR 8.20 within Europe or $ 13.30 worldwide. Delivery time varies from 1 to 5 weeks.
+For more detailed information ( insurance - airmail - combined shipping - please also check listings of my friend montsegur) please feel free to contact me. 
+I can offer even more games upon request.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 May 2003 15:33:13 +0000</listdate>
+    <saledate>Mon, 26 May 2003 15:33:13 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jun 2003 14:58:52 +0000</listdate>
+    <saledate>Tue, 10 Jun 2003 15:33:36 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>new</condition>
+    <notes>still in shrink
+13$ worldwide surfacemail
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Jul 2003 19:21:38 +0000</listdate>
+    <saledate>Fri, 25 Jul 2003 08:29:59 +0000</saledate>
+    <price currency='EUR'>32</price>
+    <condition>likenew</condition>
+    <notes>complete and in excellent shape, only played once or twice
+shipping wordlwide: Small package by surface mail, 12.30 Euro
+shipping Europe: Small package by surface mail, 8.20 Euro, bank transfer is now cheaper
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jul 2003 20:21:05 +0000</listdate>
+    <saledate>Sat, 26 Jul 2003 13:38:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>++++++++USA SPECIAL+++++++++++
+2 to 5 day shipping to the USA only $ 7.00
+Shipping schedule is 07/28 - 08/02
+or - and this will apply for every other shipping destination -
+make me an offer and take off 15 % from the quoted price and I will arrange regular shipping from Germany for EUR 8.20 within Europe or $ 13.30 worldwide. Delivery time varies from 1 to 5 weeks.
+For more detailed information ( insurance - airmail - combined shipping ) please feel free to contact me. 
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Jul 2003 22:44:12 +0000</listdate>
+    <saledate>Sat, 09 Aug 2003 05:26:22 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>new</condition>
+    <notes>++++++++USA SPECIAL+++++++++++
+2 to 5 day shipping to the USA only $ 7.00
+Shipping schedule is 08/06 and in September
+or - and this will apply for every other shipping destination -
+make me an offer and take off 15 % from the quoted price and I will arrange regular shipping from Germany for EUR 8.20 within Europe or $ 13.30 worldwide. Delivery time varies from 1 to 5 weeks.
+For more detailed information ( insurance - airmail - combined shipping ) please feel free to contact me. 
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Sep 2003 11:48:11 +0000</listdate>
+    <saledate>Fri, 05 Sep 2003 11:48:11 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>verygood</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Nov 2003 13:16:36 +0000</listdate>
+    <saledate>Sun, 23 Nov 2003 14:04:38 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>This is not the Queens reprint it_T_E_M_P_T_A_G_#039;s the original db-version called Premiere.
+Quite a collectible combined with a very good game.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.
+Usually shipping a single (regular sized) boardgame (surface) costs 12.30€ worldwide and 8.20€ within Europe. Smaller games ship cheaper. Of course multiple games can be combined.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Dec 2003 12:48:08 +0000</listdate>
+    <saledate>Wed, 14 Apr 2004 22:22:47 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>... punched but with NO signs of wear (neither on the box nor on the material itself). I really doubt that this game has ever been played!
+Shipping worldwide at cost!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Jan 2004 08:47:16 +0000</listdate>
+    <saledate>Wed, 10 Mar 2004 15:09:33 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>verygood</condition>
+    <notes>complete, at least in very good condition, I think it_T_E_M_P_T_A_G_#039;s a little better
+shipping wordlwide: Small package by surface mail, 12.30 Euro
+shipping Europe: Small package by surface mail, 8.20 Euro, bank transfer is now cheaper
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Jan 2004 18:29:45 +0000</listdate>
+    <saledate>Mon, 26 Jan 2004 21:03:35 +0000</saledate>
+    <price currency='EUR'>37.5</price>
+    <condition>new</condition>
+    <notes>Game is still in the original shrinkwrap.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.
+Usually shipping a single (regular sized) boardgame (surface) costs 12.30€ worldwide and 8.20€ within Europe. Smaller games ship cheaper. Of course multiple games can be combined.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Jan 2004 19:44:48 +0000</listdate>
+    <saledate>Tue, 24 Feb 2004 13:32:05 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>Game is still in the original shrinkwrap.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.
+Usually shipping a single (regular sized) boardgame (surface) costs 12.30€ worldwide and 8.20€ within Europe. Smaller games ship cheaper. Of course multiple games can be combined</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Feb 2004 17:31:24 +0000</listdate>
+    <saledate>Wed, 25 Feb 2004 22:57:28 +0000</saledate>
+    <price currency='EUR'>34</price>
+    <condition>new</condition>
+    <notes>Game is still in the original shrinkwrap. (Just the) Shrinkwrap is torn apart about 1/4 of the top of the box.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.
+Usually shipping a single (regular sized) boardgame (surface) costs 12.30€ worldwide and 8.20€ within Europe. Smaller games ship cheaper. Of course multiple games can be combined.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Mar 2004 21:26:55 +0000</listdate>
+    <saledate>Mon, 29 Mar 2004 08:28:40 +0000</saledate>
+    <price currency='USD'>36.8</price>
+    <condition>verygood</condition>
+    <notes>Shipping is EUR 8.20 within Europe or $12.00 worldwide. 
+The delivery time varies from 1 to 2 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Apr 2004 12:26:27 +0000</listdate>
+    <saledate>Sat, 17 Apr 2004 12:26:27 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 May 2004 19:19:37 +0000</listdate>
+    <saledate>Wed, 12 May 2004 02:50:27 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>verygood</condition>
+    <notes>I_T_E_M_P_T_A_G_#039;m offering the original German edition by Queen Games.
+Shipping is EUR 9 within Europe or $16 worldwide, both surface mail, no insurance, no track+trace.
+The delivery time is between 5-6 weeks.
+We have many other interesting and rare games! Email us!
+We can collect games up to 5 - 10 or 20 kg boxes, so you can save shipping costs! Just email for more information!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Sep 2004 22:10:37 +0000</listdate>
+    <saledate>Mon, 12 Sep 2005 13:34:37 +0000</saledate>
+    <price currency='EUR'>49.99</price>
+    <condition>likenew</condition>
+    <notes>the ORIGINAL VERSION of the game, that later became ATLANTIC STAR +++++ never played +++++ german version, but game parts are completely language independent and you can find rules translations on boardgamegeek +++++ will be shipped with insurance +++++ payment for usa, canada, asia or australia : paypal or cash (by letter, exchanged already into euros) or bank transfer +++++ payment for other non-euro-countries : cash (by letter, exchanged already into euros) or bank transfer +++++ payment for european countries, that have euro : cash (by letter) or bank transfer (wich by the way is cost-free !) +++++ payment for germany : personal pick up in berlin or bank transfer +++++ foreign buyers beware : german postal sadly is very expensive for foreign packages (about 18 - 45 euros, it depends on, where the package has to be shipped and the weight), pleask at for shipping prices, before you buy !) +++++ shipping inside germany will cost 8 euros, including insurance</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Oct 2004 07:37:13 +0000</listdate>
+    <saledate>Wed, 01 Dec 2004 17:24:21 +0000</saledate>
+    <price currency='USD'>54</price>
+    <condition>new</condition>
+    <notes>Original german Queen Games edition.
+NEW, never played !!! (Content still in shrink, just box out of shrink)
+Look my other offers too for more rare german games.
+Feel free and ask for shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Oct 2004 10:08:29 +0000</listdate>
+    <saledate>Thu, 14 Oct 2004 05:32:42 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>verygood</condition>
+    <notes>I´m offering SHOWMANGER by Queen Games
+Shipping is EUR 8.20 within Europe or EUR 10.00 worldwide. 
+The delivery time varies from usually 1 to 4 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Oct 2004 05:18:26 +0000</listdate>
+    <saledate>Tue, 25 Jan 2005 14:12:24 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>Purchased new, played game twice.  Game is in excellent condition.  Buyer to pay shipping costs from 12207 zip code.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Oct 2004 20:18:39 +0000</listdate>
+    <saledate>Tue, 26 Oct 2004 21:28:13 +0000</saledate>
+    <price currency='USD'>49.9</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 8.20 within Europe or apx. $14.80 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Oct 2004 14:39:24 +0000</listdate>
+    <saledate>Mon, 06 Jun 2005 14:27:03 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>I_T_E_M_P_T_A_G_#039;m offering the  German edition.
+Shipping is EUR 9 within Europe or $16 worldwide, both surface mail, no insurance, no track+trace.
+We have many other interesting and rare games! Email us!
+We can collect games up to 5 - 10 or 20 kg boxes, so you can save shipping costs! Just email for more information!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Dec 2004 14:39:55 +0000</listdate>
+    <saledate>Mon, 04 Apr 2005 19:43:04 +0000</saledate>
+    <price currency='USD'>35.5</price>
+    <condition>verygood</condition>
+    <notes>Shipping is EUR 8.60 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Dec 2004 22:46:17 +0000</listdate>
+    <saledate>Mon, 24 Oct 2005 08:33:16 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>verygood</condition>
+    <notes>German edition by Queen Games, complete, cards in excellent near mint shape
+shipping wordlwide: Small package by surface mail, 12.30 Euro
+shipping Europe: Small package by surface mail, 8.20 Euro, bank transfer is now cheaper</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Jan 2005 14:46:45 +0000</listdate>
+    <saledate>Tue, 15 Feb 2005 17:33:19 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>Mint _T_E_M_P_T_A_G_amp; in the original shrink.  Please e-mail me for shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 May 2005 18:37:46 +0000</listdate>
+    <saledate>Tue, 24 May 2005 11:43:38 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>Game just played once. Everything in great condition.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.
+Usually shipping a single (regular sized) boardgame (surface) costs 12.90€ worldwide and 8.60€ within Europe. Smaller games ship cheaper. Of course multiple games can be combined.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Jun 2005 18:47:48 +0000</listdate>
+    <saledate>Thu, 30 Jun 2005 05:18:18 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Played once. Paper money unused and still in wraping. Crayon unused. Buyer pays $9 shipping in US, intl (or express) for whatever it ends up being.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jul 2005 14:14:50 +0000</listdate>
+    <saledate>Mon, 05 Jun 2006 21:12:45 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>I_T_E_M_P_T_A_G_#039;m offering the German edition.
+Shipping is EUR 9,60 within Europe or $18 worldwide, both surface mail, no insurance, no track+trace.
+We have many other interesting and rare games! Email us!
+We can collect games up to 5 - 10 or </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Aug 2005 17:50:38 +0000</listdate>
+    <saledate>Tue, 08 Nov 2005 08:03:14 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>new</condition>
+    <notes>brandnew, still in shrinkwrap.
+Get these rare and sold out original Queen games edition game.
+Look my other offers too for more rare german games.
+Cheapest worldwide shipping this game is 12,90 Euro.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Nov 2005 10:57:50 +0000</listdate>
+    <saledate>Thu, 16 Feb 2006 14:16:41 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>unpunched and in excellent shape
+875 gr.
+small package (usually for normal sized games)
+surface mail only - up to. 2.000 gr.)
+Europe/World - € 8.60/12.90
+duration Europe/World - up to 2 weeks/up to 7 weeks
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Dec 2005 12:14:11 +0000</listdate>
+    <saledate>Fri, 03 Mar 2006 22:13:57 +0000</saledate>
+    <price currency='EUR'>32</price>
+    <condition>new</condition>
+    <notes>I_T_E_M_P_T_A_G_#039;m offering the German edition.
+Shipping worldwide at actual cost! Please ask before buying. I accept Paypal</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Mar 2006 15:49:21 +0000</listdate>
+    <saledate>Sat, 25 Mar 2006 20:48:28 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>likenew</condition>
+    <notes>played only once +++++ condition of game components : like new, condition of box : very good +++++ german version, but game components are completely language independent and you can download various translations from boardgamegeek +++++ will be shipped including insurance +++++ payment for usa, canada, asia or australia : paypal or cash (by letter, exchanged already into euros) or bank transfer +++++ payment for other non-euro-countries : cash (by letter, exchanged already into euros) or bank transfer +++++ payment for european countries, that have euro : cash (by letter) or bank transfer (wich by the way is cost-free !) +++++ payment for germany : personal pick up in berlin or bank transfer +++++ foreign buyers beware : german postal sadly is very expensive for foreign packages (about 18 - 45 euros, it depends on, where the package has to be shipped and the weight), pleask at for shipping prices, before you buy !) +++++ shipping inside germany will cost 8 euros, including insurance</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Mar 2006 19:41:18 +0000</listdate>
+    <saledate>Mon, 05 Jun 2006 01:39:01 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>played only once +++++ condition of game components : like new, condition of box : very good +++++ german version, but game components are completely language independent and you can download various translations from boardgamegeek +++++ will be shipped insured +++++ payment for usa, canada, asia or australia : paypal or cash (by letter, exchanged already into euros) or bank transfer +++++ payment for other non-euro-countries : cash (by letter, exchanged already into euros) or bank transfer +++++ payment for european countries, that have euro : cash (by letter) or bank transfer (wich by the way is cost-free !) +++++ payment for germany : personal pick up in berlin or bank transfer +++++ foreign buyers beware : german postal sadly is very expensive for foreign packages (about 18 - 45 euros, it depends on, where the package has to be shipped and the weight), pleask at for shipping rates, before you buy !) +++++ shipping inside germany costs 8 euros, including insurance</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Aug 2006 19:50:58 +0000</listdate>
+    <saledate>Mon, 16 Oct 2006 17:57:31 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>by Queen Games in excellent shape, only played once
+shipping at cost</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Sep 2006 12:20:15 +0000</listdate>
+    <saledate>Thu, 25 Jan 2007 16:37:37 +0000</saledate>
+    <price currency='EUR'>34.99</price>
+    <condition>verygood</condition>
+    <notes>german version, but the game components are language independent anyway and you can download rules translations from boardgamegeek +++++ will be shipped insured ++++++++++ international payment : paypal OR direct bank to bank transfer (wich is cost-free inside european union by the way) OR cash (in a registered letter, exchanged into euros already) +++++ payment for germany : paypal OR personal pick up in berlin OR direct bank to bank transfer +++++ for all : no checks ! ++++++++++ international buyers beware : though german postal is relatively fast, they sadly aren´t cheap. it costs bewteen 19 - 37 euros for parcels up to a weight of 5 kg (= about 4 big boxed boardgames). price depends on where the package has to be shipped, so please ask for prices, before you hit the buy button ! +++++ insured shipment inside germany costs 8 euros
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Sep 2006 23:05:29 +0000</listdate>
+    <saledate>Thu, 28 Sep 2006 05:06:44 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>new</condition>
+    <notes>the game is new and still in shrink
+Shipping to France : 7 Euros
+Shipping to Europa : 9 Euros
+Shipping to rest of the world : 13 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Jan 2007 12:21:14 +0000</listdate>
+    <saledate>Tue, 30 Jan 2007 04:32:30 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>The game is in very good condition
+Shipping to France : 7 euros
+Shipping to Europa : 9 Euros
+Shipping to rest of the world : 13 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Feb 2007 12:26:59 +0000</listdate>
+    <saledate>Fri, 09 Feb 2007 21:54:41 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>The game is in very good condition
+Shipping to France : 7 euros
+Shipping to Europa : 9 Euros
+Shipping to rest of the world : 13 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Feb 2007 01:21:12 +0000</listdate>
+    <saledate>Sat, 17 Feb 2007 01:21:12 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Apr 2007 13:45:27 +0000</listdate>
+    <saledate>Thu, 07 Aug 2008 01:20:48 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>Just removed shirink wrap, unpunched and also never played.
+It is in wonderful like new condition.
+Air-mail express: To Europe/US: 25 euro, To Asia: 15 euro, arrived in 7~10 working days.
+Ground-mail by boat: Europe/US 20 euros, To Asia: 10 euro,
+arrived in 4~6 weeks.
+You may combine items to save shipping fees !
+10kg to EU by Airmail: 80 euros
+10Kg to US by Airmail: 90 euros
+10kg to Oceania by Airmail: 70 euros
+10kg to Japan/Asia by Airmail: 45 euros
+20kg to EU by Airmail: 120 euros
+20kg to US by Airmail: 150 euros
+20kg to Oceania by Airmail: 110 euros
+20kg to Japan/Asia by Airmail: 70 euros
+10kg Ground-mail to EU/US: 50 euros
+10kg Ground-mail to Oceania/Japan/Asia: : 30 euros
+20kg Ground-mail to EU/US: 75 euros
+20kg Ground-mail to Oceania/Japan/Asia: 50 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Apr 2007 23:58:31 +0000</listdate>
+    <saledate>Wed, 25 Apr 2007 05:33:30 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>The game is like new, I played it only a few times and both the box and the components are in very good shape. I prefer Paypal for payment (at no extra cost) but we can work something else out. Shipping is 5.00$ for Canada and 8.00$ for the USA. Please contact me for internationnal price.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jun 2007 01:17:28 +0000</listdate>
+    <saledate>Wed, 04 Jul 2007 03:13:39 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>Mint _T_E_M_P_T_A_G_amp; in the original shrink!!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jul 2007 19:39:13 +0000</listdate>
+    <saledate>Mon, 23 Jul 2007 23:15:08 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>acceptable</condition>
+    <notes>The game itself is complete and in good condition. The box is severely beat up though.  Email me for pictures.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Aug 2007 15:08:37 +0000</listdate>
+    <saledate>Thu, 20 Sep 2007 14:33:13 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>good</condition>
+    <notes>I´m offering SHOWMANAGER
++++ please note, the black pen is broken in the middle +++
+Shipping is EUR 15.00 to countries within the EU
+or EUR 25.00 to other European countries
+or EUR 30.00 to other worldwide destinations.
+++++ All shipping rates include insurance ++++
+The delivery time varies from 1 to 3 weeks. 
+I can offer even more games upon request. 
+Please also check listings of my friend montsegur - combined regular shipping is possible. 
+For more details on my USA special shipping offer please click the robbirob button. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Aug 2007 22:19:15 +0000</listdate>
+    <saledate>Sun, 02 Sep 2007 05:41:02 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition. Very minor wear to box, barely visible. Reference cards unmarked. Grease pencil still sharp! Components in excellent shape. English rules translation included.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Sep 2007 19:29:30 +0000</listdate>
+    <saledate>Fri, 12 Oct 2007 06:15:20 +0000</saledate>
+    <price currency='EUR'>37.7</price>
+    <condition>verygood</condition>
+    <notes>Shipping is EUR 15.00 to countries within the EU
+or EUR 25.00 to other European countries
+or EUR 30.00 to other worldwide destinations.
+++++ All shipping rates include insurance ++++
+The delivery time varies from 1 to 3 weeks. 
+I can offer even more games upon request. 
+Please also check listings of my friend montsegur - combined regular shipping is possible. 
+For more details on my USA special shipping offer please click the robbirob button. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Oct 2007 17:40:14 +0000</listdate>
+    <saledate>Mon, 29 Oct 2007 19:19:26 +0000</saledate>
+    <price currency='USD'>115</price>
+    <condition>new</condition>
+    <notes>New in shrink!
+Listed for user: _T_E_M_P_T_A_G_#039;pwn3d_T_E_M_P_T_A_G_#039; 
+Please kindly do not purchase if you_T_E_M_P_T_A_G_#039;re not _T_E_M_P_T_A_G_#039;pwn3d_T_E_M_P_T_A_G_#039; 
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Jan 2008 13:24:02 +0000</listdate>
+    <saledate>Tue, 22 Jan 2008 17:48:17 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>likenew</condition>
+    <notes>no wear, tiles still unpunched, cards in shrink.
+$18 worldwide surface mail delivery.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Aug 2008 14:13:41 +0000</listdate>
+    <saledate>Tue, 09 Sep 2008 01:07:14 +0000</saledate>
+    <price currency='EUR'>49.99</price>
+    <condition>verygood</condition>
+    <notes>Complete and almost unplayed german first edition of this famous game! All components (papermoney, cards, board, chits, even the special pencil!) are as new. Box shows very little shelfwear.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Aug 2008 08:20:57 +0000</listdate>
+    <saledate>Sat, 30 Aug 2008 12:41:08 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>This is the rare original Premiere version by DB Spiele.
+Game is in excellent condition.  All the components are present and correct. 
+ 
+Weight inc packing 700g
+UK First class  £3.51 
+Surface Worldwide  £5.10 
+Europe Airmail  £5.61 
+USA Airmail  £9.07 
+   
+Shipping costs shown are for an individual game. I will combine shipping as best I can. Large packages (5kg, say 6 games) are very cost-effective to ship internationally via DHL. Ask if you want a detailed price. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Nov 2008 07:25:24 +0000</listdate>
+    <saledate>Sun, 21 Jun 2009 01:47:44 +0000</saledate>
+    <price currency='EUR'>39.99</price>
+    <condition>verygood</condition>
+    <notes>Box shows very minimal shelf wear, Components are complete and as new!
+Shipping cost:
+Germany: 5 Euro
+EU: 9 Euro
+rest of the world: 14 Euro
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Jan 2009 16:22:26 +0000</listdate>
+    <saledate>Thu, 29 Jan 2009 20:08:02 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>good</condition>
+    <notes>Cards, counters, rules (German only) and boards are very good. Insert has a few small tears. Postage at cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Feb 2009 23:18:38 +0000</listdate>
+    <saledate>Mon, 18 May 2009 13:31:17 +0000</saledate>
+    <price currency='GBP'>42</price>
+    <condition>likenew</condition>
+    <notes>Game is in excellent condition.  All the components are present and correct. 
+ 
+Weight inc packing 1090g
+UK Parcel Post  £5.20 
+UK First class  £5.30 
+Surface Worldwide  £7.28 
+Europe Airmail  £7.61 
+USA Airmail  £13.07 
+Shipping costs shown are for an individual game. I will combine shipping as best I can. Large packages (5kg, say 6 games) are very cost-effective to ship internationally via DHL. Ask if you want a detailed price. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Mar 2009 15:17:29 +0000</listdate>
+    <saledate>Mon, 09 Mar 2009 12:04:23 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink.  Great condition, no damage anywhere.  Buyer pays actual shipping costs from Zip Code 09139 by USPS.  Shipping will not exceed $11, which is the large flat rate Priority Mail box with Delivery Confirmation.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Mar 2009 15:41:27 +0000</listdate>
+    <saledate>Fri, 13 Mar 2009 19:52:14 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Very Good condition.  Box shows very little wear and one small ding on an edge.  Components are inventoried and everything is present.  This game has been played but well cared for.  Cards show very little wear, slight yellowing, but look great.  Even the pencil has been used very little!  Shipping is the responsibility of the buyer, I only charge actual shipping costs.  I ship by USPS Priority Mail from Zip Code 09139.  U.S. shipping guaranteed to be $10 or less.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jun 2009 13:23:45 +0000</listdate>
+    <saledate>Thu, 11 Jun 2009 17:23:09 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>Used but complete.  Contents and box shows little wear.
+Shipping is about $10 domestically, may vary depends on your zip code.  Insurance is free if you can provide a business address to use with FedEx; otherwise it_T_E_M_P_T_A_G_#039;ll cost extra.  Foreign rate depends on the destination.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Jun 2009 08:35:24 +0000</listdate>
+    <saledate>Sun, 12 Jul 2009 07:32:29 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Box and contents like new and components complete.
+German edition by Queen Games.
+Contains English rules translation.
+German components do not detract from the gameplay.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Jun 2009 09:36:31 +0000</listdate>
+    <saledate>Thu, 13 Aug 2009 14:12:49 +0000</saledate>
+    <price currency='EUR'>44.99</price>
+    <condition>verygood</condition>
+    <notes>unpunched card board chits and cards look like new! Only little shelf wear on the box. 
+Shipping costs to
+germany:    5 Euro
+EU:         9 Euro
+elsewhere: 14 Euro
+with slow surface parcel post. Please ask for faster delivery options!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Aug 2009 10:24:19 +0000</listdate>
+    <saledate>Thu, 15 Oct 2009 13:26:26 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>Used but complete.  All contents accounted for and seemed to have very little wear.  Box in good condition, there are some shelf wear along the edges but there are no tear or split.  A well cared for copy for this OOP game.
+Domestic shipping is approximately $10. Insurance is free if you can provide a business address to use with FedEx, otherwise it is at the expense of the buyer. International rate depends on the destination.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Nov 2009 23:35:30 +0000</listdate>
+    <saledate>Mon, 23 Nov 2009 06:03:15 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>german Queen Games edition
+new and shrinkwrapped in perfect condition
+If u are looking for the dB-Spiele edition please ask</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Nov 2009 13:28:53 +0000</listdate>
+    <saledate>Thu, 03 Dec 2009 22:32:46 +0000</saledate>
+    <price currency='USD'>67.5</price>
+    <condition>verygood</condition>
+    <notes>Used but complete.  Game box and contents are in excellent condition.
+Shipping is $10 for within the US.  I prefer to use FedEx if you can provide a business address, in which insurance is included.  Otherwise, USPS will charge extra.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Feb 2010 07:12:24 +0000</listdate>
+    <saledate>Fri, 19 Feb 2010 13:51:00 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>only played once.
+free shipping in US included.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Feb 2010 13:03:17 +0000</listdate>
+    <saledate>Sun, 07 Mar 2010 15:54:06 +0000</saledate>
+    <price currency='EUR'>34</price>
+    <condition>likenew</condition>
+    <notes>original german Queen edition
+like new (only shrinkwrap removed), game in perfect, box in good-very good condition
+please ask for the original dB-Spiele edition</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Mar 2010 03:43:06 +0000</listdate>
+    <saledate>Thu, 11 Mar 2010 13:28:18 +0000</saledate>
+    <price currency='USD'>111</price>
+    <condition>verygood</condition>
+    <notes>ShowManager + Yukon Co + Derby for Herb Levy. Just running via BGG for their cut. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Mar 2010 09:00:48 +0000</listdate>
+    <saledate>Tue, 30 Mar 2010 21:09:43 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Mar 2010 17:15:42 +0000</listdate>
+    <saledate>Thu, 12 Aug 2010 15:52:14 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>verygood</condition>
+    <notes>Queen games edition, complete and in very good shape.
+13.00 Euros worldwide surface mail delivery.
+9 Euros shipping within Europe.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Apr 2010 16:06:19 +0000</listdate>
+    <saledate>Tue, 31 Aug 2010 02:57:10 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>verygood</condition>
+    <notes>This item was won at auction, if you didn_T_E_M_P_T_A_G_#039;t win it then don_T_E_M_P_T_A_G_#039;t buy it please.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 May 2010 10:15:08 +0000</listdate>
+    <saledate>Fri, 14 May 2010 20:20:20 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>verygood</condition>
+    <notes>Queen game edition. Shipping costs (not insured): EU 9 Euros, worldwide 14 Euros.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 May 2010 19:44:25 +0000</listdate>
+    <saledate>Wed, 11 Aug 2010 07:35:06 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>verygood</condition>
+    <notes>complete. Shipping costs (uninsured) : EU 9 Euros, World 14 Euros.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 May 2010 10:33:58 +0000</listdate>
+    <saledate>Sun, 09 Jan 2011 13:59:17 +0000</saledate>
+    <price currency='GBP'>26</price>
+    <condition>verygood</condition>
+    <notes>The game is in perfect condition.  Even the _T_E_M_P_T_A_G_#039;write on / wipe off_T_E_M_P_T_A_G_#039; board shows no sign of being used.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Jun 2010 03:49:07 +0000</listdate>
+    <saledate>Fri, 01 Apr 2011 21:48:33 +0000</saledate>
+    <price currency='USD'>64.8</price>
+    <condition>verygood</condition>
+    <notes>Very Good and Complete.  In reality I should probably be calling it _T_E_M_P_T_A_G_quot;like new_T_E_M_P_T_A_G_quot;, but there_T_E_M_P_T_A_G_#039;s probably a bit of shelfwear on it that I_T_E_M_P_T_A_G_#039;m just not seeing, so I_T_E_M_P_T_A_G_#039;ll play it safe and say _T_E_M_P_T_A_G_quot;Very Good_T_E_M_P_T_A_G_quot;.   </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Jul 2010 17:42:26 +0000</listdate>
+    <saledate>Wed, 03 Nov 2010 03:48:05 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>Minor corner scuffing on box. A rip in the box insert. Everything else like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Feb 2011 02:52:52 +0000</listdate>
+    <saledate>Fri, 25 Feb 2011 15:57:26 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Very good condition, all components in excellent condition and all present.  Queen Games edition.  Shipping from 96789 to U.S. guaranteed not to exceed $10.20.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Apr 2011 17:34:19 +0000</listdate>
+    <saledate>Wed, 27 Apr 2011 21:12:33 +0000</saledate>
+    <price currency='USD'>36.49</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG 60692)
+The players put together four shows in any order: Queenie, Wolf, King Lear, and Ballet. To accomplish this, players draft actor cards from a constantly changing queue of cards. Each card represents actors of varying skills at roles. Once a player puts together all the needed roles for a show, the value is judged against all the other productions of that type, with points given relative to the other productions.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 May 2011 21:55:13 +0000</listdate>
+    <saledate>Sun, 01 Jan 2012 15:51:01 +0000</saledate>
+    <price currency='USD'>36.49</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG 60692)
+Whether on Broadway in New York or the Spielbudenplatz in Hamburg, life in the theater bubbles over and you_T_E_M_P_T_A_G_#039;re in the middle in it. The glittery world of show stars lures, and everyone wants a long evening of enchantment.
+Four musicals and five cities - as one of up to six managers, you try to make the best musical in town. With Showmanager, you pull the strings. Achieve success with the smart selection from 120 actors, the skillful employment of your scarce funds and the feeling for the suitable musical at the right place. The public is demanding and the competition never sleeps. Only the best manager will receive thunderous applause.
+Raise the curtain on Showmanager - a exciting game for two to six clever impressionists.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jul 2011 12:49:58 +0000</listdate>
+    <saledate>Thu, 04 Aug 2011 01:08:46 +0000</saledate>
+    <price currency='CAD'>30</price>
+    <condition>likenew</condition>
+    <notes>2011 printing.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Aug 2011 16:37:40 +0000</listdate>
+    <saledate>Fri, 05 Aug 2011 06:46:15 +0000</saledate>
+    <price currency='EUR'>26</price>
+    <condition>verygood</condition>
+    <notes>German first edition.
+Contents complete _T_E_M_P_T_A_G_amp; in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Sep 2011 14:35:58 +0000</listdate>
+    <saledate>Fri, 16 Sep 2011 09:25:06 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Never been played. Queen version (2010)
+Will ship USPS flat rate med.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Sep 2011 20:08:22 +0000</listdate>
+    <saledate>Tue, 29 Nov 2011 17:54:51 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Only played once. 2011 Queen edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Oct 2011 07:30:29 +0000</listdate>
+    <saledate>Wed, 09 Nov 2011 16:36:55 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>Played once. This is the 2011 Queen Games edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Oct 2011 14:58:51 +0000</listdate>
+    <saledate>Sun, 20 Nov 2011 19:27:11 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played twice, excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Nov 2011 04:04:44 +0000</listdate>
+    <saledate>Sat, 17 Dec 2011 22:13:52 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Mike McCann.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Feb 2012 20:47:53 +0000</listdate>
+    <saledate>Fri, 02 Mar 2012 01:04:48 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Queen Games first edition, excellent condition, cards in great shape, played a couple times. boards are clean</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Sep 2012 21:08:28 +0000</listdate>
+    <saledate>Sat, 29 Jun 2013 22:13:49 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60601)
+Whether on Broadway in New York or the Spielbudenplatz in Hamburg, life in the theater bubbles over and you_T_E_M_P_T_A_G_#039;re in the middle in it. The glittery world of show stars lures, and everyone wants a long evening of enchantment. Four musicals and five cities - as one of up to six managers, you try to make the best musical in town. With Showmanager, you pull the strings. Achieve success with the smart selection from 120 actors, the skillful employment of your scarce funds and the feeling for the suitable musical at the right place. The public is demanding and the competition never sleeps. Only the best manager will receive thunderous applause. Raise the curtain on Showmanager - a exciting game for two to six clever impressionists. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Oct 2012 14:12:27 +0000</listdate>
+    <saledate>Sat, 08 Feb 2014 09:25:31 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>likenew</condition>
+    <notes>Game is complete, .
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+German 1st version by Queen</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Dec 2012 14:45:38 +0000</listdate>
+    <saledate>Wed, 11 Dec 2013 05:24:00 +0000</saledate>
+    <price currency='AUD'>35</price>
+    <condition>verygood</condition>
+    <notes>Played once only, all cards in Mayday sleeves. All components are intact. Will drop off in Sydney</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Dec 2012 22:06:38 +0000</listdate>
+    <saledate>Mon, 19 Aug 2013 00:37:27 +0000</saledate>
+    <price currency='USD'>23.99</price>
+    <condition>new</condition>
+    <notes>Brand new in factory shrink. Price sticker on the shrinkwrap ($62.95!)
+This can go Medium Flat Rate Priority Commercial Base @ $11.30.
+*MUST READ* PAYMENT INFO:
+I take USPS Money Orders or well-concealed cash.
+I accept standard Paypal _T_E_M_P_T_A_G_quot;Goods Purchase_T_E_M_P_T_A_G_quot; payments, but your grand total will suffice to make me _T_E_M_P_T_A_G_quot;whole_T_E_M_P_T_A_G_quot; after Paypal takes their fees out, which are $0.30 + 2.9% of the transferred amount.
+I also am happy to take ZERO-FEE _T_E_M_P_T_A_G_quot;Personal_T_E_M_P_T_A_G_quot; PAYPAL payments that use a bank account or your existing Paypal balance as the payment source (NOT a credit card, unless you pick the option to pay the fees yourselves) for the exact sale price plus exact postage.
+To make a _T_E_M_P_T_A_G_quot;Personal_T_E_M_P_T_A_G_quot; Paypal payment, you: Log in to your Paypal account, click _T_E_M_P_T_A_G_quot;Send Money_T_E_M_P_T_A_G_quot;, then choose the option of send money to friends and family, NOT to purchase goods. Make sure your source of funds is either your bank account or your paypal account balance. (If you use a credit card, you must select the option to pay the fees.)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Feb 2013 15:37:42 +0000</listdate>
+    <saledate>Fri, 08 Mar 2013 08:08:53 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Game is brand new and still in shrink. I received the game in a trade and the corner of the box has a ding in the box. Did not break the shrink wrap though. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Jun 2013 21:29:56 +0000</listdate>
+    <saledate>Fri, 20 Sep 2013 15:22:41 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This is the second addition. Only played a couple of times. 100% complete and in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Jul 2013 02:52:02 +0000</listdate>
+    <saledate>Sun, 05 Jan 2014 04:33:44 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+SHOW MANAGER: $24.95
+Queen Games [QNG 60601]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Jul 2013 10:05:48 +0000</listdate>
+    <saledate>Fri, 03 Jan 2014 06:04:05 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60601)
+Whether on Broadway in New York or the Spielbudenplatz in Hamburg, life in the theater bubbles over and you_T_E_M_P_T_A_G_#039;re in the middle in it. The glittery world of show stars lures, and everyone wants a long evening of enchantment. Four musicals and five cities - as one of up to six managers, you try to make the best musical in town. With Showmanager, you pull the strings. Achieve success with the smart selection from 120 actors, the skillful employment of your scarce funds and the feeling for the suitable musical at the right place. The public is demanding and the competition never sleeps. Only the best manager will receive thunderous applause. Raise the curtain on Showmanager - a exciting game for two to six clever impressionists. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Jul 2013 03:19:03 +0000</listdate>
+    <saledate>Sun, 19 Jan 2014 20:33:59 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played only once. Everything is in excellent condition. Shipping is 15.00 for USPS priority mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jan 2014 06:05:05 +0000</listdate>
+    <saledate>Fri, 25 Apr 2014 19:48:16 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60601)
+Whether on Broadway in New York or the Spielbudenplatz in Hamburg, life in the theater bubbles over and you_T_E_M_P_T_A_G_#039;re in the middle in it. The glittery world of show stars lures, and everyone wants a long evening of enchantment. Four musicals and five cities - as one of up to six managers, you try to make the best musical in town. With Showmanager, you pull the strings. Achieve success with the smart selection from 120 actors, the skillful employment of your scarce funds and the feeling for the suitable musical at the right place. The public is demanding and the competition never sleeps. Only the best manager will receive thunderous applause. Raise the curtain on Showmanager - a exciting game for two to six clever impressionists. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jan 2014 00:15:28 +0000</listdate>
+    <saledate>Mon, 13 Jan 2014 01:36:57 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>for user clarkkent22 only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Jan 2014 21:53:21 +0000</listdate>
+    <saledate>Fri, 24 Jan 2014 00:13:54 +0000</saledate>
+    <price currency='USD'>62</price>
+    <condition>new</condition>
+    <notes>RESERVED FOR AUCTION WINNER MWBTRUCK
+2011 Queen Games second edition. New in shrink.
+Also in this listing are two other games:
+2)Batman:Gotham City Strategy Game--New in shrink
+3)Wilderness--English second edition. New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Feb 2014 10:48:00 +0000</listdate>
+    <saledate>Mon, 17 Feb 2014 14:30:34 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>reserved for Sanderson0034</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jul 2014 17:40:31 +0000</listdate>
+    <saledate>Tue, 22 Jul 2014 11:52:30 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60601F)
+Whether on Broadway in New York or the Spielbudenplatz in Hamburg, life in the theater bubbles over and you_T_E_M_P_T_A_G_#039;re in the middle in it. The glittery world of show stars lures, and everyone wants a long evening of enchantment. Four musicals and five cities - as one of up to six managers, you try to make the best musical in town. With Showmanager, you pull the strings. Achieve success with the smart selection from 120 actors, the skillful employment of your scarce funds and the feeling for the suitable musical at the right place. The public is demanding and the competition never sleeps. Only the best manager will receive thunderous applause. Raise the curtain on Showmanager - a exciting game for two to six clever impressionists. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jul 2014 18:06:09 +0000</listdate>
+    <saledate>Sun, 31 Aug 2014 13:21:03 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60601F)
+Whether on Broadway in New York or the Spielbudenplatz in Hamburg, life in the theater bubbles over and you_T_E_M_P_T_A_G_#039;re in the middle in it. The glittery world of show stars lures, and everyone wants a long evening of enchantment. Four musicals and five cities - as one of up to six managers, you try to make the best musical in town. With Showmanager, you pull the strings. Achieve success with the smart selection from 120 actors, the skillful employment of your scarce funds and the feeling for the suitable musical at the right place. The public is demanding and the competition never sleeps. Only the best manager will receive thunderous applause. Raise the curtain on Showmanager - a exciting game for two to six clever impressionists. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Sep 2014 21:20:02 +0000</listdate>
+    <saledate>Wed, 10 Sep 2014 13:23:56 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60601F)
+Whether on Broadway in New York or the Spielbudenplatz in Hamburg, life in the theater bubbles over and you_T_E_M_P_T_A_G_#039;re in the middle in it. The glittery world of show stars lures, and everyone wants a long evening of enchantment. Four musicals and five cities - as one of up to six managers, you try to make the best musical in town. With Showmanager, you pull the strings. Achieve success with the smart selection from 120 actors, the skillful employment of your scarce funds and the feeling for the suitable musical at the right place. The public is demanding and the competition never sleeps. Only the best manager will receive thunderous applause. Raise the curtain on Showmanager - a exciting game for two to six clever impressionists.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Sep 2014 00:28:38 +0000</listdate>
+    <saledate>Thu, 02 Oct 2014 19:46:04 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60601F)
+Whether on Broadway in New York or the Spielbudenplatz in Hamburg, life in the theater bubbles over and you_T_E_M_P_T_A_G_#039;re in the middle in it. The glittery world of show stars lures, and everyone wants a long evening of enchantment. Four musicals and five cities - as one of up to six managers, you try to make the best musical in town. With Showmanager, you pull the strings. Achieve success with the smart selection from 120 actors, the skillful employment of your scarce funds and the feeling for the suitable musical at the right place. The public is demanding and the competition never sleeps. Only the best manager will receive thunderous applause. Raise the curtain on Showmanager - a exciting game for two to six clever impressionists.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Dec 2014 16:00:27 +0000</listdate>
+    <saledate>Tue, 13 Jan 2015 22:36:35 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>Ich akzeptiere Paypal und Banküberweisung / You can send me the money via bank transfer or PayPal. 
+Versende mit DHL und Versandkosten fallen dementsprechend nach Gewicht und Größe an / Ship using DHL and shipping costs are accordingly to the weight and size.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 11:05:26 +0000</listdate>
+    <saledate>Wed, 18 Feb 2015 08:58:43 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Oct 2014 14:33:47 +0000</listdate>
+    <saledate>Sun, 08 Mar 2015 20:58:00 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60601F)
+Whether on Broadway in New York or the Spielbudenplatz in Hamburg, life in the theater bubbles over and you_T_E_M_P_T_A_G_#039;re in the middle in it. The glittery world of show stars lures, and everyone wants a long evening of enchantment. Four musicals and five cities - as one of up to six managers, you try to make the best musical in town. With Showmanager, you pull the strings. Achieve success with the smart selection from 120 actors, the skillful employment of your scarce funds and the feeling for the suitable musical at the right place. The public is demanding and the competition never sleeps. Only the best manager will receive thunderous applause. Raise the curtain on Showmanager - a exciting game for two to six clever impressionists.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Apr 2015 11:03:28 +0000</listdate>
+    <saledate>Sun, 07 Jun 2015 06:51:12 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Shrinkwrap 
+PayPal or US Postal Money Order</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Jul 2015 22:13:10 +0000</listdate>
+    <saledate>Sun, 05 Jul 2015 22:22:55 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>To be sold with Augustus and Trains from Dog Days of Summer Auction - for winner only.  Shipping $25.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Mar 2014 20:49:01 +0000</listdate>
+    <saledate>Sun, 27 Sep 2015 10:46:43 +0000</saledate>
+    <price currency='EUR'>21.5</price>
+    <condition>verygood</condition>
+    <notes>I´m offering the german edition by QUEEN GAMES
+shipping rates:
+Germany = 4,5 Euro
+EU countries = 15 Euro
+worldwide = 19 Euro
+game weight: 1050 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Oct 2015 04:29:49 +0000</listdate>
+    <saledate>Wed, 21 Oct 2015 06:48:56 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198168/item/4214159#4214159]Item for Geeklist _T_E_M_P_T_A_G_quot;Some A**hole stole my car. Part 2. *94546*_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Feb 2015 23:44:19 +0000</listdate>
+    <saledate>Sat, 02 Jan 2016 16:21:34 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>opened, but unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Dec 2015 05:04:30 +0000</listdate>
+    <saledate>Wed, 06 Jan 2016 02:48:15 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>New In Shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Oct 2015 12:37:37 +0000</listdate>
+    <saledate>Thu, 11 Feb 2016 14:54:44 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>Played only once or twice. Really nice components and pretty fun party game, but unfortunately my friends disagree.
+I do not use PayPal, after being scammed a couple of times. I will allow payment through PayPal as _T_E_M_P_T_A_G_#039;sending money to friend/family_T_E_M_P_T_A_G_#039;.
+Otherwise, bank transfer would be my preffered choice or cash, with local pick-up.
+Contact me before making a purchase, if you wanna know the shipping costs.
+Verzenden in NL kan met Kiala, DHL of TNT. Afhalen kan in Dordrecht, Rotterdam en Rijswijk op afspraak.
+If you have any questions, feel free to contact me through GM.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Jan 2016 21:49:30 +0000</listdate>
+    <saledate>Wed, 09 Mar 2016 18:13:42 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>Still in shrinkwrap.  Box has a ding on the front, and a crease on the back.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Mar 2015 21:06:41 +0000</listdate>
+    <saledate>Tue, 29 Mar 2016 16:44:38 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Sep 2016 23:58:32 +0000</listdate>
+    <saledate>Thu, 15 Sep 2016 02:40:34 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/213399/item/4837107#4837107]Item for Geeklist _T_E_M_P_T_A_G_quot;THE BIG ONE - Ends Sept 12th between 8PM-10PM CST - US ONLY/local pickup is fine_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Sep 2016 15:45:37 +0000</listdate>
+    <saledate>Mon, 24 Oct 2016 08:05:45 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>U.K. Postage £2.85</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Oct 2016 12:19:05 +0000</listdate>
+    <saledate>Wed, 07 Dec 2016 15:09:35 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played once.  Group just didn_T_E_M_P_T_A_G_#039;t care for it.  Shipping is usually around $12 for USPS priority mail.  Ping me for an exact shipping quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jan 2017 18:38:44 +0000</listdate>
+    <saledate>Mon, 16 Jan 2017 18:42:44 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Like new, opened and played once.
+Will ship priority mail flat rate, shipping is $13.50</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Mar 2017 21:36:17 +0000</listdate>
+    <saledate>Wed, 08 Mar 2017 21:50:08 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>For user ratbulogg.  Add $7 for USPS Priority package, plus $0.85 for BGG commission.  Total $35.85
+Some shelf wear to corners, plus minor creasing on one of them.  See  https://boardgamegeek.com/image/3454361/bellynice (and 3454360, ...59, and ...57) for details</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Mar 2017 10:28:53 +0000</listdate>
+    <saledate>Mon, 13 Mar 2017 17:20:19 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222792/item/5256536#5256536]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction!  Auction!  Auction! 3_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Aug 2016 11:46:37 +0000</listdate>
+    <saledate>Thu, 30 Mar 2017 16:53:51 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>I am offering the Showmanager boardgame.
+The game is new and shrink wrapped and in German language.
+--------------------------
+Bezahlung / Payment:
+- Deutschland: Überweisung
+- EU: euro bank transfer with IBAN and BIC or PayPal.
+- Rest of the world: PayPal
+--------------------------
+Versandkosten / Shipping costs:
+- Deutschland: Bitte vorher anfragen.
+- EU: Please ask before buying.
+- Rest of the world: please ask before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 May 2013 20:33:40 +0000</listdate>
+    <saledate>Mon, 03 Apr 2017 12:48:20 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>QUEEN GAMES FIRST EDITION.
+Shipping charges paid by the buyer. Combined shipping available. Please let me know if you wish for the shipment to be insured.
+I have many other games for sale at my BGG Market page. Let me know if you have any questions. 
+http://boardgamegeek.com/geekmarket/user/cagood</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Oct 2016 09:05:58 +0000</listdate>
+    <saledate>Thu, 13 Apr 2017 17:42:07 +0000</saledate>
+    <price currency='EUR'>21</price>
+    <condition>new</condition>
+    <notes>Queen Games multilingual second edition (DE/EN/ES/FR/IT/NL)
+New and in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Jul 2017 02:15:58 +0000</listdate>
+    <saledate>Wed, 26 Jul 2017 02:26:32 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Brand new. Still sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Feb 2017 10:35:34 +0000</listdate>
+    <saledate>Tue, 15 Aug 2017 22:09:19 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Shipping will be £4 with myhermes within the UK.
+Will only ship within the UK.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Oct 2017 10:50:00 +0000</listdate>
+    <saledate>Fri, 13 Oct 2017 15:27:55 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>SP17/2808
+SP17/2662</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Sep 2017 10:55:25 +0000</listdate>
+    <saledate>Fri, 13 Oct 2017 15:27:55 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>SP17/2808</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jul 2016 10:39:35 +0000</listdate>
+    <saledate>Sat, 18 Nov 2017 15:51:31 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>verygood</condition>
+    <notes>Box have minimal wear and tear. The game material are in very good condition.
+I will ship from Germany and I am willing to ship anywhere.
+Please ask me, for the shipping costs for your land.
+I will charge shipping at cost. Everything will be well packed.
+You can pay me through Paypal or bank transfer to my German bank account but any fees charged must be covered by you.
+If you buy more games, then I make all in one package!
+We have a large private collection of games. Due to space and time constraints we must rid ourselves of some of the games. Therefore, these are private sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Dec 2017 06:03:42 +0000</listdate>
+    <saledate>Wed, 13 Dec 2017 04:53:04 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/233892/item/5815994#5815994]Item for Geeklist _T_E_M_P_T_A_G_quot;*** THE GAMES YOU HAVE BEEN LOOKING FOR ***     [ CLOSED ]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Dec 2017 10:42:25 +0000</listdate>
+    <saledate>Wed, 20 Dec 2017 23:11:42 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes>Shipping from Belgium - geekmail me to get a shipping price quote. 
+The shipping price depends on your country, the weight and the ever fluctuation prices of the parcel shipping companies.
+ 
+This also means you will have to pick up the game at a pick-up point, it won_T_E_M_P_T_A_G_#039;t be delivered to your door.
+Indicative prices : 
+Belgium : 4 euro
+The Netherlands : 7 euro
+France : 9 euro
+Spain, Germany, Luxemburg : 12 euro
+UK : 15 euro
+Portugal, Italy, Austria : 17 euro
+Poland : 24 euro
+Romania, Bulgaria, .. : 30 euro
+USA : 24 euro
+Payment can be done through PayPal or regular bank transfer (IBAN/BIC)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Jan 2018 04:08:51 +0000</listdate>
+    <saledate>Sun, 07 Jan 2018 20:59:53 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Feb 2018 08:16:55 +0000</listdate>
+    <saledate>Mon, 19 Feb 2018 11:59:09 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>reserved for warden0503</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Mar 2017 20:05:11 +0000</listdate>
+    <saledate>Mon, 12 Mar 2018 12:20:33 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Mar 2018 04:31:24 +0000</listdate>
+    <saledate>Sun, 13 May 2018 23:26:38 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Factory sealed in original shrink wrap. Shipping is $14.00 for Priority Mail (which includes insurance). PayPal payment can be sent to bitva2@yahoo.com, thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jun 2018 18:29:38 +0000</listdate>
+    <saledate>Mon, 09 Jul 2018 18:13:44 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Mar 2018 10:56:13 +0000</listdate>
+    <saledate>Fri, 13 Jul 2018 10:29:00 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>new</condition>
+    <notes>German 1st edition. Still in original shrink.
+P _T_E_M_P_T_A_G_amp; P at cost.
+ 
+An idea of the likely postage charge can be found at: https://www.royalmail.com/personal/sending-parcels
+(don’t forget to allow for the weight of a recycled cardboard box I will ship the game in to you)
+FYI I am a private seller, just looking to clear out some space - I am going to be selling off much of my collection, and have a number of other items for sale, please check them out. 
+I am always happy to combine shipping costs where possible. 
+And if there is an older game you are looking for, please let me know.
+I may well have a copy and be tempted to sell it to you.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Mar 2011 16:42:26 +0000</listdate>
+    <saledate>Fri, 09 Nov 2018 10:12:12 +0000</saledate>
+    <price currency='EUR'>11</price>
+    <condition>good</condition>
+    <notes>Box in good, material in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Nov 2018 04:36:38 +0000</listdate>
+    <saledate>Mon, 12 Nov 2018 06:20:42 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/245973/item/6531730#6531730]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Nov 2018 15:53:26 +0000</listdate>
+    <saledate>Mon, 12 Nov 2018 15:30:33 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Fall 2018 Auction winner Georgiagals.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Jan 2019 01:40:35 +0000</listdate>
+    <saledate>Thu, 24 Jan 2019 21:45:05 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played 2 or 3 times.  Like new condition, all components complete.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

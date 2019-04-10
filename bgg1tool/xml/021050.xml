@@ -1,0 +1,3883 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="21050">
+   <yearpublished>2006</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>180</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>180</maxplaytime>
+   <age>12</age>
+       <name  sortindex="1">Combat Commander: Europa</name>
+       <name primary="true" sortindex="1">Combat Commander: Europe</name>
+         
+   <description>Combat Commander: Europe is a card-driven board game covering tactical infantry combat in the European Theater of World War II. One player takes the role of the Axis (Germany) while another player commands the Allies (America or Russia). These two players will take turns playing one or more _T_E_M_P_T_A_G_amp;ldquo;Fate_T_E_M_P_T_A_G_amp;rdquo; cards from their hands in order to activate his units on the mapboard for various military functions._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Players attempt to achieve victory by moving their combat units across the game map to attack their opponent_T_E_M_P_T_A_G_amp;rsquo;s combat units and occupy as many objectives as possible. The degree to which a player succeeds or fails is measured by a scenario_T_E_M_P_T_A_G_amp;rsquo;s specific _T_E_M_P_T_A_G_amp;ldquo;Objective_T_E_M_P_T_A_G_amp;rdquo; chits, the destruction of enemy units, and the exiting of friendly units off the opponent_T_E_M_P_T_A_G_amp;rsquo;s board edge._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;A game of Combat Commander is divided into several measures of Game Time. There is no sequence of play to follow, however: each Time segment is divided into a variable number of Player Turns, each of which may consist of one or more Fate Card _T_E_M_P_T_A_G_amp;quot;Orders_T_E_M_P_T_A_G_amp;quot; conducted by the active player. Fate Card _T_E_M_P_T_A_G_amp;quot;Actions_T_E_M_P_T_A_G_amp;quot; may generally be conducted by either player at any time. _T_E_M_P_T_A_G_amp;quot;Events_T_E_M_P_T_A_G_amp;quot; _T_E_M_P_T_A_G_amp;mdash; both good and bad _T_E_M_P_T_A_G_amp;mdash; will occur at random intervals to add a bit of chaos and uncertainty to each player_T_E_M_P_T_A_G_amp;rsquo;s perfect plan._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;SCALE: Each hex of a Combat Commander map is roughly 100 feet of distance (about 30 meters). Each complete Player Phase abstractly represents several seconds of real time. Each complete measure of Game Time abstractly represents several minutes of real time._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Each unit in the game is approximated as either a single Leader, a 5-man Team, or a 10-man Squad. Radios _T_E_M_P_T_A_G_amp;mdash; and individual weapons larger than a pistol, rifle or BAR _T_E_M_P_T_A_G_amp;mdash; are represented by their own counters._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;  _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;  _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;  _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;  _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;  _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;  _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;  _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;  _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/2WoxhfwVS5PUytcSGEIUXdXx3CY=/fit-in/200x150/pic992459.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/RLXqwj5cZa-0GEHpi6a4nwQt898=/0x0/pic992459.jpg</image>
+      
+            <boardgamepublisher objectid="52">GMT Games</boardgamepublisher>
+               <boardgamehonor objectid="21311">2006 Charles S. Roberts Best Wargame Graphics Nominee</boardgamehonor>
+               <boardgamehonor objectid="21307">2006 Charles S. Roberts Best World War II Boardgame Nominee</boardgamehonor>
+               <boardgamehonor objectid="21313">2006 James F. Dunnigan Award Nominee</boardgamehonor>
+               <boardgamehonor objectid="8848">2007 Golden Geek Best 2-Player Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="8847">2007 Golden Geek Best Wargame Nominee</boardgamehonor>
+               <boardgamehonor objectid="8734">2007 Golden Geek Best Wargame Winner</boardgamehonor>
+               <boardgamehonor objectid="12966">2007 International Gamers Award - General Strategy: Two-players</boardgamehonor>
+               <boardgamehonor objectid="19775">2007 Walter Luc Haas Best Simulation Winner</boardgamehonor>
+                      <boardgamepodcastepisode objectid="220495">Board Game Buffet Episode 13 Combat Commander</boardgamepodcastepisode>
+                             <boardgameartist objectid="2370">Lee Brimmicombe-Wood</boardgameartist>
+               <boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+                                                  <boardgamepodcastepisode objectid="7743">Combat Commander</boardgamepodcastepisode>
+                                           <boardgamefamily objectid="2303">Combat Commander Series</boardgamefamily>
+                      <boardgameexpansion objectid="28682">Combat Commander: Battle Pack #1 – Paratroopers</boardgameexpansion>
+               <boardgameexpansion objectid="34580">Combat Commander: Battle Pack #2 – Stalingrad</boardgameexpansion>
+               <boardgameexpansion objectid="41985">Combat Commander: Battle Pack #3 – Normandy</boardgameexpansion>
+               <boardgameexpansion objectid="129341">Combat Commander: Battle Pack #5 – Fall of the West</boardgameexpansion>
+               <boardgameexpansion objectid="134269">Combat Commander: Battle Pack #6 – Sea Lion</boardgameexpansion>
+               <boardgameexpansion objectid="169076">Combat Commander: Battle Pack #7 – Leader of Men: Tournament Battle Pack</boardgameexpansion>
+                                           <boardgameexpansion objectid="233628">Combat Commander: Europe – C3i #28 Scenarios</boardgameexpansion>
+               <boardgameexpansion objectid="24124">Combat Commander: Mediterranean</boardgameexpansion>
+               <boardgameexpansion objectid="86957">Combat Commander: Resistance!</boardgameexpansion>
+                      <boardgamepublisher objectid="2366">Devir</boardgamepublisher>
+               <boardgameversion objectid="438209">English first edition,  fourth printing</boardgameversion>
+               <boardgameversion objectid="23866">English first edition, first printing</boardgameversion>
+               <boardgameversion objectid="23865">English first edition, second printing</boardgameversion>
+               <boardgameversion objectid="234382">English first edition, third printing</boardgameversion>
+                                           <boardgamepodcastepisode objectid="174959">GrogCast Season 3, Episode Quatr-oh!</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+               <boardgamepodcastepisode objectid="70098">I_T_E_M_P_T_A_G_#039;ve Been Diced! episode 27: An expanding universe of expansions</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="116600">I_T_E_M_P_T_A_G_#039;ve Been Diced! episode 54: Kim Kanger</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="141922">I_T_E_M_P_T_A_G_#039;ve Been Diced! episode 66: Combat systems</boardgamepodcastepisode>
+               <boardgamedesigner objectid="6331">Chad Jensen</boardgamedesigner>
+               <boardgameartist objectid="6331">Chad Jensen</boardgameartist>
+                      <boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
+               <boardgameartist objectid="11929">Leland Myrick</boardgameartist>
+                      <boardgamepodcastepisode objectid="148631">Podcast #091 - Clint el cartero</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="13879">Point 2 Point 42: Games We Were Wrong About</boardgamepodcastepisode>
+                                                         <boardgameartist objectid="140">Mark Simonitch</boardgameartist>
+               <boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+               <boardgameversion objectid="271719">Spanish edition</boardgameversion>
+               <boardgamepodcastepisode objectid="120801">The Long View: Combat Commander</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="7423">The Messy Game Room Episode 10</boardgamepodcastepisode>
+                      <boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+                      <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+               <boardgamecategory objectid="1049">World War II</boardgamecategory>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="127">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="32" />
+     <result value="Not Recommended" numvotes="59" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="112" />
+     <result value="Recommended" numvotes="10" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="77" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="66">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="17" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="44" />
+     <result level="5" value="Unplayable in another language" numvotes="2" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="51">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="5" />
+     <result value="12" numvotes="23" />
+     <result value="14" numvotes="21" />
+     <result value="16" numvotes="2" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>4831</usersrated>
+     <average>7.91324</average>
+     <bayesaverage>7.40607</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="112" bayesaverage="7.40607" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="8" bayesaverage="7.76854" />
+            
+           </ranks>
+     
+     <stddev>1.69794</stddev>
+     <median>0</median>
+     <owned>6971</owned>
+     <trading>151</trading>
+     <wanting>380</wanting>
+     <wishing>1648</wishing>
+     <numcomments>1730</numcomments>
+     <numweights>643</numweights>
+     <averageweight>3.2255</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 29 Dec 2006 18:59:35 +0000</listdate>
+    <saledate>Sun, 31 Dec 2006 07:55:52 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>For sale here is one factory sealed, mint condition, boxed edition of GMT Games Combat Commander Europe.
+This great new game has a $79.00 retail price--I am offering one here below fifty dollars. Hottest GMT release of the year. LOW USA shipping charge includes tracking number.Paypal or US money Order accepted.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jan 2007 22:49:37 +0000</listdate>
+    <saledate>Tue, 02 Jan 2007 23:08:14 +0000</saledate>
+    <price currency='USD'>62.95</price>
+    <condition>new</condition>
+    <notes>Game is brand new with publisher shrink-wrap. Save $16 off list price of $79! Items are shipped within one business day of receiving payment. If you do not wish to use PayPal, you may pay me directly (via website or phone) using any major credit card. Shipping is $8.00 for UPS Ground to US locations (no PO Boxes, AK or HI). If you need a different type of shipping or any questions answered, please email before purchasing. CA orders pay 7.25% sales tax. For more info visit www.gamesinabox.com.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Jan 2007 16:05:46 +0000</listdate>
+    <saledate>Sun, 14 Jan 2007 13:37:41 +0000</saledate>
+    <price currency='EUR'>74</price>
+    <condition>new</condition>
+    <notes>never used +++++ english version ++++++++++ will be shipped insured +++++ international payment : paypal OR direct bank to bank transfer (wich is cost-free inside european union by the way) OR cash (in a registered letter, exchanged into euros already) +++++ payment for germany : paypal OR personal pick up in berlin OR direct bank to bank transfer +++++ for all : no checks ! ++++++++++ international buyers beware : though german postal is relatively fast, they sadly aren´t cheap. it costs bewteen 19 - 37 euros for parcels up to a weight of 5 kg (= about 4 big boxed boardgames). price depends on where the package has to be shipped, so please ask for prices, before you hit the buy button ! +++++ insured shipment inside germany costs 8 euros
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jan 2007 01:17:50 +0000</listdate>
+    <saledate>Wed, 10 Jan 2007 20:09:25 +0000</saledate>
+    <price currency='USD'>52.95</price>
+    <condition>new</condition>
+    <notes>For sale here is one brand new, factory sealed tactical wargame. GMT Games COMBAT COMMANDER EUROPE. This is the hottest and best new wargame release in years. I am selling a few copies here on this great gaming site at a special price of $52.95! This game has a well deserved $79.00 retail price.
+Note: This is an oversized heavy game--I still am offering a bargain shipping rate-USA media mail for $4.95 or $9.95 for priority mail-both include tracking number. Canada $12.95 for airmail-Europe $25.00 for airmail.
+Paypal--US Money Order only.
+Please note I will not be able to ship this game until Thursday January 11th </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Jan 2007 12:22:34 +0000</listdate>
+    <saledate>Mon, 22 Jan 2007 21:13:03 +0000</saledate>
+    <price currency='EUR'>74.9</price>
+    <condition>new</condition>
+    <notes>The game is new and still in shrink
+shipping to France : 7 euros
+Shipping to Europa : 9 euros
+shipping to rest of the world : 13 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Jan 2007 00:57:35 +0000</listdate>
+    <saledate>Sat, 10 Feb 2007 21:03:13 +0000</saledate>
+    <price currency='USD'>51</price>
+    <condition>new</condition>
+    <notes>new, in shrink.
+Shipping is via UPS (from NY), which includes insurance.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jan 2007 03:56:08 +0000</listdate>
+    <saledate>Tue, 06 Feb 2007 20:38:24 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink-
+Please email me if you have any questions or would like to request a shipping quote to your city.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Jan 2007 20:16:01 +0000</listdate>
+    <saledate>Mon, 05 Feb 2007 07:30:57 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink.
+Buyer to pay exact shipping cost via USPS Priority. PayPal only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Mar 2007 07:18:06 +0000</listdate>
+    <saledate>Sun, 18 Mar 2007 05:35:35 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLSGames -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+COMBAT COMMANDER
+GMT GAMES (#0609)
+SHIPPING
+Continental U.S.: FedEx $8.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Mar 2007 02:42:54 +0000</listdate>
+    <saledate>Sat, 17 Mar 2007 21:56:23 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in shrink-
+US shipping will be $7.50.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Mar 2007 04:54:47 +0000</listdate>
+    <saledate>Sat, 31 Mar 2007 01:39:07 +0000</saledate>
+    <price currency='CAD'>69.95</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Apr 2007 05:57:48 +0000</listdate>
+    <saledate>Sat, 02 Jun 2007 01:22:01 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+COMBAT COMMANDER EUROPE: 49.95
+GMT GAMES (#0609)
+SHIPPING
+Continental U.S.: FedEx $9.45
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Apr 2007 23:02:27 +0000</listdate>
+    <saledate>Mon, 28 May 2007 15:52:54 +0000</saledate>
+    <price currency='GBP'>39</price>
+    <condition>new</condition>
+    <notes>Still in shrink.
+Comes with two additional P500 bonus scenarios.
+Delivery to UK: £5
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 May 2007 07:56:20 +0000</listdate>
+    <saledate>Mon, 25 Jun 2007 03:25:55 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Played 3 times and in excellent shape, inside and out.
+Shipping is $9.00.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jun 2007 01:39:12 +0000</listdate>
+    <saledate>Fri, 15 Jun 2007 17:38:05 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+COMBAT COMMANDER EUROPE: 49.95
+GMT GAMES (#0609)
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jun 2007 15:31:26 +0000</listdate>
+    <saledate>Fri, 08 Jun 2007 23:44:21 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Played twice; cards are sleeved and both plays were with the cards already sleeved.
+Flat $10 shipping gets you priority mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Aug 2007 02:39:02 +0000</listdate>
+    <saledate>Thu, 24 Jan 2008 04:48:11 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Opened and rules thumbed-through.  Counters unpunched, and cards still in factory wrappers.  Everything is in like-new shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Aug 2007 02:52:27 +0000</listdate>
+    <saledate>Tue, 04 Sep 2007 20:55:27 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+COMBAT COMMANDER EUROPE: 49.95
+GMT GAMES (#0609)
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Sep 2007 23:50:29 +0000</listdate>
+    <saledate>Tue, 11 Sep 2007 16:21:57 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+COMBAT COMMANDER EUROPE: 49.95
+GMT GAMES (#0609)
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Sep 2007 07:10:58 +0000</listdate>
+    <saledate>Sun, 04 Nov 2007 10:38:36 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>Mint, punched (played once)
+All scards have protection sleeves!!
+Comes with counter tray!!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Nov 2007 11:10:56 +0000</listdate>
+    <saledate>Sun, 25 Nov 2007 07:53:00 +0000</saledate>
+    <price currency='USD'>48.45</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+COMBAT COMMANDER EUROPE: 48.45
+GMT GAMES [GMT 0609]
+SHIPPING
+Continental U.S.: FedEx $11.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2007 18:59:53 +0000</listdate>
+    <saledate>Tue, 25 Dec 2007 23:25:51 +0000</saledate>
+    <price currency='USD'>51</price>
+    <condition>new</condition>
+    <notes>New, in shrinkwrap.  
+Package weight is about 4 lbs. 
+Shipping could run as high as $8.95 (lower 48 states).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Jan 2008 13:40:24 +0000</listdate>
+    <saledate>Sat, 19 Jan 2008 14:02:09 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+COMBAT COMMANDER EUROPE: 49.95
+GMT GAMES [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jan 2008 13:52:45 +0000</listdate>
+    <saledate>Sat, 09 Feb 2008 05:37:08 +0000</saledate>
+    <price currency='USD'>53.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: 53.95 _T_E_M_P_T_A_G_lt;_T_E_M_P_T_A_G_lt;-- In Stock Now!
+GMT GAMES [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Feb 2008 00:19:56 +0000</listdate>
+    <saledate>Tue, 19 Feb 2008 12:48:54 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink. Duplicated gift.
+UK shipping £6.00. Elsewhere please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Feb 2008 18:30:28 +0000</listdate>
+    <saledate>Wed, 20 Feb 2008 04:05:32 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Shrink wrap removed but that_T_E_M_P_T_A_G_#039;s it...  in excellent shape.  Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Mar 2008 20:17:07 +0000</listdate>
+    <saledate>Sun, 13 Apr 2008 21:27:49 +0000</saledate>
+    <price currency='USD'>46.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** ***** PRE ORDER ***** *****
+COMBAT COMMANDER EUROPE: 46.95 (pre-order)
+GMT GAMES [GMT 0609]
+Anticipated Restock Date: April 2008
+*** ***** PRE ORDER ***** *****
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Apr 2008 17:21:12 +0000</listdate>
+    <saledate>Mon, 07 Apr 2008 16:15:27 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>Shrinked</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Apr 2008 19:29:52 +0000</listdate>
+    <saledate>Tue, 15 Apr 2008 19:54:44 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>In excellent/near mint condition. The counters are clipped neatly using a commercial clipping jig (pictures available upon request). Counters are sorted and stored in GMT counter trays. Comes with an extra set of shrink-wrapped cards for the three nationalities and the two bonus scenarios for those who pre-ordered.
+Buyer pays exact shipping.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Apr 2008 16:04:23 +0000</listdate>
+    <saledate>Wed, 30 Apr 2008 17:45:43 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>I purchased this copy new and played it 4-6 times.  All components are like new.  All cards are sleeved.  All counters are cut and each army has it_T_E_M_P_T_A_G_#039;s own Plano box.
+Buyer will pay shipping from Indiana, USA.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 May 2008 00:07:09 +0000</listdate>
+    <saledate>Tue, 20 May 2008 10:55:45 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Game is in like new shape.  Pieces are punched and all accounted for.  Only played once.  I_T_E_M_P_T_A_G_#039;m the original owner and have kept it in a smoke free home.  Buyer pays shipping depending on their location.  I_T_E_M_P_T_A_G_#039;ll combine shipping for multiple items.  Thanks for looking and have a great day.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 May 2008 06:10:51 +0000</listdate>
+    <saledate>Wed, 28 May 2008 20:45:50 +0000</saledate>
+    <price currency='USD'>46.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: 46.95 ...in stock, no waiting!
+GMT GAMES [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jun 2008 01:19:50 +0000</listdate>
+    <saledate>Thu, 12 Jun 2008 21:34:25 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened, unpunched, cards are still sealed.
+PayPal from checking, money order, or check happily accepted.
+Shipped via USPS Priority with Delivery Confirmation.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jun 2008 10:16:56 +0000</listdate>
+    <saledate>Wed, 01 Dec 2010 20:53:37 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>verygood</condition>
+    <notes>Counters punched but game unplayed and otherwise in mint condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jun 2008 13:47:33 +0000</listdate>
+    <saledate>Tue, 19 Aug 2008 00:35:52 +0000</saledate>
+    <price currency='USD'>46.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: 46.95 
+GMT GAMES [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Jul 2008 22:37:16 +0000</listdate>
+    <saledate>Fri, 15 Aug 2008 12:12:18 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>1st Edition. Partially punched, but never played. Cards still sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Aug 2008 12:06:20 +0000</listdate>
+    <saledate>Fri, 28 Nov 2008 10:23:18 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>new</condition>
+    <notes>First printing, still sealed in shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Aug 2008 00:15:45 +0000</listdate>
+    <saledate>Mon, 12 Jan 2009 09:33:06 +0000</saledate>
+    <price currency='AUD'>60</price>
+    <condition>likenew</condition>
+    <notes>Punched and never used.  Every card has been placed in protective sleeves.  First edition with the bonus P500 scenarios.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Nov 2008 13:15:16 +0000</listdate>
+    <saledate>Wed, 16 Mar 2011 02:58:50 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Game played once.  All pieces neatly separated and sorted into Ziploc bags.  
+NOTE:  If you choose to pay by PayPal Credit Card, there will be an additional fee to this price.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Nov 2008 18:49:32 +0000</listdate>
+    <saledate>Sat, 09 Apr 2011 10:11:48 +0000</saledate>
+    <price currency='EUR'>69.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Dec 2008 18:23:23 +0000</listdate>
+    <saledate>Sat, 14 Mar 2009 20:17:37 +0000</saledate>
+    <price currency='USD'>47.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE 2ND ED. (2008): $47.95 
+GMT GAMES [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Dec 2008 22:22:34 +0000</listdate>
+    <saledate>Fri, 16 Jan 2009 11:34:08 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>COMBAT 
+COMMANDER 
+Personalized Heros
+Do you want to be a Hero?
+Does your BFF?
+Well who doesn_T_E_M_P_T_A_G_#039;t want to be a Hero.
+ Now YOU can be a Hero!
+Think of the look on your opponents face when YOU 
+become the Hero that leads you side to Victory.
+12 Personalized Hero Counters
+of either
+American, Russian, German
+or any combination of all three.
+Just send us 12 names and their side 
+(American, Russian, German) 
+and we will have them off to you </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Dec 2008 01:05:18 +0000</listdate>
+    <saledate>Tue, 20 Jan 2009 01:03:06 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>new</condition>
+    <notes>In shrink.
+2006 edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jan 2009 23:18:54 +0000</listdate>
+    <saledate>Sat, 10 Jan 2009 15:08:38 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>This item was sold through a game auction and is awaiting payment.  Not available to public.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Jan 2009 14:09:00 +0000</listdate>
+    <saledate>Thu, 26 Feb 2009 15:12:09 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>COMBAT COMMANDER 
+Personalized Heros
+Do you want to be a Hero?
+Well who doesn_T_E_M_P_T_A_G_#039;t want to be a Hero.
+ Now YOU can be a Hero!
+Think of the look on your opponents face when YOU 
+become the Hero that leads you side to Victory.
+9 Personalized Hero Counters
+one for each country
+in the COMBAT COMMANER game series. 
+American, Russian, German, (EUROPE)
+British, French, Italian, (MEDITERRANEAN)
+Commonwealth, Japan and U.S. Marines! (PACIFIC)
+Just send your name 
+(or the names you would like to use 
+and yout Personalized Heroes wil be on thier way to you.
+INCLUDES: Complete mounted and die cut counters!
+Please allow up to 2 weeks for delivery</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Feb 2009 15:28:42 +0000</listdate>
+    <saledate>Tue, 10 Feb 2009 20:35:37 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>in good shape, ready to play!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Feb 2009 00:16:37 +0000</listdate>
+    <saledate>Mon, 23 Feb 2009 00:58:46 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>opened never played includes c3i nr19</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Mar 2009 00:20:44 +0000</listdate>
+    <saledate>Wed, 01 Apr 2009 02:04:45 +0000</saledate>
+    <price currency='USD'>47.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE 2ND ED. (2008): $47.95 
+GMT GAMES [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Mar 2009 15:06:24 +0000</listdate>
+    <saledate>Fri, 17 Jul 2009 15:44:28 +0000</saledate>
+    <price currency='GBP'>41.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £4.40  postage to UK.
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a   discount for purchases over £50. Please contact me for details. All items (approximately 500 unique games) I list are in stock and will be posted within 24 working hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Mar 2009 00:16:34 +0000</listdate>
+    <saledate>Tue, 14 Jul 2009 18:12:57 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>new</condition>
+    <notes>In shrink, second printing (2008).
+Shipping Germany 4 Euro.
+Shipping Europe 9 Euro.
+Money transfer preferred. PayPal plus 4 Euro.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Apr 2009 13:03:36 +0000</listdate>
+    <saledate>Tue, 02 Nov 2010 21:26:31 +0000</saledate>
+    <price currency='USD'>47.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE 2ND ED. (2008): $47.95 
+GMT GAMES [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Apr 2009 20:49:21 +0000</listdate>
+    <saledate>Mon, 18 Apr 2011 02:31:23 +0000</saledate>
+    <price currency='USD'>50.49</price>
+    <condition>new</condition>
+    <notes>Domestic Shipping: USPS PRIORITY MAIL with Delivery Confirmation = $10.99</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Apr 2009 21:32:22 +0000</listdate>
+    <saledate>Sat, 18 Apr 2009 01:12:41 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Cards are shrink wrapped, counters unpunched. This is my spare copy, and should go to somebody who will use it.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Apr 2009 18:48:29 +0000</listdate>
+    <saledate>Wed, 29 Apr 2009 15:21:39 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Counters punched for 2 scenarios. 2nd Edition. Postage £8 to UK. Will only ship to UK due to Weight.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Jun 2009 00:04:13 +0000</listdate>
+    <saledate>Wed, 11 Nov 2009 10:59:05 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>Excellent Condition - only played a few times
+Postage UK £5.00</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jul 2009 10:12:01 +0000</listdate>
+    <saledate>Wed, 02 Dec 2009 14:15:42 +0000</saledate>
+    <price currency='GBP'>28</price>
+    <condition>verygood</condition>
+    <notes>Played 5 Times, Complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jul 2009 18:34:43 +0000</listdate>
+    <saledate>Thu, 16 Jul 2009 18:36:28 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>verygood</condition>
+    <notes>For user Lord_Prussian only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Oct 2009 11:35:00 +0000</listdate>
+    <saledate>Thu, 29 Oct 2009 21:31:28 +0000</saledate>
+    <price currency='GBP'>39.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £7.00  postage to UK.
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a  2.5% discount for purchases over £50 and  5% for purchases over £100. All items (600 unique games) I list are in stock and will be posted within 24 working hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Oct 2009 01:31:25 +0000</listdate>
+    <saledate>Sat, 24 Oct 2009 20:03:43 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Open, unpunched.
+I ship fast and can combine shipping!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Nov 2009 20:22:40 +0000</listdate>
+    <saledate>Sun, 01 Nov 2009 21:38:50 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>Geeklist Auction item
+(includes BattlePack)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Nov 2009 14:08:28 +0000</listdate>
+    <saledate>Thu, 07 Jan 2010 13:31:28 +0000</saledate>
+    <price currency='GBP'>39.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £5.50  postage to UK.
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a  2.5% discount for purchases over £50 and  5% for purchases over £100. All items (750 unique games) I list are in stock and will be posted within 24 working hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Nov 2009 23:57:19 +0000</listdate>
+    <saledate>Fri, 18 Dec 2009 14:00:17 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Game is unpunched and in very good condition. I have only removed the shrikwrap and put the cards in card-sleeves.
+I accept Paypal and Bank transfer</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Dec 2009 19:54:48 +0000</listdate>
+    <saledate>Tue, 08 Dec 2009 01:20:40 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>FOR SCHOLLE ONLY - WON @ BGG AUCTION:
+Combat Commander Europe - $35
+Shipping to CT - $10
+GRAND TOTAL = $45</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Dec 2009 00:21:07 +0000</listdate>
+    <saledate>Sat, 26 Dec 2009 05:26:02 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>Only the shrinkwrap has been removed...Otherwise unpunched, near mint.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jan 2010 00:05:14 +0000</listdate>
+    <saledate>Sat, 23 Jan 2010 11:56:22 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>new</condition>
+    <notes>original 2006 edition
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Jan 2010 22:10:27 +0000</listdate>
+    <saledate>Wed, 27 Jan 2010 21:01:32 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Used copy of Combat Commander: Europe by GMT Games in very good condition.
+Also includes the following extras:
+Battle Pack #1: Paratroopers
+All cards are sleeved.
+Three GMT counter trays.
+Shipping: $12.00 USPS Priority
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Feb 2010 00:29:09 +0000</listdate>
+    <saledate>Sat, 27 Feb 2010 05:54:21 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Played four times. All cards in plastic sleeves.All counters separated according to army, weapons, leaders, etc.,and stored in plastic bags. Very good shape. No dings</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Feb 2010 17:07:13 +0000</listdate>
+    <saledate>Thu, 15 Apr 2010 18:08:01 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Counters punched and sorted into trays.  Cards sleaved.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Mar 2010 00:57:47 +0000</listdate>
+    <saledate>Thu, 11 Mar 2010 06:22:32 +0000</saledate>
+    <price currency='AUD'>55</price>
+    <condition>verygood</condition>
+    <notes>German counters have had corners nicely clipped.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Mar 2010 20:48:53 +0000</listdate>
+    <saledate>Thu, 01 Jul 2010 16:32:01 +0000</saledate>
+    <price currency='GBP'>49.99</price>
+    <condition>new</condition>
+    <notes>Uk 1st class £5.30
+UK Parcel post £4.60
+Europe £8.70</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Apr 2010 04:06:37 +0000</listdate>
+    <saledate>Tue, 27 Apr 2010 16:34:05 +0000</saledate>
+    <price currency='USD'>32.5</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition - everything punched but placed into small sorted boxes and all cards in sleeves.  I_T_E_M_P_T_A_G_#039;m moving and need to make some room.  Buyer pays $10.00 shipping (heavy box).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 May 2010 23:15:17 +0000</listdate>
+    <saledate>Mon, 21 Jun 2010 14:15:33 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Punched and clipped but never played.  most cards still sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 May 2010 00:28:22 +0000</listdate>
+    <saledate>Fri, 18 Jun 2010 15:21:51 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>likenew</condition>
+    <notes>With 1 extra scenario.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Jun 2010 22:46:52 +0000</listdate>
+    <saledate>Wed, 07 Jul 2010 13:22:14 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Not in shrink, but otherwise in perfect condition -- counters unpunched, cards unopened, maps still folded.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jul 2010 06:36:39 +0000</listdate>
+    <saledate>Sat, 09 Oct 2010 11:13:45 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>I have played it three times very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jul 2010 15:22:38 +0000</listdate>
+    <saledate>Tue, 27 Jul 2010 18:31:30 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jul 2010 02:10:45 +0000</listdate>
+    <saledate>Wed, 28 Jul 2010 03:03:15 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This is only for the auction winner, Midlifedelta.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Oct 2010 22:13:04 +0000</listdate>
+    <saledate>Wed, 13 Oct 2010 10:32:59 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>Counters punched. Game unplayed all components in pristine condition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Nov 2010 11:18:29 +0000</listdate>
+    <saledate>Fri, 13 May 2011 15:34:35 +0000</saledate>
+    <price currency='USD'>47.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE 2ND ED. (2008): $47.95
+GMT GAMES [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Dec 2010 07:27:12 +0000</listdate>
+    <saledate>Tue, 04 Jan 2011 21:41:07 +0000</saledate>
+    <price currency='USD'>44.99</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. US Postal Service and UPS Ground available.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Dec 2010 15:22:48 +0000</listdate>
+    <saledate>Sat, 05 Feb 2011 15:35:14 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>Highly upgraded components. Counters have been corner-clipped - stored in plano boxes (included). Other counters are plastic bagged. Several print-out player aids and errata are included. All cards are sleeved and stored in custom tuck boxes.All fit in original box.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Jan 2011 22:11:22 +0000</listdate>
+    <saledate>Fri, 07 Jan 2011 15:31:21 +0000</saledate>
+    <price currency='USD'>44.99</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. US Postal Service and UPS Ground available.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Jan 2011 18:25:59 +0000</listdate>
+    <saledate>Fri, 01 Apr 2011 18:03:30 +0000</saledate>
+    <price currency='USD'>44.99</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. US Postal Service and UPS Ground available.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Jan 2011 08:48:00 +0000</listdate>
+    <saledate>Fri, 04 Feb 2011 00:03:37 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Opened, unpunched. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Jan 2011 19:48:07 +0000</listdate>
+    <saledate>Wed, 11 May 2011 08:20:30 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Unopened. 2nd Printing Still in factory shrink. Damage to box along left side. Please see my gallery for photos of the damage.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Jan 2011 06:38:00 +0000</listdate>
+    <saledate>Tue, 15 Feb 2011 16:39:38 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Played a couple times, very good condition.  Bottom of box has small crease.  Minimal wear and tear.  Cards were sleeved - I removed the sleeves as I know not all people enjoy playing with sleeves, but I would be happy to include them if you would like.  Willing to provide pictures.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Mar 2011 22:22:10 +0000</listdate>
+    <saledate>Sun, 20 Mar 2011 02:19:34 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Auction win for: ToyEmpire
+Please send payment to: fladeptinfo@gmail.com
+CC Europe $42.00
+Intruder $8.00
+GAME(S) TOTAL: $50.00
+SHIPPING: $12.34
+TOTAL AMOUNT: $62.34
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Apr 2011 20:46:38 +0000</listdate>
+    <saledate>Sun, 03 Apr 2011 23:07:33 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>Please include your BGG username with your payment!  (Could just cut and paste all of this in there!)
+Reserved for garry_rice.
+Combat Commander: Europe  $38
+Merch Total = $38
+Shipping = $11
+Grand Total = $49
+Payment can be sent to KakarisMaelstrom@gmail.com
+Please note: Delivery confirmation is not included in this quote.  If you_T_E_M_P_T_A_G_#039;d like this service added, please add $0.70 to the payment and call it out to our attention.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Apr 2011 21:27:20 +0000</listdate>
+    <saledate>Sun, 12 Jun 2011 08:36:14 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>new</condition>
+    <notes>Domestic Shipping: USPS PRIORITY with Delivery Confirmation = $10.99</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Apr 2011 22:34:27 +0000</listdate>
+    <saledate>Sat, 30 Apr 2011 12:28:30 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 May 2011 16:17:56 +0000</listdate>
+    <saledate>Wed, 01 Jun 2011 23:40:06 +0000</saledate>
+    <price currency='USD'>52.99</price>
+    <condition>new</condition>
+    <notes>GMT Games (GMT 0609)
+Combat Commander: Europe is a card-driven board game covering tactical infantry combat in the European Theater of World War II. One player takes the role of Germany while another player commands either America or Russia. These two players will take turns playing one or more _T_E_M_P_T_A_G_quot;Fate_T_E_M_P_T_A_G_quot; cards from their hands in order to activate units on the mapboard for various military functions.
+There is no strict sequence of play to follow in Combat Commander: each measure of game Time is divided into a variable number of player Turns, each of which may consist of one or more _T_E_M_P_T_A_G_quot;Orders_T_E_M_P_T_A_G_quot; conducted by the active player. _T_E_M_P_T_A_G_quot;Actions_T_E_M_P_T_A_G_quot; may generally be conducted by either player at any time. _T_E_M_P_T_A_G_quot;Events_T_E_M_P_T_A_G_quot; - both good and bad - will also occur at random intervals to add a bit of chaos and uncertainty to each player’s perfect plan.
+Orders include: Fire, Move, Advance, Recover, Rout, and Artillery functions. Each nationality also has a varying number of Command Confusion Orders which act as duds while in hand.
+An example of some of the 20 different Actions are: 
+-Smoke - If a unit with boxed Movement is activated to Move, place Smoke in or adjacent to its hex. 
+-Hand Grenades - Add +2 when firing at an adjacent hex. 
+-Dig In - Place foxholes in a friendly hex. 
+An example of some of the 35 different Events are: 
+-Walking Wounded - Select one eliminated unit. Return that unit to play in a random hex, broken. 
+-Hero - If not already in play, place your Hero in a friendly hex. Rally one broken unit there. 
+-Battle Harden - One unit becomes Veteran.
+Players attempt to achieve victory by moving their combat units across the game map to attack their opponent’s combat units and occupy as many objectives as possible. The degree to which a player succeeds or fails is measured by a scenario’s specific Objective chits, the destruction of enemy units, and the exiting of friendly units off the opponent’s board edge. Command _T_E_M_P_T_A_G_amp; Control is extremely important in Combat Commander, being modeled via the _T_E_M_P_T_A_G_quot;Command_T_E_M_P_T_A_G_quot; number on Leader units. Command serves both to enhance the abilities of Squads and Teams stacked with the Leader, as well as allowing for multiple activations with a single Order.
+Combat Commander includes twelve historical scenarios as well as a _T_E_M_P_T_A_G_quot;roll your own_T_E_M_P_T_A_G_quot; scenario system that provides an almost unending variety of map configurations, combat situations, and historically-based force structures. Each scenario is played on one of twelve maps, each with a 10x15 hexgrid depicting various terrain at a scale of approximately 100 feet per hex.
+Replayability for Combat Commander is high. And with unlimited possibilities as far as additional scenarios, maps, units, weapons, variants, etc. that will be released in years to come - as well as the expected sequels covering the British, French, Italians, and the Pacific Theater - Combat Commander is one of those rare exceptional values in wargaming: one that can be revisited time and time again, each with a new tale to tell.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 May 2011 15:55:30 +0000</listdate>
+    <saledate>Wed, 25 May 2011 23:52:57 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE 2ND ED. (2008): $49.95
+GMT GAMES [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jun 2011 20:16:35 +0000</listdate>
+    <saledate>Thu, 16 Jun 2011 21:07:20 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Counters stored in trays. Cards used but in very good shape, maps likewise.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jun 2011 15:31:46 +0000</listdate>
+    <saledate>Fri, 24 Jun 2011 13:54:01 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta!
+COMBAT COMMANDER EUROPE 2ND EDITION:  44.95
+GMT Games [GMT 0609-08]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Jun 2011 09:50:39 +0000</listdate>
+    <saledate>Mon, 27 Jun 2011 15:34:56 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>For auction winner jaywowzer</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jul 2011 13:26:12 +0000</listdate>
+    <saledate>Thu, 01 Sep 2011 16:00:35 +0000</saledate>
+    <price currency='USD'>47.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE 2ND EDITION: $47.95
+GMT Games [GMT 0709]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jul 2011 01:16:21 +0000</listdate>
+    <saledate>Tue, 31 Dec 2013 01:59:25 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $10.95</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Jul 2011 16:58:20 +0000</listdate>
+    <saledate>Wed, 17 Aug 2011 02:21:06 +0000</saledate>
+    <price currency='USD'>44.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. US Postal Service and UPS Ground available.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Aug 2011 14:11:04 +0000</listdate>
+    <saledate>Fri, 07 Oct 2011 14:56:30 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>played once</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Aug 2011 02:29:23 +0000</listdate>
+    <saledate>Thu, 18 Aug 2011 14:28:30 +0000</saledate>
+    <price currency='USD'>44.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. US Postal Service and UPS Ground available.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Aug 2011 06:58:07 +0000</listdate>
+    <saledate>Wed, 05 Oct 2011 22:25:26 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Mostly unpunched, 100% complete.  1st edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Aug 2011 15:06:06 +0000</listdate>
+    <saledate>Mon, 05 Sep 2011 22:23:38 +0000</saledate>
+    <price currency='USD'>44.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. US Postal Service and UPS Ground available.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Aug 2011 20:58:16 +0000</listdate>
+    <saledate>Thu, 15 Sep 2011 00:36:30 +0000</saledate>
+    <price currency='USD'>34.5</price>
+    <condition>likenew</condition>
+    <notes>Game is opened and a few of the counters have been punched. It has never been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Aug 2011 09:55:43 +0000</listdate>
+    <saledate>Mon, 22 Aug 2011 11:20:06 +0000</saledate>
+    <price currency='AUD'>110</price>
+    <condition>new</condition>
+    <notes>Out of shrink but unpunched. Allow $15 for post.
+Includes:
+CC Europe, CC Mediterain, Normandy, Stalingrad, Paratroop
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Aug 2011 06:40:36 +0000</listdate>
+    <saledate>Fri, 01 Feb 2013 12:42:28 +0000</saledate>
+    <price currency='EUR'>69.99</price>
+    <condition>new</condition>
+    <notes>English version.
+New corrected 2nd Printing !</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Aug 2011 20:56:54 +0000</listdate>
+    <saledate>Thu, 25 Aug 2011 21:05:07 +0000</saledate>
+    <price currency='USD'>47</price>
+    <condition>likenew</condition>
+    <notes>Item for jwoodall</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Sep 2011 03:34:01 +0000</listdate>
+    <saledate>Sat, 15 Oct 2011 20:44:11 +0000</saledate>
+    <price currency='USD'>47.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE 2ND EDITION: $47.95
+GMT Games [GMT 0709]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Sep 2011 16:59:13 +0000</listdate>
+    <saledate>Fri, 02 Sep 2011 18:56:47 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened and never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Sep 2011 22:59:26 +0000</listdate>
+    <saledate>Mon, 26 Sep 2011 21:50:12 +0000</saledate>
+    <price currency='USD'>44.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Oct 2011 16:13:36 +0000</listdate>
+    <saledate>Fri, 14 Oct 2011 13:48:29 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Oct 2011 21:20:39 +0000</listdate>
+    <saledate>Fri, 14 Oct 2011 14:54:55 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Opened to check contents only.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2011 12:44:26 +0000</listdate>
+    <saledate>Sat, 29 Oct 2011 10:30:47 +0000</saledate>
+    <price currency='EUR'>44</price>
+    <condition>likenew</condition>
+    <notes>never played</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Oct 2011 20:49:03 +0000</listdate>
+    <saledate>Sat, 24 Dec 2011 09:50:59 +0000</saledate>
+    <price currency='USD'>47.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE 2ND EDITION: $47.95
+GMT Games [GMT 0709]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Oct 2011 16:14:19 +0000</listdate>
+    <saledate>Tue, 29 Nov 2011 13:46:04 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>new</condition>
+    <notes>This is the 2008 Second Printing. This game is new in its original shrinkwrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Oct 2011 14:23:09 +0000</listdate>
+    <saledate>Wed, 14 Dec 2011 18:37:56 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>new</condition>
+    <notes>brand new - shrink wrapped
+ww shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Nov 2011 08:32:08 +0000</listdate>
+    <saledate>Tue, 04 Sep 2012 03:43:27 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jan 2012 08:55:04 +0000</listdate>
+    <saledate>Sat, 03 Mar 2012 19:46:18 +0000</saledate>
+    <price currency='EUR'>50.95</price>
+    <condition>likenew</condition>
+    <notes>engl. Version, fully sleeved
+Shipping to Germany €7 for insured, trackable Package.
+Shipping is €17 for insured, trackable package within the EU.
+Please ask for other shipping rates!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2012 13:16:51 +0000</listdate>
+    <saledate>Thu, 05 Jan 2012 00:44:57 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>In Shrink but has slight box wear. Second Edition.
+Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jan 2012 02:30:51 +0000</listdate>
+    <saledate>Fri, 03 Feb 2012 01:55:29 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>likenew</condition>
+    <notes>Punched, but unplayed, near mint. One card deck still in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jan 2012 01:42:58 +0000</listdate>
+    <saledate>Thu, 19 Jan 2012 03:31:57 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>Played a couple of times.  Also selling Med.  Comes from a smoke free home.  Buyer pays actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jan 2012 10:20:17 +0000</listdate>
+    <saledate>Thu, 19 Jan 2012 21:06:12 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2012 07:13:03 +0000</listdate>
+    <saledate>Thu, 09 Feb 2012 16:02:26 +0000</saledate>
+    <price currency='USD'>44.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Feb 2012 17:50:54 +0000</listdate>
+    <saledate>Thu, 23 Feb 2012 01:04:12 +0000</saledate>
+    <price currency='USD'>44.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Feb 2012 01:46:29 +0000</listdate>
+    <saledate>Sun, 18 Mar 2012 01:11:51 +0000</saledate>
+    <price currency='USD'>44.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Feb 2012 21:58:37 +0000</listdate>
+    <saledate>Thu, 12 Apr 2012 10:59:51 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>1st English GMT Edition, played only a couple of times.
+Parcel (upt to 2kg)
+Germany: 5€
+European Union: 11€
+Europe/USA/Canada: 17€
+Parcel (2-5 kg)
+Germany: 6€
+European Union: 15€
+Europe/USA/Canada: 34€
+All parcels will be send with tracking option.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Mar 2012 11:10:46 +0000</listdate>
+    <saledate>Sun, 30 Dec 2012 02:37:19 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE 2ND EDITION: $49.95
+GMT Games [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Mar 2012 05:09:33 +0000</listdate>
+    <saledate>Mon, 09 Apr 2012 15:29:38 +0000</saledate>
+    <price currency='USD'>44.9</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL BOXED EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Contact us for shipping rates and options.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Mar 2012 21:21:53 +0000</listdate>
+    <saledate>Sat, 28 Apr 2012 15:47:32 +0000</saledate>
+    <price currency='USD'>52.99</price>
+    <condition>new</condition>
+    <notes>GMT Games (GMT 0609)
+Combat Commander: Europe is a card-driven board game covering tactical infantry combat in the European Theater of World War II. One player takes the role of Germany while another player commands either America or Russia. These two players will take turns playing one or more “Fate” cards from their hands in order to activate units on the mapboard for various military functions.
+There is no strict sequence of play to follow in Combat Commander: each measure of game Time is divided into a variable number of player Turns, each of which may consist of one or more “Orders” conducted by the active player. “Actions” may generally be conducted by either player at any time. “Events” — both good and bad — will also occur at random intervals to add a bit of chaos and uncertainty to each player’s perfect plan.
+Orders include: Fire, Move, Advance, Recover, Rout, and Artillery functions. Each nationality also has a varying number of Command Confusion Orders which act as duds while in hand.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 May 2012 12:24:15 +0000</listdate>
+    <saledate>Thu, 19 Jul 2012 21:29:42 +0000</saledate>
+    <price currency='GBP'>109</price>
+    <condition>verygood</condition>
+    <notes>I am selling the following as a complete set only;
+CC: E
+CC: M
+Battle Pack #1 (Paratrooper); #2 (Stalingrad); #3 Normandy.
+The counters are all neatly trimmed and stored in 5 Chessex storage trays (included in the price). All components are in excellent condition including the fate decks which so no obvious signs of wear. 
+Postage and packing in the UK £12.00, rest of Europe £18.00.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 May 2012 07:08:05 +0000</listdate>
+    <saledate>Wed, 04 Jul 2012 18:00:02 +0000</saledate>
+    <price currency='USD'>124.94</price>
+    <condition>verygood</condition>
+    <notes>Package deal as below
+CC: E - Punched not clipped, box is mint
+CC: M - Punched not clipped, box is mint
+Paratroopers - mint
+Stalingrad - Punched not clipped, mint
+Normandy - Unpunched, mint
+All counters stored in CC: E box in 5 trays to be included.  All other components stored in CC: M box.  Punched but never played as all cards except for the German deck are in there shrink wrap.  Both boxes mint.  Would like to sell as a set as all counters are stored together.  Great deal on a huge amount of gaming goodness.  Worldwide shipping and will be packed well in a nice big box.  All forms of negotiable instruments considered.  </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 May 2012 12:38:16 +0000</listdate>
+    <saledate>Thu, 31 May 2012 01:09:52 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>good</condition>
+    <notes>this is a bundle CC : E,  CC: P and New Guinea Battle Pack #4
+ONLY FOR JOSHUA GOTTESMAN
+please paypay me at chuck.tewksbury@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jul 2012 16:59:22 +0000</listdate>
+    <saledate>Wed, 01 Aug 2012 06:50:31 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This is the 2nd printing (with the firmer cards).  The game is in great condition, and includes glossy tuckboxes and two Chessex chit trays, plus a few bonus player aids.  Pics can be provided should you want them.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jul 2012 16:50:54 +0000</listdate>
+    <saledate>Thu, 13 Sep 2012 05:18:15 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Combat Commander: Europe 2006 first edition – punched with 4 chessex counter trays, two out of three card decks are still shrink wrapped. I will ship priority mail for free</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jul 2012 16:54:22 +0000</listdate>
+    <saledate>Tue, 17 Jul 2012 17:24:37 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>For Farsol from the I Have No Reason for Selling These Games auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Aug 2012 01:26:18 +0000</listdate>
+    <saledate>Fri, 10 Aug 2012 02:37:38 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Auction win for BlueDane</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Aug 2012 14:25:54 +0000</listdate>
+    <saledate>Mon, 27 Aug 2012 15:24:29 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>I have a MINT like new copy of Combat Commander: Europe. Also attached to this sale are photocopies I took of optional rules that GMT had printed in C3i issue #21 and of course the counters given in that issue to use the optional rules are given here as well. (and also the additional scenario map #18).
+Everything is mint, from maps to box, to cards etc.
+Counters have all been neatly and uniformly clipped and will be housed in 3 GMT counter trays.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Sep 2012 16:34:25 +0000</listdate>
+    <saledate>Tue, 04 Sep 2012 04:39:40 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Complete. New except I removed the shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Sep 2012 04:23:30 +0000</listdate>
+    <saledate>Tue, 04 Sep 2012 15:26:54 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Calandale</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Sep 2012 14:44:42 +0000</listdate>
+    <saledate>Tue, 11 Sep 2012 21:47:17 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>For RandomOne only, pickup in Chicago</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Sep 2012 15:30:31 +0000</listdate>
+    <saledate>Mon, 24 Sep 2012 01:54:21 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Cards in shrink; first edition/printing.  Rules have been read and backfolded.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Sep 2012 15:20:00 +0000</listdate>
+    <saledate>Mon, 17 Sep 2012 13:22:14 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner (ClarenceBeeks)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Sep 2012 21:17:11 +0000</listdate>
+    <saledate>Sat, 29 Sep 2012 17:22:57 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Box and components are in excellent condition. Game was rarely played. Everything is stored in 3 GMT counter trays. Shipping by USPC Priority.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Oct 2012 00:31:39 +0000</listdate>
+    <saledate>Sat, 06 Oct 2012 02:06:07 +0000</saledate>
+    <price currency='USD'>199</price>
+    <condition>verygood</condition>
+    <notes>This is for games won in an auction as follows:
+Combat Commander: Europe
+Summoner Wars Lot (8 factions with expansions, 2 premium boards)
+Labyrinth: The War on Terror
+Neuroshima Hex
+Defenders of the Realm
+Dungeonquest</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Oct 2012 00:02:56 +0000</listdate>
+    <saledate>Fri, 15 Mar 2013 20:14:31 +0000</saledate>
+    <price currency='USD'>44.99</price>
+    <condition>likenew</condition>
+    <notes>in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Oct 2012 15:55:01 +0000</listdate>
+    <saledate>Mon, 22 Oct 2012 02:11:32 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Played once; game is complete and in excellent condition. Cards sleeved. Chits bagged. Shipping looks like 6 lbs., but you pay only the exact cost. The closer you are to suburban Philly, PA the cheaper shipping will be. (From Philly area to west coast would be app. $15 via Parcel Post.) </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Nov 2012 17:01:36 +0000</listdate>
+    <saledate>Fri, 12 Apr 2013 21:12:22 +0000</saledate>
+    <price currency='USD'>220</price>
+    <condition>verygood</condition>
+    <notes>This is for all Combat Commander materials currently released by GMT.  This lot includes:
+Combat commander
+Combat commander Mediterranean
+Combat commander pacific
+Combat commander resistance
+All Combat commander Battle pack numbers 1,2,3,4
+Combat commander scenarios from C3i
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Nov 2012 07:55:02 +0000</listdate>
+    <saledate>Thu, 08 Nov 2012 20:39:46 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Auction win for swpopper</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Nov 2012 18:10:42 +0000</listdate>
+    <saledate>Fri, 15 Feb 2013 00:32:15 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>verygood</condition>
+    <notes>1st edition, complete.  Cards are sleeved.  Counters sorted in a counter tray. Box has some shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Dec 2012 10:20:13 +0000</listdate>
+    <saledate>Sat, 12 Jan 2013 11:41:00 +0000</saledate>
+    <price currency='GBP'>59.99</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink-wrap, sealed, and shipped from the UK. Buy in confidence from the UK_T_E_M_P_T_A_G_#039;s longest established specialist games shop.
+Shipping within the UK is £7.99. For other European countries please get in touch for a quote. If buying multiple items please contact us for a discounted shipping quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jan 2013 16:52:26 +0000</listdate>
+    <saledate>Thu, 31 Jan 2013 02:29:14 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>excellent condition; unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jan 2013 17:18:52 +0000</listdate>
+    <saledate>Tue, 15 Jan 2013 13:48:44 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>new</condition>
+    <notes>New in shrink 2008 second printing. The box has a very minor scratch on the front cover (see photos below). 
+I will charge exact shipping via USPS Priority Mail (unless you prefer a different method) from 80004. 
+Paypal only please.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Jan 2013 20:27:15 +0000</listdate>
+    <saledate>Sat, 19 Jan 2013 17:47:21 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>verygood</condition>
+    <notes>95% Unpunched.  Excellent condition.  Contains extra set of cards still in shrinkwrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Jan 2013 02:37:33 +0000</listdate>
+    <saledate>Thu, 31 Jan 2013 04:09:17 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Punched but never played.  Includes 3 GMT trays.
+Reserved for Gabe Westmont.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Feb 2013 02:03:17 +0000</listdate>
+    <saledate>Sat, 07 Dec 2013 17:39:08 +0000</saledate>
+    <price currency='USD'>45.95</price>
+    <condition>likenew</condition>
+    <notes>opened but never been played</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Feb 2013 03:44:51 +0000</listdate>
+    <saledate>Sat, 02 Mar 2013 04:06:45 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Punched but never played.  Nothing missing or damaged.  All counters are neatly sorted in a GMT style counter tray.  Box has no splits, dings, or dents.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Feb 2013 21:14:37 +0000</listdate>
+    <saledate>Fri, 11 Oct 2013 14:14:29 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Feb 2013 14:53:09 +0000</listdate>
+    <saledate>Sat, 14 Dec 2013 16:39:09 +0000</saledate>
+    <price currency='USD'>52.99</price>
+    <condition>new</condition>
+    <notes>GMT Games (GMT0609)
+Combat Commander: Europe is a card-driven board game covering tactical infantry combat in the European Theater of World War II. One player takes the role of Germany while another player commands either America or Russia. These two players will take turns playing one or more _T_E_M_P_T_A_G_quot;Fate_T_E_M_P_T_A_G_quot; cards from their hands in order to activate units on the mapboard for various military functions. There is no strict sequence of play to follow in Combat Commander: each measure of game Time is divided into a variable number of player Turns, each of which may consist of one or more _T_E_M_P_T_A_G_quot;Orders_T_E_M_P_T_A_G_quot; conducted by the active player. _T_E_M_P_T_A_G_quot;Actions_T_E_M_P_T_A_G_quot; may generally be conducted by either player at any time. _T_E_M_P_T_A_G_quot;Events_T_E_M_P_T_A_G_quot; - both good and bad - will also occur at random intervals to add a bit of chaos and uncertainty to each player_T_E_M_P_T_A_G_#039;s perfect plan. Orders include: Fire, Move, Advance, Recover, Rout, and Artillery functions. Each nationality also has a varying number of Command Confusion Orders which act as duds while in hand. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Feb 2013 10:47:39 +0000</listdate>
+    <saledate>Sun, 03 Mar 2013 20:20:49 +0000</saledate>
+    <price currency='GBP'>33.99</price>
+    <condition>verygood</condition>
+    <notes>Played once. Box and all components are in like new condition. There is a fold on the cover of the rules.
+UK postage £5.99</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Mar 2013 12:14:49 +0000</listdate>
+    <saledate>Sun, 03 Mar 2013 14:07:50 +0000</saledate>
+    <price currency='GBP'>78</price>
+    <condition>likenew</condition>
+    <notes>Not for general sale. Multi auction win for coralsaw.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Mar 2013 15:14:28 +0000</listdate>
+    <saledate>Fri, 29 Mar 2013 17:31:46 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>Rserved for BobbyP</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Apr 2013 03:26:30 +0000</listdate>
+    <saledate>Sat, 04 May 2013 00:31:09 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>GMT 2006 first edition. Game is complete, played a couple of times, and very few units punched.  Box has very minor shelf scuffing.  Comes from a non-smoking household.
+USPS priority mail shipping is $11
+Buyer pays shipping cost on top of the listed amount.
+Game sold as is and no returns.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 May 2013 02:30:18 +0000</listdate>
+    <saledate>Tue, 06 Aug 2013 17:44:36 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE 2ND EDITION: $49.95
+GMT Games [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 May 2013 00:22:27 +0000</listdate>
+    <saledate>Tue, 02 Jul 2013 15:56:16 +0000</saledate>
+    <price currency='USD'>47.94</price>
+    <condition>new</condition>
+    <notes>Shrinkwrap condition. First printing. No box damage. One small hole in the shrink on the face of the box. Popular series at a good price. Worldwide shipping and will be packed well. All forms of negotiable instruments considered. Combine ship on multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 May 2013 22:27:26 +0000</listdate>
+    <saledate>Sat, 18 May 2013 19:29:20 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>Game is for: docandy31</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 May 2013 15:08:29 +0000</listdate>
+    <saledate>Fri, 31 May 2013 21:48:33 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>reserved for (hegel325)
+Includes CC:E and fury in the east
+shipping: 12.97+2
+Total: 54.97</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Jun 2013 04:41:33 +0000</listdate>
+    <saledate>Tue, 11 Jun 2013 21:16:02 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>Punched but never played.  Nothing missing or damaged.  All counters are neatly sorted in a GMT style counter tray.  Box has no splits, dings, or dents.
+$12 shipping in the US</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Jun 2013 11:29:30 +0000</listdate>
+    <saledate>Tue, 25 Jun 2013 19:58:57 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>good</condition>
+    <notes>A listing for a good condition edition of Combat Commander: Europe. The contents are complete and all the components have been well looked after. All three fate decks have been sleeved since opening as well as all the large card sheets. The original owner has cut the victory track to fit into two separate sleeves. Only very light box wear and some slight creasing on a single map and the rulebook. The rulebook is the second edition so has all the updates. The chit tray is present and good condition. Shipping will be £5 for the UK and £7 for Europe.
+Thanks
+Seb</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Jun 2013 00:45:34 +0000</listdate>
+    <saledate>Fri, 14 Jun 2013 01:02:33 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>This listing is for Metal Slayer only.  This listing is for both Combat Commander: Europe and Combat Commander: Pacific.
+Shipping will be $16</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Jun 2013 21:41:03 +0000</listdate>
+    <saledate>Fri, 05 Jul 2013 04:21:01 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>1st edition. Units bagged </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Jun 2013 17:01:10 +0000</listdate>
+    <saledate>Sun, 20 Oct 2013 01:37:17 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Game was opened once and all components are in plastic baggies</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jul 2013 09:11:41 +0000</listdate>
+    <saledate>Tue, 20 Aug 2013 16:04:06 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>likenew</condition>
+    <notes>unpunched, cards still sealed.
+USA Shipping will probably be best with priority mail flat rate $12.35 unless you are close to California then maybe less. Economy post will be about $5
+ </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jul 2013 11:58:32 +0000</listdate>
+    <saledate>Tue, 20 Aug 2013 05:05:51 +0000</saledate>
+    <price currency='USD'>44.94</price>
+    <condition>likenew</condition>
+    <notes>Unpunched.  Cards still in shrinkwrap.  2006 printing unplayed and unused.  This title while still easy to find is now out of print.  Get it while the pricing remains cheap.  Box is square and straight with 4 tight corners.  One very small corner budge.  Some minor edge wear.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Jul 2013 16:21:53 +0000</listdate>
+    <saledate>Mon, 29 Sep 2014 08:57:48 +0000</saledate>
+    <price currency='EUR'>61.9</price>
+    <condition>new</condition>
+    <notes>Versand innerhalb Deutschlands kostet 5,00 €.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Aug 2013 15:51:16 +0000</listdate>
+    <saledate>Mon, 05 Aug 2013 22:26:13 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Chart, maps and player_T_E_M_P_T_A_G_#039;s aid in pristine condition.  Some highlighting on the Rule Book.  The German and Russian cards still in factory seal.  Comes with two GMT counter trays shown (see photo)
+Let me know if you want insurance.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Aug 2013 13:03:30 +0000</listdate>
+    <saledate>Wed, 09 Oct 2013 16:01:46 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>Opened, never played</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Aug 2013 16:01:01 +0000</listdate>
+    <saledate>Wed, 28 Aug 2013 19:33:36 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>Auction Item reserved for user nefftron</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Aug 2013 05:25:28 +0000</listdate>
+    <saledate>Wed, 11 Sep 2013 15:45:21 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>likenew</condition>
+    <notes>90% Unpunched. 100% complete. Every counter present.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Sep 2013 01:42:28 +0000</listdate>
+    <saledate>Fri, 06 Sep 2013 00:25:23 +0000</saledate>
+    <price currency='USD'>150</price>
+    <condition>likenew</condition>
+    <notes>Punched but unplayed. Smoke free home. Buyer pays shipping costs. Will ship USPS Priority, FedEx or UPS. Please purchase only if willing to pay via PayPal.
+CC:Europe
+CC:Med
+CC:Pacific
+CC:Paratroopers (Battle Pack 1)
+CC:Stalingrad (Battle Pack 2)
+CC:Normandy (Battle Pack 3)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Sep 2013 12:43:01 +0000</listdate>
+    <saledate>Mon, 16 Sep 2013 07:17:19 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>played scenarios once , some random scenarios.
+want to sell to buy other games
+Thi is the 2008 version.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Nov 2013 20:03:09 +0000</listdate>
+    <saledate>Sun, 10 Nov 2013 21:03:49 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE 2ND EDITION: $49.95
+GMT Games [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Nov 2013 02:23:38 +0000</listdate>
+    <saledate>Sun, 17 Nov 2013 05:41:53 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE 2ND EDITION: $49.95
+GMT Games [GMT 0609]
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Dec 2013 23:28:03 +0000</listdate>
+    <saledate>Mon, 27 Jan 2014 13:51:47 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition.
+Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Dec 2013 21:30:54 +0000</listdate>
+    <saledate>Sat, 28 Dec 2013 19:30:32 +0000</saledate>
+    <price currency='USD'>48.94</price>
+    <condition>new</condition>
+    <notes>Shrinkwrap copy.  No box damage.  No holes in the shrink.  Brand new copy of the 2008 second printing.  Nice price here.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Dec 2013 13:03:39 +0000</listdate>
+    <saledate>Tue, 07 Jan 2014 21:25:55 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>verygood</condition>
+    <notes>Played 2 times. Very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Jan 2014 22:06:24 +0000</listdate>
+    <saledate>Fri, 24 Jan 2014 22:54:19 +0000</saledate>
+    <price currency='GBP'>38</price>
+    <condition>likenew</condition>
+    <notes>Game played once and is in excellent condition.
+Shipping with MyHermes is £3.90 (2-day delivery)
+Will only ship to UK addresses</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Jan 2014 14:34:00 +0000</listdate>
+    <saledate>Tue, 04 Feb 2014 17:43:31 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Unplayed, counters are unpunched.  Cards are removed from shrink but bagged and in mint condition.  This is the 2nd printing.
+Shipping to U.S. addresses only. Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Feb 2014 00:16:50 +0000</listdate>
+    <saledate>Thu, 13 Feb 2014 23:18:36 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: $49.95
+GMT Games [GMT 0609-13]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Feb 2014 19:08:15 +0000</listdate>
+    <saledate>Sat, 03 May 2014 07:28:31 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: $49.95
+GMT Games [GMT 0609-13]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Mar 2014 19:59:06 +0000</listdate>
+    <saledate>Sat, 08 Mar 2014 20:04:54 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Auction win for flyintheoil only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Apr 2014 21:15:51 +0000</listdate>
+    <saledate>Sat, 05 Apr 2014 19:19:49 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 May 2014 15:02:51 +0000</listdate>
+    <saledate>Tue, 06 May 2014 19:23:43 +0000</saledate>
+    <price currency='EUR'>61.9</price>
+    <condition>new</condition>
+    <notes>Versand innerhalb Deutschlands kostet 5,00 €.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 May 2014 15:53:06 +0000</listdate>
+    <saledate>Sun, 20 Jul 2014 00:27:04 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: $49.95
+GMT Games [GMT 0609-13]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 May 2014 22:12:08 +0000</listdate>
+    <saledate>Tue, 03 Jun 2014 15:37:21 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened, but un punched. No damage.
+£5 postage UK
+Europe to be worked out.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Jul 2014 18:05:16 +0000</listdate>
+    <saledate>Wed, 03 Sep 2014 23:00:42 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Sorted but never played.  Includes some deck boxes.
+Buyer pays actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Aug 2014 10:50:51 +0000</listdate>
+    <saledate>Tue, 02 Sep 2014 22:50:08 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Played Once. Partially Punched. Otherwise perfect.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Aug 2014 02:45:56 +0000</listdate>
+    <saledate>Sat, 23 Aug 2014 02:29:01 +0000</saledate>
+    <price currency='AUD'>50</price>
+    <condition>likenew</condition>
+    <notes>Box and all components in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Aug 2014 19:14:19 +0000</listdate>
+    <saledate>Tue, 12 Aug 2014 22:36:38 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>Super.  Unpunched unplayed excellent condition game.
+Shipping extra, insurance etc at buyers cost if desired.
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Aug 2014 15:30:30 +0000</listdate>
+    <saledate>Sun, 17 Aug 2014 20:11:48 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>This has been opened, but played only once. It is in excellent condition, and most of the counters are still unpunched. Shipping is $15.00 for USPS priority mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Oct 2014 18:46:45 +0000</listdate>
+    <saledate>Wed, 08 Oct 2014 20:42:47 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>likenew</condition>
+    <notes>Game never played and in excellent condition. Counters neatly corner trimmed and stored in ziplocks.
+Postage to address in the UK = £7.00, rest of Europe £11.00</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Oct 2014 07:34:06 +0000</listdate>
+    <saledate>Thu, 09 Oct 2014 11:46:08 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>For the winner of the C3i #21 auction - this is for that issue - in my BIG House-Clearing auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jun 2014 03:37:42 +0000</listdate>
+    <saledate>Sun, 16 Nov 2014 16:47:49 +0000</saledate>
+    <price currency='USD'>52.49</price>
+    <condition>new</condition>
+    <notes>GMT Games (GMT0609)
+Combat Commander: Europe is a card-driven board game covering tactical infantry combat in the European Theater of World War II. One player takes the role of Germany while another player commands either America or Russia. These two players will take turns playing one or more _T_E_M_P_T_A_G_quot;Fate_T_E_M_P_T_A_G_quot; cards from their hands in order to activate units on the mapboard for various military functions. There is no strict sequence of play to follow in Combat Commander: each measure of game Time is divided into a variable number of player Turns, each of which may consist of one or more _T_E_M_P_T_A_G_quot;Orders_T_E_M_P_T_A_G_quot; conducted by the active player. _T_E_M_P_T_A_G_quot;Actions_T_E_M_P_T_A_G_quot; may generally be conducted by either player at any time. _T_E_M_P_T_A_G_quot;Events_T_E_M_P_T_A_G_quot; - both good and bad - will also occur at random intervals to add a bit of chaos and uncertainty to each player_T_E_M_P_T_A_G_#039;s perfect plan. Orders include: Fire, Move, Advance, Recover, Rout, and Artillery functions. Each nationality also has a varying number of Command Confusion Orders which act as duds while in hand. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Nov 2014 04:17:17 +0000</listdate>
+    <saledate>Thu, 05 Feb 2015 23:18:34 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>new</condition>
+    <notes>Brand New!
+FYI: A couple very light corner dings. Cosmetic only.
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a contiguous USA street address: $12.99</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Feb 2015 20:41:14 +0000</listdate>
+    <saledate>Tue, 10 Feb 2015 22:41:27 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Feb 2015 19:36:38 +0000</listdate>
+    <saledate>Thu, 26 Feb 2015 01:16:02 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>counters punched and trayed. very clean.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Feb 2015 11:52:26 +0000</listdate>
+    <saledate>Mon, 02 Mar 2015 02:39:07 +0000</saledate>
+    <price currency='EUR'>200</price>
+    <condition>likenew</condition>
+    <notes>• Combat Commander – I bought new for Euros 420 – would like to sell as a lot for Euros 200
+o Combat Commander Europe                                             (punched, played twice)
+o Combat Commander Mediterranean                                (mint)
+o Combat Commander Pacific                                              (punched, not played)
+o Combat Commander Resistance                          (mint)
+o Combat Commander Paratroopers           Battlepack 1  (mint)
+o Combat Commander Stalingrad  Battlepack 2  (mint)
+o Combat Commander Normandy   Battlepack 3  (mint)
+o Combat Commander New Guinea           Battlepack 4  (mint)
+o Combat Commander Fall of the West      Battlepack 5  (mint)
+o Combat Commander Sea Lion                  Battlepack 6  (mint)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Feb 2015 22:31:52 +0000</listdate>
+    <saledate>Thu, 05 Mar 2015 16:42:04 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This copy of Combat Commander: Europe includes the following expansions (all in the original CC: Europe box:
+   - CC: Mediterranean
+   - CC: Stalingrad
+   - CC: Normandy
+All components are punched/unwrapped/bagged, but all pieces and cards are accounted for and in MINT condition.  This game has never been played.
+Buyer pays $15 shipping (USPS Priority Mail).  International is extra, please ask for a quote.
+Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Dec 2014 15:26:17 +0000</listdate>
+    <saledate>Mon, 09 Mar 2015 19:00:06 +0000</saledate>
+    <price currency='EUR'>64.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Feb 2015 16:58:35 +0000</listdate>
+    <saledate>Thu, 12 Mar 2015 01:39:29 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>new</condition>
+    <notes>*** With every sale we donate a percentage to the Veterans Support Foundation (including this sale). ***
+Wargame Depot has donated over $7,000 to this wonderful cause thanks, largely, to the wonderful Boardgamegeek community. Thank you so much for your continued support of Wargame Depot which has allowed us to give generously to the VSF.
+Mint, in shrink copy available.  No dings, no dents, or anything wrong with the game.  Non-smoking environment and kept in a humidity-controlled location.
+$12 shipping to continental US - write me for a quote to the rest of the world.
+I_T_E_M_P_T_A_G_#039;m the owner of Wargame Depot so a purchase from me will always be packed professionally and I can accept Paypal, MO/Check, or MC/Visa/Discover.
+And if you want this game plus anything else that I am selling on BGG, I_T_E_M_P_T_A_G_#039;ll of course be happy to add other items on in order to save you on shipping!
+North Carolina residents pay 7% sales tax.
+Cheers,
+Jason</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Jul 2014 00:41:59 +0000</listdate>
+    <saledate>Sun, 15 Mar 2015 01:19:47 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: $49.95
+GMT Games [GMT 0609-13]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Dec 2014 21:56:02 +0000</listdate>
+    <saledate>Tue, 17 Mar 2015 00:17:29 +0000</saledate>
+    <price currency='USD'>225</price>
+    <condition>verygood</condition>
+    <notes>Combat Commander Collection
+Includes the following:
+Combat Commander: Europe
+Combat Commander: Mediterranean
+Combat Commander: Pacific
+Combat Commander: Resistance!
+Combat Commander: Battle Pack #1 – Paratroopers
+Combat Commander: Battle Pack #2 – Stalingrad
+Combat Commander: Battle Pack #3 – Normandy
+Combat Commander: Battle Pack #4 – New Guinea
+Additional Combat Commander material from C3I.
+Punched, carefully clipped and stored in trays.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Mar 2015 01:27:09 +0000</listdate>
+    <saledate>Wed, 18 Mar 2015 15:45:25 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Punched</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Mar 2015 12:38:10 +0000</listdate>
+    <saledate>Thu, 19 Mar 2015 10:22:30 +0000</saledate>
+    <price currency='GBP'>38</price>
+    <condition>verygood</condition>
+    <notes>Due to my boardgames being stored in Germany, I can only send out the game requested on 7th April. 
+Shipping UK  £6, shipping Germany 7 Euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Mar 2015 03:06:34 +0000</listdate>
+    <saledate>Sat, 04 Apr 2015 02:58:34 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: $49.95
+GMT Games [GMT 0609-13]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Nov 2014 15:39:11 +0000</listdate>
+    <saledate>Wed, 15 Apr 2015 16:56:26 +0000</saledate>
+    <price currency='USD'>41.99</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Mar 2015 03:06:34 +0000</listdate>
+    <saledate>Sun, 19 Apr 2015 17:06:50 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: $49.95
+GMT Games [GMT 0609-13]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Oct 2014 21:46:21 +0000</listdate>
+    <saledate>Wed, 29 Apr 2015 17:34:57 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Great condition. Never played cards in shrinks and counters not punched.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Mar 2015 19:02:55 +0000</listdate>
+    <saledate>Sun, 03 May 2015 09:21:31 +0000</saledate>
+    <price currency='EUR'>64.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Apr 2015 15:08:26 +0000</listdate>
+    <saledate>Tue, 05 May 2015 09:29:22 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>verygood</condition>
+    <notes>Both CC: Europe plus CC: Mediterranean. Cards sleeved in Dragonshields (Italy _T_E_M_P_T_A_G_amp; France still in shrink), counters clipped and in counter trays. All is in excellent condition, hardly used. Non-smoking household, no pets.
+Postage to UK £7 using CollectPlus.   Too heavy for Europe, would cost over £20.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Apr 2015 21:03:48 +0000</listdate>
+    <saledate>Wed, 13 May 2015 12:41:04 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>verygood</condition>
+    <notes>This is for:
+Combat Commander: Europe
+Combat Commander: Mediterranean
+Combat Commander: Battle Pack #1 - Paratroopers
+Combat Commander: Battle Pack #2 - Stalingrad
+Scenarios 101 through 112 from C3I magazine
+All of the counters are clipped and sorted in GMT counter trays.
+All of the card decks are in sleeves and card boxes.
+The scenarios are in a binder in protective sheets.
+Shipping will be $15 to anywhere in the US.
+If you purchase any other expansion that I am selling it will ship for free with this lot.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Jun 2015 16:26:44 +0000</listdate>
+    <saledate>Sat, 06 Jun 2015 15:08:52 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>likenew</condition>
+    <notes>Well cared for and complete. INCLUDES COMBAT COMMANDER MEDITERRANEAN AND ASSORTMENT OF BATTLE PACKS. Honestly can_T_E_M_P_T_A_G_#039;t tell which ones are here any more, but there_T_E_M_P_T_A_G_#039;s at least 2 or 3. 
+Will only post to UK and Europe.
+Postage in mainland UK is £5, elsewhere is more, though typically around £20 for heavy games (contact me for a quote).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Apr 2015 01:33:03 +0000</listdate>
+    <saledate>Mon, 06 Jul 2015 15:14:28 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>likenew</condition>
+    <notes>Components are complete and in like-new, unused condition.  Counters are unpunched.  Box has moderate shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Jul 2015 07:16:06 +0000</listdate>
+    <saledate>Sun, 12 Jul 2015 13:38:42 +0000</saledate>
+    <price currency='GBP'>42</price>
+    <condition>verygood</condition>
+    <notes>£5 postage to UK.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jul 2015 00:47:50 +0000</listdate>
+    <saledate>Mon, 13 Jul 2015 16:34:57 +0000</saledate>
+    <price currency='CAD'>65</price>
+    <condition>likenew</condition>
+    <notes>For user: JayF</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Jul 2015 15:31:37 +0000</listdate>
+    <saledate>Wed, 22 Jul 2015 20:30:19 +0000</saledate>
+    <price currency='USD'>110</price>
+    <condition>verygood</condition>
+    <notes>Combat Commander: Europe, Mediterranean, Battle Packs
+Shipping is $15 US to the US, Canadian buyers message me for a quote in Can$, shipping will be about $12 Can$
+Europe box
+Mediterranean box
+Rulebook 1.0, 1.1
+Europe Playbook
+Mediterranean Playbook
+Battle Pack #2, #3, Playbooks
+Chart
+Scenarios not in the playbooks (includes some C3i):
+25a Fields of Fire/Blood
+26 Turnbull Turns _T_E_M_P_T_A_G_#039;Em
+27 Carentan Causeway
+28 No Ingouf Around
+29 Operation Repulse
+30 Red Skies at Night
+31 Blizzard Baptism
+32 Look Mom, No Tanks!
+33 We Go
+34 Encircled at Hill 30
+35 Spartarovka Salient
+36 Sea Devils
+37 Dom 31
+38 Not One Step Back!
+39 Fortresses of Blood and Iron
+40 Into the Breach
+41 The Commissar House
+42 Rumanian Defiance
+43 Lyudnikov_T_E_M_P_T_A_G_#039;s Island
+44 Stalingrad of the North
+45 Stand and Die
+46 Pegasus Bridge
+47a/b Taking the Point
+48 Widerstandsnest 61
+49 Mazed and Confused
+50 This man was good
+51 The uneasy wait
+52 the new highlanders
+53 Deeds not words
+54 East by Northwest
+55 Graveyard of the north shores
+56 29, Let_T_E_M_P_T_A_G_#039;s Go!
+57 Bingham Must Hold
+58 Compagnie Scamaroni
+59 Cheux_T_E_M_P_T_A_G_#039;d Up
+60 Old Hickory Resolute
+61 Surrender is out of the question
+101 Rubble-Rousers
+102 Night Shift
+103 Varisty Blues
+104 Go For Broke
+105 La Fiere Counterattack
+106 The Lost Battalion
+107 Operation Deadstick
+108 In my time of Dying
+109 Escape is Everything
+110 Arctic Assault
+Maps
+1/4 
+2/3
+5/8
+6/7
+9/12
+10/11
+13/14
+15/16
+17/18
+19/20
+21/22
+23/24
+25/26
+27/28
+18/29
+30/31
+32/33
+34/35
+36/37
+38/39
+40/41
+42/43
+44/45
+I did not inventory the cards or counters, lots of them</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Jul 2015 21:22:26 +0000</listdate>
+    <saledate>Wed, 29 Jul 2015 01:50:42 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This item is reserved for: Ash83al</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jul 2015 17:53:24 +0000</listdate>
+    <saledate>Thu, 30 Jul 2015 23:56:03 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>For auction winner eastwoodk.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Aug 2015 19:25:52 +0000</listdate>
+    <saledate>Thu, 20 Aug 2015 20:55:30 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>verygood</condition>
+    <notes>In great condition. All pieces bagged and accounted for.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Sep 2015 19:15:14 +0000</listdate>
+    <saledate>Tue, 08 Sep 2015 08:17:12 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>GMT edition.
+Contact me for shipping cost outside UE.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Sep 2015 16:14:23 +0000</listdate>
+    <saledate>Fri, 25 Sep 2015 18:18:47 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Am reducing my collection of games I_T_E_M_P_T_A_G_#039;m not likely to play.  Game is complete; 2/3 of counters are punched and sorted into counter trays, 1/3 un-punched; cards in great shape but removed from shrink wrap.  Shipping most likely USPS medium flat-rate Priority Mail due to size and weight of box.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Sep 2015 20:27:28 +0000</listdate>
+    <saledate>Sun, 27 Sep 2015 13:49:13 +0000</saledate>
+    <price currency='EUR'>62.5</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Sep 2015 17:01:37 +0000</listdate>
+    <saledate>Thu, 01 Oct 2015 08:57:30 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>Game like new. Played only once.
+Will ship worlwide. Shipping costs incl. tracking and insurance:  5 EUR for France, 10 EUR in the EU, please ask for other countries.
+Payment via paypal only.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Sep 2015 23:02:47 +0000</listdate>
+    <saledate>Sat, 03 Oct 2015 08:29:27 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Game has been opened.  Some of the cards were opened and examined and the pieces for the first scenario were punched.  Other than that, game is unused.  
+Never played.  
+I do combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Oct 2015 19:29:37 +0000</listdate>
+    <saledate>Wed, 07 Oct 2015 22:42:35 +0000</saledate>
+    <price currency='EUR'>48</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194495/item/4180836#4180836]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2015 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Sep 2015 01:26:10 +0000</listdate>
+    <saledate>Mon, 26 Oct 2015 02:08:11 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>new</condition>
+    <notes>Still in original shrink.  Box has no dings or dents.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Nov 2015 23:35:44 +0000</listdate>
+    <saledate>Mon, 02 Nov 2015 18:51:31 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Entry for user mdkiria who had the winning bid in my auction</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Nov 2015 02:01:51 +0000</listdate>
+    <saledate>Tue, 17 Nov 2015 10:16:36 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>This item is for Durend for the winning bid in the Boardgame and wargame auction - ends 11/15.  Shipping will be $12.65.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Feb 2015 13:49:12 +0000</listdate>
+    <saledate>Mon, 30 Nov 2015 01:16:44 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Played once, the only counters punched were the ones for the introductory scenario.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Nov 2015 01:25:33 +0000</listdate>
+    <saledate>Mon, 14 Dec 2015 17:26:49 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Never played - only shrink wrap removed. Game in brand new, mint condition.  Un-punched components.  Box in mint condition also.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Dec 2015 04:38:33 +0000</listdate>
+    <saledate>Wed, 16 Dec 2015 04:49:38 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Not for sale, auction item</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Dec 2015 18:50:05 +0000</listdate>
+    <saledate>Tue, 22 Dec 2015 19:58:09 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/201049/item/4322493#4322493]Item for Geeklist _T_E_M_P_T_A_G_quot;Huge Holiday Auction! (Ends 12/21) US Only _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jan 2016 09:49:25 +0000</listdate>
+    <saledate>Fri, 15 Jan 2016 21:34:29 +0000</saledate>
+    <price currency='GBP'>38</price>
+    <condition>verygood</condition>
+    <notes>The whole game is in very good condition including the counters being nicely sorted out into two useful counter trays that sit well in the box. One blemish is a small coffee stain on the rulesbook front page. It is about an inch by two inches. Other than that a very worthwhile price. I have not shown postage in case prospective buyer wishes to combine with Combat Commander stuff I have for sale and then I will get a combined price. I am located in North Kent so I am happy with any pick up someone might wish to do instead.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Dec 2015 18:30:44 +0000</listdate>
+    <saledate>Mon, 25 Jan 2016 22:15:36 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>verygood</condition>
+    <notes>Played several times, nicely clipped (see picture).  Game is complete and everything is in excellent condition.
+$12 shipping to ConUS.
+Please geekmail me with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jan 2016 11:20:40 +0000</listdate>
+    <saledate>Wed, 27 Jan 2016 15:55:05 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>likenew</condition>
+    <notes>Not fully punched. Too complex for me.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Feb 2016 16:49:04 +0000</listdate>
+    <saledate>Mon, 08 Feb 2016 11:28:09 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Shrink removed, but unplayed.  Cards still in shrink.  Player aids have been laminated.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Feb 2016 01:11:55 +0000</listdate>
+    <saledate>Sat, 13 Feb 2016 01:33:32 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>For joestin only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Feb 2016 13:06:42 +0000</listdate>
+    <saledate>Sun, 14 Feb 2016 10:07:58 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>Unpunched, perfect,  like new.
+Contact me for shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Feb 2016 18:06:14 +0000</listdate>
+    <saledate>Fri, 19 Feb 2016 18:10:01 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Oddtime.
+Combat Commander + Paths of Glory</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Feb 2016 02:38:58 +0000</listdate>
+    <saledate>Mon, 22 Feb 2016 02:50:02 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205063/item/4451943#4451943]Item for Geeklist _T_E_M_P_T_A_G_quot;Spring Cleaning Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Mar 2016 01:39:20 +0000</listdate>
+    <saledate>Sun, 20 Mar 2016 20:40:46 +0000</saledate>
+    <price currency='AUD'>140</price>
+    <condition>verygood</condition>
+    <notes>*Reserved to Gavroche
+Excellent condition and punched.
+Includes Combat Commander: Volume II - Mediterranean. Cover of Volume II shows some wear (refer photos).
+Includes maps and counters from:
+- Combat Commander: Resistance! (2011) 
+- Combat Commander: Battle Pack #2 – Stalingrad (2008) 
+- Combat Commander: Battle Pack #3 – Normandy (2010) 
+- Combat Commander: Battle Pack #5 – The Fall of the West (2013) 
+- Combat Commander: Battle Pack #6 – Sea Lion (2014) 
+Includes 4 GMT counter trays.
+Buyer pays postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Aug 2015 10:01:00 +0000</listdate>
+    <saledate>Mon, 21 Mar 2016 20:16:31 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>Includes the Paratrooper expansion. Counters nicely trimmed.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Mar 2016 16:18:29 +0000</listdate>
+    <saledate>Sun, 27 Mar 2016 13:07:46 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Punched, unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Apr 2016 19:58:47 +0000</listdate>
+    <saledate>Mon, 11 Apr 2016 20:59:42 +0000</saledate>
+    <price currency='CAD'>50</price>
+    <condition>verygood</condition>
+    <notes>********* Reserved for BGG user sarum, from the rare and non-rare games to fund a new camera auction *********
+Local Pickup</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Mar 2015 03:06:34 +0000</listdate>
+    <saledate>Sun, 24 Apr 2016 19:12:08 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: $49.95
+GMT Games [GMT 0609-13]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Apr 2016 07:41:26 +0000</listdate>
+    <saledate>Tue, 26 Apr 2016 07:51:14 +0000</saledate>
+    <price currency='GBP'>34</price>
+    <condition>likenew</condition>
+    <notes>This game has been opened but never played. Mostly unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 May 2016 23:07:51 +0000</listdate>
+    <saledate>Sat, 28 May 2016 19:07:04 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>I clipped the counters on this a little aggressively. :) The game is in great condition otherwise.
+I have a lot of combat commander stuff. If you want to buy the lot or a few of the items I have for sale I please mail me and we can work out a deal.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Jun 2016 19:31:26 +0000</listdate>
+    <saledate>Thu, 02 Jun 2016 22:14:51 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>New in Shrink!
+From a pet and smoke-free home, where board games are well taken care of.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Mar 2016 12:08:49 +0000</listdate>
+    <saledate>Mon, 27 Jun 2016 07:19:06 +0000</saledate>
+    <price currency='EUR'>64.95</price>
+    <condition>new</condition>
+    <notes>New. Promotion price!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jul 2016 14:30:55 +0000</listdate>
+    <saledate>Thu, 14 Jul 2016 17:44:15 +0000</saledate>
+    <price currency='USD'>150</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner nphend</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jul 2016 02:34:39 +0000</listdate>
+    <saledate>Mon, 18 Jul 2016 05:32:41 +0000</saledate>
+    <price currency='USD'>167</price>
+    <condition>verygood</condition>
+    <notes>Sale includes Medi, Resistance, and BP 1, 2, 3, 5, 6, and 7. Also includes 1775: Rebellion. Reserved for philreh.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Dec 2015 12:32:15 +0000</listdate>
+    <saledate>Thu, 11 Aug 2016 09:19:07 +0000</saledate>
+    <price currency='EUR'>64.49</price>
+    <condition>new</condition>
+    <notes>English version.
+New, in shrink, mint condition.
+Payment via PAYPAL +2€
+Shipping within germany 4,99€, EU _T_E_M_P_T_A_G_amp; switzerland 9,99€.
+Or if you live in Berlin pick it up at our weekly game night!
+When ordering additional games you_T_E_M_P_T_A_G_#039;ll only pay the actual shipping cost!
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Aug 2016 19:03:34 +0000</listdate>
+    <saledate>Mon, 15 Aug 2016 16:31:08 +0000</saledate>
+    <price currency='CAD'>35</price>
+    <condition>likenew</condition>
+    <notes>2008 Second Printing.  Unpunched and unplayed.  
+American deck still in shrink wrap.  German and Russian decks are unwrapped and carefully stored in zip lock bags.
+Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Aug 2016 01:45:43 +0000</listdate>
+    <saledate>Mon, 29 Aug 2016 16:53:05 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>verygood</condition>
+    <notes>Great game, but played only once thanks to my friend_T_E_M_P_T_A_G_#039;s copy and Vassal. :)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Aug 2016 15:38:15 +0000</listdate>
+    <saledate>Wed, 31 Aug 2016 18:55:01 +0000</saledate>
+    <price currency='EUR'>64.5</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Aug 2016 13:39:55 +0000</listdate>
+    <saledate>Thu, 01 Sep 2016 02:03:46 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Combat Commander: Europe 3rd Printing in very good condition. About 2/3 of the counters are unpunched, the remainder are organized in a GMT tray.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Sep 2016 19:35:38 +0000</listdate>
+    <saledate>Thu, 15 Sep 2016 22:06:31 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Never played. Counters unpunched. Counter tray included.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Aug 2016 12:15:48 +0000</listdate>
+    <saledate>Thu, 15 Sep 2016 22:56:32 +0000</saledate>
+    <price currency='CAD'>50</price>
+    <condition>likenew</condition>
+    <notes>Like new copy of Combat Commander: Europe. As a bonus, in the box it includes all the cards, scenario books and maps from Combat Commander: Mediterranean.
+Local pick-up available in Toronto area, otherwise shipping charges to apply.
+PayPal preferred.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Sep 2016 17:43:32 +0000</listdate>
+    <saledate>Sun, 18 Sep 2016 17:55:09 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>verygood</condition>
+    <notes>PUNCHED, but complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Oct 2016 03:38:01 +0000</listdate>
+    <saledate>Sat, 01 Oct 2016 04:04:22 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214614/item/4906214#4906214]Item for Geeklist _T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_quot;Star Wars, MoM and Descent Are Killing Me_T_E_M_P_T_A_G_quot; Auction! CLOSED!!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Oct 2016 09:15:52 +0000</listdate>
+    <saledate>Mon, 17 Oct 2016 14:38:25 +0000</saledate>
+    <price currency='AUD'>65</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays postage or pickup from Osborne Park
+Bank transfer preferred</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Oct 2016 12:07:39 +0000</listdate>
+    <saledate>Mon, 31 Oct 2016 20:48:29 +0000</saledate>
+    <price currency='GBP'>39</price>
+    <condition>good</condition>
+    <notes>Well packed and posted at cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Nov 2016 21:07:28 +0000</listdate>
+    <saledate>Tue, 08 Nov 2016 22:03:24 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/216100/item/4979983#4979983]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION - Great deals; some OOP - need good homes_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. This is for Combat Commander-Europe and Fire _T_E_M_P_T_A_G_amp; Axe. Shipping is an additional $15 priority mail. PayPal is thenicholsare@comcast.net
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Jun 2016 13:23:00 +0000</listdate>
+    <saledate>Wed, 09 Nov 2016 12:31:18 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes>Shipping within EU. Payment via money order.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Oct 2016 18:50:45 +0000</listdate>
+    <saledate>Mon, 28 Nov 2016 16:16:19 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>verygood</condition>
+    <notes>ONLY FOR DARKENOR
+Includes Combat Commander Med and several C3i inserts
+This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/4922689#4922689]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Oct 2016 18:46:11 +0000</listdate>
+    <saledate>Mon, 28 Nov 2016 21:58:43 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>good</condition>
+    <notes>Only reason I can_T_E_M_P_T_A_G_#039;t say Very Good is that I have underlined some of the rules...</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Dec 2016 08:26:17 +0000</listdate>
+    <saledate>Fri, 09 Dec 2016 16:35:51 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>Shipping Germany 6 Euro 
+Shipping EU 16 Euro</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Dec 2016 22:56:42 +0000</listdate>
+    <saledate>Tue, 13 Dec 2016 00:29:07 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/218090/item/5072394#5072394]Item for Geeklist _T_E_M_P_T_A_G_quot;Combat Commander Auction - Ends 12-12-2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Dec 2016 15:45:39 +0000</listdate>
+    <saledate>Mon, 26 Dec 2016 07:08:15 +0000</saledate>
+    <price currency='USD'>189</price>
+    <condition>verygood</condition>
+    <notes>This is (nearly) the complete collection of Combat Commander.
+All items are the latest printing.
++ Europe
++ Mediterranean
++ Pacific
++ Resistance
++ Paratroopers
++ Normandy
++ Stalingrad
++ Sea Lion
++ New Guinea
+All maps and scenarios are stored in sleeves inside three-ring binders. All cards are sleeved and stored in deck boxes for each nation.
+I no longer own the original boxes. All counters are neatly-clipped with a corner rounder and stored in GMT counter trays. This set is _T_E_M_P_T_A_G_quot;better than new._T_E_M_P_T_A_G_quot;
+I will charge $20 shipping for this item.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Dec 2016 22:31:18 +0000</listdate>
+    <saledate>Mon, 26 Dec 2016 16:14:40 +0000</saledate>
+    <price currency='EUR'>63</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Jan 2017 18:04:44 +0000</listdate>
+    <saledate>Mon, 16 Jan 2017 02:47:31 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jan 2017 18:17:17 +0000</listdate>
+    <saledate>Wed, 18 Jan 2017 19:12:49 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>!! THIS IS A BUNDLE ONLY !!  
+!! BY ACCEPTING, YOU AGREE TO PRICE OF $85 !!  
+Listed price is a reflection of CC:E on its own.
+Note - total Amazon price of all in this bundle is: $221
+This is a set of Combat Commander games:
+- Combat Commander: Europe
+- Combat Commander: Mediterranean
+- Combat Commander: Battle Pack 1
+- Combat Commander: Battle Pack 2 - Stalingrad
+- Combat Commander: Battle Pack 3 - Normandy
+Barely played, in near new condition. Packaged into the single CC:E box plus the two folders of the Battle Packs.
+* All components are complete
+* The box has some minor cosmetic wear
+Game has been stored in a smoke-free home and only played by a respectful, careful gaming group.
+Personal check must clear before shipping.
+CONDITIONS:
+* Buyer pays actual shipping costs
+* USPS and UPS Ground option available
+  (est. price is $24)
+* Bitcoin accepted and discounted! (deduct 3% from total)
+Weight: 9 lbs | Dimensions 13_T_E_M_P_T_A_G_quot; x 10_T_E_M_P_T_A_G_quot; x 6_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Oct 2016 08:09:58 +0000</listdate>
+    <saledate>Sat, 21 Jan 2017 08:59:08 +0000</saledate>
+    <price currency='EUR'>63.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 9,99€.
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Dec 2016 10:51:41 +0000</listdate>
+    <saledate>Wed, 01 Feb 2017 16:17:13 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>verygood</condition>
+    <notes>Game is in very good condition. All counters are punched and clipped and sorted.
+I´m selling most of my wargame collection. Have a look at my other offers!
+I will send worldwide and the buyer is paying shipping cost.
+Shipping cost estimates:
+Germany 5,- Euros
+Europe 9,- Euros
+USA 16,- Euros
+Please take contact if you have questions or want to know the exact shipping costs.
+Payment by Paypal or direct transfer to my bank account.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Aug 2016 01:28:08 +0000</listdate>
+    <saledate>Thu, 09 Feb 2017 19:17:16 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>shrink removed.....that_T_E_M_P_T_A_G_#039;s all...otherwise brand new most recent edition.
+PayPal only please.
+U.S. only please
+I ship USPS flatrate almost exclusively...unless it_T_E_M_P_T_A_G_#039;s a multiple purchase and I need to put things in a big box etc.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jan 2017 03:12:21 +0000</listdate>
+    <saledate>Fri, 10 Feb 2017 16:10:45 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>This was played several times but is still in very good condition. Card decks are in plastic boxes, counters are in separate trays for each nationality. German counters were clipped- the corners were neatly clipped using a set of large nail clippers (that_T_E_M_P_T_A_G_#039;s how I did them till I got a corner trimmer.) The other counters are not clipped.
+Included also are scenarios 103, 117, 118,119,120
+Shipping to U.S. locations only.
+Shipping cost $14.00 due to size and weight</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2017 11:23:32 +0000</listdate>
+    <saledate>Mon, 13 Feb 2017 19:09:49 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Dec 2016 10:11:33 +0000</listdate>
+    <saledate>Thu, 02 Mar 2017 03:32:53 +0000</saledate>
+    <price currency='EUR'>63</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Jan 2017 19:04:24 +0000</listdate>
+    <saledate>Mon, 06 Mar 2017 06:18:52 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Corners clipped and played a couple of times.
+Buyer pays all shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Feb 2017 19:34:57 +0000</listdate>
+    <saledate>Mon, 13 Mar 2017 12:55:22 +0000</saledate>
+    <price currency='EUR'>63.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 9,99€.
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Dec 2016 09:03:01 +0000</listdate>
+    <saledate>Mon, 13 Mar 2017 23:40:56 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Played once, cards are sleeved.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Feb 2017 21:20:01 +0000</listdate>
+    <saledate>Thu, 16 Mar 2017 16:03:01 +0000</saledate>
+    <price currency='USD'>110</price>
+    <condition>verygood</condition>
+    <notes>Includes CC: Med and BP_T_E_M_P_T_A_G_#039;s 1, 2, and 3. Counters punched, trimmed and sorted in labeled trays. Cards sleeved. Contains some maps from C3i issues. Play aids in document protectors. Both boxes are in excellent shape. CC:Med never played. This is two games and there BP_T_E_M_P_T_A_G_#039;s.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Mar 2017 09:28:23 +0000</listdate>
+    <saledate>Thu, 23 Mar 2017 08:17:22 +0000</saledate>
+    <price currency='EUR'>63</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Mar 2017 17:54:39 +0000</listdate>
+    <saledate>Sun, 09 Apr 2017 02:19:41 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Never played.  Setup just a few times.  I could never get any members of my family or gaming groups to play it with me.  Like new condition.  It_T_E_M_P_T_A_G_#039;s a great game (from what I could tell); I want someone to buy it who can enjoy it.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Apr 2017 19:55:44 +0000</listdate>
+    <saledate>Tue, 11 Apr 2017 09:01:11 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Apr 2017 15:36:10 +0000</listdate>
+    <saledate>Thu, 27 Apr 2017 21:58:21 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>new but shrink removed -- counters unpunched; cards still in shrink; etc.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Apr 2017 22:20:54 +0000</listdate>
+    <saledate>Sat, 29 Apr 2017 04:20:38 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>C3i #28 Combat Commander extras
+new, unplayed, smoke-free home
+2 scenarios, #121, #122
+Campaign Sheet
+9 counters
+Campaign rules and charts
+Group with other expansions to save shipping.
+https://www.boardgamegeek.com/geekmarket/product/1189298</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Apr 2017 18:50:42 +0000</listdate>
+    <saledate>Sat, 29 Apr 2017 04:20:38 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>new</condition>
+    <notes>C3i #27 Combat Commander extras
+new, unplayed, smoke-free home
+4 scenarios, #117-#120
+Group with other expansions to save shipping.
+https://www.boardgamegeek.com/geekmarket/product/1187526</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Apr 2017 21:12:33 +0000</listdate>
+    <saledate>Sat, 29 Apr 2017 23:31:10 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes>mcpranno portion of Combat Commander auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Apr 2017 15:29:24 +0000</listdate>
+    <saledate>Mon, 01 May 2017 23:28:01 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>new in shrink
+shipping: $14.60 priority mail
+(or combined shipping to be determined with multi-game orders)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 May 2017 13:30:49 +0000</listdate>
+    <saledate>Thu, 11 May 2017 19:59:52 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>verygood</condition>
+    <notes>Partially punched. Hardly played.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 May 2017 22:19:16 +0000</listdate>
+    <saledate>Sat, 13 May 2017 05:42:05 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Counters punched and bagged (not clipped); components excellent.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 May 2017 03:00:36 +0000</listdate>
+    <saledate>Sat, 13 May 2017 18:08:42 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Played once. Will charge buyer $10 for shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 May 2017 13:24:43 +0000</listdate>
+    <saledate>Wed, 24 May 2017 11:36:10 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>likenew</condition>
+    <notes>Game opened but not played
+Shipped to UK only via MyHermes
+2 - 5 kg -_T_E_M_P_T_A_G_gt; £5.99</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 May 2017 19:13:40 +0000</listdate>
+    <saledate>Sat, 27 May 2017 20:27:23 +0000</saledate>
+    <price currency='EUR'>150</price>
+    <condition>verygood</condition>
+    <notes>US still unpunched + CC Mediterranean (unplayed,unpunched, cards in shrink) + CC Resistance (unplayed, unpunched, only looked at cards)
+via DHL check rates at https://www.dhl.de/en/paket/preise.html
+Payment by Bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Jun 2017 11:06:27 +0000</listdate>
+    <saledate>Tue, 06 Jun 2017 23:27:03 +0000</saledate>
+    <price currency='USD'>220</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/226206/item/5432958#5432958]Item for Geeklist _T_E_M_P_T_A_G_quot;From my shelves to yours!  COIN series and war games_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Includes:
+Combat Commander: Europe
+Combat Commander: Pacific
+Combat Commander: Mediterranean
+Combat Commander: Battle Pack #1 – Paratroopers
+Combat Commander: Battle Pack #2 – Stalingrad
+Combat Commander: Battle Pack #3 – Normandy
+Combat Commander: Battle Pack #5 – The Fall of the West
+Combat Commander: Battle Pack #7 – Leader of Men: Tournament Battle Pack
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Jul 2017 16:23:59 +0000</listdate>
+    <saledate>Sat, 01 Jul 2017 17:07:35 +0000</saledate>
+    <price currency='USD'>150</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/226733/item/5462872#5462872]Item for Geeklist _T_E_M_P_T_A_G_quot;2017 Summer Sale_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 May 2017 18:05:08 +0000</listdate>
+    <saledate>Fri, 07 Jul 2017 18:37:24 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Ship to UK only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Jun 2017 13:41:58 +0000</listdate>
+    <saledate>Fri, 07 Jul 2017 20:49:33 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Never played; two of three decks are still in shrink. Punched and sorted.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Apr 2017 17:13:20 +0000</listdate>
+    <saledate>Thu, 13 Jul 2017 07:11:34 +0000</saledate>
+    <price currency='EUR'>63</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Jul 2017 23:37:48 +0000</listdate>
+    <saledate>Tue, 18 Jul 2017 00:44:34 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Includes agreed upon expansions.
+for Delthi ONLY.
+Shipping to be added when buyer confirms purchases (if not local pickup or online shipping change).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Jul 2017 20:55:55 +0000</listdate>
+    <saledate>Wed, 09 Aug 2017 12:58:20 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes>Includes 3 countertrays, cards in extra storageboxes  and sleeves</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Aug 2017 03:04:45 +0000</listdate>
+    <saledate>Tue, 15 Aug 2017 04:40:55 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/227261/item/5526855#5526855]Item for Geeklist _T_E_M_P_T_A_G_quot;SoCal Summer Auction (Huntington Beach,92647) (USA Only)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Apr 2017 13:45:24 +0000</listdate>
+    <saledate>Mon, 28 Aug 2017 20:52:02 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Cards sleeved, all parts inventoried and complete. Couple of C3i scenarios and counters also included
+Buyer pays shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Sep 2017 00:48:42 +0000</listdate>
+    <saledate>Sun, 03 Sep 2017 02:38:48 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>New, In-Shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Feb 2017 19:34:57 +0000</listdate>
+    <saledate>Thu, 07 Sep 2017 23:48:13 +0000</saledate>
+    <price currency='EUR'>63.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 9,99€.
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Sep 2017 12:10:29 +0000</listdate>
+    <saledate>Mon, 11 Sep 2017 19:34:17 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+Shipping EU: 15€
+Shipping Austria: 5€
+Payment via PayPal or IBAN bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Sep 2017 14:09:27 +0000</listdate>
+    <saledate>Thu, 14 Sep 2017 18:43:50 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>good</condition>
+    <notes>2006 GMT Games. The box has moderate wear and the counters are punched and clipped. The odd wire counter might be missing, but all the necessary counters are present and in very good condition.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/228843/item/5559547#5559547]Item for Geeklist _T_E_M_P_T_A_G_quot;(CLOSED) Pre-Buckeye Game Fest Auction - Local pickup available near Cleveland/Columbus (U.S. only)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jul 2016 22:35:48 +0000</listdate>
+    <saledate>Sun, 01 Oct 2017 03:14:30 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Played a few times. All pieces bagged and counted. Complete.
+Ships by Priority Mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Oct 2017 17:29:01 +0000</listdate>
+    <saledate>Sun, 01 Oct 2017 18:39:18 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230281/item/5648898#5648898]Item for Geeklist _T_E_M_P_T_A_G_quot;The Fourth Ever Fredericksburg Game Guild Communal Auction! (USA Only, Ends September 30th)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Please confirm </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Sep 2017 11:38:24 +0000</listdate>
+    <saledate>Wed, 11 Oct 2017 00:15:10 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>likenew</condition>
+    <notes>Punched and sorted, only played once. Smoke Free environment.
+Includes the following:
+Pacific
+Mediterranean
+All Modules Printed to Date
+C3I inserts</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Aug 2017 10:57:27 +0000</listdate>
+    <saledate>Mon, 16 Oct 2017 21:14:44 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>opened, never played. come with 3 extra chit trays.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Oct 2017 15:32:12 +0000</listdate>
+    <saledate>Sat, 21 Oct 2017 23:16:54 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>Punched, rules have heavy highlighting.  Components otherwise in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Oct 2017 03:29:53 +0000</listdate>
+    <saledate>Mon, 23 Oct 2017 20:07:43 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231538/item/5711819#5711819]Item for Geeklist _T_E_M_P_T_A_G_quot;Baby_T_E_M_P_T_A_G_#039;s First Auction (But Not First Rodeo) - US/New York City - *ENDS SUNDAY OCT 22*_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Hey Mahmut, thanks for participating in my auction!  
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Mar 2015 03:06:34 +0000</listdate>
+    <saledate>Mon, 30 Oct 2017 00:40:19 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: $49.95
+GMT Games [GMT 0609-13]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Nov 2017 02:48:51 +0000</listdate>
+    <saledate>Fri, 10 Nov 2017 13:06:08 +0000</saledate>
+    <price currency='USD'>76</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220229/item/5732719#5732719]Item for Geeklist _T_E_M_P_T_A_G_quot;Huge Collection Purge Auction - 275+ games/lots, including rarities, big lots, and freebies (Ends 11/8/17; BGG.con Delivery Available)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Aug 2017 15:10:14 +0000</listdate>
+    <saledate>Thu, 30 Nov 2017 23:10:05 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>All cards are sleeved and many of the tokens are still unpunched.  Comes with tray holders for the chits.
+Shipping will be via USPS flat rate at $18.85 and payment will be via PayPal:  randy.dickens@outlook.com</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Jun 2017 19:56:33 +0000</listdate>
+    <saledate>Sat, 02 Dec 2017 11:48:08 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>Shrink removed; unpunched, cards still in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Jul 2017 15:59:55 +0000</listdate>
+    <saledate>Fri, 08 Dec 2017 09:47:02 +0000</saledate>
+    <price currency='GBP'>59.95</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Jun 2017 01:03:10 +0000</listdate>
+    <saledate>Thu, 21 Dec 2017 05:17:48 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Great condition, punched but never played.
+Buyer pays shipping from 40504</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Nov 2017 23:41:29 +0000</listdate>
+    <saledate>Sat, 23 Dec 2017 13:29:45 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>shrink wrapped 
+private seller 
+included are 
+• Combat Commander – 1 Card – 2 New Scenarios: Nr115 _T_E_M_P_T_A_G_amp; Nr116 by Pascal Toupy
+• Combat Commander – 1 Card – Scenario Map of European Theater _T_E_M_P_T_A_G_amp; Terrain Chart by Bryan Collars _T_E_M_P_T_A_G_amp; Tim McCarron
+from C3I 26 which are not shrink wrapped</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Dec 2017 22:41:19 +0000</listdate>
+    <saledate>Mon, 25 Dec 2017 17:40:28 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>Punched, sorted, clipped.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Feb 2017 19:34:57 +0000</listdate>
+    <saledate>Thu, 28 Dec 2017 11:59:00 +0000</saledate>
+    <price currency='EUR'>69.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 9,99€.
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Dec 2017 23:26:15 +0000</listdate>
+    <saledate>Sat, 30 Dec 2017 14:46:51 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>likenew</condition>
+    <notes>Chits neatly rounded and sorted into gmt counter tray. 
+Includes some (about 6) c3i scenarios, some of which may require cc:med or cc:res to play. 
+Ships large flat rate for $18
+CoD for local pickup</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Dec 2017 20:35:10 +0000</listdate>
+    <saledate>Wed, 03 Jan 2018 17:54:47 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Like new. Never played. Unpunched. Cards still in shrinkwrap. Comes from a smoke free environment.  PayPal preferred, but I will accept other forms of payment with prior consent. Shipping to the US only.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jan 2018 07:04:32 +0000</listdate>
+    <saledate>Tue, 09 Jan 2018 21:01:46 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/235899/item/5876418#5876418]Item for Geeklist _T_E_M_P_T_A_G_quot;Chris_T_E_M_P_T_A_G_#039;s NEW YEAR - NEW AUCTION Concoction (Cheap BINs, Cheap Shipping, All the time)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Jan 2018 22:23:42 +0000</listdate>
+    <saledate>Wed, 10 Jan 2018 22:31:10 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes>For J. Harrison.  Includes Mediterranean.  Shipping will be $14.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Jan 2018 22:57:35 +0000</listdate>
+    <saledate>Fri, 09 Feb 2018 15:54:53 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Like new condition. Components punched, sorted/bagged, cards sleeved.  Never played.
+Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Feb 2018 00:45:07 +0000</listdate>
+    <saledate>Sun, 11 Feb 2018 01:16:58 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Geeklist auction win - for user diaboliclwombat ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Jul 2017 04:31:35 +0000</listdate>
+    <saledate>Tue, 13 Feb 2018 02:36:27 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Like new, played once.  Counters are corner trimmed, and I have many extras printed out in color from the files section.  Played only 2 of the maps under plastic, so everything is like new.
+Shipping is $13.60 USPS Priority</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Nov 2017 23:16:42 +0000</listdate>
+    <saledate>Fri, 16 Feb 2018 15:16:33 +0000</saledate>
+    <price currency='USD'>84.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: $84.95
+GMT Games [GMT 0609-13]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Feb 2018 16:58:41 +0000</listdate>
+    <saledate>Fri, 16 Feb 2018 17:16:16 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Never played. Counters nicely clipped and sorted in piano (plastic craft box). Will ship USPS from 03036.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Feb 2018 16:07:53 +0000</listdate>
+    <saledate>Wed, 21 Feb 2018 01:56:49 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>Complete. Includes one GMT Countertray. Counters punched and clipped. Shipping in Germany is 7 Euros, im Europe 18 Euros.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Nov 2017 23:16:42 +0000</listdate>
+    <saledate>Sat, 24 Feb 2018 00:01:20 +0000</saledate>
+    <price currency='USD'>84.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: $84.95
+GMT Games [GMT 0609-13]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Sep 2014 16:42:24 +0000</listdate>
+    <saledate>Tue, 27 Feb 2018 01:18:16 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Shrink wrap
+Payments: PayPal or US Postal money orders.
+Other methods of payment may be accepted but contact me before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Oct 2017 17:42:59 +0000</listdate>
+    <saledate>Tue, 27 Feb 2018 14:06:09 +0000</saledate>
+    <price currency='USD'>275</price>
+    <condition>verygood</condition>
+    <notes>This is for a CC LOT including:
+- base game
+- all 6 BPs
+- Resistance
+- Mediterranean
+- binder with all scenarios
+Some counters clipped.
+PayPal. Ships Priority.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Feb 2018 13:50:29 +0000</listdate>
+    <saledate>Tue, 06 Mar 2018 17:03:56 +0000</saledate>
+    <price currency='EUR'>54</price>
+    <condition>likenew</condition>
+    <notes>Just opened, unpunched, never played.
+Postage in Germany is 6€ via DHL.
+Contact me for international shipping rates.
+PayPal preferred, otherwise SEPA/IBAN.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Feb 2018 00:37:19 +0000</listdate>
+    <saledate>Wed, 07 Mar 2018 11:50:12 +0000</saledate>
+    <price currency='USD'>11.5</price>
+    <condition>acceptable</condition>
+    <notes>In very good condition BUT it is missing most of the maps and no scenario book. Didnt count the components but there is a crap ton of them (they are trayed.) I dont know how much are exactly missing altogether as I bought this used only to find out it was an incomplete copy (I got a full refund though.)
+Will listen to offers since there is no price range for an incomplete copy like this.
+Local pickup from 90706 is negotiable.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Mar 2018 02:46:29 +0000</listdate>
+    <saledate>Sun, 18 Mar 2018 20:53:59 +0000</saledate>
+    <price currency='CAD'>110</price>
+    <condition>verygood</condition>
+    <notes>Reserved for copperhead86
+Includes Combat Commander: Med</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Mar 2018 13:21:24 +0000</listdate>
+    <saledate>Wed, 21 Mar 2018 22:32:34 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>verygood</condition>
+    <notes>Only played twice. Excellent condition.
+*Shipping to UK only**</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Mar 2018 14:03:21 +0000</listdate>
+    <saledate>Thu, 22 Mar 2018 01:24:24 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238228/item/6009710#6009710]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee XII - The Twelfth Cheddar..._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Mar 2018 12:38:46 +0000</listdate>
+    <saledate>Fri, 23 Mar 2018 05:13:06 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>This item is intended for Matt Strickler (mattstrickler89) who had the winning bid in the _T_E_M_P_T_A_G_quot;Make Room for Baby_T_E_M_P_T_A_G_quot; auction.
+Shipping costs to be negotiated.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Jan 2018 16:17:24 +0000</listdate>
+    <saledate>Wed, 04 Apr 2018 20:24:41 +0000</saledate>
+    <price currency='EUR'>85</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Mar 2014 17:05:32 +0000</listdate>
+    <saledate>Mon, 09 Apr 2018 18:13:58 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>Combat Commander: Europe by GMT brand new in factory shrink.
+S_T_E_M_P_T_A_G_amp;H to the US is $13.00. Please ask about international shipping costs. Thanks for looking</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jan 2015 03:10:41 +0000</listdate>
+    <saledate>Mon, 09 Apr 2018 18:24:11 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>This is the First Edition (2006) version.  Opened to check contents.  Unpunched and unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Apr 2018 14:53:01 +0000</listdate>
+    <saledate>Wed, 11 Apr 2018 21:30:26 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>verygood</condition>
+    <notes>Includes some additional c3i scenarios (101-107).  103 is a photocopy of the scenario sheet as I can_T_E_M_P_T_A_G_#039;t find my original.  107 requires CC:Med.
+Includes GMT counter trays.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Apr 2018 02:22:33 +0000</listdate>
+    <saledate>Sun, 15 Apr 2018 01:57:44 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>verygood</condition>
+    <notes>This is the third and newest printing.  Partially punched.  The unit counters have been punched and put in a small Plano box which is included with the game.  The card decks are still in their wrappers and the marker counters are still unpunched.  Maps and everything else in great shape.  Shipping Priority for $13 any where within the Continental US.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Apr 2018 23:44:20 +0000</listdate>
+    <saledate>Tue, 24 Apr 2018 16:53:21 +0000</saledate>
+    <price currency='USD'>56</price>
+    <condition>likenew</condition>
+    <notes>Never played. All chits have been well stored in plastic containers, cards were sleeved, and all are in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Apr 2018 19:41:01 +0000</listdate>
+    <saledate>Thu, 26 Apr 2018 18:21:11 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Box: VG to LN
+Bits: LN to N (cardboard is unpunched; card packs are opened)
+The contents are complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Dec 2017 11:08:33 +0000</listdate>
+    <saledate>Thu, 26 Apr 2018 19:33:37 +0000</saledate>
+    <price currency='GBP'>64.95</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Feb 2018 03:39:23 +0000</listdate>
+    <saledate>Thu, 03 May 2018 23:09:33 +0000</saledate>
+    <price currency='CAD'>65</price>
+    <condition>verygood</condition>
+    <notes>Never been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Jul 2017 22:33:36 +0000</listdate>
+    <saledate>Tue, 08 May 2018 19:22:00 +0000</saledate>
+    <price currency='GBP'>60</price>
+    <condition>new</condition>
+    <notes>In shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jul 2016 15:41:50 +0000</listdate>
+    <saledate>Sun, 20 May 2018 00:36:41 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>shipping 13.60</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jul 2016 22:49:45 +0000</listdate>
+    <saledate>Sat, 26 May 2018 15:52:39 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Box has some scuff marks but contents are good.   Cards only used a couple of times.  Pieces are punched, sorted, and bagged.  There are also some extras inside.  Extra scenario cards---inserts from C3i # 22, 23, and 26.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 May 2018 15:23:50 +0000</listdate>
+    <saledate>Tue, 05 Jun 2018 16:59:37 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>Punched and in very good condition.  shipping is 13.00.  From a nonsmoking petfree home.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 May 2018 11:22:51 +0000</listdate>
+    <saledate>Mon, 11 Jun 2018 17:14:47 +0000</saledate>
+    <price currency='GBP'>64.95</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Apr 2018 05:24:30 +0000</listdate>
+    <saledate>Thu, 14 Jun 2018 02:05:21 +0000</saledate>
+    <price currency='AUD'>75</price>
+    <condition>verygood</condition>
+    <notes>Part Punched and complete.
+Australian buyers: Direct Deposit
+International: Paypal</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jun 2018 19:03:36 +0000</listdate>
+    <saledate>Fri, 15 Jun 2018 15:50:33 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>likenew</condition>
+    <notes>Complete. Includes one GMT Countertray. Counters punched and clipped. Shipping in Germany is 7 Euros, im Europe 15 Euros.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Jul 2017 18:46:22 +0000</listdate>
+    <saledate>Sat, 16 Jun 2018 05:22:48 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>Game is almost like new (only played once).  Kept in a smoke-free home.
+**includes Battle Pack #1 - Paratroopers
+**includes 3 x GMT Counter Trays (sorted by American/Soviet/German)
+Located in California</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jun 2018 21:30:39 +0000</listdate>
+    <saledate>Fri, 22 Jun 2018 17:02:39 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Opened and played three times from a pet and smoke free home. Thank you.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jun 2018 04:41:38 +0000</listdate>
+    <saledate>Tue, 26 Jun 2018 00:57:56 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened - partially punched complete - Shipping by USPS Priority Mail</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jul 2018 00:01:24 +0000</listdate>
+    <saledate>Fri, 06 Jul 2018 07:39:18 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Played once! Unit counters are clipped and trayed, American deck is still in shrink. Contact me with zip code for shipping quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 May 2018 08:03:11 +0000</listdate>
+    <saledate>Fri, 06 Jul 2018 08:25:32 +0000</saledate>
+    <price currency='GBP'>48</price>
+    <condition>verygood</condition>
+    <notes>Contents are in excellent condition. Box has a few minor dings.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jul 2018 00:39:36 +0000</listdate>
+    <saledate>Tue, 10 Jul 2018 15:49:08 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>New in Shrink
+Can deliver to Gen Con 2018
+Will ship worldwide, buyer pays actual cost and is responsible for additional taxes, VAT and/or other fees.
+Will accept payment via PayPal, Venmo or online gift card.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jun 2018 02:53:57 +0000</listdate>
+    <saledate>Fri, 13 Jul 2018 00:22:57 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>4TH Printing with v 1.1 rulebook. Shrink Wrap removed, but all other components untouched. Counters are not punched and the cards are still shrinkwrapped. 
+Shipping will be $15.00 for this item, but will combine shipping for this and other Combat Commander items I am selling.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Mar 2017 20:16:22 +0000</listdate>
+    <saledate>Thu, 09 Aug 2018 10:00:35 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>good</condition>
+    <notes>Chits clipped and trayed. Shipping will be ~$15. I lost the German weapons and printed and glued on replacements to appropriately sized chits front and back. Not perfect, but better than incomplete.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Aug 2018 17:42:56 +0000</listdate>
+    <saledate>Thu, 09 Aug 2018 18:26:10 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>Unpunched - box a bit worn</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Mar 2014 20:32:05 +0000</listdate>
+    <saledate>Sun, 19 Aug 2018 15:08:54 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>All counters have been carefully clipped (corners) using a corner jig.  This game is in EXCELLENT condition, will include AH counter trays for storage and Ultra Pro Deck Boxes for cards.
+I am willing to sell this as a bundle with my other sets (Mediterranean, Battle Pack 1,2,3) if you are interested and they are still available.  Please contact me.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jun 2018 04:41:11 +0000</listdate>
+    <saledate>Sat, 01 Sep 2018 19:29:58 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Never played, Removed shrink wrap and wraps on cards to look at them, kept cards in ziploc bags. Perfect box, no wear, or dents. All my games are kept in a smoke and pet free home.
+Contact me with your Zip Code if you need to know the cost. Heavy game but I can send as Media Mail. Usually takes about 7 days. Heavy game!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Sep 2018 21:27:59 +0000</listdate>
+    <saledate>Tue, 11 Sep 2018 21:44:42 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Played once. Components have been punched and organized in trays.
+I also have the following items for sale:
+Combat Commander Mediterranean (New in shrink)
+Combat Commander Paratroopers Battle Pack (New in packaging)
+$12 flat rate shipping (can be combined with other orders).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Sep 2018 00:34:43 +0000</listdate>
+    <saledate>Fri, 14 Sep 2018 16:06:57 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Sep 2018 05:26:03 +0000</listdate>
+    <saledate>Thu, 20 Sep 2018 01:09:08 +0000</saledate>
+    <price currency='USD'>51</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/245540/item/6359166#6359166]Item for Geeklist _T_E_M_P_T_A_G_quot;Time for another purge, Bundle for Cheaper Shipping!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Sep 2018 01:05:15 +0000</listdate>
+    <saledate>Sat, 22 Sep 2018 00:40:50 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>Played a few times. Chits are in GMT trays. Includes Battle Pack #1 Paratroopers. Minor box wear. Buyer pays shipping from 19609.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Sep 2018 07:30:18 +0000</listdate>
+    <saledate>Tue, 25 Sep 2018 12:14:32 +0000</saledate>
+    <price currency='EUR'>80</price>
+    <condition>likenew</condition>
+    <notes>Contains Stalingrad expansion</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jun 2018 15:19:13 +0000</listdate>
+    <saledate>Sun, 30 Sep 2018 02:02:16 +0000</saledate>
+    <price currency='USD'>144.99</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+COMBAT COMMANDER EUROPE: $144.99
+GMT Games [GMT 0609-13]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Oct 2018 13:21:44 +0000</listdate>
+    <saledate>Mon, 08 Oct 2018 21:01:51 +0000</saledate>
+    <price currency='GBP'>60</price>
+    <condition>verygood</condition>
+    <notes>Cards are sleeved</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Dec 2013 04:02:26 +0000</listdate>
+    <saledate>Tue, 09 Oct 2018 04:19:02 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Unpunched and cards still in shrink.  Includes the 2nd edition rules. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Oct 2018 04:42:46 +0000</listdate>
+    <saledate>Wed, 10 Oct 2018 07:08:02 +0000</saledate>
+    <price currency='USD'>240</price>
+    <condition>verygood</condition>
+    <notes>Purchase includes:
+BOX GAMES:
+Combat Commander: Europe (Third Printing 2013)
+Combat Commander: Mediterranean (Second Printing 2013)
+Combat Commander: Resistance! 
+BATTLE PACKS:
+*NOTE* Battle Packs do not come with original package folders.
+Combat Commander: Battle Pack #1 - Paratroopers 
+(Two Maps: 25-28, Six Scenario Cards: 25-34) 
+Combat Commander: Battle Pack #2 - Stalingrad 
+(Four Maps: 30-37, Six Scenario Cards: 35-45, 88 Counters, 8-page Play Book)
+Combat Commander: Battle Pack #3 - Normandy 
+(Four Maps: 38-45, Nine Scenario Cards: 46-61, 176 Counters, 12-page Play Book)
+Combat Commander: Battle Pack #5 - Fall of the West
+(Five Maps: 52-61, Six Scenario Cards: 74-85,Reference Card)
+Combat Commander: Battle Pack #6 - Sea Lion
+(Five Maps: 62-71, Five Scenario Cards: 86-95)
+ *C3i BONUS
+ Includes two incomplete physical copies, and various components from C3i magazines for Combat Commander (see descriptions).
+From C3i Magazine Nr20, 
+Scenario 104,_T_E_M_P_T_A_G_quot;Go for Broke_T_E_M_P_T_A_G_quot; 
+Scenario 105,_T_E_M_P_T_A_G_quot;La Fiere Counterattack_T_E_M_P_T_A_G_quot;
+From C3i Magazine Nr 21, 
+(PHYSICAL COPY, only have components for Combat Commander)
+Scenario 106, _T_E_M_P_T_A_G_quot;The Lost Battalion_T_E_M_P_T_A_G_quot;
+Scenario 107, _T_E_M_P_T_A_G_quot;Operation Deadstick_T_E_M_P_T_A_G_quot;
+Map #18 (corrected) and Map #29 (new)
+26 counters
+From C3i Magazine, Nr 22
+Scenario 108,_T_E_M_P_T_A_G_quot;In My Time of Dying_T_E_M_P_T_A_G_quot;
+Scenario 109, _T_E_M_P_T_A_G_quot;EscapeIs Everything_T_E_M_P_T_A_G_quot;
+From C3i Magazine, Nr 23
+Scenario 103,_T_E_M_P_T_A_G_quot;Varsity Blues_T_E_M_P_T_A_G_quot; (Reprint from Nr 19)
+Scenario 110, _T_E_M_P_T_A_G_quot;Arctic Assault_T_E_M_P_T_A_G_quot;
+From C3i Magazine, Nr 26
+Scenario 115,_T_E_M_P_T_A_G_quot;Summit Conference_T_E_M_P_T_A_G_quot;
+Scenario 116, _T_E_M_P_T_A_G_quot;These are No Altar Boys_T_E_M_P_T_A_G_quot;
+10-Weapons counters: 4-ampulomets, Alternate counters(2-panzerfausts for CC:E Scenario 11),
+and(4-PIATs for CC:M Scenario 17)
+5-Tank counters: AFVs for Battle Pack #5 - Fall of the West, and 1-Attack Total marker).
+European Theater of Operations Scenario Reference Map/Terrain Chart
+From C3i Magazine, Nr 27
+Scenario 117,_T_E_M_P_T_A_G_quot;Avanti Tridentina, Avanti!_T_E_M_P_T_A_G_quot;
+Scenario 118, _T_E_M_P_T_A_G_quot;No. 4 Commando_T_E_M_P_T_A_G_quot;
+Resistance!- Scenario 119, _T_E_M_P_T_A_G_quot;Sky Fall_T_E_M_P_T_A_G_quot;
+Resistance! - Scenario 120,_T_E_M_P_T_A_G_quot;Deadly Convoy_T_E_M_P_T_A_G_quot;
+From C3i Magazine, Nr 28 
+(PHYSICAL COPY, only have some components for Combat Commander)
+Scenario 121,_T_E_M_P_T_A_G_quot;How Close Is Too Close_T_E_M_P_T_A_G_quot;
+Scenario 122, _T_E_M_P_T_A_G_quot;Barbarossa Sustained_T_E_M_P_T_A_G_quot;
+Missing some counters, (page 21 shows color image manifest for 8 new counters)
+ 
+All components for box games and battle packs are complete and in very good to like new condition. GMT trays are included with purchase (see pictures).
+Shipping is $20.00
+Only PayPal for payment.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Oct 2018 03:13:59 +0000</listdate>
+    <saledate>Sat, 20 Oct 2018 04:54:55 +0000</saledate>
+    <price currency='USD'>69.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Oct 2018 19:00:56 +0000</listdate>
+    <saledate>Wed, 24 Oct 2018 13:11:49 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>The game has been played only a few times and the cards were sleeved during play. The chits are all clipped.  Message me for shipping price. Thank you for your time.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Oct 2018 23:12:22 +0000</listdate>
+    <saledate>Sat, 03 Nov 2018 03:09:10 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Played once.
+See pictures.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Feb 2015 16:41:54 +0000</listdate>
+    <saledate>Mon, 12 Nov 2018 17:15:47 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>likenew</condition>
+    <notes>The game has never been played.
+I have removed 2 of the 3 decks from their original shrink wraps and stored them in plastic bags. Counters are punched and most are stored in the included plastic tray. The remaining counters are stored in plastic bags.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Nov 2018 15:29:54 +0000</listdate>
+    <saledate>Tue, 13 Nov 2018 16:50:33 +0000</saledate>
+    <price currency='CAD'>50</price>
+    <condition>likenew</condition>
+    <notes>$50 + $15 shipping
+Reserved for Percy0715 please do not purchase otherwise. Payment through etransfer</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Nov 2018 18:41:59 +0000</listdate>
+    <saledate>Tue, 20 Nov 2018 17:57:35 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Played 3 times. Box has minor shelf wear; components are in excellent condition.
+Buyer pays shipping from 99338; this will fit into a Priority Mail medium flat rate box ($13.65) or a regional rate box (sometimes cheaper based on distance), shipping weight 4 lbs.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Nov 2018 19:39:02 +0000</listdate>
+    <saledate>Wed, 05 Dec 2018 09:22:40 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>likenew</condition>
+    <notes>Played only once (introductory scenario). All cards stored in the bags, all counters stored in 2 GMT trays. 
+Shipping cost in the UK is £5</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Oct 2018 18:30:53 +0000</listdate>
+    <saledate>Wed, 05 Dec 2018 23:52:32 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>good</condition>
+    <notes>Nothing of note to report about condition, been used a few times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Dec 2018 20:41:40 +0000</listdate>
+    <saledate>Sun, 16 Dec 2018 21:38:54 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>verygood</condition>
+    <notes>This item is for craig vivian from the $5 min bid auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Dec 2018 15:54:19 +0000</listdate>
+    <saledate>Mon, 07 Jan 2019 19:24:23 +0000</saledate>
+    <price currency='USD'>140</price>
+    <condition>verygood</condition>
+    <notes>Game bundled in Combat Commander: Mediterranean. All cards sleeved in Fantasy Flight sleeves. Taken care of, in a non-smoking, pet-free household. I am flexible to counter offers and can provide photos upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jan 2019 19:44:35 +0000</listdate>
+    <saledate>Fri, 25 Jan 2019 09:15:58 +0000</saledate>
+    <price currency='USD'>41.95</price>
+    <condition>likenew</condition>
+    <notes>Mint condition.  Included paratroopers expansion.  Some underlining to remember those key rules!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Aug 2018 20:10:03 +0000</listdate>
+    <saledate>Sat, 26 Jan 2019 14:12:48 +0000</saledate>
+    <price currency='EUR'>80</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jan 2019 17:15:08 +0000</listdate>
+    <saledate>Sun, 27 Jan 2019 19:01:40 +0000</saledate>
+    <price currency='EUR'>85</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Nov 2018 17:12:20 +0000</listdate>
+    <saledate>Fri, 08 Feb 2019 17:48:02 +0000</saledate>
+    <price currency='CAD'>69.49</price>
+    <condition>likenew</condition>
+    <notes>unpunched, cards out of shrink
+price is in Cdn$</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Feb 2019 03:18:53 +0000</listdate>
+    <saledate>Mon, 11 Feb 2019 05:40:32 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/249617/item/6587085#6587085]Item for Geeklist _T_E_M_P_T_A_G_quot;Board Game Auction Ends Feb 10th Pickup Available Bucks County, PA or King of Prussia, PA_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Feb 2019 08:45:40 +0000</listdate>
+    <saledate>Mon, 11 Feb 2019 14:10:39 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>Unpunched, cards still in envelope.
+Sin destroquelar, cartas aun empaquetadas.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Feb 2019 20:45:03 +0000</listdate>
+    <saledate>Mon, 11 Feb 2019 21:58:04 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened, but unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Feb 2019 01:18:15 +0000</listdate>
+    <saledate>Sat, 16 Feb 2019 02:26:03 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Never got around to taking it out of the shrink - now I have to sell to make room
+Shipping USPS Priority: $10
+I will ship within day of receiving payment.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jan 2019 21:31:17 +0000</listdate>
+    <saledate>Fri, 22 Feb 2019 03:56:46 +0000</saledate>
+    <price currency='USD'>44.99</price>
+    <condition>verygood</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! 
+COMBAT COMMANDER EUROPE: $44.99
+GMT Games [GMT 0609-13-b]
+* Inventoried and 100% complete and in very good condition. Includes 2 free counter trays, as shown in the 2 pictures included with this listing. 
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Feb 2019 22:30:35 +0000</listdate>
+    <saledate>Fri, 22 Feb 2019 21:59:09 +0000</saledate>
+    <price currency='CAD'>50</price>
+    <condition>verygood</condition>
+    <notes>Willing to bundle with other combat commander for discount. PM me if you_T_E_M_P_T_A_G_#039;d like that.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

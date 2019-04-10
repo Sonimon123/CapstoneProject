@@ -1,0 +1,2695 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="9220">
+   <yearpublished>2004</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>10</maxplayers>
+   <playingtime>30</playingtime>
+   <minplaytime>30</minplaytime>
+   <maxplaytime>30</maxplaytime>
+   <age>8</age>
+       <name  sortindex="1">Aranyásók</name>
+       <name  sortindex="1">Sabotażysta</name>
+       <name  sortindex="1">Sabotér</name>
+       <name primary="true" sortindex="1">Saboteur</name>
+       <name  sortindex="1">Σαμποτέρ</name>
+       <name  sortindex="1">Гномы-вредители</name>
+       <name  sortindex="1">お邪魔者</name>
+       <name  sortindex="1">矮人礦坑</name>
+         
+   <description>Players take on the role of dwarves. As miners, they are in a mine, hunting for gold. Suddenly, a pick axe swings down and shatters the mine lamp. The saboteur has struck. But which of the players are saboteurs? Will you find the gold, or will the fiendish actions of the saboteurs lead them to it first? After three rounds, the player with the most gold is the winner._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;With the help of Dwarf Cards, the players are assigned their role: either miner or saboteur. The roles are kept secret- they are only revealed at the end of the round._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The Start Card and the three Goal Cards are placed onto the table, each seven cards away from the start and one card between each Goal Card. The Goal Cards are placed face-down. The gold is on one of the Goal Cards, but nobody knows which._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Players have cards in hand. On a player's turn, he must do one of three things: place a Path Card into the mine, play an Action Card in front of a player, or pass._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The Path Cards form paths leading to the Goal Cards. Path Cards must be played next to a already-played Path Card. All paths on the Path Card must match those on the already-played cards, and Path Cards may not be played sideways._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The miners are trying to build an uninterrupted path from the Start Card to a Goal Card, while the saboteurs are trying to prevent this. They shouldn't try and be too obvious about it, however, lest they be immediately discovered._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Action Cards can be placed in front of any player, including oneself. Action Cards let the players help or hinder one another, as well as obtain information about the Goal Cards._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Once a player places a Path Card that reaches the gold, the round is over. The miners have won and receive cards with gold pieces as their reward._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The round is also over if the gold could not be reached. In that case, the saboteurs have won and receive the gold pieces._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Once the Gold Cards have been distributed, the next round begins. The game is over at the end of the third round, with the player with the most gold pieces being the winner._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/G3hBcPutljcUb7_JSG9sNDJ4ZRY=/fit-in/200x150/pic3989824.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/jhL_ucB9VxMroXQc5Zx0oGstH2U=/0x0/pic3989824.jpg</image>
+      
+            <boardgamepublisher objectid="8">AMIGO</boardgamepublisher>
+                      <boardgamehonor objectid="19511">2004 Japan Boardgame Prize Best Foreign Game for Beginners Nominee</boardgamehonor>
+               <boardgameversion objectid="356943">999 Dutch edition 2013</boardgameversion>
+               <boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+               <boardgameversion objectid="24845">999 Games Dutch edition 2007</boardgameversion>
+                      <boardgameversion objectid="108399">AMIGO Chinese edition</boardgameversion>
+               <boardgameversion objectid="31973">AMIGO Dutch/French edition 2010</boardgameversion>
+               <boardgameversion objectid="202926">AMIGO French edition 2004</boardgameversion>
+               <boardgameversion objectid="30082">AMIGO German edition 2004</boardgameversion>
+               <boardgameversion objectid="183509">AMIGO German edition 2010</boardgameversion>
+               <boardgameversion objectid="182758">AMIGO German edition 2012</boardgameversion>
+               <boardgameversion objectid="23714">AMIGO multilingual first edition 2004</boardgameversion>
+               <boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+                      <boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+               <boardgameartist objectid="12035">Andrea Boekhoff</boardgameartist>
+               <boardgamepublisher objectid="7162">Brain Games</boardgamepublisher>
+               <boardgameversion objectid="24664">Brain Games Baltic edition 2007</boardgameversion>
+               <boardgameexpansion objectid="204573">Brettspiel Adventskalender 2016</boardgameexpansion>
+                      <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+                      <boardgameversion objectid="437421">Chinese/English edition 2017</boardgameversion>
+                      <boardgamepublisher objectid="6818">Corfix</boardgamepublisher>
+               <boardgameversion objectid="173688">Corfix Czech edition</boardgameversion>
+                             <boardgamepublisher objectid="485">Dal Negro</boardgamepublisher>
+               <boardgameversion objectid="72305">Dal Negro Italian first edition, cardboard box</boardgameversion>
+               <boardgameversion objectid="72308">Dal Negro Italian second edition 2009 in metal box</boardgameversion>
+                             <boardgamepodcastepisode objectid="143162">DJ82: Saboteur: El Desafío (2015) Fréderic Moyersoen</boardgamepodcastepisode>
+               <boardgameversion objectid="69836">Dr. Wood Australian edition</boardgameversion>
+               <boardgamepublisher objectid="4819">Dr. Wood Challenge Centre</boardgamepublisher>
+                                                         <boardgameversion objectid="395451">English edition 2018</boardgameversion>
+                                    <boardgamepodcastepisode objectid="162226">Episode 57- Blood Rage and Expansions (CONTEST!)</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="100950">Episode 99.99–Game Buffet you Traitorous Dog!</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="124968">Episodio 14 – Especial verano 2014: Reglas mal explicadas</boardgamepodcastepisode>
+                      <boardgamepodcastepisode objectid="87139">ET44: Paris! Cartas de Amor! Yo solo! Zombies, monjes y enanos de comparsa</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="95208">ET51: Yarrrr!! Pirata yo soy!</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="102035">ET60: Ferrocarriles Pampas Yarrrr!!! Matey!!!</boardgamepodcastepisode>
+               <boardgamecategory objectid="1020">Exploration</boardgamecategory>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+                      <boardgamepublisher objectid="8845">G3</boardgamepublisher>
+                                                                                                   <boardgamepublisher objectid="155">Gigamic</boardgamepublisher>
+               <boardgameversion objectid="51785">Gigamic edition 2008 in red tin</boardgameversion>
+               <boardgameversion objectid="84242">Gigamic French black tin edition 2010</boardgameversion>
+               <boardgameversion objectid="335701">Gigamic French black tin edition 2015</boardgameversion>
+               <boardgameversion objectid="239533">Gigamic French yellow tin edition</boardgameversion>
+                      <boardgamepublisher objectid="5530">Giochi Uniti</boardgamepublisher>
+               <boardgameversion objectid="370301">Giochi Uniti Italian edition</boardgameversion>
+               <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+               <boardgamepodcastepisode objectid="179102">HLG 4: Sabotage</boardgamepodcastepisode>
+               <boardgamepublisher objectid="6214">Kaissa Chess _T_E_M_P_T_A_G_amp; Games</boardgamepublisher>
+               <boardgameversion objectid="34402">Kaissa Greek edition 2008</boardgameversion>
+               <boardgamepublisher objectid="5640">Kikigagne?</boardgamepublisher>
+               <boardgamepublisher objectid="3218">Lautapelit.fi</boardgamepublisher>
+                      <boardgamepublisher objectid="9325">Lifestyle Boardgames Ltd</boardgamepublisher>
+               <boardgameversion objectid="280070">Mayfair English edition 2015</boardgameversion>
+               <boardgamepublisher objectid="10">Mayfair Games</boardgamepublisher>
+               <boardgamepublisher objectid="25069">Meeples Cafe</boardgamepublisher>
+               <boardgamepublisher objectid="7772">Mercurio</boardgamepublisher>
+               <boardgameversion objectid="33332">Mercurio Spanish edition</boardgameversion>
+               <boardgamefamily objectid="21425">Mining</boardgamefamily>
+               <boardgamepublisher objectid="3504">Möbius Games</boardgamepublisher>
+               <boardgameversion objectid="268379">Möbius Japanese edition</boardgameversion>
+               <boardgamedesigner objectid="1379">Fréderic Moyersoen</boardgamedesigner>
+               <boardgameartist objectid="1379">Fréderic Moyersoen</boardgameartist>
+                                    <boardgamepublisher objectid="32581">PaperGames (III)</boardgamepublisher>
+               <boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+               <boardgamecategory objectid="1030">Party Game</boardgamecategory>
+               <boardgamesubdomain objectid="5498">Party Games</boardgamesubdomain>
+               <boardgamepublisher objectid="22">Piatnik</boardgamepublisher>
+               <boardgameversion objectid="25334">Piatnik Hungarian edition 2005</boardgameversion>
+               <boardgameversion objectid="191181">Piatnik Romanian edition 2011</boardgameversion>
+               <boardgamepodcastepisode objectid="67354">Podcast #043 - Guia de compras y recomendaciones de juegos de mesa 2011 Parte 1</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="187276">Podcast EP06 – Board Game Arena</boardgamepodcastepisode>
+               <boardgameversion objectid="76849">Polish edition 2008</boardgameversion>
+               <boardgameversion objectid="357223">Polish edition 2016</boardgameversion>
+                                                  <boardgameversion objectid="355651">Portuguese edition</boardgameversion>
+                                                         <boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+                      <boardgamefamily objectid="28418">Saboteur</boardgamefamily>
+               <boardgamecompilation objectid="143147">Saboteur (compilation editions)</boardgamecompilation>
+                      <boardgameexpansion objectid="91072">Saboteur 2 (expansion-only editions)</boardgameexpansion>
+                                                                <boardgameexpansion objectid="213290">Saboteur: Brettspiel Adventskalender 2016 Promo</boardgameexpansion>
+               <boardgameexpansion objectid="227424">Saboteur: Map Swap</boardgameexpansion>
+               <boardgameaccessory objectid="201444">Saboteur: Playmat</boardgameaccessory>
+               <boardgameexpansion objectid="158605">Saboteur: Rock Gold</boardgameexpansion>
+               <boardgameintegration objectid="168215">Saboteur: The Duel</boardgameintegration>
+               <boardgameimplementation objectid="245214">Saboteur: The Lost Mines</boardgameimplementation>
+               <boardgameexpansion objectid="233013">Saboteur: The Wardrobe Cavern</boardgameexpansion>
+                      <boardgameversion objectid="133788">Sun Team Chinese edition 2004</boardgameversion>
+               <boardgamepublisher objectid="17473">Sun Team Day Hobby Company</boardgamepublisher>
+               <boardgameversion objectid="80872">Swan Chinese/English/Indonesian/Malay edition 2009</boardgameversion>
+               <boardgamepublisher objectid="9234">Swan Panasia Co., Ltd.</boardgamepublisher>
+               <boardgameversion objectid="208151">Swan/Meeples Chinese/English/Malay edition 2013</boardgameversion>
+               <boardgamemechanic objectid="2686">Take That</boardgamemechanic>
+               <boardgamepodcastepisode objectid="136601">The Game Pit: Episode 40 - Council Chamber Mega Review of 2014 with Top 5s</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="22547">The Messy Game Room Episode 19</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="162053">TPGC - Episode #60 - Saboteur and Good Cop Bad Cop: Bombers and Traitors</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="163425">Vox Republica 101: We_T_E_M_P_T_A_G_#039;ve Been Sabotaged!</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="165348">Vox Republica 105: Low Down Dirty Cheaters</boardgamepodcastepisode>
+                      <boardgameversion objectid="23799">Z-Man English edition 2005</boardgameversion>
+               <boardgameversion objectid="230031">Z-Man English edition 2012</boardgameversion>
+               <boardgamepublisher objectid="538">Z-Man Games</boardgamepublisher>
+               <boardgamepublisher objectid="10739">Взрослые дети</boardgamepublisher>
+               <boardgameintegration objectid="168215" inbound="true">Saboteur: The Duel</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="263">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="176" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="176" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="29" />
+     <result value="Not Recommended" numvotes="169" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="81" />
+     <result value="Not Recommended" numvotes="124" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="48" />
+     <result value="Recommended" numvotes="153" />
+     <result value="Not Recommended" numvotes="15" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="94" />
+     <result value="Recommended" numvotes="113" />
+     <result value="Not Recommended" numvotes="12" />
+    </results>     
+   
+  <results numplayers="7">  
+     <result value="Best" numvotes="146" />
+     <result value="Recommended" numvotes="67" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="8">  
+     <result value="Best" numvotes="119" />
+     <result value="Recommended" numvotes="69" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+   
+  <results numplayers="9">  
+     <result value="Best" numvotes="54" />
+     <result value="Recommended" numvotes="106" />
+     <result value="Not Recommended" numvotes="18" />
+    </results>     
+   
+  <results numplayers="10">  
+     <result value="Best" numvotes="40" />
+     <result value="Recommended" numvotes="107" />
+     <result value="Not Recommended" numvotes="29" />
+    </results>     
+   
+  <results numplayers="10+">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="98" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="102">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="98" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="73">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="18" />
+     <result value="8" numvotes="43" />
+     <result value="10" numvotes="11" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>20555</usersrated>
+     <average>6.60969</average>
+     <bayesaverage>6.50121</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="913" bayesaverage="6.50121" />
+            
+       
+              <rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="99" bayesaverage="6.43385" />
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="272" bayesaverage="6.49614" />
+            
+           </ranks>
+     
+     <stddev>1.26497</stddev>
+     <median>0</median>
+     <owned>30888</owned>
+     <trading>621</trading>
+     <wanting>215</wanting>
+     <wishing>1589</wishing>
+     <numcomments>3982</numcomments>
+     <numweights>1363</numweights>
+     <averageweight>1.3309</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sun, 26 Sep 2004 16:13:28 +0000</listdate>
+    <saledate>Sun, 26 Sep 2004 21:18:14 +0000</saledate>
+    <price currency='USD'>7.99</price>
+    <condition>likenew</condition>
+    <notes>Shipping is 2.50$ within U.S., no insurance availible. Shipping on your risk.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Feb 2005 16:56:38 +0000</listdate>
+    <saledate>Fri, 11 Mar 2005 20:37:08 +0000</saledate>
+    <price currency='GBP'>14.99</price>
+    <condition>new</condition>
+    <notes>Please visit www.morrigan.co.uk for our weekly game auctions.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Aug 2005 19:04:04 +0000</listdate>
+    <saledate>Mon, 30 Jan 2006 19:39:56 +0000</saledate>
+    <price currency='USD'>10.5</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Z-Man Games (ZMG 4026)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Sep 2005 21:25:20 +0000</listdate>
+    <saledate>Sun, 06 Aug 2006 03:42:33 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>This game is brand new and manufacturer sealed. S_T_E_M_P_T_A_G_amp;H is $3.50 via USPS 1st class mail to all 50 states. Combined shipping may be available on multiple purchases. Other shipping arrangements are available upon request but may vary in cost. Pennsylvania shipping addresses should include 6% sales tax.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Oct 2005 08:10:50 +0000</listdate>
+    <saledate>Sun, 06 Nov 2005 22:43:50 +0000</saledate>
+    <price currency='GBP'>6.35</price>
+    <condition>new</condition>
+    <notes>Post and and Packing £1.00 price is for UK only. Oversea_T_E_M_P_T_A_G_#039;s please contact.Personal check UK only.
+More at www.ygames.co.uk</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Nov 2005 18:52:01 +0000</listdate>
+    <saledate>Fri, 16 Dec 2005 22:22:44 +0000</saledate>
+    <price currency='GBP'>6.35</price>
+    <condition>new</condition>
+    <notes>Brand new.  UK p_T_E_M_P_T_A_G_amp;p £1.00</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Jan 2006 20:34:58 +0000</listdate>
+    <saledate>Thu, 13 Apr 2006 19:05:09 +0000</saledate>
+    <price currency='USD'>7.99</price>
+    <condition>new</condition>
+    <notes>All our games are brand new in shrink wrap. Buyer pays for shipping. Shipping will depend on your location and the weight of game. We will discount shipping on multiple games orders whenever possible to ensure the fairest rate. We are not responsible for lost mail but will insure shipment, at your request. Items are shipped within one business day of receiving payment. Payment must be received within 7 days after the day you agreed to buy the item, and all PayPal or credit card payments must be made within this time period. If payment isn_T_E_M_P_T_A_G_#039;t received within these time periods, all orders will be revoked and proper feedback will be left. Unopened merchandise may be returned within 14 days of purchase for a full refund, less original shipping charges. Return shipping charges are the responsibility of the customer with the exception of defective merchandise. To return an item, please contact us prior to sending an item back to us. WA orders pay 8.5% sales tax. 
+Please email us with any questions.
+Thanks
+Chum Chum Games
+customerservice@chumchumgames.com</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2006 17:50:55 +0000</listdate>
+    <saledate>Wed, 19 Apr 2006 18:42:28 +0000</saledate>
+    <price currency='USD'>10.5</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Z-Man Games (ZMG 4026)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Apr 2006 18:22:04 +0000</listdate>
+    <saledate>Wed, 27 Dec 2006 21:15:10 +0000</saledate>
+    <price currency='USD'>10.75</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Z-Man Games (ZMG 4026)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Jun 2006 17:24:09 +0000</listdate>
+    <saledate>Tue, 25 Jul 2006 21:28:30 +0000</saledate>
+    <price currency='EUR'>5.75</price>
+    <condition>verygood</condition>
+    <notes>Played once. No wear no tear.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Aug 2006 19:12:10 +0000</listdate>
+    <saledate>Wed, 27 Dec 2006 21:15:10 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>This game is brand new and manufacturer sealed. S_T_E_M_P_T_A_G_amp;H is $3.50 via USPS 1st class mail to all 50 states. Combined shipping may be available on multiple purchases. Other shipping arrangements are available upon request but may vary in cost. Pennsylvania shipping addresses should include 6% sales tax.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Aug 2006 04:57:03 +0000</listdate>
+    <saledate>Fri, 01 Dec 2006 11:21:14 +0000</saledate>
+    <price currency='USD'>10.19</price>
+    <condition>new</condition>
+    <notes>NEW AND FACTORY FRESH
+We are a small, family owned and operated game shoppe. Like you, we simply love board games!
+You_T_E_M_P_T_A_G_#039;ll only pay $3.99 to have your Saboteur card game shipped via USPS MAIL. Of course, you can always add USPS shipping insurance for $1.35. 
+Please have a look at our other listings on BoardGameGeek. We now have well over 250, and we_T_E_M_P_T_A_G_#039;re still growing!
+SAVE MONEY: We_T_E_M_P_T_A_G_#039;ll discount your shipping costs if you_T_E_M_P_T_A_G_#039;d like to order more than one item.
+International orders, please inquire about shipping costs through email before ordering.
+North Dakota residents are responsible for 6% sales tax.
+Thank you, 
+Jeremy, Jennifer, and Family
+J and J Board Games</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Aug 2006 16:02:07 +0000</listdate>
+    <saledate>Sat, 26 Aug 2006 22:00:00 +0000</saledate>
+    <price currency='GBP'>4</price>
+    <condition>likenew</condition>
+    <notes>opened and shuffled once</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Sep 2006 00:00:13 +0000</listdate>
+    <saledate>Mon, 25 Sep 2006 13:39:25 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>Zman games - box unwrapped but cards still sealed.  Everything is there and in near mint condition.
+Domestic shipping will be $4.50. International shipping will probably be in the neighborhood of $10.00 but you should contact me for a specifc quote prior to purchasing.
+Please take a look at my other games for sale. I will definitely save you money on shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Nov 2006 02:35:49 +0000</listdate>
+    <saledate>Wed, 10 Jan 2007 04:59:53 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Nov 2006 01:50:33 +0000</listdate>
+    <saledate>Mon, 07 May 2007 12:05:18 +0000</saledate>
+    <price currency='USD'>9.5</price>
+    <condition>likenew</condition>
+    <notes>opened but never used!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Nov 2006 18:52:15 +0000</listdate>
+    <saledate>Fri, 01 Dec 2006 01:11:33 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>In well-kept condition.  From a smoke-free environment.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Feb 2007 02:40:19 +0000</listdate>
+    <saledate>Fri, 16 Feb 2007 11:57:41 +0000</saledate>
+    <price currency='USD'>10.95</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Z-Man Games (ZMG 4026)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Feb 2007 18:57:57 +0000</listdate>
+    <saledate>Wed, 13 Jun 2007 15:28:09 +0000</saledate>
+    <price currency='USD'>10.95</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Z-Man Games (ZMG 4026)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Feb 2007 05:17:56 +0000</listdate>
+    <saledate>Sun, 04 Mar 2007 07:34:13 +0000</saledate>
+    <price currency='USD'>8.5</price>
+    <condition>new</condition>
+    <notes>Other games from the following publishers are also available: Abacus, Amigo, Cwali, Face 2 Face, Fantasy Flights, Loonely Labs, Out of the Box, Rio Grande Games, Uberplay</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Mar 2007 19:49:43 +0000</listdate>
+    <saledate>Fri, 13 Jul 2007 12:52:31 +0000</saledate>
+    <price currency='EUR'>7.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the AMIGO edition
+Shipping is EUR 5.00 within Europe or EUR 8.00 worldwide. 
+The delivery time varies from 1 to 4 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click the robbirob button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Apr 2007 12:14:32 +0000</listdate>
+    <saledate>Sun, 22 Apr 2007 06:19:39 +0000</saledate>
+    <price currency='USD'>8.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+SABOTEUR: $8.95
+Z-Man Games[ZMG 4026]
+SHIPPING
+Continental U.S.: FedEx $8.65
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Apr 2007 15:05:19 +0000</listdate>
+    <saledate>Tue, 19 Jun 2007 00:59:41 +0000</saledate>
+    <price currency='USD'>8.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+SABOTEUR: $8.95
+Z-Man Games[ZMG 4026]
+SHIPPING
+Continental U.S.: FedEx $8.65
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 May 2007 11:42:53 +0000</listdate>
+    <saledate>Mon, 28 May 2007 21:51:02 +0000</saledate>
+    <price currency='EUR'>7</price>
+    <condition>likenew</condition>
+    <notes>Played once or twice.
+Payment via paypal or direct Bank transfer within the EU.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jun 2007 18:51:36 +0000</listdate>
+    <saledate>Thu, 27 Nov 2008 07:20:38 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+Designed by Frederic Moyersoen
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner.
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is.
+Contents: 110 cards
+No. of players: 3-10
+Ages: 8+
+Playing time: 30 minutes
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jul 2007 17:18:02 +0000</listdate>
+    <saledate>Wed, 10 Oct 2007 08:38:35 +0000</saledate>
+    <price currency='EUR'>7.99</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 7.00 within Europe or EUR 10.00 worldwide. 
+The delivery time varies from 1 to 4 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click the robbirob button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2007 00:56:55 +0000</listdate>
+    <saledate>Mon, 28 Jan 2008 08:54:38 +0000</saledate>
+    <price currency='AUD'>25</price>
+    <condition>new</condition>
+    <notes>Still shrink-wrapped. English Version.
+I will send to anywhere in Australia posted the next business day. For postage quotes, please let me have your postcode. I will package multiple games together to save postage. I charge what it costs to post _T_E_M_P_T_A_G_amp; pack. Direct bank transfer preferred. Delivery/collection is possible in Melbourne (see faq on website).
+For full range of games please check www.games.unhalfbricking.com
+Please do not bother making offers below my advertised price on NEW games. This is as cheap as I can manage.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Aug 2007 05:20:49 +0000</listdate>
+    <saledate>Tue, 09 Oct 2007 06:52:33 +0000</saledate>
+    <price currency='USD'>8.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+SABOTEUR: $8.95
+Z-Man Games[ZMG 4026]
+SHIPPING
+Continental U.S.: FedEx $8.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Oct 2007 07:07:49 +0000</listdate>
+    <saledate>Fri, 19 Oct 2007 15:46:21 +0000</saledate>
+    <price currency='USD'>8.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $8.95
+Z-Man Games[ZMG 4026]
+SHIPPING
+Continental U.S.: FedEx $8.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Oct 2007 10:48:42 +0000</listdate>
+    <saledate>Fri, 12 Oct 2007 20:59:50 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>Complete and in excellent condition.
+I can only ship on Fridays and Saturdays. US only. $3 shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Oct 2007 20:05:06 +0000</listdate>
+    <saledate>Sat, 05 Jan 2008 02:43:31 +0000</saledate>
+    <price currency='EUR'>7.7</price>
+    <condition>new</condition>
+    <notes>I´m offering the AMIGO edition
+Shipping is EUR 8.00 within Europe or EUR 10.00 worldwide. 
+The delivery time varies from 1 to 4 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click the robbirob button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Nov 2007 03:42:43 +0000</listdate>
+    <saledate>Sat, 01 Dec 2007 23:06:07 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>Weight is 10oz. Will ship Prioirty Mail from ZIP code 95014, so about $4.50, depending on how far away you are. International shipping will be at cost. You can check at www.usps.com if interested.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Dec 2007 02:39:34 +0000</listdate>
+    <saledate>Tue, 18 Dec 2007 18:19:15 +0000</saledate>
+    <price currency='CAD'>12.95</price>
+    <condition>new</condition>
+    <notes>Completely new and still in shrink wrap.
+All orders shipped via CanadaPost. Shipping cost in Canada is approximately $5-$10 depending on exact location. All shipping is guaranteed and tracking numbers for the shipment will be provided.
+Please have a look at our other listings on our website at www.starlitcitadel.com. Shipping costs is often significantly lower when purchasing more than one game.
+International orders, please inquire about shipping costs through email before ordering. Please provide zip code or other postal code information for exact rates that will be charged.
+Canadian residents should note that we are based in Richmond, BC and must by law charged PST (if you are based in BC) and GST (if you are in Canada).
+Feel free to e-mail if you have any other inquiries.
+Thank you!
+Tao Wong
+Starlit Citadel
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Dec 2007 17:37:52 +0000</listdate>
+    <saledate>Wed, 26 Mar 2008 19:01:53 +0000</saledate>
+    <price currency='EUR'>10.9</price>
+    <condition>new</condition>
+    <notes>International edition by Amigo.
+Payment with Paypal or by bank transfer, which is easy among Euro using countries.
+I_T_E_M_P_T_A_G_#039;ll combine shipping, so check out my other items.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Jan 2008 05:55:06 +0000</listdate>
+    <saledate>Tue, 05 Feb 2008 00:49:14 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $16.95 _T_E_M_P_T_A_G_lt;_T_E_M_P_T_A_G_lt;-- only 3 copies left
+Z-Man Games [ZMG 4026]
+This title is now out of print and will not be restocked
+SHIPPING
+Continental U.S. - FedEx: 9.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Feb 2008 04:59:39 +0000</listdate>
+    <saledate>Thu, 14 Feb 2008 18:29:00 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $16.95 _T_E_M_P_T_A_G_lt;_T_E_M_P_T_A_G_lt;-- only 2 copies left
+Z-Man Games [ZMG 4026]
+This title is now out of print and will not be restocked
+SHIPPING
+Continental U.S. - FedEx: 9.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Feb 2008 05:54:28 +0000</listdate>
+    <saledate>Sun, 02 Mar 2008 09:32:14 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $16.95 _T_E_M_P_T_A_G_lt;_T_E_M_P_T_A_G_lt;-- only 2 copies left
+Z-Man Games [ZMG 4026]
+Title is out of print -- expected reprint date: Spring 2008
+SHIPPING
+Continental U.S. - FedEx: 9.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Mar 2008 15:43:16 +0000</listdate>
+    <saledate>Sun, 13 Apr 2008 19:32:02 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $16.95 _T_E_M_P_T_A_G_lt;_T_E_M_P_T_A_G_lt;-- only 2 copies left
+Z-Man Games [ZMG 4026]
+Title is out of print -- expected reprint date: Spring 2008
+SHIPPING
+Continental U.S. - FedEx: 9.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Apr 2008 03:57:46 +0000</listdate>
+    <saledate>Thu, 15 May 2008 17:02:05 +0000</saledate>
+    <price currency='USD'>12.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+***** ***** PRE ORDER ***** *****
+SABOTEUR: $12.95 (pre-order)
+Z-Man Games [ZMG 4026]
+Expected reprint date: Spring 2008
+***** ***** PRE ORDER ***** *****
+SHIPPING
+Continental U.S. - FedEx: 9.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 May 2008 18:27:56 +0000</listdate>
+    <saledate>Fri, 04 Jul 2008 20:26:20 +0000</saledate>
+    <price currency='USD'>12.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+***** ***** PRE ORDER ***** *****
+SABOTEUR: $12.95 (pre-order)
+Z-Man Games [ZMG 4026]
+Expected reprint date: Spring 2008
+***** ***** PRE ORDER ***** *****
+SHIPPING
+Continental U.S. - FedEx: 9.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jul 2008 01:11:22 +0000</listdate>
+    <saledate>Wed, 16 Jul 2008 05:21:51 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Jul 2008 03:46:47 +0000</listdate>
+    <saledate>Tue, 22 Jul 2008 14:24:39 +0000</saledate>
+    <price currency='USD'>9.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $9.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $10.45
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jul 2008 15:20:05 +0000</listdate>
+    <saledate>Sun, 27 Jul 2008 18:00:49 +0000</saledate>
+    <price currency='USD'>9.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $9.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $10.45
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Aug 2008 11:32:06 +0000</listdate>
+    <saledate>Tue, 02 Sep 2008 08:32:32 +0000</saledate>
+    <price currency='AUD'>22</price>
+    <condition>likenew</condition>
+    <notes>Copy is punched but has never been played. Game box and all components in Like New condition.
+Contact me for a shipping quote if you are interested in the game. Aus or NZ buyers can pay by direct deposit into ANZ bank account.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Sep 2008 05:23:13 +0000</listdate>
+    <saledate>Thu, 11 Sep 2008 03:39:33 +0000</saledate>
+    <price currency='USD'>71</price>
+    <condition>likenew</condition>
+    <notes>This item is listed for the house fire fundraiser auction and was won by kdean1. The bid was $38 for Saboteur, Tower Siege and 3 expansions, Citadels plus The Great Space Race for $33. These will be shipped via USPS priority mail as soon as I can get an address. The shipping costs will be the exact amount of shipping and are $9.30.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Nov 2008 21:52:58 +0000</listdate>
+    <saledate>Sun, 07 Dec 2008 02:58:26 +0000</saledate>
+    <price currency='USD'>10.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $10.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $10.45
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Dec 2008 06:03:09 +0000</listdate>
+    <saledate>Thu, 18 Dec 2008 15:09:12 +0000</saledate>
+    <price currency='USD'>10.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $10.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $10.45
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Dec 2008 18:04:45 +0000</listdate>
+    <saledate>Thu, 15 Jan 2009 04:19:07 +0000</saledate>
+    <price currency='USD'>10.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $10.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $10.45
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Mar 2009 22:52:42 +0000</listdate>
+    <saledate>Sun, 17 May 2009 16:18:22 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner.
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 May 2009 00:09:39 +0000</listdate>
+    <saledate>Mon, 18 May 2009 01:07:31 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>sold via auction to scotth</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 May 2009 16:22:29 +0000</listdate>
+    <saledate>Tue, 16 Jun 2009 19:14:00 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner.
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Jun 2009 16:26:43 +0000</listdate>
+    <saledate>Tue, 23 Jun 2009 01:47:14 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner.
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Jun 2009 19:00:22 +0000</listdate>
+    <saledate>Sun, 19 Jul 2009 17:35:23 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner.
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jul 2009 06:09:54 +0000</listdate>
+    <saledate>Mon, 13 Jul 2009 14:37:37 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>for user superflypete only please. 1st class mail ship $2.75</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jul 2009 14:13:05 +0000</listdate>
+    <saledate>Fri, 14 Aug 2009 04:45:29 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner.
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Aug 2009 12:40:31 +0000</listdate>
+    <saledate>Fri, 14 Aug 2009 21:43:04 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner.
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Aug 2009 20:45:02 +0000</listdate>
+    <saledate>Wed, 26 Aug 2009 15:40:20 +0000</saledate>
+    <price currency='GBP'>8.5</price>
+    <condition>likenew</condition>
+    <notes>Game is in excellent condition.  All the components are present and correct. Amigo version.
+ 
+Weight inc packing 310g
+UK First class  £3.14 
+Surface Worldwide  £3.44 
+Europe Airmail  £3.55 
+USA Airmail  £5.35 
+   
+Shipping costs shown are for an individual game. I will combine shipping as best I can. Large packages (5kg, say 6 games) are very cost-effective to ship internationally via DHL. Ask if you want a detailed price. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Sep 2009 19:42:07 +0000</listdate>
+    <saledate>Sun, 20 Sep 2009 21:34:27 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Sep 2009 20:15:25 +0000</listdate>
+    <saledate>Sun, 18 Oct 2009 11:26:48 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner. 
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is. 
+Contents: 110 cards
+No. of players: 3-10
+Ages: 8+
+Playing time: 30 minutes
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Sep 2009 22:38:29 +0000</listdate>
+    <saledate>Tue, 22 Sep 2009 23:18:04 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Amigo version, cards are language independent
+opened, unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Oct 2009 00:15:54 +0000</listdate>
+    <saledate>Fri, 30 Oct 2009 13:19:25 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Selling Z-Man Games reprint. Opened but never played.
+Shipping is included in the price to anywhere in the continental US.
+I prefer paypal but will accept check and money order also.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Nov 2009 13:48:48 +0000</listdate>
+    <saledate>Mon, 14 Dec 2009 09:03:36 +0000</saledate>
+    <price currency='EUR'>7</price>
+    <condition>new</condition>
+    <notes>original german Amigo Spiele edition
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Dec 2009 22:38:40 +0000</listdate>
+    <saledate>Mon, 15 Feb 2010 15:52:32 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner. 
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is. 
+Contents: 110 cards
+No. of players: 3-10
+Ages: 8+
+Playing time: 30 minutes
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Dec 2009 17:23:55 +0000</listdate>
+    <saledate>Sun, 10 Apr 2011 19:35:17 +0000</saledate>
+    <price currency='EUR'>6.9</price>
+    <condition>new</condition>
+    <notes>MINT!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jan 2010 02:20:13 +0000</listdate>
+    <saledate>Sun, 10 Jan 2010 02:52:25 +0000</saledate>
+    <price currency='USD'>11.99</price>
+    <condition>new</condition>
+    <notes>New from the distributor, still in the shrink wrap! Great game. Will ship quickly. Shipping in the US is 4.99 for this game. Get $5 off the total shipping for every game you buy in addition to the first. Send me an email for international shipping. If you don_T_E_M_P_T_A_G_#039;t see a game you want, email me, and I can probably get it in a week or two.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jan 2010 12:14:28 +0000</listdate>
+    <saledate>Wed, 22 Sep 2010 17:03:17 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Feb 2010 05:04:07 +0000</listdate>
+    <saledate>Sun, 21 Feb 2010 03:27:14 +0000</saledate>
+    <price currency='AUD'>15</price>
+    <condition>good</condition>
+    <notes>Good condition. All components are present. Shipping (within Australia) is included in the price listed.
+Would prefer a direct deposit, but will be happy with Paypal if necessary.
+Images of my copy are available at:
+http://s24.photobucket.com/albums/c23/LordHawthorn/Saboteur/</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Feb 2010 15:31:51 +0000</listdate>
+    <saledate>Tue, 23 Feb 2010 16:18:55 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner. 
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is. 
+Contents: 110 cards
+No. of players: 3-10
+Ages: 8+
+Playing time: 30 minutes</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Feb 2010 20:27:16 +0000</listdate>
+    <saledate>Sat, 24 Jul 2010 05:21:13 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner. 
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is. 
+Contents: 110 cards
+No. of players: 3-10
+Ages: 8+
+Playing time: 30 minutes</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Apr 2010 20:07:26 +0000</listdate>
+    <saledate>Mon, 03 May 2010 12:39:14 +0000</saledate>
+    <price currency='CAD'>6</price>
+    <condition>likenew</condition>
+    <notes>Game has been opened but is unplayed. Comes from a pet and smoke free home. Any additional questions please ask.
+Will ship world wide and all paypal sales buyer is responsible for 3.9% fee.
+Also check out my other sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Apr 2010 20:18:15 +0000</listdate>
+    <saledate>Fri, 23 Jul 2010 11:16:43 +0000</saledate>
+    <price currency='EUR'>6.99</price>
+    <condition>new</condition>
+    <notes>German Edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 May 2010 11:41:48 +0000</listdate>
+    <saledate>Wed, 19 May 2010 09:53:05 +0000</saledate>
+    <price currency='GBP'>10.49</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £1.80  postage to UK.
+Zman edition
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a  2.5% discount for purchases over £50 and  5% for purchases over £100. All items (800 unique games) I list are in stock and will be posted within 24 working hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 May 2010 09:29:45 +0000</listdate>
+    <saledate>Sat, 12 Jun 2010 00:07:43 +0000</saledate>
+    <price currency='GBP'>10.49</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £1.80  postage to UK.
+Zman Edition
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a  2.5% discount for purchases over £50 and  5% for purchases over £100. All items (800 unique games) I list are in stock and will be posted within 24 working hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 May 2010 18:26:47 +0000</listdate>
+    <saledate>Sun, 30 May 2010 18:35:21 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>for auction winner emeryaj</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Jun 2010 16:08:01 +0000</listdate>
+    <saledate>Mon, 21 Jun 2010 03:04:44 +0000</saledate>
+    <price currency='USD'>8.99</price>
+    <condition>new</condition>
+    <notes>New from the distributor, still in the shrink wrap! Great game. Will ship quickly. Shipping in the US is 4.99 for this game. Get $5 off the total shipping for every game you buy in addition to the first. Send me an email for international shipping. If you don_T_E_M_P_T_A_G_#039;t see a game you want, email me, and I can probably get it in a week or two.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Jul 2010 14:06:35 +0000</listdate>
+    <saledate>Mon, 11 Apr 2011 14:51:35 +0000</saledate>
+    <price currency='EUR'>7.6</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Aug 2010 23:50:32 +0000</listdate>
+    <saledate>Tue, 11 Oct 2011 20:14:03 +0000</saledate>
+    <price currency='EUR'>6.99</price>
+    <condition>new</condition>
+    <notes>German game.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Aug 2010 13:45:41 +0000</listdate>
+    <saledate>Tue, 17 Aug 2010 09:51:17 +0000</saledate>
+    <price currency='GBP'>8.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £1.80  postage to UK.
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a  2.5% discount for purchases over £50 and  5% for purchases over £100. All items (800 unique games) I list are in stock and will be posted within 24 working hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Sep 2010 20:14:29 +0000</listdate>
+    <saledate>Fri, 10 Sep 2010 14:17:10 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition, all cards sleeved.
+Game will ship in a padded envelope via First Class Mail for $3.00
+Paypal only, please.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Sep 2010 23:00:43 +0000</listdate>
+    <saledate>Thu, 23 Sep 2010 06:34:17 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>A Package that includes 10 Days in the USA, A Touch of Evil _T_E_M_P_T_A_G_amp; expansions, Saboteur, Quelf, Bang!, and Lupus in Tabula.  Part of the _T_E_M_P_T_A_G_#039;I Just Got Back From the Con_T_E_M_P_T_A_G_#039; Geeklist auction item, which ended on 9/19/10. For chachito only. Shipping will be Priority for $37.10.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Oct 2010 02:01:32 +0000</listdate>
+    <saledate>Tue, 07 Dec 2010 08:06:47 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner. 
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Nov 2010 15:10:52 +0000</listdate>
+    <saledate>Tue, 14 Dec 2010 03:10:20 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Dec 2010 06:59:25 +0000</listdate>
+    <saledate>Sat, 18 Dec 2010 02:08:30 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner. 
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Dec 2010 17:40:34 +0000</listdate>
+    <saledate>Sat, 22 Jan 2011 04:42:09 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner. 
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Dec 2010 22:35:24 +0000</listdate>
+    <saledate>Fri, 14 Jan 2011 01:11:23 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap. New Amigo box.
+Shipping will most likely be $3 anywhere in the US.
+Other destinations I will have to check.
+I will ship worldwide.
+I have other Amigo games so check them out, as with combined shipping you will get a great deal!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Jan 2011 18:37:56 +0000</listdate>
+    <saledate>Thu, 06 Jan 2011 19:00:13 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>This is a game won in a BGG auction.  Reserved for everlong205.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Jan 2011 07:15:14 +0000</listdate>
+    <saledate>Fri, 07 Jan 2011 07:53:22 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>Played twice. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Mar 2011 22:04:15 +0000</listdate>
+    <saledate>Mon, 21 Mar 2011 16:18:45 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>likenew</condition>
+    <notes>For n3rdx1000 only.  </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Apr 2011 11:07:25 +0000</listdate>
+    <saledate>Thu, 07 Apr 2011 12:19:23 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Apr 2011 04:46:01 +0000</listdate>
+    <saledate>Sun, 03 Jul 2011 06:32:55 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>Gently used. Shipping is $5, or free with purchase of a game with a higher shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 May 2011 14:33:54 +0000</listdate>
+    <saledate>Sun, 08 May 2011 15:59:45 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>for the winner of my BIN auction, includes Falling</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 May 2011 00:22:43 +0000</listdate>
+    <saledate>Sun, 29 May 2011 15:46:16 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Brand New, factory sealed! Z-Man Edition
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard Shipping to USA48: $3.95
+I will combine shipping to save you money when ordering multiple games.
+Standard shipping is USPS. Other shipping options are available upon request (Next Day / UPS / FEDEX). Contact for shipping quote.
+Alaska and Hawaii orders are shipped via USPS.
+International orders are shipped via USPS First Class (under 4 pounds) or USPS Priority Mail (up to 70 pounds per box). Contact for shipping quote.
+Orders ship within 1 business day from receipt of payment (5-10 day waiting period on personal checks).
+Ohio residents will be charged 6.5% sales tax.
+Thank-you,
+Mr. B
+ROCKIN’ B GAMES
+www.rockinbgames.com
+mrb.rockinbgames@gmail.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 May 2011 04:36:28 +0000</listdate>
+    <saledate>Tue, 09 Aug 2011 19:17:54 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Brand New, factory sealed! Z-Man Edition
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard Shipping to USA48: $3.95
+I will combine shipping to save you money when ordering multiple games.
+Standard shipping is USPS. Other shipping options are available upon request (Next Day / UPS / FEDEX). Contact for shipping quote.
+Alaska and Hawaii orders are shipped via USPS.
+International orders are shipped via USPS First Class (under 4 pounds) or USPS Priority Mail (up to 70 pounds per box). Contact for shipping quote.
+Orders ship within 1 business day from receipt of payment (5-10 day waiting period on personal checks).
+Ohio residents will be charged 6.5% sales tax.
+Thank-you,
+Mr. B
+ROCKIN’ B GAMES
+www.rockinbgames.com
+mrb.rockinbgames@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Aug 2011 03:56:14 +0000</listdate>
+    <saledate>Wed, 10 Aug 2011 13:40:17 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $14.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Aug 2011 02:58:01 +0000</listdate>
+    <saledate>Mon, 22 Aug 2011 15:23:44 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>Great condition on this game (I received it as part of a trade but never played it myself). I_T_E_M_P_T_A_G_#039;ve inventoried all the cards and checked them for damage and wear. It looks like it_T_E_M_P_T_A_G_#039;s only been played a handful of times, and the box is in similarly great condition.
+I prefer Paypal or Amazon.com Payments, pack securely, and ship via USPS parcel post. I_T_E_M_P_T_A_G_#039;m asking $6 to ship and will refund any difference over $2.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Sep 2011 16:35:10 +0000</listdate>
+    <saledate>Tue, 06 Sep 2011 16:54:32 +0000</saledate>
+    <price currency='GBP'>7</price>
+    <condition>likenew</condition>
+    <notes>Opened but unused.
+Postage to UK is 2.50.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Sep 2011 23:58:42 +0000</listdate>
+    <saledate>Sun, 18 Sep 2011 21:01:58 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $14.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Sep 2011 11:44:15 +0000</listdate>
+    <saledate>Mon, 03 Oct 2011 21:26:54 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $19.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2011 20:48:14 +0000</listdate>
+    <saledate>Thu, 30 Aug 2012 18:57:55 +0000</saledate>
+    <price currency='EUR'>6.99</price>
+    <condition>new</condition>
+    <notes>German version from Amigo.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2011 16:54:22 +0000</listdate>
+    <saledate>Wed, 16 Nov 2011 22:57:59 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Played, complete, in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Nov 2011 00:38:39 +0000</listdate>
+    <saledate>Thu, 03 Nov 2011 00:56:46 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>For CalebSkye only.  </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Dec 2011 20:01:51 +0000</listdate>
+    <saledate>Sat, 03 Mar 2012 05:05:41 +0000</saledate>
+    <price currency='USD'>9.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner. 
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Dec 2011 17:59:12 +0000</listdate>
+    <saledate>Fri, 16 Dec 2011 01:05:03 +0000</saledate>
+    <price currency='USD'>9.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $9.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Dec 2011 15:55:09 +0000</listdate>
+    <saledate>Thu, 16 Feb 2012 00:35:58 +0000</saledate>
+    <price currency='USD'>2.15</price>
+    <condition>likenew</condition>
+    <notes>Saboteur (Chinese Edition)
+Condition: Like New (Opened, Never Played)
+Includes: 108 cards (missing 1 straight path card and 1 mine cart action card), game box, original English and Chinese rules.
+I will ship via USPS after shipping costs have been determined and payment has been received. Please let me know if another shipping method is preferred.  I will combine shipping if multiple items are purchased.  Shipping from: 45202.
+PayPal and Amazon Payments accepted.  Please don_T_E_M_P_T_A_G_#039;t use a credit card in order to avoid the extra fees.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Dec 2011 02:19:44 +0000</listdate>
+    <saledate>Thu, 05 Jan 2012 12:51:57 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>for user chrislanning8 </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jan 2012 23:18:34 +0000</listdate>
+    <saledate>Wed, 22 Feb 2012 03:08:42 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $3.95</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jan 2012 18:28:32 +0000</listdate>
+    <saledate>Wed, 15 Feb 2012 01:44:37 +0000</saledate>
+    <price currency='CAD'>7</price>
+    <condition>likenew</condition>
+    <notes>English Edition. 
+Game just removed from shrink wrap. No wear and tear, all facets of the game are intact. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Feb 2012 22:17:28 +0000</listdate>
+    <saledate>Mon, 30 Apr 2012 02:33:14 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $3.95
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Mar 2012 04:09:01 +0000</listdate>
+    <saledate>Tue, 13 Mar 2012 08:25:58 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $14.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Mar 2012 14:26:35 +0000</listdate>
+    <saledate>Mon, 07 May 2012 13:42:39 +0000</saledate>
+    <price currency='USD'>9.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+ 
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner. 
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Mar 2012 14:50:09 +0000</listdate>
+    <saledate>Wed, 25 Apr 2012 23:43:32 +0000</saledate>
+    <price currency='USD'>9.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+ You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner. 
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Mar 2012 13:11:04 +0000</listdate>
+    <saledate>Tue, 08 May 2012 02:41:17 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $14.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Mar 2012 01:54:12 +0000</listdate>
+    <saledate>Sat, 21 Apr 2012 13:56:35 +0000</saledate>
+    <price currency='USD'>7.5</price>
+    <condition>likenew</condition>
+    <notes>Shipping from 02130 USA</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Apr 2012 15:09:07 +0000</listdate>
+    <saledate>Thu, 05 Apr 2012 04:52:07 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>**Private listing for Robman**</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Apr 2012 03:17:01 +0000</listdate>
+    <saledate>Thu, 16 Aug 2012 06:00:34 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $3.95</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 May 2012 14:03:23 +0000</listdate>
+    <saledate>Thu, 31 May 2012 01:21:23 +0000</saledate>
+    <price currency='USD'>9.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG 4026)
+ You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner. 
+A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 May 2012 13:22:15 +0000</listdate>
+    <saledate>Wed, 11 Jul 2012 00:53:07 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>************************************************************
+* * *   I am currently running the following auction   * * *
+WORLD WIDE Auction - Games you always wanted to get, but were 
+afraid to ask. Plus DISCOUNTS Plus FREE game offer!! - ENDS July 9
+http://boardgamegeek.com/geeklist/74420/world-wide-auction-games-you-always-wanted-to-ge
+* * *   Many fantastic games hard to find these days   * * *
+************************************************************
+Brand new in shrink wrap.
+New edition from Amigo.
+Outstanding game for the whole family and big group of friends as this game plays up to 10 players! Very enticing and guessing game, trying to outwit your opponents. But you also must guess your friends. Do you think you_T_E_M_P_T_A_G_#039;re on the same wave length thought wise??? Well, get this game and find out!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 off THIS game AND $2 off the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+20th Century
+6 Nimmt! - Category 5
+A la Carte
+Alcatraz
+Alhambra - Anniversary Edition
+Altamira
+Assyria
+Atlantis
+Auf Achse
+Basilica
+Big Five
+Biblios
+Busen Memo
+Cavum
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+Elasund
+Endeavor / Magister Navis
+Era of Inventions
+Fluch der Mumie / Pyramid
+Fresko
+Grand Cru
+Graenaland
+Greed, Incorporated
+Hab _T_E_M_P_T_A_G_amp; Gut
+Hamburgum
+Heckmeck am Bratwurmeck / Pickomino
+Hornet
+Jäger und Sammler
+Kamisado
+Keltis - Kartenspiel
+Keltis - Travel Edition
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kings of Mithril
+KuhHandel / You_T_E_M_P_T_A_G_#039;re Bluffing!
+Land Unter / Turn the Tide
+League of Six
+Le Havre
+Level X
+Looping Louie
+Lost Valley
+Magnum Sal
+Meuterer
+Mundus Novus
+Nürnberg / Norenberc - Die Zünfte der Stadt
+Onirim
+Opera
+Pret-a-Porter
+Principato
+Rapa Nui
+Relationship Tightrope
+Saboteur
+San Francisco
+Safranito
+Santa Cruz
+Shipyard / Die Werft
+Steel Driver
+Stone Age
+Strasbourg
+Sun, Sea _T_E_M_P_T_A_G_amp; Sand
+Sushizock im Gockelwok
+Terra Turrium
+The Great Fire of London
+Tinner_T_E_M_P_T_A_G_#039;s Trail
+Tobago
+Trajan
+Uluru
+Village
+Vinhos
+Yspahan</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Jun 2012 03:02:15 +0000</listdate>
+    <saledate>Wed, 14 Nov 2012 05:13:00 +0000</saledate>
+    <price currency='CAD'>14</price>
+    <condition>new</condition>
+    <notes>Snakes _T_E_M_P_T_A_G_amp; Lattes is Toronto_T_E_M_P_T_A_G_#039;s first Board Game Cafe.
+Prices include TAXES
+Local Pick up available:
+Snakes _T_E_M_P_T_A_G_amp; Lattes
+600 Bloor St West
+TORONTO, ON
+M6G 1K4
+Feel free to contact us at: games@snakesandlattes.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jun 2012 03:53:18 +0000</listdate>
+    <saledate>Thu, 18 Oct 2012 00:06:05 +0000</saledate>
+    <price currency='CAD'>10</price>
+    <condition>likenew</condition>
+    <notes>Played only a few times.
+Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jun 2012 00:17:19 +0000</listdate>
+    <saledate>Sat, 23 Jun 2012 02:46:52 +0000</saledate>
+    <price currency='USD'>2.5</price>
+    <condition>verygood</condition>
+    <notes>reserved for midnightdew</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jun 2012 20:47:58 +0000</listdate>
+    <saledate>Fri, 29 Jun 2012 15:06:06 +0000</saledate>
+    <price currency='EUR'>6.49</price>
+    <condition>new</condition>
+    <notes>German edition by Amigo, sealed
+218 gramme
+shipping: letter</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Aug 2012 20:27:50 +0000</listdate>
+    <saledate>Fri, 07 Dec 2012 21:51:03 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $3.95</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Aug 2012 21:19:04 +0000</listdate>
+    <saledate>Tue, 28 Aug 2012 20:58:58 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Mint condition. $2 shipping to the U.S.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Aug 2012 19:08:21 +0000</listdate>
+    <saledate>Tue, 18 Sep 2012 20:34:05 +0000</saledate>
+    <price currency='EUR'>6.99</price>
+    <condition>new</condition>
+    <notes>German version from Amigo.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Aug 2012 09:05:54 +0000</listdate>
+    <saledate>Thu, 20 Sep 2012 12:25:42 +0000</saledate>
+    <price currency='EUR'>6.9</price>
+    <condition>new</condition>
+    <notes>mint!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Sep 2012 21:04:50 +0000</listdate>
+    <saledate>Thu, 13 Sep 2012 16:57:03 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>Geeklist auction item reserved for johnag68 ONLY!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Sep 2012 21:23:25 +0000</listdate>
+    <saledate>Tue, 28 Jan 2014 19:26:58 +0000</saledate>
+    <price currency='EUR'>6.99</price>
+    <condition>new</condition>
+    <notes>German version from Amigo.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Nov 2012 22:09:31 +0000</listdate>
+    <saledate>Wed, 06 Mar 2013 20:31:00 +0000</saledate>
+    <price currency='USD'>7.99</price>
+    <condition>likenew</condition>
+    <notes>Played once, but like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Nov 2012 22:10:38 +0000</listdate>
+    <saledate>Mon, 05 Nov 2012 05:34:27 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Auction win for Dewstin.
+Includes Summoner Wars mounted board.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Nov 2012 01:40:48 +0000</listdate>
+    <saledate>Wed, 14 Nov 2012 15:29:06 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Reserved for svgamer
+pickup at BGG con</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Nov 2012 02:59:10 +0000</listdate>
+    <saledate>Fri, 28 Dec 2012 18:21:32 +0000</saledate>
+    <price currency='USD'>10.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $10.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Dec 2012 06:03:19 +0000</listdate>
+    <saledate>Tue, 04 Dec 2012 06:11:57 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Includes Saboteur 2 and a deck box.
+Reserved for user davido.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2012 11:18:34 +0000</listdate>
+    <saledate>Sat, 08 Dec 2012 20:48:53 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Dec 2012 19:35:07 +0000</listdate>
+    <saledate>Thu, 12 Jun 2014 21:29:08 +0000</saledate>
+    <price currency='USD'>10.49</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $3.95</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Dec 2012 23:58:18 +0000</listdate>
+    <saledate>Mon, 31 Dec 2012 17:01:07 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>verygood</condition>
+    <notes>This is for cpanthersfan only - auction win!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Dec 2012 02:06:59 +0000</listdate>
+    <saledate>Mon, 22 Sep 2014 02:53:32 +0000</saledate>
+    <price currency='USD'>11.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SABOTEUR: $11.95
+Z-Man Games [ZMG 4026]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Feb 2013 14:25:36 +0000</listdate>
+    <saledate>Fri, 01 Feb 2013 18:40:19 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>verygood</condition>
+    <notes>This game has been played once.
+Usually, this game sells for around $10 on CSI or BnB.
+Contact me with your zipcode to get an accurate shipping estimate. Unless you give a preference, I will ship whichever of USPS, UPS, or FedEx is cheapest with delivery confirmation. 
+I will gladly combine shipping for multiple games.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Feb 2013 04:08:11 +0000</listdate>
+    <saledate>Mon, 29 Apr 2013 09:07:24 +0000</saledate>
+    <price currency='AUD'>7.5</price>
+    <condition>good</condition>
+    <notes>German edition. Game is language independent. Played a few times.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage.
+Pickup in St Ives available.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Feb 2013 00:55:13 +0000</listdate>
+    <saledate>Wed, 27 Mar 2013 17:19:58 +0000</saledate>
+    <price currency='USD'>8.95</price>
+    <condition>likenew</condition>
+    <notes>opened but never been played</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Feb 2013 01:04:40 +0000</listdate>
+    <saledate>Mon, 25 Mar 2013 17:58:24 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>Cards still in shrink!!
+ColtsFan76 only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Feb 2013 18:59:10 +0000</listdate>
+    <saledate>Sat, 30 Mar 2013 19:26:11 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>new</condition>
+    <notes>German Firt edition - still in shrink. Print out of English rules supplied. GAme is language independant.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Feb 2013 22:17:31 +0000</listdate>
+    <saledate>Mon, 21 Oct 2013 00:41:38 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>Item is new in Shrink. For NA shipping or Toronto local pickup.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Mar 2013 04:27:46 +0000</listdate>
+    <saledate>Wed, 06 Mar 2013 06:16:47 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>Auction item for tremechus.
+Shipping via small flat rate box.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Mar 2013 01:58:45 +0000</listdate>
+    <saledate>Mon, 18 Mar 2013 02:30:43 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>RESERVED for BGG user Flightsurg</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Mar 2013 06:59:35 +0000</listdate>
+    <saledate>Tue, 26 Mar 2013 11:27:24 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>Reserved for fedspaz</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Apr 2013 01:01:40 +0000</listdate>
+    <saledate>Wed, 17 Apr 2013 19:20:19 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>Played twice, excellent condition.  Will ship to US only for $4.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Apr 2013 16:38:10 +0000</listdate>
+    <saledate>Mon, 10 Jun 2013 16:54:01 +0000</saledate>
+    <price currency='GBP'>9</price>
+    <condition>verygood</condition>
+    <notes>Dal Negro multi-language version.
+Cards in excellent condition.
+Box is scruffy and marked, but complete.
+Rules in English, German, Italian, Dutch and French.
+Reserved for Ben Bateson as per May/June 2013 Euro Auction list.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 May 2013 17:19:57 +0000</listdate>
+    <saledate>Sun, 05 May 2013 17:27:29 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Derek Carpenter - DerekBC</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 May 2013 08:09:13 +0000</listdate>
+    <saledate>Fri, 31 May 2013 09:35:50 +0000</saledate>
+    <price currency='GBP'>4</price>
+    <condition>verygood</condition>
+    <notes>* Auctioned item, listed for thegrey *
+Plus £4 postage, as discussed on original listing. :)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Jul 2013 04:42:47 +0000</listdate>
+    <saledate>Sat, 13 Jul 2013 05:02:29 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Shawnad2006</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Aug 2013 01:02:43 +0000</listdate>
+    <saledate>Tue, 06 Aug 2013 05:45:28 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>reserved for RichardHMarshall
+includes Sab 2</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Aug 2013 10:17:08 +0000</listdate>
+    <saledate>Wed, 14 Aug 2013 13:00:35 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>For BGG user Ian2400 ONLY</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Sep 2013 07:14:05 +0000</listdate>
+    <saledate>Fri, 29 Aug 2014 17:49:28 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>likenew</condition>
+    <notes>Opened, played once, complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Sep 2013 07:50:17 +0000</listdate>
+    <saledate>Tue, 08 Oct 2013 19:58:22 +0000</saledate>
+    <price currency='EUR'>4</price>
+    <condition>verygood</condition>
+    <notes>Dutch edition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Oct 2013 23:29:53 +0000</listdate>
+    <saledate>Tue, 07 Jan 2014 07:29:09 +0000</saledate>
+    <price currency='USD'>7.5</price>
+    <condition>likenew</condition>
+    <notes>Played once</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Nov 2013 15:45:55 +0000</listdate>
+    <saledate>Wed, 08 Jan 2014 01:56:26 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>Brand new. Will ship for $5 in the U.S.. Message me for international shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Nov 2013 20:28:12 +0000</listdate>
+    <saledate>Tue, 01 Jul 2014 00:15:10 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>INCLUDES: Saboteur + Saboteur 2.  Each one is opened and has been played once. Box shows some shelf wear but cards are like new condition. US Shipping $4.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Dec 2013 14:45:53 +0000</listdate>
+    <saledate>Sun, 15 Dec 2013 22:45:36 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Dec 2013 17:43:33 +0000</listdate>
+    <saledate>Mon, 17 Feb 2014 09:57:27 +0000</saledate>
+    <price currency='AUD'>10</price>
+    <condition>verygood</condition>
+    <notes>Shipping ~$8 flat australia wide. Bank deposit preferred.
+Combined shipping possible</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Mar 2014 12:58:27 +0000</listdate>
+    <saledate>Fri, 28 Mar 2014 00:45:09 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>good</condition>
+    <notes>Reserved for rcaffee.
+This item was part of the Virtual Marketplace for SaltCON.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Apr 2014 20:48:24 +0000</listdate>
+    <saledate>Sat, 26 Apr 2014 21:15:48 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>new</condition>
+    <notes>Reserved for User Andy</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jun 2014 16:18:13 +0000</listdate>
+    <saledate>Sun, 06 Jul 2014 18:14:38 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Like new. 3 main gem cards have been laminated. Game still in shrink wrap, only bottom portion removed.
+English Z-Man edition.
+Ships TODAY !!! 
+Get $4 DISCOUNT. See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1989
+303
+----- A -----
+Agricola: Belgium Deck
+American Rails
+Automobile
+----- B -----
+Bora Bora
+Bremerhaven
+----- C -----
+Cafe International: Das Kartenspiel
+Cavum
+Concordia
+----- E -----
+Express 01
+Europe Engulfed
+----- G -----
+Goa
+Greed Incorporated
+----- H -----
+Hippo Hopp
+Homesteaders
+----- I -----
+India Rails
+----- M -----
+Madeira
+Maly Ksiaze - The Little Prince
+Milestones
+Mount Everest
+----- N -----
+Navajo Wars
+Nottingham
+----- O -----
+Olympos
+One More Barrel
+----- P -----
+Packet Row
+Pantheon
+----- Q -----
+Quebec
+----- R -----
+Railways Express
+Railways of Europe
+Rialto
+Russian Railroads
+----- S -----
+Soccero
+Struggle of Empires
+----- T -----
+The New Era: Spiel 2011 Promo Pack 
+----- V -----
+Vampire Empire
+Vikings
+Vinhos</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jun 2014 22:16:24 +0000</listdate>
+    <saledate>Tue, 10 Jun 2014 22:19:00 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/161319/item/3182116#3182116]Item for Geeklist _T_E_M_P_T_A_G_quot;The _T_E_M_P_T_A_G_quot;I just moved and don_T_E_M_P_T_A_G_#039;t have the space for these games_T_E_M_P_T_A_G_quot; Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+1or 2 plays</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Aug 2014 01:35:56 +0000</listdate>
+    <saledate>Tue, 26 Aug 2014 23:16:22 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/177987/item/3391092#3391092]Item for Geeklist _T_E_M_P_T_A_G_quot;Biggest Little City Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Sep 2014 23:44:20 +0000</listdate>
+    <saledate>Tue, 09 Sep 2014 00:52:58 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>For user mvines</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Sep 2014 07:13:58 +0000</listdate>
+    <saledate>Tue, 23 Sep 2014 05:39:02 +0000</saledate>
+    <price currency='AUD'>10</price>
+    <condition>verygood</condition>
+    <notes>For spwaugh only.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Aug 2014 17:15:45 +0000</listdate>
+    <saledate>Sun, 05 Oct 2014 20:29:16 +0000</saledate>
+    <price currency='USD'>9.95</price>
+    <condition>likenew</condition>
+    <notes>Played once.  Includes Saboteur 2 expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Oct 2014 11:52:10 +0000</listdate>
+    <saledate>Mon, 06 Oct 2014 13:32:59 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes>Also includes Saboteur 2 expansion. Reserved by Wagglybean via GeekAuction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Oct 2014 22:13:04 +0000</listdate>
+    <saledate>Wed, 08 Oct 2014 23:46:24 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>ONLY FOR GAMES FOR OWEN AUCTION WINNER:
+zcontest
+Includes Saboteur and two other card games per auction details.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Oct 2014 14:13:09 +0000</listdate>
+    <saledate>Sat, 18 Oct 2014 04:53:48 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>good</condition>
+    <notes>Reserved for Matt Kennedy - won at auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Sep 2014 16:08:38 +0000</listdate>
+    <saledate>Mon, 17 Nov 2014 18:40:24 +0000</saledate>
+    <price currency='EUR'>5.75</price>
+    <condition>verygood</condition>
+    <notes>Original German Amigo edition. Components are language independent.
+Box shows little wear. Inside everything there in great condition. Game has hardly been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Nov 2014 08:16:40 +0000</listdate>
+    <saledate>Mon, 17 Nov 2014 20:41:38 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>Comes with Saboteur 2, combined into one box.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Mar 2014 16:38:57 +0000</listdate>
+    <saledate>Tue, 18 Nov 2014 15:35:14 +0000</saledate>
+    <price currency='GBP'>9.99</price>
+    <condition>new</condition>
+    <notes>Saboteur
+Brand New - Sealed
+English edition
+RRP £11.99...Smallwars Price £9.99
+UK delivery from £1.48
+We ship worldwide, Contact Us for the best price!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jul 2014 22:39:52 +0000</listdate>
+    <saledate>Tue, 02 Dec 2014 00:48:17 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes>Lovely condition game.
+Hardly played.
+English language only.
+From a smoke free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Nov 2014 06:10:40 +0000</listdate>
+    <saledate>Sun, 07 Dec 2014 19:42:24 +0000</saledate>
+    <price currency='USD'>12.95</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink.  Buyer pays shipping from 80919.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Sep 2014 20:17:57 +0000</listdate>
+    <saledate>Sun, 14 Dec 2014 17:57:59 +0000</saledate>
+    <price currency='GBP'>9</price>
+    <condition>verygood</condition>
+    <notes>Game is language independent. Rules in English, German, French, Dutch and Italian.
+Cards are excellent condition (have only been played sleeved). Box is showing some shelf wear on the edges.
+Can include current sleeves, although some need replacing.
+Pet- and smoke-free home!
+Only selling this with Saboteur 2, which is excellent and adds more special roles (see separate listing - combined shipping available - ask for quote).
+Will also include laminated play guides that give a summary of how to play and end-game scoring.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Dec 2014 03:10:04 +0000</listdate>
+    <saledate>Fri, 19 Dec 2014 15:29:58 +0000</saledate>
+    <price currency='USD'>17.95</price>
+    <condition>new</condition>
+    <notes>In shrinkwrap. Perfect. English version. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. I have many hundreds of games for sale and would be happy to combine shipping charges for multiple games to save you money. Shipping weight is 2 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Dec 2014 20:29:09 +0000</listdate>
+    <saledate>Wed, 24 Dec 2014 14:05:25 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>likenew</condition>
+    <notes>not used.
+Postage (package up to 2 kg):
+Netherlands: Normal: € 6,95 * Track_T_E_M_P_T_A_G_amp;trace: € 6,95 * Registered: € 8,60
+Europe: Normal:€ 9,00 * Track_T_E_M_P_T_A_G_amp;trace:€ 13,00 * Registered:€ 14,65
+World: Normal:€ 18,00 * Track_T_E_M_P_T_A_G_amp;trace:€ 24,30 * Registered:€ 25,95</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Jun 2014 00:27:06 +0000</listdate>
+    <saledate>Fri, 02 Jan 2015 10:22:49 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Game complete and in excellent condition. Comes with Saboteur 2 Expansion. Zman Edition for both.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Jan 2015 04:48:44 +0000</listdate>
+    <saledate>Mon, 26 Jan 2015 04:58:54 +0000</saledate>
+    <price currency='CAD'>7</price>
+    <condition>good</condition>
+    <notes>Reserved for user Kurosaba
+Auction win</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Feb 2015 03:13:54 +0000</listdate>
+    <saledate>Sun, 01 Feb 2015 03:31:38 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>Auction - for Flame Point Crispin only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Jan 2015 23:16:42 +0000</listdate>
+    <saledate>Sun, 01 Feb 2015 03:45:40 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR CALIMAR75
+Z-man games. Played a couple times. Cards are still in great shape. Comes with small box band. 
+shipping is $5.25 Priority Mail
+paypal: xxbriguyxx@hotmail.com
+This sale has been auto-generated for the auction: [geekurl=/geeklist/185634/item/3684188#3684188]Item for Geeklist _T_E_M_P_T_A_G_quot;xxbriguyxx_T_E_M_P_T_A_G_#039;s 27th _T_E_M_P_T_A_G_quot;Time to cull my game collection_T_E_M_P_T_A_G_quot; Auction...Most items starting at $6, NO BIN AUCTION **Ends FRIDAY NOVEMBER 7TH** AUCTION OVER_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Aug 2014 14:41:18 +0000</listdate>
+    <saledate>Mon, 16 Feb 2015 14:20:05 +0000</saledate>
+    <price currency='EUR'>5.5</price>
+    <condition>likenew</condition>
+    <notes>Played once. Excellent condition.
+Payment within Europe IBAN prefered.
+Postage (package up to 2 kg):   
+Netherlands: Normal: € 6,95 * Track_T_E_M_P_T_A_G_amp;trace: € 6,95  * Registered: € 8,60
+Europe:  Normal:€ 9,00 * Track_T_E_M_P_T_A_G_amp;trace:€ 13,00 * Registered:€ 14,65
+World: Normal:€ 18,00 * Track_T_E_M_P_T_A_G_amp;trace:€ 24,30 * Registered:€ 25,95
+Please check out my other items for sale!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Mar 2015 03:22:50 +0000</listdate>
+    <saledate>Mon, 16 Mar 2015 10:31:38 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>For auction winner Lunus only.
+Shipping is extra.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Mar 2015 21:46:11 +0000</listdate>
+    <saledate>Sun, 29 Mar 2015 23:11:49 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This is a winning auction bid and will only be sold to one person.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Apr 2015 03:06:31 +0000</listdate>
+    <saledate>Fri, 17 Apr 2015 05:36:32 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/189319/item/3816751#3816751]Item for Geeklist _T_E_M_P_T_A_G_quot;48 hours remain! Auction to pay Uncle Sam - Ends 4/12 - 70+ games including OOP (Blood Bowl, Robo Rally Expansions, etc) - local GA pickup or at Lexicon available_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Apr 2015 13:00:47 +0000</listdate>
+    <saledate>Fri, 17 Apr 2015 14:53:36 +0000</saledate>
+    <price currency='USD'>9.49</price>
+    <condition>new</condition>
+    <notes>Z-Man Games (ZMG4026)
+You are dwarves digging for gold in the depths of a mine when suddenly, the pick-axe breaks, and the lantern goes out. The saboteur has struck again! But who is the saboteur and will he (or they!) stop you from reaching the treasure? If you succeed, gold awaits you. If you don_T_E_M_P_T_A_G_#039;t, then to the victor goes the spoils. Whoever has the most gold nuggets after three rounds is the winner. A 3-10 player path-laying card game where each player has a role and no one knows for sure what that role is.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Feb 2015 02:28:34 +0000</listdate>
+    <saledate>Tue, 05 May 2015 16:07:00 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>Played a few times. Still in great condition. Includes laminated rules summary. $2.00 shipping via UPS to anywhere in the continental US.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 May 2015 09:23:21 +0000</listdate>
+    <saledate>Fri, 22 May 2015 04:31:21 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>new</condition>
+    <notes>Free shipping by untracked mail, 2 € more for registered airmail. 
+NEW, 
+ Include 44 path cards, 27 action cards, 28 gold nugget cards, 7 gold-diggers, 4 saboteurs
+3-10 players are allowed during the game
+Offer you a lot of fun
+You can not only play cards to kill boring time, but also use them to enrich your kid’s mind
+Developed for kids above 8 years old</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jun 2015 10:18:04 +0000</listdate>
+    <saledate>Tue, 23 Jun 2015 07:36:26 +0000</saledate>
+    <price currency='AUD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played once. $5 shipping ex Cairns within Australia</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Jun 2015 11:19:24 +0000</listdate>
+    <saledate>Mon, 27 Jul 2015 18:19:23 +0000</saledate>
+    <price currency='GBP'>7</price>
+    <condition>likenew</condition>
+    <notes>P_T_E_M_P_T_A_G_amp;P £3 to the UK</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Aug 2015 05:17:46 +0000</listdate>
+    <saledate>Mon, 03 Aug 2015 17:13:07 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>Payment to bradleyderek@gmail.com
+This sale has been auto-generated for the auction: [geekurl=/geeklist/193884/item/4016497#4016497]Item for Geeklist _T_E_M_P_T_A_G_quot;All games $10 starting bid Egalitarian Auction ends Friday, July 31!  (US/INTL)  FREE SHIPPING INCENTIVE_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Mar 2015 19:33:36 +0000</listdate>
+    <saledate>Thu, 13 Aug 2015 15:03:35 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>Open, but unplayed. Shipping is $5.00.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Jun 2015 14:44:39 +0000</listdate>
+    <saledate>Wed, 19 Aug 2015 16:06:04 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>Bundle:
+- Saboteur (Amigo) , deutsche Regeln, wenige Male gespielt
+- Saboteur (ZMan), englische Regeln - allerdings sonst komplett sprachneutral - ungespielt, wie neu
+- 10 Jahre Saboteur, Promo Stollengold - ungespielt, neu</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Aug 2015 16:59:12 +0000</listdate>
+    <saledate>Sun, 23 Aug 2015 00:53:11 +0000</saledate>
+    <price currency='USD'>4.49</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Jul 2015 16:12:45 +0000</listdate>
+    <saledate>Mon, 24 Aug 2015 02:26:51 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>No wear on cards. Game complete!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Aug 2015 01:23:43 +0000</listdate>
+    <saledate>Mon, 24 Aug 2015 02:54:28 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>Saboteur
+Saboteur 2
+Ogre: Pocket Edition
+Reserved for harlaquinne
+Shipping costs will be calculated and added to the purchase price.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Aug 2015 12:10:47 +0000</listdate>
+    <saledate>Mon, 31 Aug 2015 03:35:39 +0000</saledate>
+    <price currency='USD'>4.49</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Sep 2015 04:35:40 +0000</listdate>
+    <saledate>Sun, 20 Sep 2015 17:56:16 +0000</saledate>
+    <price currency='USD'>11.68</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Sep 2015 01:17:04 +0000</listdate>
+    <saledate>Wed, 30 Sep 2015 03:25:54 +0000</saledate>
+    <price currency='USD'>17.99</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Oct 2015 02:50:50 +0000</listdate>
+    <saledate>Fri, 30 Oct 2015 03:24:09 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Saboteur _T_E_M_P_T_A_G_amp; Saboteur 2.
+Reserved for Norad2000x</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Oct 2015 21:04:44 +0000</listdate>
+    <saledate>Sun, 08 Nov 2015 11:31:31 +0000</saledate>
+    <price currency='GBP'>11</price>
+    <condition>likenew</condition>
+    <notes>This sale is for Saboteur 1 _T_E_M_P_T_A_G_amp; 2.  I have played both once and they as both in as new condition.
+UK Postage £3.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Dec 2014 09:54:48 +0000</listdate>
+    <saledate>Tue, 10 Nov 2015 11:55:54 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>new</condition>
+    <notes>Game: Saboteur (Amigo)
+Condition: new in shrinkwrap
+Language: German, material language independent
+Look below for information on payment, shipping, returns and cancellation.
+Thanks in advance for ordering!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Nov 2015 20:20:23 +0000</listdate>
+    <saledate>Thu, 12 Nov 2015 23:52:24 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>Reserved for dwarvenfiend. Delivery at BGG.Con 2015.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/197039/item/4230314#4230314]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Nov 2015 20:42:06 +0000</listdate>
+    <saledate>Fri, 13 Nov 2015 01:26:14 +0000</saledate>
+    <price currency='GBP'>3</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/199145/item/4257853#4257853]Item for Geeklist _T_E_M_P_T_A_G_quot;[UK/Europe] THIRTEENTH (CHILDREN IN NEED SPECIAL) AUCTION - towards my 2015 Challenge: Ends 12 November_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Dec 2015 23:28:46 +0000</listdate>
+    <saledate>Wed, 09 Dec 2015 14:07:36 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Dec 2015 03:30:58 +0000</listdate>
+    <saledate>Fri, 11 Dec 2015 05:06:52 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/200974/item/4319761#4319761]Item for Geeklist _T_E_M_P_T_A_G_quot;A simple auction! Reasonable BINs! Ends Saturday. US shipping only!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Dec 2015 18:00:38 +0000</listdate>
+    <saledate>Sat, 26 Dec 2015 06:32:15 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>selling Saboteur $6+shipping
+only played in twice. Like New Condition.
+Local pickup available if you are in the San Diego area
+** For only $4 more, I_T_E_M_P_T_A_G_#039;ll include Saboteur 2.
+I take Paypal or Square Cash (http://cash.me/)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Dec 2015 19:35:53 +0000</listdate>
+    <saledate>Mon, 28 Dec 2015 01:04:07 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played once, all components present and in excellent condition.
+$5 shipping anywhere in US.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Feb 2016 18:45:33 +0000</listdate>
+    <saledate>Thu, 04 Feb 2016 22:31:33 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR etchasketch2001
+Saboteur + Saboteur 2
+This sale has been auto-generated for the auction: [geekurl=/geeklist/204688/item/4432863#4432863]Item for Geeklist _T_E_M_P_T_A_G_quot;The _T_E_M_P_T_A_G_quot;holy crap living in New York is expensive_T_E_M_P_T_A_G_quot; Auction!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Feb 2016 08:39:40 +0000</listdate>
+    <saledate>Sun, 28 Feb 2016 11:07:53 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Mar 2016 21:11:59 +0000</listdate>
+    <saledate>Sun, 13 Mar 2016 21:26:07 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/206078/item/4504764#4504764]Item for Geeklist _T_E_M_P_T_A_G_quot;25/75 Auction (Part 1 _T_E_M_P_T_A_G_amp; 2)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jan 2016 07:07:45 +0000</listdate>
+    <saledate>Tue, 15 Mar 2016 10:37:09 +0000</saledate>
+    <price currency='USD'>9.95</price>
+    <condition>likenew</condition>
+    <notes>Played once
+Can ship with USPS First Class shipping or Small Flat</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Nov 2015 13:26:39 +0000</listdate>
+    <saledate>Mon, 02 May 2016 00:23:42 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Game has only been played once.  Minimal shelf wear on corners, otherwise box is in very good condition.
+Will ship media mail for free.  Message me if you would like faster shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 May 2016 04:49:13 +0000</listdate>
+    <saledate>Sat, 07 May 2016 23:36:08 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Reserved for user _T_E_M_P_T_A_G_#039;jmg3363_T_E_M_P_T_A_G_#039; only! From Jharus_T_E_M_P_T_A_G_#039; Spring Cleaning Auction.
+Includes Saboteur 2</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 May 2016 20:41:48 +0000</listdate>
+    <saledate>Mon, 09 May 2016 03:13:53 +0000</saledate>
+    <price currency='GBP'>8.5</price>
+    <condition>new</condition>
+    <notes>Weight:-200g</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Jun 2016 22:03:24 +0000</listdate>
+    <saledate>Sun, 26 Jun 2016 02:28:53 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Mr_Hobo
+Combining shipping, aiming for under $7</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jul 2016 14:27:47 +0000</listdate>
+    <saledate>Fri, 22 Jul 2016 14:30:58 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/210905/item/4720557#4720557]Item for Geeklist _T_E_M_P_T_A_G_quot;[USA] My First Auction - Pandemic Legacy, Super Dungeon Explore, Race for the galaxy, more_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Aug 2016 23:23:31 +0000</listdate>
+    <saledate>Sun, 28 Aug 2016 13:42:09 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/212173/item/4810773#4810773]Item for Geeklist _T_E_M_P_T_A_G_quot;Lots of games, not a lot of $. _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Aug 2016 10:41:30 +0000</listdate>
+    <saledate>Sat, 03 Sep 2016 23:30:07 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for wheelerruss for the math trade offer [listitem=4776026][/listitem] found in [geeklist=212025][/geeklist].
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t provide the corresponding money offer in the trade chain!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Nov 2016 00:38:06 +0000</listdate>
+    <saledate>Sun, 13 Nov 2016 03:04:32 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>Saboteur, $5 cash at BGG.con 2016. I prefer to make all sales at the official meetup, and should be at my table most of the time. If you need to make alternate arrangements, please send a geekmail with your contact information.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/4964484#4964484]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jul 2016 20:50:47 +0000</listdate>
+    <saledate>Sun, 20 Nov 2016 03:45:06 +0000</saledate>
+    <price currency='CAD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Nov 2016 21:46:46 +0000</listdate>
+    <saledate>Mon, 21 Nov 2016 02:14:26 +0000</saledate>
+    <price currency='USD'>10.5</price>
+    <condition>new</condition>
+    <notes>This game is still factory sealed in its original box. Standard retail release version. Offers welcome.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Nov 2016 17:06:18 +0000</listdate>
+    <saledate>Tue, 29 Nov 2016 05:19:25 +0000</saledate>
+    <price currency='USD'>7.18</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Dec 2016 12:39:09 +0000</listdate>
+    <saledate>Sat, 10 Dec 2016 12:39:29 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Nov 2016 14:09:48 +0000</listdate>
+    <saledate>Mon, 19 Dec 2016 23:12:46 +0000</saledate>
+    <price currency='AUD'>30</price>
+    <condition>likenew</condition>
+    <notes>Includes both 1 and 2. My gaming group played through it once but realised it wasn_T_E_M_P_T_A_G_#039;t a game for us.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Jan 2017 17:21:02 +0000</listdate>
+    <saledate>Sun, 08 Jan 2017 13:38:20 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/219000/item/5102358#5102358]Item for Geeklist _T_E_M_P_T_A_G_quot;Post Holiday Auction, Ends 1/5/17, Many Games w/ Expansions_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jan 2017 06:22:09 +0000</listdate>
+    <saledate>Sat, 14 Jan 2017 11:46:22 +0000</saledate>
+    <price currency='USD'>6.97</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jan 2017 05:59:41 +0000</listdate>
+    <saledate>Sun, 05 Feb 2017 18:47:18 +0000</saledate>
+    <price currency='USD'>4.74</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Oct 2016 21:37:20 +0000</listdate>
+    <saledate>Sun, 26 Feb 2017 10:04:49 +0000</saledate>
+    <price currency='EUR'>3</price>
+    <condition>verygood</condition>
+    <notes>Shipping:
+To Germany (WITHOUT tracking/insurance): 1.90 EUR
+To *most* EU countries (WITHOUT tracking/insurance): 3.20 EUR
+(shipping WITH tracking/insurance is also possible, but more expensive. For more shipping information, see below)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Feb 2017 20:07:03 +0000</listdate>
+    <saledate>Mon, 13 Mar 2017 15:45:46 +0000</saledate>
+    <price currency='GBP'>6</price>
+    <condition>verygood</condition>
+    <notes>Saboteur 2 extension is available for sale as well, ask for combined shipping
+Shipping to UK: £3
+Worlwide shipping, ask for a price
+Payment by bank transfer, or paypal (buyer pay eventual fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Jan 2017 07:09:02 +0000</listdate>
+    <saledate>Sat, 25 Mar 2017 00:28:32 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>New to selling on board game geek. Help!!!!! I_T_E_M_P_T_A_G_#039;m culling my collection. This game was opened and played once and then just sat on my shelf. Excellent condition. Buyer pays priority mail shipping. If resides in Seattle/Tacoma, WA area, can make arrangements for pick up.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Mar 2017 23:17:37 +0000</listdate>
+    <saledate>Tue, 28 Mar 2017 23:35:20 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/146056/item/5157626#5157626]Item for Geeklist _T_E_M_P_T_A_G_quot;Portland, OR Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Includes expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jun 2017 05:00:49 +0000</listdate>
+    <saledate>Thu, 13 Jul 2017 01:52:34 +0000</saledate>
+    <price currency='USD'>6.65</price>
+    <condition>verygood</condition>
+    <notes>Condition: corners lightly scuffed</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Jul 2017 02:13:05 +0000</listdate>
+    <saledate>Wed, 19 Jul 2017 03:44:00 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>for alfromri ONLY.
+Includes agreed upon expansions.
+Shipping to be added when buyer confirms purchases (if not local pickup or online shipping change).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Aug 2017 02:49:24 +0000</listdate>
+    <saledate>Sun, 13 Aug 2017 00:06:22 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228396/item/5536519#5536519]Item for Geeklist _T_E_M_P_T_A_G_quot;CBERG_T_E_M_P_T_A_G_#039;s Shelf Clearing Auction #1 - CLOSED!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for 3l33tChris</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jan 2017 08:52:40 +0000</listdate>
+    <saledate>Wed, 23 Aug 2017 06:52:58 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>verygood</condition>
+    <notes>Opened/punched, never played, box has minor wear.
+---------
+PayPal or bank transaction (IBAN).
+Shipping outside of germany is usually 9€ untracked or 14€ tracked.
+Please ask, so i can give you an exact quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Dec 2016 18:56:27 +0000</listdate>
+    <saledate>Mon, 04 Sep 2017 15:19:13 +0000</saledate>
+    <price currency='USD'>6.99</price>
+    <condition>verygood</condition>
+    <notes>Stored on my shelf B2</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Oct 2017 20:33:45 +0000</listdate>
+    <saledate>Sun, 01 Oct 2017 20:59:03 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230281/item/5651267#5651267]Item for Geeklist _T_E_M_P_T_A_G_quot;The Fourth Ever Fredericksburg Game Guild Communal Auction! (USA Only, Ends September 30th)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+- Games are shipped via USPS Priority Mail unless the buyer requests otherwise, at which point we can discuss shipping. 
+- I exclusively use PayPal and PayPal invoices. Please do not pay me until I_T_E_M_P_T_A_G_#039;ve sent you an invoice. 
+This is a useful rundown of how this process works, for those who haven_T_E_M_P_T_A_G_#039;t bought from many auctions before:
+1. You start the process by adding the item to the cart and checking out on BGG. This is your way of saying you want to buy the item.
+2. I price out shipping
+3. Once the order is confirmed, I send you a PayPal invoice that lists what you_T_E_M_P_T_A_G_#039;re buying and how much shipping is.
+4. You pay the invoice.
+5. I purchase shipping, send you a tracking number, and put it in the mail. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2016 16:05:37 +0000</listdate>
+    <saledate>Sun, 15 Oct 2017 18:37:58 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>Still sealed. Shipping will be $6.80 USPS Priority</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Sep 2017 06:39:40 +0000</listdate>
+    <saledate>Mon, 20 Nov 2017 15:40:46 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played.  Box has a small dent at bottom left corner but doesn_T_E_M_P_T_A_G_#039;t affect the structure.  
+S/H $4 within the US.  Please msg for international rates.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Dec 2017 06:36:47 +0000</listdate>
+    <saledate>Sat, 16 Dec 2017 09:34:13 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231629/item/5774344#5774344]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction! Low reserves and BIN_T_E_M_P_T_A_G_#039;s! Everything must go!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Dec 2017 06:03:53 +0000</listdate>
+    <saledate>Sun, 17 Dec 2017 02:10:27 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>likenew</condition>
+    <notes>Never played, only opened.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Jan 2018 03:40:45 +0000</listdate>
+    <saledate>Mon, 05 Feb 2018 09:17:08 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>Cards look like new, slight wear to box. $3 shipping nationwide.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Feb 2018 05:12:09 +0000</listdate>
+    <saledate>Tue, 06 Mar 2018 07:08:53 +0000</saledate>
+    <price currency='EUR'>14.9</price>
+    <condition>new</condition>
+    <notes>Language: english
+Publisher: Mayfair Games
+Game Condition: Mint
+Box Condition: Mint
+PREORDER - Usually available in: waiting restock date from the producer approx
+ID Gis: 24098 (for reference)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 May 2018 16:14:49 +0000</listdate>
+    <saledate>Tue, 29 May 2018 08:54:29 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>acceptable</condition>
+    <notes>This sale has been auto-generated for The5thApe for the math trade offer [listitem=6078259][/listitem] found in [geeklist=239690][/geeklist].
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t provide the corresponding money offer in the trade chain!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Jul 2018 23:30:38 +0000</listdate>
+    <saledate>Fri, 13 Jul 2018 03:35:40 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>This is for bellynice. Don_T_E_M_P_T_A_G_#039;t bid otherwise.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jun 2016 09:49:27 +0000</listdate>
+    <saledate>Thu, 30 Aug 2018 00:07:58 +0000</saledate>
+    <price currency='AUD'>17.5</price>
+    <condition>new</condition>
+    <notes>In shrink.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage:
+https://www.boardgamegeek.com/geekmarket/user/Scholle
+Pickup available in St Ives. Postage cost will depend upon your location.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 May 2018 04:10:50 +0000</listdate>
+    <saledate>Sat, 01 Sep 2018 04:34:50 +0000</saledate>
+    <price currency='USD'>9.49</price>
+    <condition>likenew</condition>
+    <notes>Saboteur - Mayfair Games
+Like New! Removed from shrink and played once, but in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Sep 2018 01:13:11 +0000</listdate>
+    <saledate>Sat, 15 Sep 2018 11:26:37 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>sold to ckruns624 at auction. Do not purchase unless you won this auction
+https://boardgamegeek.com/geeklist/245639/usa-canada-viticulture-civilization-vast-yamatai-m</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Sep 2018 02:48:18 +0000</listdate>
+    <saledate>Fri, 21 Sep 2018 03:46:58 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Sep 2018 06:03:05 +0000</listdate>
+    <saledate>Wed, 03 Oct 2018 21:07:32 +0000</saledate>
+    <price currency='USD'>9.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Oct 2018 18:33:58 +0000</listdate>
+    <saledate>Wed, 07 Nov 2018 15:38:02 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>I will get this in the mail for you as soon as possible, via USPS Priority.
+I accept PayPal or Venmo!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Dec 2018 20:06:19 +0000</listdate>
+    <saledate>Sat, 15 Dec 2018 20:26:40 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>Item is for 7knflickner from auction https://boardgamegeek.com/geeklist/247304/item/6579646?commentid=8450978#comment8450978. 
+If you are not 7knflickner, please don_T_E_M_P_T_A_G_#039;t bid. 
+Shipping included</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Sep 2017 16:44:38 +0000</listdate>
+    <saledate>Sat, 05 Jan 2019 17:30:53 +0000</saledate>
+    <price currency='GBP'>7.5</price>
+    <condition>acceptable</condition>
+    <notes>Likely shipped via MyHermes to the UK.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jan 2019 11:36:18 +0000</listdate>
+    <saledate>Mon, 21 Jan 2019 19:46:41 +0000</saledate>
+    <price currency='GBP'>7.99</price>
+    <condition>likenew</condition>
+    <notes>£2.99 UK shipping, at cost to all other destinations.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

@@ -1,0 +1,1520 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="144592">
+   <yearpublished>2013</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>125</playingtime>
+   <minplaytime>50</minplaytime>
+   <maxplaytime>125</maxplaytime>
+   <age>13</age>
+       <name primary="true" sortindex="1">Bruxelles 1893</name>
+         
+   <description>Bruxelles 1893 is a worker placement game with elements of bidding and majority control. Each player is an architect of the late 19th century and is trying to achieve, through various actions, an architectural work in the Art Nouveau style. The most successful building yields the most points. Each player can also create works of art to increase his score._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The action board is modular, with not every player having access to each action each turn. Some actions cost money _T_E_M_P_T_A_G_amp;ndash; acquiring high-quality materials, building a level of your personal house, finding a patron, creating a work of art, selling that art for money and prestige _T_E_M_P_T_A_G_amp;ndash; while other actions are free but can potentially cause you to lose one of your workers; these latter actions include acquiring low-quality materials, activating your patrons, visiting the stock exchange, and taking one of the actions with a cost. Once everyone has passed on taking more actions, the round ends and players have an art exhibition during which they can sell works. After this, players receive prestige points or bonus cards based on the symbols they've placed their workers next to on the action board._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;After five rounds, the game ends and players score bonus points based on their architect level, their bonus cards, how well they've completed their work, and their money on hand. The player with the most points wins._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/D3WxQJyTEgEXgRZHzo5Qo57x4O0=/fit-in/200x150/pic1726346.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/g-sRalMdRYQ6vL99M6J5fEpNSrc=/0x0/pic1726346.jpg</image>
+      
+            <boardgamepublisher objectid="12884">Pearl Games</boardgamepublisher>
+               <boardgamehonor objectid="25317">2013 Meeples_T_E_M_P_T_A_G_#039; Choice Nominee</boardgamehonor>
+               <boardgamehonor objectid="25076">2014 As d_T_E_M_P_T_A_G_#039;Or - Jeu de l_T_E_M_P_T_A_G_#039;Année Grand Prix Winner</boardgamehonor>
+               <boardgamehonor objectid="24377">2014 As d_T_E_M_P_T_A_G_#039;Or - Jeu de l_T_E_M_P_T_A_G_#039;Année Nominee</boardgamehonor>
+               <boardgamehonor objectid="26896">2014 Tric Trac Nominee</boardgamehonor>
+               <boardgamepodcastepisode objectid="108080">AP Podcast – Episodio 16: Essen 2013</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamepublisher objectid="157">Asmodee</boardgamepublisher>
+               <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+                                           <boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+               <boardgamefamily objectid="22971">Cities: Brussels</boardgamefamily>
+               <boardgamefamily objectid="12226">Country: Belgium</boardgamefamily>
+                                                  <boardgamecategory objectid="1021">Economic</boardgamecategory>
+               <boardgameversion objectid="219476">English first edition</boardgameversion>
+               <boardgameversion objectid="338893">English second edition</boardgameversion>
+               <boardgamepodcastepisode objectid="233832">Ep. 01 - 2013 Draft</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="135244">EP1/2：游戏jian评</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="197418">Episode 104 -- I Landed on the Dog</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="232606">Episode 127 -- Stout Rusted Trains</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="234284">Episode 18 - Path of Play (Featuring The Mind, Kingsburg, Majesty for the Realm, Clank! In Space! and more!)</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="118478">Episode 21 -- Rant! Coffee! Tournament!</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="242419">Episode 22 - I Would Drop a Deuce for Riverboat! (Thunderstone Quest, Altiplano, Arkham Horror LCG, Bruxelles 1893, Formula D, Riverboat and much more!)</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="118617">Episode 22 -- The Key to so Many Textile Crafts is Ironing</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="120249">Episode 24: Core Worlds/Bruxelles 1893</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="205405">Episode 44 - Bruxelles 1893 Review</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="140502">Episode 46- Patchistory and RobbCon 2015</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="134035">Episode 4: Shogun with Tenno_T_E_M_P_T_A_G_#039;s Court, Gremlins, and Faster Than Light</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="109721">Episode 5 -- 10 Times 10 Plus 1 Equals 22</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="150431">Episode 51- Terra Mystica and Top 3 Games</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="134045">Episode 53 -- The First Time Ever I Saw Your Meeple</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="176819">Episode 66 Part 1 : Totally Gaming (I say Xenon, you say Zion)</boardgamepodcastepisode>
+               <boardgamedesigner objectid="69130">Etienne Espreman</boardgamedesigner>
+                      <boardgameversion objectid="213067">French/Dutch first edition</boardgameversion>
+               <boardgameversion objectid="410339">French/Dutch second edition</boardgameversion>
+                                           <boardgamepodcastepisode objectid="113294">Garrett_T_E_M_P_T_A_G_#039;s Games 397 - Nauticus and Bruxelles 1893</boardgamepodcastepisode>
+               <boardgameversion objectid="220629">German edition</boardgameversion>
+                                                                       <boardgamepublisher objectid="264">Heidelberger Spieleverlag</boardgamepublisher>
+                      <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+                      <boardgamepodcastepisode objectid="116088">Planeta de juegos 15 - Wargames de un día</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="110040">Podcast #068 - Entre otros... Nations</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="133366">Podcast #081- Top 2013 parte 1</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="190733">Podcast EP09 – Jeux « Filler » et Café l’Aléa</boardgamepodcastepisode>
+                             <boardgameartist objectid="12282">Alexandre Roche</boardgameartist>
+                             <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+                      <boardgamepodcastepisode objectid="152643">Theme! Episode 24</boardgamepodcastepisode>
+               <boardgamepublisher objectid="17786">uplay.it edizioni</boardgamepublisher>
+                                           <boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+               <boardgamepublisher objectid="538">Z-Man Games, Inc.</boardgamepublisher>
+             
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="88">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="34" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="12" />
+     <result value="Recommended" numvotes="36" />
+     <result value="Not Recommended" numvotes="20" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="30" />
+     <result value="Recommended" numvotes="36" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="46" />
+     <result value="Recommended" numvotes="18" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="30" />
+     <result value="Not Recommended" numvotes="16" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="29" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="29">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="29" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="4" />
+     <result value="14" numvotes="15" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>3860</usersrated>
+     <average>7.65384</average>
+     <bayesaverage>7.12038</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="262" bayesaverage="7.12038" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="151" bayesaverage="7.25128" />
+            
+           </ranks>
+     
+     <stddev>1.25051</stddev>
+     <median>0</median>
+     <owned>4718</owned>
+     <trading>86</trading>
+     <wanting>400</wanting>
+     <wishing>1277</wishing>
+     <numcomments>808</numcomments>
+     <numweights>273</numweights>
+     <averageweight>3.5934</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 31 Oct 2013 21:43:17 +0000</listdate>
+    <saledate>Fri, 01 Nov 2013 17:39:11 +0000</saledate>
+    <price currency='EUR'>38.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the german edition by Pearl Games
+shipping rates:
+Germany = 4,5 Euro
+EU countries = 15 Euro
+worldwide = 19 Euro
+game weight: 1300 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Nov 2013 17:44:13 +0000</listdate>
+    <saledate>Sat, 02 Nov 2013 02:32:25 +0000</saledate>
+    <price currency='EUR'>38.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the german edition by Pearl Games
+but the game play is language independent
+shipping rates:
+Germany = 4,5 Euro
+EU countries = 15 Euro
+worldwide = 19 Euro
+game weight: 1300 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Nov 2013 17:51:30 +0000</listdate>
+    <saledate>Tue, 12 Nov 2013 21:02:56 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+BRUXELLES 1893: $42.95
+ZMAN Games [ZMG 70931]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: Q4 2013
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Dec 2013 22:36:36 +0000</listdate>
+    <saledate>Thu, 05 Dec 2013 02:49:59 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap. Small crease on the side, see pic.
+NOT a Pre-Order!!! Ships TODAY just in time for HOLIDAYS!!! 
+Get $4 DISCOUNT. See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 
+4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?
+action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1812: The Invasion of Canada
+2019: The ARCTIC
+303
+7 dni Westerplatte
+----- A -----
+American Rails
+Amerigo
+Automobile
+----- B -----
+Bora Bora
+Bremerhaven
+Bruxelles 1893
+----- C -----
+Cafe International: Das Kartenspiel
+Canyon
+Carcassone: The City
+City Tycoon
+Craftsment
+Czas Honoru: Operacja Most III
+----- D -----
+Dahschur - Die Rote Pyramide
+Days of Honor: Operation Wildhorn III
+----- E -----
+Eight Minute Empire
+Era of Inventions
+Exodus: Proxima Centauri
+Expedition: Congo River 1884
+Express 01
+----- F -----
+Feudality
+----- G -----
+Galactic Emperor
+Guatemala Cafe
+----- H -----
+Hippo Hopp
+----- I -----
+Il Vecchio
+India Rails
+Invaders
+----- K -----
+K2 + Broad Peak + Avalanche
+Key West
+Kosmonauts
+----- L -----
+Liberte
+Luna
+----- M -----
+Mali Powstancy + Liberator
+Maly Ksiaze - The Little Prince
+Mercurius
+Milestones
+Mount Everest
+----- N -----
+Nations
+Nauticus
+Nottingham
+Nuns on the run
+----- O -----
+Olympos
+One More Barrel
+----- P -----
+Packet Row
+Pantheon
+Pirate_T_E_M_P_T_A_G_#039;s Cove
+----- Q -----
+Quebec
+----- R -----
+Rapa Nui
+Rattus Cartus
+Rialto
+Rokoko
+Romolo o Remo
+----- S -----
+Shitenno
+Soccero
+Strike of the Eagle
+----- T -----
+Taluva
+Tempus
+The Great Fire of London 1666
+The Great Heartland Hauling Co.
+The New Era: Spiel 2011 Promo Pack 
+The Settlers of the Stone Age
+Tinner_T_E_M_P_T_A_G_#039;s Trail
+Trajan
+Trains
+Tzolk_T_E_M_P_T_A_G_#039;in: The Mayan Calendar
+----- U -----
+Uchronia
+----- V -----
+Vampire Empire
+Village Inn
+Vinhos
+----- W -----
+Western Town
+Wildcatters
+Wurfel Bohnanza
+----- Y -----
+Yedo</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Dec 2013 03:14:55 +0000</listdate>
+    <saledate>Mon, 09 Dec 2013 22:12:02 +0000</saledate>
+    <price currency='USD'>54</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap. 
+German box. Game has NO LANGUAGE DEPENDENCY!! Everything is picture based. English rules on BGG.
+NOT a Pre-Order!!! Ships TODAY just in time for HOLIDAYS!!! 
+Get $4 DISCOUNT. See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 
+4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?
+action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1812: The Invasion of Canada
+2019: The ARCTIC
+303
+7 dni Westerplatte
+----- A -----
+American Rails
+Amerigo
+Automobile
+----- B -----
+Bora Bora
+Bremerhaven
+Bruxelles 1893
+----- C -----
+Cafe International: Das Kartenspiel
+Canyon
+Carcassone: The City
+City Tycoon
+Craftsment
+Czas Honoru: Operacja Most III
+----- D -----
+Dahschur - Die Rote Pyramide
+Days of Honor: Operation Wildhorn III
+----- E -----
+Eight Minute Empire
+Era of Inventions
+Exodus: Proxima Centauri
+Expedition: Congo River 1884
+Express 01
+----- F -----
+Feudality
+----- G -----
+Galactic Emperor
+Guatemala Cafe
+----- H -----
+Hippo Hopp
+----- I -----
+Il Vecchio
+India Rails
+Invaders
+----- K -----
+K2 + Broad Peak + Avalanche
+Key West
+Kosmonauts
+----- L -----
+Liberte
+Luna
+----- M -----
+Mali Powstancy + Liberator
+Maly Ksiaze - The Little Prince
+Mercurius
+Milestones
+Mount Everest
+----- N -----
+Nations
+Nauticus
+Nottingham
+Nuns on the run
+----- O -----
+Olympos
+One More Barrel
+----- P -----
+Packet Row
+Pantheon
+Pirate_T_E_M_P_T_A_G_#039;s Cove
+----- Q -----
+Quebec
+----- R -----
+Rapa Nui
+Rattus Cartus
+Rialto
+Rokoko
+Romolo o Remo
+----- S -----
+Shitenno
+Soccero
+Strike of the Eagle
+----- T -----
+Taluva
+Tempus
+The Great Fire of London 1666
+The Great Heartland Hauling Co.
+The New Era: Spiel 2011 Promo Pack 
+The Settlers of the Stone Age
+Tinner_T_E_M_P_T_A_G_#039;s Trail
+Trajan
+Trains
+Tzolk_T_E_M_P_T_A_G_#039;in: The Mayan Calendar
+----- U -----
+Uchronia
+----- V -----
+Vampire Empire
+Village Inn
+Vinhos
+----- W -----
+Western Town
+Wildcatters
+Wurfel Bohnanza
+----- Y -----
+Yedo
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Dec 2013 20:28:59 +0000</listdate>
+    <saledate>Sat, 21 Dec 2013 18:38:16 +0000</saledate>
+    <price currency='EUR'>30.9</price>
+    <condition>new</condition>
+    <notes>New in shrink
+German Pearl edition, from a smoke free homee
+Shipping within Germany 4,5€ - please ask for international rates (e.g. some European countries about 9€).
+Paypal is possible, but money transfer via IBAN/BIC preferred. Buyer will pay Paypal fees</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Dec 2013 15:50:49 +0000</listdate>
+    <saledate>Sat, 28 Dec 2013 16:16:33 +0000</saledate>
+    <price currency='CAD'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Dec 2013 07:39:09 +0000</listdate>
+    <saledate>Tue, 26 Aug 2014 17:49:21 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BRUXELLES 1893: $44.95
+ZMAN Games [ZMG 71370]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Mar 2014 08:31:25 +0000</listdate>
+    <saledate>Sun, 09 Mar 2014 09:53:31 +0000</saledate>
+    <price currency='GBP'>26.5</price>
+    <condition>likenew</condition>
+    <notes>I will send this game to the eventual buyer using a courier delivery service.
+ To most mainland UK destinations the p _T_E_M_P_T_A_G_amp; p cost will be £6.00. Some more remote areas will cost a little more.
+ At the time of writing this I have other games for sale on the BGG site. If you want to purchase any of these at the same time I can combine p_T_E_M_P_T_A_G_amp;p cost for very little extra cost.
+ The p _T_E_M_P_T_A_G_amp; p charge to mainland Europe will be £16.50 for a single game.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Mar 2014 16:32:57 +0000</listdate>
+    <saledate>Mon, 17 Mar 2014 17:18:44 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This is for Bruexelles 1893 won at auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Mar 2014 15:04:13 +0000</listdate>
+    <saledate>Tue, 18 Mar 2014 15:30:44 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>For BGG user gattling only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Apr 2014 04:33:04 +0000</listdate>
+    <saledate>Wed, 30 Apr 2014 01:15:35 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/172499/item/3182865#3182865]Item for Geeklist _T_E_M_P_T_A_G_quot;Easter Auction - Ends Friday, April 25 after lunch PST..._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for Jason Myers.  Includes Bruxelles, Oh My God, There_T_E_M_P_T_A_G_#039;s an Axe in my Head, AND One More Barrel.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Jul 2014 21:37:13 +0000</listdate>
+    <saledate>Tue, 29 Jul 2014 14:20:38 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>Played twice, in perfect condition.
+Shipping is between $7 and $12, depending of how close to Southern California you are.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Sep 2014 15:27:56 +0000</listdate>
+    <saledate>Sun, 14 Sep 2014 15:39:33 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/178872/item/3429065#3429065]Item for Geeklist _T_E_M_P_T_A_G_quot;Slaqr_T_E_M_P_T_A_G_#039;s Collection Purge: The Quest to take the wife to Ireland_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Mar 2014 21:23:45 +0000</listdate>
+    <saledate>Sun, 07 Dec 2014 04:26:44 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>New in shrink
+German original box  - language independent
+We will also be able to ship at US domestic rates.
+Please contact us for a shipping quote.
+Order Info:
+Canadians will be charged tax based on location
+BC Residents 5% GST + 7% PST
+All other provinces 5% GST
+Orders usually will be processed in 1-2 business days
+Check out our store for more hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=bubaka</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Jan 2015 01:07:19 +0000</listdate>
+    <saledate>Sun, 11 Jan 2015 01:43:40 +0000</saledate>
+    <price currency='GBP'>28</price>
+    <condition>likenew</condition>
+    <notes>UK postage £5</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Jan 2015 23:55:36 +0000</listdate>
+    <saledate>Fri, 30 Jan 2015 00:28:57 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Auction win for Flame Point Crispin only.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Dec 2014 20:38:56 +0000</listdate>
+    <saledate>Mon, 09 Feb 2015 02:53:07 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Punched, sorted, but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Dec 2014 03:03:05 +0000</listdate>
+    <saledate>Wed, 11 Feb 2015 01:00:30 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>New in shrink_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;German original box  - language independent_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;We will also be able to ship at US domestic rates._T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Please contact us for a shipping quote._T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Order Info:_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Canadians will be charged tax based on location_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;BC Residents 5% GST + 7% PST_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;All other provinces 5% GST_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Orders usually will be processed in 1-2 business days_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Check out our store for more hard to find games:_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;a target=_T_E_M_P_T_A_G_#039;_blank_T_E_M_P_T_A_G_#039; href=_T_E_M_P_T_A_G_quot;http://www.boardgamegeek.com/geekmarket/productlist/bubaka_T_E_M_P_T_A_G_quot; ._T_E_M_P_T_A_G_lt;/a_T_E_M_P_T_A_G_gt;</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Dec 2014 03:03:05 +0000</listdate>
+    <saledate>Fri, 06 Mar 2015 12:44:30 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>New in shrink_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;German original box  - language independent_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;We will also be able to ship at US domestic rates._T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Please contact us for a shipping quote._T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Order Info:_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Canadians will be charged tax based on location_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;BC Residents 5% GST + 7% PST_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;All other provinces 5% GST_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Orders usually will be processed in 1-2 business days_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Check out our store for more hard to find games:_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;a target=_T_E_M_P_T_A_G_#039;_blank_T_E_M_P_T_A_G_#039; href=_T_E_M_P_T_A_G_quot;http://www.boardgamegeek.com/geekmarket/productlist/bubaka_T_E_M_P_T_A_G_quot; ._T_E_M_P_T_A_G_lt;/a_T_E_M_P_T_A_G_gt;</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Dec 2014 03:03:05 +0000</listdate>
+    <saledate>Tue, 10 Mar 2015 05:26:20 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>New in shrink_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;German original box  - language independent_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;We will also be able to ship at US domestic rates._T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Please contact us for a shipping quote._T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Order Info:_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Canadians will be charged tax based on location_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;BC Residents 5% GST + 7% PST_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;All other provinces 5% GST_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Orders usually will be processed in 1-2 business days_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Check out our store for more hard to find games:_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;a target=_T_E_M_P_T_A_G_#039;_blank_T_E_M_P_T_A_G_#039; href=_T_E_M_P_T_A_G_quot;http://www.boardgamegeek.com/geekmarket/productlist/bubaka_T_E_M_P_T_A_G_quot; ._T_E_M_P_T_A_G_lt;/a_T_E_M_P_T_A_G_gt;</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Mar 2015 00:39:22 +0000</listdate>
+    <saledate>Sat, 28 Mar 2015 00:50:20 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played. Perfect condition.  Buyer pays shipping of $12.65 USPS Priority Mail flat rate.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Apr 2015 17:18:57 +0000</listdate>
+    <saledate>Thu, 23 Apr 2015 18:20:25 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>For user rhernandez831</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Apr 2015 02:03:01 +0000</listdate>
+    <saledate>Thu, 30 Apr 2015 13:49:01 +0000</saledate>
+    <price currency='CAD'>50</price>
+    <condition>new</condition>
+    <notes>This item is reserved for vanyaserra.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Apr 2015 17:09:42 +0000</listdate>
+    <saledate>Wed, 13 May 2015 23:36:12 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>English edition. Excellent condition, lightly played 4 times. Game is complete without ding/dent/wear. USPS priority shipping $12 to anywhere in the U.S. Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 May 2015 01:01:36 +0000</listdate>
+    <saledate>Tue, 26 May 2015 11:55:26 +0000</saledate>
+    <price currency='USD'>62</price>
+    <condition>verygood</condition>
+    <notes>reserved for BoardGamer2008
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 May 2015 01:17:48 +0000</listdate>
+    <saledate>Mon, 01 Jun 2015 23:26:07 +0000</saledate>
+    <price currency='USD'>79</price>
+    <condition>likenew</condition>
+    <notes>Opened, unpunched.  Never played.
+USPS shipping. Cheapest possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Dec 2013 10:58:57 +0000</listdate>
+    <saledate>Sat, 06 Jun 2015 02:32:49 +0000</saledate>
+    <price currency='EUR'>34.9</price>
+    <condition>new</condition>
+    <notes>i´m offering this great game. It´s new, unused and in shrink.
+Bezahlung / Payment:
+- Deutschland: Überweisung
+- EU: euro bank transfer with IBAN and BIC (prefered) or paypal
+- Worldwide: PayPal 
+--------------------------
+Versandkosten / Shipping costs:
+- Deutschland: Bitte vorher erfragen.
+- EU:Please ask before buying.
+- Worldwide: please ask before buying.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Jun 2015 11:53:34 +0000</listdate>
+    <saledate>Mon, 08 Jun 2015 13:03:46 +0000</saledate>
+    <price currency='USD'>83</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/192078/item/3932444#3932444]Item for Geeklist _T_E_M_P_T_A_G_quot;Schoooool_T_E_M_P_T_A_G_#039;s (almost) out for the summer!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Jun 2015 18:08:03 +0000</listdate>
+    <saledate>Sun, 14 Jun 2015 20:58:05 +0000</saledate>
+    <price currency='USD'>57</price>
+    <condition>likenew</condition>
+    <notes>Like new condition and out of print, rare game!  Shipping is flat rate medium box priority shipping with bubble wrapped protection and tracking for $12.49.  Should be to you in a couple of days and I ship things out right away!  100% positive feedback!  Enjoy the rare game!  Paypal expected in 36 hours.  Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Jun 2015 19:44:50 +0000</listdate>
+    <saledate>Thu, 18 Jun 2015 23:11:27 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>Brand new, in shrink. 
+Shrink is torn on two places, but stays well in place but I will ship wrapped in cushioned paper or bubble wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Jun 2015 16:53:03 +0000</listdate>
+    <saledate>Tue, 23 Jun 2015 17:12:02 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Shipping is $12. I accept PayPal and Google wallet.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Jun 2015 11:10:10 +0000</listdate>
+    <saledate>Mon, 29 Jun 2015 17:06:29 +0000</saledate>
+    <price currency='USD'>120</price>
+    <condition>likenew</condition>
+    <notes>Includes Bruxelles 1893, Sheriff of Nottingham, and Steam Park</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jun 2015 16:46:33 +0000</listdate>
+    <saledate>Tue, 30 Jun 2015 00:20:26 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jun 2015 22:01:12 +0000</listdate>
+    <saledate>Tue, 30 Jun 2015 22:20:05 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191838/item/3937540#3937540]Item for Geeklist _T_E_M_P_T_A_G_quot;Yet another auction..._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jun 2015 14:52:50 +0000</listdate>
+    <saledate>Wed, 01 Jul 2015 00:20:54 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/192225/item/3962517#3962517]Item for Geeklist _T_E_M_P_T_A_G_quot;4 Day Auction: 200 games, Pickup in STL available. Ships from STL. Ends Sunday June28th 8pm(ish) CDT_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. for mergryphon only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jun 2015 23:59:18 +0000</listdate>
+    <saledate>Tue, 14 Jul 2015 04:40:59 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>New, in shrink but this copy has SHIPPING DAMAGE TO ONE CORNER (see photo).
+ German Edition but language independent with rules and aids on the BGG.
+Ships USPS, flat rate 2-day priority with tracking for $11.50.
+The copy I_T_E_M_P_T_A_G_#039;m keeping had the same damage to a corner but everything in the box was in new condition. Absolutely language independent and a really interesting blend of mechanics.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Jun 2015 22:08:38 +0000</listdate>
+    <saledate>Fri, 17 Jul 2015 01:18:15 +0000</saledate>
+    <price currency='USD'>69.87</price>
+    <condition>new</condition>
+    <notes>New in shrink.  Buyer pays shipping from 44906.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Mar 2015 04:42:49 +0000</listdate>
+    <saledate>Tue, 28 Jul 2015 12:03:31 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Gencon Pickup for 
+Michael Barth
+(vballboy51)
+Only</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Jul 2015 08:26:33 +0000</listdate>
+    <saledate>Mon, 03 Aug 2015 19:51:49 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Played only  a couple times. Shipping from 91789.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Aug 2015 02:02:22 +0000</listdate>
+    <saledate>Wed, 05 Aug 2015 14:10:07 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Buyer pays for shipping, or free local pickup in Chicago</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jul 2015 14:35:52 +0000</listdate>
+    <saledate>Wed, 05 Aug 2015 15:15:27 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>new</condition>
+    <notes>New, in shrink but this copy has SHIPPING DAMAGE TO ONE CORNER (please see photo). 
+German Edition but language independent with rules and aids on the BGG. 
+Ships USPS, flat rate 2-day priority with tracking for $11.50.The copy I_T_E_M_P_T_A_G_#039;m keeping had the same damage to a corner but everything in the box was in new condition. Absolutely language independent and a really interesting blend of mechanics.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Aug 2015 10:20:43 +0000</listdate>
+    <saledate>Thu, 20 Aug 2015 11:27:27 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/195446/item/4080682#4080682]Item for Geeklist _T_E_M_P_T_A_G_quot;Keeping It Short - Leftovers Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Aug 2015 01:52:19 +0000</listdate>
+    <saledate>Tue, 25 Aug 2015 18:00:00 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>New in shrink. German edition, but listed as _T_E_M_P_T_A_G_quot;No necessary in-game text._T_E_M_P_T_A_G_quot; The German and English editions are the same outside of the rules (which can be printed off easily). The publisher says they are the same even on a BGG thread.
+*******This $65 copy is only for sam319 in a group-item discount.*******</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Aug 2015 03:16:48 +0000</listdate>
+    <saledate>Mon, 31 Aug 2015 10:10:45 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/195861/item/4098601#4098601]Item for Geeklist _T_E_M_P_T_A_G_quot;4 Day Auction: 200+ games, Pickup in STL available. Ships from STL. Ends Sunday Aug 30th 8pm(ish) CDT_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For nphend only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Aug 2015 19:58:56 +0000</listdate>
+    <saledate>Tue, 08 Sep 2015 01:13:49 +0000</saledate>
+    <price currency='USD'>69.99</price>
+    <condition>new</condition>
+    <notes>The game is new, unopened and still in shrink wrap.
+CONDITION
+• Please ask any questions before buying and I will respond as quickly as I can.
+• All items come from a smoke-free home.
+• Over 300+ 100% positive eBay feedback as user dkokoska
+PAYMENT
+• I accept only Paypal. Please let me know your Paypal address and I can send you an invoice.
+• Verified PayPal user
+SHIPPING
+• Shipping is $12 via USPS Priority Mail.
+• U.S. buyers only.
+• I will ship same or next day after payment.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Sep 2015 12:18:30 +0000</listdate>
+    <saledate>Tue, 08 Sep 2015 13:21:25 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>for BGG user Kwill2 via BGG Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Sep 2015 07:23:05 +0000</listdate>
+    <saledate>Tue, 15 Sep 2015 07:12:23 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>In shrink.  German language version.  Gameplay language independent.  English rules online.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Nov 2015 05:12:09 +0000</listdate>
+    <saledate>Tue, 03 Nov 2015 10:16:37 +0000</saledate>
+    <price currency='USD'>77</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198559/item/4232314#4232314]Item for Geeklist _T_E_M_P_T_A_G_quot;GOOD STUFF!  GOING......GOING......GONE   [CLOSED]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Nov 2015 06:41:18 +0000</listdate>
+    <saledate>Sun, 22 Nov 2015 21:01:32 +0000</saledate>
+    <price currency='USD'>58</price>
+    <condition>verygood</condition>
+    <notes>German language edition.  Gameplay completely language independent.  Enlish rules available for download.  Slight shelf wear on box.
+$12 flat rate priority shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Dec 2015 04:05:00 +0000</listdate>
+    <saledate>Thu, 03 Dec 2015 11:23:25 +0000</saledate>
+    <price currency='USD'>64</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/199536/item/4275571#4275571]Item for Geeklist _T_E_M_P_T_A_G_quot;A THANKSGIVING DAY TREAT FOR EVERYONE!   Many great games, including:  Bruxelles 1893, the Deluxe Discworld, Carcassonne Star Wars and many others!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Sep 2015 04:57:28 +0000</listdate>
+    <saledate>Sat, 05 Dec 2015 05:17:08 +0000</saledate>
+    <price currency='CAD'>65</price>
+    <condition>good</condition>
+    <notes>Components in very good condition, box has a small dent on one corner that occured during shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Dec 2015 02:38:28 +0000</listdate>
+    <saledate>Sun, 06 Dec 2015 21:07:54 +0000</saledate>
+    <price currency='USD'>110</price>
+    <condition>verygood</condition>
+    <notes>For: jrimmer
+Auction Items - Includes Bruxelles 1893 and Madeira
+Shipping is an additional: 
+$27.25 - Priority - 2 days
+$23.93 - Parcel Select - 7 days</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Dec 2015 03:55:39 +0000</listdate>
+    <saledate>Mon, 07 Dec 2015 13:00:49 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>likenew</condition>
+    <notes>Reserved for razor6</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Nov 2013 13:37:02 +0000</listdate>
+    <saledate>Tue, 08 Dec 2015 21:35:45 +0000</saledate>
+    <price currency='EUR'>38</price>
+    <condition>new</condition>
+    <notes>Pearl Games - Bruxelles 1893
+Language: Dutch _T_E_M_P_T_A_G_amp; French
+Players: 2 to 5
+Age: 13+
+Duration: 25 min/player
+Weight: 1.360 kg
+New - mint condition - unopened - still in shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Nov 2015 06:28:34 +0000</listdate>
+    <saledate>Fri, 11 Dec 2015 03:06:11 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>French, but game play is language independent</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jan 2016 01:23:28 +0000</listdate>
+    <saledate>Thu, 21 Jan 2016 01:52:10 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>verygood</condition>
+    <notes>Fo auction winner JJL_WashDC. Do not purchase unless you are JJL_WashDC.
+Includes Bruxelles and Caverna</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Jan 2016 15:10:24 +0000</listdate>
+    <saledate>Tue, 26 Jan 2016 06:45:18 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>good</condition>
+    <notes>This is for Auction winner Randy Oberbroeckling - BGG ID: RandyO
+Bruxelles 1893 - $60.00
+Shipping to Oak Creek WI - 53154 is $8.30
+(Please LMK if the above is not correct - I took it from your BGG profile and looked up the ZIP)
+Once you purchase I_T_E_M_P_T_A_G_#039;ll send you a PayPal invoice for $60.00 plus $8.30 shipping = 68.30
+PLEASE DO NOT BUY THIS IF YOU ARE NOT Randy Oberbroeckling - BGG ID: RandyO</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Jan 2016 12:20:56 +0000</listdate>
+    <saledate>Tue, 26 Jan 2016 13:04:30 +0000</saledate>
+    <price currency='EUR'>29.9</price>
+    <condition>verygood</condition>
+    <notes>Language Dependence: No necessary in-game text
+Played once. Components like new, box with minimal shelf-wear at corners.
+1100 g</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jan 2016 20:42:53 +0000</listdate>
+    <saledate>Tue, 26 Jan 2016 20:25:30 +0000</saledate>
+    <price currency='GBP'>33</price>
+    <condition>verygood</condition>
+    <notes>Signed by designer, Very Good condition
+£3 P_T_E_M_P_T_A_G_amp;P UK</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Feb 2016 22:10:03 +0000</listdate>
+    <saledate>Tue, 02 Feb 2016 23:10:46 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/204338/item/4419667#4419667]Item for Geeklist _T_E_M_P_T_A_G_quot;----- AWESOME STUFF ONLY AUCTION -----  (Lots of _T_E_M_P_T_A_G_quot;new in shrink_T_E_M_P_T_A_G_quot;, some _T_E_M_P_T_A_G_quot;hard to find_T_E_M_P_T_A_G_quot; and other exceptional games)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jan 2016 17:38:04 +0000</listdate>
+    <saledate>Fri, 04 Mar 2016 17:06:43 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Played twice only. Includes all pieces and directions; complete. Like new. 
+Buyer incurs shipping costs.
+Excellent art work, challenging and strategic, great mechanics, best played as a small group!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Feb 2016 14:52:22 +0000</listdate>
+    <saledate>Thu, 10 Mar 2016 06:09:16 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>NIS English 1st Edition. Paypal only.
+I_T_E_M_P_T_A_G_#039;ll take the hit on paypal and BGG fees, buyer pays shipping from zip 08080.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Mar 2016 00:03:54 +0000</listdate>
+    <saledate>Thu, 24 Mar 2016 00:45:23 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Opened, pieces are punched out, never played.
+This is Pearl Games Edition reprint.
+Has an English printout of rules.
+Any questions please ask.
+non-smoker
+FOR USER SAPOLJACKSON</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Dec 2013 17:44:49 +0000</listdate>
+    <saledate>Mon, 28 Mar 2016 18:18:34 +0000</saledate>
+    <price currency='GBP'>34.99</price>
+    <condition>new</condition>
+    <notes>Z-Man edition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Jun 2015 11:34:21 +0000</listdate>
+    <saledate>Sat, 02 Apr 2016 00:11:23 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>Will combine shipping with other games for sale or for trade. Please feel free to message with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Apr 2016 12:04:16 +0000</listdate>
+    <saledate>Tue, 26 Apr 2016 19:41:46 +0000</saledate>
+    <price currency='CAD'>49</price>
+    <condition>verygood</condition>
+    <notes>This item is from an auction, and is for JPlank only. If you are not this person, please do not purchase this item. 
+Includes the game Maharaja.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 May 2016 02:25:13 +0000</listdate>
+    <saledate>Tue, 31 May 2016 02:42:37 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Geekbay auction item - please do not buy if you do not have a winning bid on this item.
+https://boardgamegeek.com/geeklist/209252/ended-oophard-find-games-auction-orleans-deluxe-fe</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Feb 2016 00:24:19 +0000</listdate>
+    <saledate>Thu, 02 Jun 2016 21:24:37 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Opened and played twice. Will ship USPS from 02118. Buyer is responsible for all shipping fees. Payment is accepted through Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jun 2016 18:49:22 +0000</listdate>
+    <saledate>Thu, 30 Jun 2016 19:12:41 +0000</saledate>
+    <price currency='USD'>58</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Jun 2016 20:34:24 +0000</listdate>
+    <saledate>Sun, 03 Jul 2016 21:22:55 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jul 2016 21:50:02 +0000</listdate>
+    <saledate>Wed, 06 Jul 2016 11:45:33 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Everything in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Aug 2016 05:53:59 +0000</listdate>
+    <saledate>Thu, 11 Aug 2016 06:06:15 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/212422/item/4790876#4790876]Item for Geeklist _T_E_M_P_T_A_G_quot;Shelf Clearing Auction A-D ... Android: Netrunner lot, Descent 2.0 lot, Duel of Ages II lot, Conflict of Heroes:Awakening the Bear, Codeword Cromwell, and more!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Aug 2016 23:21:23 +0000</listdate>
+    <saledate>Sat, 13 Aug 2016 23:28:21 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>NIS</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Mar 2016 20:13:40 +0000</listdate>
+    <saledate>Sun, 11 Sep 2016 17:39:30 +0000</saledate>
+    <price currency='GBP'>34.99</price>
+    <condition>new</condition>
+    <notes>Z-Man edition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Sep 2016 14:20:05 +0000</listdate>
+    <saledate>Sun, 18 Sep 2016 02:37:41 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Opened and played once
+Buyer pays all shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Sep 2016 22:44:40 +0000</listdate>
+    <saledate>Mon, 19 Sep 2016 17:33:02 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>In-shrink. Can either ship USPS Parcel Post or Medium Flat Rate, whichever is least expensive, which depends on distance from Seattle area.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Sep 2016 21:53:18 +0000</listdate>
+    <saledate>Fri, 23 Sep 2016 19:30:21 +0000</saledate>
+    <price currency='GBP'>34.99</price>
+    <condition>new</condition>
+    <notes>Z-Man edition English edition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Oct 2016 05:12:51 +0000</listdate>
+    <saledate>Sat, 01 Oct 2016 11:11:43 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/211885/item/4917149#4917149]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2016 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 May 2016 20:44:32 +0000</listdate>
+    <saledate>Wed, 26 Oct 2016 15:50:19 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>All components are in excellent condition, but box has some minor shelf wear. This is the Z-man games edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Oct 2016 00:20:40 +0000</listdate>
+    <saledate>Wed, 02 Nov 2016 07:40:21 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Opened, though never played. 
+Shipping will be via USPS Priority Mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Nov 2016 03:57:27 +0000</listdate>
+    <saledate>Mon, 14 Nov 2016 14:58:54 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays for Paypal fee (3 percent of total)unless You Mark this transaction --option -for friend/family ,so that no extra charges are taken.
+Thank you for your purchase!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Oct 2016 14:07:37 +0000</listdate>
+    <saledate>Wed, 16 Nov 2016 21:36:59 +0000</saledate>
+    <price currency='GBP'>39.99</price>
+    <condition>new</condition>
+    <notes>Z-Man edition English edition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Nov 2016 21:06:15 +0000</listdate>
+    <saledate>Tue, 29 Nov 2016 21:23:12 +0000</saledate>
+    <price currency='CAD'>27.5</price>
+    <condition>likenew</condition>
+    <notes>English
+no necessary in-game text
+Check out the other games I am selling!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Nov 2016 07:49:29 +0000</listdate>
+    <saledate>Sat, 10 Dec 2016 16:46:53 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Like New.
+Shipping to Europe would be 20 euros. Elsewhere, please ask!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jan 2017 05:06:17 +0000</listdate>
+    <saledate>Tue, 17 Jan 2017 17:55:22 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220488/item/5147887#5147887]Item for Geeklist _T_E_M_P_T_A_G_quot;More games that need to go! (US Only, Irvine, CA)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Jan 2017 05:15:10 +0000</listdate>
+    <saledate>Thu, 26 Jan 2017 07:06:12 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220488/item/5147887#5147887]Item for Geeklist _T_E_M_P_T_A_G_quot;More games that need to go! (US Only, Irvine, CA)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jan 2017 06:54:30 +0000</listdate>
+    <saledate>Wed, 01 Feb 2017 03:50:44 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>New In Shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Feb 2017 15:46:02 +0000</listdate>
+    <saledate>Fri, 10 Feb 2017 18:15:50 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>reserved for ct5150</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Aug 2016 21:19:34 +0000</listdate>
+    <saledate>Tue, 14 Feb 2017 12:30:03 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Feb 2017 14:58:01 +0000</listdate>
+    <saledate>Mon, 20 Feb 2017 16:03:42 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played twice. Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Feb 2017 07:26:46 +0000</listdate>
+    <saledate>Thu, 23 Feb 2017 18:49:30 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>New In Shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jan 2017 17:03:15 +0000</listdate>
+    <saledate>Sat, 25 Feb 2017 18:09:15 +0000</saledate>
+    <price currency='GBP'>39.99</price>
+    <condition>new</condition>
+    <notes>New in shrink
+Shipping to UK £3.95, Europe £15.95 and Rest of the world £24.95
+Collection from East Grinstead
+Games total weight less than 5kg to UK for £7.95 tracked
+Several games to most countries in Europe for £25 - need to check total weight</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Mar 2017 03:15:18 +0000</listdate>
+    <saledate>Fri, 03 Mar 2017 04:48:27 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222287/item/5233886#5233886]Item for Geeklist _T_E_M_P_T_A_G_quot;Still have to many games Auction (Ends March 3rd) US Only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Mar 2017 01:23:56 +0000</listdate>
+    <saledate>Mon, 06 Mar 2017 18:08:51 +0000</saledate>
+    <price currency='USD'>47</price>
+    <condition>new</condition>
+    <notes>Max shipping $12.00
+Any questions please ask.
+non-smoker</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Jun 2017 20:47:07 +0000</listdate>
+    <saledate>Fri, 23 Jun 2017 19:29:33 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Pieces punched out but unplayed and in like new condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Jul 2017 20:45:45 +0000</listdate>
+    <saledate>Sun, 09 Jul 2017 04:05:31 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Opened sorted unplayed. Includes several plastic containers for chits. Bottom of the box has a crease.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Jul 2017 14:30:16 +0000</listdate>
+    <saledate>Thu, 27 Jul 2017 13:59:56 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Aug 2017 19:58:11 +0000</listdate>
+    <saledate>Sat, 12 Aug 2017 20:12:04 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>for user thedarkharvest only
+gen con 2017</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Jul 2017 21:56:29 +0000</listdate>
+    <saledate>Fri, 18 Aug 2017 00:59:34 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>Played 5 times. I take extreme care with my games and with packing them for shipping. This game looks like it has just been opened. No smoking or pets or kids playing with it.
+Shipping will be USPS flat rate ($12.40).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Aug 2017 22:43:32 +0000</listdate>
+    <saledate>Sun, 27 Aug 2017 23:27:49 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229061/item/5572765#5572765]Item for Geeklist _T_E_M_P_T_A_G_quot;Hobbes_T_E_M_P_T_A_G_#039; Massive Bloodletting Auction -- Ends TODAY!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Sep 2017 05:00:00 +0000</listdate>
+    <saledate>Thu, 21 Sep 2017 05:49:03 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230148/item/5637023#5637023]Item for Geeklist _T_E_M_P_T_A_G_quot;End of Summer Auction (Ends 9/20; US Only; Ships from Irvine, CA 92602)[CLOSED]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Oct 2017 05:29:00 +0000</listdate>
+    <saledate>Sun, 22 Oct 2017 16:17:21 +0000</saledate>
+    <price currency='USD'>69</price>
+    <condition>likenew</condition>
+    <notes>for rexology only.
+$18.65 shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Nov 2017 17:52:04 +0000</listdate>
+    <saledate>Fri, 10 Nov 2017 18:18:23 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/232357/item/5746297#5746297]Item for Geeklist _T_E_M_P_T_A_G_quot;Trimming the Collection - ends 11/10_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for user: jiggity</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Nov 2017 19:14:24 +0000</listdate>
+    <saledate>Sun, 12 Nov 2017 22:21:36 +0000</saledate>
+    <price currency='GBP'>22</price>
+    <condition>verygood</condition>
+    <notes>French/Dutch edition, but with English rules included. The game itself is entirely language independent.
+Some minor shelf-wear on the box, but the game itself is in excellent condition.
+Postage within the UK will be £3.00 via Royal Mail. I_T_E_M_P_T_A_G_#039;m very happy to combine shipping on multiple items - please message me for an estimate.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Nov 2017 22:25:28 +0000</listdate>
+    <saledate>Sun, 26 Nov 2017 03:10:25 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/233099/item/5781753#5781753]Item for Geeklist _T_E_M_P_T_A_G_quot;Chris_T_E_M_P_T_A_G_#039;s Thanksgiving 2017 Auction Concoction - (Cheap BINs, Cheap Shipping, Expanding Expansions)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Nov 2017 23:17:11 +0000</listdate>
+    <saledate>Mon, 04 Dec 2017 04:03:24 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Unpunched and unplayed.
+Reserved for user potter1919</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Dec 2017 12:59:22 +0000</listdate>
+    <saledate>Fri, 15 Dec 2017 13:56:48 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Dec 2017 20:59:38 +0000</listdate>
+    <saledate>Tue, 02 Jan 2018 06:18:30 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played once, excellent condition except the back of the box has a ding in one corner.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Dec 2017 23:46:29 +0000</listdate>
+    <saledate>Sun, 07 Jan 2018 17:46:22 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner: Autumnweave</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Jan 2018 23:31:57 +0000</listdate>
+    <saledate>Fri, 12 Jan 2018 04:20:32 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/235748/item/5871601#5871601]Item for Geeklist _T_E_M_P_T_A_G_quot;Bomb Cyclone Shelf Clearing - Money back for multiple BIN - Ends Jan 10 - Ships from Boston, or hand-delivered to PAX South_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Mar 2017 17:51:37 +0000</listdate>
+    <saledate>Fri, 26 Jan 2018 02:26:58 +0000</saledate>
+    <price currency='GBP'>31</price>
+    <condition>new</condition>
+    <notes>New in shrink - indentation in the corner of the box, see picture
+Shipping to UK £3, Royal Mail second class
+Worldwide please ask</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Nov 2017 22:08:22 +0000</listdate>
+    <saledate>Mon, 05 Feb 2018 01:25:28 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>still in shrink (but now I have to sell)
+Shipping $10</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Sep 2017 03:44:14 +0000</listdate>
+    <saledate>Tue, 13 Feb 2018 22:24:06 +0000</saledate>
+    <price currency='GBP'>24</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Jan 2018 23:01:45 +0000</listdate>
+    <saledate>Wed, 14 Feb 2018 03:44:16 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played twice.
+Shipping: USPS Priority Mail Flat Rate Medium Box: $13.65</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Mar 2018 03:17:47 +0000</listdate>
+    <saledate>Fri, 09 Mar 2018 19:58:04 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238041/item/5983716#5983716]Item for Geeklist _T_E_M_P_T_A_G_quot;US Only Auction -- All Bids Start at $2 or $10 -- Ends March 8_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+This is reserved for RhodesPhoto
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Feb 2018 03:32:56 +0000</listdate>
+    <saledate>Mon, 16 Apr 2018 20:11:59 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Smoke free home; played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Apr 2018 13:50:53 +0000</listdate>
+    <saledate>Mon, 30 Apr 2018 12:54:31 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>Punched never played this copy
+[imageid=4046672 inline]
+reserved for pikaia</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Sep 2017 15:16:09 +0000</listdate>
+    <saledate>Fri, 04 May 2018 06:00:17 +0000</saledate>
+    <price currency='EUR'>34.49</price>
+    <condition>new</condition>
+    <notes>2-5 players (Z-Man Games)
+Languages: English</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 May 2018 21:36:05 +0000</listdate>
+    <saledate>Wed, 23 May 2018 11:50:02 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238045/item/6144009#6144009]Item for Geeklist _T_E_M_P_T_A_G_quot;HeavyCon 2018 Virtual Flea Market!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For Brian Gage (bkgage) Cash at HeavyCon
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jun 2018 01:58:55 +0000</listdate>
+    <saledate>Mon, 11 Jun 2018 17:21:18 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241644/item/6169303#6169303]Item for Geeklist _T_E_M_P_T_A_G_quot;Time to Cut Down the Collection - A Few OOPs and Large Collections_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Sep 2018 13:03:21 +0000</listdate>
+    <saledate>Thu, 20 Sep 2018 18:01:17 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>Listing created for auction winner abolition1, please do not purchase otherwise.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Oct 2018 09:05:56 +0000</listdate>
+    <saledate>Sun, 21 Oct 2018 14:00:55 +0000</saledate>
+    <price currency='USD'>41.99</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Oct 2018 15:38:29 +0000</listdate>
+    <saledate>Thu, 01 Nov 2018 18:04:09 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205781/item/6495354#6495354]Item for Geeklist _T_E_M_P_T_A_G_quot;Washington, DC Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Nov 2018 12:12:01 +0000</listdate>
+    <saledate>Mon, 12 Nov 2018 22:40:02 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/248290/item/6529842#6529842]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction Lot 665  - Small World, Curio, Steam /with exp, Agrcola ACBS, Bruxelles_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Nov 2018 09:58:25 +0000</listdate>
+    <saledate>Tue, 27 Nov 2018 16:47:36 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>likenew</condition>
+    <notes>Game is as new.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Nov 2018 01:18:04 +0000</listdate>
+    <saledate>Fri, 30 Nov 2018 08:20:32 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>PAX Unplugged Virtual Flea Market
+Reserved for GoingTopShelf</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Dec 2018 04:24:56 +0000</listdate>
+    <saledate>Mon, 03 Dec 2018 07:36:17 +0000</saledate>
+    <price currency='USD'>151</price>
+    <condition>verygood</condition>
+    <notes>ONLY FOR JONATHAN SCHARF - AUCTION WINNINGS
+Biblios - $9
+Bomb Squad - $8
+Bruxelles 1893 - $25
+Butterfly Garden - $8
+Ex Libris - $30
+Histrio - $8
+Kanagawa - $10
+Order of the Gilded Compass - $10
+Pie Town - $12
+Shakespeare - $31</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jan 2019 18:18:15 +0000</listdate>
+    <saledate>Thu, 31 Jan 2019 18:01:07 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>likenew</condition>
+    <notes>Played a few times - excellent condition.
+Postage $8-13 depending on location.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Feb 2019 03:16:02 +0000</listdate>
+    <saledate>Fri, 22 Feb 2019 11:08:24 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/253141/item/6744227#6744227]Item for Geeklist _T_E_M_P_T_A_G_quot;24 Hours Left! Trade you my stuff for $$$. U.S. Shipping from Baltimore Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for user: Dorkboy
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Mar 2019 16:08:25 +0000</listdate>
+    <saledate>Wed, 13 Mar 2019 16:14:40 +0000</saledate>
+    <price currency='CAD'>30</price>
+    <condition>verygood</condition>
+    <notes>Only to be sold to: catmogwai</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Jan 2019 05:14:07 +0000</listdate>
+    <saledate>Wed, 13 Mar 2019 17:14:18 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>new</condition>
+    <notes>This is one of the English editions</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

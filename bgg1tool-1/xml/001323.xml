@@ -1,0 +1,542 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="1323">
+   <yearpublished>1981</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>240</playingtime>
+   <minplaytime>120</minplaytime>
+   <maxplaytime>240</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Cry Havoc</name>
+         
+   <description>A man-to-man medieval combat wargame.  Each side is comprised of peasants, sergeants, bills, men-at-arms, and knights.  Various scenarios are included in the rules._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Integrates with:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    Outremer_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The Cry Havoc series page contains information about the game system and history of the game including fan expansions._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/7NYewSIgLpoOsW--Rtd-hJKW4ms=/fit-in/200x150/pic361350.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/xelp8zp-oztvQzX8sxxY90RHsQo=/0x0/pic361350.jpg</image>
+      
+            <boardgamedesigner objectid="979">Gary Chalk</boardgamedesigner>
+               <boardgameartist objectid="979">Gary Chalk</boardgameartist>
+               <boardgameexpansion objectid="3756">Croisades</boardgameexpansion>
+                      <boardgameexpansion objectid="23925">Cry Havoc Scenario Book 1</boardgameexpansion>
+               <boardgameexpansion objectid="23926">Cry Havoc Scenario Book 2</boardgameexpansion>
+               <boardgamefamily objectid="3273">Cry Havoc System</boardgamefamily>
+                      <boardgameaccessory objectid="249170">Cry Havoc: The Fortified Village</boardgameaccessory>
+               <boardgameaccessory objectid="249172">Cry Havoc: The Welsh Castle</boardgameaccessory>
+               <boardgameaccessory objectid="251460">Cry Havoc: The Welsh Castle with Wharf</boardgameaccessory>
+               <boardgameartist objectid="11802">Peter Dennis</boardgameartist>
+               <boardgamepublisher objectid="116">Eurogames</boardgamepublisher>
+               <boardgameversion objectid="40414">Eurogames French second edition</boardgameversion>
+               <boardgameintegration objectid="147919">Guiscard</boardgameintegration>
+               <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+               <boardgamepublisher objectid="1605">Jeux Rexton</boardgamepublisher>
+               <boardgameversion objectid="31415">Jeux Rexton edition</boardgameversion>
+                             <boardgamecategory objectid="1035">Medieval</boardgamecategory>
+               <boardgameintegration objectid="5573">Outremer</boardgameintegration>
+               <boardgameexpansion objectid="5571">Siege</boardgameexpansion>
+               <boardgamepublisher objectid="1211">Standard Games and Publications, Ltd.</boardgamepublisher>
+               <boardgameversion objectid="32140">Standard Games English first edition</boardgameversion>
+               <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+               <boardgamedesigner objectid="3386">Tony Webster</boardgamedesigner>
+               <boardgameintegration objectid="147919" inbound="true">Guiscard</boardgameintegration>
+               <boardgameintegration objectid="5573" inbound="true">Outremer</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="6">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="6">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="6" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="6" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>641</usersrated>
+     <average>6.80257</average>
+     <bayesaverage>5.91746</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2572" bayesaverage="5.91746" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="474" bayesaverage="6.4452" />
+            
+           </ranks>
+     
+     <stddev>1.4342</stddev>
+     <median>0</median>
+     <owned>1156</owned>
+     <trading>53</trading>
+     <wanting>42</wanting>
+     <wishing>110</wishing>
+     <numcomments>200</numcomments>
+     <numweights>58</numweights>
+     <averageweight>2.2759</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 28 Feb 2003 07:05:50 +0000</listdate>
+    <saledate>Wed, 12 Mar 2003 01:25:41 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Unpunched - Cry Havoc _T_E_M_P_T_A_G_amp; Siege</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Sep 2006 13:16:22 +0000</listdate>
+    <saledate>Sat, 23 Sep 2006 02:57:17 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>verygood</condition>
+    <notes>Unpunched. New inside with minor creases on back of box and  along sides of front of box. Corners have edge wear. 
+Companion game Siege is listed seperately. 
+I ship delivery confirmation.
+S_T_E_M_P_T_A_G_amp;H in US is $15.00 and insurance is $2.50. Just over 2 lbs.
+Paypal _T_E_M_P_T_A_G_amp; Post Office Money Order is prefered.
+Enjoy.
+References at
+E-bay: Eldoheni
+Dizpins.com: Tes283@aol.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jun 2007 03:00:38 +0000</listdate>
+    <saledate>Sun, 03 Jun 2007 13:13:31 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Counters, rules, and map are in like new condition.  Box is in  good condition.  </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Aug 2007 05:00:41 +0000</listdate>
+    <saledate>Wed, 26 Sep 2007 19:32:30 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>likenew</condition>
+    <notes>Box in good shape contents complete. French version and English version. English version has box damage email for details. I also have extra maps for sale; email if interested. Shipping will be via priority mail.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Jan 2008 18:20:08 +0000</listdate>
+    <saledate>Sat, 16 Feb 2008 12:02:26 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>Game unpunched and in excellent condition.
+All components like new.
+Plus extra game map.
+Paypal or bank transfer</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Mar 2008 17:19:13 +0000</listdate>
+    <saledate>Sun, 05 Jul 2009 21:55:59 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>Almost _T_E_M_P_T_A_G_quot;Like New_T_E_M_P_T_A_G_quot; ! Excellent condition ! Never played but punched .</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Mar 2009 07:29:40 +0000</listdate>
+    <saledate>Tue, 10 Mar 2009 07:20:35 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>good</condition>
+    <notes>Punched, but good condition and complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Oct 2009 18:23:20 +0000</listdate>
+    <saledate>Sat, 14 Nov 2009 06:40:02 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>likenew</condition>
+    <notes>Superb, unpunched condition.  The flimsy box is a little bowed, but otherwise the game is mint.
+Shipping as follows:
+UK - £2.90
+Europe - £5.10
+Rest of World - £9.80</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Jul 2010 18:10:17 +0000</listdate>
+    <saledate>Tue, 17 Aug 2010 23:12:47 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Sep 2010 19:48:17 +0000</listdate>
+    <saledate>Wed, 19 Jan 2011 03:48:12 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>In shrink wrap</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Dec 2010 18:19:59 +0000</listdate>
+    <saledate>Mon, 16 May 2011 03:48:28 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Well-played and abused copy. Missing one (?) counter. The box cover has heavy concavity and wear and there is a price and the word _T_E_M_P_T_A_G_quot;Damaged_T_E_M_P_T_A_G_quot; written on the cover. The rules and counters are all in at least _T_E_M_P_T_A_G_#039;good_T_E_M_P_T_A_G_#039; condition. Both maps have some stains, most easily seen on the back. One of the maps you can hardly see any of the stain because of the color of the terrain.
+COUNTERS
+Knights - All four counters for each are present.
+Other characters - One of the billmen_T_E_M_P_T_A_G_#039;s counters (Guy 10-6-6) is missing. All others accounted for.
+Info markers - There are 14 Ransom counters. I have no idea how many there should be.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Jan 2011 00:57:47 +0000</listdate>
+    <saledate>Thu, 03 Feb 2011 11:40:58 +0000</saledate>
+    <price currency='GBP'>14.99</price>
+    <condition>good</condition>
+    <notes>This is the Standard Games English edition.
+Partly unpunched.
+Would be very good, except that one map sheet has a 2_T_E_M_P_T_A_G_quot; brown stain on the back whch has come through on the front.
+Does not effect play and is not intrusive.
+Slight bowing to box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Feb 2011 06:45:06 +0000</listdate>
+    <saledate>Fri, 23 Dec 2011 20:42:03 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>Second edition of this game (Eurogames). Played once, counters punched but they look absolutely new (all counters in tray). Contents is complete and in _T_E_M_P_T_A_G_quot;like new_T_E_M_P_T_A_G_quot; condition. Postage Germany Eur 5,90, European Union and World will be calculated later. Money transfer by IBAN prefered (or paypal + Eur 3,-).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Mar 2011 11:45:39 +0000</listdate>
+    <saledate>Tue, 19 Jun 2012 16:08:38 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>good</condition>
+    <notes>Shipping Germany  4 Euro
+Shipping European Union 7 Euro
+Shipping World          7 Euro
+PayPal plus 3 Euro
+Money transfer via IBAN/BIC preferred
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 May 2011 14:50:19 +0000</listdate>
+    <saledate>Thu, 15 Sep 2011 13:01:32 +0000</saledate>
+    <price currency='GBP'>38</price>
+    <condition>verygood</condition>
+    <notes>Good to very good condition (complete except for one reference card - there were 4 identical cards but only 3 remain). The box is intact and in reasonable shape however these were largish flat boxes without much integral strength so the lid is bowed. 
+Also included is an unboxed (but otherwise complete and good condition) version of Seige - maps, counters, rules etc all present.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Sep 2011 09:03:49 +0000</listdate>
+    <saledate>Tue, 13 Sep 2011 15:46:04 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>French version</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Sep 2011 09:22:44 +0000</listdate>
+    <saledate>Sat, 03 Dec 2011 01:05:04 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>good</condition>
+    <notes>box is lightly demaged</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Nov 2011 17:55:51 +0000</listdate>
+    <saledate>Mon, 14 Nov 2011 22:08:50 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Feb 2012 16:44:36 +0000</listdate>
+    <saledate>Tue, 19 Jun 2012 12:13:42 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>verygood</condition>
+    <notes>all parts are complete and in good condition.
+postage to uk only £6.00</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Apr 2012 12:35:09 +0000</listdate>
+    <saledate>Wed, 30 May 2012 15:24:33 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes>Played twice, includes the Siege expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 May 2012 13:15:51 +0000</listdate>
+    <saledate>Thu, 21 Jun 2012 17:17:13 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jul 2012 18:51:35 +0000</listdate>
+    <saledate>Mon, 02 Dec 2013 18:50:08 +0000</saledate>
+    <price currency='EUR'>42</price>
+    <condition>good</condition>
+    <notes>French Rules
+Shipping Germany  6 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus 1 Euro
+Money transfer via IBAN/BIC preferred</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Aug 2012 12:23:57 +0000</listdate>
+    <saledate>Mon, 24 Jun 2013 18:55:17 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>Hardly used, complete, French version</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Sep 2012 04:33:52 +0000</listdate>
+    <saledate>Fri, 21 Sep 2012 16:38:27 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Unpunched.  Some slight box wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Oct 2012 20:55:22 +0000</listdate>
+    <saledate>Sun, 28 Oct 2012 10:35:49 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>as new, english release
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Nov 2012 21:45:59 +0000</listdate>
+    <saledate>Sat, 08 Dec 2012 21:20:22 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>This is the French version although the game itself is language independent except for the rules which can be downloaded from the fan site or BGG in English. The box contains the following:
+- rules book and background to the Cry Havoc (Regles du jeu)
+- booklet with historical context and the characters (Le contexte historique et les personnages)
+- scenarios booklet (Les Scenarios)
+- flyer – Cry Havoc a quick description (advertising – Cry Havoc pas de quartier)
+- 4 x quick reference sheets (Fiches de jeu avec les regles principales)
+- 2 all the original counters neatly punched and bagged – I have checked them all against the Cry Havoc fan site and they are ALL there;
+- 1 d10
+- 1 map of the village (English language)
+- 2 x map of the crossroads (THAT IS ONE MAP MORE THAN THE ORIGINAL)
+- 2 x map of the forest (THAT IS ONE MAP MORE THAN THE ORIGINAL – this map is rare)
+The box has minimal wear and looks new you will not easily find another one in this condition let alone better condition.
+I am selling another 10 games from the cry havoc series. If you buy more than one I will discount the total price by 10% for every game you buy to a maximum of 50% reduction on the total.
+Cost of mailing to:
+Belgium: 9 euro
+Neighboring countries to Belgium (including UK): 13 euro
+USA and rest of Europe and countries in the Mediterranean area:  13 euro
+Rest of the world: 21 euro
+Payment within Europe - please by bank transfer
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jun 2013 18:09:43 +0000</listdate>
+    <saledate>Wed, 23 Oct 2013 03:01:10 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Very Good. Punched. Clean. Normal wear and dishing on box. Also selling a bunch of other _T_E_M_P_T_A_G_quot;Cry Havoc_T_E_M_P_T_A_G_quot; series games and scenario books. Discount for purchase of more than one.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Oct 2013 00:00:39 +0000</listdate>
+    <saledate>Sat, 05 Oct 2013 11:06:02 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Box slightly crushed, counters unpunched (Box is in rough shape and some damage to edge of map.  Please look at the pictures
+The offered game is from Mike Bartnikowski’s collection.  He passed in late 2012 and we are liquidating his gigantic (over 1200 pieces) Hoard.  We have a live .xls catalog with most of the pieces, asking price and condition.  To learn more, email at bartnikowskishoard@gmail.com.  
+Shipping to be paid by buyer.  We ship from 48192.
+paypal payments accepted at barbarakiss@sbcglobal.net
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Dec 2013 02:21:14 +0000</listdate>
+    <saledate>Sun, 16 Mar 2014 12:14:38 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>good</condition>
+    <notes>Box shows some wear
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         15 Euro
+PayPal plus max. 3 Euro
+Money transfer via IBAN/BIC preferred</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jan 2014 02:29:22 +0000</listdate>
+    <saledate>Tue, 25 Feb 2014 16:29:08 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>good</condition>
+    <notes>Standard Games first edition.  Punched but complete.  All game components in excellent condition, box somewhat dented.  I ship via USPS, Priority Mail for US, First Class for international.  Please contact me if paying via other than PayPal.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 May 2014 14:43:45 +0000</listdate>
+    <saledate>Wed, 13 Aug 2014 07:29:02 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>most counters are unpunched</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jul 2009 13:49:15 +0000</listdate>
+    <saledate>Mon, 06 Oct 2014 16:07:26 +0000</saledate>
+    <price currency='EUR'>78</price>
+    <condition>new</condition>
+    <notes>EUROGAMES Edition; Top condition (shrink); if buyer will be from EU, esp. germany, money transfer (german:Ueberweisung) to my german bank account is preferred
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Sep 2014 23:27:01 +0000</listdate>
+    <saledate>Wed, 26 Nov 2014 19:51:17 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>good</condition>
+    <notes>Box a little moldy, components fine, will send pics
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus max. 4 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Oct 2014 13:39:01 +0000</listdate>
+    <saledate>Tue, 03 Feb 2015 14:43:14 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Nov 2014 21:01:31 +0000</listdate>
+    <saledate>Sat, 28 Mar 2015 23:07:14 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes>The game is punched but in very good shape. The original rules, scenario_T_E_M_P_T_A_G_#039;s and background are in Spanish, but I_T_E_M_P_T_A_G_#039;ll include the English versions. Contains some nice extra_T_E_M_P_T_A_G_#039;s.
+I will ship anywhere in the world and never ask more then actual shipping costs. Shipping of multiple items can be combined.
+Payment through PayPal (worldwide) or bank transfer (within EU).
+Any questions? Just ask!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 May 2015 02:28:33 +0000</listdate>
+    <saledate>Thu, 14 May 2015 13:28:53 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>acceptable</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Mar 2015 18:59:36 +0000</listdate>
+    <saledate>Thu, 03 Dec 2015 14:48:31 +0000</saledate>
+    <price currency='EUR'>80</price>
+    <condition>verygood</condition>
+    <notes>punched</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Apr 2015 21:35:25 +0000</listdate>
+    <saledate>Mon, 14 Dec 2015 02:26:47 +0000</saledate>
+    <price currency='CAD'>45</price>
+    <condition>verygood</condition>
+    <notes>Cry Havoc 
+Two-player English man-to-man medieval combat on laminated map between knights and soldiers - echoes miniature gaming. Simple combat system. From Standard Games (UK). Long out of print. contains rules, scenarios and historical booklets, counters with plastic tray, interlocking maps, charts. Box in Good condition, contents Very Good, maps Like New. 
+BGG reports cheapest copy for sale worldwide is $63 (converted from Euros), and none in North America. Your price: $30.
+I will accept PayPal if you add 5% to the total order.
+For details: http://www.boardgamegeek.com/boardgame/1323/cry-havoc</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jul 2016 16:56:16 +0000</listdate>
+    <saledate>Tue, 16 Aug 2016 06:35:50 +0000</saledate>
+    <price currency='EUR'>44.9</price>
+    <condition>verygood</condition>
+    <notes>PLAYED ONCE ONLY
+MINOR WEAR ON BOX</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Jun 2016 03:55:48 +0000</listdate>
+    <saledate>Sat, 01 Oct 2016 13:35:49 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>good</condition>
+    <notes>Game components complete and in very good condition
+Box heavily scuffed and indented
+Shipping to most UK destinations £5</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Feb 2017 16:22:21 +0000</listdate>
+    <saledate>Tue, 03 Oct 2017 20:53:26 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>good</condition>
+    <notes>Box battered</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Feb 2017 20:42:37 +0000</listdate>
+    <saledate>Thu, 05 Oct 2017 11:51:47 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>likenew</condition>
+    <notes>Includes additional Forest Map.  Units separated out but unplayed and in mint condition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Aug 2017 17:41:14 +0000</listdate>
+    <saledate>Tue, 24 Oct 2017 21:47:35 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jan 2018 04:38:59 +0000</listdate>
+    <saledate>Tue, 09 Jan 2018 08:44:54 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Unpunched and complete, box rough</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Nov 2017 15:43:09 +0000</listdate>
+    <saledate>Fri, 30 Mar 2018 12:12:33 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes>only played once; only the box shows some signs of time.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Feb 2018 09:20:09 +0000</listdate>
+    <saledate>Sat, 21 Apr 2018 22:02:09 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>good</condition>
+    <notes>Game is complete and in good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Apr 2018 18:16:35 +0000</listdate>
+    <saledate>Tue, 08 May 2018 00:54:28 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Punched, box flattened. 
+Includes extra Scenario Book 1. 
+Label taped on front proclaiming _T_E_M_P_T_A_G_quot;Game is Property of Alternate Realities Continuum._T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

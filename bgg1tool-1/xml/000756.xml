@@ -1,0 +1,659 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="756">
+   <yearpublished>1987</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Black Vienna</name>
+         
+   <description>In this thinly-themed game, players seek to uncover the three spies who have their identities hidden.  There are twenty-seven possible suspects, represented by twenty-seven lettered cards (with the umlauted O).  Three of the cards are removed, as they are the spies.  The remainder are dealt out to the players.  Then players take turns 'asking' each other for information by playing a card with three letters in front of the informant.  He must then look at his cards and place either zero, one, two, or three chips on the card, depending on how many of those letters are part of his secret collection.  The first player to correctly identify the three missing spies (letters) is the winner._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/9a4x4EKReHXov8FA-GmSu0eTVec=/fit-in/200x150/pic1734204.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/oV0LvG9WfEsgGveaVEagzPj_5fg=/0x0/pic1734204.jpg</image>
+      
+            <boardgamepublisher objectid="1001">(Web published)</boardgamepublisher>
+                      <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+               <boardgamecategory objectid="1039">Deduction</boardgamecategory>
+                      <boardgameartist objectid="50458">Jim Ferreira</boardgameartist>
+               <boardgameversion objectid="111472">First edition</boardgameversion>
+                             <boardgameartist objectid="59423">Martina Irion</boardgameartist>
+               <boardgamepublisher objectid="37">KOSMOS</boardgamepublisher>
+               <boardgamedesigner objectid="377">Gilbert Obermair</boardgamedesigner>
+                             <boardgamemechanic objectid="2055">Paper-and-Pencil</boardgamemechanic>
+               <boardgameartist objectid="9015">Steve Sisk</boardgameartist>
+               <boardgameversion objectid="111473">Sisk / Ferreira Print _T_E_M_P_T_A_G_amp; Play edition</boardgameversion>
+               <boardgamecategory objectid="1081">Spies/Secret Agents</boardgamecategory>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="7">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="7" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="1" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>440</usersrated>
+     <average>7.034</average>
+     <bayesaverage>5.91432</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2581" bayesaverage="5.91432" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1059" bayesaverage="6.04102" />
+            
+           </ranks>
+     
+     <stddev>1.37851</stddev>
+     <median>0</median>
+     <owned>466</owned>
+     <trading>12</trading>
+     <wanting>85</wanting>
+     <wishing>208</wishing>
+     <numcomments>237</numcomments>
+     <numweights>50</numweights>
+     <averageweight>2.62</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 22 Nov 2002 20:37:37 +0000</listdate>
+    <saledate>Sat, 23 Nov 2002 16:11:19 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>This gem is still in SHRINK !!! (shrink starts to tear at one side - about 3 cm long)_T_E_M_P_T_A_G_lt;br_T_E_M_P_T_A_G_gt;
+Shipping to US for 9.70 (surface) - other methods possible but expensive)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Nov 2002 22:11:38 +0000</listdate>
+    <saledate>Sun, 24 Nov 2002 14:45:16 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>new</condition>
+    <notes>... this gem is still in SHRINK!!! (but the shrink starts to tear)_T_E_M_P_T_A_G_lt;br_T_E_M_P_T_A_G_gt;
+Can be shipped to US for 9.70 (surface) - other methods possible (but more expensive)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 May 2003 20:58:52 +0000</listdate>
+    <saledate>Wed, 28 May 2003 00:40:01 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>good</condition>
+    <notes>One of the RAREST german games!
+... complete and in good condition (normal wear on the box).
+Shipping worldwide at cost !!!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Jul 2003 08:21:51 +0000</listdate>
+    <saledate>Wed, 02 Jul 2003 14:38:35 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>good</condition>
+    <notes>Game box is a bit worn but not damaged. Components in good condition _T_E_M_P_T_A_G_amp;amp; complete.
+13$ worldwide surfacemail</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Jul 2003 08:33:01 +0000</listdate>
+    <saledate>Wed, 09 Jul 2003 15:10:41 +0000</saledate>
+    <price currency='EUR'>69</price>
+    <condition>verygood</condition>
+    <notes>complete and in very good shape
+shipping wordlwide: Small package by surface mail, 12.30 Euro
+shipping Europe: Small package by surface mail, 8.20 Euro, bank transfer is now cheaper
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Sep 2003 16:24:02 +0000</listdate>
+    <saledate>Wed, 21 Nov 2007 07:55:44 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes>... still looking great after 16 years !!!
+Box shows very minimal wear from storage - inside it_T_E_M_P_T_A_G_#039;s like new! 
+The cards are clean, alsmost crispy, and the score sheets are nearly complete (as far as I can say). I hardly doubt that this game has been played more than three or four times !!!
+Shipping worldwide at cost !!!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Sep 2003 11:01:24 +0000</listdate>
+    <saledate>Thu, 25 Sep 2003 14:14:16 +0000</saledate>
+    <price currency='EUR'>63</price>
+    <condition>verygood</condition>
+    <notes>complete and in very good shape
+shipping wordlwide: Small package by surface mail, 12.30 Euro
+shipping Europe: Small package by surface mail, 8.20 Euro, bank transfer is now cheaper</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Oct 2003 22:04:57 +0000</listdate>
+    <saledate>Mon, 17 May 2004 15:20:04 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>Shipping is EUR 8.20 within Europe or $12.00 worldwide. 
+The delivery time varies from 1 to 2 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Oct 2003 16:02:19 +0000</listdate>
+    <saledate>Sat, 08 Nov 2003 18:00:51 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>verygood</condition>
+    <notes>minor box wear from storage, components in very good shape.
+13$ worldwide surfacemail
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Nov 2003 14:37:21 +0000</listdate>
+    <saledate>Sat, 13 Dec 2003 00:49:33 +0000</saledate>
+    <price currency='EUR'>75</price>
+    <condition>likenew</condition>
+    <notes>You won_T_E_M_P_T_A_G_#039;t find any other Black Vienna in better conditions. It_T_E_M_P_T_A_G_#039;s unplayed, complete and in near mint conditions. Looks like somebody has put it out of shrink and stored it very carefully but never plays it.
+shipping by surface mail: 8.20 Euro to Europe, for 12.30 Euro worldwide</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Dec 2003 21:57:07 +0000</listdate>
+    <saledate>Mon, 01 Mar 2004 03:50:02 +0000</saledate>
+    <price currency='EUR'>64</price>
+    <condition>likenew</condition>
+    <notes>complete, only very,very minor wear from storage, unplayed
+shipping worldwide: Letter by suface mail with a sturdy box around, 14 Euro (faster than small packages), or small package by surface mail 12.30 Euro
+shipping Europe: Letter by air mail with a sturdy box around, 10 Euro (bank transfer is now cheaper), or small package by surface mail 8.20 Euro</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Jan 2004 22:28:33 +0000</listdate>
+    <saledate>Sun, 18 Jan 2004 00:47:36 +0000</saledate>
+    <price currency='USD'>56</price>
+    <condition>verygood</condition>
+    <notes>nearly no wear, complete
+14$ worldwide surfacemail</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Feb 2004 18:29:04 +0000</listdate>
+    <saledate>Sat, 07 Feb 2004 01:16:09 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 May 2004 20:23:30 +0000</listdate>
+    <saledate>Mon, 31 May 2004 13:21:36 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>likenew</condition>
+    <notes>complete and unplayed, cards still sealed, nearly no wear but there is one split corner
+shipping wordlwide: Small package by surface mail, 12.30 Euro
+shipping Europe: Small package by surface mail, 8.20 Euro, bank transfer is now cheaper</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jul 2004 18:23:24 +0000</listdate>
+    <saledate>Mon, 25 Oct 2004 17:55:44 +0000</saledate>
+    <price currency='EUR'>62</price>
+    <condition>likenew</condition>
+    <notes>complete and in really excellent conditions, nearly no wear
+shipping worldwide: Letter by suface mail with a sturdy box around, 10 Euro
+shipping Europe: Letter by air mail with a sturdy box around, 10 Euro (bank transfer is now cheaper)
+or small package by surface mail, 8.20 Euro</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Dec 2004 16:21:02 +0000</listdate>
+    <saledate>Mon, 20 Feb 2006 08:35:28 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>verygood</condition>
+    <notes>complete, box is in excellent shape, cards near mint, inner box has two split corners
+shipping worldwide: Letter by suface mail with a sturdy box around, 13 Euro
+shipping Europe: Letter by air mail with a sturdy box around, 13 Euro (bank transfer is now cheaper)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Dec 2004 12:39:14 +0000</listdate>
+    <saledate>Wed, 16 Nov 2005 00:16:06 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>new</condition>
+    <notes>... yes, it_T_E_M_P_T_A_G_#039;s still in the original shrink - but the shrink has started to tear.
+Shipping worldwide at cost!!!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Mar 2006 10:04:55 +0000</listdate>
+    <saledate>Fri, 25 Aug 2006 06:41:10 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>cards still like new, inner covering for cards and pieces is missing, box has some more wear (good conditions, but no split corners), the game is complete
+674 gr.
+letter by surface mail is often faster than a small package
+(in fact it looks like a small package, because I will put your game into a sturdy box)
+up to 1000 gr - Europe/World € 10.00/€ 12.00
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Feb 2007 15:01:51 +0000</listdate>
+    <saledate>Sat, 31 May 2008 22:15:11 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Game is not punched yet.
+Never played, like new condition.
+Unfortunately, one single white stone token has been missed.
+Then, I just downed the price !!
+Air-mail express: To Europe/US: 25 euro, To Asia: 15 euro, arrived in 7~10 working days.
+Ground-mail by boat: Europe/US 20 euros, To Asia: 10 euro,
+arrived in 4~6 weeks.
+You may combine items to save shipping fees !
+10kg to EU by Airmail: 80 euros
+10Kg to US by Airmail: 90 euros
+10kg to Oceania by Airmail: 70 euros
+10kg to Japan/Asia by Airmail: 45 euros
+20kg to EU by Airmail: 120 euros
+20kg to US by Airmail: 150 euros
+20kg to Oceania by Airmail: 110 euros
+20kg to Japan/Asia by Airmail: 70 euros
+10kg Ground-mail to EU/US: 50 euros
+10kg Ground-mail to Oceania/Japan/Asia: : 30 euros
+20kg Ground-mail to EU/US: 75 euros
+20kg Ground-mail to Oceania/Japan/Asia: 50 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Aug 2007 02:19:25 +0000</listdate>
+    <saledate>Sun, 09 Mar 2008 22:08:59 +0000</saledate>
+    <price currency='USD'>64</price>
+    <condition>good</condition>
+    <notes>Used; complete and in good condition, though one corner of the box is split.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Sep 2007 00:17:53 +0000</listdate>
+    <saledate>Sat, 15 Sep 2007 00:37:42 +0000</saledate>
+    <price currency='USD'>67</price>
+    <condition>verygood</condition>
+    <notes>PRIVATE SALE for molitor4 only.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Oct 2007 11:49:10 +0000</listdate>
+    <saledate>Wed, 17 Oct 2007 17:21:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>acceptable</condition>
+    <notes>Box and game materials in very good shape and not damaged. - just 5 of the 40 _T_E_M_P_T_A_G_#039;chips_T_E_M_P_T_A_G_#039; are missing but could easily replaced by some checkers             
+pieces.
+$18 worldwide surface mail delivery.  </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Nov 2007 21:53:16 +0000</listdate>
+    <saledate>Tue, 18 Dec 2007 18:17:44 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>box is just slightly worn, components complete and in very good condition.
+$48 worldwide surface mail delivery.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Nov 2007 13:07:55 +0000</listdate>
+    <saledate>Wed, 27 Feb 2008 16:08:47 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>2 corners of the box would need to be taped, otherwise in very good condition and complete.
+$ 18 worldwide surfacemail delivery.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 May 2008 21:28:25 +0000</listdate>
+    <saledate>Thu, 05 Jun 2008 14:46:14 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>complete, box and components in very good condition.
+12.90 Euros worldwide surface mail delivery.
+ 8.60 Euros delivery within Europe.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jun 2008 19:36:58 +0000</listdate>
+    <saledate>Thu, 09 Oct 2008 12:47:50 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>Originally without shirink wrap.
+Game is not punched yet.
+Game never played in like new condition.
+Unfortunately, one single white stone token has been missed.
+Then, I just downed the price !!
+I_T_E_M_P_T_A_G_#039;ll provide 30 pieces woodon tokens for the substitution!!
+There is no problem when you play the game.
+As I said, the game is not punched ;-)
+Air-mail express: To Europe/US: 25 euro, To Asia: 15 euro, arrived in 7~10 working days.
+Ground-mail by boat: Europe/US 20 euros, To Asia: 10 euro,
+arrived in 4~6 weeks.
+You may combine items to save shipping fees !
+10kg to EU by Airmail: 80 euros
+10Kg to US by Airmail: 90 euros
+10kg to Oceania by Airmail: 70 euros
+10kg to Japan/Asia by Airmail: 45 euros
+20kg to EU by Airmail: 120 euros
+20kg to US by Airmail: 150 euros
+20kg to Oceania by Airmail: 110 euros
+20kg to Japan/Asia by Airmail: 70 euros
+10kg Ground-mail to EU/US: 50 euros
+10kg Ground-mail to Oceania/Japan/Asia: : 30 euros
+20kg Ground-mail to EU/US: 75 euros
+20kg Ground-mail to Oceania/Japan/Asia: 50 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Aug 2008 06:48:12 +0000</listdate>
+    <saledate>Sun, 09 Nov 2008 08:25:28 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>cards still sealed, box like new - you won_T_E_M_P_T_A_G_#039;t find a better copy than this one - it_T_E_M_P_T_A_G_#039;s in excellent shape
+weight: 675 gramme
+shipping: registered letter</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Sep 2008 09:27:53 +0000</listdate>
+    <saledate>Wed, 24 Sep 2008 00:11:26 +0000</saledate>
+    <price currency='EUR'>44</price>
+    <condition>likenew</condition>
+    <notes>CARDS STILL IN SHRINK
+COULD BE SEND AS A LETTER (Cheaper , faster)
+DISCOUNT RULES: IF YOU BUY 3 OR MORE GAMES YOU´LL GET DISCOUNT. THE PERCENTAGE IS (DAY+MONTH)/2 (Example: If you buy the games on 12th June you´ll get 12+6=18/2=9 %). So you can get a max. Discount on 31th december of 21 % :_). The date is the BGG-TIME (CST).
+I´m selling a lot of other german boardgames
+Shipping worldwide (Paypal or cash or Western Union). Bank Transfer is also OK, if there are no further costs for me. Picture for condition purposes can me mailed
+Look also at my other games I want _T_E_M_P_T_A_G_quot;to get rid off_T_E_M_P_T_A_G_quot;
+If you are looking for some other games send me an email.
+Shipping costs are roughly:
+--------- up to 2 kg ----- up to 5 kg --- up to 10 kg
+--------- no insurance --- insurance ---- insurance
+Europe (EU) - 9 Euros ----- 17 Euros ----- 22 Euros
+USA/Canada - 13 Euros ----- 32 Euros ----- 42 Euros
+Japan ------ 13 Euros ----- 37 Euros ----- 52 Euros 
+Australia -- 13 Euros ----- 37 Euros ----- 52 Euros
+If you have further questions on shipping costs send me a message
+!!! BUYERS FROM SOUTH KOREA !!! PLEASE BUY FROM MY FRIEND ROBBIROB !!! I DON`T SELL GAMES TO SOUTH KOREA ANY MORE !!!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Oct 2008 14:24:50 +0000</listdate>
+    <saledate>Thu, 09 Oct 2008 11:17:39 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>verygood</condition>
+    <notes>nearly no wear and complete.
+12.90 Euros worldwide surface mail delivery.
+8.60 Euros shipping within the EC.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Nov 2008 10:52:15 +0000</listdate>
+    <saledate>Tue, 04 Nov 2008 14:16:34 +0000</saledate>
+    <price currency='EUR'>36</price>
+    <condition>verygood</condition>
+    <notes>just normal minor wear from storage, complete and in very good condition.
+12.90 Euros worldwide surface mail delivery.
+8.60 Euros shipping within Europe.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Nov 2008 11:46:44 +0000</listdate>
+    <saledate>Fri, 09 Jan 2009 15:45:49 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>good</condition>
+    <notes>complete, comes from a public libary, there are split corners and some marks in the box, sticker on the front box
+weight: 675 gramme
+shipping: registered letter</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Mar 2009 15:53:24 +0000</listdate>
+    <saledate>Fri, 20 Mar 2009 15:57:16 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>verygood</condition>
+    <notes>complete, unplayed, cards still sealed, but box has split corners from storing
+weight: 675 gramme
+shipping: registered letter</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Feb 2010 01:27:31 +0000</listdate>
+    <saledate>Sat, 13 Feb 2010 02:53:37 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>verygood</condition>
+    <notes>Could be send as a letter (cheaper,faster)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Sep 2010 13:30:38 +0000</listdate>
+    <saledate>Sat, 07 May 2011 07:18:18 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>great shape, some light wears on box
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Mar 2011 13:28:29 +0000</listdate>
+    <saledate>Mon, 02 Apr 2012 01:53:13 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>in good shape.   original very thin bookcase version.
+please geekmail me with any questions.
+US buyer agrees to pay for USPS shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Apr 2011 19:39:02 +0000</listdate>
+    <saledate>Sun, 17 Apr 2011 13:06:27 +0000</saledate>
+    <price currency='USD'>88</price>
+    <condition>verygood</condition>
+    <notes>Black Vienna (1987) by Franckh
+Box:  Very light shelfwear with one split corner.  Overall the box is in very good condition!  
+Components:  Complete and in like new condition!  
+SHIPPING:
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 3 lbs. from zip code 85208.  International buyers are very welcome, but please contact me before buying for a shipping price quote to avoid any surprises or misunderstandings.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Aug 2011 14:41:02 +0000</listdate>
+    <saledate>Tue, 03 Jul 2012 14:22:50 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>verygood</condition>
+    <notes>German edition by Kosmos-Franckh.
+Contents complete _T_E_M_P_T_A_G_amp; in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Aug 2011 05:48:11 +0000</listdate>
+    <saledate>Fri, 09 Mar 2012 16:13:44 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>verygood</condition>
+    <notes>Components are excellent.  Box has some rub marks on corners.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Aug 2011 09:28:30 +0000</listdate>
+    <saledate>Mon, 12 Sep 2011 21:13:54 +0000</saledate>
+    <price currency='USD'>101</price>
+    <condition>new</condition>
+    <notes>NEW IN SHRINK !
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Nov 2011 00:18:00 +0000</listdate>
+    <saledate>Sat, 26 Nov 2011 23:41:06 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>verygood</condition>
+    <notes>This is an Artscow deck done in film noir style.  Looks terrific.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Dec 2011 18:30:13 +0000</listdate>
+    <saledate>Sat, 22 Dec 2012 10:47:32 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>es handelt sich um die deutsche Ausgabe von franck/Kosmos.
+Das Spiel ist ungespielt und absolut neuwertig !
+Versand innerhalb Deutschland 4,10 Euro oder versichert 6,90 Euro
+Oder natürlich Abholung Nähe Düsseldorf.
+Original German franck-kosmos edition from 1987.
+like new (only shrinkwrap removed), game and box in excellent condition
+shipping cost within Europe 9,-Euro
+worldwide: please ask for Details</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jul 2012 16:03:24 +0000</listdate>
+    <saledate>Sat, 28 Jul 2012 18:10:35 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>For Steven Nozik (Vishnianini)
+Shipping: $3
+http://www.boardgamegeek.com/geeklist/144674/item/2220939#item2220939</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Aug 2012 22:56:29 +0000</listdate>
+    <saledate>Wed, 29 Aug 2012 02:45:30 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>Artscrow deck - Black Vienna.  Reserved for user Blessedfebruary.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Oct 2012 09:06:14 +0000</listdate>
+    <saledate>Thu, 21 Nov 2013 05:43:23 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>verygood</condition>
+    <notes>The game is in very good to near new condition
+and everything is complete.
+Only thing is, that 4 of 40 wooden coins aren_T_E_M_P_T_A_G_#039;t original
+and slightly smaller.
+This is the Version from franckh with the Barcode
+4002051682613
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Oct 2012 18:33:41 +0000</listdate>
+    <saledate>Sun, 30 Dec 2012 14:00:55 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>The cards and chips are in very good condition. The investigation tablet has around 40 sheets on it - I am not sure if any were used or not. The box is in good condition and makes a nice appearance but it does have some wear. It opens like a book so it is not real obvious, but 3 of the corners have been taped. Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Nov 2012 21:19:14 +0000</listdate>
+    <saledate>Fri, 23 Nov 2012 08:55:59 +0000</saledate>
+    <price currency='EUR'>21</price>
+    <condition>verygood</condition>
+    <notes>for user Laurent FERET (fellow92700) only 
+from my franckh auction</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jan 2013 19:56:45 +0000</listdate>
+    <saledate>Wed, 23 Jan 2013 14:32:34 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>verygood</condition>
+    <notes>Could be send as a letter (cheaper,faster)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Mar 2014 14:50:11 +0000</listdate>
+    <saledate>Mon, 17 Mar 2014 17:29:57 +0000</saledate>
+    <price currency='EUR'>23</price>
+    <condition>acceptable</condition>
+    <notes>for user joe huber only   from my actual i´m moving auction
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Dec 2015 04:05:38 +0000</listdate>
+    <saledate>Mon, 14 Dec 2015 04:31:01 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>acceptable</condition>
+    <notes>Rare First Edition
+Game is complete.
+Wrap Around Box is Intact - internal four corners are split and were taped by previous owner.  See pictures.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Dec 2016 01:13:29 +0000</listdate>
+    <saledate>Wed, 28 Dec 2016 03:22:26 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Custom made set with beautiful card art and tuck box. Rules included as cards, as are small yellow tokens. Buyer pays actual shipping cost via FedEx.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Apr 2018 19:21:35 +0000</listdate>
+    <saledate>Fri, 20 Apr 2018 21:59:04 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Sep 2018 16:17:26 +0000</listdate>
+    <saledate>Tue, 25 Sep 2018 17:01:57 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>acceptable</condition>
+    <notes>The game is complete. The corners of the box are split and fixed with cellotape. In one corner is written the name Muriel.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Nov 2017 19:24:14 +0000</listdate>
+    <saledate>Sat, 24 Nov 2018 18:11:49 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Artscow produced cards and rules only (you supply the counters).  Consists of 3 card decks in Artscow tuckboxes.   Smoke free home. Will ship lowest cost way USPS.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

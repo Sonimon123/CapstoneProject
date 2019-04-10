@@ -1,0 +1,767 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="21287">
+   <yearpublished>2006</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>10</age>
+       <name  sortindex="1">Apacze i Komancze</name>
+       <name  sortindex="1">Bison</name>
+       <name  sortindex="1">Bison: Die Prärie bebt!</name>
+       <name primary="true" sortindex="1">Bison: Thunder on the Prairie</name>
+       <name  sortindex="1">Bizon</name>
+       <name  sortindex="1">Bizon: De prairie beeft!</name>
+       <name  sortindex="1">Tribus</name>
+         
+   <description>In Bison every player is representing a native American Indian tribe. Aim is to settle in an area rich of bison, fish and turkeys. The tribe need bison as food and clothes (leather), they need fish for food and the turkeys and their feathers for rituals and adornment. The players catch bison, fish and turkeys and keep the score as markers on their own overview board. The animal markers are used to survive, to explore new land and to buy canoes and tents at the market. The player who has the most animals wins the game._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/HUo_2Zw14UfkP-8zmEl5FUmg880=/fit-in/200x150/pic509244.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/FctjHzOUjP_lIRAj1oDbuU_fVVs=/0x0/pic509244.jpg</image>
+      
+            <boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+               <boardgamecategory objectid="1055">American West</boardgamecategory>
+               <boardgamecategory objectid="1089">Animals</boardgamecategory>
+               <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+                             <boardgamefamily objectid="14835">Country: USA</boardgamefamily>
+               <boardgamepublisher objectid="2366">Devir</boardgamepublisher>
+               <boardgameversion objectid="27350">Dutch edition</boardgameversion>
+                                    <boardgamepublisher objectid="7496">Egmont Polska</boardgamepublisher>
+               <boardgameversion objectid="23307">English edition</boardgameversion>
+                             <boardgameversion objectid="24644">German Phalanx edition</boardgameversion>
+                                                                <boardgamedesigner objectid="42">Michael Kiesling</boardgamedesigner>
+               <boardgamedesigner objectid="7">Wolfgang Kramer</boardgamedesigner>
+               <boardgamepublisher objectid="10">Mayfair Games</boardgamepublisher>
+               <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+               <boardgamefamily objectid="43639">Native American</boardgamefamily>
+               <boardgamepublisher objectid="855">Phalanx Games B.V.</boardgamepublisher>
+               <boardgameversion objectid="253910">Polish edition</boardgameversion>
+                                                                <boardgameversion objectid="46614">Spanish edition</boardgameversion>
+                      <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgameartist objectid="37741">Marek Szyszko</boardgameartist>
+               <boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+                      <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+                      <boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="26">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="11" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="13" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="9">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="9" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="3" />
+     <result value="14" numvotes="3" />
+     <result value="16" numvotes="1" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1215</usersrated>
+     <average>6.35837</average>
+     <bayesaverage>5.92253</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2538" bayesaverage="5.92253" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1110" bayesaverage="5.99511" />
+            
+           </ranks>
+     
+     <stddev>1.19646</stddev>
+     <median>0</median>
+     <owned>1982</owned>
+     <trading>181</trading>
+     <wanting>44</wanting>
+     <wishing>171</wishing>
+     <numcomments>481</numcomments>
+     <numweights>158</numweights>
+     <averageweight>2.7215</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 01 Sep 2006 14:50:07 +0000</listdate>
+    <saledate>Mon, 20 Nov 2006 01:21:33 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>We only sell brand new, shrinkwrapped games.  International shipping available.
+Edition: Phalanx Games (2006)
+PHA 6018</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Sep 2006 15:39:09 +0000</listdate>
+    <saledate>Wed, 04 Oct 2006 02:31:45 +0000</saledate>
+    <price currency='USD'>20.19</price>
+    <condition>new</condition>
+    <notes>NEW AND FACTORY FRESH
+We are a small, family owned and operated game shoppe. Like you, we simply love board games!
+You_T_E_M_P_T_A_G_#039;ll only pay $6.99 to have your BISON: THUNDER ON THE PRAIRE board game shipped via USPS PRIORITY 2-3 DAY MAIL. Of course, you can always add USPS shipping insurance for $1.35. 
+Please have a look at our other listings on BoardGameGeek. We now have well over 250, and we_T_E_M_P_T_A_G_#039;re still growing!
+SAVE MONEY: We_T_E_M_P_T_A_G_#039;ll discount your shipping costs if you_T_E_M_P_T_A_G_#039;d like to order more than one item.
+International orders, please inquire about shipping costs through email before ordering.
+North Dakota residents are responsible for 6% sales tax.
+Thank you, 
+Jeremy, Jennifer, and Family
+J and J Board Games
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Nov 2006 18:33:34 +0000</listdate>
+    <saledate>Fri, 01 Dec 2006 03:30:33 +0000</saledate>
+    <price currency='USD'>17.95</price>
+    <condition>new</condition>
+    <notes>Still in shrinkwrap</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jun 2008 03:33:30 +0000</listdate>
+    <saledate>Thu, 24 Jul 2008 08:11:18 +0000</saledate>
+    <price currency='USD'>18.5</price>
+    <condition>verygood</condition>
+    <notes>In very good condition.
+Shipping is $9.  Please ask about combined shipping for multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Oct 2008 03:05:20 +0000</listdate>
+    <saledate>Fri, 31 Oct 2008 23:12:16 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BISON THUNDER ON THE PRAIRIE: $16.95
+Mayfair Games 2006 [MFG PHA6018]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Feb 2009 17:24:36 +0000</listdate>
+    <saledate>Sun, 08 Feb 2009 03:23:47 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>Game is complete and in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Feb 2009 20:30:55 +0000</listdate>
+    <saledate>Mon, 23 Feb 2009 01:45:58 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>Sale resulting from Making Room for More Games Geeklist Auction. Please don_T_E_M_P_T_A_G_#039;t buy unless you are the winning bidder.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 May 2009 04:44:25 +0000</listdate>
+    <saledate>Fri, 05 Jun 2009 10:07:35 +0000</saledate>
+    <price currency='EUR'>8.5</price>
+    <condition>verygood</condition>
+    <notes>Game just played once. Everything there in great shape.
+Original German Phalanx edition. Components are language independent.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2009 22:19:04 +0000</listdate>
+    <saledate>Fri, 14 Aug 2009 00:55:11 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>new</condition>
+    <notes>Mayfair, in shrink.
+Shipping is $8.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Aug 2009 19:29:24 +0000</listdate>
+    <saledate>Wed, 23 Sep 2009 05:41:01 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Oct 2009 02:05:12 +0000</listdate>
+    <saledate>Mon, 13 Jun 2011 16:26:19 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Shipping to USA48: 
+FREE via UPS Ground with tracking and insurance
+I will combine shipping to save you money when ordering multiple games.
+Other shipping options are available upon request (Next Day / USPS / FEDEX). Contact for shipping quote.
+Alaska and Hawaii orders are shipped via USPS.
+International orders are shipped via USPS First Class (under 4 pounds) or USPS Priority Mail (up to 70 pounds per box). Contact for shipping quote.
+Orders ship within 1 business day from receipt of payment (5-10 day waiting period on personal checks).
+Ohio residents will be charged 6.5% sales tax.
+Thank-you,
+Mr. B
+ROCKIN’ B GAMES
+www.rockinbgames.com
+mrb.rockinbgames@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Oct 2009 04:11:24 +0000</listdate>
+    <saledate>Fri, 29 Jan 2010 04:17:18 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played three times.  Buyer pays actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Nov 2009 14:46:22 +0000</listdate>
+    <saledate>Sun, 01 Nov 2009 23:28:37 +0000</saledate>
+    <price currency='GBP'>6</price>
+    <condition>likenew</condition>
+    <notes>The game has only been played once, is complete and in excellent condition.
+Please ask if you have any questions about this item.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Dec 2009 17:01:41 +0000</listdate>
+    <saledate>Sat, 26 Jun 2010 20:27:26 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This copy is punched for play, but has only been played once.  All counters, cubes and markers are present, and the game is complete and in excellent condition.  Shelf wear is very minor.  Price does not include shipping, which will be USPS Priority Mail at actual costs.
+For further details (including photos upon request) please contact me.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Dec 2009 14:47:21 +0000</listdate>
+    <saledate>Tue, 04 May 2010 05:38:41 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Very good condition.
+Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Dec 2009 19:50:04 +0000</listdate>
+    <saledate>Fri, 08 Jan 2010 13:42:39 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>verygood</condition>
+    <notes>Played once. I will ship wrapped in bubble-wrap and inside another box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jan 2010 20:34:36 +0000</listdate>
+    <saledate>Thu, 11 Mar 2010 05:58:14 +0000</saledate>
+    <price currency='USD'>12.99</price>
+    <condition>likenew</condition>
+    <notes>Only played 1x</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Sep 2010 16:40:04 +0000</listdate>
+    <saledate>Wed, 06 Oct 2010 22:20:42 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Nov 2010 00:41:30 +0000</listdate>
+    <saledate>Thu, 17 Nov 2011 21:27:19 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>likenew</condition>
+    <notes>Mint condition, from a
+smoke-free / pet-free home.
+PayPal only.
+.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Feb 2011 20:24:09 +0000</listdate>
+    <saledate>Sun, 25 Sep 2011 16:05:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Shipping USPS Priority.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Jun 2011 15:43:24 +0000</listdate>
+    <saledate>Fri, 17 Jun 2011 22:39:14 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>AUCTION ITEM for speavy</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2011 22:41:36 +0000</listdate>
+    <saledate>Tue, 09 Aug 2011 01:40:04 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>reserved for ekimmel</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Mar 2012 03:50:35 +0000</listdate>
+    <saledate>Mon, 02 Apr 2012 21:10:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Game is pre-owned, but in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Mar 2012 00:26:01 +0000</listdate>
+    <saledate>Thu, 08 Mar 2012 22:03:28 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>new</condition>
+    <notes>Reserved for Patrick Grogan(corkysru)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Mar 2012 03:56:27 +0000</listdate>
+    <saledate>Mon, 11 Jun 2012 14:41:50 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Downsizing my game collection, new and used. Can combine shipping, will also consider price discount on a large order.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jun 2012 13:43:36 +0000</listdate>
+    <saledate>Sun, 03 Jun 2012 23:16:05 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>verygood</condition>
+    <notes>Reserved for erik2point0
+Cash in-person exchange</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jun 2012 17:20:02 +0000</listdate>
+    <saledate>Sun, 04 Nov 2012 13:22:27 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>likenew</condition>
+    <notes>Played once only. Condition reflects this</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Oct 2012 02:44:47 +0000</listdate>
+    <saledate>Thu, 25 Oct 2012 10:29:03 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>RESERVED FOR DAVID COHEN AT $6.00</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Nov 2012 19:32:15 +0000</listdate>
+    <saledate>Fri, 30 Nov 2012 19:54:13 +0000</saledate>
+    <price currency='GBP'>9</price>
+    <condition>likenew</condition>
+    <notes>Played once. Ship UK Only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Mar 2013 00:31:30 +0000</listdate>
+    <saledate>Sun, 03 Mar 2013 00:54:39 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Already sold at auction to Kirk G.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Mar 2013 19:26:18 +0000</listdate>
+    <saledate>Mon, 01 Apr 2013 04:47:22 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>reserved for Gordon Wohlers</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Mar 2013 20:15:05 +0000</listdate>
+    <saledate>Tue, 26 Mar 2013 20:18:18 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Reserved for ColtsFan76</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Jun 2013 12:51:03 +0000</listdate>
+    <saledate>Mon, 01 Jul 2013 13:32:48 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>For the action _T_E_M_P_T_A_G_quot;3 Men and an Auction_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Jul 2013 16:19:13 +0000</listdate>
+    <saledate>Fri, 05 Jul 2013 18:00:42 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>verygood</condition>
+    <notes>For lazzater only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Sep 2013 09:54:05 +0000</listdate>
+    <saledate>Mon, 23 Sep 2013 21:37:33 +0000</saledate>
+    <price currency='EUR'>2.5</price>
+    <condition>acceptable</condition>
+    <notes>There is a big dent in the box. The game is perfect.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Dec 2013 16:02:26 +0000</listdate>
+    <saledate>Fri, 17 Jan 2014 17:15:54 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played, complete, in very good condition. The box insert is missing.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Feb 2014 01:25:08 +0000</listdate>
+    <saledate>Tue, 11 Feb 2014 16:47:40 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Punched but never played.
+Complete.
+Any questions please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Feb 2014 22:06:38 +0000</listdate>
+    <saledate>Thu, 13 Mar 2014 14:21:17 +0000</saledate>
+    <price currency='USD'>57</price>
+    <condition>verygood</condition>
+    <notes>reserved for bryan and sarah
+includes:
+Bison: Thunder on the Prairie
+Cartagena 2. The Pirate_T_E_M_P_T_A_G_#039;s Nest
+Hive
+Techno Witches
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Mar 2014 01:58:49 +0000</listdate>
+    <saledate>Sat, 15 Mar 2014 14:21:42 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>For Reuven Fischer/Gruven-reuven ONLY, winner of the game auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Sep 2014 03:08:25 +0000</listdate>
+    <saledate>Sat, 13 Sep 2014 12:06:23 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/175552/item/3302134#3302134]Item for Geeklist _T_E_M_P_T_A_G_quot;Its STILL not you, Its Me.  Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Sep 2014 13:44:55 +0000</listdate>
+    <saledate>Wed, 24 Sep 2014 15:18:49 +0000</saledate>
+    <price currency='USD'>7.5</price>
+    <condition>likenew</condition>
+    <notes>for clarkkent22</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Nov 2014 20:32:39 +0000</listdate>
+    <saledate>Sun, 16 Nov 2014 20:57:20 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/181698/item/3552432#3552432]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION: Adopt some games.  Ends Saturday, November 14th in the morning (CDT)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Apr 2014 07:39:52 +0000</listdate>
+    <saledate>Sat, 22 Nov 2014 15:30:55 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Aug 2014 14:19:53 +0000</listdate>
+    <saledate>Mon, 19 Jan 2015 02:50:44 +0000</saledate>
+    <price currency='USD'>17.5</price>
+    <condition>new</condition>
+    <notes>Mint!  Still in the shrink wrap!
+Check out my other listings! Buyer to pay shipping, but I will combine shipping to save you money. I prefer to use Regional or Flat Rate USPS boxes, but will ship other method if you like. I also prefer to ship to the USA only as it is usually too expensive to ship overseas and is just a waste of time for everyone to pursue it. I will ship as soon as the payment clears.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Jan 2014 21:51:17 +0000</listdate>
+    <saledate>Fri, 23 Jan 2015 03:09:41 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>likenew</condition>
+    <notes>Shrinkwrap removed but never played. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. I have many hundreds of games for sale and would be happy to combine shipping charges for multiple games to save you money. Shipping weight is 4 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Apr 2014 04:02:02 +0000</listdate>
+    <saledate>Fri, 20 Feb 2015 03:21:55 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>likenew</condition>
+    <notes>Punched, bagged and excellent condition as never played.
+Will only ship to Australia or pickup/deliver in Melbourne.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Jan 2015 17:40:17 +0000</listdate>
+    <saledate>Wed, 04 Mar 2015 03:18:45 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>good</condition>
+    <notes>Everything is in great shape and complete, except that one tile has a minor tear on the back (probably from punching it off the sprue). Hard to notice if just glancing, but easy to spot if looking for it.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Apr 2014 08:22:18 +0000</listdate>
+    <saledate>Tue, 12 May 2015 10:01:12 +0000</saledate>
+    <price currency='GBP'>16.99</price>
+    <condition>new</condition>
+    <notes>Brand new and in shrink
+English language edition - Phalanx/Mayfair Games - PHA6018
+Postage will be £3 - UK only sorry
+Happy to combine postage
+Maximum postage cost will be £6
+Will post to UK only sorry</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jul 2015 17:50:26 +0000</listdate>
+    <saledate>Mon, 13 Jul 2015 18:04:39 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>for smic only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Sep 2015 14:39:23 +0000</listdate>
+    <saledate>Mon, 14 Sep 2015 18:57:05 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/196447/item/4127795#4127795]Item for Geeklist _T_E_M_P_T_A_G_quot;Good Games that Don_T_E_M_P_T_A_G_#039;t Fit Auction -- Ends September 13_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jul 2015 13:36:04 +0000</listdate>
+    <saledate>Sun, 27 Sep 2015 22:45:09 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Opened and never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Aug 2014 08:20:07 +0000</listdate>
+    <saledate>Tue, 13 Oct 2015 22:59:40 +0000</saledate>
+    <price currency='EUR'>6.9</price>
+    <condition>likenew</condition>
+    <notes>Alle zum Verkauf stehenden Spiele können auch auf der Essen Spiel 2015, an allen vier Tagen übergeben werden.
+You can also pick up all games i am selling at Essen Spiel 2015 on all four days !
+Das Spiel ist ungespielt (nicht in Folie) und ist in einwandfreiem Zustand !
+Versand innerhalb Deutschland 4,10 Euro oder versichert 6,90 Euro
+Oder natürlich Abholung Nähe Düsseldorf
+The game is new (unplayed but not shrink wrapped).
+shipping cost within Europe 9,-Euro
+worldwide: please ask for Details
+PayPal is possible. Please ask for details</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Aug 2015 04:26:47 +0000</listdate>
+    <saledate>Fri, 16 Oct 2015 00:50:20 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>Punched and partially bagged. Never played. Box in like new condition</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Jul 2014 13:28:55 +0000</listdate>
+    <saledate>Thu, 29 Oct 2015 19:07:07 +0000</saledate>
+    <price currency='EUR'>11.99</price>
+    <condition>new</condition>
+    <notes>Bison: Die Prärie bebt!
+Nick: 
+German Phalanx edition
+Publisher: Phalanx Games B.V.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Jan 2013 20:53:46 +0000</listdate>
+    <saledate>Fri, 30 Oct 2015 12:24:30 +0000</saledate>
+    <price currency='USD'>12.75</price>
+    <condition>likenew</condition>
+    <notes>Bison (2006) Phalanx Games
+Condition: A2 - Very Lightly used. Everything is in Excellent Shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Feb 2015 10:32:53 +0000</listdate>
+    <saledate>Fri, 30 Oct 2015 22:38:38 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>likenew</condition>
+    <notes>German edition (the game doesn_T_E_M_P_T_A_G_#039;t sport any text - so if you don_T_E_M_P_T_A_G_#039;t speak German, you_T_E_M_P_T_A_G_#039;d just need the rules in your language); the game has been played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Jan 2013 17:30:04 +0000</listdate>
+    <saledate>Wed, 09 Dec 2015 01:58:23 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>new</condition>
+    <notes>Still shrink wrapped.
+Please provide zip code to get total with shipping.
+1.5 lbs</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jan 2016 03:50:09 +0000</listdate>
+    <saledate>Wed, 03 Feb 2016 06:57:42 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>Buyer pays shipping cost
+Paypal (please add 5% for fees)
+Google Wallet (no fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 May 2016 10:11:45 +0000</listdate>
+    <saledate>Tue, 24 May 2016 10:28:44 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>brand new in shrink.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Aug 2016 03:04:53 +0000</listdate>
+    <saledate>Mon, 08 Aug 2016 05:21:39 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/211900/item/4768172#4768172]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction Time - Macao, The Bottle Imp, Yokai no Mori and More!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Oct 2016 20:59:58 +0000</listdate>
+    <saledate>Sun, 09 Oct 2016 21:18:06 +0000</saledate>
+    <price currency='EUR'>1</price>
+    <condition>acceptable</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/211885/item/4922035#4922035]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2016 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2016 16:06:43 +0000</listdate>
+    <saledate>Tue, 11 Oct 2016 19:43:07 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated.
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Oct 2016 18:38:13 +0000</listdate>
+    <saledate>Sun, 06 Nov 2016 08:08:04 +0000</saledate>
+    <price currency='EUR'>7.5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Apr 2017 05:35:49 +0000</listdate>
+    <saledate>Thu, 29 Jun 2017 10:28:26 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Jul 2017 12:09:33 +0000</listdate>
+    <saledate>Fri, 07 Jul 2017 17:04:20 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/226854/item/5467410#5467410]Item for Geeklist _T_E_M_P_T_A_G_quot;COMPLETE - Moving to San Francisco Auction (ends July 5)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Dec 2016 21:33:16 +0000</listdate>
+    <saledate>Thu, 04 Jan 2018 12:02:26 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>Punched, played and much enjoyed. Selling as part of the _T_E_M_P_T_A_G_quot;collect less, play more_T_E_M_P_T_A_G_quot; philosophy that_T_E_M_P_T_A_G_#039;s now the law in my game room! Thanks for lookin_T_E_M_P_T_A_G_#039;, take care,,,</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Oct 2017 22:19:44 +0000</listdate>
+    <saledate>Fri, 06 Apr 2018 13:57:31 +0000</saledate>
+    <price currency='GBP'>9</price>
+    <condition>likenew</condition>
+    <notes>Colour English rules included.  No in game text.
+Uk postage £3</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 May 2018 02:30:47 +0000</listdate>
+    <saledate>Sun, 20 May 2018 06:11:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Origins pick up 2018</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 May 2018 11:38:34 +0000</listdate>
+    <saledate>Wed, 30 May 2018 11:46:06 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239373/item/6152935#6152935]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con Spring 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jun 2018 14:35:29 +0000</listdate>
+    <saledate>Mon, 11 Jun 2018 22:34:24 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231344/item/6199987#6199987]Item for Geeklist _T_E_M_P_T_A_G_quot;Columbus, Ohio Virtual Flea Market (Now including Origins drop off and pick up)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Apr 2015 13:56:34 +0000</listdate>
+    <saledate>Wed, 04 Jul 2018 11:58:34 +0000</saledate>
+    <price currency='EUR'>6</price>
+    <condition>verygood</condition>
+    <notes>Box have minimal wear and tear. The game material are in very good condition.
+I will ship from Germany and I am willing to ship anywhere.
+Please ask me, for the shipping costs for your land.
+I will charge shipping at cost. Everything will be well packed.
+You can pay me through Paypal or bank transfer to my German bank account but any fees charged must be covered by you.
+If you buy more games, then I make all in one package!
+We have a large private collection of games. Due to space and time constraints we must rid ourselves of some of the games. Therefore, these are private sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Dec 2016 21:30:00 +0000</listdate>
+    <saledate>Sat, 25 Aug 2018 14:59:41 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>New in shrink, great condition. Selling as part of the _T_E_M_P_T_A_G_quot;collect less, play more_T_E_M_P_T_A_G_quot; philosophy that_T_E_M_P_T_A_G_#039;s now the law in my game room! Thanks for lookin_T_E_M_P_T_A_G_#039;, take care,,,</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Oct 2018 09:52:12 +0000</listdate>
+    <saledate>Thu, 25 Oct 2018 13:14:08 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/245973/item/6447372#6447372]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Nov 2018 12:47:57 +0000</listdate>
+    <saledate>Sat, 17 Nov 2018 02:57:26 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played, complete and in excellent condition.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

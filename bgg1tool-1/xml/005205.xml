@@ -1,0 +1,474 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="5205">
+   <yearpublished>1978</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>75</playingtime>
+   <minplaytime>75</minplaytime>
+   <maxplaytime>75</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">G.E.V.</name>
+       <name  sortindex="1">GEV</name>
+         
+   <description>Microgame #8 in the Metagaming Microgames series, the original release of G.E.V.  A follow-up to Ogre.  Units from Ogre are carried over, with expanded rules for terrain.  A larger map and more ambitious game._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Second base game of the Ogre/GEV Family._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Note: Ogre and G.E.V. were later reissued separately and then repackaged together as Ogre / G.E.V. by Steve Jackson Games. The Steve Jackson GEV edition has a different countermix to the original editions._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/Vdy3dRjxtVg1PxG2bZJxHBDUwjs=/fit-in/200x150/pic69390.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/XOIwgiP9ax4gDzB6wppFIwG9ngc=/0x0/pic69390.jpg</image>
+      
+            <boardgameartist objectid="20471">Winchell Chung</boardgameartist>
+               <boardgameartist objectid="13589">David R. Deitrick</boardgameartist>
+               <boardgamecategory objectid="1046">Fighting</boardgamecategory>
+               <boardgameversion objectid="32602">First edition</boardgameversion>
+                      <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+               <boardgamepodcastepisode objectid="28050">I_T_E_M_P_T_A_G_#039;ve Been Diced! episode 10: Gateway games</boardgamepodcastepisode>
+               <boardgamedesigner objectid="22">Steve Jackson (I)</boardgamedesigner>
+               <boardgameartist objectid="13114">Denis Loubet</boardgameartist>
+               <boardgameartist objectid="15323">Dave Martin</boardgameartist>
+               <boardgamepublisher objectid="356">Metagaming</boardgamepublisher>
+               <boardgamefamily objectid="6256">Metagaming Microgames series</boardgamefamily>
+               <boardgamecompilation objectid="173270">Ogre / G.E.V.</boardgamecompilation>
+               <boardgameexpansion objectid="12482">Ogre Battlefields</boardgameexpansion>
+               <boardgameexpansion objectid="21691">The Ogre Book</boardgameexpansion>
+               <boardgameimplementation objectid="29026">Ogre Miniatures</boardgameimplementation>
+               <boardgameexpansion objectid="7531">Ogre Reinforcement Pack</boardgameexpansion>
+               <boardgamefamily objectid="157">Ogre/GEV Family</boardgamefamily>
+               <boardgameexpansion objectid="12537">Ogre: Scenario Book 1</boardgameexpansion>
+               <boardgameartist objectid="844">Philip Reed</boardgameartist>
+               <boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+               <boardgameversion objectid="260673">Second edition</boardgameversion>
+               <boardgameexpansion objectid="7513">Shockwave</boardgameexpansion>
+               <boardgamepublisher objectid="19">Steve Jackson Games</boardgamepublisher>
+               <boardgamefamily objectid="41798">Steve Jackson Games Pocket Box</boardgamefamily>
+               <boardgameversion objectid="24157">Third edition</boardgameversion>
+               <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+               <boardgameartist objectid="32038">Brian Wilson</boardgameartist>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="1" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>799</usersrated>
+     <average>6.94029</average>
+     <bayesaverage>6.05678</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1973" bayesaverage="6.05678" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="323" bayesaverage="6.63146" />
+            
+           </ranks>
+     
+     <stddev>1.48083</stddev>
+     <median>0</median>
+     <owned>1576</owned>
+     <trading>44</trading>
+     <wanting>29</wanting>
+     <wishing>87</wishing>
+     <numcomments>314</numcomments>
+     <numweights>98</numweights>
+     <averageweight>2.2653</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sun, 05 Oct 2003 15:50:44 +0000</listdate>
+    <saledate>Sat, 11 Oct 2003 22:55:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>DESCRIPTION: Original edition (Metagaming, 1978). Unpunched and unplayed in early plastic sleeve packaging format. A great collector_T_E_M_P_T_A_G_amp;#039;s find!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Mar 2004 20:04:34 +0000</listdate>
+    <saledate>Fri, 02 Apr 2004 04:40:30 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>new</condition>
+    <notes>Unopened, unpunched, (I believe) original version.  It is the _T_E_M_P_T_A_G_quot;Microgame #8_T_E_M_P_T_A_G_quot; version shown on the left of the attached BGG image.  (I can take a pic of my own, if needed.)  The outside of the plastic envelope holding the game looks a bit dirty from shelf time, but the contents look perfect from what I can see without opening it.  Please feel free to ask any questions.
++++ USA sales only, trades accepted worldwide</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Mar 2005 05:05:27 +0000</listdate>
+    <saledate>Sun, 27 Mar 2005 21:49:37 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>First edition.  
+Uncut, in excellent condition.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Oct 2006 20:44:36 +0000</listdate>
+    <saledate>Thu, 26 Oct 2006 04:40:48 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>Unpunched. Box slightly scuffed.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Feb 2007 16:40:24 +0000</listdate>
+    <saledate>Sun, 01 Apr 2007 01:05:35 +0000</saledate>
+    <price currency='GBP'>5</price>
+    <condition>verygood</condition>
+    <notes>In original plastic wallet. Counters cut but all pieces in very good condition.
+Postage £1.00 in UK, £1.50 to rest of EU and £2.00 rest of the world.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Sep 2008 15:22:06 +0000</listdate>
+    <saledate>Fri, 19 Sep 2008 01:33:07 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>new</condition>
+    <notes>In ziplock. Microgame #8</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Jan 2009 15:35:40 +0000</listdate>
+    <saledate>Tue, 12 May 2009 09:11:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>TWO Copies for the price of one! Metagaming, and Steve Jackson Games Editions. Counters are cut out, and intermixed (which is why I_T_E_M_P_T_A_G_#039;m selling them together).
+ You get two rule books, two maps, lots of counters. 
+Check out my other OGRE/GEV entries.
+I_T_E_M_P_T_A_G_#039;m ALWAYS willing to consider serious counter-offers! Especially on multi-game deals.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Apr 2009 22:14:46 +0000</listdate>
+    <saledate>Sun, 03 May 2009 14:59:58 +0000</saledate>
+    <price currency='USD'>20.75</price>
+    <condition>likenew</condition>
+    <notes>OGRE _T_E_M_P_T_A_G_amp; GEV the originals from STG/Metagaming.SOLD AS A PAIR ONLY $41.50.. Played once or twice and the components are in excellent condition. All 247 combined games counters are in a single ziplock and are crisp and like new. they_T_E_M_P_T_A_G_#039;ve been stored in this ziplock away for 25+ years. I just counted them. shipping should be cheap - like $3 US for within the US</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 May 2009 19:39:01 +0000</listdate>
+    <saledate>Mon, 25 May 2009 21:31:29 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>good</condition>
+    <notes>1978 SJG pocket box edition.  Counters are cut.  Everything in great condition.
+I can only accept check, money order, or Paypal (if it is funded through a bank account, not a debit or credit card).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Mar 2010 16:47:32 +0000</listdate>
+    <saledate>Fri, 11 Jun 2010 12:37:15 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>unpunched Original edition 1978 Microgame 8</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 May 2010 10:01:10 +0000</listdate>
+    <saledate>Sat, 22 May 2010 10:32:26 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>verygood</condition>
+    <notes>Unpunched _T_E_M_P_T_A_G_amp; unplayed complete Metagaming boxed 2nd edition.
+Counter sheets unpunched, rulebook and map as new, dice included.  The box is somewhat squashed, however (see photo).  The Metagaming boxes were notoriously feeble _T_E_M_P_T_A_G_amp; this copy has obviously travelled around over the last 30 years!
+P_T_E_M_P_T_A_G_amp;P to the UK will be £1.50.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Jul 2010 22:06:33 +0000</listdate>
+    <saledate>Thu, 12 Aug 2010 03:03:05 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>Metagaming Microgame 8.  Unpunched, complete. The box is in poor condition, but everything inside is in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Nov 2010 06:23:36 +0000</listdate>
+    <saledate>Sun, 02 Oct 2011 20:14:25 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>I am selling Ogre and GEV together.
+Both are from the MicroGame line by MetaGaming.
+Oger is MetaGame 1
+GEV is MetaGame 8
+There are 243 Counters 4 of which are train counters.
+The game is used and the maps and rules are in good playable condition.
+Contact me with any questions.
+I only ship on Wednesdays to the lower 48 United States.
+I accept PayPal and COD when F2F in the Southbay area of Los Angeles or in Irvine close to John Wayne airport.
+(This listing is cross listed on the Ogre market place as well)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Nov 2010 21:13:01 +0000</listdate>
+    <saledate>Fri, 12 Nov 2010 18:20:13 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>OGRE / G.E.V. both Games in one Pack!
+also include is SHOCKWAVE
+I will send pictures on request
+postage
+Germany 5,00 EUR
+EUROPEAN UNION 10,00 EUR</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Jan 2011 03:36:09 +0000</listdate>
+    <saledate>Wed, 14 Dec 2011 21:02:46 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>good</condition>
+    <notes> Contains 270 chits, incompletely separated.  Die not included.
+This is the standalone bagged edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Oct 2011 17:45:15 +0000</listdate>
+    <saledate>Fri, 28 Oct 2011 00:11:09 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>SJG Pocket Box edition. The counters have been cut but are all present. The map is in very good shape. The rules have a previous owner_T_E_M_P_T_A_G_#039;s initial on the front page but are fine otherwise. The box is fine (the plastic has bled through the front label a bit, which is typical).
+I would prefer to sell Ogre, G.E.V., and Shockwave together.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 May 2012 02:58:10 +0000</listdate>
+    <saledate>Fri, 18 May 2012 04:22:30 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>good</condition>
+    <notes>ForTom J/Dreadnaut, ONLY - winner of game auction.  This is a listing for a lot of three Ogre family games:
+1 Steve Jackson Games Pocket Box edition of Ogre.
+1 Steve Jackson Games edition of GEV
+1 Steve Jackson Games edition of Shockwave.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Jun 2013 18:25:06 +0000</listdate>
+    <saledate>Thu, 27 Jun 2013 01:28:26 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Unpunched/uncut countersheet. Rules and map show no wear.
+No in original plastic bag, now in archival comic bag.
+Will ship in first class or priority envelope for $5 to U.S. addresses. $8 to Canada. $15 international.
+Buy a second magazine/Ziploc or Folio game and shipping is only $2 more. No additional shipping if buying 3 or more.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Dec 2013 23:09:36 +0000</listdate>
+    <saledate>Thu, 19 Dec 2013 00:29:05 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Uncut! But box has edge and corner wear. Like new inside. This is the 1978 edition with the orange/pink cardboard box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Feb 2014 22:28:12 +0000</listdate>
+    <saledate>Mon, 10 Feb 2014 21:11:57 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>2nd edition in plastic pocket box. Punched. Excellent condition except for label on back of box which looks like the glue that holds it on has stained it.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Dec 2014 03:29:59 +0000</listdate>
+    <saledate>Tue, 07 Apr 2015 01:26:39 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Feb 2015 21:07:38 +0000</listdate>
+    <saledate>Sat, 11 Apr 2015 03:49:46 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Game is complete in plastic _T_E_M_P_T_A_G_quot;pocket box_T_E_M_P_T_A_G_quot;.  All components are in very good condition.
+ This is the original release of G.E.V. A follow-up to Ogre. Units from Ogre are carried over, with expanded rules for terrain. A larger map and more ambitious game. Pocket Box; cover art by David R. Dietrick and Dave Martin. Color map painted by Denis Loubet, black-and-white two-sided counters, rulebook.
+Shipping will be added if items are not picked up locally. Shipping is through USPS from zip code 22306, or as otherwise arranged with buyer.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Apr 2015 03:33:46 +0000</listdate>
+    <saledate>Sun, 12 Apr 2015 20:21:31 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>RESERVED FOR TheGreenMan!
+Ogre _T_E_M_P_T_A_G_amp; GEV bundle:
+Ogre (Metagaming 1st edition with single-sided counters) -- (Like New except bag has been replaced with a zip bag, Unpunched)
+G.E.V. (Metagaming 1st edition with single-sided counters) -- (Like New - Unpunched) 
+G.E.V. (Steve Jackson 2nd ed pocket box) -- (Like New --partially punched) Plastic box 
+ALSO includes Ogre Reinforcement Pack 1st ed. and Shockwave 1st ed.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Oct 2013 23:13:49 +0000</listdate>
+    <saledate>Mon, 08 Jun 2015 21:14:06 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>Laminated map, unpunched
+The offered game is from Mike Bartnikowski’s collection.  He passed in late 2012 and we are liquidating his gigantic (over 1200 pieces) Hoard.  We have a live .xls catalog with most of the pieces, asking price and condition.  To learn more, email at bartnikowskishoard@gmail.com.  
+Shipping to be paid by buyer.  We ship from 48192.
+paypal payments accepted at barbarakiss@sbcglobal.net
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Dec 2014 10:05:15 +0000</listdate>
+    <saledate>Wed, 01 Jul 2015 03:56:30 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>New unpunched game
+Shipping_T_E_M_P_T_A_G_amp;Handling – Priority Mail:
+Switzerland: CHF 3.-- 
+Europe: USD 7.--
+Others: USD 10.--
+We will always combine multiple items to reduce your shipping costs where possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Dec 2014 10:05:15 +0000</listdate>
+    <saledate>Thu, 30 Jul 2015 08:41:30 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>New unpunched game
+Shipping_T_E_M_P_T_A_G_amp;Handling – Priority Mail:
+Switzerland: CHF 3.-- 
+Europe: USD 7.--
+Others: USD 10.--
+We will always combine multiple items to reduce your shipping costs where possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Nov 2013 05:34:19 +0000</listdate>
+    <saledate>Wed, 02 Mar 2016 02:31:00 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Metagaming First Plastic Bag Edition
+Complete and counters uncut.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Mar 2016 01:51:08 +0000</listdate>
+    <saledate>Mon, 14 Mar 2016 13:56:25 +0000</saledate>
+    <price currency='USD'>17.82</price>
+    <condition>verygood</condition>
+    <notes>Edition: Metagaming First pocket box edition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jan 2017 05:38:34 +0000</listdate>
+    <saledate>Thu, 26 Jan 2017 07:22:45 +0000</saledate>
+    <price currency='USD'>19.98</price>
+    <condition>verygood</condition>
+    <notes>Edition: Metagaming First pocket box edition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Nov 2016 20:20:57 +0000</listdate>
+    <saledate>Sun, 23 Apr 2017 21:51:09 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>good</condition>
+    <notes>U.K. Postage £2.50</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Apr 2015 17:14:34 +0000</listdate>
+    <saledate>Tue, 02 Jan 2018 22:28:48 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Metagaming Microgame #8
+Counters are card stock, uncut and unmounted.  
+Rules and map VG.  
+US shipping $2.50</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Dec 2014 10:05:15 +0000</listdate>
+    <saledate>Wed, 31 Jan 2018 09:45:19 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>New unpunched game
+Shipping_T_E_M_P_T_A_G_amp;Handling – Priority Mail:
+Switzerland: CHF 3.-- 
+Europe: USD 7.--
+Others: USD 10.--
+We will always combine multiple items to reduce your shipping costs where possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Dec 2014 10:05:15 +0000</listdate>
+    <saledate>Wed, 11 Apr 2018 05:13:58 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>New unpunched game
+Shipping_T_E_M_P_T_A_G_amp;Handling – Priority Mail:
+Switzerland: CHF 3.-- 
+Europe: USD 7.--
+Others: USD 10.--
+We will always combine multiple items to reduce your shipping costs where possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Dec 2014 10:05:15 +0000</listdate>
+    <saledate>Thu, 07 Jun 2018 22:05:51 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>New unpunched game
+Shipping_T_E_M_P_T_A_G_amp;Handling – Priority Mail:
+Switzerland: CHF 3.-- 
+Europe: USD 7.--
+Others: USD 10.--
+We will always combine multiple items to reduce your shipping costs where possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Dec 2014 10:05:15 +0000</listdate>
+    <saledate>Sat, 30 Jun 2018 20:53:11 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>New unpunched game
+Shipping_T_E_M_P_T_A_G_amp;Handling – Priority Mail:
+Switzerland: CHF 3.-- 
+Europe: USD 7.--
+Others: USD 10.--
+We will always combine multiple items to reduce your shipping costs where possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Aug 2018 18:37:59 +0000</listdate>
+    <saledate>Tue, 21 Aug 2018 18:43:28 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>new</condition>
+    <notes>Stored on my shelf B8</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Aug 2018 14:42:42 +0000</listdate>
+    <saledate>Sat, 08 Sep 2018 11:03:34 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>Still sealed in plastic</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Oct 2018 04:14:41 +0000</listdate>
+    <saledate>Thu, 20 Dec 2018 22:47:32 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

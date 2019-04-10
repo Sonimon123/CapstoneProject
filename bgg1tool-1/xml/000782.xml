@@ -1,0 +1,915 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="782">
+   <yearpublished>1966</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>120</playingtime>
+   <minplaytime>120</minplaytime>
+   <maxplaytime>120</maxplaytime>
+   <age>8</age>
+       <name  sortindex="1">Turf</name>
+       <name primary="true" sortindex="1">Win, Place _T_E_M_P_T_A_G_amp; Show</name>
+         
+   <description>A race meeting consisting of 6 races, each with 6 horses of varying power and characteristics.  Board shows an oval track of six lanes, straightforward in straights but graduated on the curves.  Although dice play a part in the game there is plenty of room for skillful maneuvering in the course of each race, which can be from 5 furlongs to 1 1/4 miles.  An important part of the game is provided by certain marked squares: if you can get your horse to stop on one of these it can overtake one horse ahead of it in the same line, which can be vital considering that only two swerves are permitted in each turn (only one if the jockey is an apprentice).  Every horse has a distinctive racing pattern (slow or fast starter, stayer or fader etc.) represented by a set of numbers, one for each turn.  These numbers are added to a single dice throw (common to all the horses), so that the speed of each race can vary substantially.  There are many other interesting factors too numerous to describe in a short review.  Odds on each horse are pre-set and depend largely on the number patterns described above._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Originally released as part of the 3M Sports Games line._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/lJX8fbIwjq5kZEeFk296swzMX5A=/fit-in/200x150/pic203905.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/paHmKiQivBjBTYRiy2_4kbBx370=/0x0/pic203905.jpg</image>
+      
+            <boardgamepublisher objectid="92">3M</boardgamepublisher>
+               <boardgameversion objectid="42699">3M long box edition</boardgameversion>
+               <boardgamefamily objectid="6459">3M Sports Games</boardgamefamily>
+               <boardgameversion objectid="24700">AH Sports Illustrated Edition</boardgameversion>
+                      <boardgamecategory objectid="1089">Animals</boardgamecategory>
+               <boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+               <boardgamemechanic objectid="2014">Betting/Wagering</boardgamemechanic>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgamedesigner objectid="659">Thomas M. Divoll</boardgamedesigner>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgameversion objectid="165472">First edition</boardgameversion>
+                             <boardgamepublisher objectid="127">Klee</boardgamepublisher>
+                      <boardgamecategory objectid="1031">Racing</boardgamecategory>
+               <boardgamedesigner objectid="658">John B. Reilly</boardgamedesigner>
+               <boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+               <boardgamecategory objectid="1038">Sports</boardgamecategory>
+               <boardgamefamily objectid="5730">Sports: Horse Racing</boardgamefamily>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+                      <boardgameexpansion objectid="12725">Win, Place _T_E_M_P_T_A_G_amp; Show Great Thoroughbreds 1860_T_E_M_P_T_A_G_#039;s-1910_T_E_M_P_T_A_G_#039;s</boardgameexpansion>
+               <boardgameexpansion objectid="13129">Win, Place _T_E_M_P_T_A_G_amp; Show Great Thoroughbreds 1920_T_E_M_P_T_A_G_#039;s-1970_T_E_M_P_T_A_G_#039;s</boardgameexpansion>
+               <boardgameexpansion objectid="137989">Win, Place _T_E_M_P_T_A_G_amp; Show Official Program</boardgameexpansion>
+                           
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="18">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="15" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="5" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>775</usersrated>
+     <average>6.69756</average>
+     <bayesaverage>5.93867</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2456" bayesaverage="5.93867" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1088" bayesaverage="6.01342" />
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="677" bayesaverage="6.02824" />
+            
+           </ranks>
+     
+     <stddev>1.4073</stddev>
+     <median>0</median>
+     <owned>1631</owned>
+     <trading>131</trading>
+     <wanting>29</wanting>
+     <wishing>78</wishing>
+     <numcomments>357</numcomments>
+     <numweights>92</numweights>
+     <averageweight>2.087</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 21 Nov 2002 21:01:16 +0000</listdate>
+    <saledate>Wed, 23 Jul 2003 19:41:44 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>good</condition>
+    <notes>1977 edition. E-mail me for parts list</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jan 2004 10:06:02 +0000</listdate>
+    <saledate>Sun, 22 Feb 2004 16:48:26 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>Shipping cost is 10 euros to Europe and America, 7 euros to Italy.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Jul 2004 02:54:55 +0000</listdate>
+    <saledate>Tue, 27 Jul 2004 16:15:51 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This is the Avalon Hill version.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Sep 2004 18:55:38 +0000</listdate>
+    <saledate>Sun, 08 May 2005 00:54:49 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>acceptable</condition>
+    <notes>Complete. Box and components are worn and well played. Red horse has been repaired.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Dec 2004 19:25:20 +0000</listdate>
+    <saledate>Tue, 11 Jan 2005 18:29:22 +0000</saledate>
+    <price currency='USD'>14.5</price>
+    <condition>good</condition>
+    <notes>Plastic track and snap in good, working condition.
+Box has tear on one side, otherwise very solid.
+Components all there and in very good shape. The Green _T_E_M_P_T_A_G_amp; White dice are not original (slightly larger than original).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Apr 2005 21:24:45 +0000</listdate>
+    <saledate>Sun, 10 Apr 2005 15:40:42 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Amazing condition (possibly unplayed?). Complete with all pieces. Some shelf wear, no major box damage. Avalon Hill/Sports Illustrated version. 1977
+Detailed description:  Side of box has a small piece of tape that is barely coming off and has slightly lifted the backing.  Rule book has a marking on the first page at the bottom (looks like a piece of tape had been applied and then removed).  Other than that, this thing looks great.  When I opened the board it looked like it had never been opened.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2005 14:56:28 +0000</listdate>
+    <saledate>Sun, 20 Nov 2005 21:53:40 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>acceptable</condition>
+    <notes>Playable, but 1 Horse is missing a leg (but still able to stand). Betting slips are only  a copy. 
+This game will be shipped wrapped in paper only.
+Shipping is 7.80$ within U.S., insurance 1.30$ optional.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Mar 2006 14:30:35 +0000</listdate>
+    <saledate>Wed, 29 Mar 2006 17:24:45 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>good</condition>
+    <notes>Used, but complete and in good condition. Approximately half of the betting slips have been used. Includes Great Thoroughbreds of the Past expansions.
+I generally ship on the Friday or Saturday after receipt of payment. USPS or UPS available.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 May 2007 19:50:10 +0000</listdate>
+    <saledate>Sat, 01 Dec 2007 19:11:26 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>good</condition>
+    <notes>3m. Black horse was broken and repaired.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Aug 2007 00:30:19 +0000</listdate>
+    <saledate>Tue, 04 Sep 2007 01:25:09 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>acceptable</condition>
+    <notes>Game is complete. Some wear and tear. Shipping and handling in US is $10.  Insurance at cost is not mandatory but strongly recommended.  I am not responsible for items damaged in transit.  Pics available on request.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Sep 2007 01:32:24 +0000</listdate>
+    <saledate>Sun, 19 Apr 2009 01:20:03 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>1977 Avalon Hill Bookcase version.  The box shows wear (especially on the corners) although only one corner is torn.  It appears that all the pieces are here (6 horses, 6 “Official Programs” and rules.  There are two dice, though one appears to be non-original.  The prior owner also made up some farm ID cards by copying the pack of the rules, and also created what appears to be an odds board.  For all that work, the game could not have been played much, as nearly all of the betting sheets are present.  In addition, the board appears to be in very good condition and I found no marks on it. I will charge $10 for shipping to the continental U.S., and shipping plus $2 elsewhere.
+Also, to save shipping, check out my other games (here are some of them): 10 Days in Africa, 10 Days in the USA, Anachronism (various sets), Apples to Apples Junior 9+, Apples to Apples Junior!, Apples to Apples Expansion Set #1, Axis _T_E_M_P_T_A_G_amp; Allies Miniatures, Before I Kill You Mr. Bond, Bible Challenge, Bitin’ Off Hedz, Blink, Brain Strain, Brawl, Campaign, Caesar and Cleopatra, Cheers, Circus Maximus (Battleline), Consulting Detective, Deadwood, Desert Victory, Dilbert, Diplomacy (with wooden pieces), Dragon Magazine Games (the Best of), Gold Digger, Hack! (Knights of the Dinner Table), I.Q. Derby, High Ground (new and used), Knights, Leatherneck, Life (in Monstropolis), Longstreet’s Assault, Lord of the Fries, Lord of the Rings – Backgammon Set, Lord of the Rings – The Duel, Mamma Mia!, Manhattan, Mansion Murders, Modern Art, Montgolfiere, My Word!, Name Burst, Phase 10, Pirates (the constructible strategy game), Portable Adventures, Power Lunch, Queen’s Park Affair, Qwitch, Rack-O, Read My Lips (Kid!), Red Empire, Seafarers of Catan, Settlers of Catan Card Game, Skip-Bo, Solarquest, Space Beans, Spy Ring, Stock Market Game (AH – 1970), Strat-O-Matic Pro Football and Pro Basketball, Talk Show, Trailer Park Gods, True Colors, Ultra-Warrior and Zobmondo!!.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Sep 2007 05:50:10 +0000</listdate>
+    <saledate>Sat, 05 Jul 2008 04:36:32 +0000</saledate>
+    <price currency='USD'>12.99</price>
+    <condition>good</condition>
+    <notes>Avalon Hill edition in black box (see pictures).
+Complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Apr 2008 12:13:02 +0000</listdate>
+    <saledate>Wed, 28 May 2008 22:04:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>different cersions available, from the first 3M print to the Klee reprint. Quoted price is for the Klee version</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Jul 2008 19:36:07 +0000</listdate>
+    <saledate>Thu, 11 Jun 2009 21:58:59 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Original 3M edition.
+Shipping charges are my cost only (postage and box). Combined shipping available and I will use flat rate boxes when available. Please let me know if you wish for the shipment to be insured.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Jan 2009 05:14:09 +0000</listdate>
+    <saledate>Sun, 15 Feb 2009 19:53:05 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>verygood</condition>
+    <notes>1966 3M edition.  Outer _T_E_M_P_T_A_G_quot;fold and snap_T_E_M_P_T_A_G_quot; cover has minor shelf wear.  Inner box is in good condition.  Components are in excellent condition.  A few of the programs have very small marks on them.  Most of the money and betting slips have never been used (still attached in a pad).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Feb 2009 02:42:51 +0000</listdate>
+    <saledate>Mon, 27 Apr 2009 03:50:18 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Avalon Hill Bookcase edition. Out of shrink but never played.
+$10 shipping to anywhere in lower 48 states.
+See my other items. Games may be combined to reduce shipping cost. $2 additional shipping charge for each additional item.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 May 2009 03:22:02 +0000</listdate>
+    <saledate>Sun, 25 Oct 2009 21:41:01 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>3M edition with _T_E_M_P_T_A_G_quot;Fold and Button_T_E_M_P_T_A_G_quot; box. Played, complete. The rules have one tiny stain, and the interior box has one split corner. Everything else is in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 May 2009 15:28:28 +0000</listdate>
+    <saledate>Mon, 16 Nov 2009 08:07:57 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Oct 2009 14:14:21 +0000</listdate>
+    <saledate>Sat, 10 Apr 2010 10:52:13 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>All the components of the game are in new condition. Just the box is a little worn. 
+Take a look of the pictures: http://www.flickr.com/photos/kopiki/sets/72157622494001342/</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Oct 2009 14:08:56 +0000</listdate>
+    <saledate>Thu, 08 Oct 2009 04:48:19 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Avalon Hill bookshelf edition.  All components are here and accounted for.  Box and board shows wear but no damage.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Oct 2009 00:54:18 +0000</listdate>
+    <saledate>Mon, 16 Nov 2009 16:13:51 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>good</condition>
+    <notes>Inner box has some tears. Contents are complete and in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Nov 2009 05:48:04 +0000</listdate>
+    <saledate>Sun, 29 Nov 2009 22:31:26 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>good</condition>
+    <notes>Avalon hill edition.
+Box shows some wear. Otherwise very good condition. Guess the game was played just once or twice (if at all).
+Shipping at actual cost dependent on destination, total weight and method of shipment chosen.
+Usually shipping a single (regular sized) board game (surface) costs 13.90€ worldwide and 8.60€ within Europe. Smaller games ship cheaper. Of course multiple games can be combined.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Mar 2010 18:37:27 +0000</listdate>
+    <saledate>Thu, 02 Sep 2010 17:11:35 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>Turf, made by Klee, green box, unpunched _T_E_M_P_T_A_G_amp; unplayed, box has some minor shelf wear
+1198 gramme
+shipping: small package or letter</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Apr 2010 16:01:26 +0000</listdate>
+    <saledate>Sun, 30 May 2010 23:52:29 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>The game is in perfect condition. All components are present and and in perfect condition. Shipping will be actual based on how the buyer wants the game shipped.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 May 2010 00:03:52 +0000</listdate>
+    <saledate>Fri, 14 May 2010 00:59:26 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>good</condition>
+    <notes>Reserved for sigtaulefty.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 May 2010 21:27:14 +0000</listdate>
+    <saledate>Sun, 06 Jun 2010 14:14:56 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Jul 2010 12:57:33 +0000</listdate>
+    <saledate>Wed, 07 Jul 2010 10:43:00 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>acceptable</condition>
+    <notes>Auction item reserved for costguy.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Aug 2010 16:16:57 +0000</listdate>
+    <saledate>Tue, 24 Aug 2010 21:54:48 +0000</saledate>
+    <price currency='USD'>14.99</price>
+    <condition>acceptable</condition>
+    <notes>Box has some wear on corners, but still in very good shape. The problem is that 4 of the 6 horses are missing. In every other way, this game is complete, and all the components are stellar. Since the horses are simply flat, cheap-looking silhouette type pawns, they can easily be replaced by six different colored pawns from some other game. If you have replacement pawns of some type, buying my copy is a no-brainer for the shape it is in.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Sep 2010 05:49:59 +0000</listdate>
+    <saledate>Sun, 23 Jan 2011 15:53:21 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>verygood</condition>
+    <notes>3M long box in GREAT Condition. I_T_E_M_P_T_A_G_#039;d list it _T_E_M_P_T_A_G_quot;Like New,_T_E_M_P_T_A_G_quot; but it_T_E_M_P_T_A_G_#039;s 35 years old and there is some dulling of the colors.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Nov 2010 16:19:04 +0000</listdate>
+    <saledate>Tue, 26 Nov 2013 19:37:50 +0000</saledate>
+    <price currency='EUR'>32</price>
+    <condition>verygood</condition>
+    <notes>Game in very good condition! Only the plastic closure of the board around the box is a little bit broken. The board itself is perfect!
+The box contains next to the original English rules also a (booklet with a) copy of the German rules. 
+Shipping, packing and handling costs:
+to Belgium = 4,50 euro with Kiala / 6,50 euro with BPost
+to Europa + U.S.A. = (nearly) 13,50 euro
+to rest of the world = (nearly) 22,50 euro
+Payment: by PayPal (+ 3,50 euro) but money transfer via IBAN/BIC preferred.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Nov 2010 20:34:46 +0000</listdate>
+    <saledate>Mon, 29 Nov 2010 05:08:13 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>Avalon Hill Sports Illustrated edition. Box has some wear, but components appear unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Jan 2011 17:54:32 +0000</listdate>
+    <saledate>Sun, 27 Feb 2011 22:19:38 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Minimal wear and tear.
+All game materials are present.
+TOTAL WITH SHIPPING $25.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Jan 2011 20:23:45 +0000</listdate>
+    <saledate>Fri, 28 Jan 2011 13:58:13 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>AH bookshelf edition.  Free shipping to US.  I_T_E_M_P_T_A_G_#039;ve got too many games and I need to free up some space!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 May 2011 00:11:16 +0000</listdate>
+    <saledate>Sun, 03 Jun 2012 15:31:56 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>likenew</condition>
+    <notes>The very desirable 1966 3M Long Box version in never been played condition. All the components including the hard to find horses are in mint condition. I_T_E_M_P_T_A_G_#039;ve also included some player aids from BGG. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jun 2011 19:06:33 +0000</listdate>
+    <saledate>Tue, 14 Jun 2011 19:29:07 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>For Craig Salmond only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jul 2011 19:26:12 +0000</listdate>
+    <saledate>Sat, 07 Dec 2013 21:31:49 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Box wear. Horses have been painted and numbered. Contains additional Great Thoroughbreds from the Past race cards.
+Dice missing.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Sep 2011 11:25:42 +0000</listdate>
+    <saledate>Tue, 27 Dec 2011 23:20:36 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Box looks very nice. Otherwise mint/unused.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Dec 2011 02:12:50 +0000</listdate>
+    <saledate>Sat, 23 Jun 2012 21:39:05 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Still sealed in original shrink.  Avalon Hill/SI edition.  Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jan 2012 17:27:06 +0000</listdate>
+    <saledate>Wed, 04 Apr 2012 18:09:05 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Win, Place _T_E_M_P_T_A_G_amp; Show.
+Avalon Hill bookshelf version, 1977.
+Good shape overall.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Apr 2012 17:31:59 +0000</listdate>
+    <saledate>Sun, 03 Jun 2012 15:29:13 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Normal box wear.  Remainder of the game is in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jun 2012 00:40:53 +0000</listdate>
+    <saledate>Fri, 13 Jul 2012 12:16:20 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>3M plastic long box edition. Inside gameboard in excellent condition with no splitting of the plastic or tears. Outside in very good condition with very small splitting on one edge and the snap to hold the game closed is missing.  All horses present and in excellent condition.  I did not count the money but the race cards are all there and in excellent condition.  I will be happy to send photos if asked.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jul 2012 16:31:05 +0000</listdate>
+    <saledate>Fri, 14 Dec 2012 05:01:40 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Box has some shelf wear, but all components are complete. This is for the SI/Avalon Hill version. Estimated shipping will be $12.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jul 2012 19:45:08 +0000</listdate>
+    <saledate>Wed, 05 Sep 2012 17:19:04 +0000</saledate>
+    <price currency='USD'>17.95</price>
+    <condition>verygood</condition>
+    <notes>3M Long Box edition, where the box is wrapped in the plastic board!  Complete, in good condition, and includes printouts for alternate races and corrected Daily Double prices.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Aug 2012 18:13:22 +0000</listdate>
+    <saledate>Thu, 16 Aug 2012 22:51:15 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>good</condition>
+    <notes>FROM ItsTimeToGetRidOfMoreGames AUCTION.
+RESERVED FOR preferfun
+$10 less 10% = 9.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Sep 2012 12:07:21 +0000</listdate>
+    <saledate>Sat, 22 Sep 2012 21:06:13 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>verygood</condition>
+    <notes>komplett - 3M Longbox, boxtext english, rules in english,german,french and italien are incl. (3M Swizzerland)
+innen sehr guter Zustand, Spielgeld leicht bespielt und Aufkleber auf Pferden nicht mehr so dolle, Schachtel sehr gut, Druckknopf intakt
+very good inside, minor wear at the money and wear at the _T_E_M_P_T_A_G_quot;stickers on the horses_T_E_M_P_T_A_G_quot;
+Box very good and (push)Button not damaged
+Gameweight without packing: 1000 gr</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Oct 2012 19:49:08 +0000</listdate>
+    <saledate>Tue, 27 Nov 2012 05:11:07 +0000</saledate>
+    <price currency='USD'>7.5</price>
+    <condition>verygood</condition>
+    <notes>1966 version.
+Have included a white and slightly offwhite die which replaces a white and a green die.
+Inside cardboard box, the top part, has one corner which has split about a half inch.
+Components are in good shape and has many score sheets.  Game has been played, but looks very nice.
+Shipped Priority Mail.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Dec 2012 23:55:04 +0000</listdate>
+    <saledate>Wed, 12 Dec 2012 00:20:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Reserved for pharmakon</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Jan 2013 14:38:05 +0000</listdate>
+    <saledate>Wed, 20 Feb 2013 00:05:42 +0000</saledate>
+    <price currency='USD'>53</price>
+    <condition>likenew</condition>
+    <notes>*****ALL GAMES  NOW INCLUDE FREE SHIPPING****
+This game is part of the series of sports game released by the 3M company during the 1960_T_E_M_P_T_A_G_#039;s and early 70_T_E_M_P_T_A_G_#039;s.  The series includes Football, Baseball, Hockey, Golf, Auto Racing, Horse Racing and Yacht Racing.  To my knowledge they did not produce a Basketball game.  The 3M catalog was later bought out by Avalon Hill.   These games all have the same basic format - a slender box containing the game components with a wrap-around vinyl playing board.  All of the games feature high quality game parts.
+The game parts are in NEAR MINT condition.  The game includes a complete sets of parts.  The horses are free of breaks and other than a bit of wrinkling to a few of the play money bills everything looks brand new.  Overall I would grade the game parts 9 on a 10 scale (see condition guide below).  
+The game box is in EXCELLENT-NEAR MINT condition.  No splits and no writing or stains.  I would grade it 8-9 on a 10 scale (see condition guide below).  The wrap-around vinyl playing board is in EXCELLENT condition.  The snap is still intact.  Just a bit of scuffing to the plastic covering.  I would grade it 8 on a 10 scale (see condition guide below).  </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Mar 2013 19:55:08 +0000</listdate>
+    <saledate>Fri, 28 Jun 2013 04:38:41 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>3M Long Box 1966 edition.  Complete.  Like New to Excellent condition.  All horses are in 100% perfect, unbroken condition and stored in a hard plastic box.  Paper money and cards are still crisp.  Outer box/board and internal box are in Like New condition.  Shows almost no shelf wear.  Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Mar 2013 07:04:50 +0000</listdate>
+    <saledate>Tue, 26 Mar 2013 12:44:53 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Game is complete and components are mostly unused and _T_E_M_P_T_A_G_quot;like new._T_E_M_P_T_A_G_quot; The vinyl playing board/sleeve is very good with no splits, cracks, or puckering. Interior box has minimal wear.
+CoolStuffInc Gift certificate or PayPal payment accepted. Please indicate which will be used.
+Reserved for Bryan Butell</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Apr 2013 10:59:03 +0000</listdate>
+    <saledate>Mon, 26 Aug 2013 14:40:22 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>good</condition>
+    <notes>Game components complete and in very good condition. (I don_T_E_M_P_T_A_G_#039;t think it has been played)
+Box lightly scuffed
+AH edition
+Shipping to UK destination £6.60</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Apr 2013 16:39:38 +0000</listdate>
+    <saledate>Wed, 25 Jun 2014 23:26:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>1977 Avalon Hill edition. This is my original copy I purchased years ago, probably the early _T_E_M_P_T_A_G_#039;80_T_E_M_P_T_A_G_#039;s. Played it once or twice in that time. Excellent condition. Sadly the blue horse broke off the base.
+Buyer pays shipping. I prefer UPS shipping but open to using other carries. GM for more information.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 May 2013 18:16:13 +0000</listdate>
+    <saledate>Sun, 02 Jun 2013 03:06:13 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Avalon Hill SI edition.  Box shows some moderate shelf wear but is solid.  Contents are in great condition and appear to never have been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Jun 2013 13:05:40 +0000</listdate>
+    <saledate>Sat, 28 Sep 2013 13:54:09 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>good</condition>
+    <notes>3m english</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Sep 2013 23:02:34 +0000</listdate>
+    <saledate>Tue, 24 Sep 2013 13:14:31 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Complete, box, game, parts all in great shape
+The offered game is from Mike Bartnikowski’s collection.  He passed in late 2012 and we are liquidating his gigantic (over 1200 pieces) Hoard.  We have a live .xls catalog with most of the pieces, asking price and condition.  To learn more, make a bulk offer, arrange for local pick-up or inquire about other titles contact us at facebook page Bartnikowskis Hoard or email at bartnikowskishoard@gmail.com.  
+Local pick-up in Wyandotte MI, cash, credit cards (3% fee), or paypal accepted upon pickup.  Shipping to be paid by buyer.
+paypal payments accepted at barbarakiss@sbcglobal.net
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Oct 2013 02:25:56 +0000</listdate>
+    <saledate>Mon, 14 Oct 2013 02:30:39 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>This item is reserved for auction winner JamesT (James Torr).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Jan 2014 14:47:11 +0000</listdate>
+    <saledate>Thu, 02 Jan 2014 23:32:44 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jan 2014 03:30:51 +0000</listdate>
+    <saledate>Mon, 13 Jan 2014 14:57:26 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>For Kwill2 Only
+Shipping: $9</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Feb 2014 23:07:41 +0000</listdate>
+    <saledate>Sat, 06 Sep 2014 11:27:35 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>In shrink.  Shrink has small portion torn away.  Photo upon request.
+Win, Place _T_E_M_P_T_A_G_amp; Show
+Nick: 
+AH Sports Illustrated Edition
+Publisher: Avalon Hill
+ 
+Artist: 
+Year: 1977
+Product Code: WP2
+ 
+Size: Avalon Hill Bookcase
+English</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Feb 2014 23:29:43 +0000</listdate>
+    <saledate>Fri, 13 Jun 2014 00:51:44 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Complete 3M edition. 
+The betting slips have all been written on in pencil. They are available in .pdf form here: http://www.boardgamegeek.com/filepage/19551/betting-slips
+Held for Samurai7, please don_T_E_M_P_T_A_G_#039;t order unless that_T_E_M_P_T_A_G_#039;s you!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Oct 2014 23:56:30 +0000</listdate>
+    <saledate>Fri, 03 Oct 2014 01:42:18 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Reserved for JHCallahan
+BGG VFM</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Dec 2014 17:45:40 +0000</listdate>
+    <saledate>Sun, 21 Dec 2014 18:22:00 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/183098/item/3602407#3602407]Item for Geeklist _T_E_M_P_T_A_G_quot;My First  (Very Short) Auction!  In Shrink -- OOP - Good Stuff -- Will Ship for Christmas!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Dec 2014 10:15:19 +0000</listdate>
+    <saledate>Mon, 09 Feb 2015 23:55:07 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>good</condition>
+    <notes>Weight: 1kg</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Mar 2015 06:33:10 +0000</listdate>
+    <saledate>Mon, 06 Apr 2015 13:38:06 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>Auction win for 4x scalper only.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Mar 2015 14:06:17 +0000</listdate>
+    <saledate>Tue, 05 May 2015 15:14:45 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>verygood</condition>
+    <notes>Horses legs are in great shape and are not broken! Condition of game is good/very good.  Small _T_E_M_P_T_A_G_quot;wrinkles_T_E_M_P_T_A_G_quot; on box cover. SEE PHOTOS Slight shelf wear. I don_T_E_M_P_T_A_G_#039;t think the score pad was ever used.
+Shipping: (depending on where you live) will be $12.00 OR LESS. Contact me for exact shipping quote to your zip code. Ships from 08010
+Questions? Send me a Geek Mail! I respond quickly.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Feb 2015 03:36:29 +0000</listdate>
+    <saledate>Wed, 06 May 2015 18:38:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Game is in excellent condition. Very minor wear to the box. Components look great and almost as they were never played with. Game comes from a smoke and pet free home. Buyer to pay shipping from zip code 55387. Free local pick up in the Minneapolis/St. Paul metro area. Feel free to ask questions and I can post pictures upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 May 2015 17:36:38 +0000</listdate>
+    <saledate>Sun, 24 May 2015 15:22:53 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190563/item/3882217#3882217]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee VIII:  Who Cut The Cheese?_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Nov 2014 21:37:37 +0000</listdate>
+    <saledate>Wed, 29 Jul 2015 00:29:20 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>verygood</condition>
+    <notes>***ALL GAMES INCLUDE FREE SHIPPING WITHIN THE USA***
+3M
+WIN PLACE AND SHOW 
+HORSE RACING GAME
+This game is part of the series of sports game released by the 3M company during the 1960_T_E_M_P_T_A_G_#039;s and early 70_T_E_M_P_T_A_G_#039;s.  The series includes Football, Baseball, Hockey, Golf, Auto Racing, Horse Racing and Yacht Racing.  I have heard that they also produced a Basketball game but I have never come across one.  
+These games all have the same basic format - a slender box containing the game components with a wrap-around vinyl playing board.  All of the games in this series feature high quality game parts.   The 3M catalog was later bought out by Avalon Hill who continued to produce most of the games in the standard AH bookshelf format until their demise in the mid 1990_T_E_M_P_T_A_G_#039;s.  
+WIN, PLACE _T_E_M_P_T_A_G_amp;  SHOW series was 1st released by 3M in their standard vinyl covered long box format back in the 60_T_E_M_P_T_A_G_#039;s.  Avalon Hill reissued it a few times over the years.  It remained pretty much unchanged.  It is a very well thought out simulation of horse racing.  There were a number of companies that put out horse racing games that focused on betting.  This game has a betting aspect to it but you also spend your money as an owner trying to build up a great stock of horses.  This makes the game a lot more challenging than your typical horse racing game. 
+The game parts are in NEAR MINT condition.  The game has been verified to be 100% complete with all the parts that were originally included in this edition of the game accounted for.  Overall I would grade the game parts 9 on a 10 scale (see condition guide below).
+The game box is in EXCELLENT-NEAR MINT condition.  Minimal shelf wear.  The snap on the wrap-around track is bent but intact and functional.   I would grade it a 8-9 on a 10 scale (see condition guide below).
+CONDITION GUIDE: 
+MINT (10):  I will only give this grade to brand new, unused items. NEAR MINT (9):  Shows virtually no use.  Seldom if ever played.   Perhaps some very light handling creases to the instructions or other minor flaws with the game parts.  Boxes will have only the slightest hint of shelf wear.   EXCELLENT (7-8): The game has seen some use but it was obviously well taken care of.  Game parts might have some light handling creases or other signs of careful use.  Board might have just a hint of rubbing or dented corners.  Boxes will have light rubbing to the artwork or perhaps some minor dishing.   VERY GOOD (5-6):  The game was not especially well cared for but it still has faired pretty well.  Game parts will show obvious use but nothing will be torn, badly stained or have any serious damage.  Box may have some rubbing, light staining, dishing, 1 or 2 neatly split corners, minor writing and/or a few pieces of tape.  No major structural damage and artwork will still be generally attractive.  GOOD (3-4): Obviously no care was taken with the game but it is still playable as is.  Game parts show considerable use but the game is complete with all parts in usable condition.  Box may have staining, writing, split corners, dishing and/or other structural damage but it will be intact and still usable.   POOR (1-2):  Only suitable to fill a space in your collection.  Game will be missing parts (these will be noted).  Box will have serious damage and may be missing aprons or badly torn.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Sep 2015 17:59:28 +0000</listdate>
+    <saledate>Fri, 02 Oct 2015 14:18:42 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>acceptable</condition>
+    <notes>Reserved for AlwaysRed from my auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Feb 2016 04:31:15 +0000</listdate>
+    <saledate>Thu, 18 Feb 2016 12:07:34 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Please note that this game is reserved for jdscorch from the Con of the North No-Ship Auction and Virtual Flea Market.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Feb 2016 17:11:29 +0000</listdate>
+    <saledate>Sun, 21 Feb 2016 18:36:18 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205160/item/4458065#4458065]Item for Geeklist _T_E_M_P_T_A_G_quot;Something for everyone auction - ends Feb 29, 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 May 2016 03:38:28 +0000</listdate>
+    <saledate>Tue, 24 May 2016 11:38:59 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/207270/item/4626331#4626331]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con Spring 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 May 2016 15:59:19 +0000</listdate>
+    <saledate>Sun, 29 May 2016 01:29:44 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/209017/item/4639779#4639779]Item for Geeklist _T_E_M_P_T_A_G_quot;The Big 3M, AH, and VG Auction - Ends Fri May 27_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 May 2016 21:02:07 +0000</listdate>
+    <saledate>Sun, 29 May 2016 02:07:07 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Shipping is $12.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/208912/item/4633689#4633689]Item for Geeklist _T_E_M_P_T_A_G_quot;Collective Group Games For Sale *BIDDING NOT STARTED*_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Jul 2015 02:18:00 +0000</listdate>
+    <saledate>Mon, 01 Aug 2016 21:32:11 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR MILWAUKEE X AUCTION WINNER: Gamesmeister99 (Chris Drake)
+Thanks for your support of the finest auction in the bggverse,
+Christian V
+diehard4life</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Sep 2016 16:49:52 +0000</listdate>
+    <saledate>Thu, 03 Nov 2016 12:51:19 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Feb 2016 19:44:48 +0000</listdate>
+    <saledate>Tue, 08 Nov 2016 12:19:49 +0000</saledate>
+    <price currency='GBP'>22</price>
+    <condition>good</condition>
+    <notes>Item that weighs 1.4 kg before packaging. Shipping costs means it is expensive to Europe and Worldwide.
+Shipping costs likely to be :   
+UK : £5.50 First Class £2.85 Second class
+Europe : 12.30 GBP
+Worldwide : 18.05 GBP
+I will get quotes if you require them before ordering</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jan 2017 06:13:48 +0000</listdate>
+    <saledate>Sat, 28 Jan 2017 17:30:01 +0000</saledate>
+    <price currency='USD'>3.55</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Mar 2016 13:57:55 +0000</listdate>
+    <saledate>Thu, 02 Feb 2017 19:49:37 +0000</saledate>
+    <price currency='USD'>2.5</price>
+    <condition>acceptable</condition>
+    <notes>weight ~1040gr
+PARTS ONLY. SEE THE MANY PICTURES. TO REDUCE SHIPPING COST WE SHOULD GO UNDER 1000gr.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Apr 2016 20:14:57 +0000</listdate>
+    <saledate>Thu, 09 Feb 2017 14:55:28 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>good</condition>
+    <notes>shipping rates:
+Germany =  5 Euro
+EU = 15 Euro
+all other destinations = EUR 20
+game weight: 1000 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Feb 2017 17:01:59 +0000</listdate>
+    <saledate>Mon, 20 Feb 2017 17:16:44 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>auction item won by you know who, +12.40 shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Mar 2017 00:26:34 +0000</listdate>
+    <saledate>Sun, 02 Apr 2017 16:10:06 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>acceptable</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/181002/item/5292739#5292739]Item for Geeklist _T_E_M_P_T_A_G_quot;Sixty Games for GameStorm _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2015 16:03:16 +0000</listdate>
+    <saledate>Wed, 17 May 2017 00:57:01 +0000</saledate>
+    <price currency='USD'>17.5</price>
+    <condition>good</condition>
+    <notes>Box and contents in excellent condition with the exception that the white horse has a broken and missing base. Thrift store rescue.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 May 2017 16:25:46 +0000</listdate>
+    <saledate>Tue, 13 Jun 2017 04:47:57 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Shipping is additional. Avalon Hill 1977 version</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Jun 2017 20:50:03 +0000</listdate>
+    <saledate>Sat, 08 Jul 2017 17:55:01 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This is a very fun game , one that the whole family will enjoy. My family sure did. . There is  strategy involved when buying horses and again when placing your bets. You don_T_E_M_P_T_A_G_#039;t even have to bet on your own horse! The next step is the race- you maneuver your horse on the track; speeding ahead, trying to win the race (or maybe not-did you bet on him?)  This game is in excellent condition, considering it is 50 years old! The board is nice and big, so loots of people can play.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Nov 2016 17:55:57 +0000</listdate>
+    <saledate>Mon, 11 Sep 2017 12:46:43 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>verygood</condition>
+    <notes>Looks like never played. Box has some wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Nov 2017 13:04:00 +0000</listdate>
+    <saledate>Mon, 04 Dec 2017 13:01:14 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Nov 2017 14:29:31 +0000</listdate>
+    <saledate>Thu, 07 Dec 2017 19:16:56 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Feb 2018 14:04:53 +0000</listdate>
+    <saledate>Mon, 05 Mar 2018 14:08:43 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>SP17/3354
+like new</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Aug 2017 20:31:47 +0000</listdate>
+    <saledate>Wed, 23 May 2018 16:23:22 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This is a great horse racing game: fun and fast moving, easy enough for the whole family, yet full of challenge and just enough chance that no one gets too far ahead. Pick a horse, get ready, line up and they_T_E_M_P_T_A_G_#039;re off! Did you bet on your horse, or did you bet on someone elses_T_E_M_P_T_A_G_#039;? No one knows until the first horse crosses the finish line. This game is in great shape considering its nearly 50 years old!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jun 2018 17:30:20 +0000</listdate>
+    <saledate>Thu, 30 Aug 2018 06:33:29 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Components complete and look unplayed. Some light scuffing to the box. From a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Aug 2018 17:31:23 +0000</listdate>
+    <saledate>Mon, 03 Sep 2018 17:35:53 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Components are in excellent condition. This is from my personal collection and was kept in a cool, dry, smoke-free environment. Add $15.00 shipping via USP Priority Mail 2-Day™.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jun 2018 03:05:04 +0000</listdate>
+    <saledate>Wed, 05 Sep 2018 02:58:20 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Contents complete in excellent condition.  Plastic horses in great shape and well-protected.  Box has light to moderate shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Jun 2018 09:48:14 +0000</listdate>
+    <saledate>Sat, 20 Oct 2018 14:03:30 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Comes with paper copies of the Great Thoroughbreads</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

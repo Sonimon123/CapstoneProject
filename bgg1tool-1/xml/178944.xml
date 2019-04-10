@@ -1,0 +1,868 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="178944">
+   <yearpublished>2015</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>180</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>180</maxplaytime>
+   <age>12</age>
+       <name  sortindex="1">BATTALIA: Die Schöpfung</name>
+       <name  sortindex="1">BATTALIA: Początek</name>
+       <name primary="true" sortindex="1">BATTALIA: The Creation</name>
+       <name  sortindex="1">БАТАЛИЯ: Сътворяване</name>
+         
+   <description>BATTALIA: The Creation is a competitive, fast-paced, strategic deck-builder that combines map construction, hero and area control and unique calendar mechanisms._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;In the base game, all players will buy useful artefacts and hire battle and labor units to support their armies. They will build roads and cities and send their heroes to battle - every opponent will have to find the most powerful mixture of all these assets and apply them at the right moment, so eventually the player could claim to be the rightful ruler of Battalia and win the game. A victory can be obtained through aggressive conquest or a peaceful development of your own city system (if a player is lucky enough and the others let him ... :). Battalia has 2 game end conditions - full conclusion of the game board or first player, who achieves 5 cities of level four, immediately ends the game. The winner is the player with the most victory points at the and of the game and this is not necessary the same person, who made the final cut!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;An immersive game play will provide the opportunity for the players to make key decisions and turn the tides of even the grimmest of outcomes. A player can outmaneuver and BE outmaneuvered by his opponents at any point in the game._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Dynamic atmosphere and intense battles are key factors in the overall experience, however the game strives to stimulate analytic thinking and strategy over rash and impulsive decisions._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;In general this is not a luck based game, because of the core deck building mechanics, but a die is integrated as an optional element and is the ingredient, which spices up the game for all the fortunate fellows! You will find also an element of bluffing, when you fight your battles, so put the poker face on and be ready to outsmart your opponent._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game is defined by the unique combination of mechanics, aesthetic art style, and the presence of large scale 3D Hero figures in four colors, representing the leaders of the players army and their movement on the board._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The calendar mechanics is implemented in the Sun Oracle, shortly called Orac, as it is a key element of the game. The Oracle is almighty ancient monument, eternal apprentice of the nature itself and the hand of the gods among humans and beasts. The Oracle provides advantages to the players (every day a different one) and it could support them, if they catch the lucky moment on a sunny day... It counts the days and guides the leaders through the never-ending competition between the folks that inhabit these lands: The B_T_E_M_P_T_A_G_amp;auml;rfolk, The Emberians, The Islanders and The Cloudborn._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Four factions coexist in the world of Battalia. Most of the cards in the game (units, artefacts and terrain cards) and the 8 figures belong to one of the four factions. A leading concept in the game is that the four factions can freely collaborate with each other, but many units from the same faction, using their own artefacts, are much stronger together. Also, unlike all other games where the players choose their factions, in this game the factions choose the players..._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/wZgy8XNtASpgpvPldYcOaWgQmzE=/fit-in/200x150/pic3751922.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/NAIv_LmnfEnJbKj4jZRGnV9C1to=/0x0/pic3751922.png</image>
+      
+            <boardgameartist objectid="83158">Atanas Lozanski</boardgameartist>
+                      <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+               <boardgameartist objectid="83179">Borislav Barzev</boardgameartist>
+                      <boardgameexpansion objectid="260197">BATTALIA NCBC: Armamentum</boardgameexpansion>
+               <boardgameexpansion objectid="260188">BATTALIA NCBC: Krampling vs Oracle Knight</boardgameexpansion>
+               <boardgameexpansion objectid="260186">BATTALIA NCBC: Mistress of the Mist</boardgameexpansion>
+               <boardgameexpansion objectid="260187">BATTALIA NCBC: Moodies</boardgameexpansion>
+               <boardgameexpansion objectid="260198">BATTALIA NCBC: Rammoth Deleo-Arx</boardgameexpansion>
+               <boardgameexpansion objectid="260185">BATTALIA NCBC: Souleater</boardgameexpansion>
+               <boardgameexpansion objectid="260199">BATTALIA NCBC: Star-Smuggler Morgenstern</boardgameexpansion>
+               <boardgameexpansion objectid="260191">BATTALIA NCBC: The Keeper</boardgameexpansion>
+               <boardgameexpansion objectid="260190">BATTALIA NCBC: The Order of the Half Oracle</boardgameexpansion>
+               <boardgameexpansion objectid="260194">BATTALIA NCBC: The Ruin Guards</boardgameexpansion>
+               <boardgameexpansion objectid="260193">BATTALIA NCBC: Unbound Buff</boardgameexpansion>
+               <boardgameexpansion objectid="260184">BATTALIA NCBC: Velik-an</boardgameexpansion>
+                                    <boardgameexpansion objectid="205651">BATTALIA: The Stormgates</boardgameexpansion>
+               <boardgameversion objectid="295546">Bulgarian edition</boardgameversion>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+               <boardgamecategory objectid="1015">Civilization</boardgamecategory>
+               <boardgamefamily objectid="25158">Components: Miniatures</boardgamefamily>
+               <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+               <boardgamefamily objectid="22135">Crowdfunding: Spieleschmiede</boardgamefamily>
+               <boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+               <boardgameversion objectid="304440">English edition</boardgameversion>
+               <boardgamepublisher objectid="22560">Fantasmagoria</boardgamepublisher>
+               <boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+               <boardgamepublisher objectid="8845">G3</boardgamepublisher>
+                             <boardgameversion objectid="285303">German edition</boardgameversion>
+                      <boardgamedesigner objectid="83159">Alexandar Guerov</boardgamedesigner>
+               <boardgamedesigner objectid="83157">Ledha Guerova</boardgamedesigner>
+                             <boardgameartist objectid="83163">Vasil Hristov</boardgameartist>
+               <boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+               <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+               <boardgameartist objectid="83160">Albena Noveva</boardgameartist>
+                             <boardgameversion objectid="294629">Polish edition</boardgameversion>
+                                    <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgameartist objectid="83168">George Pike Tanev</boardgameartist>
+               <boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="28">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="15" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="8" />
+     <result value="Recommended" numvotes="10" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="21" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="10" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="14">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="13" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="7" />
+     <result value="14" numvotes="2" />
+     <result value="16" numvotes="1" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>702</usersrated>
+     <average>7.56192</average>
+     <bayesaverage>6.03263</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2064" bayesaverage="6.03263" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="943" bayesaverage="6.14665" />
+            
+           </ranks>
+     
+     <stddev>1.72279</stddev>
+     <median>0</median>
+     <owned>1304</owned>
+     <trading>56</trading>
+     <wanting>34</wanting>
+     <wishing>197</wishing>
+     <numcomments>210</numcomments>
+     <numweights>64</numweights>
+     <averageweight>3.4531</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 12 Jan 2016 02:02:41 +0000</listdate>
+    <saledate>Sat, 16 Jan 2016 21:39:02 +0000</saledate>
+    <price currency='USD'>74</price>
+    <condition>new</condition>
+    <notes>Zip code 92618 (Irvine CA)
+KS edition with all stretch goals</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jan 2016 15:59:25 +0000</listdate>
+    <saledate>Sun, 31 Jan 2016 05:11:15 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>KS with stretch goals. Opened, bagged, Not played. 
+US shipping included.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Feb 2016 01:21:33 +0000</listdate>
+    <saledate>Wed, 03 Feb 2016 07:06:00 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>Opened but not played.  Full KS version.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Dec 2015 07:03:36 +0000</listdate>
+    <saledate>Mon, 14 Mar 2016 13:35:00 +0000</saledate>
+    <price currency='EUR'>80</price>
+    <condition>new</condition>
+    <notes>KS edition incl. all goodies / extras:
+8 Additional Unit Cards (The Unbound, 5th universal faction for custom games only)
+9 Volcano Cards (Bonus terrain cards for custom scenarios only)
+5 Extra Great Artefact Cards
+1 Extra Ruins Card (for optional custom games only)
+4 Player Dashboards + 4 Victory points marker cards (1 for each player)
+4 Battle Bonus Cards (mark the bonus strength in battle)
+12 Ring Markers (3 for each player, to use with dashboards or battle bonus cards)
+4 Time Markers (1 for each player)
+1 Almanac (story and art book)
+3 Special Cards - 1 Volcano ruler card, 1 Unbound Buff master card (usable only with the Unbound Buff figure - sold separately) and 1 bonus Ruin Guards artwork card (for alternative scenarios).
+Crowdfunding edition - released in 4 languages EN,BG,DE,PL (status Dec.2015)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Apr 2016 14:58:29 +0000</listdate>
+    <saledate>Mon, 18 Apr 2016 04:05:16 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter edition
+For Brian Knowles ONLY</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Apr 2016 12:00:01 +0000</listdate>
+    <saledate>Mon, 18 Apr 2016 12:01:14 +0000</saledate>
+    <price currency='AUD'>47</price>
+    <condition>new</condition>
+    <notes>this is the link for ID: Rattkin
+Battalia KS content
+Unbound Buff Miniature $20aud
+Special Oracle Dice $15aud
+4 hero sheets + tokens $12aud
+shipping by standard airmail is $28,56,tracking number included</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Dec 2015 12:57:05 +0000</listdate>
+    <saledate>Mon, 18 Apr 2016 12:33:07 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>This is only for the Official 4 Nations Dice Set! NEW €15,00 
+[ImageID=2814195]
+Also  available !:
+Like new, once played in perfect state!:
+BATTALIA: The Creation KICKSTARTER EDITION (English) edition along with all stretch goals.
+- Unbound Miniature - KICKSTARTER PROMO
+- 8 Unbound mercenary cards - KICKSTARTER EXCLUSIVE
+- 6 sided special die - KICKSTARTER EXCLUSIVE
+- 4 hero sheets with variable powers + 24 added tokens - KICKSTARTER EXCLUSIVE
+- 4 HD digital posters
+- 4 added race sheets
+- Almanac
+- 1 Extra Ruins card
+- 9 Horn of Destiny cards - KICKSTARTER PROMO
+- 5 added Artefact cards
+- Add on $15,00 Official 4 Nations Dice Set! NEW
+-------------------
+€109,00 Both Official 4 Nations Dice Set!  _T_E_M_P_T_A_G_amp; BATTALIA: The Creation Ks (English) edition along with all stretch goals</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Apr 2016 15:21:04 +0000</listdate>
+    <saledate>Thu, 28 Apr 2016 15:24:11 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/207270/item/4591136#4591136]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con Spring 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Thanks, see you at the con!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Jun 2016 01:41:20 +0000</listdate>
+    <saledate>Tue, 14 Jun 2016 15:45:56 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/209786/item/4669339#4669339]Item for Geeklist _T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_quot;My daughter wants a dog_T_E_M_P_T_A_G_quot; auction _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Mar 2016 14:15:35 +0000</listdate>
+    <saledate>Thu, 14 Jul 2016 18:32:16 +0000</saledate>
+    <price currency='GBP'>26.95</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Apr 2016 17:32:17 +0000</listdate>
+    <saledate>Thu, 25 Aug 2016 14:43:37 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Game has been opened, punched and organized, but never played. In perfect condition.
+Kickstarter Version 
+Includes Exclusive Unbound Buff Figure
+Buyer will player shipping.
+Please feel free to contact me with any questions!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Jul 2016 12:47:23 +0000</listdate>
+    <saledate>Fri, 09 Sep 2016 23:09:29 +0000</saledate>
+    <price currency='EUR'>39.95</price>
+    <condition>new</condition>
+    <notes>New.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Sep 2016 08:55:45 +0000</listdate>
+    <saledate>Wed, 28 Sep 2016 10:50:56 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Feb 2016 10:08:58 +0000</listdate>
+    <saledate>Mon, 26 Dec 2016 18:19:51 +0000</saledate>
+    <price currency='EUR'>59.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jan 2017 02:58:29 +0000</listdate>
+    <saledate>Thu, 26 Jan 2017 10:18:18 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/219602/item/5117588#5117588]Item for Geeklist _T_E_M_P_T_A_G_quot;New Year, Time for New Games Auction! CONAN KING_T_E_M_P_T_A_G_#039;S, BLUE MOON, KICKSTARTERS plus MORE! Ends January 12th_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Please email me when you are attending Brian_T_E_M_P_T_A_G_#039;s, and do not pay electronically. Cash in person please.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Nov 2016 06:52:44 +0000</listdate>
+    <saledate>Thu, 02 Feb 2017 16:44:59 +0000</saledate>
+    <price currency='EUR'>37</price>
+    <condition>new</condition>
+    <notes>Still in shrink. Paypal +2€ or bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Mar 2017 04:26:32 +0000</listdate>
+    <saledate>Mon, 06 Mar 2017 13:01:59 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/218163/item/5075933#5075933]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction (ends 3/3) -- KS Editions, Promos, Free Bonus Items, and more (Part II)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Jun 2017 06:00:45 +0000</listdate>
+    <saledate>Sat, 17 Jun 2017 11:29:02 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Shipping in Germany is 7 Euros; 17 in the rest of Europe. Switzerland will be more - I´d need to check.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Oct 2017 08:50:23 +0000</listdate>
+    <saledate>Thu, 19 Oct 2017 10:51:26 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>THIS SALE IS MEANT TO BE BOUGHT ONLY BY THE BGG-USER 
+K_Nudde
+This is for the item(s) from this years Essen Spiel 2017 Auction!
+Battalia: Die Schöpfung
+https://boardgamegeek.com/geeklist/item/5572650#item5572650
+Payment: Cash at the fair or via Paypal FRIENDS _T_E_M_P_T_A_G_amp; FAMILY thomas.aniruddha.brahm@gmx.de</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Nov 2017 12:08:16 +0000</listdate>
+    <saledate>Sun, 10 Dec 2017 12:05:27 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Nov 2017 22:59:49 +0000</listdate>
+    <saledate>Tue, 16 Jan 2018 09:05:41 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Box hat normale Gebrauchsspuren 
+Inklusive Kickstarter Goodies Würfel, Unbound Buff Figur</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Feb 2018 18:16:18 +0000</listdate>
+    <saledate>Mon, 12 Mar 2018 07:39:33 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Opened and played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Mar 2018 11:00:09 +0000</listdate>
+    <saledate>Mon, 26 Mar 2018 15:04:00 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239381/item/6046187#6046187]Item for Geeklist _T_E_M_P_T_A_G_quot;Cheap BINS: Keyper, Battalia, New Bedford, Hero Realms Campaign, Space Hulk Death Angel, Pandemic Contagion - Shipping from 23502 - ends 4/1_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jan 2017 20:23:31 +0000</listdate>
+    <saledate>Sun, 08 Apr 2018 16:21:08 +0000</saledate>
+    <price currency='EUR'>20.9</price>
+    <condition>new</condition>
+    <notes>Game: BATTALIA: The Creation - Unbound Buff (Miniature)
+Languages: UK
+Condition: New
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 20,99€[Standard]
+o 500-999g: 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 26,99€[Express], 27,99€[Standard]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 24,99€[Standard]
+o 500-999g: 16,99€[Express], 27,99€[Standard]
+o 1000-1499g: 21,99€[Express], 31,99€[Standard]
+o 1500-2000g: 26,99€[Express], 34,99€[Standard]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard], 23,99€[Express]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Express], 15,99€[Standard]
+o 500-999g: 6,99€[Economy], 13,99€[Express], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express], 20,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express], 22,99€[Standard]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 13,99€[Express], 19,99€[Standard]
+o 500-999g: 8,99€[Economy], 17,99€[Express], 22,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 22,99€[Express], 25,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 27,99€[Express], 28,99€[Standard]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 13,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 17,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 26,99€[Express]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Express], 14,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 15,99€[Standard], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express], 22,99€[Standard]
+o 500-999g: 6,99€[Economy], 20,99€[Express], 25,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 25,99€[Express], 28,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 30,99€[Express], 32,99€[Standard]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 13,99€[Express], 20,99€[Standard]
+o 500-999g: 8,99€[Economy], 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 26,99€[Express], 27,99€[Standard]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 9,99€[Standard], 11,99€[Express]
+o 500-999g: 9,99€[Standard], 11,99€[Express]
+o 1000-1499g: 12,99€[Express], 15,99€[Standard]
+o 1500-2000g: 14,99€[Express], 16,99€[Standard]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 24,99€[Standard]
+o 500-999g: 16,99€[Express], 27,99€[Standard]
+o 1000-1499g: 21,99€[Express], 31,99€[Standard]
+o 1500-2000g: 26,99€[Express], 34,99€[Standard]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard], 23,99€[Express]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 6,99€[Economy]
+o 500-999g: 4,99€[Corriere], 8,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 10,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 11,99€[Express]
+o 1000-1499g: 10,99€[Economy], 12,99€[Express], 15,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 14,99€[Express], 16,99€[Standard]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Express], 14,99€[Standard]
+o 500-999g: 8,99€[Economy], 14,99€[Express], 16,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 18,99€[Express], 19,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 21,99€[Standard], 21,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 20,99€[Standard]
+o 500-999g: 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 26,99€[Express], 27,99€[Standard]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 13,99€[Express], 20,99€[Standard]
+o 500-999g: 8,99€[Economy], 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 26,99€[Express], 27,99€[Standard]
+[#]8y1xW/Efs+x3vNDfWwnivdx2v1K4QKH+2eVLC6+/9iQ=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jan 2017 20:23:47 +0000</listdate>
+    <saledate>Sun, 08 Apr 2018 16:47:30 +0000</saledate>
+    <price currency='EUR'>15.64</price>
+    <condition>new</condition>
+    <notes>Game: BATTALIA: The Creation - Oracle Die
+Languages: UK
+Condition: New
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 20,99€[Standard]
+o 500-999g: 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 26,99€[Express], 27,99€[Standard]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 24,99€[Standard]
+o 500-999g: 16,99€[Express], 27,99€[Standard]
+o 1000-1499g: 21,99€[Express], 31,99€[Standard]
+o 1500-2000g: 26,99€[Express], 34,99€[Standard]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard], 23,99€[Express]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Express], 15,99€[Standard]
+o 500-999g: 6,99€[Economy], 13,99€[Express], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express], 20,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express], 22,99€[Standard]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 13,99€[Express], 19,99€[Standard]
+o 500-999g: 8,99€[Economy], 17,99€[Express], 22,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 22,99€[Express], 25,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 27,99€[Express], 28,99€[Standard]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 13,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 17,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 26,99€[Express]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Express], 14,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 15,99€[Standard], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express], 22,99€[Standard]
+o 500-999g: 6,99€[Economy], 20,99€[Express], 25,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 25,99€[Express], 28,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 30,99€[Express], 32,99€[Standard]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 13,99€[Express], 20,99€[Standard]
+o 500-999g: 8,99€[Economy], 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 26,99€[Express], 27,99€[Standard]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 9,99€[Standard], 11,99€[Express]
+o 500-999g: 9,99€[Standard], 11,99€[Express]
+o 1000-1499g: 12,99€[Express], 15,99€[Standard]
+o 1500-2000g: 14,99€[Express], 16,99€[Standard]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 24,99€[Standard]
+o 500-999g: 16,99€[Express], 27,99€[Standard]
+o 1000-1499g: 21,99€[Express], 31,99€[Standard]
+o 1500-2000g: 26,99€[Express], 34,99€[Standard]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 13,99€[Express]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard], 23,99€[Express]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 6,99€[Economy]
+o 500-999g: 4,99€[Corriere], 8,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 10,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 23,99€[Express]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 11,99€[Express]
+o 1000-1499g: 10,99€[Economy], 12,99€[Express], 15,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 14,99€[Express], 16,99€[Standard]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 13,99€[Express]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Express], 14,99€[Standard]
+o 500-999g: 8,99€[Economy], 14,99€[Express], 16,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 18,99€[Express], 19,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 21,99€[Standard], 21,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 20,99€[Standard]
+o 500-999g: 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 26,99€[Express], 27,99€[Standard]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 13,99€[Express], 20,99€[Standard]
+o 500-999g: 8,99€[Economy], 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 26,99€[Express], 27,99€[Standard]
+[#]2bqvB6PykeNSIbkwFzIjLI71YCxz+ABp+FZyhbVU4fM=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Dec 2015 16:43:37 +0000</listdate>
+    <saledate>Sun, 29 Apr 2018 21:11:32 +0000</saledate>
+    <price currency='AUD'>105</price>
+    <condition>new</condition>
+    <notes>This listing is for a completeKickstarter Pledge set of Battalia: The Creation. Included are some stretch goals and promotional items. (please read carefully below)
+Product is new, sealed, in-hand, and ready to ship
+CONTENTS - Battalia Core Game Box
+KICKSTARTER EXCLUSIVE CONTENTS inside the core box
+    Horn of Destiny (9 Squares)
+    The Unbound 1-2 (8 New Mercenary Cards)
+Please note these are not included
+    The Unbound Buff Miniature
+    Extra Large 22mm Oracle Die
+    Hero Sheets (4 Hero Sheets and 24 Activation Tokens)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Mar 2018 20:17:08 +0000</listdate>
+    <saledate>Sat, 12 May 2018 19:33:32 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a DPD service point near you or € 5,75 per shipment for delivery at your doorstep.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Sep 2018 07:19:08 +0000</listdate>
+    <saledate>Tue, 18 Sep 2018 12:17:55 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Neptunerex</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jul 2018 12:18:08 +0000</listdate>
+    <saledate>Sun, 14 Oct 2018 16:14:00 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>Opened but not played - some components are still shrink wrapped. Beautiful component quality!
+£5 postage within the UK (this is quite a heavy game). Please contact me for overseas postage costs.
+From a smoke-free house.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Oct 2018 15:49:57 +0000</listdate>
+    <saledate>Thu, 20 Dec 2018 11:56:12 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>Kickstarter Version, incl. Stretch-Goals (Player Dashboards, Great Artefact Cards, Hero Sheets, Oracle Die, etc.), played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Aug 2018 20:21:36 +0000</listdate>
+    <saledate>Wed, 09 Jan 2019 17:16:30 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>Perfect conservation.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

@@ -1,0 +1,1559 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="6779">
+   <yearpublished>2003</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>30</playingtime>
+   <minplaytime>30</minplaytime>
+   <maxplaytime>30</maxplaytime>
+   <age>8</age>
+       <name primary="true" sortindex="5">The Ark of the Covenant</name>
+       <name  sortindex="5">Die Baumeister des Königs</name>
+         
+   <description>A game based on Carcassonne, Ark of the Covenant has players vie for control of cities, roads, flocks, and temples by using the tiles to create the dynamic play area and by placing followers on the tiles._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;New features compared to Carcassonne include oases along roads which award 1 additional point to that road for each oasis, a one-time use _T_E_M_P_T_A_G_amp;quot;prophet_T_E_M_P_T_A_G_amp;quot; for each player which doubles the value of a completed city for that player, a simplified field scoring with each sheep in the field adding 2 points and each wolf subtracting 2 points, and a new scoring mechanism for temples. Additionally, players can forgo the placement of a follower on the board to move the Ark around the tiles and award 1 point to the owner of each follower it passes._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Part of the Carcassonne series._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/EP8Zls-xLjll5aatSCBO_9YeGtU=/fit-in/200x150/pic32152.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/Li9xDlWMwbCNrcRHx8dovcpvons=/0x0/pic32152.jpg</image>
+      
+            <boardgamecategory objectid="1050">Ancient</boardgamecategory>
+               <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamepublisher objectid="6784">Bergsala Enigma</boardgamepublisher>
+               <boardgamefamily objectid="21062">Bible Games</boardgamefamily>
+               <boardgamefamily objectid="2">Carcassonne</boardgamefamily>
+               <boardgamecategory objectid="1029">City Building</boardgamecategory>
+               <boardgamepublisher objectid="4883">Diehl Medien</boardgamepublisher>
+                      <boardgameversion objectid="25409">English first edition with cardboard ark</boardgameversion>
+                                    <boardgameversion objectid="225416">English second edition with wooden ark</boardgameversion>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+                      <boardgameversion objectid="31364">German edition</boardgameversion>
+                             <boardgamepublisher objectid="1571">Inspiration Games</boardgamepublisher>
+               <boardgamepublisher objectid="3218">Lautapelit.fi</boardgamepublisher>
+               <boardgameartist objectid="11478">Alvin Madden</boardgameartist>
+               <boardgamecategory objectid="1115">Religious</boardgamecategory>
+                             <boardgameversion objectid="69402">Scandinavian/Finnish first edition</boardgameversion>
+               <boardgamedesigner objectid="10867">Ursula Stephan</boardgamedesigner>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+               <boardgamepublisher objectid="1901">Überplay</boardgamepublisher>
+               <boardgameartist objectid="28164">Imelda Vohwinkel</boardgameartist>
+               <boardgamedesigner objectid="398">Klaus-Jürgen Wrede</boardgamedesigner>
+               <boardgameimplementation objectid="822" inbound="true">Carcassonne</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="29">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="20" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="14" />
+     <result value="Recommended" numvotes="12" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="15" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="14" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="13" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="17" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="11">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="11" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="1" />
+     <result value="6" numvotes="1" />
+     <result value="8" numvotes="5" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1456</usersrated>
+     <average>6.99053</average>
+     <bayesaverage>6.30492</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1299" bayesaverage="6.30492" />
+            
+       
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="308" bayesaverage="6.44924" />
+            
+           </ranks>
+     
+     <stddev>1.20088</stddev>
+     <median>0</median>
+     <owned>1949</owned>
+     <trading>98</trading>
+     <wanting>96</wanting>
+     <wishing>328</wishing>
+     <numcomments>654</numcomments>
+     <numweights>197</numweights>
+     <averageweight>1.9239</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sat, 27 Dec 2003 21:34:54 +0000</listdate>
+    <saledate>Thu, 08 Jan 2004 21:36:34 +0000</saledate>
+    <price currency='USD'>17.5</price>
+    <condition>new</condition>
+    <notes>Brand new _T_E_M_P_T_A_G_amp; Factory Sealed, Box _T_E_M_P_T_A_G_amp; Game Components are in Excellent Condition, English Edition. I package games with care. I will be happy to combine shipping as long as all items will fit in one box. Shipping withing the U.S. is $8.00 Priority mail shipping. Shipping to Canada is $16.00 USPS Air mail shipping and Shipping to other Countries is $24.00 USPS Air Mail Shipping. Games will Ship within Two weeks of order date. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jan 2004 03:12:32 +0000</listdate>
+    <saledate>Tue, 09 Mar 2004 16:14:22 +0000</saledate>
+    <price currency='USD'>17.5</price>
+    <condition>new</condition>
+    <notes>Brand new _T_E_M_P_T_A_G_amp; Factory Sealed, Box _T_E_M_P_T_A_G_amp; Game Components are in Excellent Condition, English Edition. I package games with care. I will be happy to combine shipping as long as all items will fit in one box. Shipping withing the U.S. is $8.00 Priority mail shipping. Shipping to Canada is $16.00 USPS Air mail shipping and Shipping to other Countries is $24.00 USPS Air Mail Shipping. Games will Ship within Two weeks of order date. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Jan 2005 20:37:52 +0000</listdate>
+    <saledate>Tue, 18 Jan 2005 02:36:08 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Played, but in very good condition
+Through January 31, 2005 proceeds of the sale of this game will be donated to the recovery from the Southeast Asia disaster.
+US - c/mo/paypal
+International - paypal
+Shipping extra</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Mar 2005 06:06:14 +0000</listdate>
+    <saledate>Sun, 24 Jul 2005 06:46:44 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>new</condition>
+    <notes>Game is brand new in shrink wrap.  Item shipped USPS within 3 days of receiving payment.  If you have any questions, please email.  For more info/items, visit www.covenantgames.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jul 2005 13:47:14 +0000</listdate>
+    <saledate>Fri, 09 Sep 2005 18:29:23 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>Gently played. Complete</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Aug 2005 18:02:12 +0000</listdate>
+    <saledate>Sat, 31 Dec 2005 20:05:03 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Uberplay:Inspiration Games (UBR 104)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Sep 2005 23:49:28 +0000</listdate>
+    <saledate>Fri, 12 Dec 2008 03:57:53 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>This game is brand new and manufacturer sealed. Combined shipping may be available on multiple purchases. Other shipping arrangements are available upon request but may vary in cost. Pennsylvania shipping addresses should include 6% sales tax.
+**VERY FAST SHIPPING - 2-4 business days once payment received**</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Sep 2005 15:09:54 +0000</listdate>
+    <saledate>Wed, 12 Oct 2005 20:22:17 +0000</saledate>
+    <price currency='USD'>10.99</price>
+    <condition>verygood</condition>
+    <notes>Played twice. Shipping is 7.50$ within U.S., insurance 1.30$ optional.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2006 15:18:04 +0000</listdate>
+    <saledate>Wed, 28 Mar 2007 16:59:15 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Uberplay:Inspiration Games (UBR 104)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Mar 2006 17:13:20 +0000</listdate>
+    <saledate>Fri, 03 Nov 2006 01:43:05 +0000</saledate>
+    <price currency='USD'>14.99</price>
+    <condition>new</condition>
+    <notes>New/Sealed Ark of the Covenant, The Boardgame! We will ship only w/in the 48 US states via UPS Ground for $8.50 or Priority Mail for $11.50. Totally new and sealed and unopened!
+Fast Shipping with full insurance and tracking # emailed back to you w/in 2 business days! We take Paypal to creditcards@sphiatt.com (include the title of the game you are ordering in the payment box)), or money orders. 
+We have 35,000+ Feedback on ebay and over 10,000 transactions with paypal so buy with confidence!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 May 2006 00:31:33 +0000</listdate>
+    <saledate>Thu, 29 Jun 2006 01:49:51 +0000</saledate>
+    <price currency='USD'>15.99</price>
+    <condition>new</condition>
+    <notes>New and factory fresh!
+We are a small, family owned game shoppe.  Like you, we simply love board games.
+We_T_E_M_P_T_A_G_#039;ll have your Ark of the Covenant game shipped via USPS for a cost of only $6.99 to you!
+International orders, please inquire with us about shipping costs.
+Thank you, 
+J and J Board Games</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Jun 2006 02:04:16 +0000</listdate>
+    <saledate>Tue, 07 Nov 2006 17:02:48 +0000</saledate>
+    <price currency='USD'>15.79</price>
+    <condition>new</condition>
+    <notes>NEW AND FACTORY FRESH
+We are a small, family owned and operated game shoppe. Like you, we simply love board games!
+You_T_E_M_P_T_A_G_#039;ll only pay $7.99 to have your Ark of the Covenant board game shipped via USPS PRIORITY 2-3 DAY MAIL. Of course, you can always add USPS shipping insurance for $1.35. 
+Please have a look at our other listings on BoardGameGeek. We now have over 250, and we_T_E_M_P_T_A_G_#039;re still growing!
+SAVE MONEY: We_T_E_M_P_T_A_G_#039;ll discount your shipping costs if you_T_E_M_P_T_A_G_#039;d like to order more than one item.
+International orders, please inquire about shipping costs through email before ordering.
+North Dakota residents are responsible for 6% sales tax.
+Thank you, 
+Jeremy, Jennifer, and Family
+J and J Board Games
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Oct 2006 16:06:38 +0000</listdate>
+    <saledate>Mon, 06 Nov 2006 01:15:42 +0000</saledate>
+    <price currency='USD'>12.5</price>
+    <condition>likenew</condition>
+    <notes>The game is in perfect condition. It has only been played once. Flat shipping rate -  $7.50</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Nov 2006 05:23:57 +0000</listdate>
+    <saledate>Mon, 08 Dec 2008 16:57:03 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>new</condition>
+    <notes>New/Sealed Ark of the Covenant, The Boardgame! We will ship only w/in the 48 US states via UPS Ground for $8.50 or Priority Mail for $11.50. Totally new and sealed and unopened!
+Fast Shipping with full insurance and tracking # emailed back to you w/in 2 business days! We take Paypal to creditcards@sphiatt.com (include the title of the game you are ordering in the payment box)), or money orders.
+We have 35,000+ Feedback on ebay and over 10,000 transactions with paypal so buy with confidence!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Jun 2007 06:10:04 +0000</listdate>
+    <saledate>Mon, 11 Aug 2008 17:48:22 +0000</saledate>
+    <price currency='USD'>13.95</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+ARK OF THE COVENANT: 13.95
+UberPlay [UBR 104]
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jul 2007 19:29:34 +0000</listdate>
+    <saledate>Thu, 02 Aug 2007 18:07:37 +0000</saledate>
+    <price currency='USD'>11.5</price>
+    <condition>new</condition>
+    <notes>Brand new, shrink wrapped, from a smoke-free environment</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Aug 2007 21:25:57 +0000</listdate>
+    <saledate>Fri, 12 Oct 2007 17:11:53 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>Brand new, shrink wrapped, from a smoke-free environment</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Aug 2007 22:35:15 +0000</listdate>
+    <saledate>Sat, 01 Sep 2007 08:29:49 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>New in shrink! Shipping should be in the $6 range!
+Shipping info:
+Will ship after paid in full, checks and MOs accepted, but paypal preferred. Shipping and handling is covered by buyer, I_T_E_M_P_T_A_G_#039;ll send you quotes and you can pick what kind of shipping you want. Insurance is $1.35 and optional, but reccomended as I_T_E_M_P_T_A_G_#039;m not responsible for anything once I mail the game. So just get it :)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Sep 2007 03:57:28 +0000</listdate>
+    <saledate>Mon, 26 Nov 2007 11:07:29 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>New, in shrink.
+Shipping is $10.00 via Priority Mail with Delivery Confirmation in the U.S.
+$18.00 via airmail to world-wide locations.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Oct 2007 00:13:00 +0000</listdate>
+    <saledate>Sun, 16 Dec 2007 21:00:01 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Jan 2008 12:54:26 +0000</listdate>
+    <saledate>Tue, 01 Apr 2008 01:24:21 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>likenew</condition>
+    <notes>Played once, in excellent condition. Wooden Ark edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Feb 2008 22:10:57 +0000</listdate>
+    <saledate>Sat, 03 May 2008 00:52:35 +0000</saledate>
+    <price currency='USD'>13.95</price>
+    <condition>new</condition>
+    <notes>New. In Shrink Wrap.
+Buyer to identify shipping method and pay actual shipping cost.  Shipping is from 49316.
+I welcome international sales.
+I accept paypal payments and well concealed cash. Any paypal fees resulting by paying with a Credit Card will be passed to the purchaser.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Apr 2008 03:14:21 +0000</listdate>
+    <saledate>Thu, 17 Apr 2008 13:49:47 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This item is reserved for thebrainy.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Aug 2008 04:58:02 +0000</listdate>
+    <saledate>Thu, 02 Oct 2008 04:01:18 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played a few times and in excellent condition. Shipping will be actual postage cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Oct 2008 17:47:37 +0000</listdate>
+    <saledate>Fri, 02 Jan 2009 00:26:47 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Nov 2008 20:39:52 +0000</listdate>
+    <saledate>Thu, 06 Nov 2008 14:30:09 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Nov 2008 20:49:47 +0000</listdate>
+    <saledate>Fri, 28 Nov 2008 05:49:42 +0000</saledate>
+    <price currency='USD'>14.5</price>
+    <condition>new</condition>
+    <notes>Out of the shrink, but pristine and unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Nov 2008 23:51:56 +0000</listdate>
+    <saledate>Tue, 02 Dec 2008 17:43:18 +0000</saledate>
+    <price currency='USD'>14.5</price>
+    <condition>new</condition>
+    <notes>Mint in the shrink!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Mar 2009 11:28:41 +0000</listdate>
+    <saledate>Mon, 02 Mar 2009 10:38:36 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Apr 2009 17:32:41 +0000</listdate>
+    <saledate>Mon, 27 Apr 2009 01:25:47 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Opened and punched but never played. All components in perfect condition. 
+Paypal _T_E_M_P_T_A_G_amp; Direct Deposit.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Apr 2009 02:21:26 +0000</listdate>
+    <saledate>Sat, 25 Apr 2009 04:40:13 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+Shipping to WI is $9
+Ask for quote for other locations.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jun 2009 07:41:00 +0000</listdate>
+    <saledate>Fri, 03 Jul 2009 15:06:44 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Perfect unplayed condition
+UK Postage £3.50</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jun 2009 15:11:39 +0000</listdate>
+    <saledate>Thu, 23 Jul 2009 19:27:39 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>Played a couple of times. Box slightly warped due to storage. All pieces present, correct and in excellent condition
+Shipping UK £4.00 / Europe £8.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Aug 2009 16:12:05 +0000</listdate>
+    <saledate>Mon, 14 Sep 2009 21:29:13 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>The box has minimal corner wear.  The pieces are in great condition.  I’ll charge $12 for shipping within the continental U.S., and shipping cost plus $2 outside the U.S..  I actually have two copies.  If someone wants them both, I’ll sell the pair for $28 for whatever it costs for shipping plus $2.
+I’m selling off most of my games.  If you want a list of all I have for sale, just click on my name (Seller: Too Many Games).
+If you want to buy more than one item, I’ll charge the actual shipping cost plus $2 (to cover costs of the packaging etc.).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Oct 2009 18:16:25 +0000</listdate>
+    <saledate>Sat, 03 Oct 2009 20:17:57 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>Reserved for hatemachine from The Bills Keep Coming Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Nov 2009 18:09:20 +0000</listdate>
+    <saledate>Tue, 22 Dec 2009 03:57:48 +0000</saledate>
+    <price currency='CAD'>10</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jan 2010 12:03:00 +0000</listdate>
+    <saledate>Sun, 10 Jan 2010 14:23:15 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Opened but unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jan 2010 01:50:43 +0000</listdate>
+    <saledate>Wed, 31 Mar 2010 23:59:53 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>The box has minimal corner wear.  The pieces are in great condition.  I’ll charge $15 for shipping within the continental U.S., and shipping cost plus $2 outside the U.S..
+I’m selling off most of my games.  If you want a list of all I have for sale, just click on my name (Seller: Too Many Games).
+If you want to buy more than one item, I’ll charge the actual shipping cost plus $2 (to cover costs of the packaging etc.).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Feb 2010 00:16:20 +0000</listdate>
+    <saledate>Wed, 03 Feb 2010 16:28:33 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Only played a few times. It_T_E_M_P_T_A_G_#039;s in great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Feb 2010 19:28:33 +0000</listdate>
+    <saledate>Wed, 31 Mar 2010 18:53:23 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>Opened, punched, played once, carefully.  Out of print, somewhat difficult to find.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Feb 2010 23:52:31 +0000</listdate>
+    <saledate>Sun, 14 Feb 2010 03:14:06 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>This is a geeklist auction buy it now for LokaiNY. Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Feb 2010 20:05:32 +0000</listdate>
+    <saledate>Sun, 14 Feb 2010 20:20:25 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>This is reserved for Sam Watson.  Items include Ark, Shazamm, Stonehenge _T_E_M_P_T_A_G_amp; expansion, and Tilez.  </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Feb 2010 02:04:58 +0000</listdate>
+    <saledate>Sun, 21 Feb 2010 07:25:41 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>This listing is the result of a GeekList Auction.  Please do not purchase unless you are user unfathomable</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Mar 2010 03:36:59 +0000</listdate>
+    <saledate>Tue, 30 Mar 2010 02:43:06 +0000</saledate>
+    <price currency='CAD'>13</price>
+    <condition>acceptable</condition>
+    <notes>Inspirational Games English edition.
+Outer box shows wear _T_E_M_P_T_A_G_amp; I am missing the small plastic stand for the ark tile, but otherwise complete _T_E_M_P_T_A_G_amp; in very good condition.
+Shipping is available worldwide _T_E_M_P_T_A_G_amp; I am happy to combine shipping for multiple games (please contact me for a shipping estimate to your location).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Apr 2010 02:59:38 +0000</listdate>
+    <saledate>Sat, 12 Jun 2010 03:09:53 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 May 2010 14:56:02 +0000</listdate>
+    <saledate>Thu, 20 May 2010 16:36:08 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>For Michael Hovan (mlhovan) only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 May 2010 03:15:53 +0000</listdate>
+    <saledate>Sun, 30 May 2010 19:04:31 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This is reserved for netizen</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Aug 2010 02:09:11 +0000</listdate>
+    <saledate>Mon, 23 Aug 2010 19:59:36 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>good</condition>
+    <notes>Cardboard ark. English edition. In very good shape. Like new. Complete.
+Will take personal check, although delays will occur as the check must clear. Postal Money Order is best (I_T_E_M_P_T_A_G_#039;ll even pay for it). Shipped by USPS unless other arrangements made.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Aug 2010 14:42:35 +0000</listdate>
+    <saledate>Sat, 21 Aug 2010 18:55:39 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>new</condition>
+    <notes>This item was won at auction, if you didn_T_E_M_P_T_A_G_#039;t win it then don_T_E_M_P_T_A_G_#039;t buy it please.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Aug 2010 00:37:51 +0000</listdate>
+    <saledate>Tue, 24 Aug 2010 03:10:39 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>Geeklist auction winner - squash</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Sep 2010 13:04:41 +0000</listdate>
+    <saledate>Wed, 29 Sep 2010 22:37:28 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>unpunched / unplayed
+US buyer agrees to pay for Priority Mail shipping with delivery confirmation.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Sep 2010 09:35:14 +0000</listdate>
+    <saledate>Thu, 30 Sep 2010 17:16:17 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes> Reserved for ryanst85</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Nov 2010 06:20:17 +0000</listdate>
+    <saledate>Tue, 14 Dec 2010 05:46:47 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Premium edition w/ wooden ark.  Game is out of stock, so you can_T_E_M_P_T_A_G_#039;t get it anywhere else.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Dec 2010 20:58:41 +0000</listdate>
+    <saledate>Sun, 05 Dec 2010 21:05:57 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>only for BIN BGG for mcgartlin auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Dec 2010 20:13:10 +0000</listdate>
+    <saledate>Wed, 29 Dec 2010 21:19:27 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>unpunched / unplayed
+this is the rarer version with the wooden ark
+US buyer agrees to pay for priority mail shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Dec 2010 16:43:02 +0000</listdate>
+    <saledate>Tue, 28 Dec 2010 18:54:47 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Like new condition.  The box shows very minimal wear.  The only default I can notice on cursory inspection is that the rules look a little scrunched.  
+Buyer pays actual shipping for shipping method of your choice (USPS or Fedex are preferred since they have an office at my work, but I can swing by UPS too).  Delivery Confirmation is required.  Insurance is optional.
+I will ship worldwide, but you ship at your own risk, as delivery confirmation only works really until it leaves the States.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Dec 2010 15:29:19 +0000</listdate>
+    <saledate>Tue, 28 Dec 2010 16:27:54 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>acceptable</condition>
+    <notes>For auction sale to Ken Dodge.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Dec 2010 23:58:55 +0000</listdate>
+    <saledate>Tue, 18 Jan 2011 11:03:19 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>The Ark of the Covenant
+Some box damage along the top box lid, otherwise in excellent shape.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Jan 2011 21:02:05 +0000</listdate>
+    <saledate>Sat, 29 Jan 2011 05:46:15 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale is reserved for BGG User house14</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Feb 2011 02:34:12 +0000</listdate>
+    <saledate>Mon, 28 Feb 2011 04:12:42 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>For BGG User randywarner from Geeklist auction
+Includes Ark of the Covenant for $19 with $8 shipping and Cloud 9 for for $7 with shipping reduced to $3</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Mar 2011 00:42:37 +0000</listdate>
+    <saledate>Fri, 11 Mar 2011 17:26:48 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Complete English wooden ark edition. The box printing is slightly worn, but otherwise in great condition. Ships in a USPS flat rate box for USA buyers. Alternate shipping requests, including international, will be accepted with adjustments to S_T_E_M_P_T_A_G_amp;H.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Apr 2011 19:03:07 +0000</listdate>
+    <saledate>Sat, 04 Jun 2011 04:23:21 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>likenew</condition>
+    <notes>The Ark of the Covenant (2003) by Inspiration Games
+Box:  Minimal shelfwear with a few minor dings, dents, and creases.  Overall the box is in excellent condition!  
+Components:  Complete and in like new condition!  Pieces have been sorted and stored in plastic bags for convenience and protection - you will be very pleased with how the game has been packaged.   
+SHIPPING:
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 3 lbs. from zip code 85208.  International buyers are very welcome, but please contact me before buying for a shipping price quote to avoid any surprises or misunderstandings.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Apr 2011 19:04:40 +0000</listdate>
+    <saledate>Fri, 27 May 2011 17:53:48 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Reserved for MrScottx.  Sold in a Geeklist auction on 5/17.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 May 2011 16:28:17 +0000</listdate>
+    <saledate>Sat, 28 May 2011 21:17:53 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>likenew</condition>
+    <notes>for radulla - spring cleaning auction
+includes:
+nautilus</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Jun 2011 05:47:48 +0000</listdate>
+    <saledate>Fri, 17 Jun 2011 07:36:30 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>For Mike Sluss only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Aug 2011 04:47:45 +0000</listdate>
+    <saledate>Tue, 13 Dec 2011 08:19:32 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>Brand New, Sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Aug 2011 10:52:32 +0000</listdate>
+    <saledate>Wed, 21 Sep 2011 19:01:34 +0000</saledate>
+    <price currency='USD'>46.5</price>
+    <condition>new</condition>
+    <notes>Game is new, in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Aug 2011 16:42:34 +0000</listdate>
+    <saledate>Tue, 30 Aug 2011 20:05:18 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>This item is reserved for Wizardswharf.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Oct 2011 23:40:38 +0000</listdate>
+    <saledate>Thu, 13 Oct 2011 03:01:52 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>good</condition>
+    <notes>Reserved for herendil66.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Dec 2011 21:41:28 +0000</listdate>
+    <saledate>Tue, 20 Dec 2011 02:07:12 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Reserved for ryanst85</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Dec 2011 23:38:26 +0000</listdate>
+    <saledate>Sun, 01 Jan 2012 20:11:45 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Game has been played about 10 times. Box and tiles are in good condition. Buyer to pay shipping of $8.00.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Dec 2011 18:17:41 +0000</listdate>
+    <saledate>Mon, 26 Dec 2011 01:30:50 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Payment via PayPal to lucia-lance@att.net</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jan 2012 17:19:46 +0000</listdate>
+    <saledate>Thu, 19 Jan 2012 13:42:54 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>verygood</condition>
+    <notes>This is the more desirable edition with the wooden ark rather than the plastic standee.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2012 22:47:55 +0000</listdate>
+    <saledate>Wed, 07 Mar 2012 12:03:23 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>All game materials are present and in very good to like new condition.  This is the edition with the wooden ark.
+The box color is nice, but there is quite a bit of edgewear in a number of spots and a pencil eraser size scuff of the box art at one corner of the box on the lower portion of the box lid (so when you look at the game straight one you don_T_E_M_P_T_A_G_#039;t see this scuffing).  If you store the game bookcase style, the shelf wear on one side of the box lid is barely noticable while the otherside it is modest.
+Shipping will be $6 to Eastern and Central US and $8 to Mountain and Pacific.  Other locations please inquire.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Feb 2012 06:51:06 +0000</listdate>
+    <saledate>Tue, 06 Mar 2012 00:17:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This game has been played twice and is in excellent shape.  Some minor shelf wear on the bottom spine from sitting on the shelf.
+I will ship this via USPS in a flat rate box so shipping is $11.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Feb 2012 16:50:23 +0000</listdate>
+    <saledate>Tue, 28 Feb 2012 17:57:22 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>For user rtpmark only please - from AUCTION</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Apr 2012 19:25:22 +0000</listdate>
+    <saledate>Sat, 05 May 2012 14:48:34 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Only played twice.
+Components in baggies.
+Free shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 May 2012 03:09:10 +0000</listdate>
+    <saledate>Wed, 09 May 2012 15:16:05 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Sold to zenmazster in my auction</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 May 2012 14:10:44 +0000</listdate>
+    <saledate>Mon, 16 Dec 2013 15:18:39 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Shipped priority mail.  Shipping weight approximately 2 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jun 2012 03:52:56 +0000</listdate>
+    <saledate>Tue, 05 Jun 2012 05:57:15 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>Purchase reserved for Brian Knowles.
+Used played 3 times. copyright 2005. Out of print.
+Box has minimal shelf wear. Soft yellow highlighting in the rule book. My name on a printed label inside the box top. Complete, clean, orig insert. Very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jun 2012 03:30:01 +0000</listdate>
+    <saledate>Mon, 18 Jun 2012 03:53:02 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Auction win for Laladien only!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jun 2012 05:32:13 +0000</listdate>
+    <saledate>Sat, 23 Jun 2012 05:49:34 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner Sam Lumas (sambomb12)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jun 2012 20:59:55 +0000</listdate>
+    <saledate>Sun, 20 Jan 2013 23:35:40 +0000</saledate>
+    <price currency='USD'>42.99</price>
+    <condition>new</condition>
+    <notes>Brand New, Shrink (OOP)
+Ships via usps priority mail for 9.99 when payment is received via paypal.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Jul 2012 06:05:54 +0000</listdate>
+    <saledate>Thu, 25 Oct 2012 02:43:46 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>English edition with the wooden Ark.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jul 2012 14:30:16 +0000</listdate>
+    <saledate>Tue, 31 Jul 2012 21:59:50 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Reserved for user Togra, who won it in an auction</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Aug 2012 19:04:43 +0000</listdate>
+    <saledate>Fri, 16 Nov 2012 02:59:04 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Played once or twice.  This game is in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Aug 2012 16:19:22 +0000</listdate>
+    <saledate>Wed, 15 Aug 2012 01:58:29 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Auction Win for Dniel</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Sep 2012 03:08:08 +0000</listdate>
+    <saledate>Sat, 15 Sep 2012 16:03:14 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>reserved for HOLY CRAP #6</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Sep 2012 02:28:32 +0000</listdate>
+    <saledate>Fri, 16 Nov 2012 02:59:04 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Inspiration Games version, cardboard Ark. Slight box wear, on corner repaired.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Dec 2012 17:16:08 +0000</listdate>
+    <saledate>Sat, 08 Dec 2012 06:10:09 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>English First Edition.  Brand new still in shrink.
+Shipping will be an additional $10 for USPS Priority.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2012 02:37:21 +0000</listdate>
+    <saledate>Fri, 07 Dec 2012 17:25:10 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>brand new in shrink.
+i accept payment via paypal only.
+shipping costs are added after purchase.
+feel free to message for a shipping estimate.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Jan 2013 17:10:45 +0000</listdate>
+    <saledate>Sat, 05 Jan 2013 17:24:38 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Out of shrink. The ark replaced with a 3D piece from the Indiana Jones DVD Adventure Game.
+FOR USER (PATGAGNON) ONLY. Thank you.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Jan 2013 02:25:29 +0000</listdate>
+    <saledate>Mon, 07 Jan 2013 18:33:07 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Reserved for auction winner Killing Joke</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Jan 2013 02:48:29 +0000</listdate>
+    <saledate>Wed, 06 Feb 2013 22:20:29 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Mar 2013 10:10:32 +0000</listdate>
+    <saledate>Fri, 08 Mar 2013 13:34:54 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>Great condition
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Mar 2013 06:13:53 +0000</listdate>
+    <saledate>Sun, 03 Mar 2013 16:56:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>sold to travvller in auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Mar 2013 14:03:37 +0000</listdate>
+    <saledate>Sun, 07 Apr 2013 22:50:51 +0000</saledate>
+    <price currency='USD'>38.99</price>
+    <condition>new</condition>
+    <notes>Box is opened, but unplayed. Unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Aug 2013 23:16:44 +0000</listdate>
+    <saledate>Thu, 17 Apr 2014 02:06:24 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>likenew</condition>
+    <notes>Shrinkwrap removed only. Unpunched and unplayed. Includes the more desirable wooden ark. English first edition. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. I have many hundreds of games for sale and would be happy to combine shipping charges for multiple games to save you money. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Aug 2013 18:01:44 +0000</listdate>
+    <saledate>Tue, 01 Oct 2013 23:32:05 +0000</saledate>
+    <price currency='USD'>33.99</price>
+    <condition>verygood</condition>
+    <notes>Wooden (not cardboard) ark! Opened but unplayed. Box has some minor shelfwear on the corners and some dishing on the bottom (came that way).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Dec 2013 00:07:15 +0000</listdate>
+    <saledate>Wed, 04 Dec 2013 06:41:57 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap. This is the edition with the wooden Ark (NOT Cardboard stand-up).
+Buyers pay actual shipping (I usually round up to the next dollar to compensate for fuel/Time used/Paypal fees etc).
+Please let me know if you have any questions.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Dec 2013 01:20:50 +0000</listdate>
+    <saledate>Mon, 16 Dec 2013 01:56:55 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>RESERVED FOR
+(DearVienna)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Dec 2013 19:29:10 +0000</listdate>
+    <saledate>Thu, 20 Mar 2014 02:09:49 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>verygood</condition>
+    <notes>In very good condition.  Pickup available if in the Greater Toronto Area.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Jan 2014 01:17:06 +0000</listdate>
+    <saledate>Sat, 11 Jan 2014 04:39:12 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>new</condition>
+    <notes>For Auction Winner Benjamine Allen(poke450)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Jan 2014 23:06:21 +0000</listdate>
+    <saledate>Wed, 29 Jan 2014 09:37:35 +0000</saledate>
+    <price currency='CAD'>25</price>
+    <condition>verygood</condition>
+    <notes>Sold via GeekList auction to BGGer kimseah.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Mar 2014 13:47:52 +0000</listdate>
+    <saledate>Mon, 31 Mar 2014 13:55:11 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR AUCTION WINNER: Melissa the Gnome (Indy418)
+Local pickup means no shipping cost...
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Jul 2014 13:36:02 +0000</listdate>
+    <saledate>Sun, 13 Jul 2014 12:04:28 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Only played maybe twice.  Everything in fantastic shape.  Selling off some of my collection to make space for new games.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jan 2012 01:08:33 +0000</listdate>
+    <saledate>Thu, 30 Oct 2014 12:35:50 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>new</condition>
+    <notes>2005 edition with wooden ark (as opposed to the earlier version with cardboard stand).  Brand new in shrink.  Box is in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Aug 2014 13:06:47 +0000</listdate>
+    <saledate>Sun, 30 Nov 2014 15:55:23 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>2003 Inspiration Games. Played, complete, in good condition. The box shows moderate wear, but all the pieces are in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Mar 2015 02:51:47 +0000</listdate>
+    <saledate>Mon, 23 Mar 2015 02:06:20 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in shrink. Buyer to pay shipping from 53189. USPS with tracking and insurance. thanks for looking</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Mar 2015 16:49:04 +0000</listdate>
+    <saledate>Thu, 26 Mar 2015 20:32:43 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Compete and in excellent condition. Only played a few times in the past few years.
+I only charge actual shipping via USPS. I_T_E_M_P_T_A_G_#039;m also happy to arrange for local pick-up in or around the southeast Michigan area.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 May 2015 04:44:05 +0000</listdate>
+    <saledate>Sat, 30 May 2015 22:13:08 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190157/item/3901657#3901657]Item for Geeklist _T_E_M_P_T_A_G_quot;May Flowers. An Auction. From 94596. Ends 05/27/15. Local Pick Up Available._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Jul 2015 13:47:34 +0000</listdate>
+    <saledate>Thu, 09 Jul 2015 17:07:29 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/186594/item/3820056#3820056]Item for Geeklist _T_E_M_P_T_A_G_quot;We Got Game(s to sell) Auction -- U.S. Only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Sep 2015 12:56:03 +0000</listdate>
+    <saledate>Thu, 22 Oct 2015 21:12:52 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>verygood</condition>
+    <notes>complete in good condition</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Oct 2015 21:44:01 +0000</listdate>
+    <saledate>Mon, 30 Nov 2015 05:03:34 +0000</saledate>
+    <price currency='AUD'>35</price>
+    <condition>likenew</condition>
+    <notes>Mint condition, opened of course.
+Can post or pickup from Chatswood or Alexandria (NSW).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Nov 2015 03:16:48 +0000</listdate>
+    <saledate>Mon, 21 Dec 2015 20:45:02 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>My personal copy, clean. Played a dozen times, however in good shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Sep 2015 00:52:26 +0000</listdate>
+    <saledate>Thu, 24 Dec 2015 10:27:39 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>new</condition>
+    <notes>Still in shrink wrap</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Mar 2016 06:08:46 +0000</listdate>
+    <saledate>Tue, 05 Apr 2016 03:17:23 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>In shrink.
+Local Lancaster PA pickup available.
+Shipping 8.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jul 2015 13:19:01 +0000</listdate>
+    <saledate>Fri, 15 Apr 2016 21:39:21 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>Cardboard Ark. Box is free of shelf wear.
+ $9 shipping to the continental USA. Ask for a quote to the rest of the world. Let me know if you have any questions regarding condition or want some pictures.
+Shipping via USPS priority mail with tracking or First class mail with tracking.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jan 2016 17:19:59 +0000</listdate>
+    <saledate>Sat, 30 Apr 2016 11:03:28 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>Original shrinkwrap from publisher_T_E_M_P_T_A_G_#039;s box. Cardboard Ark type.
+Discount available if you became a confirmed member before 2016 at cc.com with at least one post in the forum. Send a private message there to Paul with the code BGGARK!
+Shipping is 154 SEK* within European Union and 184 SEK* to the rest of the world.
+*Swedish Krona (184 SEK is roughly 20 Euro or 22 USD)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 May 2016 16:43:43 +0000</listdate>
+    <saledate>Fri, 17 Jun 2016 14:15:12 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Opened, played once. Like-New.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 May 2012 04:50:03 +0000</listdate>
+    <saledate>Sun, 10 Jul 2016 11:44:00 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>This copy of the game has never been played.  It is no longer in shrinkwrap, but in excellent condition.
+All game contents verified.  All 72 tiles are present and still on the cardboard.  All wooden pieces are present.  The ark has never been placed in the plastic base.  Rules are in excellent shape.
+Even the cardboard insert is intact and shows no damage.
+The outside box is in excellent condition.  No visible damage.
+Game comes from a non-smoking house.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jul 2016 17:40:26 +0000</listdate>
+    <saledate>Mon, 18 Jul 2016 18:00:10 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>for joshpoe</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Feb 2016 22:03:17 +0000</listdate>
+    <saledate>Wed, 27 Jul 2016 04:13:48 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Aug 2016 16:31:58 +0000</listdate>
+    <saledate>Tue, 30 Aug 2016 17:03:55 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/212648/item/4839650#4839650]Item for Geeklist _T_E_M_P_T_A_G_quot;The Largest Los Angeles Game Show Virtual Flea Market **(Over 250 Games).. More added daily*** (No Ship) Strategicon LA Hilton Sept 2-5 _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jan 2016 17:19:59 +0000</listdate>
+    <saledate>Fri, 02 Sep 2016 09:25:19 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>Original shrinkwrap from publisher_T_E_M_P_T_A_G_#039;s box. Cardboard Ark type.
+Discount available if you became a confirmed member before 2016 at cc.com with at least one post in the forum. Send a private message there to Paul with the code BGGARK!
+Shipping is 154 SEK* within European Union and 184 SEK* to the rest of the world.
+*Swedish Krona (184 SEK is roughly 20 Euro or 22 USD)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jul 2016 13:35:49 +0000</listdate>
+    <saledate>Sat, 01 Oct 2016 18:37:53 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>Complete and in great shape.  
+Non smoking home.  No pets.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jan 2016 17:19:59 +0000</listdate>
+    <saledate>Thu, 17 Nov 2016 17:41:16 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>Original shrinkwrap from publisher_T_E_M_P_T_A_G_#039;s box. Cardboard Ark type.
+Discount available if you became a confirmed member at carcassonnecentral.com with at least one post in the forum. Send a private message there to Paul with the code BGGARK!
+Shipping is 143 SEK* within European Union and 173 SEK* to the rest of the world.
+*Swedish Krona (roughly under 20 Euro or 20 USD)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Apr 2016 15:01:40 +0000</listdate>
+    <saledate>Wed, 21 Dec 2016 22:27:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Will combine with other items in marketplace or on my for trade list. Paypal only or cash if local. Contact me with any questions! Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jan 2016 17:19:59 +0000</listdate>
+    <saledate>Mon, 02 Jan 2017 11:32:48 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>Original shrinkwrap from publisher_T_E_M_P_T_A_G_#039;s box. Cardboard Ark type.
+Discount available if you became a confirmed member at carcassonnecentral.com with at least one post in the forum. Send a private message there to Paul with the code BGGARK!
+Shipping is 143 SEK* within European Union and 173 SEK* to the rest of the world.
+*Swedish Krona (roughly under 20 Euro or 20 USD)
+Payment options: PayPal, COD, Bank transfer / IBAN</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Apr 2017 15:52:02 +0000</listdate>
+    <saledate>Thu, 20 Apr 2017 15:29:59 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Desirable wooden-ark 2nd edition. Unplayed, unpunched, tiles still in shrink wrap. Box looks bright and new. Very minimal shelf wear on a few edges and corners. Buyer pays shipping for whatever shipping method you prefer.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jan 2016 17:19:59 +0000</listdate>
+    <saledate>Tue, 02 May 2017 04:11:52 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>Original shrinkwrap from publisher_T_E_M_P_T_A_G_#039;s box. Cardboard Ark type.
+Discount available if you became a confirmed member at carcassonnecentral.com with at least one post in the forum. Send a private message there to Paul with the code BGGARK!
+Shipping is 143 SEK* within European Union and 173 SEK* to the rest of the world.
+*Swedish Krona (roughly under 20 Euro or 20 USD)
+Payment options: PayPal, COD, Bank transfer / IBAN</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 May 2017 22:48:55 +0000</listdate>
+    <saledate>Fri, 19 May 2017 22:51:26 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/224488/item/5401211#5401211]Item for Geeklist _T_E_M_P_T_A_G_quot;Origins Virtual Flea Market 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Feb 2017 21:50:48 +0000</listdate>
+    <saledate>Tue, 18 Jul 2017 06:32:48 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>More desired printing w/the WOODEN (vs. cardboard) ARK, see
+http://www.boardgamegeek.com/thread/521181
+Brand new in shrink-wrap.
+Inspiration (aka Uberplay) Games (partnered with HiG) English language edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 May 2013 05:44:08 +0000</listdate>
+    <saledate>Mon, 04 Sep 2017 14:08:01 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Sep 2017 15:39:43 +0000</listdate>
+    <saledate>Fri, 06 Oct 2017 19:06:00 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition, and contains the much sought-after WOODEN ARK, in addition to the usual ark tile and stand.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Dec 2017 02:20:43 +0000</listdate>
+    <saledate>Sat, 23 Dec 2017 02:10:55 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>I_T_E_M_P_T_A_G_#039;m shrinking my game collection, so I_T_E_M_P_T_A_G_#039;d be happy to consider selling any games from my collection to help combine shipping costs. Make a reasonable offer, and I_T_E_M_P_T_A_G_#039;ll list it on BGG marketplace to make it official and secure.
+Buyer to pay exact shipping costs (I get discounted shipping so estimate 10-20% off regular shipping costs.)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Mar 2014 18:24:16 +0000</listdate>
+    <saledate>Wed, 10 Jan 2018 18:17:31 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>I would prefer a local sale (Twin Cities, MN), but will ship if necessary (buyer pays S_T_E_M_P_T_A_G_amp;H). I regularly attend Wednesday night gaming at the FF Event Center and will bring sold games at that time. I will accept cash at time of delivery.
+Light shelf wear to outside of box. Components in like new condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Aug 2017 14:40:20 +0000</listdate>
+    <saledate>Sat, 17 Feb 2018 11:43:35 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Includes cardboard Ark standee and wooden Ark replica.
+Also includes English printed rules.
+Like new, excellent condition. Played 1 to 5 times max with 2 player only.
+Check out my other listings for more Carcassonne games and items, with some being OOP.
+I will be in the US at the end of October and November (2018), so could ship from within the US or local pickup in Orlando/WDW area. I_T_E_M_P_T_A_G_#039;ll also be at Spiel on Thursday and possibly Friday (2018).
+I ship worldwide, but PLEASE contact me before purchasing if you want to know the shipping costs.
+I don_T_E_M_P_T_A_G_#039;t use Paypal, after being scammed a couple of times. Will only accept bank transfer or cash with local pick-up.
+Afhalen is mogelijk in Dordrecht/Rotterdam op afspraak.
+If you have any other questions, please contact me.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Feb 2018 20:04:11 +0000</listdate>
+    <saledate>Sat, 03 Mar 2018 10:30:00 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Open, Unpunched.  Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Oct 2017 12:40:51 +0000</listdate>
+    <saledate>Sun, 11 Mar 2018 05:12:09 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Shipping costs are additional.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Mar 2018 03:00:10 +0000</listdate>
+    <saledate>Fri, 16 Mar 2018 10:26:36 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238935/item/6027338#6027338]Item for Geeklist _T_E_M_P_T_A_G_quot;CBERG_T_E_M_P_T_A_G_#039;s Shelf Clearing Auction #3_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for ottomaddox</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Oct 2017 12:10:14 +0000</listdate>
+    <saledate>Tue, 10 Apr 2018 03:07:37 +0000</saledate>
+    <price currency='EUR'>41.89</price>
+    <condition>new</condition>
+    <notes>Game: The Ark of the Covenant
+Languages: FI, SE, DK, NO
+Condition: New
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 20,99€[Standard]
+o 500-999g: 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 26,99€[Express], 27,99€[Standard]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Standard], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 24,99€[Standard]
+o 500-999g: 16,99€[Express], 27,99€[Standard]
+o 1000-1499g: 21,99€[Express], 31,99€[Standard]
+o 1500-2000g: 26,99€[Express], 34,99€[Standard]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Standard], 23,99€[Express]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 12,99€[Express], 15,99€[Standard]
+o 500-999g: 13,99€[Express], 17,99€[Standard]
+o 1000-1499g: 16,99€[Express], 20,99€[Standard]
+o 1500-2000g: 19,99€[Express], 22,99€[Standard]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 13,99€[Express], 19,99€[Standard]
+o 500-999g: 11,99€[Economy], 17,99€[Express], 22,99€[Standard]
+o 1000-1499g: 12,99€[Economy], 22,99€[Express], 25,99€[Standard]
+o 1500-2000g: 15,99€[Economy], 27,99€[Express], 28,99€[Standard]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 13,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 17,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Economy], 21,99€[Express]
+o 1500-2000g: 8,99€[Standard], 15,99€[Economy], 26,99€[Express]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 9,99€[Express], 12,99€[Standard]
+o 500-999g: 12,99€[Express], 14,99€[Standard]
+o 1000-1499g: 15,99€[Standard], 16,99€[Express]
+o 1500-2000g: 17,99€[Standard], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 15,99€[Economy], 23,99€[Express]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express], 12,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express], 15,99€[Economy]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 14,99€[Express]
+o 1000-1499g: 11,99€[Standard], 12,99€[Economy], 19,99€[Express]
+o 1500-2000g: 11,99€[Standard], 15,99€[Economy], 23,99€[Express]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express], 12,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express], 15,99€[Economy]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Standard], 7,99€[Economy], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 11,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express], 12,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express], 15,99€[Economy]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Standard], 7,99€[Economy], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 11,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express], 12,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express], 15,99€[Economy]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 15,99€[Economy], 23,99€[Express]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express], 12,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express], 15,99€[Economy]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 15,99€[Express], 22,99€[Standard]
+o 500-999g: 20,99€[Express], 25,99€[Standard]
+o 1000-1499g: 25,99€[Express], 28,99€[Standard]
+o 1500-2000g: 30,99€[Express], 32,99€[Standard]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 13,99€[Express], 20,99€[Standard]
+o 500-999g: 11,99€[Economy], 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 12,99€[Economy], 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 15,99€[Economy], 26,99€[Express], 27,99€[Standard]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 20,99€[Standard], 28,99€[Express]
+o 500-999g: 11,99€[Economy], 21,99€[Standard], 29,99€[Express]
+o 1000-1499g: 12,99€[Economy], 24,99€[Standard], 30,99€[Express]
+o 1500-2000g: 15,99€[Economy], 27,99€[Standard], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 14,99€[Express]
+o 1000-1499g: 11,99€[Standard], 12,99€[Economy], 19,99€[Express]
+o 1500-2000g: 11,99€[Standard], 15,99€[Economy], 23,99€[Express]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Standard], 7,99€[Economy], 10,99€[Express]
+o 500-999g: 7,99€[Standard], 11,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express], 12,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express], 15,99€[Economy]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Standard], 7,99€[Economy], 17,99€[Express]
+o 500-999g: 7,99€[Standard], 11,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 15,99€[Economy], 27,99€[Express]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 9,99€[Standard], 11,99€[Express]
+o 500-999g: 9,99€[Standard], 11,99€[Express]
+o 1000-1499g: 12,99€[Express], 15,99€[Standard]
+o 1500-2000g: 14,99€[Express], 16,99€[Standard]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 24,99€[Standard]
+o 500-999g: 16,99€[Express], 27,99€[Standard]
+o 1000-1499g: 21,99€[Express], 31,99€[Standard]
+o 1500-2000g: 26,99€[Express], 34,99€[Standard]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 15,99€[Economy], 23,99€[Express]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Standard], 14,99€[Express]
+o 1000-1499g: 11,99€[Standard], 19,99€[Express]
+o 1500-2000g: 11,99€[Standard], 23,99€[Express]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 7,99€[Economy]
+o 500-999g: 4,99€[Corriere], 11,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 12,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 15,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 15,99€[Economy], 23,99€[Express]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 11,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 14,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Economy], 19,99€[Express]
+o 1500-2000g: 8,99€[Standard], 15,99€[Economy], 23,99€[Express]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express], 12,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express], 15,99€[Economy]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express], 12,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express], 15,99€[Economy]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 9,99€[Standard], 11,99€[Express]
+o 500-999g: 9,99€[Standard], 11,99€[Economy], 11,99€[Express]
+o 1000-1499g: 12,99€[Economy], 12,99€[Express], 15,99€[Standard]
+o 1500-2000g: 14,99€[Express], 15,99€[Economy], 16,99€[Standard]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 15,99€[Express]
+o 500-999g: 11,99€[Economy], 18,99€[Express]
+o 1000-1499g: 12,99€[Economy], 21,99€[Express]
+o 1500-2000g: 15,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 8,99€[Standard], 10,99€[Express]
+o 500-999g: 8,99€[Standard], 11,99€[Economy], 11,99€[Express]
+o 1000-1499g: 8,99€[Standard], 12,99€[Express], 12,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 13,99€[Express], 15,99€[Economy]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 12,99€[Express], 14,99€[Standard]
+o 500-999g: 11,99€[Economy], 14,99€[Express], 16,99€[Standard]
+o 1000-1499g: 12,99€[Economy], 18,99€[Express], 19,99€[Standard]
+o 1500-2000g: 15,99€[Economy], 21,99€[Standard], 21,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 13,99€[Express], 20,99€[Standard]
+o 500-999g: 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 26,99€[Express], 27,99€[Standard]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 7,99€[Economy], 13,99€[Express], 20,99€[Standard]
+o 500-999g: 11,99€[Economy], 16,99€[Express], 21,99€[Standard]
+o 1000-1499g: 12,99€[Economy], 21,99€[Express], 24,99€[Standard]
+o 1500-2000g: 15,99€[Economy], 26,99€[Express], 27,99€[Standard]
+[#]EgAKGlNaJJ7nVdebuWq+J2Sk7iEKIm3pHmTR3/PBDbU=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Apr 2018 18:16:09 +0000</listdate>
+    <saledate>Mon, 07 May 2018 15:38:44 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened but unplayed, includes English colour rules</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Mar 2018 23:34:49 +0000</listdate>
+    <saledate>Sun, 13 May 2018 02:33:29 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>New in original factory sealed box.  Bought many years ago with every intention to play but never opened the box and looking to thin out my collection.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jul 2018 19:12:12 +0000</listdate>
+    <saledate>Sun, 01 Jul 2018 20:32:21 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>likenew</condition>
+    <notes>Unplayed, unpunched, in mint condition.  See picture for details. Buyer pays USPS Priority Mail shipping from 22963.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jul 2018 03:11:56 +0000</listdate>
+    <saledate>Fri, 03 Aug 2018 03:47:15 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Version with cardboard standee ark. Box shows wear at corners and dishing/creasing in one corner, but components in excellent condition and complete. Can provide photos on request. Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2018 18:57:16 +0000</listdate>
+    <saledate>Tue, 14 Aug 2018 02:34:57 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jun 2018 03:58:37 +0000</listdate>
+    <saledate>Thu, 13 Sep 2018 18:05:07 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>verygood</condition>
+    <notes>Ships from 50023</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Oct 2018 10:29:31 +0000</listdate>
+    <saledate>Mon, 15 Oct 2018 11:26:01 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>new</condition>
+    <notes>still in shrink
+payment by banktransfer</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Oct 2018 22:31:40 +0000</listdate>
+    <saledate>Fri, 26 Oct 2018 02:21:00 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Box and components are in excellent condition. Address label on box cover.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jun 2018 22:00:54 +0000</listdate>
+    <saledate>Sat, 10 Nov 2018 04:37:31 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Maybe played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Dec 2018 09:48:33 +0000</listdate>
+    <saledate>Sat, 22 Dec 2018 06:37:36 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>SP17/2619</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

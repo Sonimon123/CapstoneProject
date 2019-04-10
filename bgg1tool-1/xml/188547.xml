@@ -1,0 +1,412 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="188547">
+   <yearpublished>2018</yearpublished>
+   <minplayers>1</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>45</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>13</age>
+       <name primary="true" sortindex="1">Maximum Apocalypse</name>
+       <name  sortindex="1">僵尸启示录</name>
+         
+   <description>Maximum Apocalypse is a cooperative roguelike adventure game for 1-6 players. In Maximum Apocalypse, civilization has already fallen.  The players are survivors of the apocalypse whose mission is to survive the hostile landscape._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game map is randomly generated and different every time that you play. On each turn, a player can use up to four actions to explore the map, play cards, equip weapons, scavenge for resources, draw cards or battle off monsters._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Picking a unique survivor class within the group, players must plan their strategy and work together while leaning on their survivor_T_E_M_P_T_A_G_amp;rsquo;s strengths in order to defeat monsters and avoid starvation. For example, the Fireman is deadly up close with his ax and can easily chop down monsters; meanwhile the stealthy Hunter is great at scouting the map and avoiding traps _T_E_M_P_T_A_G_amp;mdash; but roaming monsters are gathering quickly and time is running out. If you are overwhelmed by monsters or die of starvation, the players lose. If they can find enough gas and get it back to their van to escape, they all win and live to play another scenario._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/_Tbfa9kTXf98dpR-wqpbJq35NVE=/fit-in/200x150/pic3537802.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/gju8lezk1p6wqyqP0H2RXJK_fJ8=/0x0/pic3537802.png</image>
+      
+            <boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+                      <boardgamepublisher objectid="35928">Banana Games</boardgamepublisher>
+               <boardgamemechanic objectid="2018">Campaign / Battle Card Driven</boardgamemechanic>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+               <boardgameversion objectid="405184">Chinese edition</boardgameversion>
+               <boardgamemechanic objectid="2023">Cooperative Play</boardgamemechanic>
+               <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+               <boardgameversion objectid="292192">English edition</boardgameversion>
+               <boardgamepodcastepisode objectid="239949">Episode #76: Exploring The Self By Designing Games</boardgamepodcastepisode>
+               <boardgamedesigner objectid="84252">Mike Gnade</boardgamedesigner>
+               <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+                      <boardgameexpansion objectid="244841">Maximum Apocalypse: Gothic Horrors</boardgameexpansion>
+               <boardgameexpansion objectid="249137">Maximum Apocalypse: Jurassic Perils</boardgameexpansion>
+               <boardgameexpansion objectid="244838">Maximum Apocalypse: Kaiju Rising</boardgameexpansion>
+               <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+               <boardgamemechanic objectid="2007">Pick-up and Deliver</boardgamemechanic>
+               <boardgamefamily objectid="41799">Post-Apocalyptic</boardgamefamily>
+               <boardgameartist objectid="100349">Gustav Rangmar</boardgameartist>
+               <boardgamepublisher objectid="32996">Rock Manor Games</boardgamepublisher>
+                      <boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+               <boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+               <boardgamecategory objectid="2481">Zombies</boardgamecategory>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="33">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="19" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="20" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="9" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="11" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+     <result level="5" value="Unplayable in another language" numvotes="1" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="4" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>710</usersrated>
+     <average>7.67228</average>
+     <bayesaverage>6.19169</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1569" bayesaverage="6.19169" />
+            
+       
+              <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="274" bayesaverage="6.46755" />
+            
+           </ranks>
+     
+     <stddev>1.33595</stddev>
+     <median>0</median>
+     <owned>1766</owned>
+     <trading>19</trading>
+     <wanting>86</wanting>
+     <wishing>417</wishing>
+     <numcomments>258</numcomments>
+     <numweights>29</numweights>
+     <averageweight>2.2759</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 19 Jan 2018 22:35:29 +0000</listdate>
+    <saledate>Tue, 23 Jan 2018 16:32:18 +0000</saledate>
+    <price currency='USD'>69.45</price>
+    <condition>new</condition>
+    <notes>Kickstarter version of Maximum Apocalypse Kickstarter Pledge, all applicable stretch goals included. Includes Kickstarter Kaiju Rising Expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Jan 2018 02:41:25 +0000</listdate>
+    <saledate>Tue, 30 Jan 2018 02:51:30 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>New in shrink. Kickstarter Edition. Plus Kaiju expansión new in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jan 2018 22:06:59 +0000</listdate>
+    <saledate>Sun, 04 Feb 2018 13:40:27 +0000</saledate>
+    <price currency='USD'>69.45</price>
+    <condition>new</condition>
+    <notes>Kickstarter version of Maximum Apocalypse Kickstarter Pledge, all applicable stretch goals included.
+Includes Kickstarter Kaiju Rising Expansion.
+9.99 Shipping to US!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Feb 2018 21:14:53 +0000</listdate>
+    <saledate>Wed, 14 Feb 2018 12:38:52 +0000</saledate>
+    <price currency='EUR'>48.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Feb 2018 00:03:54 +0000</listdate>
+    <saledate>Thu, 22 Feb 2018 13:11:28 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>Selling my Kickstarter copy of this game, still new in shrink.
+Includes the Kaiju Rising expansion as well as the playmat.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jan 2018 22:06:59 +0000</listdate>
+    <saledate>Sun, 25 Feb 2018 17:14:52 +0000</saledate>
+    <price currency='USD'>69.45</price>
+    <condition>new</condition>
+    <notes>Kickstarter version of Maximum Apocalypse Kickstarter Pledge, all applicable stretch goals included.
+Includes Kickstarter Kaiju Rising Expansion.
+9.99 Shipping to US!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jan 2018 22:06:59 +0000</listdate>
+    <saledate>Wed, 28 Feb 2018 19:21:15 +0000</saledate>
+    <price currency='USD'>69.45</price>
+    <condition>new</condition>
+    <notes>Kickstarter version of Maximum Apocalypse Kickstarter Pledge, all applicable stretch goals included.
+Includes Kickstarter Kaiju Rising Expansion.
+9.99 Shipping to US!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Feb 2018 15:15:39 +0000</listdate>
+    <saledate>Thu, 01 Mar 2018 23:08:05 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>likenew</condition>
+    <notes>Unplayed. Like new. 
+Kickstarter Edition.
+Includes Kaiju Rising Expansion.
+I am downsizing  my collection:
+5% discount if you buy 3 or 4 games (at the same time)
+10% discount if you buy 5-9 games (at the same time)
+15% discount if you buy 10 or more games (at the same time)
+Non-Smoking household, no pets.
+Local pick up in Bremen, Germany or shipping (EU only)
+Payment via bank transfer or Paypal (friends).
+Shipping costs depend on the weight (and size):
+to Germany:
+up to 2kg: 4,99 EUR
+up to 5kg: 5,99 EUR
+up to 10kg: 8,49 EUR
+up to 31,5kg: 16,49 EUR
+to all EU Countries:
+up to 2kg (no insurance): 8,99 EUR
+up to 2kg: 13,99 EUR
+up to 5kg: 17,99 EUR
+up to 10kg: 22,99 EUR
+up to 20kg: 33,99 EUR
+up to 31,5kg: 44,99 EUR</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Mar 2018 20:06:27 +0000</listdate>
+    <saledate>Mon, 12 Mar 2018 02:24:35 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Like new and complete. Retail version- no KS extras. $13 shipping in the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Feb 2018 09:55:58 +0000</listdate>
+    <saledate>Tue, 13 Mar 2018 07:10:29 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>likenew</condition>
+    <notes>*** Including _T_E_M_P_T_A_G_quot;Kaiju Rising_T_E_M_P_T_A_G_quot; Expansion ***
+Retail version
+base game is played once.
+expansion unplayed, but unpacked to add it to the base game box.
+everything complete and in undamaged condition
+Shipping, insured, with tracking:
+Germany 5,99€
+Europe( DHL Zone 1): 15,99€
+payment via SEPA bank transfer or PayPal</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Mar 2018 15:25:40 +0000</listdate>
+    <saledate>Wed, 21 Mar 2018 17:43:08 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter edition; also includes Kaiju Rising expansion.
+*** THIS ITEM IS RESERVED FOR USER _T_E_M_P_T_A_G_quot;Ashuashu_T_E_M_P_T_A_G_quot; WITH WINNING BID IN SPRING THAW AUCTION (#238938) ***</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Feb 2018 21:56:06 +0000</listdate>
+    <saledate>Wed, 28 Mar 2018 13:13:08 +0000</saledate>
+    <price currency='EUR'>52.9</price>
+    <condition>new</condition>
+    <notes>Language: english
+Publisher: Rock Manor Games
+Game Condition: Mint
+Box Condition: Mint
+PREORDER - Usually available in: 2 weeks approx
+ID Gis: 31367 (for reference)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Mar 2018 15:25:27 +0000</listdate>
+    <saledate>Fri, 30 Mar 2018 03:05:35 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played. All components complete and in great condition. Image available upon request. 
+Flat shipping fee $13 for Continental USA. 
+Combined shipping available. Also available for pick up in NYC (zip code: 10016).
+I accept Paypal, Venmo, Google wallet and Chase Quickpay.
+Price is negotiable if you buy multiple games. 
+For international shipping, UPS/USPS/Fedex rate is usually about $30~$100 depending on distance. I can also ship with other options upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jan 2018 22:06:59 +0000</listdate>
+    <saledate>Sat, 31 Mar 2018 22:39:47 +0000</saledate>
+    <price currency='USD'>69.45</price>
+    <condition>new</condition>
+    <notes>Kickstarter version of Maximum Apocalypse Kickstarter Pledge, all applicable stretch goals included.
+Includes Kickstarter Kaiju Rising Expansion.
+9.99 Shipping to US!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Mar 2018 22:57:46 +0000</listdate>
+    <saledate>Mon, 02 Apr 2018 01:44:32 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>For Dennis Sison only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Mar 2018 16:42:11 +0000</listdate>
+    <saledate>Mon, 09 Apr 2018 06:29:40 +0000</saledate>
+    <price currency='EUR'>48.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Apr 2018 06:34:26 +0000</listdate>
+    <saledate>Mon, 09 Apr 2018 09:53:40 +0000</saledate>
+    <price currency='EUR'>48.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 May 2018 19:27:06 +0000</listdate>
+    <saledate>Mon, 28 May 2018 05:42:36 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Retail version of the base game + the Kaiju expansion. Punched and complete, played about 5 times, everything is still in great shape. The box for the expansion has been discarded. Everything can fit into the base game box; however for shipping I have sorted and bagged the cards and components so when you receive it, some components will be outside the game box. Shipping is +$13 for USPS Priority.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jun 2018 13:29:27 +0000</listdate>
+    <saledate>Mon, 09 Jul 2018 17:43:00 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>Retail version. Played once. Great condition. UK buyers only please. Shipping via ParcelForce (£10) Total cost: £30.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Jul 2018 22:20:26 +0000</listdate>
+    <saledate>Thu, 16 Aug 2018 08:52:22 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Sep 2018 13:40:42 +0000</listdate>
+    <saledate>Sat, 29 Sep 2018 18:05:41 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Includes Kaiju Rising expansion. Played only twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Aug 2018 20:18:58 +0000</listdate>
+    <saledate>Sun, 28 Oct 2018 09:02:16 +0000</saledate>
+    <price currency='GBP'>59</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter edition with the extra stretch goals. In excellent condition. Postage is £3 to the U.K.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Nov 2018 23:15:14 +0000</listdate>
+    <saledate>Fri, 23 Nov 2018 06:38:33 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Thanks for looking. I_T_E_M_P_T_A_G_#039;m reducing my collection by 10 percent and have to sell another great game. 
+Opened, Never Played.  Comes with the  kaiju expansion.  
+Kickstarter Edition 
+Accepts Paypal</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Oct 2018 18:36:05 +0000</listdate>
+    <saledate>Fri, 23 Nov 2018 19:52:11 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>I will get this in the mail for you as soon as possible, via USPS Priority.
+I accept PayPal or Venmo!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Dec 2018 22:06:38 +0000</listdate>
+    <saledate>Wed, 12 Dec 2018 21:14:10 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Kickstarter base pledge with all included stretch goals. Still in shrink wrap. Also comes with Kaiju Rising expansion! Once I receive confirmation, I will send the shipping cost, but it will usually range between $10 to $15 for USPS expedited if domestic. Let me know if you have any questions!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Dec 2018 22:55:49 +0000</listdate>
+    <saledate>Sun, 16 Dec 2018 23:51:22 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>Reserved for drkrash</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Jan 2019 16:50:59 +0000</listdate>
+    <saledate>Sun, 13 Jan 2019 09:16:29 +0000</saledate>
+    <price currency='GBP'>42</price>
+    <condition>new</condition>
+    <notes>I accidentally ordered two base games from the KS. I received one from the 1st wave, and now I_T_E_M_P_T_A_G_#039;ve just got another base game in the 2nd wave!! I can_T_E_M_P_T_A_G_#039;t see myself playing super big maps so I_T_E_M_P_T_A_G_#039;m selling it on. 
+Brand new. unopened. KS version base game. 
+https://boardgamegeek.com/thread/1938460/retail-vs-ks-version
+UK free postage, but anything else will be £10 extra.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Jan 2019 11:38:18 +0000</listdate>
+    <saledate>Fri, 25 Jan 2019 16:30:00 +0000</saledate>
+    <price currency='EUR'>85</price>
+    <condition>new</condition>
+    <notes>Complete [b]Rookie Completionist Pledge[/b] from the latest kickstarter campaign. All items are new and still in shrink. 
+It includes :
+• Maximum Apocalypse (Kickstarter Edition) core game
+• Gothic Horrors big Expansion
+• Kaiju Rising Expansion
+• Jurassic Perils Expansion
+• All Unlocked Stretch Goals
+85 € + shipping (calculated based on destination)
+Pick-up in Paris area is possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Jan 2019 18:52:51 +0000</listdate>
+    <saledate>Sat, 26 Jan 2019 23:00:07 +0000</saledate>
+    <price currency='USD'>119.95</price>
+    <condition>likenew</condition>
+    <notes>This is for the Rookie Completionist KSer pledge IN HAND.  It is in like new condition (most still in shrink) and includes ALL OF THE EXPANSIONS and STRETCH GOALS. Domestic shipping is $18. Shipping to Canada is $60. All other international locations is $75 . I ALWAYS combine shipping on multiple purchases at +$1 per item.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

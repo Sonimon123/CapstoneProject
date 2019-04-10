@@ -1,0 +1,3559 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="160010">
+   <yearpublished>2016</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>14</age>
+       <name primary="true" sortindex="1">Conan</name>
+         
+   <description>Conan, designed by Fred Henry and based on the Conan universe by Robert E. Howard, is a scenario-based semi-cooperative asymmetric miniatures board game. One player is the Overlord, playing the opposition forces, and the other players (1 to 4) play Conan and his companions: Shevatas the thief, Hadrathus the Priest/Sorcerer, Belit the pirate queen, Valeria the warrior, etc. The game is based purely on Robert E. Howard's novels and short stories (and not the movies or other non-Howardian material). The publisher has hired Patrice Louinet, a Howard expert, to make sure the art and the scenarios are compatible with Howard's vision._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Each game is a scenario, played on a map. There are 4 maps included in the retail copy of the game, and each map can have several scenarios set on it. The game is fast, one hour approximately. It's possible to play several scenarios in a campaign, but you can also play each scenario individually. There are 9 scenarios in the base box._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;At the beginning of a scenario, players choose their team (Conan and two or three other heroes). The Overlord gathers all the miniatures (picts, Necromancer, skeleton warriors, monsters, etc.), tokens, and cards from the chosen scenario. The game usually plays in a limited number of turns (ten, for instance). Each scenario can have very different objectives: find the princess captured by picts and hidden in a hut and leave the camp before the pict hunters return; find the magical key to open a sealed door, steal the jewel and leave; kill the Necromancer by the end of turn 10; survive by the end of turn 10; escape the prison; etc._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;During their turn, the heroes can activate or rest. If they activate, they can spend _T_E_M_P_T_A_G_amp;quot;gems_T_E_M_P_T_A_G_amp;quot; from their energy pool to do all sorts of actions: move, fight (melee or distance), defend, pick a lock, reroll, etc. If they rest, they can move a lot of gems from their _T_E_M_P_T_A_G_amp;quot;spent_T_E_M_P_T_A_G_amp;quot; pool box to their _T_E_M_P_T_A_G_amp;quot;available_T_E_M_P_T_A_G_amp;quot; pool box. When they take an action, they throw a number of dice equal to the number of gems they put in their action. There are three different kinds of dice: yellow (the weaker dice), orange (medium) and red (strong). Each character has a color based on their specialty: Conan throws red dice in combat while the Sorcerer throws yellow dice in combat; the thief throws red dice in Manipulation actions, while Conan throws orange dice; etc. Each player can have equipment cards (armor, magic potions, weapons, etc.) which give them bonuses on their dice rolls._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The Overlord plays differently. He uses a board with eight slidable tiles, plus his own Energy gems. Each tile corresponds to one unit (1 to 3 miniatures) on the game mat, and all of the miniature abilities are written on this tile (movement, armor, attack, special abilities). The tile position on the board corresponds to the numbers 1-8. The Overlord has a pool of energy gems and each time he activates one unit, he needs to spend a number of gems matching the tile placement: tile#1 costs 1 energy gem, tile#2 costs 2 gems, etc. Whatever tile the Overlord chooses to activate, he spends the corresponding energy cost (moving his energy gems from the available pool to the spent pool), then takes the tile out and moves it to the end of the sliding track: If he wants to activate this unit again, it will cost him 8 gems, because the unit is now on position 8. The Overlord can activate a maximum of two tiles, and he regains only a certain number of gems each turn (depending on the scenario)._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;In a typical scenario, the heroes need to accomplish something and the Overlord wins if the heroes fail to reach their objective _T_E_M_P_T_A_G_amp;mdash; but in some scenarios, the Overlord has his own objectives and the Heroes win if they prevent him from accomplishing his goal._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/OKv55CLFIGahjUdzu7GE0jWwCmM=/fit-in/200x150/pic3118623.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/lExXp5q_sINKqprH4xVdGCOhRWM=/0x0/pic3118623.jpg</image>
+      
+            <boardgamedesigner objectid="2617">Frédéric Henry</boardgamedesigner>
+               <boardgamehonor objectid="40872">2016 Golden Geek Best Thematic Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="42309">2016 Tric Trac Nominee</boardgamehonor>
+                      <boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+               <boardgamecategory objectid="1022">Adventure</boardgamecategory>
+                      <boardgamemechanic objectid="2046">Area Movement</boardgamemechanic>
+                                           <boardgameimplementation objectid="222514">Batman: Gotham City Chronicles</boardgameimplementation>
+               <boardgamedesigner objectid="9714">Antoine Bauza</boardgamedesigner>
+                      <boardgamedesigner objectid="53">Pascal Bernard</boardgamedesigner>
+               <boardgamepodcastepisode objectid="164525">Bl_T_E_M_P_T_A_G_amp;aring;t blod _T_E_M_P_T_A_G_amp;amp; r_T_E_M_P_T_A_G_amp;oslash;d-hvide farver</boardgamepodcastepisode>
+                      <boardgamefamily objectid="24281">Campaign Games</boardgamefamily>
+               <boardgamedesigner objectid="1727">Bruno Cathala</boardgamedesigner>
+               <boardgameartist objectid="69238">Georges Clarenko</boardgameartist>
+               <boardgameartist objectid="41323">Xavier Collette</boardgameartist>
+               <boardgameexpansion objectid="248345">Compendium: The Overlord – Tome I (Fan expansion to Conan)</boardgameexpansion>
+               <boardgameexpansion objectid="248346">Compendium: The Overlord – Tome II (Fan expansion to Conan)</boardgameexpansion>
+               <boardgamefamily objectid="43527">Conan</boardgamefamily>
+                                                                                                                        <boardgameexpansion objectid="213514">Conan: Baal-pteor</boardgameexpansion>
+               <boardgameexpansion objectid="213515">Conan: Black Dragons</boardgameexpansion>
+               <boardgameexpansion objectid="238078">Conan: Book of Set</boardgameexpansion>
+               <boardgameexpansion objectid="214541">Conan: Brom Guest Box</boardgameexpansion>
+               <boardgameexpansion objectid="212245">Conan: Collectors Box</boardgameexpansion>
+               <boardgameintegration objectid="212245">Conan: Collectors Box</boardgameintegration>
+               <boardgameexpansion objectid="213508">Conan: Crossbowmen</boardgameexpansion>
+               <boardgameexpansion objectid="213519">Conan: Demon of the Earth</boardgameexpansion>
+               <boardgameaccessory objectid="213892">Conan: Dice Pack</boardgameaccessory>
+               <boardgameaccessory objectid="243388">Conan: Doors Pack</boardgameaccessory>
+               <boardgameexpansion objectid="214540">Conan: Dragon</boardgameexpansion>
+               <boardgameexpansion objectid="213518">Conan: Giant Wolves</boardgameexpansion>
+               <boardgameexpansion objectid="172170">Conan: Khitai</boardgameexpansion>
+               <boardgameexpansion objectid="213505">Conan: Kushite Witch Hunters</boardgameexpansion>
+               <boardgameexpansion objectid="173566">Conan: Nordheim</boardgameexpansion>
+               <boardgameexpansion objectid="212630">Conan: Paolo Parente Guest box</boardgameexpansion>
+               <boardgameexpansion objectid="213517">Conan: Sabertooth Tiger</boardgameexpansion>
+               <boardgameexpansion objectid="172784">Conan: Stygia</boardgameexpansion>
+               <boardgameexpansion objectid="213516">Conan: The Black Ones</boardgameexpansion>
+               <boardgameexpansion objectid="231406">Conan: The Legend of the Devil in Iron</boardgameexpansion>
+               <boardgameexpansion objectid="266470">Conan: The Monolith Sourcebook</boardgameexpansion>
+               <boardgameexpansion objectid="213504">Conan: Vanir Valkyrie</boardgameexpansion>
+               <boardgameexpansion objectid="214545">Conan: Xavier Collette Guest Box</boardgameexpansion>
+               <boardgameexpansion objectid="213841">Conan: Yogah of Yag</boardgameexpansion>
+                      <boardgameexpansion objectid="218878">Corinthia: A Conan / Mythic Battles – Pantheon Crossover</boardgameexpansion>
+               <boardgamedesigner objectid="4094">Croc</boardgamedesigner>
+               <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+                             <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgameartist objectid="86587">Viktor Dragosani</boardgameartist>
+               <boardgameartist objectid="36093">Xavier Gueniffey Durin</boardgameartist>
+               <boardgameversion objectid="417230">English Barbarian Pledge edition</boardgameversion>
+               <boardgameversion objectid="241716">English first edition</boardgameversion>
+               <boardgameversion objectid="332941">English King Pledge Edition</boardgameversion>
+               <boardgamepodcastepisode objectid="132192">Episode 2: Last Night On Earth, Lost Boys, and Galaxy Trucker</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="195703">Episode 34 - 2016 Ding _T_E_M_P_T_A_G_amp;amp; Dent Awards Show!</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="194526">Episode 65 - Conan BA Holiday Special</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="131977">Essen 2014 - Antoine Bauza</boardgamepodcastepisode>
+               <boardgamecategory objectid="1010">Fantasy</boardgamecategory>
+                      <boardgamecategory objectid="1046">Fighting</boardgamecategory>
+                             <boardgameversion objectid="332448">French first edition</boardgameversion>
+               <boardgameversion objectid="333413">French King Pledge Edition</boardgameversion>
+                                           <boardgameartist objectid="63043">Yannick Hennebo</boardgameartist>
+                      <boardgameartist objectid="24244">Kekai Kotaki</boardgameartist>
+                                           <boardgamedesigner objectid="4337">Ludovic Maublanc</boardgamedesigner>
+               <boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+               <boardgamepodcastepisode objectid="137397">MOBG ep 25 Protect the XCOM Base</boardgamepodcastepisode>
+               <boardgamepublisher objectid="27147">Monolith</boardgamepublisher>
+               <boardgamecategory objectid="1093">Novel-based</boardgamecategory>
+               <boardgamepodcastepisode objectid="163048">N°69 Fred Henry : l’aventure Conan</boardgamepodcastepisode>
+               <boardgameartist objectid="10548">Paolo Parente</boardgameartist>
+               <boardgamemechanic objectid="2019">Partnerships</boardgamemechanic>
+               <boardgamemechanic objectid="2685">Player Elimination</boardgamemechanic>
+               <boardgamedesigner objectid="8758">Laurent Pouchain</boardgamedesigner>
+                                                  <boardgameartist objectid="86588">Stéphane Simon</boardgameartist>
+               <boardgameartist objectid="12495">Adrian Smith</boardgameartist>
+                             <boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+               <boardgamepodcastepisode objectid="251172">Top 50 Games of All Time - 50 to 41</boardgamepodcastepisode>
+                             <boardgamemechanic objectid="2079">Variable Phase Order</boardgamemechanic>
+               <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+                             <boardgameintegration objectid="212245" inbound="true">Conan: Collectors Box</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="61">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="27" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="8" />
+     <result value="Recommended" numvotes="27" />
+     <result value="Not Recommended" numvotes="10" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="9" />
+     <result value="Recommended" numvotes="26" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="35" />
+     <result value="Recommended" numvotes="9" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="12" />
+     <result value="Recommended" numvotes="23" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="22" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="13">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="1" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="11" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="24">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="7" />
+     <result value="12" numvotes="11" />
+     <result value="14" numvotes="5" />
+     <result value="16" numvotes="1" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>3083</usersrated>
+     <average>7.85019</average>
+     <bayesaverage>7.00549</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="353" bayesaverage="7.00549" />
+            
+       
+              <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="65" bayesaverage="7.23981" />
+            
+           </ranks>
+     
+     <stddev>1.51839</stddev>
+     <median>0</median>
+     <owned>6390</owned>
+     <trading>150</trading>
+     <wanting>270</wanting>
+     <wishing>1422</wishing>
+     <numcomments>805</numcomments>
+     <numweights>83</numweights>
+     <averageweight>2.7952</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 13 Mar 2015 15:47:27 +0000</listdate>
+    <saledate>Wed, 22 Apr 2015 04:35:17 +0000</saledate>
+    <price currency='USD'>225</price>
+    <condition>new</condition>
+    <notes>This is Kickstarter _T_E_M_P_T_A_G_quot;KING_T_E_M_P_T_A_G_quot; pledge along with its bonuses and exclusives. 
+Shipping _T_E_M_P_T_A_G_amp; Handling: $20
+Please see https://www.kickstarter.com/projects/806316071/conan for more details.
+Please note that this is a preorder and will ship to you as soon as I receive it.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Feb 2015 14:43:38 +0000</listdate>
+    <saledate>Sun, 26 Apr 2015 21:06:32 +0000</saledate>
+    <price currency='USD'>270</price>
+    <condition>new</condition>
+    <notes>KICKSTARTER version, Kings pledge level.
+When this comes in I_T_E_M_P_T_A_G_#039;ll ship it to you.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Mar 2015 15:47:27 +0000</listdate>
+    <saledate>Mon, 27 Jul 2015 00:05:11 +0000</saledate>
+    <price currency='USD'>245</price>
+    <condition>new</condition>
+    <notes>This is Kickstarter _T_E_M_P_T_A_G_quot;KING_T_E_M_P_T_A_G_quot; pledge along with its bonuses and exclusives. 
+Shipping _T_E_M_P_T_A_G_amp; Handling: $20
+Please see https://www.kickstarter.com/projects/806316071/conan for more details.
+Please note that this is a preorder and will ship to you as soon as I receive it.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Dec 2015 14:00:34 +0000</listdate>
+    <saledate>Mon, 21 Dec 2015 14:02:29 +0000</saledate>
+    <price currency='EUR'>200</price>
+    <condition>new</condition>
+    <notes>Kings Pledge Kickstarter 
+Will sell in Germany only
+Versand erfolgt an dich, nachdem ich es erhalte. Spiel ist derzeit in Produktion.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Nov 2015 18:44:09 +0000</listdate>
+    <saledate>Wed, 30 Dec 2015 08:50:12 +0000</saledate>
+    <price currency='USD'>329</price>
+    <condition>new</condition>
+    <notes>_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt; SHIPPING is _T_E_M_P_T_A_G_quot;HUGE PACKAGE_T_E_M_P_T_A_G_quot; 
+Kickstarter King Pledge Level with stretch goals. Will ship when Monolith ships out the rewards, estimated 1st/2nd quarter 2016.
+https://www.kickstarter.com/projects/806316071/conan/description
+(Also happy to add things from my traders/marketplace with combined shipping). 
+Kickstarter Exclusives
+1 x Demon of the Earth
+1 x Campaign/Artwork Book exclusive to the Kings pledge
+1 x Sabertooth Tiger
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts) 
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas 
+4 x Leaders (4 sculpts)
+5 x Archers 
+15 x Pict Hunters 
+15 x Pirates
+15 x Guards 
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt 
+1 x New hero, Olgerd Vladislav 
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt 
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius 
+1 x New hero, Savage Belit (Exclusive) 
+1 x New monster, swamp demon 
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls 
+1 x New leader, Akivasha 
+1 x Sarcophagus for Akivasha 
+1 x New hero (or leader!), Kerim Shah (Exclusive) 
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog 
+1 x New monster scorpion 
+5 x Torch stands
+1 x New hero (or leader!), Amboola 
+5 x Tentacles, alt sculpt 
+1 x Monster, the giant bone golem 
+1 x Conan the Wanderer (Exclusive) 
+1 x New hero, Pelias 
+1 x New monster, Forest Demon 
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles) 
+2 x Conan the King and his pet lion (Exclusive) 
+1 x New hero Kothian archer 
+1 x New punching bag camel 
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers 
+1 x New bad gal Gitara 
+1 x New bad guy Warlock</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Nov 2015 02:03:12 +0000</listdate>
+    <saledate>Wed, 03 Feb 2016 16:47:11 +0000</saledate>
+    <price currency='USD'>300</price>
+    <condition>new</condition>
+    <notes>Conan Kickstarter Kings pledge.
+Will ship when Monolith Ships out rewards which should be 1st or 2nd Quarter of 2016.
+You can check out what you will get below
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts) 
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas 
+4 x Leaders (4 sculpts)
+5 x Archers 
+15 x Pict Hunters 
+15 x Pirates
+15 x Guards 
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt 
+1 x New hero, Olgerd Vladislav 
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt 
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius 
+1 x New hero, Savage Belit (Exclusive) 
+1 x New monster, swamp demon 
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls 
+1 x New leader, Akivasha 
+1 x Sarcophagus for Akivasha 
+1 x New hero (or leader!), Kerim Shah (Exclusive) 
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog 
+1 x New monster scorpion 
+5 x Torch stands
+1 x New hero (or leader!), Amboola 
+5 x Tentacles, alt sculpt 
+1 x Monster, the giant bone golem 
+1 x Conan the Wanderer (Exclusive) 
+1 x New hero, Pelias 
+1 x New monster, Forest Demon 
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles) 
+2 x Conan the King and his pet lion (Exclusive) 
+1 x New hero Kothian archer 
+1 x New punching bag camel 
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers 
+1 x New bad gal Gitara 
+1 x New bad guy Warlock
+Shipping will be around $50 in the U.S. I_T_E_M_P_T_A_G_#039;ll be more specific depending on where I will need to ship to.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Mar 2016 22:05:18 +0000</listdate>
+    <saledate>Thu, 10 Mar 2016 17:56:30 +0000</saledate>
+    <price currency='USD'>350</price>
+    <condition>new</condition>
+    <notes>Conan Kickstarter Kings pledge.
+Will ship when Monolith Ships out rewards which should be June of 2016.
+You can check out what you will get below
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts)
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas
+4 x Leaders (4 sculpts)
+5 x Archers
+15 x Pict Hunters
+15 x Pirates
+15 x Guards
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt
+1 x New hero, Olgerd Vladislav
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius
+1 x New hero, Savage Belit (Exclusive)
+1 x New monster, swamp demon
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls
+1 x New leader, Akivasha
+1 x Sarcophagus for Akivasha
+1 x New hero (or leader!), Kerim Shah (Exclusive)
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog
+1 x New monster scorpion
+5 x Torch stands
+1 x New hero (or leader!), Amboola
+5 x Tentacles, alt sculpt
+1 x Monster, the giant bone golem
+1 x Conan the Wanderer (Exclusive)
+1 x New hero, Pelias
+1 x New monster, Forest Demon
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles)
+2 x Conan the King and his pet lion (Exclusive)
+1 x New hero Kothian archer
+1 x New punching bag camel
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers
+1 x New bad gal Gitara
+1 x New bad guy Warlock
+I will go to the post office and give an accurate cost for shipping.  Once that is received, I will mail it to you. (if you want it faster than the cheapest way, let me know and I_T_E_M_P_T_A_G_#039;ll get a quote for that as well).  If you live in the Greater Seattle Area, you are more than welcome to schedule a meet and pick-up.  I don_T_E_M_P_T_A_G_#039;t mind driving to a neutral location.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Mar 2016 08:24:37 +0000</listdate>
+    <saledate>Thu, 09 Jun 2016 16:08:05 +0000</saledate>
+    <price currency='EUR'>185</price>
+    <condition>new</condition>
+    <notes>Vorbestellung:
+BARBARIAN Pledge - Grundspiel inklusive ALLER Strechgoals
+------------------------------------------------------------------------
+Pre Order of the CONAN - BARBARIAN Pledge inclusive of all contens of the KS campaign
+Other countries - please feel free to conact me for exact prices.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Mar 2016 03:06:49 +0000</listdate>
+    <saledate>Sat, 24 Sep 2016 16:20:33 +0000</saledate>
+    <price currency='USD'>249</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER*** KS Fulfillment is (tentatively) scheduled for Q4, 2016.
+This listing is for the _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; pledge level from the Kickstarter Campaign.  It includes all stretch goals.
+Add-ons are NOT included.  However, I ordered all of the KS Exclusive Add-ons separately.  Please contact me for details and prices.
+A list of everything is below:
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts) 
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas 
+4 x Leaders (4 sculpts)
+5 x Archers 
+15 x Pict Hunters 
+15 x Pirates
+15 x Guards 
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt 
+1 x New hero, Olgerd Vladislav 
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt 
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius 
+1 x New hero, Savage Belit (Exclusive) 
+1 x New monster, swamp demon 
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls 
+1 x New leader, Akivasha 
+1 x Sarcophagus for Akivasha 
+1 x New hero (or leader!), Kerim Shah (Exclusive) 
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog 
+1 x New monster scorpion 
+5 x Torch stands
+1 x New hero (or leader!), Amboola 
+5 x Tentacles, alt sculpt 
+1 x Monster, the giant bone golem 
+1 x Conan the Wanderer (Exclusive) 
+1 x New hero, Pelias 
+1 x New monster, Forest Demon 
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles) 
+2 x Conan the King and his pet lion (Exclusive) 
+1 x New hero Kothian archer 
+1 x New punching bag camel 
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers 
+1 x New bad gal Gitara 
+1 x New bad guy Warlock
+I don_T_E_M_P_T_A_G_#039;t know the shipping weight for this item, but will likely be at least 20 pounds. Shipping will be determined once I have it in hand and can provide some different shipping options.
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Sep 2016 21:12:50 +0000</listdate>
+    <saledate>Thu, 06 Oct 2016 16:24:29 +0000</saledate>
+    <price currency='USD'>450</price>
+    <condition>new</condition>
+    <notes>Conan King Pledge, including all optional add-on purchases *except* the three small box expansions and the extra dice pack. This includes *all* KS exclusive material. 
+King Pledge
+10x Giant Wolves
+Vanir Valkyrie
+Campaign Book
+Sabertooth Tiger
+Baal Pteor
+5x Black Dragons
+Demon of the Earth
+Xavier Colette Box
+Brom Box
+Paolo Parente Box
+4x Kushite Witch Hunters
+Dragon
+10x Crossbowmen
+10x Black Ones
+Yogah of Yag
+Scenery Adventure Pack
+Door Pack
+25x Counter Bases</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Aug 2016 03:31:20 +0000</listdate>
+    <saledate>Sat, 08 Oct 2016 23:01:47 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>new</condition>
+    <notes>This purchase is for the King_T_E_M_P_T_A_G_#039;s Pledge of the Game. and the kickstarter exclusive Book Campaign/Artbook +15 cards.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2016 06:14:37 +0000</listdate>
+    <saledate>Tue, 11 Oct 2016 08:37:42 +0000</saledate>
+    <price currency='EUR'>250</price>
+    <condition>likenew</condition>
+    <notes>Just removed the shrink wrap and looked through the rulebook.
+Shipping is not included.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Mar 2016 03:06:49 +0000</listdate>
+    <saledate>Sat, 15 Oct 2016 15:27:16 +0000</saledate>
+    <price currency='USD'>249</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER*** KS Fulfillment is (tentatively) scheduled for Q4, 2016.
+This listing is for the _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; pledge level from the Kickstarter Campaign.  It includes all stretch goals.
+Add-ons are NOT included.  However, I ordered all of the KS Exclusive Add-ons separately.  Please contact me for details and prices.
+A list of everything is below:
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts) 
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas 
+4 x Leaders (4 sculpts)
+5 x Archers 
+15 x Pict Hunters 
+15 x Pirates
+15 x Guards 
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt 
+1 x New hero, Olgerd Vladislav 
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt 
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius 
+1 x New hero, Savage Belit (Exclusive) 
+1 x New monster, swamp demon 
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls 
+1 x New leader, Akivasha 
+1 x Sarcophagus for Akivasha 
+1 x New hero (or leader!), Kerim Shah (Exclusive) 
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog 
+1 x New monster scorpion 
+5 x Torch stands
+1 x New hero (or leader!), Amboola 
+5 x Tentacles, alt sculpt 
+1 x Monster, the giant bone golem 
+1 x Conan the Wanderer (Exclusive) 
+1 x New hero, Pelias 
+1 x New monster, Forest Demon 
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles) 
+2 x Conan the King and his pet lion (Exclusive) 
+1 x New hero Kothian archer 
+1 x New punching bag camel 
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers 
+1 x New bad gal Gitara 
+1 x New bad guy Warlock
+I don_T_E_M_P_T_A_G_#039;t know the shipping weight for this item, but will likely be at least 20 pounds. Shipping will be determined once I have it in hand and can provide some different shipping options.
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Oct 2016 13:39:03 +0000</listdate>
+    <saledate>Tue, 18 Oct 2016 11:52:05 +0000</saledate>
+    <price currency='GBP'>250</price>
+    <condition>new</condition>
+    <notes>King Pledge version from Kickstarter with over 200 miniatures, including all stretch goals from Kickstarter campaign.
+Game is still in shrinkwrap as it arrived.
+Please contact me for shipping costs.
+Actual shipping/insurance costs on top. Shipping from UK. 
+This item is bulky and heavy, please be aware this will impact upon shipping costs.
+Money transfer via IBAN/BIC and paypal _T_E_M_P_T_A_G_quot;payment to a friend_T_E_M_P_T_A_G_quot; do not cause any fee.
+Private sale without warranty.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2016 07:19:03 +0000</listdate>
+    <saledate>Sun, 23 Oct 2016 15:40:43 +0000</saledate>
+    <price currency='EUR'>350</price>
+    <condition>new</condition>
+    <notes>Kickstarter King Pledge 
++ All Stretch Goals 
++ Exclusive King Content
++ All KS EXCLUSIVE ADD-ONS:
+10 Giant Wolves
+1 Vanir Valkyrie
+A Book of Campaign/Artbook (will be delivered with Wave 2 around April/May. I_T_E_M_P_T_A_G_#039;ll send it to you with no extra shipping costs for you, immediately I_T_E_M_P_T_A_G_#039;ve received it)
+1 Sabretooth-tiger
+1 Leader: Bael Pteor
+5 Black Dragons
+1 Demon of the Earth
+All Components are still in shrinkwrap.
+The weight of the package is around 7kg.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Oct 2016 17:15:42 +0000</listdate>
+    <saledate>Tue, 25 Oct 2016 05:38:47 +0000</saledate>
+    <price currency='EUR'>200</price>
+    <condition>new</condition>
+    <notes>Conan King Pledge</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Oct 2016 20:03:00 +0000</listdate>
+    <saledate>Sun, 30 Oct 2016 22:29:52 +0000</saledate>
+    <price currency='USD'>235</price>
+    <condition>new</condition>
+    <notes>*Not a pre-order - this item is in hand! 
+New in shrink. King_T_E_M_P_T_A_G_#039;s Pledge Kickstarter Edition (includes all stretch goals).
+Buyer responsible for shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Oct 2016 08:57:32 +0000</listdate>
+    <saledate>Mon, 31 Oct 2016 13:18:43 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes>This is a sales post for some of the extras from the Kickstarter campaign. I have one of each and will update this post as they_T_E_M_P_T_A_G_#039;re sold.
+The price is for one of the following so please let me know what you are buying. 
+I prefer bank transfers but PayPal or cash is okay too.
+I will ship abroad but do please write me first if you live outside of Europe.
+Xavier Collette guest box: king Conan and Belit.
+Brom guest box: Conan and Belit. 
+4 Kushite Witch-hunters.
+10 crossbowmen.
+Yogah of Yag!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Oct 2016 08:57:32 +0000</listdate>
+    <saledate>Mon, 31 Oct 2016 13:20:25 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes>This is a sales post for some of the extras from the Kickstarter campaign. I have one of each and will update this post as they_T_E_M_P_T_A_G_#039;re sold.
+The price is for one of the following so please let me know what you are buying. 
+I prefer bank transfers but PayPal or cash is okay too.
+I will ship abroad but do please write me first if you live outside of Europe.
+Xavier Collette guest box: king Conan and Belit.
+Brom guest box: Conan and Belit. 
+4 Kushite Witch-hunters.
+10 crossbowmen.
+Yogah of Yag!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Oct 2016 22:11:42 +0000</listdate>
+    <saledate>Tue, 01 Nov 2016 21:26:56 +0000</saledate>
+    <price currency='EUR'>329</price>
+    <condition>new</condition>
+    <notes>Conan Kickstarter King Pledge.
++ Kickstarter Exclusive Campaign/Art Book (with 19 scenarios) and 15 new equipment cards.
+~ 218 sculptures ~
+(32 scenery sculpts and 186 miniature sculpts)
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts)
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas
+4 x Leaders (4 sculpts)
+5 x Archers
+15 x Pict Hunters
+15 x Pirates
+15 x Guards
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt
+1 x New hero, Olgerd Vladislav
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius
+1 x New hero, Savage Belit (Exclusive)
+1 x New monster, swamp demon
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls
+1 x New leader, Akivasha
+1 x Sarcophagus for Akivasha
+1 x New hero (or leader!), Kerim Shah (Exclusive)
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog
+1 x New monster scorpion
+5 x Torch stands
+1 x New hero (or leader!), Amboola
+5 x Tentacles, alt sculpt
+1 x Monster, the giant bone golem
+1 x Conan the Wanderer (Exclusive)
+1 x New hero, Pelias
+1 x New monster, Forest Demon
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles)
+2 x Conan the King and his pet lion (Exclusive)
+1 x New hero Kothian archer
+1 x New punching bag camel
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers
+1 x New bad gal Gitara
+1 x New bad guy Warlock 
+Postage to be determined depending on destination. Delivery either as a single parcel after Monolith ships Wave 2 (with the Campaign book) or - slightly more expensive - seperate.
+Preferred mode of payment: bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Oct 2016 00:18:57 +0000</listdate>
+    <saledate>Wed, 02 Nov 2016 20:11:10 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>new</condition>
+    <notes>King_T_E_M_P_T_A_G_#039;s Pledge with all stretch goals. In hand, unopened, and ready to ship. Two boxes will be shipped together. Shipping based strictly on cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Mar 2016 03:06:49 +0000</listdate>
+    <saledate>Fri, 04 Nov 2016 02:53:35 +0000</saledate>
+    <price currency='USD'>249</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER*** KS Fulfillment is (tentatively) scheduled for Q4, 2016.
+This listing is for the _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; pledge level from the Kickstarter Campaign.  It includes all stretch goals.
+Add-ons are NOT included.  However, I ordered all of the KS Exclusive Add-ons separately.  Please contact me for details and prices.
+A list of everything is below:
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts) 
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas 
+4 x Leaders (4 sculpts)
+5 x Archers 
+15 x Pict Hunters 
+15 x Pirates
+15 x Guards 
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt 
+1 x New hero, Olgerd Vladislav 
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt 
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius 
+1 x New hero, Savage Belit (Exclusive) 
+1 x New monster, swamp demon 
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls 
+1 x New leader, Akivasha 
+1 x Sarcophagus for Akivasha 
+1 x New hero (or leader!), Kerim Shah (Exclusive) 
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog 
+1 x New monster scorpion 
+5 x Torch stands
+1 x New hero (or leader!), Amboola 
+5 x Tentacles, alt sculpt 
+1 x Monster, the giant bone golem 
+1 x Conan the Wanderer (Exclusive) 
+1 x New hero, Pelias 
+1 x New monster, Forest Demon 
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles) 
+2 x Conan the King and his pet lion (Exclusive) 
+1 x New hero Kothian archer 
+1 x New punching bag camel 
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers 
+1 x New bad gal Gitara 
+1 x New bad guy Warlock
+I don_T_E_M_P_T_A_G_#039;t know the shipping weight for this item, but will likely be at least 20 pounds. Shipping will be determined once I have it in hand and can provide some different shipping options.
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2016 03:44:40 +0000</listdate>
+    <saledate>Fri, 04 Nov 2016 07:52:10 +0000</saledate>
+    <price currency='USD'>375</price>
+    <condition>new</condition>
+    <notes>New in shrink.  Kickstarter King pledge level including the KS exclusive stretch goal box. 
+This is nearly 20 lbs of gaming goodness, packed into two immense boxes: one for the base game and one for all the KickSttarter extras. 
+That_T_E_M_P_T_A_G_#039;s 221 miniatures, 21 dice, 3 double- sided game boards, and hundreds of tokens, cards, and tiles. This is immense! 
+Happy to ship internationally, just realize this is a heavy game. I_T_E_M_P_T_A_G_#039;ll work with you on shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Oct 2016 10:00:03 +0000</listdate>
+    <saledate>Fri, 04 Nov 2016 21:25:22 +0000</saledate>
+    <price currency='EUR'>82.95</price>
+    <condition>new</condition>
+    <notes>Retail Edition. Preorder. Expected to ship around en november.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Nov 2016 09:51:21 +0000</listdate>
+    <saledate>Fri, 04 Nov 2016 22:53:19 +0000</saledate>
+    <price currency='EUR'>240</price>
+    <condition>new</condition>
+    <notes>Full King Pledge with all Stretch Goals. Boxes new and in shrink.
+Shipping within Germany is 7.50 Euro.
+Please ask for shipping rates outside of Germany.
+Payment via bank transfer, Paypal friends _T_E_M_P_T_A_G_amp; family or on pickup.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Nov 2016 15:56:31 +0000</listdate>
+    <saledate>Mon, 07 Nov 2016 23:42:57 +0000</saledate>
+    <price currency='USD'>220</price>
+    <condition>likenew</condition>
+    <notes>Kings Pledge, plus Black Dragons, Sabertooth Tiger, and Giant Wolves (all KS exclusive I think). Also comes with the campaign book when it is later delivered.
+I put like new because I opened the boxes to see what was all contained. Haven_T_E_M_P_T_A_G_#039;t even played the game. Will ship in the two boxes with all packing materials. (add ons contained in box).
+I would imagine shipping in the US will be around $25.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Nov 2016 18:11:12 +0000</listdate>
+    <saledate>Tue, 08 Nov 2016 22:44:31 +0000</saledate>
+    <price currency='EUR'>215</price>
+    <condition>new</condition>
+    <notes>King Pledge New in Shrink / Neu in Folie
+Bank transfer 
+paypal +€5</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Nov 2016 15:12:39 +0000</listdate>
+    <saledate>Wed, 09 Nov 2016 13:04:13 +0000</saledate>
+    <price currency='EUR'>84.95</price>
+    <condition>new</condition>
+    <notes>Retail Edition. Preorder. Expected to ship around end november. Reserve your copy now.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Nov 2016 06:25:25 +0000</listdate>
+    <saledate>Thu, 10 Nov 2016 11:10:34 +0000</saledate>
+    <price currency='EUR'>222</price>
+    <condition>new</condition>
+    <notes>King Pledge, still in shrink.  221 miniatures in 2 big boxes. 
+Bank transfer or paypal +€5</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Nov 2016 16:19:20 +0000</listdate>
+    <saledate>Fri, 11 Nov 2016 13:05:46 +0000</saledate>
+    <price currency='EUR'>150</price>
+    <condition>likenew</condition>
+    <notes>KING PLEDGE
+Base box : Like New (1 play)
+Bonus box : New</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Nov 2016 19:15:32 +0000</listdate>
+    <saledate>Fri, 11 Nov 2016 17:07:57 +0000</saledate>
+    <price currency='USD'>275</price>
+    <condition>new</condition>
+    <notes>NIS
+Rewards from Kickstarer including:
+Conan: _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; Pledge Box (English)
+Conan: _T_E_M_P_T_A_G_quot;Stretch Goal_T_E_M_P_T_A_G_quot; Box
+Conan: _T_E_M_P_T_A_G_quot;Vanir Valkyrie_T_E_M_P_T_A_G_quot; Unit Box (1 Pc)
+Conan: _T_E_M_P_T_A_G_quot;Baal Pteor_T_E_M_P_T_A_G_quot; Unit Box (1 Pc)
+Conan: _T_E_M_P_T_A_G_quot;Black Dragons_T_E_M_P_T_A_G_quot; Unit Box (5 Pcs)
+Conan: _T_E_M_P_T_A_G_quot;Sabretooth Tiger_T_E_M_P_T_A_G_quot; Unit Box (1 Pc)
+Conan: _T_E_M_P_T_A_G_quot;Demon of the Earth_T_E_M_P_T_A_G_quot; Unit Box (1 Pc)
+Conan: _T_E_M_P_T_A_G_quot;Giant Wolves_T_E_M_P_T_A_G_quot; Unit Box (10 Pcs)
+Buyer pays all shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Nov 2016 03:17:09 +0000</listdate>
+    <saledate>Fri, 11 Nov 2016 17:19:40 +0000</saledate>
+    <price currency='USD'>329</price>
+    <condition>new</condition>
+    <notes>Includes all of the following (all brand new in shrink):
+Conan: _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; Pledge Box (English) 
+Conan: _T_E_M_P_T_A_G_quot;Giant Wolves_T_E_M_P_T_A_G_quot; Unit Box
+Conan: _T_E_M_P_T_A_G_quot;Baal Pteor_T_E_M_P_T_A_G_quot; Unit Box
+Conan: _T_E_M_P_T_A_G_quot;Demon of the Earth_T_E_M_P_T_A_G_quot; Unit Box 
+Conan: _T_E_M_P_T_A_G_quot;Black Dragons_T_E_M_P_T_A_G_quot; Unit Box
+Conan: _T_E_M_P_T_A_G_quot;Sabretooth Tiger_T_E_M_P_T_A_G_quot; Unit Box
+Conan: _T_E_M_P_T_A_G_quot;Doors_T_E_M_P_T_A_G_quot; Scenery Pack
+Conan: _T_E_M_P_T_A_G_quot;Vanir Valkyrie_T_E_M_P_T_A_G_quot; Unit Box
+Conan: _T_E_M_P_T_A_G_quot;Stretch Goal_T_E_M_P_T_A_G_quot; Box
+Includes free shipping to the lower 48. I_T_E_M_P_T_A_G_#039;ll pay the first $20.00 of shipping to Alaska/Hawaii.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Nov 2016 16:34:44 +0000</listdate>
+    <saledate>Fri, 11 Nov 2016 21:34:20 +0000</saledate>
+    <price currency='USD'>450</price>
+    <condition>new</condition>
+    <notes>***KS King Pledge** includes:
+Base game box
+King pledge box
+and all KS-exclusive packs:
+10 Giant Wolves  
+1 Vanir Valkyrie  
+1 Sabretooth-tiger  
+5 Black Dragons 
+1 Demon of the Earth  
+1 Baal-Pteor
+1 Book Campaign/Artbook +15 cards (will be shipped when they arrive in 2017)  
+Free shipping for Continental USA. (See below for international shipping). Combined shipping available. Also available for pick up in NYC.
+I accept Paypal, Venmo, Google wallet and Chase Quickpay.
+Price is negotiable if you buy multiple games. 
+I will consider international shipping if USPS can ship to the country. The rate would be based on the flat rate packages on USPS website (plus $3 to buy insurance if the value is bigger than $50). Shipping to China is $9/lb.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Nov 2016 21:07:06 +0000</listdate>
+    <saledate>Sat, 12 Nov 2016 07:57:48 +0000</saledate>
+    <price currency='USD'>374.95</price>
+    <condition>new</condition>
+    <notes>This is for my incoming English King-level pledge of this game. It will be shipped to you as soon as it is received. It will be brand new and will include the following:
+Conan: _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; Pledge Box (English) 1
+CON09FREN Conan: _T_E_M_P_T_A_G_quot;Black Ones_T_E_M_P_T_A_G_quot; Unit Box (10 Pcs) 1
+CON08FREN Conan: _T_E_M_P_T_A_G_quot;Kushite Witch-Hunters_T_E_M_P_T_A_G_quot; Unit Box (4 Pcs) 1
+CON14FREN Conan: _T_E_M_P_T_A_G_quot;Giant Wolves_T_E_M_P_T_A_G_quot; Unit Box (10 Pcs) - KS EXCLUSIVE
+CON06FREN Conan: _T_E_M_P_T_A_G_quot;Crossbowmen_T_E_M_P_T_A_G_quot; Unit Box (10 Pcs) 1
+CON20FREN Conan: _T_E_M_P_T_A_G_quot;Yogah of Yag_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) 1
+CON10FREN Conan: _T_E_M_P_T_A_G_quot;Baal Pteor_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) - KS EXCLUSIVE
+CON15FREN Conan: _T_E_M_P_T_A_G_quot;Demon of the Earth_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) - KS EXCLUSIVE
+CON18FREN Conan: _T_E_M_P_T_A_G_quot;Dice_T_E_M_P_T_A_G_quot; Add-on Pack (6 Pcs) 1
+CON11FREN Conan: _T_E_M_P_T_A_G_quot;Black Dragons_T_E_M_P_T_A_G_quot; Unit Box (5 Pcs) - KS EXCLUSIVE
+CON13FREN Conan: _T_E_M_P_T_A_G_quot;Sabretooth Tiger_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) - KS EXCLUSIVE
+CON07FREN Conan: _T_E_M_P_T_A_G_quot;Vanir Valkyrie_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) - - KS EXCLUSIVE
+CON03FREN Conan: _T_E_M_P_T_A_G_quot;Stretch Goal_T_E_M_P_T_A_G_quot; Box
+Domestic USA shipping is $25 and I always combine shipping +$1. International shipping is NOT available on this one.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Aug 2015 20:14:55 +0000</listdate>
+    <saledate>Sat, 12 Nov 2016 13:39:23 +0000</saledate>
+    <price currency='USD'>500</price>
+    <condition>new</condition>
+    <notes>Kickstarter version.  Everything is in hand except the campaign book.
+King pledge level with stretch goals and all Kickstarter Exclusive additional purchases:
+King Pledge + stretch goals
+10 Giant Wolves
+1 Vanir Valkyrie
+1 Book Campaign/Artbook (not in hand, will ship when I get it)
+1 Sabretooth-tiger
+1 Baal-Pteor
+5 Black Dragons
+1 Demon of the Earth</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Nov 2016 15:12:36 +0000</listdate>
+    <saledate>Sat, 12 Nov 2016 23:41:30 +0000</saledate>
+    <price currency='USD'>325</price>
+    <condition>new</condition>
+    <notes>This sale is for a new, unopened copy of the Kickstarter edition of Conan. It includes the Base game and King edition plus stretch goal add-ons and 6 Kickstarter exclusive add-ons. See the link below for more info.
+https://www.kickstarter.com/projects/806316071/conan?ref=nav_search
+Includes the following:
+Conan: _T_E_M_P_T_A_G_quot;Stretch Goal_T_E_M_P_T_A_G_quot; Box 
+Conan: _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; Pledge Box (English)
+Conan: _T_E_M_P_T_A_G_quot;Vanir Valkyrie_T_E_M_P_T_A_G_quot; Unit Box (1 Pc)
+Conan: _T_E_M_P_T_A_G_quot;Baal Pteor_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) 
+Conan: _T_E_M_P_T_A_G_quot;Black Dragons_T_E_M_P_T_A_G_quot; Unit Box (5 Pcs) 
+Conan: _T_E_M_P_T_A_G_quot;Sabretooth Tiger_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) 
+Conan: _T_E_M_P_T_A_G_quot;Demon of the Earth_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) 
+Conan: _T_E_M_P_T_A_G_quot;Giant Wolves_T_E_M_P_T_A_G_quot; Unit Box (10 Pcs) 
+The box is 20 lbs and large. Shipping from Knoxville, TN to Eastern US locations will be in the $22-$25 range and to the west coast is about $55-60.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Nov 2016 20:20:51 +0000</listdate>
+    <saledate>Sun, 13 Nov 2016 18:06:39 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>new</condition>
+    <notes>Barbarian pledge Kickstarter edition.  (includes all stretch goals and Base game)   New in shrink  shipping $20 in continental US.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Nov 2016 08:31:13 +0000</listdate>
+    <saledate>Sun, 13 Nov 2016 19:38:26 +0000</saledate>
+    <price currency='EUR'>249</price>
+    <condition>new</condition>
+    <notes>Conan King Pledge with the Stretch Goals box - English version
+New, still wrapped.
+For shipping costs, please contact me. (geekmail).
+Payment through paypal (Family _T_E_M_P_T_A_G_amp; friends) or Bank transfer within the Euro Union.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Oct 2016 21:09:09 +0000</listdate>
+    <saledate>Mon, 14 Nov 2016 02:52:47 +0000</saledate>
+    <price currency='USD'>275</price>
+    <condition>new</condition>
+    <notes>KING PLEDGE
+The King level pledge is a deluxe box that was only available during the kickstarter campaign. 
+Includes ALL the stretch goals that were unlocked during the campaign.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Nov 2016 13:26:20 +0000</listdate>
+    <saledate>Mon, 14 Nov 2016 08:31:25 +0000</saledate>
+    <price currency='GBP'>280</price>
+    <condition>new</condition>
+    <notes>***I am putting this back up for sale as I haven_T_E_M_P_T_A_G_#039;t heard anything or received payment from the previous buyer.***
+ALSO INCLUDES:
+King Pledge - English
+10 Giant Wolves KICKSTARTER EXCLUSIVE
+1 Vanir Valkyrie KICKSTARTER EXCLUSIVE
+1 Sabretooth-tiger KICKSTARTER EXCLUSIVE
+1 Baal-Pteor  KICKSTARTER EXCLUSIVE
+5 Black Dragons KICKSTARTER EXCLUSIVE
+1 Demon of the Earth KICKSTARTER EXCLUSIVE
+1 Book Campaign/Artbook +15 cards - English (WILL SHIP WHEN ITEM IS RECEIVED, APPROX SPRING 2017) KICKSTARTER EXCLUSIVE
+4 Kushite Witch-Hunters 
+1 Yogah of Yag
+PLEASE NOTE: I HAVE OPEN THE TWO LARGE BOXES TO CHECK CONTENTS ONLY. THE EIGHT SMALL BOXES ARE STILL IN THEIR SHRINK WRAP
+PRICE DOES NOT INCLUDE POSTAGE: ITEM WEIGHS 12KG AND SIZE IS 50X40X40CM. SO YOU CAN WORK THIS OUT YOURSELF. I WILL ADD PARCEL COMPENSATION TO THE VALUE OF £300 ON TOP OF POSTAGE.
+UK postage will be £40.00 approx
+Europe post probably more!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Oct 2016 20:41:53 +0000</listdate>
+    <saledate>Mon, 14 Nov 2016 15:32:04 +0000</saledate>
+    <price currency='GBP'>200</price>
+    <condition>new</condition>
+    <notes>Conan King Pledge with all associated stretch goals - Unopened
+UK postage is £10 tracked</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Nov 2016 22:43:36 +0000</listdate>
+    <saledate>Mon, 14 Nov 2016 22:50:07 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>new</condition>
+    <notes>Conan Kickstarter - King Pledge (includes all unlocked stretch goals). This does not included any add-on content. Everything is still in shrink-wrap.
+The $250 includes the shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Mar 2016 03:06:49 +0000</listdate>
+    <saledate>Tue, 15 Nov 2016 00:34:36 +0000</saledate>
+    <price currency='USD'>249</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER*** KS Fulfillment is (tentatively) scheduled for Q4, 2016.
+This listing is for the _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; pledge level from the Kickstarter Campaign.  It includes all stretch goals.
+Add-ons are NOT included.  However, I ordered all of the KS Exclusive Add-ons separately.  Please contact me for details and prices.
+A list of everything is below:
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts) 
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas 
+4 x Leaders (4 sculpts)
+5 x Archers 
+15 x Pict Hunters 
+15 x Pirates
+15 x Guards 
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt 
+1 x New hero, Olgerd Vladislav 
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt 
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius 
+1 x New hero, Savage Belit (Exclusive) 
+1 x New monster, swamp demon 
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls 
+1 x New leader, Akivasha 
+1 x Sarcophagus for Akivasha 
+1 x New hero (or leader!), Kerim Shah (Exclusive) 
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog 
+1 x New monster scorpion 
+5 x Torch stands
+1 x New hero (or leader!), Amboola 
+5 x Tentacles, alt sculpt 
+1 x Monster, the giant bone golem 
+1 x Conan the Wanderer (Exclusive) 
+1 x New hero, Pelias 
+1 x New monster, Forest Demon 
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles) 
+2 x Conan the King and his pet lion (Exclusive) 
+1 x New hero Kothian archer 
+1 x New punching bag camel 
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers 
+1 x New bad gal Gitara 
+1 x New bad guy Warlock
+I don_T_E_M_P_T_A_G_#039;t know the shipping weight for this item, but will likely be at least 20 pounds. Shipping will be determined once I have it in hand and can provide some different shipping options.
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Mar 2016 03:06:49 +0000</listdate>
+    <saledate>Tue, 15 Nov 2016 06:38:54 +0000</saledate>
+    <price currency='USD'>249</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER*** KS Fulfillment is (tentatively) scheduled for Q4, 2016.
+This listing is for the _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; pledge level from the Kickstarter Campaign.  It includes all stretch goals.
+Add-ons are NOT included.  However, I ordered all of the KS Exclusive Add-ons separately.  Please contact me for details and prices.
+A list of everything is below:
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts) 
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas 
+4 x Leaders (4 sculpts)
+5 x Archers 
+15 x Pict Hunters 
+15 x Pirates
+15 x Guards 
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt 
+1 x New hero, Olgerd Vladislav 
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt 
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius 
+1 x New hero, Savage Belit (Exclusive) 
+1 x New monster, swamp demon 
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls 
+1 x New leader, Akivasha 
+1 x Sarcophagus for Akivasha 
+1 x New hero (or leader!), Kerim Shah (Exclusive) 
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog 
+1 x New monster scorpion 
+5 x Torch stands
+1 x New hero (or leader!), Amboola 
+5 x Tentacles, alt sculpt 
+1 x Monster, the giant bone golem 
+1 x Conan the Wanderer (Exclusive) 
+1 x New hero, Pelias 
+1 x New monster, Forest Demon 
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles) 
+2 x Conan the King and his pet lion (Exclusive) 
+1 x New hero Kothian archer 
+1 x New punching bag camel 
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers 
+1 x New bad gal Gitara 
+1 x New bad guy Warlock
+I don_T_E_M_P_T_A_G_#039;t know the shipping weight for this item, but will likely be at least 20 pounds. Shipping will be determined once I have it in hand and can provide some different shipping options.
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Nov 2016 01:45:19 +0000</listdate>
+    <saledate>Tue, 15 Nov 2016 13:42:54 +0000</saledate>
+    <price currency='USD'>295</price>
+    <condition>new</condition>
+    <notes>Brand New and in Shrink. KICKSTARTER edition with all stretch goals.
+Kings pledge level. 
+This weighs right around 18 lbs. 
+2 full big boxes of content. A ridiculous amount of content.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Nov 2016 08:34:25 +0000</listdate>
+    <saledate>Tue, 15 Nov 2016 17:04:51 +0000</saledate>
+    <price currency='EUR'>349</price>
+    <condition>new</condition>
+    <notes>King Pledge + all Kickstarter exclusives, includes all of the following (all brand new in shrink):
+Conan: _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; Pledge Box (English) + all stretch goals
+Conan: _T_E_M_P_T_A_G_quot;Giant Wolves_T_E_M_P_T_A_G_quot; Unit Box
+Conan: _T_E_M_P_T_A_G_quot;Baal Pteor_T_E_M_P_T_A_G_quot; Unit Box
+Conan: _T_E_M_P_T_A_G_quot;Demon of the Earth_T_E_M_P_T_A_G_quot; Unit Box 
+Conan: _T_E_M_P_T_A_G_quot;Black Dragons_T_E_M_P_T_A_G_quot; Unit Box
+Conan: _T_E_M_P_T_A_G_quot;Sabretooth Tiger_T_E_M_P_T_A_G_quot; Unit Box
+Conan: _T_E_M_P_T_A_G_quot;Campaign/Artbook_T_E_M_P_T_A_G_quot; (will come with the second wave!)
+Conan: _T_E_M_P_T_A_G_quot;Vanir Valkyrie_T_E_M_P_T_A_G_quot; Unit Box
+This is  a large box weighing almost 20 lbs.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Nov 2016 20:07:02 +0000</listdate>
+    <saledate>Wed, 16 Nov 2016 00:19:11 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Not the complete game, I_T_E_M_P_T_A_G_#039;m only selling the Kickstarter exclusive Demon of the Earth, new in box.
+Weight 200g, see below for shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Nov 2016 02:55:11 +0000</listdate>
+    <saledate>Wed, 16 Nov 2016 16:41:59 +0000</saledate>
+    <price currency='USD'>298</price>
+    <condition>new</condition>
+    <notes>NIS King pledge.
+Includes the following:
+Kings Pledge core box
+Huge Conan Rewards Box
+Xavier Collette Guest Box
+Paolo Parente Guest Box
+Demon of the Earth
+Dice Pack</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Nov 2016 17:38:38 +0000</listdate>
+    <saledate>Wed, 16 Nov 2016 22:37:20 +0000</saledate>
+    <price currency='EUR'>240</price>
+    <condition>new</condition>
+    <notes>KING PLEDGE LEVEL Kickstarter boxes. Yes, there are two fat, big boxes with stuff.
+221 miniatures total, incl. all the exclusive King content from the Kickstarter.
+Shipping within Germany aprox. 9€
+Shipping to most European countries aprox. 21€
+Global shipping aprox. 49€
+Please feel free to contact me for shipping costs to your country, because the items are large and heavy.
+Money transfer preferred, paypal possible with a small surcharge.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Nov 2016 03:44:55 +0000</listdate>
+    <saledate>Sat, 19 Nov 2016 22:56:50 +0000</saledate>
+    <price currency='USD'>239</price>
+    <condition>new</condition>
+    <notes>King Pledge NIS
+Two corners of the Kickstarter bonus box have been squished. If I haven_T_E_M_P_T_A_G_#039;t uploaded pics yet, please PM me and I_T_E_M_P_T_A_G_#039;ll send them to you.
+Expect shipping to be between $16 and $25, depending on where you live.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2016 09:06:42 +0000</listdate>
+    <saledate>Sun, 20 Nov 2016 08:25:15 +0000</saledate>
+    <price currency='EUR'>400</price>
+    <condition>new</condition>
+    <notes>Conan Kickstarter King Pledge + one of each Kickstarter exclusive:
+1x 10 Giant Wolves
+1x Vanir Valkyrie
+1x Sabretooth-tiger
+1x Baal-Pretor
+1x 5 Black Dragons
+1x Demon of the Earth
+1x Campaign Book + Equipment Cards (Spring 2017)
+All items in shrink.
+Everything but campaign book ships immediately. 
+The campaign book is estimated to arrive in spring 2017.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Nov 2016 00:32:17 +0000</listdate>
+    <saledate>Mon, 21 Nov 2016 12:23:23 +0000</saledate>
+    <price currency='GBP'>200</price>
+    <condition>new</condition>
+    <notes>Both Kings pledge boxes still sealed plus 3 extra boxes of miniatures; Black Dragons, Giant Wolves, Doors Pack.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Nov 2016 09:49:38 +0000</listdate>
+    <saledate>Mon, 21 Nov 2016 13:15:25 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>I am selling all of the Kickstarter exclusive add ons from the Kickstarter campaign. All of them new and in shrink wrap. 
+Each sell post is for one item so please specify what you are buying. This list will be updated as things are purchased.
+The following items are still available:
+- Giant Wolfs(three tiles and ten figures)
+- Demon of the Earth(two tiles and one figure)
+- Vanir Valkyrie(one Hero sheet, two tiles and one plastic figure.)
+- Sabertooth Tiger(2 tiles one and plastic figure)
+- Baal-pteor(one figure and three tiles)
+- Black Dragons(five figures and one tile) 
+I prefer bank transfers but PayPal or cash is okay as well. 
+I will ship abroad but do please write me first if you live outside of Europe</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Nov 2016 10:27:53 +0000</listdate>
+    <saledate>Mon, 21 Nov 2016 13:15:25 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>I am selling the _T_E_M_P_T_A_G_quot;Dragon_T_E_M_P_T_A_G_quot; add-on which I acquired during the conan kickstarter campaign. 
+It is new and still in shrink wrap. 
+The box contains one figure and two tiles.
+I prefer bank transfers but PayPal or cash is okay as well. 
+I will ship abroad but do please write me first if you live outside of Europe</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Nov 2016 08:56:47 +0000</listdate>
+    <saledate>Mon, 21 Nov 2016 13:15:25 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>This is a sales post for some of the extras from the Kickstarter campaign. I have one of each and will update this post as they_T_E_M_P_T_A_G_#039;re sold.
+All are new and in shrink. 
+The price is for one of the following so please let me know what you are buying. .
+- Xavier Collette guest box: king Conan and Belit (two Hero sheets and two figures).
+- 10 crossbowmen(ten figures and three tiles).
+- Yogah of Yag!(one Hero sheet and one figure).
+- Adventure Pack(five plastic chests, five plastic barrels, one plastic sarcophagus, two plastic piles of sculls and one plastic beast hide).
+-Door Pack (15 plastic doors).
+I prefer bank transfers but PayPal or cash is okay too.
+I will ship abroad but do please write me first if you live outside of Europe</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Oct 2016 11:36:06 +0000</listdate>
+    <saledate>Tue, 22 Nov 2016 17:52:21 +0000</saledate>
+    <price currency='EUR'>210</price>
+    <condition>new</condition>
+    <notes>Conan Kickstarter King Pledge
+I can send the package anywhere... but it_T_E_M_P_T_A_G_#039;s quiete heavy. Two big boxes full !
+~ 218 sculptures  ( 32 scenery sculpts / 186 miniature sculpts)
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts)
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas
+4 x Leaders (4 sculpts)
+5 x Archers
+15 x Pict Hunters
+15 x Pirates
+15 x Guards
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+Nice Stuff and never open.
+I can deliver myself in Brussels and around the city... Anad Kiala delivery in Belgium / France / Netherlands 
+Bank Transfer is for me the coolest way to deal but i do accept also Paypal !</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Nov 2016 20:24:10 +0000</listdate>
+    <saledate>Thu, 24 Nov 2016 01:43:25 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>new</condition>
+    <notes>This is the Kickstater Exclusive at King Pledge Level with all the stretch goals.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Nov 2016 15:13:02 +0000</listdate>
+    <saledate>Sat, 26 Nov 2016 21:58:16 +0000</saledate>
+    <price currency='EUR'>299</price>
+    <condition>new</condition>
+    <notes>English King-level pledge of the Kickstarter edition of Conan ( https://www.kickstarter.com/projects/806316071/conan ).
+Brand new, shrinkwrapped, undamaged.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jul 2016 01:26:54 +0000</listdate>
+    <saledate>Sun, 27 Nov 2016 14:42:38 +0000</saledate>
+    <price currency='USD'>700</price>
+    <condition>new</condition>
+    <notes>RESERVED FOR USER M**T***K
+Wave 2 will be shipped to you free of charge next year.
+Here is all you will receive (and it_T_E_M_P_T_A_G_#039;s a ton). 
+1 King Pledge with all stretch goals- English (reward)
+PLUS, ALL THE FOLLOWING ADD-ONS:
+1 Kithai Expansion - English--wave 2
+1 Nordheim Expansion - English-- wave 2
+1 Stygian Expansion - English-wave 2
+1 10 Giant Wolves 
+1 1 Vanir Valkyrie 
+1 1 Book Campaign/Artbook +15 cards - English- wave 2
+1 1 Sabretooth-tiger 
+1 1 Baal-Pteor 
+1 1 Demon of the Earth 
+1 Xavier Collette Box 
+1 Brom Box 
+1 Paolo Parente Box 
+1 4 Kushite Witch-Hunters 
+1 1 Dragon 
+1 10 Crossbowmen 
+1 10 Black Ones 
+1 1 Yogah of Yag 
+1 Adventure pack 
+1 Doors pack 
+1 25 Counterbases 
+1 6 Dice 
+1 5 Black Dragons 
+Yes,  I bought one of each and every add-on.  No one else is offering all of it on the marketplace. A lot of the addons  are exclusives. The increase in price is due to this exclusivity.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Nov 2016 08:56:47 +0000</listdate>
+    <saledate>Sun, 27 Nov 2016 23:06:21 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>This is a sales post for some of the extras from the Kickstarter campaign. I have one of each and will update this post as they_T_E_M_P_T_A_G_#039;re sold.
+All are new and in shrink. 
+The price is for one of the following so please let me know what you are buying. .
+- Xavier Collette guest box: king Conan and Belit (two Hero sheets and two figures).
+- Adventure Pack(five plastic chests, five plastic barrels, one plastic sarcophagus, two plastic piles of sculls and one plastic beast hide).
+-Door Pack (15 plastic doors).
+I prefer bank transfers but PayPal or cash is okay too.
+I will ship abroad but do please write me first if you live outside of Europe</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Nov 2016 11:40:46 +0000</listdate>
+    <saledate>Mon, 28 Nov 2016 11:53:55 +0000</saledate>
+    <price currency='EUR'>180</price>
+    <condition>new</condition>
+    <notes>Pack with 9 Addons of Conan the Board Game ( https://www.kickstarter.com/projects/806316071/conan ).
+Brand new, shrinkwrapped, undamaged.
+Includes the following:
+- CON06FREN Conan: _T_E_M_P_T_A_G_quot;Crossbowmen_T_E_M_P_T_A_G_quot; Unit Box (10 Pcs) x1
+- CON08FREN Conan: _T_E_M_P_T_A_G_quot;Kushite Witch-Hunters_T_E_M_P_T_A_G_quot; Unit Box (4 Pcs) x1
+- CON20FREN Conan: _T_E_M_P_T_A_G_quot;Yogah of Yag_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) x1
+- CON07FREN Conan: _T_E_M_P_T_A_G_quot;Vanir Valkyrie_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) - KS EXCLUSIVE!!! x1
+- CON10FREN Conan: _T_E_M_P_T_A_G_quot;Baal Pteor_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) - KS EXCLUSIVE!!! x1
+- CON11FREN Conan: _T_E_M_P_T_A_G_quot;Black Dragons_T_E_M_P_T_A_G_quot; Unit Box (5 Pcs) - KS EXCLUSIVE!!! x1
+- CON13FREN Conan: _T_E_M_P_T_A_G_quot;Sabretooth Tiger_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) - KS EXCLUSIVE!!! x1
+- CON14FREN Conan: _T_E_M_P_T_A_G_quot;Giant Wolves_T_E_M_P_T_A_G_quot; Unit Box (10 Pcs) - KS EXCLUSIVE!!! x1
+- CON15FREN Conan: _T_E_M_P_T_A_G_quot;Demon of the Earth_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) - KS EXCLUSIVE!!! x1
+SHIPPING:
+Item ships from Madrid, Spain.
+40€ to most EU countries.
+20€ to most of Spain.
+PLEASE ASK FOR EXACT SHIPPING COSTS!!!
+PAYMENT:
+Private sale - Sale is final - No returns allowed.
+Bank transfer, only.
+Please contact me if you have any question (geekmail).
+Thanks for reading</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Nov 2016 02:25:07 +0000</listdate>
+    <saledate>Wed, 30 Nov 2016 06:58:43 +0000</saledate>
+    <price currency='USD'>249</price>
+    <condition>new</condition>
+    <notes>***NOTE: THIS IS A PRE-ORDER*** KS Fulfillment is (tentatively) scheduled for Q4, 2016.
+This listing is for the _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; pledge level from the Kickstarter Campaign.  It includes all stretch goals.
+Add-ons are NOT included.  However, I ordered all of the KS Exclusive Add-ons separately.  Please contact me for details and prices.
+A list of everything is below:
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts) 
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas 
+4 x Leaders (4 sculpts)
+5 x Archers 
+15 x Pict Hunters 
+15 x Pirates
+15 x Guards 
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt 
+1 x New hero, Olgerd Vladislav 
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt 
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius 
+1 x New hero, Savage Belit (Exclusive) 
+1 x New monster, swamp demon 
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls 
+1 x New leader, Akivasha 
+1 x Sarcophagus for Akivasha 
+1 x New hero (or leader!), Kerim Shah (Exclusive) 
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog 
+1 x New monster scorpion 
+5 x Torch stands
+1 x New hero (or leader!), Amboola 
+5 x Tentacles, alt sculpt 
+1 x Monster, the giant bone golem 
+1 x Conan the Wanderer (Exclusive) 
+1 x New hero, Pelias 
+1 x New monster, Forest Demon 
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles) 
+2 x Conan the King and his pet lion (Exclusive) 
+1 x New hero Kothian archer 
+1 x New punching bag camel 
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers 
+1 x New bad gal Gitara 
+1 x New bad guy Warlock
+I don_T_E_M_P_T_A_G_#039;t know the shipping weight for this item, but will likely be at least 20 pounds. Shipping will be determined once I have it in hand and can provide some different shipping options.
+Please contact me if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Nov 2016 18:38:16 +0000</listdate>
+    <saledate>Thu, 01 Dec 2016 05:32:47 +0000</saledate>
+    <price currency='USD'>264</price>
+    <condition>new</condition>
+    <notes>Kickstarter King Edition - factory sealed.
+Includes the base game and the large King bonus exclusive content box.
+US Shipping is $17 - $33 depending on distance from the west coast.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Nov 2016 14:25:27 +0000</listdate>
+    <saledate>Fri, 02 Dec 2016 00:42:27 +0000</saledate>
+    <price currency='USD'>345</price>
+    <condition>new</condition>
+    <notes>Everything new in shrink except the core game box which I opened and examined.  Includes all of the KS exclusive items.
+Quan / Item
+1 King Pledge and all stretch goals (two huge boxes!!!), plus -
+1 1 Demon of the Earth (KS exclusive)
+1 5 Black Dragons (KS exclusive)
+1 1 Baal-Pteor (KS exclusive)
+1 1 Sabretooth-tiger (KS exclusive)
+1 10 Giant Wolves (KS exclusive)
+1 1 Vanir Valkyrie (KS exclusive)
+1 Brom Box (Conan _T_E_M_P_T_A_G_amp; Belit)
+1 1 Book Campaign/Artbook +15 cards (KS exclusive)  ****
+**** All items are received except the Campaign Book.  I will receive the book when the Second Wave is mailed.  Once received the book I will mail it to the buyer at no additional postage charge.  Expected in Q1 2017.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Dec 2016 19:54:23 +0000</listdate>
+    <saledate>Fri, 02 Dec 2016 12:14:53 +0000</saledate>
+    <price currency='GBP'>175</price>
+    <condition>new</condition>
+    <notes>Brand new, still in shrink, King Pledge edition of Conan, which includes the base game and the collector_T_E_M_P_T_A_G_#039;s box.
+The game is very heavy, so shipping won_T_E_M_P_T_A_G_#039;t be cheap - shipping cost will be added to the price and I plan to ship with insurance and signature required.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Nov 2016 14:18:33 +0000</listdate>
+    <saledate>Mon, 05 Dec 2016 15:00:43 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>likenew</condition>
+    <notes>This is for an opened but unplayed Conan game. English edition. Include all stretch goals and Ks exclusives. Buyer pay actual shipping. 
+Include:
+King Pledge
+10 Giant Wolves         
+1 Vanir Valkyrie         
+1 Sabretooth-tiger       
+1 Baal-Pteor   
+5 Black Dragons         
+1 Demon of the Earth</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Nov 2016 17:00:30 +0000</listdate>
+    <saledate>Thu, 08 Dec 2016 15:52:21 +0000</saledate>
+    <price currency='USD'>249.99</price>
+    <condition>new</condition>
+    <notes>NIS, in hand and ready to ship.  Conan King pledge from Kickstarter. Shipping likely between $15-$30 via FedEx.
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts)
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas
+4 x Leaders (4 sculpts)
+5 x Archers
+15 x Pict Hunters
+15 x Pirates
+15 x Guards
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt
+1 x New hero, Olgerd Vladislav
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius
+1 x New hero, Savage Belit (Exclusive)
+1 x New monster, swamp demon
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls
+1 x New leader, Akivasha
+1 x Sarcophagus for Akivasha
+1 x New hero (or leader!), Kerim Shah (Exclusive)
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog
+1 x New monster scorpion
+5 x Torch stands
+1 x New hero (or leader!), Amboola
+5 x Tentacles, alt sculpt
+1 x Monster, the giant bone golem
+1 x Conan the Wanderer (Exclusive)
+1 x New hero, Pelias
+1 x New monster, Forest Demon
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles)
+2 x Conan the King and his pet lion (Exclusive)
+1 x New hero Kothian archer
+1 x New punching bag camel
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers
+1 x New bad gal Gitara
+1 x New bad guy Warlock</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Dec 2016 10:50:55 +0000</listdate>
+    <saledate>Sun, 11 Dec 2016 10:10:12 +0000</saledate>
+    <price currency='USD'>264</price>
+    <condition>new</condition>
+    <notes>Kickstarter King Edition - factory sealed.
+Includes the base game and the large King bonus exclusive content box.
+US Shipping is $17 - $33 depending on distance from the west coast.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Dec 2016 16:43:52 +0000</listdate>
+    <saledate>Mon, 12 Dec 2016 13:20:01 +0000</saledate>
+    <price currency='EUR'>249</price>
+    <condition>verygood</condition>
+    <notes>Conan King Pledge + Brom Guest Box (English/French) + Adventure Box (English/French).
+The game is unused (everything still in punchboards etc.) - only unwrapped boxes to check contents. Unfortunately both game boxes have dents in one corner (happened during transport, see links to photos) but content is fine, because it_T_E_M_P_T_A_G_#039;s being protected by additional small cardboard inlays (can send additional photos from content if needed).
+http://www.flixed.de/wp-content/uploads/2016/12/IMG_0453.jpg
+http://www.flixed.de/wp-content/uploads/2016/12/IMG_0452.jpg
+Shipping within Germany EUR 7,99 (please ask for international shipping).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Dec 2016 15:39:04 +0000</listdate>
+    <saledate>Sat, 17 Dec 2016 01:19:45 +0000</saledate>
+    <price currency='USD'>275</price>
+    <condition>likenew</condition>
+    <notes>Includes the following expansions:
+King Pledge KS stretch goals
+Demon of the Earth
+Black Dragons
+Vanir Valkryie
+Baal-pteor
+Giant Wolves
+Sabretooth Tiger
+Shrink has been removed but game has never been played or punched.
+Will ship anywhere in the world, but buyer pays shipping costs.  This is a big, heavy box so please be prepared for higher shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Dec 2016 08:12:02 +0000</listdate>
+    <saledate>Sat, 17 Dec 2016 05:11:07 +0000</saledate>
+    <price currency='USD'>300</price>
+    <condition>new</condition>
+    <notes>Conan kickstarter for sale. Both stretch goals and core boxes are out of shrink to check for contents. Has not been played. Also included are two guest boxes and all of the exclusive boxes. One corner of main box was slightly damaged from shipping. No longer interested in keeping as I lost interest due to prolonged fulfilment.
+Pics available upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Dec 2016 05:26:14 +0000</listdate>
+    <saledate>Sat, 17 Dec 2016 18:01:35 +0000</saledate>
+    <price currency='USD'>275</price>
+    <condition>likenew</condition>
+    <notes>English King Pledge. All components are like new and unplayed. Removed from shrink and looked at. Most tokens aren_T_E_M_P_T_A_G_#039;t even punched. Includes everything that came with king pledge as well as the 6 exclusive add ons, Giant Wolves, Vanir Valkyrie, Sabre tooth Tiger,  Bael Pteor, Black Dragons, and Demon of the Earth.  Will be shipped in the box I received it in.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Nov 2016 06:44:32 +0000</listdate>
+    <saledate>Sat, 17 Dec 2016 20:11:35 +0000</saledate>
+    <price currency='USD'>225</price>
+    <condition>likenew</condition>
+    <notes>Opened, played several times.  Not my cup of teach.  I didn_T_E_M_P_T_A_G_#039;t save the plastic inserts because they barely fit the models and didn_T_E_M_P_T_A_G_#039;t protect them anyway (several were bent but I fixed them with the hot water cool water trick.  There are two big boxes so I will pack all the boards and bits in one box and then fill the other with all the models and shipping popcorn.  I will make sure to put the cards in a bag, the bits in several separate bags, and plastic wrap the outside of the boxes for protection and then use the same shipping box with the same protection that it came with.  The game is in minty condition but it is just not my cup of tea.  The box it shipped in is huge and ways over 22 pounds.  So shipping will be expensive.  This is the king pledge plus Vanir Valkyrie (Red Sonya) and The Black Dragons.  Buyer pays shipping costs of $25 which will include full insurance.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Nov 2016 03:10:43 +0000</listdate>
+    <saledate>Wed, 21 Dec 2016 20:59:50 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>new</condition>
+    <notes>New in shrink Kickstarter King Pledge. 
+https://www.kickstarter.com/projects/806316071/conan
+2 Big boxes of stuff. 
+No dents or dings on the game boxes. 
+Shipping should be around $20. I_T_E_M_P_T_A_G_#039;ll verify at time of purchase.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Dec 2016 06:51:22 +0000</listdate>
+    <saledate>Thu, 29 Dec 2016 18:38:45 +0000</saledate>
+    <price currency='USD'>240</price>
+    <condition>new</condition>
+    <notes>This is for the Kings Pledge, both boxes are new and in shrink.  Item will ship for free in US!  Boxed and ready to go.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Dec 2016 23:23:45 +0000</listdate>
+    <saledate>Thu, 29 Dec 2016 20:39:52 +0000</saledate>
+    <price currency='EUR'>350</price>
+    <condition>new</condition>
+    <notes>Brand new, shrinkwrapped and undamaged.
+KICKSTARTER KING PLEDGE:
+- Base Game
+- All Stretch goals
+- Exclusive King Pledge content
+And the 7 KS EXCLUSIVE ADD-ONS:
+- Book Campaign/Artbook +15 cards - English
+- 10 Giant Wolves
+- Vanir Valkyrie
+- Sabretooth-Tiger
+- Bael Pteor
+- 5 Black Dragons
+- Demon of the Earth</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Dec 2016 22:43:43 +0000</listdate>
+    <saledate>Tue, 03 Jan 2017 13:32:20 +0000</saledate>
+    <price currency='USD'>74</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap. Retail edition.
+NOT a Pre-Order!!! Ships TODAY !!! No Waiting !!!
+Get $4 DISCOUNT or MORE!!  See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekmarket/user/greengow
+----- 0-9 -----
+2019: The ARCTIC
+3 sind eine zu viel
+6 Nimmt!
+7 Kingdoms
+----- A -----
+AARRR!
+A Feast for Odin
+Agricola Family Edition
+Animal Upon Animal Deluxe
+----- B -----
+Basilica
+Batavia
+Baumeister von Colosseum
+Biberbande
+Bookmaker
+Böhmische Dörfer - Bohemian Villages
+Bremerhaven
+Bretagne
+Bruges
+Bruxelles 1893
+Burano
+Busen Memo
+----- C -----
+Camel Cup + Supercup
+Cappuccino
+Carcassonne: The Mini Expansion
+Carcassonne: Amazonas
+Castles of Mad King Ludwig (Zamki Szalonego Krola Ludwika)
+Catan Collectors Edition: Ancient Egypt
+Chronicler
+Cornwall
+Cottage Garden
+Craftsmen
+Crazy Coconuts 
+----- D -----
+Daxu
+Dice Brewing
+Double Mission: Beyond the Object
+Drum Roll
+Dynasties: Heirate _T_E_M_P_T_A_G_amp; Herrsche
+----- E -----
+Eight-Minute Empire
+Eight-Minute Empire Lost Lands
+----- F -----
+First To Fight
+Flying Kiwis
+Freaky
+Fresko (Fresco)
+Fresko (Fresco) Expansion 4,5,6
+Fresko (Fresco) Expansion 8,9,10
+Fujian Trader
+Fürstenfeld
+----- G -----
+Grog Island
+----- H -----
+Haithabu
+Haru Ichiban
+Hawaii
+----- I -----
+India Rails
+----- J -----
+Jäger und Sammler
+Jenseits von Theben (Thebes)
+----- K -----
+Kamisado Max
+Keltis - includes Neue Wege, Neue Ziele expansion
+Kolejka
+Kutschfahrt zur Teufelsburg
+----- L -----
+Las Vegas
+Le Havre
+----- M -----
+Machi Koro + Machi Koro: Harbour expansion + 1 set of Large Cards
+Mangrovia
+Manhattan
+Meuterer
+Murano
+M.U.L.E.
+Mysterium (Tajemnicze Domostwo)
+----- O -----
+Oh my Goods!
+----- P -----
+Pedzace Jeze (Bucket Brigade)
+Porta Nigra
+Portale von Molthar
+Power Grid The Card Game
+----- Q -----
+Quadropolis
+Quebec
+----- R -----
+Railways Express
+Rattus Cartus
+Richelieu
+Robber Knights
+Rokoko
+----- S -----
+Saint Petersburg
+Santa Cruz
+Sarkophag
+Scythe
+Spirits of the Rice Paddy
+Splendor
+Stinky Business
+----- T -----
+Tajemnicze Domostwo (Mysterium)
+Thebes
+The Big Idea
+The Castles of Burgundy: The Card Game 
+The Great Fire of London 1666
+Thurn und Taxis
+Ticket to Ride: Europe
+Ticket to Ride: UK _T_E_M_P_T_A_G_amp; Pennsylvania
+Ticket to Ride: Rails _T_E_M_P_T_A_G_amp; Sails
+Tides of Time
+Touria
+----- U -----
+Urban Panic
+----- V -----
+Venetia
+Vienna
+----- W -----
+West of Africa
+Wir sind das Volk
+Würfel Bohnanza
+----- Z -----
+Zamki szalonego króla Ludwika (Castles of Mad King Ludwig)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2017 04:25:12 +0000</listdate>
+    <saledate>Thu, 05 Jan 2017 04:34:31 +0000</saledate>
+    <price currency='USD'>67</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/218901/item/5099489#5099489]Item for Geeklist _T_E_M_P_T_A_G_quot;Post Christmas Auction... Ends Jan. 3rd (US Only, Located in Irvine, CA) [Closed]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Jan 2017 00:09:14 +0000</listdate>
+    <saledate>Thu, 05 Jan 2017 05:45:38 +0000</saledate>
+    <price currency='USD'>240</price>
+    <condition>new</condition>
+    <notes>This is for the Kings Pledge, both boxes are new and in shrink.  Item will ship for free in US!  Boxed and ready to go.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2017 19:51:37 +0000</listdate>
+    <saledate>Sun, 08 Jan 2017 16:12:40 +0000</saledate>
+    <price currency='GBP'>250</price>
+    <condition>new</condition>
+    <notes>I only want what I put in so priced to sell, opened main boxes to look at product (Admire), thats all .. small boxes unopened all in fantastic condition as from factory
+Conan Kickstarter King Pledge. 
++ Kickstarter Exclusives: 19 sculpts
+1x Vanir Valkyrie
+1x Sabretooth-tiger
+5x Black Dragons
+1x Demon of the Earth
+1x Baal-Pteor
+10x Giant Wolves
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts) 
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas 
+4 x Leaders (4 sculpts)
+5 x Archers 
+15 x Pict Hunters 
+15 x Pirates
+15 x Guards 
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt 
+1 x New hero, Olgerd Vladislav 
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt 
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius 
+1 x New hero, Savage Belit (Exclusive) 
+1 x New monster, swamp demon 
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls 
+1 x New leader, Akivasha 
+1 x Sarcophagus for Akivasha 
+1 x New hero (or leader!), Kerim Shah (Exclusive) 
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog 
+1 x New monster scorpion 
+5 x Torch stands
+1 x New hero (or leader!), Amboola 
+5 x Tentacles, alt sculpt 
+1 x Monster, the giant bone golem 
+1 x Conan the Wanderer (Exclusive) 
+1 x New hero, Pelias 
+1 x New monster, Forest Demon 
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles) 
+2 x Conan the King and his pet lion (Exclusive) 
+1 x New hero Kothian archer 
+1 x New punching bag camel 
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers 
+1 x New bad gal Gitara 
+1 x New bad guy Warlock 
+~ 237 sculptures ~
+(32 scenery sculpts and 205 miniature sculpts)
+accept Bank Transfer or PayPal. Buyer will be responsible for any fees.
+Shipping is always tracked and fully insured.
+I will usually have the game on it_T_E_M_P_T_A_G_#039;s way to you with a tracking number within a day.
+Postage inside the UK is usually around £15 may be more with a bit of insurance
+*************** Outside the UK is about £20-£25. If not more .. insured only can be up to 30 plus pounds ****************</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Jan 2017 07:45:10 +0000</listdate>
+    <saledate>Thu, 19 Jan 2017 13:00:51 +0000</saledate>
+    <price currency='EUR'>225</price>
+    <condition>new</condition>
+    <notes>king Pledge English new in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Dec 2016 12:41:40 +0000</listdate>
+    <saledate>Sat, 21 Jan 2017 09:53:32 +0000</saledate>
+    <price currency='GBP'>140</price>
+    <condition>new</condition>
+    <notes>Conan Barbarian Edition, (Conan Base Game plus Kickstarter Goals) Brand New in Shrink, Boxes undamaged.
+ CON01ENG Conan Base Game
+ CON03FREN Conan: _T_E_M_P_T_A_G_quot;Stretch Goals_T_E_M_P_T_A_G_quot; Box (114 Pcs) x1
+Sold as seen in pictures, I am not responsible for damaged or missing parts, as mentioned not opened still in shrink.
+For actual contents see BGG video_T_E_M_P_T_A_G_#039;s and forums 
+P_T_E_M_P_T_A_G_amp;P to be arranged between buyer and seller (safest, cheapest option), both boxes are heavy and come to a total of 8KG
+Ship to the UK and Europe only
+PAYMENT:
+Private sale - Sale is final - No returns allowed.
+Paypal (+3% extra cost) or Personal Cheque (on clearance only)
+Please contact me if you have any questions (geekmail).
+Thanks for reading.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jan 2017 03:48:00 +0000</listdate>
+    <saledate>Tue, 24 Jan 2017 06:37:59 +0000</saledate>
+    <price currency='USD'>64</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220488/item/5147891#5147891]Item for Geeklist _T_E_M_P_T_A_G_quot;More games that need to go! (US Only, Irvine, CA) [Closed]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Jan 2017 19:08:47 +0000</listdate>
+    <saledate>Sat, 28 Jan 2017 16:01:38 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>likenew</condition>
+    <notes>Opened and played, everything in perfect condition.  Minis are bagged and cheap holders gone.  Comes with:
+- Full King_T_E_M_P_T_A_G_#039;s Pledge
+- Yogah of Yag 
+- Demon of the Earth
+Weight is around 20 pounds to ship from 92346.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Dec 2016 08:08:29 +0000</listdate>
+    <saledate>Sat, 28 Jan 2017 21:44:47 +0000</saledate>
+    <price currency='EUR'>82.95</price>
+    <condition>new</condition>
+    <notes>Retail Edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Jan 2017 05:39:56 +0000</listdate>
+    <saledate>Tue, 31 Jan 2017 07:41:16 +0000</saledate>
+    <price currency='USD'>290</price>
+    <condition>new</condition>
+    <notes>This is for a Conan Kings Pledge, All of its regular and Exclusive Stretch Goals, [b]This includes over 230 miniatures[/b] as well as a ton of other regular and [b]EXCLUSIVE[/b] content. The game boxes have been removed from shrink to verify component integrity. The giant Kickstarter bonus content box (same size as the very big core game box) that is fulled with stretch goals has not been touched. The base game has been punched and played once, but there are ZERO condition issues! I am more than happy to provide pictures if requested.
+Buyer pays for insured shipping. This will likely cost between $20 and $35 depending how far you are from Arizona. I will ship the cheapest way possible with insurance and I will only charge you my exact shipping cost. If I can get cheaper shipping than above, you will get it as well. Payment can be made via paypal, Amazon gift card, or in person with cash. Paypal funds should be sent without fees, so I do not incur double fees from both Paypal and BGG. If you do not wish to pay this way, please add $10 to your payment and send it through paypal as usual, with fees. If you have any questions or wish to offer a partial trade to help with the price, please contact me via geek mail. Thank you.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jan 2017 11:07:58 +0000</listdate>
+    <saledate>Wed, 01 Feb 2017 19:54:01 +0000</saledate>
+    <price currency='USD'>264</price>
+    <condition>new</condition>
+    <notes>Kickstarter King Edition - factory sealed.
+Includes the base game and the large King bonus exclusive content box.
+US Shipping is $17 - $33 depending on distance from the west coast.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jan 2017 20:47:40 +0000</listdate>
+    <saledate>Sun, 05 Feb 2017 04:54:33 +0000</saledate>
+    <price currency='USD'>67</price>
+    <condition>verygood</condition>
+    <notes>Played a few times. Great shape.
+Shipping is $18. The total saves you $15 over CoolStuffInc for a game that_T_E_M_P_T_A_G_#039;s very well take care of.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Dec 2016 14:15:43 +0000</listdate>
+    <saledate>Mon, 06 Feb 2017 06:32:05 +0000</saledate>
+    <price currency='USD'>600</price>
+    <condition>likenew</condition>
+    <notes>King Pledge + All Add-ons (not expansions though). Only interested in selling everything as a bundle, and won_T_E_M_P_T_A_G_#039;t sell add-ons separately.
+The main game box, the stretch goals box, the colored bases and extra dice packs have been opened and played once. All other add-ons are NIS.
+Box will weight around 23lb, so please check for shipping prices before clicking to buy. I expect USPS priority shipping to be $60+, maybe a little cheaper if FedEx ground is ok.
+Includes:
+King Pledge - English (includes several KS exclusives)
+Book Campaign/Artbook +15 cards (KS exclusive; has not been delivered yet and will be shipped free of charge when it arrives)
+10 Giant Wolves (KS exclusive)
+1 Vanir Valkyrie (KS exclusive)
+1 Sabretooth-tiger (KS exclusive)
+1 Baal-Pteor (KS exclusive)
+5 Black Dragons (KS exclusive)
+1 Demon of the Earth (KS exclusive)
+4 Kushite Witch-Hunters 
+1 Dragon 
+10 Crossbowmen 
+10 Black Ones 
+1 Yogah of Yag 
+1 Adventure pack 
+1 Doors pack 
+Xavier Collette Box 
+Brom Box 
+Paolo Parente Box 
+25 Counterbases 
+6 Dice
+numbers represent how many units come in a pack, not how many packs.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Oct 2016 08:21:38 +0000</listdate>
+    <saledate>Tue, 07 Feb 2017 16:17:39 +0000</saledate>
+    <price currency='GBP'>230</price>
+    <condition>new</condition>
+    <notes>Reserved for Alan Polak
+Conan Kickstarter King Pledge. 
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts) 
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas 
+4 x Leaders (4 sculpts)
+5 x Archers 
+15 x Pict Hunters 
+15 x Pirates
+15 x Guards 
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt 
+1 x New hero, Olgerd Vladislav 
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt 
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius 
+1 x New hero, Savage Belit (Exclusive) 
+1 x New monster, swamp demon 
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls 
+1 x New leader, Akivasha 
+1 x Sarcophagus for Akivasha 
+1 x New hero (or leader!), Kerim Shah (Exclusive) 
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog 
+1 x New monster scorpion 
+5 x Torch stands
+1 x New hero (or leader!), Amboola 
+5 x Tentacles, alt sculpt 
+1 x Monster, the giant bone golem 
+1 x Conan the Wanderer (Exclusive) 
+1 x New hero, Pelias 
+1 x New monster, Forest Demon 
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles) 
+2 x Conan the King and his pet lion (Exclusive) 
+1 x New hero Kothian archer 
+1 x New punching bag camel 
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers 
+1 x New bad gal Gitara 
+1 x New bad guy Warlock 
+UK shipping is included, thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Feb 2017 14:50:25 +0000</listdate>
+    <saledate>Fri, 10 Feb 2017 12:07:27 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>new</condition>
+    <notes>FOR JSH$U2 ONLY. Please do not purchase unless this is your user name. Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Feb 2017 17:01:35 +0000</listdate>
+    <saledate>Mon, 13 Feb 2017 01:53:39 +0000</saledate>
+    <price currency='EUR'>160</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter Barbarian Pledge -_T_E_M_P_T_A_G_gt; Two big boxes full of stuff (https://www.kickstarter.com/projects/806316071/conan)
+Box and contents like new. Only played once or twice. /
+Box und Inhalt wie neu. Nur ein- oder zweimal gespielt.
+Payment via bank transfer within one week after ordering. /
+Bezahlung per Überweisung innerhalb einer Woche nach Bestellung.
+Shipping via DHL /
+Versand mit DHL</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2017 22:28:11 +0000</listdate>
+    <saledate>Tue, 14 Feb 2017 23:52:22 +0000</saledate>
+    <price currency='USD'>369.69</price>
+    <condition>new</condition>
+    <notes>_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt; SHIPPING is _T_E_M_P_T_A_G_quot;HUGE PACKAGE_T_E_M_P_T_A_G_quot;  (9+kg)
+Kickstarter King Pledge Level with stretch goals. Will ship when Monolith ships out the rewards, estimated 1st/2nd quarter 2016.
+Ends up I have one extra so here_T_E_M_P_T_A_G_#039;s your chance. I also combine shipping and combine discounts on multiple items. :)
+Paypal prefered but intriguing trade/sale offers will be considered, Canadians can save 5% using an eTransfer instead. =)
+https://www.kickstarter.com/projects/806316071/conan/description
+(Also happy to add things from my traders/marketplace with combined shipping). 
+Kickstarter Exclusives
+1 x Demon of the Earth
+1 x Campaign/Artwork Book exclusive to the Kings pledge
+1 x Sabertooth Tiger
+Basic game: 74 sculpts
+4 x Heroes (4 sculpts) 
+6 x Allies (2 sculpts)
+5 x Monsters (5 sculpts)
+5 x Hyenas 
+4 x Leaders (4 sculpts)
+5 x Archers 
+15 x Pict Hunters 
+15 x Pirates
+15 x Guards 
+King Pledge: 30 sculpts
+1 x Thog (monster)
+3 x Heroes (3 sculpts)
+1 x Ally
+15 x skeletons
+10 x mummies
+Kickstarter Stretch Goals: 114 sculpts
+5 x Pict archers
+5 x Skeleton alt sculpt
+1 x New hero, Pallantides (Exclusive)
+5 x pirate alt scupt
+5 x Guards alt sculpt
+1 x Man ape (Exclusive)
+5 x Mummies alt sculpt
+1 x New leader, Natohk (Exclusive)
+5 x Pict alt sculpt
+10 x Chests and cases (2 sculpts)
+5 x Skeleton alt sculpt 
+1 x New hero, Olgerd Vladislav 
+13 x Table, stools and benches (3 (probably?) sculpts)
+5 x Mummies alt sculpt 
+1 x New hero, Conan the Mercenary (Exclusive)
+1 x Hyperborean Primitive
+5 x Tentacles
+1 x Monster spider
+1 x New leader, Constantius 
+1 x New hero, Savage Belit (Exclusive) 
+1 x New monster, swamp demon 
+1 x Bookcase
+2 x Pile o_T_E_M_P_T_A_G_#039; skulls 
+1 x New leader, Akivasha 
+1 x Sarcophagus for Akivasha 
+1 x New hero (or leader!), Kerim Shah (Exclusive) 
+1 x Conan the warlord (Exclusive)
+2 x New heroes: Balthus and Slasher the dog 
+1 x New monster scorpion 
+5 x Torch stands
+1 x New hero (or leader!), Amboola 
+5 x Tentacles, alt sculpt 
+1 x Monster, the giant bone golem 
+1 x Conan the Wanderer (Exclusive) 
+1 x New hero, Pelias 
+1 x New monster, Forest Demon 
+1 x Free hero, Taurus
+1 x New monster, Thaug (goes with the tentacles) 
+2 x Conan the King and his pet lion (Exclusive) 
+1 x New hero Kothian archer 
+1 x New punching bag camel 
+1 x New hero, Ageera the witch finder
+1 x New hero, Conan the general (Exclusive)
+1 x New hero, Khemsa Acolyte of the Black Seers 
+1 x New bad gal Gitara 
+1 x New bad guy Warlock
+And all the stuff for the King pledge.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jan 2017 22:17:44 +0000</listdate>
+    <saledate>Sat, 18 Feb 2017 13:13:22 +0000</saledate>
+    <price currency='USD'>375</price>
+    <condition>new</condition>
+    <notes>This is for the King_T_E_M_P_T_A_G_#039;s Pledge edition, and every Kickstarter Exclusive they offered (except for the extra dice and counterbases). 
+THIS INCLUDES the base game, King bonus box, and the following add-ons:
+Vanir Valkyrie
+Sabertooth Tiger
+Demon of the Earth
+Giant Wolves
+Baal-Pteor
+Black Dragons
+Campaign/Artbook *
+* Not received yet. I should be able to change my address with them and have the Campaign/Artbook shipped directly to you later this spring.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Feb 2017 06:45:46 +0000</listdate>
+    <saledate>Mon, 20 Feb 2017 14:11:26 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>new</condition>
+    <notes>For purchase by JB only.
+King level pledge.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Feb 2017 02:32:10 +0000</listdate>
+    <saledate>Thu, 23 Feb 2017 07:29:39 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Retail edition but it comes with Yogah of Yag and the CRossbowmen expansion. Complete and in new condition. Shipping will be $20 anywhere in the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Feb 2017 09:50:28 +0000</listdate>
+    <saledate>Tue, 28 Feb 2017 03:53:05 +0000</saledate>
+    <price currency='AUD'>410</price>
+    <condition>new</condition>
+    <notes>For sale is a brand new KING pledge from Kickstarter, with all stretch goals. Everything is still sealed in the box it arrived in.
+I am expecting the following for wave 2:
+Nordheim Expansion - English  
+Kithai Expansion - English  
+Book Campaign/Artbook +15 cards 
+This is INCLUDED in the price. I will work with you to either have it shipped directly to you (and you pay for that shipping cost on your own) or if not possible, we can make arrangements.
+I will ship worldwide, with buyer paying shipping fees; please message me for a quote.
+If you live in metro Western Australia, I am happy to physically exchange it (and will accept cash on delivery).
+Otherwise I accept PayPal or bank deposit.
+Any questions, please just ask!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Jan 2017 09:52:21 +0000</listdate>
+    <saledate>Thu, 02 Mar 2017 05:39:56 +0000</saledate>
+    <price currency='USD'>165</price>
+    <condition>new</condition>
+    <notes>Full Barbarian Pledge,  outer shrink removed . Inside unpunched unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 04:34:27 +0000</listdate>
+    <saledate>Sat, 04 Mar 2017 13:01:51 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222287/item/5235610#5235610]Item for Geeklist _T_E_M_P_T_A_G_quot;Still have to many games Auction (Ends March 3rd) US Only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Mar 2017 08:52:28 +0000</listdate>
+    <saledate>Mon, 06 Mar 2017 20:18:46 +0000</saledate>
+    <price currency='EUR'>280</price>
+    <condition>new</condition>
+    <notes>All shrink removed otherwise new and unpunched, Europe shipping € 30, PAYPAL +10€
+Included:
+2 large boxes of CONAN KING PLEDGE
+The Black Ones (10 miniatures and 3 tiles)
+Black Dragons  (5 miniatures and 1 tile)
+Sabertooth Tiger  (2 miniatures and 1 tile)
+Paolo Parente Guest Box (2 hero sheets, 2 miniatures and 2 tiles)
+Xavier Collette Guest Box  (2 hero sheets, 2 miniatures)
+Vanir Valkyrie (1 hero sheet, 1 miniature and 2 tiles)
+Giant Wolves  (10 miniatures and 3 tiles)
+Kushite Witch Hunters  (4 miniatures and 4 tiles)
+Demon of the Earth (1 miniature and 2 tiles)
+Baal-pteor (1 miniature and 3 tiles)
+Yoga of Yag  (1 hero sheet, 1 miniature)
+Crossbowmen (10 miniatures and 3 tiles)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Mar 2017 04:59:55 +0000</listdate>
+    <saledate>Tue, 07 Mar 2017 14:03:07 +0000</saledate>
+    <price currency='USD'>240</price>
+    <condition>new</condition>
+    <notes>This is for a Conan King Pledge, retail box and kickstarter exclusive box. 
+This item is reserved to Xinzer, do not buy if this is not you!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Mar 2017 03:09:10 +0000</listdate>
+    <saledate>Fri, 10 Mar 2017 03:28:45 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>new</condition>
+    <notes>This is for a Conan King Pledge, retail box and kickstarter exclusive box. 
+This item is reserved to RedFinch, do not buy if this is not you!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Mar 2017 05:41:23 +0000</listdate>
+    <saledate>Tue, 14 Mar 2017 12:40:02 +0000</saledate>
+    <price currency='USD'>53</price>
+    <condition>new</condition>
+    <notes>Reserved for j_anderson</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Mar 2017 03:12:25 +0000</listdate>
+    <saledate>Thu, 16 Mar 2017 03:40:52 +0000</saledate>
+    <price currency='USD'>230</price>
+    <condition>likenew</condition>
+    <notes>This item is for thetickblue, winner of the auction (https://boardgamegeek.com/geeklist/222562/closed-selling-conan-king-pledge-w-ks-exclusives).  Shipping will be calculated and added on separately.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Mar 2017 10:22:42 +0000</listdate>
+    <saledate>Thu, 16 Mar 2017 11:18:07 +0000</saledate>
+    <price currency='USD'>175</price>
+    <condition>likenew</condition>
+    <notes>Opened, sorted, never played.
+Barbarian Kickstarter pledge with stretch goals. (Two BIG boxes full of content!)
+Ships from 50023</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Mar 2017 01:00:45 +0000</listdate>
+    <saledate>Mon, 20 Mar 2017 01:02:06 +0000</saledate>
+    <price currency='USD'>151</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222997/item/5269667#5269667]Item for Geeklist _T_E_M_P_T_A_G_quot;I want an apple watch - AUCTION_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Mar 2017 00:05:50 +0000</listdate>
+    <saledate>Sun, 02 Apr 2017 15:55:44 +0000</saledate>
+    <price currency='USD'>300</price>
+    <condition>likenew</condition>
+    <notes>Shipping is free within the 48 contiguous states.
+This includes the Base game, which was played once and is all bagged up.  Also included and in shrink:
+Kickstarter Extras Box
+Extra Dice
+Extra Bases
+Black Dragons
+Baal-Pteor
+Adventure Pack
+Yogath of Yag
+Demon of the Earth
+Vanir Valkyrie
+The Black Ones
+Doors Pack
+Brom Guest Box
+Crossbowmen
+Paolo Parente Guest Box
+Giant Wolves
+Xavier Collette Guest Box
+Dragon
+Kushite White Hunters
+Sabretooth Tiger
+Extra Dice
+Extra Bases</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Apr 2017 23:15:56 +0000</listdate>
+    <saledate>Fri, 07 Apr 2017 01:44:09 +0000</saledate>
+    <price currency='USD'>216</price>
+    <condition>new</condition>
+    <notes>Reserved for jtr1985
+Includes Conan Barbarian pledge $131
+Amun Re $25
+Guilds of London $20
+Fireteam Zero $40</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Apr 2017 22:26:12 +0000</listdate>
+    <saledate>Sat, 08 Apr 2017 22:06:39 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>new</condition>
+    <notes>KS King_T_E_M_P_T_A_G_#039;s Pledge in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Apr 2017 23:17:32 +0000</listdate>
+    <saledate>Wed, 12 Apr 2017 13:50:08 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Retail edition. 
+Comes with extra dice pack. 
+Everything in excellent condition. 
+Shipping from 43234. I will gladly combine shipping on multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Apr 2017 21:04:00 +0000</listdate>
+    <saledate>Thu, 20 Apr 2017 00:57:06 +0000</saledate>
+    <price currency='USD'>160</price>
+    <condition>new</condition>
+    <notes>This is for three items:
+The Nordheim Expansion
+The Stygian Expansion
+The Khitai Expansion
+Buyer pays shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Apr 2017 15:07:51 +0000</listdate>
+    <saledate>Fri, 28 Apr 2017 11:18:31 +0000</saledate>
+    <price currency='EUR'>83</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Retail edition
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jan 2017 23:55:24 +0000</listdate>
+    <saledate>Sun, 30 Apr 2017 01:39:22 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 May 2017 07:51:23 +0000</listdate>
+    <saledate>Sat, 06 May 2017 05:31:03 +0000</saledate>
+    <price currency='EUR'>150</price>
+    <condition>new</condition>
+    <notes>This is created for user Xorron only. It includes 6 KS exclusive addons.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 May 2017 17:59:12 +0000</listdate>
+    <saledate>Sun, 07 May 2017 07:40:23 +0000</saledate>
+    <price currency='EUR'>359</price>
+    <condition>new</condition>
+    <notes>NEW sealed!
+KICKSTARTER KING PLEDGE including:
++ BASIC GAMEBOX
++ ALL SRETCH GOALS
++ EXLCUSIVE KING CONTENT
++ Hardcovered  Campaign / Art-book +15 cards  KS EXLUSIVE
+60 Pages, 19 Scenarios (2 pages per scenario). and beautiful Art!
+And the 6 KS EXCLUSIVE ADD-ONS:
++ Giant Wolves KS EXLUSIVE
++ Vanir Valkyrie KS EXLUSIVE
++ Sabretooth-tiger KS EXLUSIVE
++ Leader: Bael Pteor KS EXLUSIVE
++ Black Dragons KS EXLUSIVE
++ Demon of the Earth KS EXLUSIVE
+The weight of the package is around 7kg.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Apr 2017 03:31:44 +0000</listdate>
+    <saledate>Sun, 14 May 2017 13:34:49 +0000</saledate>
+    <price currency='USD'>350</price>
+    <condition>new</condition>
+    <notes>Edition: Kickstarter King_T_E_M_P_T_A_G_#039;s Pledge 
+1x CON07FREN Conan: _T_E_M_P_T_A_G_quot;Vanir Valkyrie_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) 
+3x CON11FREN Conan: _T_E_M_P_T_A_G_quot;Black Dragons_T_E_M_P_T_A_G_quot; Unit Box (5 Pcs) 
+1x CON15FREN Conan: _T_E_M_P_T_A_G_quot;Demon of the Earth_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) 
+1x CON17FREN Conan: _T_E_M_P_T_A_G_quot;Counter Bases_T_E_M_P_T_A_G_quot; Add-on Pack (25 Pcs) 
+1x CON18FREN Conan: _T_E_M_P_T_A_G_quot;Dice_T_E_M_P_T_A_G_quot; Add-on Pack (6 Pcs) 
+1x CON02EN Conan: _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; Pledge Box (English) 
+1x CON10FREN Conan: _T_E_M_P_T_A_G_quot;Baal Pteor_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) 
+1x CON14FREN Conan: _T_E_M_P_T_A_G_quot;Giant Wolves_T_E_M_P_T_A_G_quot; Unit Box (10 Pcs) 
+1x CON03FREN Conan: _T_E_M_P_T_A_G_quot;Stretch Goal_T_E_M_P_T_A_G_quot; Box</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 May 2017 19:29:36 +0000</listdate>
+    <saledate>Sun, 14 May 2017 22:05:47 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played, all pieces in like new condition. Includes the kickstarter (non kingpledge) stretch goals</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Feb 2017 14:09:47 +0000</listdate>
+    <saledate>Thu, 18 May 2017 19:32:15 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>new</condition>
+    <notes>King Pledge (two boxes) . Base game with all the KS stuff.
+Buyer to pay shipping, their choice via cheaper of USPS or UPS from zip 90501 (with insurance).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 May 2017 18:45:01 +0000</listdate>
+    <saledate>Tue, 23 May 2017 21:34:47 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223579/item/5298744#5298744]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction to reclaim my closet floor_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 May 2017 13:26:08 +0000</listdate>
+    <saledate>Fri, 26 May 2017 14:09:15 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>new</condition>
+    <notes>Selling NOT the game itself but the Conan Art-/Campaign Book
+Art-/Campaign Book is still shrink-wrapped
+Non smoking household.
+Price: 55,- € + shipping; payment by bank transfer or Paypal
+Shipping:
+Germany 4,50 €
+EU 9,- €
+World 16,- €</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Apr 2017 07:51:49 +0000</listdate>
+    <saledate>Mon, 29 May 2017 12:38:47 +0000</saledate>
+    <price currency='EUR'>160</price>
+    <condition>new</condition>
+    <notes>French King Pledge, including:
+- King Core Box (Core game + KSE king content)
+- Stretch goal Big Box
+160 € + shipping (to be determined based on destination)
+Pick-up around Paris is an option.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Jun 2017 14:49:13 +0000</listdate>
+    <saledate>Tue, 06 Jun 2017 23:46:15 +0000</saledate>
+    <price currency='EUR'>199</price>
+    <condition>new</condition>
+    <notes>All new and sealed.
+2 boxes (Core+SG) + 
+new tokens (recently sent to me) + 
+Book Campaign/Artbook +15 cards
+Very heavy boxes. Ask for shipping quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Jun 2017 20:28:20 +0000</listdate>
+    <saledate>Fri, 07 Jul 2017 01:39:06 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Played once, excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Jul 2017 15:49:32 +0000</listdate>
+    <saledate>Mon, 10 Jul 2017 20:17:49 +0000</saledate>
+    <price currency='USD'>183</price>
+    <condition>likenew</condition>
+    <notes>for 401stprophet</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Jul 2017 06:53:34 +0000</listdate>
+    <saledate>Fri, 14 Jul 2017 20:56:23 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>likenew</condition>
+    <notes>This listing is for the following items:
+Conan Base Game (Retail Edition - played once and in excellent condition.)
+Crossbowmen Expansion (new in box)
+Kushite Witch Hunters Expansion (new in box)
+Yogah of Yag Expansion (new in box)
+2 x dice sets (included in main box)
+I will ship via USPS, Fed Ex, or UPS at my discretion.  This is heavy so shipping is $25.  That_T_E_M_P_T_A_G_#039;s still $40 less than most online retail stores for all items.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Jul 2017 18:54:23 +0000</listdate>
+    <saledate>Mon, 24 Jul 2017 02:32:32 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>new</condition>
+    <notes>Got the following: 
+UNOPENED Conan king pledge (both boxes unopened)
+UNOPENED Nordheim Expansion
+UNOPENED Yogah of Yag
+UNOPENED Kushite With Hunters Pack
+UNOPENED Crossbowmen Pack
+Plus the following KICK STARTER EXCLUSIVES (the following is opened but like new/never been played) with all cards and tiles that come with them
+10 Giant Wolves
+1 Vanir Valkyrie 
+1 Art Book
+1 Sabretooth Tiger
+1 Baal Pteor
+5 black dragons
+1 demon of the earth 
+Sold as one set - not subdividing this. Trying to clear out some space on my shelf. 
+You pay shipping on top of this also.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Jul 2017 19:59:11 +0000</listdate>
+    <saledate>Mon, 24 Jul 2017 19:22:23 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>For sale is a _T_E_M_P_T_A_G_quot;retail_T_E_M_P_T_A_G_quot; version of Conan. This was originally a _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_#039;s Pledge_T_E_M_P_T_A_G_quot; for which I sold all of the KS items. The game has been played with twice. There is some bowing of the box cover that has been present since I purchased it.
+Shipping not included. Local pickup in New York, NY available. PM with any questions</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Nov 2016 14:06:53 +0000</listdate>
+    <saledate>Mon, 31 Jul 2017 05:08:57 +0000</saledate>
+    <price currency='USD'>265</price>
+    <condition>new</condition>
+    <notes>Brand New and in Shrink. KICKSTARTER edition with all stretch goals.
+Kings pledge level. 
+This weighs right around 18 lbs. 
+2 full big boxes of content. A ridiculous amount of content.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Aug 2017 14:03:09 +0000</listdate>
+    <saledate>Tue, 08 Aug 2017 23:33:17 +0000</saledate>
+    <price currency='EUR'>180</price>
+    <condition>verygood</condition>
+    <notes>Includes Black Dragons expansion</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 May 2017 15:03:14 +0000</listdate>
+    <saledate>Wed, 23 Aug 2017 07:16:08 +0000</saledate>
+    <price currency='EUR'>149</price>
+    <condition>likenew</condition>
+    <notes>Conan kickstarter barbarian pledge, complete with all stretch goals.
+Played a few times, all components in great condition. No smoking.
+Two giant boxes full of minatures!
+Shipping rates dependant on destination and service
+Possibilty for pickup in Almere, The Netherlands</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Nov 2016 20:06:25 +0000</listdate>
+    <saledate>Thu, 24 Aug 2017 05:18:56 +0000</saledate>
+    <price currency='GBP'>265</price>
+    <condition>new</condition>
+    <notes>*** RESERVED SALE ***
+King Pledge.
+Includes absolutely every Kickstarter exclusive including all the exclusive add-ons, such as:
++10 Giant Wolves
++1 Vanir Valkyrie
++1 Sabretooth-tiger
++1 Baal-Pteor
++5 Black Dragons
++1 Demon of the Earth
+*** RESERVED SALE ***</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Sep 2017 03:56:17 +0000</listdate>
+    <saledate>Sun, 03 Sep 2017 16:51:26 +0000</saledate>
+    <price currency='USD'>250</price>
+    <condition>likenew</condition>
+    <notes>Never played, full kickstarter and all addons and expansions copy of Conan. The game is stored in the main game box, king pledge extras box, and Nordheim expansion box. The remaining boxes have been thrown away to save on space. Item is great condition overall. It contains the following addons from the kickstarter
+Nordheim Expansion 
+Stygian Expansion
+Khitai Expansion
+Giant Wolves
+Vanir Valkyrie
+Campaign Book
+Sabre Tooth Tiger
+Baal Pteor
+Black Dragon soldiers
+Demon of Earth
+3 Guest artist boxes 
+Kushite Witch Hunters
+Dragon
+Crossbowmen
+Black Ones
+Yogah of Yag
+Scenery pack
+Doors
+Paypal fees will be added after item and shipping costs are calculated.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Aug 2017 13:08:59 +0000</listdate>
+    <saledate>Wed, 06 Sep 2017 12:21:25 +0000</saledate>
+    <price currency='USD'>350</price>
+    <condition>new</condition>
+    <notes>This is the Conan King pledge with all stretch goals plus all the Kickstarter exclusives.
+Conan base game - King box version
+2.0 rule books
+Collectors Box
+Baal Pteor
+Black Dragons x5
+Demon of the Earth 
+Giant Wolves x10
+Sabretooth Tiger
+Vanir Valkyrie 
+Campaign and Art book along with its character tokens
+Ships from 28277</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Sep 2017 09:26:02 +0000</listdate>
+    <saledate>Thu, 07 Sep 2017 14:44:14 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>likenew</condition>
+    <notes>Retail edition. Cards out of shrink, counters/tokens punched and all in plastic baggies, otherwise complete and all in excellent, as new condition.
+Photos available on request.
+Will ship worldwide, please contact for costs.
+If you have any questions please ask, and thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Sep 2017 19:32:36 +0000</listdate>
+    <saledate>Sun, 24 Sep 2017 03:51:56 +0000</saledate>
+    <price currency='USD'>225</price>
+    <condition>new</condition>
+    <notes>KS edition still in shrink (2 boxes)
+Will ship within 1-2days upon payment.
+[save on shipping with local pickup in SE WI (MKE/Racine/Kenosha)]</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 19:51:53 +0000</listdate>
+    <saledate>Tue, 03 Oct 2017 20:01:21 +0000</saledate>
+    <price currency='USD'>13.6</price>
+    <condition>new</condition>
+    <notes>Larbear- You want the white hard covered Campaign Book, Wolves, Black Dragons, and Crossbowmen and I charge you for shipping?
+CasualGamer71- You everything that is left and will pay the $150+shipping?</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 19:50:48 +0000</listdate>
+    <saledate>Tue, 03 Oct 2017 22:09:55 +0000</saledate>
+    <price currency='USD'>175</price>
+    <condition>likenew</condition>
+    <notes>Won the Auction for Conan _T_E_M_P_T_A_G_amp; Rivet Wars
+Made and agreement with Larbear.
+Larbear-  white hard covered Campaign Book, Wolves, Black Dragons, and Crossbowmen and I charge you for shipping?
+CasualGamer71- everything that is left and will pay the $150+shipping?</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Aug 2017 00:23:00 +0000</listdate>
+    <saledate>Tue, 17 Oct 2017 22:08:24 +0000</saledate>
+    <price currency='CAD'>300</price>
+    <condition>likenew</condition>
+    <notes>Buyer_T_E_M_P_T_A_G_#039;s pay for shipping.
+Shrink Wrap was removed from the base game but never played. Stretch goal box still shrinkwraped</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Jun 2017 12:43:22 +0000</listdate>
+    <saledate>Thu, 19 Oct 2017 19:55:58 +0000</saledate>
+    <price currency='EUR'>150</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter King pledge version.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Oct 2017 11:43:04 +0000</listdate>
+    <saledate>Thu, 26 Oct 2017 18:59:55 +0000</saledate>
+    <price currency='EUR'>120</price>
+    <condition>likenew</condition>
+    <notes>Barbarian’s Pledge. 2 boxes with all of the Kickstarter extra’s. Just not those skeletons and stuff in the King’s Pledge.
+Used 1 time, not my kind of game. Core box has been opened, box with extra’s is brand new.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Jun 2017 17:27:30 +0000</listdate>
+    <saledate>Sun, 05 Nov 2017 02:49:34 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>This item is for use crazyg0od33 only. Please do not buy this item if this is not you.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Oct 2017 22:12:01 +0000</listdate>
+    <saledate>Fri, 10 Nov 2017 21:28:33 +0000</saledate>
+    <price currency='USD'>289.95</price>
+    <condition>likenew</condition>
+    <notes>KS King Pledge 
+with all KS exclusive add-on minis:
+Giant Wolves
+Vanir Valkyrie
+Sabretooth Tiger
+Baal Pteor
+Black Dragons
+Demon of the Earth
+And KS Exclusive Campaign/Art Book (new)
+And V2 rulebooks (new)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Nov 2017 12:51:41 +0000</listdate>
+    <saledate>Sat, 11 Nov 2017 01:14:42 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Not the complete game, I_T_E_M_P_T_A_G_#039;m only selling the Kickstarter exclusive Book of Set, new in shrinkwrap.
+Weight 1000g, see below for shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Nov 2017 05:33:10 +0000</listdate>
+    <saledate>Thu, 16 Nov 2017 18:21:39 +0000</saledate>
+    <price currency='USD'>165</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/232527/item/5755632#5755632]Item for Geeklist _T_E_M_P_T_A_G_quot;PAX Unplugged Pickup Auction (or local NYC-CT) - Ends 11/15_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Dec 2017 20:56:28 +0000</listdate>
+    <saledate>Sun, 03 Dec 2017 22:08:39 +0000</saledate>
+    <price currency='USD'>425</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner WINVAYREN
+This sale has been auto-generated for the auction: [geekurl=/geeklist/232949/item/5774976#5774976]Item for Geeklist _T_E_M_P_T_A_G_quot;Once more, with feeling...um...auction  *Ends November 24th*_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Dec 2017 16:21:25 +0000</listdate>
+    <saledate>Wed, 06 Dec 2017 15:17:50 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>Book of Set. 
+A bound hardcover illustrated book of 96 pages, similar to the campaign book. It contains twenty scenarios (that are already, or will be, available for downloading free of charge on the Monolith website http://www.monolithedition.com/conan-en/scenarios/) as well as a large number of pages of character backgrounds and descriptions of the Hyborian Age creatures.
+Papal or bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Nov 2017 12:30:05 +0000</listdate>
+    <saledate>Fri, 15 Dec 2017 07:24:54 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>This is for the KSer exclusive Campaign/Art Book and tokens from Wave 2 and includes v2.0 of the rulebooks. Domestic USA shipping is $10 and I always combine shipping +$1. Shipping to Canada is $60 and is $75 to other international locations.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Dec 2017 22:40:28 +0000</listdate>
+    <saledate>Fri, 15 Dec 2017 08:40:09 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>Price lowered!  This ad is for the rare _T_E_M_P_T_A_G_quot;The devil in iron_T_E_M_P_T_A_G_quot; campaign and art book, and the set of 10 replacement tokens.  Both these items are brand new and shrink-wrapped; they will be packed carefully for shipping at a flat rate of $15 USD..</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Dec 2017 04:35:22 +0000</listdate>
+    <saledate>Sat, 16 Dec 2017 04:45:39 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>This is for used denotes only. Shipping to be paid by buyer. This is for the KS Art/Campaign book and KS tokens.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Dec 2017 16:51:44 +0000</listdate>
+    <saledate>Sat, 23 Dec 2017 19:44:35 +0000</saledate>
+    <price currency='USD'>190</price>
+    <condition>new</condition>
+    <notes>THIS IS FOR THE STRECH GOALS BOX ONLY (english version).
+Core game box NOT included.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Dec 2017 02:21:36 +0000</listdate>
+    <saledate>Sat, 30 Dec 2017 05:25:21 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink. Retail version.
+Buyer pays shipping from 82070.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Sep 2017 20:07:17 +0000</listdate>
+    <saledate>Thu, 11 Jan 2018 21:24:07 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>In Shrink
+Bought from Retail.
+Buyer to pay shipping and any Pay Pal fees.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jan 2018 13:45:48 +0000</listdate>
+    <saledate>Sat, 13 Jan 2018 12:41:12 +0000</saledate>
+    <price currency='GBP'>100</price>
+    <condition>likenew</condition>
+    <notes>King Pledge edition from recent _T_E_M_P_T_A_G_#039;Book of Set_T_E_M_P_T_A_G_#039; Kickstarter campaign, which includes:
+Book of Set
+Core Box from King Pledge
+Stretch Goal Box from King Pledge
+v2 Rule books
+Please note all of the above are English language versions. The counters and tokens etc. have been removed from their sheets and put in plastic baggies, otherwise it is complete and all in immaculate, as new condition. 
+Photos available on request.
+Will ship worldwide, please contact for costs.
+If you have any questions please ask, and thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Jan 2018 02:11:06 +0000</listdate>
+    <saledate>Tue, 16 Jan 2018 02:17:57 +0000</saledate>
+    <price currency='USD'>170</price>
+    <condition>new</condition>
+    <notes>Marketplace items are for: tobyjason
+• Conan: Baal-pteor
+• Conan: Black Dragons
+• Conan: Demon of the Earth
+• Conan: The Legend of the Devil in Iron 
+• Conan: Giant Wolves
+• Conan: Sabertooth Tiger
+• Conan: Vanir Valkyrie
+• D-Day Dice
+ Includes storage tin
+ Includes canvas tote bag
+ Includes Atlantikwall
+ Includes Badges
+ Includes Commission Pack
+ Includes Distinguished Service Pack
+ Includes Flare Pouch
+ Includes Gott Mit Uns
+ Includes K-Maps
+ Includes K-Pack
+ Includes MGF Dice
+ Includes Normandy
+ Includes Operation Neptune</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Jan 2018 13:32:12 +0000</listdate>
+    <saledate>Sun, 21 Jan 2018 23:11:13 +0000</saledate>
+    <price currency='EUR'>145</price>
+    <condition>verygood</condition>
+    <notes>Two huge boxes full of beautiful Conan stuff, including Base Game and all Stretch Goals and applicable Kickstarter Exclusives.
+3D printed storage solutions for enemy tiles included.
+Revised Rules included.
+Unplayed.
+Shipping:
+Germany 8,5€
+EU 20€
+Payment via PayPal or bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Jan 2018 12:01:21 +0000</listdate>
+    <saledate>Sat, 27 Jan 2018 00:40:35 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Jan 2018 21:54:08 +0000</listdate>
+    <saledate>Sat, 27 Jan 2018 20:59:30 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Conan (English first edition).  This is the retail version.  Box opened and tokens punched but never played.  All cards sleeved.  Includes Crossbowmen expansion, Yogah of Yag expansion, and Kushite Witch Hunter_T_E_M_P_T_A_G_#039;s expansion.  (Does not include pictured Plano box)
+Buyer pays any incurred PayPal fees (use _T_E_M_P_T_A_G_quot;Send money to friends and family_T_E_M_P_T_A_G_quot; option to avoid any fees) + shipping _T_E_M_P_T_A_G_amp; handling ($15).
+Seller is a dedicated gamer who will ensure that your purchase will be packaged securely for safe delivery.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Jan 2018 08:51:33 +0000</listdate>
+    <saledate>Fri, 02 Feb 2018 22:03:53 +0000</saledate>
+    <price currency='EUR'>199</price>
+    <condition>new</condition>
+    <notes>Brand new and sealed in shrinkwrap. Comes with printed revised rulebook + the Book of Set (also shrinkwrapped).
+Buyer pays for shipping (would be quite high outside Greece, please inquire before buying).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Feb 2018 15:36:07 +0000</listdate>
+    <saledate>Mon, 05 Feb 2018 16:59:38 +0000</saledate>
+    <price currency='EUR'>42</price>
+    <condition>verygood</condition>
+    <notes>Unplayed . Very good condition .
+Shipping Germany 6 Euro
+shipping EU 16 Euro</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Feb 2018 14:50:48 +0000</listdate>
+    <saledate>Sun, 18 Feb 2018 18:01:49 +0000</saledate>
+    <price currency='EUR'>120</price>
+    <condition>new</condition>
+    <notes>Includes Book of Set, King Pledge, Stretch Goals and Rulebooks v2. New, unopened in plastic wrap and undamaged.
+Shipping cost depending on location.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Feb 2018 12:03:22 +0000</listdate>
+    <saledate>Mon, 19 Feb 2018 19:19:42 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Punched but unplayed copy of the RETAIL version of Conan. Nothing missing or damaged. Ships to continental US only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Dec 2017 20:52:30 +0000</listdate>
+    <saledate>Mon, 19 Feb 2018 20:41:42 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in shrink.  Base game only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Jan 2018 19:31:25 +0000</listdate>
+    <saledate>Thu, 01 Mar 2018 06:20:19 +0000</saledate>
+    <price currency='USD'>300</price>
+    <condition>new</condition>
+    <notes>Kings pledge with extras = Giant wolves , Baal Pteor, Vanir Valkyrie, Sabertooth tiger,Demon of the Earth, Black Dragons</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Mar 2018 22:19:41 +0000</listdate>
+    <saledate>Sun, 04 Mar 2018 17:15:04 +0000</saledate>
+    <price currency='CAD'>219</price>
+    <condition>new</condition>
+    <notes>In shrink with book of set.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Feb 2018 15:22:28 +0000</listdate>
+    <saledate>Mon, 05 Mar 2018 16:29:25 +0000</saledate>
+    <price currency='EUR'>150</price>
+    <condition>likenew</condition>
+    <notes>Everything new in box. Shrinkwrap only removed to check content.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Mar 2018 16:34:40 +0000</listdate>
+    <saledate>Wed, 07 Mar 2018 01:42:19 +0000</saledate>
+    <price currency='USD'>180</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Mar 2018 14:54:31 +0000</listdate>
+    <saledate>Sat, 10 Mar 2018 16:03:38 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238356/item/5997784#5997784]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction to Pay for Batman: Gotham City Chronicles_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Mar 2018 14:59:17 +0000</listdate>
+    <saledate>Sat, 17 Mar 2018 17:13:52 +0000</saledate>
+    <price currency='GBP'>150</price>
+    <condition>new</condition>
+    <notes>A listing for a full King Pledge with revised rulebooks. Book of Set and Overlords Compendium (pro printed fan made scenario booklet from Monolith). So a TONNE of scenarios including the big box miniatures. 
+ The core game has been played once and everything is in pristine condition with the exception of a few very minor nudges, 1mm width, on the stretch goal box which I only noticed recently.
+£10 delivery via DPD or similar. £15 for EU. Signature required.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Mar 2018 12:26:09 +0000</listdate>
+    <saledate>Wed, 21 Mar 2018 21:26:44 +0000</saledate>
+    <price currency='USD'>150</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238681/item/6038494#6038494]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market - 2018 Geekway to the West_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Mar 2018 13:20:49 +0000</listdate>
+    <saledate>Fri, 30 Mar 2018 19:02:08 +0000</saledate>
+    <price currency='EUR'>150</price>
+    <condition>new</condition>
+    <notes>Conan King Pledge - still under shrinkwrap.
+Incl. Compendium 1 (16 extra scenario_T_E_M_P_T_A_G_#039;s). 
+Shipping to Europe (preference BE _T_E_M_P_T_A_G_amp; NL). Pick-up possible (big boxes).  
+Payment via bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Jan 2018 00:49:00 +0000</listdate>
+    <saledate>Sat, 31 Mar 2018 20:13:09 +0000</saledate>
+    <price currency='USD'>359.95</price>
+    <condition>new</condition>
+    <notes>This is for my incoming English King-level pledge of this game. It will be shipped to you as soon as it is received. It will be brand new and will include the following:
+Conan: _T_E_M_P_T_A_G_quot;King_T_E_M_P_T_A_G_quot; Pledge Box (English) 1 w/ campaign art book and v2.0 rulebook!
+CON14FREN Conan: _T_E_M_P_T_A_G_quot;Giant Wolves_T_E_M_P_T_A_G_quot; Unit Box (10 Pcs) - KS EXCLUSIVE
+CON20FREN Conan: _T_E_M_P_T_A_G_quot;Yogah of Yag_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) 1
+CON10FREN Conan: _T_E_M_P_T_A_G_quot;Baal Pteor_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) - KS EXCLUSIVE
+CON15FREN Conan: _T_E_M_P_T_A_G_quot;Demon of the Earth_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) - KS EXCLUSIVE
+CON18FREN Conan: _T_E_M_P_T_A_G_quot;Dice_T_E_M_P_T_A_G_quot; Add-on Pack (6 Pcs) 1
+CON11FREN Conan: _T_E_M_P_T_A_G_quot;Black Dragons_T_E_M_P_T_A_G_quot; Unit Box (5 Pcs) - KS EXCLUSIVE
+CON13FREN Conan: _T_E_M_P_T_A_G_quot;Sabretooth Tiger_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) - KS EXCLUSIVE
+CON07FREN Conan: _T_E_M_P_T_A_G_quot;Vanir Valkyrie_T_E_M_P_T_A_G_quot; Unit Box (1 Pc) - - KS EXCLUSIVE
+CON03FREN Conan: _T_E_M_P_T_A_G_quot;Stretch Goal_T_E_M_P_T_A_G_quot; Box
+Domestic USA shipping is $25 and I always combine shipping +$1. International shipping is NOT available on this one.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Apr 2018 05:43:04 +0000</listdate>
+    <saledate>Tue, 03 Apr 2018 06:11:03 +0000</saledate>
+    <price currency='EUR'>69.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 11,99€ (18,99€ GRE/BUL/CRO/ROM)
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Dec 2017 20:05:27 +0000</listdate>
+    <saledate>Sun, 08 Apr 2018 20:52:51 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>new</condition>
+    <notes>New in shrink and original shipping box.
+Contains the following:
+Book of Set (English version)
+Core Box from King Pledge (English version)
+Stretch Goal Box from King Pledge (English version)
+Rulebooks V2 (English version)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Apr 2018 20:26:00 +0000</listdate>
+    <saledate>Tue, 10 Apr 2018 20:28:18 +0000</saledate>
+    <price currency='USD'>180</price>
+    <condition>new</condition>
+    <notes>markwrenner only. Local pickup</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Apr 2018 17:11:25 +0000</listdate>
+    <saledate>Sun, 15 Apr 2018 17:21:14 +0000</saledate>
+    <price currency='EUR'>120</price>
+    <condition>new</condition>
+    <notes>Includes Book of Set, King Pledge, Stretch Goals and Rulebooks v2. New, unopened in plastic wrap and undamaged.
+Shipping cost depending on location. Package weight 10 Kg.
+18,05€ (Germany, Andorra, Austria, Belgium, Denmark, France (excluding overseas territories), Netherlands, United Kingdom, Slovenia, Sweden, Switzerland)
+30,40€ (Bulgaria, Cyprus, Croatia, Czech Rep., Estonia, Finland, Greece, Hungary, Iceland, Ireland, Italy, Liechtenstein, Lithuania, Latvia, Malta, Norway, Poland, Portugal, Romania, Slovakia, Spain)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 May 2018 22:54:01 +0000</listdate>
+    <saledate>Tue, 01 May 2018 23:05:49 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>new</condition>
+    <notes>All In Kickstarter Pledge - All expansions and add ons.
+Already Sold via Flea Market</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Mar 2018 14:35:35 +0000</listdate>
+    <saledate>Sat, 12 May 2018 12:39:26 +0000</saledate>
+    <price currency='EUR'>120</price>
+    <condition>likenew</condition>
+    <notes>Conan Board Game King Pledge, played once</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Apr 2018 22:58:58 +0000</listdate>
+    <saledate>Sat, 19 May 2018 23:03:27 +0000</saledate>
+    <price currency='USD'>255</price>
+    <condition>new</condition>
+    <notes>$30 Shipping all items as many as you want.  Free shipping if you buy more than $150 worth of stuff.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Jun 2018 17:40:15 +0000</listdate>
+    <saledate>Fri, 01 Jun 2018 17:50:41 +0000</saledate>
+    <price currency='CAD'>130</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241039/item/6136888#6136888]Item for Geeklist _T_E_M_P_T_A_G_quot;International Fat Offerring Auction. _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Jun 2018 18:17:16 +0000</listdate>
+    <saledate>Fri, 15 Jun 2018 08:01:54 +0000</saledate>
+    <price currency='EUR'>160</price>
+    <condition>verygood</condition>
+    <notes>Kickstarter Kings pledge 
++ feldherr storage foamcore for all content
++ 6 small storage boxes for the tokens
+The boxes have some cracks on the corners. I ve used some tape  from the inside to fix it. i can send some pictures if you want. 
+The feldherr foamcore is worth 60 euro alone.
+Shipping to europe 15 euro
+Germany 8</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Jan 2018 10:53:47 +0000</listdate>
+    <saledate>Fri, 15 Jun 2018 11:11:13 +0000</saledate>
+    <price currency='EUR'>120</price>
+    <condition>new</condition>
+    <notes>Unpunched, never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jun 2018 14:53:14 +0000</listdate>
+    <saledate>Wed, 27 Jun 2018 18:22:01 +0000</saledate>
+    <price currency='USD'>750</price>
+    <condition>new</condition>
+    <notes>I have an all in pledge for the Conan Boardgame by Mythic Games. It is still in the shrink wrap and never opened. It contains:
+The Core box with King Pledge Exclusives
+Nordheim Expansion
+Stygian Expansion
+Khiati Expansion
+Giant Wolves add on
+Vanir Valkyrie add on
+Campaign Book/Art Book
+Sabre Tooth Tiger add on
+Baal Pteor add on
+Black Dragons add on
+Demon of the Earth add on
+Xavier Collette guest box
+Brom box add on
+Paolo Parente guest box
+Kushite witch hunters add on
+Dragon add on
+Crossbow men add on
+Black Ones add on
+Yogah of Yag add on
+3D scenery pack add on
+3D doors pack add on
+Counter bases add on
+Dice add on</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jul 2018 20:26:45 +0000</listdate>
+    <saledate>Mon, 02 Jul 2018 13:27:04 +0000</saledate>
+    <price currency='CAD'>130</price>
+    <condition>likenew</condition>
+    <notes>Mint condition and never played, some items are still sealed inside the box. Can do Paypal or e-transfer</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jun 2018 00:52:34 +0000</listdate>
+    <saledate>Fri, 13 Jul 2018 16:07:11 +0000</saledate>
+    <price currency='USD'>175</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter King Pledge, Like new, un-punched, unplayed
+Includes:
+- Base Game
+- Deluxe King box still in shrink
+- All stretch goals
+- Hardbound Book of Set (Campaign/Artbook)
+Clearly this won_T_E_M_P_T_A_G_#039;t fit is a Flat Rate Box so buyer pays actual shipping from 30066.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jul 2018 05:38:23 +0000</listdate>
+    <saledate>Sat, 14 Jul 2018 11:37:28 +0000</saledate>
+    <price currency='USD'>66</price>
+    <condition>likenew</condition>
+    <notes>This item was created for MillicanDarque for an auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Jul 2018 22:36:16 +0000</listdate>
+    <saledate>Fri, 20 Jul 2018 02:55:47 +0000</saledate>
+    <price currency='USD'>150</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243601/item/6260287#6260287]Item for Geeklist _T_E_M_P_T_A_G_quot;I Have a Problem Auction from 17963 until 7/27_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jul 2018 16:42:43 +0000</listdate>
+    <saledate>Sun, 29 Jul 2018 09:34:09 +0000</saledate>
+    <price currency='EUR'>120</price>
+    <condition>verygood</condition>
+    <notes>Includes Book of Set, King Pledge, Stretch Goals and Rulebooks v2. New, unplayed and unpunched - box of basegame has a split edge, was a bit ditched during initial shipping from the manufacturer. Second box is ok.
+Shipping cost depending on location. Package weight 10 Kg.
+18,05€ (Germany, Andorra, Austria, Belgium, Denmark, France (excluding overseas territories), Netherlands, United Kingdom, Slovenia, Sweden, Switzerland)
+30,40€ (Bulgaria, Cyprus, Croatia, Czech Rep., Estonia, Finland, Greece, Hungary, Iceland, Ireland, Italy, Liechtenstein, Lithuania, Latvia, Malta, Norway, Poland, Portugal, Romania, Slovakia, Spain)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Jun 2018 21:43:29 +0000</listdate>
+    <saledate>Fri, 17 Aug 2018 03:30:28 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 May 2018 18:10:31 +0000</listdate>
+    <saledate>Mon, 20 Aug 2018 00:03:22 +0000</saledate>
+    <price currency='USD'>240</price>
+    <condition>new</condition>
+    <notes>Conan King Pledge edition (core game + King stretch goals box). Also includes 3 extras: Vanir Valkyrie, Black Dragons, and Demon of the Earth. I also have the updated 2.0 Hero and Overlord rulebooks. Everything is still in shrink. Paypal and Venmo accepted.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Dec 2017 22:56:04 +0000</listdate>
+    <saledate>Tue, 21 Aug 2018 19:07:34 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Flat shipping $20 for Continental USA. (See below for international shipping). Combined shipping available. Also available for pick up in NYC.
+I accept Paypal, Venmo, Google wallet and Chase Quickpay.
+Price is negotiable if you buy multiple games. 
+I will consider international shipping if USPS can ship to the country. The rate would be based on the flat rate packages on USPS website (plus $3 to buy insurance if the value is bigger than $50). Shipping to China is $9/lb.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Sep 2018 07:24:10 +0000</listdate>
+    <saledate>Wed, 12 Sep 2018 13:40:11 +0000</saledate>
+    <price currency='USD'>275</price>
+    <condition>new</condition>
+    <notes>New in Shrink
+Includes:
++ Book of Set
++ Core Box from King Pledge
++ Stretch Goal Box from King Pledge
++ Rulebooks V2
++ Community Scenario Book</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Sep 2018 10:27:16 +0000</listdate>
+    <saledate>Fri, 21 Sep 2018 15:48:27 +0000</saledate>
+    <price currency='EUR'>120</price>
+    <condition>likenew</condition>
+    <notes>If you have any questions, just write and I will answer as soon as possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Apr 2018 09:15:58 +0000</listdate>
+    <saledate>Mon, 01 Oct 2018 15:32:59 +0000</saledate>
+    <price currency='EUR'>399</price>
+    <condition>new</condition>
+    <notes>English King-level pledge of the Kickstarter edition of Conan ( https://www.kickstarter.com/projects/806316071/conan )
+including ALL Kickstarter-exclusives: Giant Wolves, Black Dragons, Baal-Pteor, Sabertooth Tiger, Vanir Valkyrie and Demon of the Earth!
+Brand new and sealed in shrinkwrap. Comes with printed revised rulebook also.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Apr 2018 22:37:30 +0000</listdate>
+    <saledate>Mon, 08 Oct 2018 02:36:07 +0000</saledate>
+    <price currency='USD'>200</price>
+    <condition>new</condition>
+    <notes>The core box has had the shrink removed to read the rulebook, but the extra (huge) box with all the Kickstarter extras is still in shrink. The core game has not been unpacked and has never been played.
+Shipping is $25.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Aug 2018 17:10:05 +0000</listdate>
+    <saledate>Mon, 22 Oct 2018 22:35:30 +0000</saledate>
+    <price currency='USD'>199.99</price>
+    <condition>new</condition>
+    <notes>Sale covers Conan Barbarian pledge AND the Add-On Campaign Book: _T_E_M_P_T_A_G_quot;Conan: The Legend of the Devil in Iron_T_E_M_P_T_A_G_quot;.
+Per Kickstarter: _T_E_M_P_T_A_G_quot;The Barbarian level pledge will get you a standard game box along with ALL the stretch goals unlocked during the campaign._T_E_M_P_T_A_G_quot;
+Consists of two never-opened and sealed boxes and a sealed add-on book.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Nov 2018 22:52:36 +0000</listdate>
+    <saledate>Wed, 07 Nov 2018 10:48:11 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Mar 2018 15:32:11 +0000</listdate>
+    <saledate>Sat, 01 Dec 2018 03:20:34 +0000</saledate>
+    <price currency='EUR'>269</price>
+    <condition>new</condition>
+    <notes>Kickstarter Kings Pledge, everything new and in shrink.
+PLUS :
+KS Exclusive Addons :
++ Baal-Pteor
++ Vanir Valkyrie
++ Demon of the Earth
++ Sabretooth Tiger
++ Black Dragons
++ Giant Wolves
++ The Legend of the Devil in Iron - Campaign/Scenario Book - KS Exclusive
++ Book of Set - 20 Scenario Book - KS Exclusive
++ Overlord Conan Compendium - 16 Scenario Book 
++ Rules v2.0
++ Punchboard for missing unit trackers 
+Paypal (Family _T_E_M_P_T_A_G_amp; Friends or +7€) or bank transfer  
+Shipment only to EU.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Nov 2018 17:11:36 +0000</listdate>
+    <saledate>Sat, 01 Dec 2018 03:20:35 +0000</saledate>
+    <price currency='EUR'>120</price>
+    <condition>new</condition>
+    <notes>This includes the following Conan expansions (everything still in shrinkwrap):
+10 Crossbowmen
+10 Black Ones
+Yogah of Yag
+4 Kushite Witch-Hunters
+Dragon</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Nov 2018 00:20:32 +0000</listdate>
+    <saledate>Mon, 17 Dec 2018 18:09:39 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>played once. Buyer pays $20 shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Dec 2018 15:59:45 +0000</listdate>
+    <saledate>Thu, 27 Dec 2018 10:12:23 +0000</saledate>
+    <price currency='EUR'>300</price>
+    <condition>verygood</condition>
+    <notes>quasi all il 1/3 des figurines peintes, d_T_E_M_P_T_A_G_#039;autres sous-couchée + 20 euros de frais
+les mousses de rangement, les boites des trois grandes extensions
+- Conan King pledge
+- Tout les stretchs goals
+- Khitai
+- Sthygia
+- Nordheim
+- Les dragons noirs
+- pack de portes
+- Valkyrie Vanir
+- Les hommes noirs
+- Baal-pteor
+- Démon de la terre
+- Loups géants
+- Dragon
+- Tigre à dents de sabre
+- Yogah de Yag
+- Arbalétriers
+- Chasseurs de sorcières kushites
+- La légende du diable d_T_E_M_P_T_A_G_#039;airain
+- Le livre de set
+- The overlord 1
+- Règles du jeu version 2.0
+- un tirage spéciale de la couv de la boite - goodies offert par monolith
+je crois ne rien avoir oublié</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Jan 2019 04:48:48 +0000</listdate>
+    <saledate>Mon, 21 Jan 2019 09:13:32 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Apr 2018 09:14:47 +0000</listdate>
+    <saledate>Wed, 23 Jan 2019 08:51:41 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>new</condition>
+    <notes>THIS IS NOT FOR THE BASE GAME!
+I_T_E_M_P_T_A_G_#039;m selling the KS Exclusive Miniature _T_E_M_P_T_A_G_quot;Savage Belit_T_E_M_P_T_A_G_quot; including her character sheet.
+It is unplayed and new.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Jan 2019 19:24:13 +0000</listdate>
+    <saledate>Mon, 28 Jan 2019 22:29:54 +0000</saledate>
+    <price currency='USD'>350</price>
+    <condition>verygood</condition>
+    <notes>King pledge + all expansions listed below (a lot). All consolidated into the two large boxes, miniatures stored in one box with a custom foamcore insert. All character boards laminated and corners rounded (look excellent). A few of the miniatures have the character name written on the underside of the base. 
+Expansions included:
+Baal-pteor
+Black Dragons
+Book of Set
+Collector_T_E_M_P_T_A_G_#039;s Box
+Crossbowmen
+Demon of the Earth
+Giant Wolves
+Khitai
+Kushite Witch Hunters
+Nordheim
+Sabertooth Tiger
+Stygia
+The Legend of the Devil in Iron
+Vanir Valkyrie
+Yogah of Yag
+Basically, everything released except the Dragon and the Black Ones. This is a TON of content.
+The two boxes are large and heavy. I do still have (I believe) one expansion box in which I have the french components stored, which I can include (but postage cost will increase). Buyer pays postage from 53121.
+GM with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Jan 2019 14:29:05 +0000</listdate>
+    <saledate>Wed, 30 Jan 2019 17:55:32 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Please only purchase if you are user Mike Welker</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

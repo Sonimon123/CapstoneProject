@@ -1,0 +1,1842 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="97915">
+   <yearpublished>2011</yearpublished>
+   <minplayers>1</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>120</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>120</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Bios: Megafauna</name>
+         
+   <description>In Bios: Megafauna, a reworking of Phil Eklund's own American Megafauna, players start as proto-dinosaurs or proto-mammals, starting in the post-holocaust world of the Permian catastrophe. Animals are tracked by dentition, size, aggressiveness, swiftness, browsing, grazing, burrowing, swimming, behavior, and insect-eating. Plants and animals that have gone extinct are collected in an area on the map called the tarpits. These tiles are distributed among the most populous players as victory points during four scoring rounds._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Players cope with intense competition and environmental changes by starting new species and mutating them. Create bizarre chimeras, from vegetarian velociraptors to flying dolphins. Establish subterranean civilizations, tame fire, or just be super-sexy._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Reimplements:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    American Megafauna_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/7jlVpanZPbhaw4igJdeM9ZCHSFw=/fit-in/200x150/pic1022024.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/OFz_PgiM4lC8N7Q1Prx2cSvOPKA=/0x0/pic1022024.jpg</image>
+      
+                          <boardgamecategory objectid="1089">Animals</boardgamecategory>
+               <boardgamefamily objectid="7559">Animals: Dinosaurs</boardgamefamily>
+               <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamefamily objectid="23433">BIOS series</boardgamefamily>
+               <boardgameintegration objectid="98918">Bios: Genesis</boardgameintegration>
+                      <boardgameimplementation objectid="221769">Bios: Megafauna (Second Edition)</boardgameimplementation>
+               <boardgameexpansion objectid="134068">BIOS: Origins</boardgameexpansion>
+               <boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+                                    <boardgamedesigner objectid="174">Phil Eklund</boardgamedesigner>
+               <boardgamecategory objectid="1084">Environmental</boardgamecategory>
+                      <boardgameversion objectid="96915">First edition</boardgameversion>
+                      <boardgameartist objectid="37975">Tim Park</boardgameartist>
+                             <boardgamecategory objectid="1036">Prehistoric</boardgamecategory>
+                      <boardgamepublisher objectid="101">Sierra Madre Games</boardgamepublisher>
+               <boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+               <boardgamefamily objectid="5666">Solitaire Games</boardgamefamily>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamepodcastepisode objectid="185633">The Good The Board and The Heavy Petting: Episode 76 ” Heavy Player Interaction”</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="261391">The Good the Board and the Tales of Tabletop Dystopia Episode 185 Board Game Fails</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+               <boardgamefamily objectid="16886">Theme: Biological Evolution</boardgamefamily>
+               <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+                             <boardgameimplementation objectid="639" inbound="true">American Megafauna</boardgameimplementation>
+               <boardgameintegration objectid="98918" inbound="true">Bios: Genesis</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="27">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="8" />
+     <result value="Recommended" numvotes="14" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="16" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="12">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="1" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="7" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="13">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="4" />
+     <result value="14" numvotes="6" />
+     <result value="16" numvotes="3" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>749</usersrated>
+     <average>6.97088</average>
+     <bayesaverage>6.06045</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1958" bayesaverage="6.06045" />
+            
+       
+              <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="340" bayesaverage="6.31709" />
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="890" bayesaverage="6.18796" />
+            
+           </ranks>
+     
+     <stddev>1.67647</stddev>
+     <median>0</median>
+     <owned>1303</owned>
+     <trading>56</trading>
+     <wanting>125</wanting>
+     <wishing>490</wishing>
+     <numcomments>290</numcomments>
+     <numweights>77</numweights>
+     <averageweight>3.6753</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sun, 23 Oct 2011 04:52:22 +0000</listdate>
+    <saledate>Tue, 22 Nov 2011 23:49:39 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+BIOS MEGAFAUNA: $44.95
+Sierra Madre Games [SMG 30]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: DEC 2011
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Nov 2011 11:04:15 +0000</listdate>
+    <saledate>Sat, 26 Nov 2011 10:40:51 +0000</saledate>
+    <price currency='EUR'>44.99</price>
+    <condition>new</condition>
+    <notes>English version.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Nov 2011 07:03:42 +0000</listdate>
+    <saledate>Tue, 15 Nov 2011 12:38:29 +0000</saledate>
+    <price currency='EUR'>44</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Nov 2011 12:43:44 +0000</listdate>
+    <saledate>Sat, 26 Nov 2011 11:04:09 +0000</saledate>
+    <price currency='EUR'>44</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Nov 2011 16:05:42 +0000</listdate>
+    <saledate>Mon, 28 Nov 2011 19:54:24 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+BIOS MEGAFAUNA: $44.95
+Sierra Madre Games [SMG 30]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: DEC 2011
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Nov 2011 04:01:50 +0000</listdate>
+    <saledate>Tue, 29 Nov 2011 19:20:23 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+BIOS MEGAFAUNA: $44.95
+Sierra Madre Games [SMG 30]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: DEC 2011
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Nov 2011 07:24:19 +0000</listdate>
+    <saledate>Sun, 25 Dec 2011 19:14:23 +0000</saledate>
+    <price currency='EUR'>44</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Dec 2011 08:07:01 +0000</listdate>
+    <saledate>Fri, 10 Feb 2012 00:07:18 +0000</saledate>
+    <price currency='EUR'>44.99</price>
+    <condition>new</condition>
+    <notes>English version.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Dec 2011 17:02:33 +0000</listdate>
+    <saledate>Tue, 13 Dec 2011 19:52:50 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Punched but unplayed. All components present and correct. £5 shipping within UK, Contact me for other destinations.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Dec 2011 00:07:34 +0000</listdate>
+    <saledate>Wed, 21 Dec 2011 22:17:55 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $49.95  ...in stock now...no waiting!
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Dec 2011 15:57:32 +0000</listdate>
+    <saledate>Tue, 03 Jan 2012 16:28:06 +0000</saledate>
+    <price currency='USD'>43.49</price>
+    <condition>new</condition>
+    <notes>Sierra Madre Games (SRM 30)
+Start as a proto-dinosaur or proto-mammal, just after the Permian apocalypse that destroyed 96% of the planet. Faced with environmental changes and competition from others, you must mutate your species and start new species. Create bizarre chimeras, from vegetarian velociraptors to flying dolphins. Establish subterranean civilizations, tame fire, or just be super-sexy. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Dec 2011 12:58:51 +0000</listdate>
+    <saledate>Sun, 14 Sep 2014 21:34:06 +0000</saledate>
+    <price currency='EUR'>62.5</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jan 2012 12:04:31 +0000</listdate>
+    <saledate>Wed, 11 Jan 2012 23:59:34 +0000</saledate>
+    <price currency='EUR'>44.99</price>
+    <condition>new</condition>
+    <notes>Sierra Madre Games - Bios Megafauna Evolution
+Language: English
+Players: 1 to 4
+Age: 12+
+Duration: about 2 hour
+Weight: 1.210 kg
+New -- mint condition -- unopened -- still in shrink wrap.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jan 2012 14:37:36 +0000</listdate>
+    <saledate>Wed, 04 Jan 2012 13:36:08 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>This is reserved for mattmallen, who won it in my auction.
+Shipping is via USPS Priority Medium Flat Rate ($10.95) plus Delivery Confirmation ($0.70).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2012 22:11:06 +0000</listdate>
+    <saledate>Wed, 11 Jan 2012 17:53:00 +0000</saledate>
+    <price currency='USD'>43.49</price>
+    <condition>new</condition>
+    <notes>Sierra Madre Games (SRM 30)
+ 
+Start as a proto-dinosaur or proto-mammal, just after the Permian apocalypse that destroyed 96% of the planet. Faced with environmental changes and competition from others, you must mutate your species and start new species. Create bizarre chimeras, from vegetarian velociraptors to flying dolphins. Establish subterranean civilizations, tame fire, or just be super-sexy. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jan 2012 16:46:59 +0000</listdate>
+    <saledate>Thu, 19 Jan 2012 06:49:15 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>new, in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jan 2012 04:16:49 +0000</listdate>
+    <saledate>Tue, 24 Jan 2012 23:48:56 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jan 2012 22:13:47 +0000</listdate>
+    <saledate>Tue, 10 Apr 2012 18:03:37 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $9.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Jan 2012 17:49:37 +0000</listdate>
+    <saledate>Mon, 23 Jan 2012 19:24:30 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Played once, excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jan 2012 02:47:14 +0000</listdate>
+    <saledate>Mon, 09 Apr 2012 20:59:59 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>verygood</condition>
+    <notes>Shipping is $12. Combined shipping rates are available when purchasing multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2012 16:16:29 +0000</listdate>
+    <saledate>Fri, 10 Feb 2012 23:34:10 +0000</saledate>
+    <price currency='USD'>43.49</price>
+    <condition>new</condition>
+    <notes>Sierra Madre Games (SRM 30)
+Start as a proto-dinosaur or proto-mammal, just after the Permian apocalypse that destroyed 96% of the planet. Faced with environmental changes and competition from others, you must mutate your species and start new species. Create bizarre chimeras, from vegetarian velociraptors to flying dolphins. Establish subterranean civilizations, tame fire, or just be super-sexy. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Mar 2012 18:45:48 +0000</listdate>
+    <saledate>Thu, 05 Apr 2012 23:56:23 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>In excellent condition. Played 4 times by clean-handed individuals.
+Domestic shipping is $11 via USPS Priority Mail.  Contact me for an international shipping quote.
+Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Apr 2012 04:36:22 +0000</listdate>
+    <saledate>Mon, 09 Apr 2012 05:44:11 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>For sale to member Longball only.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Apr 2012 15:00:00 +0000</listdate>
+    <saledate>Sun, 10 Jun 2012 00:56:54 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $42.95 
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Apr 2012 04:35:54 +0000</listdate>
+    <saledate>Mon, 30 Apr 2012 05:00:39 +0000</saledate>
+    <price currency='USD'>51</price>
+    <condition>verygood</condition>
+    <notes>This item is only for user: SiddGames. It is for a Geekbay auction. Please note that this price INCLUDES Priority shipping.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 May 2012 12:00:10 +0000</listdate>
+    <saledate>Sat, 07 Jul 2012 18:10:21 +0000</saledate>
+    <price currency='EUR'>48</price>
+    <condition>new</condition>
+    <notes>Shipping cost in France and Europe: 8€
+Shipping cost - rest of the world: 18€
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jun 2012 03:38:27 +0000</listdate>
+    <saledate>Sat, 02 Jun 2012 11:17:11 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>likenew</condition>
+    <notes>This is a combination of Bios Megafauna and FITS for auction winner kidsplinter</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jun 2012 05:34:06 +0000</listdate>
+    <saledate>Sat, 11 Aug 2012 08:28:27 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>played a few times; condition is perfect all pieces bagged</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jul 2012 21:21:18 +0000</listdate>
+    <saledate>Thu, 19 Jul 2012 02:38:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Reserved for sofge.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jul 2012 13:21:38 +0000</listdate>
+    <saledate>Tue, 21 Aug 2012 21:08:14 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Closet-clearing sale:
+Punched but unplayed. A couple of the dinosaurs came with broken tails. They are fragile, and I imagine this happens in almost all copies of the game.
+Ships from China. Buyer pays actual costs of shipping. Pay by PayPal or Alipay.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Sep 2012 12:18:50 +0000</listdate>
+    <saledate>Tue, 25 Sep 2012 23:14:45 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Shipping outside Germany seems to be expensive, please ask for a price.
+Kind regards</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Sep 2012 21:02:31 +0000</listdate>
+    <saledate>Mon, 01 Oct 2012 13:48:43 +0000</saledate>
+    <price currency='USD'>43.99</price>
+    <condition>new</condition>
+    <notes>Sierra Madre Games (SRM30)
+Start as a proto-dinosaur or proto-mammal, just after the Permian apocalypse that destroyed 96% of the planet. Faced with environmental changes and competition from others, you must mutate your species and start new species. Create bizarre chimeras, from vegetarian velociraptors to flying dolphins. Establish subterranean civilizations, tame fire, or just be super-sexy. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Nov 2012 17:05:51 +0000</listdate>
+    <saledate>Wed, 01 Jan 2014 22:55:08 +0000</saledate>
+    <price currency='GBP'>47.99</price>
+    <condition>new</condition>
+    <notes>Payment can be made through secure order form at www.spiritgames.co.uk or by Paypal (salnphil@spiritgames.co.uk £1 fee, invoice on request)
+UK Postage £5.00. First Class
+Overseas Postage at cost - please email us.
+There is a discount for larger games or several game bought together:
+5% over £50 total games value
+10% over £100 total games value
+Max UK Postage £5.00</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Nov 2012 02:25:44 +0000</listdate>
+    <saledate>Mon, 26 Nov 2012 03:56:03 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>Auction Win for:
+Scott Henshaw
+(ScottH</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jan 2013 16:03:24 +0000</listdate>
+    <saledate>Sun, 27 Jan 2013 16:24:26 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>verygood</condition>
+    <notes>Geeklist Auction item reserved for andre.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Mar 2013 16:38:51 +0000</listdate>
+    <saledate>Tue, 02 Apr 2013 01:36:30 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>likenew</condition>
+    <notes>Game is in pristine condition - all cards sleeved, all bits bagged</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Mar 2013 20:41:09 +0000</listdate>
+    <saledate>Thu, 04 Apr 2013 12:23:21 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>For auction winner alexsr only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Apr 2013 21:46:10 +0000</listdate>
+    <saledate>Fri, 19 Apr 2013 02:54:34 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>good</condition>
+    <notes>Reserved for Barry Goldstein.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Apr 2013 10:41:38 +0000</listdate>
+    <saledate>Wed, 26 Feb 2014 16:05:16 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>likenew</condition>
+    <notes>only without foil</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 May 2013 21:43:56 +0000</listdate>
+    <saledate>Thu, 02 May 2013 21:45:37 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR raid1280
+Opened but unpunched</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Jun 2013 02:10:05 +0000</listdate>
+    <saledate>Sun, 23 Jun 2013 00:00:16 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Make sure you find some decent guides for how to play this game. The original manual (included and looks brand new) explains how to play horribly.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jun 2013 03:49:30 +0000</listdate>
+    <saledate>Fri, 05 Jul 2013 20:47:08 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Opened, but unplayed.
+Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Sep 2013 22:09:21 +0000</listdate>
+    <saledate>Thu, 13 Feb 2014 07:56:39 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>Unplayed, unpunched.
+Accept Paypal or IBAN with BIC
+Any questions just ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Oct 2013 23:55:34 +0000</listdate>
+    <saledate>Tue, 29 Oct 2013 22:02:12 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened and sorted.
+Would ship USPS.
+Questions? Ask.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Nov 2013 14:31:12 +0000</listdate>
+    <saledate>Tue, 28 Jan 2014 07:28:04 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $34.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Nov 2013 14:52:24 +0000</listdate>
+    <saledate>Sat, 04 Jan 2014 21:06:55 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>New and still in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Dec 2013 15:51:00 +0000</listdate>
+    <saledate>Wed, 04 Dec 2013 15:58:12 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Dec 2013 14:57:11 +0000</listdate>
+    <saledate>Sat, 10 May 2014 05:29:35 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>new</condition>
+    <notes>Phil Eklund_T_E_M_P_T_A_G_#039;s realistic evolution game - it_T_E_M_P_T_A_G_#039;s a tough struggle against climate, environment and, of course, the other players.
+This price is for UK/EU purchasers (and includes VAT). For purchasers outside the EU, the price is £29.17 (net of UK tax - note that the purchaser is responsible for paying any duty or tax due on import to their country).
+I charge shipping at cost and I can offer several options (or ask me to get a quote from couriers).
+To UK addresses:
+MyHermes (3 working days) £3.98
+Second class post (3 working days) £4.56
+First class post (1 working day) £6.54
+To other EU countries:
+Air mail (1 week) £13.14
+To the rest of the world:
+Air mail in Europe (about 1 week) £10.95
+Air mail (about 1 week, no tracking): £19.30 (Australia)/£18.25 (elsewhere)
+Surface mail (up to 8 weeks, no tracking): £10.90
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Jan 2014 02:07:14 +0000</listdate>
+    <saledate>Tue, 21 Jan 2014 22:39:33 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>This is only for Lewk1700
+It also contains Mars Needs Mechanics</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Jan 2014 02:08:37 +0000</listdate>
+    <saledate>Fri, 31 Jan 2014 15:58:47 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>For Tripp only</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Feb 2014 18:35:09 +0000</listdate>
+    <saledate>Wed, 19 Feb 2014 23:03:43 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $34.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Feb 2014 02:45:12 +0000</listdate>
+    <saledate>Mon, 14 Apr 2014 10:57:48 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $39.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Feb 2014 23:02:09 +0000</listdate>
+    <saledate>Sun, 23 Mar 2014 18:57:58 +0000</saledate>
+    <price currency='USD'>43.99</price>
+    <condition>new</condition>
+    <notes>Sierra Madre Games (SRM30)
+Start as a proto-dinosaur or proto-mammal, just after the Permian apocalypse that destroyed 96% of the planet. Faced with environmental changes and competition from others, you must mutate your species and start new species. Create bizarre chimeras, from vegetarian velociraptors to flying dolphins. Establish subterranean civilizations, tame fire, or just be super-sexy. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Mar 2014 17:28:17 +0000</listdate>
+    <saledate>Sat, 03 May 2014 18:02:33 +0000</saledate>
+    <price currency='EUR'>59.99</price>
+    <condition>new</condition>
+    <notes>Bios: Megafauna
+English first edition
+Publisher: Sierra Madre Games</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Mar 2014 13:46:49 +0000</listdate>
+    <saledate>Sat, 08 Mar 2014 13:59:59 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Sold to user _T_E_M_P_T_A_G_quot;Verkisto_T_E_M_P_T_A_G_quot; in TGD virtual fleamarket - TGD pickup ONLY! Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Apr 2014 14:29:08 +0000</listdate>
+    <saledate>Tue, 22 Jul 2014 00:46:47 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $44.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 May 2014 22:08:25 +0000</listdate>
+    <saledate>Thu, 10 Jul 2014 21:52:05 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>new</condition>
+    <notes>Phil Eklund_T_E_M_P_T_A_G_#039;s realistic evolution game - it_T_E_M_P_T_A_G_#039;s a tough struggle against climate, environment and, of course, the other players.
+This price is for UK/EU purchasers (and includes VAT). For purchasers outside the EU, the price is £29.17 (net of UK tax - note that the purchaser is responsible for paying any duty or tax due on import to their country).
+I charge shipping at cost and I can offer several options (or ask me to get a quote from couriers).
+To UK addresses:
+MyHermes (3 working days) £3.98
+Second class post (3 working days) £4.56
+First class post (1 working day) £6.54
+To other EU countries:
+Air mail (1 week) £13.14
+To the rest of the world:
+Air mail in Europe (about 1 week) £10.95
+Air mail (about 1 week, no tracking): £19.30 (Australia)/£18.25 (elsewhere)
+Surface mail (up to 8 weeks, no tracking): £10.90
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 May 2014 16:53:22 +0000</listdate>
+    <saledate>Tue, 27 May 2014 17:15:27 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>Auction item for user gersh77</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jun 2014 16:34:23 +0000</listdate>
+    <saledate>Mon, 02 Jun 2014 21:19:37 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/173804/item/3236589#3236589]Item for Geeklist _T_E_M_P_T_A_G_quot;Because you can_T_E_M_P_T_A_G_#039;t play money: An Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jul 2014 07:32:59 +0000</listdate>
+    <saledate>Wed, 16 Jul 2014 22:15:58 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>new</condition>
+    <notes>Phil Eklund_T_E_M_P_T_A_G_#039;s realistic evolution game - it_T_E_M_P_T_A_G_#039;s a tough struggle against climate, environment and, of course, the other players.
+This price is for UK/EU purchasers (and includes VAT). For purchasers outside the EU, the price is £29.17 (net of UK tax - note that the purchaser is responsible for paying any duty or tax due on import to their country).
+I charge shipping at cost and I can offer several options (or ask me to get a quote from couriers).
+To UK addresses:
+MyHermes (3 working days) £3.98
+Second class post (3 working days) £4.56
+First class post (1 working day) £6.54
+To other EU countries:
+Air mail (1 week) £13.14
+To the rest of the world:
+Air mail in Europe (about 1 week) £10.95
+Air mail (about 1 week, no tracking): £19.30 (Australia)/£18.25 (elsewhere)
+Surface mail (up to 8 weeks, no tracking): £10.90
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jul 2014 00:52:30 +0000</listdate>
+    <saledate>Wed, 06 Aug 2014 22:24:53 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $44.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Jul 2014 05:21:42 +0000</listdate>
+    <saledate>Wed, 30 Jul 2014 10:02:54 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Domhnall101
+This sale has been auto-generated for the auction: [geekurl=/geeklist/176405/item/3335270#3335270]Item for Geeklist _T_E_M_P_T_A_G_quot;Trying to get down to 150 Auction! Wargames, Solo Games, and More!  Worldwide Shipping Available - Ends Sunday, July 27th!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Aug 2014 20:41:47 +0000</listdate>
+    <saledate>Sun, 31 Aug 2014 13:24:08 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Aug 2014 23:32:27 +0000</listdate>
+    <saledate>Wed, 13 Aug 2014 07:44:54 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+$10 shipping.  US Paypal verified addresses only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Aug 2014 03:29:48 +0000</listdate>
+    <saledate>Mon, 06 Oct 2014 06:38:57 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $44.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Nov 2014 22:40:17 +0000</listdate>
+    <saledate>Wed, 05 Nov 2014 04:15:01 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>for user: sciurius</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Nov 2014 02:50:45 +0000</listdate>
+    <saledate>Sat, 29 Nov 2014 15:19:48 +0000</saledate>
+    <price currency='USD'>44.99</price>
+    <condition>new</condition>
+    <notes>New in shrink. Ships for $12 to the US, a little less if you are near MN.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Oct 2014 17:05:22 +0000</listdate>
+    <saledate>Fri, 05 Dec 2014 19:08:47 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $49.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Nov 2014 18:23:59 +0000</listdate>
+    <saledate>Sun, 07 Dec 2014 18:10:43 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>English Rules. 
+Missing : 16 roadrunner tiles (no effect on gameplay) and 18 marker chips (easily replaced by wooden cubes).
+Free : tiles and player mats from _T_E_M_P_T_A_G_quot;American Megafauna_T_E_M_P_T_A_G_quot;.
+I only ship to EU.
+- Belgium : 8,65€
+- UK, Germany, Luxembourg, Netherlands, France : 18,55€
+- Other EU country : 34,95€
+Feel free to contact me :)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Dec 2014 23:42:39 +0000</listdate>
+    <saledate>Sun, 14 Dec 2014 20:18:57 +0000</saledate>
+    <price currency='GBP'>49.95</price>
+    <condition>verygood</condition>
+    <notes>Postage is £6.95 in the UK including tracking.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Jan 2015 21:34:11 +0000</listdate>
+    <saledate>Fri, 16 Jan 2015 02:18:44 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Like New, Played Once.  Smoke Free Home.
+Buy multiple items and save on shipping!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jan 2015 16:43:09 +0000</listdate>
+    <saledate>Sat, 17 Jan 2015 19:05:25 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>verygood</condition>
+    <notes>Punched bagged and only played a couple of times</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Jan 2015 03:02:12 +0000</listdate>
+    <saledate>Tue, 20 Jan 2015 17:28:10 +0000</saledate>
+    <price currency='USD'>69.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $69.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Jan 2015 16:07:34 +0000</listdate>
+    <saledate>Fri, 30 Jan 2015 22:46:31 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Game is in very good shape, only played a handful of times. Buyer to pay actual shipping cost. For estimation purposes, shipping from zip code 84020.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Jan 2015 19:19:23 +0000</listdate>
+    <saledate>Mon, 02 Feb 2015 15:02:01 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Jan 2015 20:11:01 +0000</listdate>
+    <saledate>Wed, 25 Feb 2015 17:57:56 +0000</saledate>
+    <price currency='GBP'>59.95</price>
+    <condition>new</condition>
+    <notes>New in Shrink
+Postage is £6.95 in the UK including tracking.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Dec 2014 10:43:31 +0000</listdate>
+    <saledate>Sat, 28 Feb 2015 16:23:25 +0000</saledate>
+    <price currency='EUR'>69</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Dec 2014 22:10:09 +0000</listdate>
+    <saledate>Mon, 02 Mar 2015 15:28:30 +0000</saledate>
+    <price currency='EUR'>80</price>
+    <condition>new</condition>
+    <notes>English version.
+All items are new and in shrink if so delivered by the producer.
+All items are really on stock. No fake set-up here. No Order on demand.
+International Customers, our precise shipping costs are as follows:
+DHL International Shipping: Zone 1 (Mostly Europe): 16,00â¬+1,00â¬ per two kilos
+Shipping costs can vary greatly after that and have to be asked for individually.
+We ship only fully insured. So ordering only a small pocket game or anything very low priced may come out to be very uneconomical.
+Methods of payment:
+-You can always pick the game up at our storage location :-)
+-We accept all credit cards !
+-You can use paypal. (That should be the first choice for non-EU customers)
+FÃŒr unsere deutschsprachigen Kunden:
+Sie kÃ¶nnen uns fÃŒr alle Fragen gerne telefonisch kontaktieren:
+Tel.: 0201-786877
+Die Versandkosten innerhalb Deutschlands betragen 5,- Euro (inkl. 19% Mwst.). Ab 100â¬ versenden wir innerhalb Deutschlands Versandkostenfrei.
+Alle Preise enthalten die gesetzliche Mehrwertsteuer in HÃ¶he von 19%.
+BezahlmÃ¶glichkeiten fÃŒr Kunden innerhalb Deutschlands:
+- Alle Kreditkarten willkommen !
+- Paypal
+- Vorkasse
+- Rechnung (Nicht fÃŒr Erstbesteller, wir behalten uns vor die ZahlungsmÃ¶glichkeit per Rechnung von Fall zu Fall neu zu bewerten !)
+ 
+Alternativ ist natÃŒrlich auch eine Abholung mit Bar-, EC-, oder Kreditkartenzahlung in unserem Lager mÃ¶glich. (Im GeschÃ€ft wird neben Brettspielen auch eine ÃŒppige Auswahl an Rollenspielen angeboten.)
+Beachten Sie bitte auch unsere Aktionen und weiter Angebote auf: www. fanen.com
+Widerrufsbelehrung
+Widerrufsrecht
+Sie kÃ¶nnen Ihre VertragserklÃ€rung innerhalb von zwei Wochen ohne Angabe von GrÃŒnden in Textform (z. B. Brief oder E-Mail),
+oder durch RÃŒcksendung der Sache widerrufen. 
+Die Frist beginnt frÃŒhestens mit Erhalt dieser Belehrung.
+Zur Wahrung der Widerrufsfrist genÃŒgt die rechtzeitige Absendung des Widerrufs oder der Sache. 
+Der Widerruf ist zu richten an:
+Fantasy En_T_E_M_P_T_A_G_#039;Counter c/o Holger Willert
+Gudulastr. 5 D(HofgebÃ€ude rechts hinten) 
+45131 Essen
+email: fanen@fanen.com
+Widerrufsfolgen
+Im Falle eines wirksamen Widerrufs sind die beiderseits empfangenen Leistungen zurÃŒckzugewÃ€hren. 
+KÃ¶nnen Sie uns die empfangene Leistung ganz oder teilweise nicht oder nur in verschlechtertem Zustand zurÃŒckgewÃ€hren,
+mÃŒssen Sie uns insoweit ggf. Wertersatz leisten. 
+Bei der Ãberlassung von Sachen gilt dies nicht, wenn die Verschlechterung der Sache ausschlieÃlich auf deren PrÃŒfung - wie sie Ihnen etwa im LadengeschÃ€ft mÃ¶glich gewesen wÃ€re - zurÃŒckzufÃŒhren ist. 
+Im Ãbrigen kÃ¶nnen Sie die Wertersatzpflicht vermeiden, 
+indem Sie die Sache nicht wie ein EigentÃŒmer in Gebrauch nehmen und alles unterlassen, was deren Wert beeintrÃ€chtigt. 
+Sie haben die Kosten der RÃŒcksendung zu tragen, w
+enn die gelieferte Ware der bestellten entspricht und wenn der Preis der zurÃŒckzusendenden Sache einen Betrag von 40 Euro nicht ÃŒbersteigt,
+oder wenn Sie bei einem hÃ¶heren Preis der Sache zum Zeitpunkt des Widerrufs noch nicht die Gegenleistung,
+oder eine vertraglich vereinbarte Teilzahlung erbracht haben. 
+Anderenfalls ist die RÃŒcksendung fÃŒr Sie kostenfrei. 
+Nicht paketversandfÃ€hige Sachen werden bei Ihnen abgeholt. 
+Verpflichtungen zur Erstattung von Zahlungen mÃŒssen Sie innerhalb von 30 Tagen nach Absendung Ihrer WiderrufserklÃ€rung erfÃŒllen.
+Ende der Widerrufsbelehrung
+Seller: Fantasy EnCounter</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Jan 2015 03:02:12 +0000</listdate>
+    <saledate>Tue, 03 Mar 2015 04:32:05 +0000</saledate>
+    <price currency='USD'>74.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $74.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Mar 2015 13:10:12 +0000</listdate>
+    <saledate>Sun, 15 Mar 2015 16:30:35 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jan 2015 22:30:25 +0000</listdate>
+    <saledate>Tue, 17 Mar 2015 00:39:34 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>likenew</condition>
+    <notes>Played only a few times, always with sleeves. The box is intact.
+Shipped with sleeves, the latest version of the living rules printed out, plus some player boards (as available in the BGG files) printed on paper.
+Payment by check or bank transfer. Add shipping from France.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Mar 2015 02:11:12 +0000</listdate>
+    <saledate>Sun, 22 Mar 2015 17:35:08 +0000</saledate>
+    <price currency='USD'>99.99</price>
+    <condition>likenew</condition>
+    <notes>Excellent, never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Apr 2015 03:58:47 +0000</listdate>
+    <saledate>Fri, 10 Apr 2015 04:22:00 +0000</saledate>
+    <price currency='USD'>56</price>
+    <condition>likenew</condition>
+    <notes>Auction win for pharmakon only!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Apr 2015 23:46:53 +0000</listdate>
+    <saledate>Wed, 22 Apr 2015 00:36:40 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Most of the components are in mint condition (played once).
+Three animeeples were broken when I opened the box so I repaired them (no visible marks left).
+Rulebook shows manipulation mark
+Complete and bagged.
+WOULD SELL FOR 100$ IN COMBINATION WITH GREENLAND (NEW IN SHRINK)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 May 2015 00:54:33 +0000</listdate>
+    <saledate>Sat, 02 May 2015 02:33:08 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>For binauralg.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Mar 2015 08:33:27 +0000</listdate>
+    <saledate>Thu, 11 Jun 2015 08:17:27 +0000</saledate>
+    <price currency='EUR'>75</price>
+    <condition>likenew</condition>
+    <notes>Box and components like new.
+Weight: 1,2 kg.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jun 2015 15:25:47 +0000</listdate>
+    <saledate>Sun, 21 Jun 2015 22:00:44 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Only played solo a few times, excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 May 2015 19:11:37 +0000</listdate>
+    <saledate>Thu, 09 Jul 2015 04:48:35 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Never played.  Box plastic removed.  Cards and dino-meeples are still factory sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jul 2015 15:17:20 +0000</listdate>
+    <saledate>Tue, 21 Jul 2015 19:11:19 +0000</saledate>
+    <price currency='USD'>74.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $74.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Aug 2015 20:09:53 +0000</listdate>
+    <saledate>Wed, 12 Aug 2015 20:13:19 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194755/item/4045423#4045423]Item for Geeklist _T_E_M_P_T_A_G_quot;Another Big Auction - Wargames, Euros, and everything in between - NYC Local - _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Aug 2015 20:57:40 +0000</listdate>
+    <saledate>Sun, 16 Aug 2015 20:19:34 +0000</saledate>
+    <price currency='USD'>72</price>
+    <condition>new</condition>
+    <notes>New in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Jul 2015 19:58:17 +0000</listdate>
+    <saledate>Fri, 21 Aug 2015 05:18:44 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>Set-up and played solo play through. Game is in Like New condition. 
+Buyer agrees to pay USPS shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jul 2015 15:17:20 +0000</listdate>
+    <saledate>Sun, 23 Aug 2015 03:53:17 +0000</saledate>
+    <price currency='USD'>69.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $69.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Aug 2015 16:35:01 +0000</listdate>
+    <saledate>Wed, 26 Aug 2015 17:00:13 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Brand new</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 May 2015 01:08:57 +0000</listdate>
+    <saledate>Thu, 27 Aug 2015 05:20:30 +0000</saledate>
+    <price currency='CAD'>89.95</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Apr 2015 15:43:25 +0000</listdate>
+    <saledate>Tue, 01 Sep 2015 02:15:05 +0000</saledate>
+    <price currency='USD'>66.05</price>
+    <condition>likenew</condition>
+    <notes>Game was played once and is in like new shape.
+Please note that one white dolphin and one white predator are missing a tiny piece of their body (a leg and a piece of tail). I still have both pieces and they can be glued on again. You wouldn_T_E_M_P_T_A_G_#039;t notice it while playing the game but I thought it was worth mentioning.
+Shipping to the contiguous 48 states is $8.95
++++For user transcend11 only+++</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Oct 2015 22:27:47 +0000</listdate>
+    <saledate>Tue, 06 Oct 2015 22:37:18 +0000</saledate>
+    <price currency='USD'>61</price>
+    <condition>good</condition>
+    <notes>Auction winnings for shrimpoboy
+-BIOS: Megafauna
+-Dixit</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jul 2015 15:17:20 +0000</listdate>
+    <saledate>Wed, 28 Oct 2015 23:32:22 +0000</saledate>
+    <price currency='USD'>69.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $69.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Sep 2015 12:09:38 +0000</listdate>
+    <saledate>Wed, 04 Nov 2015 09:16:19 +0000</saledate>
+    <price currency='EUR'>100</price>
+    <condition>likenew</condition>
+    <notes>Never played.
+Postage will be 6€ within Germany, 16€ within the EU.
+Contact me for other shipping quotes.
+Paypal (+3€ Paypal fee) or bank transfer possible (IBAN / BIC).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jul 2015 15:17:20 +0000</listdate>
+    <saledate>Tue, 17 Nov 2015 00:17:03 +0000</saledate>
+    <price currency='USD'>69.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $69.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Nov 2015 14:32:11 +0000</listdate>
+    <saledate>Tue, 24 Nov 2015 15:57:21 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>For user exar_DC</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Nov 2015 03:53:45 +0000</listdate>
+    <saledate>Tue, 24 Nov 2015 16:29:56 +0000</saledate>
+    <price currency='CAD'>50</price>
+    <condition>likenew</condition>
+    <notes>Punched, sorted. Unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Nov 2015 03:38:19 +0000</listdate>
+    <saledate>Mon, 30 Nov 2015 03:39:32 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/200147/item/4298764#4298764]Item for Geeklist _T_E_M_P_T_A_G_quot;Making Space...Essen Titles are crowding my shelves!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Dec 2015 02:44:41 +0000</listdate>
+    <saledate>Mon, 14 Dec 2015 05:48:09 +0000</saledate>
+    <price currency='USD'>69</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink.  Slight dishing on the top of the box.  
+Shipping is $12.95 by USPS priority.  No Alaska or Hawaii shipping.  No international shipping.  Shipping occurs Wednesdays and Fridays.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Dec 2015 14:52:46 +0000</listdate>
+    <saledate>Sat, 02 Jan 2016 20:17:49 +0000</saledate>
+    <price currency='EUR'>75</price>
+    <condition>new</condition>
+    <notes>Still shrink wrapped</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Nov 2015 23:09:56 +0000</listdate>
+    <saledate>Wed, 06 Jan 2016 21:41:50 +0000</saledate>
+    <price currency='USD'>99.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $99.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Dec 2015 01:51:16 +0000</listdate>
+    <saledate>Sun, 17 Jan 2016 20:28:45 +0000</saledate>
+    <price currency='USD'>94</price>
+    <condition>new</condition>
+    <notes>*** With every sale we donate a percentage to the Veterans Support Foundation (including this sale). ***
+Wargame Depot has donated over $7,500 to this wonderful cause thanks, largely, to the wonderful Boardgamegeek community. Thank you so much for your continued support of Wargame Depot which has allowed us to give generously to the VSF.
+Mint, in shrink copy available.  No dings, no dents, or anything wrong with the game.  Non-smoking environment and kept in a humidity-controlled location.
+$12 shipping to US - write me for a quote to the rest of the world.
+I_T_E_M_P_T_A_G_#039;m the owner of Wargame Depot so a purchase from me will always be packed professionally and I can accept Paypal, MO/Check, or MC/Visa/Discover/AMEX.
+And if you want this game plus anything else that I am selling on BGG, I_T_E_M_P_T_A_G_#039;ll of course be happy to add other items on in order to save you on shipping!
+North Carolina residents pay 7% sales tax.
+Cheers,
+Jason</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jan 2016 15:16:29 +0000</listdate>
+    <saledate>Sat, 23 Jan 2016 15:28:29 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Bought new, opened and sorted. Never played. Complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Jan 2016 20:39:02 +0000</listdate>
+    <saledate>Thu, 28 Jan 2016 21:02:35 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Feb 2016 11:08:43 +0000</listdate>
+    <saledate>Tue, 02 Feb 2016 05:04:48 +0000</saledate>
+    <price currency='USD'>49.75</price>
+    <condition>verygood</condition>
+    <notes>This item is reserved for user jaimedsc, pending his confirmation.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Nov 2015 14:31:39 +0000</listdate>
+    <saledate>Tue, 09 Feb 2016 21:14:50 +0000</saledate>
+    <price currency='USD'>84.99</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jan 2016 00:27:15 +0000</listdate>
+    <saledate>Sun, 14 Feb 2016 20:41:45 +0000</saledate>
+    <price currency='USD'>96</price>
+    <condition>new</condition>
+    <notes>*** With every sale we donate a percentage to the Veterans Support Foundation (including this sale). ***
+Wargame Depot has donated over $7,500 to this wonderful cause thanks, largely, to the wonderful Boardgamegeek community. Thank you so much for your continued support of Wargame Depot which has allowed us to give generously to the VSF.
+Mint, in shrink copy available.  No dings, no dents, or anything wrong with the game.  Non-smoking environment and kept in a humidity-controlled location.
+$12 shipping to US - write me for a quote to the rest of the world.
+I_T_E_M_P_T_A_G_#039;m the owner of Wargame Depot so a purchase from me will always be packed professionally and I can accept Paypal, MO/Check, or MC/Visa/Discover/AMEX.
+And if you want this game plus anything else that I am selling on BGG, I_T_E_M_P_T_A_G_#039;ll of course be happy to add other items on in order to save you on shipping!
+North Carolina residents pay 7% sales tax.
+Cheers,
+Jason
+PS:  We have many Osprey books in stock not listed on BGG.  The prices are well under publisher rates; if you are interested in them, please let me know!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Feb 2016 15:59:10 +0000</listdate>
+    <saledate>Tue, 16 Feb 2016 03:49:41 +0000</saledate>
+    <price currency='USD'>79</price>
+    <condition>verygood</condition>
+    <notes>Played once. Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Jan 2016 23:32:04 +0000</listdate>
+    <saledate>Mon, 22 Feb 2016 16:18:34 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes>Played once, excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Nov 2015 23:09:56 +0000</listdate>
+    <saledate>Thu, 25 Feb 2016 04:46:49 +0000</saledate>
+    <price currency='USD'>99.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA: $99.95
+Sierra Madre Games [SMG 30]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Mar 2016 00:13:49 +0000</listdate>
+    <saledate>Thu, 10 Mar 2016 01:40:18 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>new</condition>
+    <notes>For User St0ckpile only. I calculated shipping at $7.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Mar 2016 15:42:16 +0000</listdate>
+    <saledate>Fri, 11 Mar 2016 23:42:43 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>verygood</condition>
+    <notes>Game is in very good condition.
+Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Mar 2016 17:40:25 +0000</listdate>
+    <saledate>Sat, 12 Mar 2016 18:14:48 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205786/item/4488242#4488242]Item for Geeklist _T_E_M_P_T_A_G_quot;*LAST DAY!* Auction: Lots of Rare _T_E_M_P_T_A_G_amp; OOP Games/Expansions. Ends March 11, 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Auction item reserved for BGG user _T_E_M_P_T_A_G_quot;Scrunge_T_E_M_P_T_A_G_quot; only.
+Items:
+$75 - Bios: Megafauna
+-----------------------------------
+SUBTOTAL - $75
+Please complete this order by clicking _T_E_M_P_T_A_G_quot;Add to Cart_T_E_M_P_T_A_G_quot; and then _T_E_M_P_T_A_G_quot;Proceed to Checkout,_T_E_M_P_T_A_G_quot; making sure your delivery information is correct.  I will confirm the order giving the total owed, plus shipping, along with my PayPal account for payment.
+ 
+If you plan on local pick-up, specify whether you will be picking up in Rochester or in NYC (we will have to work out details for pick-up individually). Otherwise, shipping costs will be based on the policy detailed in the auction header (click on link below). Exact shipping costs will be provided upon order confirmation. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Mar 2016 02:02:57 +0000</listdate>
+    <saledate>Tue, 29 Mar 2016 10:19:01 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/206793/item/4533629#4533629]Item for Geeklist _T_E_M_P_T_A_G_quot;Holy Week, Batman! Auction - CLOSED - US Only - 49423 - BINs - Euros, Eklunds, War Games - Ends March  28_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you aren_T_E_M_P_T_A_G_#039;t ggambill.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Mar 2016 09:19:27 +0000</listdate>
+    <saledate>Fri, 01 Apr 2016 12:32:25 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>verygood</condition>
+    <notes>Only played once.
+Shipping to UK only £5</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Apr 2016 21:22:39 +0000</listdate>
+    <saledate>Tue, 26 Apr 2016 14:35:45 +0000</saledate>
+    <price currency='USD'>89.95</price>
+    <condition>new</condition>
+    <notes>Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Apr 2016 14:41:41 +0000</listdate>
+    <saledate>Fri, 29 Apr 2016 08:56:21 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes>Removed the shrink wrap and counters punched but never played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 May 2016 20:25:56 +0000</listdate>
+    <saledate>Sun, 01 May 2016 23:27:53 +0000</saledate>
+    <price currency='USD'>120</price>
+    <condition>likenew</condition>
+    <notes>Bios: Megafauna - $77
+Circus Train - $43
+This will likely ship in a large flat rate box for $17
+This sale has been auto-generated for the auction: [geekurl=/geeklist/208057/item/4590097#4590097]Item for Geeklist _T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_quot;I should have sold these games BEFORE moving..._T_E_M_P_T_A_G_quot; Auction (US Only)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Feb 2016 18:05:12 +0000</listdate>
+    <saledate>Thu, 12 May 2016 04:37:56 +0000</saledate>
+    <price currency='USD'>111</price>
+    <condition>new</condition>
+    <notes>*** With every sale we donate a percentage to the Veterans Support Foundation (including this sale). ***
+Wargame Depot has donated over $7,500 to this wonderful cause thanks, largely, to the wonderful Boardgamegeek community. Thank you so much for your continued support of Wargame Depot which has allowed us to give generously to the VSF.
+Mint, in shrink copy available.  No dings, no dents, or anything wrong with the game.  Non-smoking environment and kept in a humidity-controlled location.
+$12 shipping to US - write me for a quote to the rest of the world.
+I_T_E_M_P_T_A_G_#039;m the owner of Wargame Depot so a purchase from me will always be packed professionally and I can accept Paypal, MO/Check, or MC/Visa/Discover/AMEX.
+And if you want this game plus anything else that I am selling on BGG, I_T_E_M_P_T_A_G_#039;ll of course be happy to add other items on in order to save you on shipping!
+North Carolina residents pay 7% sales tax.
+Cheers,
+Jason</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 May 2016 05:48:36 +0000</listdate>
+    <saledate>Fri, 20 May 2016 14:56:47 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>This item is reserved for Omer. Please do not place order if you are not the said person.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Jun 2016 03:20:10 +0000</listdate>
+    <saledate>Thu, 09 Jun 2016 09:11:08 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>good</condition>
+    <notes>much loved copy.
+reserved for  rorschah.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 May 2016 23:57:54 +0000</listdate>
+    <saledate>Thu, 09 Jun 2016 10:35:45 +0000</saledate>
+    <price currency='USD'>79.95</price>
+    <condition>new</condition>
+    <notes>Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Apr 2016 18:25:07 +0000</listdate>
+    <saledate>Sat, 11 Jun 2016 01:37:10 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>likenew</condition>
+    <notes>Shrink removed, but unpunched and like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 May 2016 15:26:37 +0000</listdate>
+    <saledate>Sat, 18 Jun 2016 11:32:45 +0000</saledate>
+    <price currency='EUR'>80</price>
+    <condition>new</condition>
+    <notes>In shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Jun 2016 04:09:01 +0000</listdate>
+    <saledate>Wed, 13 Jul 2016 03:04:01 +0000</saledate>
+    <price currency='USD'>69</price>
+    <condition>new</condition>
+    <notes>The back is a little dinged, but the contents should not be affected by it.
+Also available for local pickup within San Francsico Bay Area.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jul 2016 15:49:31 +0000</listdate>
+    <saledate>Wed, 20 Jul 2016 17:09:31 +0000</saledate>
+    <price currency='CAD'>80</price>
+    <condition>likenew</condition>
+    <notes>Never played. Unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jun 2016 16:36:04 +0000</listdate>
+    <saledate>Tue, 26 Jul 2016 11:43:54 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>Great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Jun 2016 15:14:49 +0000</listdate>
+    <saledate>Fri, 29 Jul 2016 06:01:50 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>likenew</condition>
+    <notes>Opened but unplayed. Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jun 2016 15:26:40 +0000</listdate>
+    <saledate>Mon, 01 Aug 2016 11:13:06 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Opened, punched, but unplayed. Everything sorted and bagged.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jun 2016 20:27:31 +0000</listdate>
+    <saledate>Mon, 01 Aug 2016 15:51:13 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>verygood</condition>
+    <notes>2011 Sierra Madre Games. Unplayed, complete, in like new condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 May 2016 21:40:59 +0000</listdate>
+    <saledate>Thu, 18 Aug 2016 21:04:50 +0000</saledate>
+    <price currency='USD'>58</price>
+    <condition>verygood</condition>
+    <notes>We are a smoke-, pet-, and kid-free household. Shipping is via USPS Priority Mail Medium Flat Rate Box 2 at $13.45.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Aug 2016 11:32:30 +0000</listdate>
+    <saledate>Wed, 24 Aug 2016 14:30:32 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Notes
+There may be small amounts of typical box wear, but contents are 100%
+U.K. Shipping using MyHermes.
+Contact me for European prices</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Aug 2016 12:32:46 +0000</listdate>
+    <saledate>Wed, 07 Sep 2016 00:12:46 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>likenew</condition>
+    <notes>Box out of shrink; otherwise brand new. $8 shipping in U.S.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Sep 2016 16:03:20 +0000</listdate>
+    <saledate>Thu, 08 Sep 2016 00:29:29 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>likenew</condition>
+    <notes>Opened but unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Sep 2016 14:18:21 +0000</listdate>
+    <saledate>Tue, 20 Sep 2016 19:14:18 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Sep 2016 23:01:30 +0000</listdate>
+    <saledate>Tue, 20 Sep 2016 20:42:31 +0000</saledate>
+    <price currency='USD'>89</price>
+    <condition>new</condition>
+    <notes>... In Shrink and in beautiful Condition....</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Sep 2016 22:01:22 +0000</listdate>
+    <saledate>Wed, 05 Oct 2016 19:44:03 +0000</saledate>
+    <price currency='USD'>72</price>
+    <condition>likenew</condition>
+    <notes>Out of shrink but unplayed. Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Oct 2016 05:16:46 +0000</listdate>
+    <saledate>Fri, 11 Nov 2016 16:34:00 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Nov 2016 01:26:25 +0000</listdate>
+    <saledate>Mon, 14 Nov 2016 01:11:16 +0000</saledate>
+    <price currency='USD'>69.95</price>
+    <condition>likenew</condition>
+    <notes>Opened, punched, admired, never played. The cards are still in shrinkwrap. Everything, including the box, in pristine, like-new condition.
+Flat rate shipping of $14.50 to anywhere in the U.S. Local pickup available in the D.C. area (20815).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Nov 2016 10:03:37 +0000</listdate>
+    <saledate>Thu, 01 Dec 2016 20:34:24 +0000</saledate>
+    <price currency='EUR'>90</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Oct 2016 02:17:23 +0000</listdate>
+    <saledate>Fri, 02 Dec 2016 01:56:17 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>verygood</condition>
+    <notes>This listing is intended only for BG user Black Omega.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Dec 2016 17:28:44 +0000</listdate>
+    <saledate>Sat, 10 Dec 2016 18:03:50 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>verygood</condition>
+    <notes>Played once, all components are bagged and in excellent condition
+Buyer will pay shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Dec 2016 14:42:26 +0000</listdate>
+    <saledate>Wed, 14 Dec 2016 17:03:40 +0000</saledate>
+    <price currency='CAD'>80</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/218296/item/5080821#5080821]Item for Geeklist _T_E_M_P_T_A_G_quot;[CAN/US] Holiday Auction - 1960: TMOP, Space Empires, a couple of Eklunds, and more!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For user wylde_karde only.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Dec 2016 12:33:51 +0000</listdate>
+    <saledate>Sat, 17 Dec 2016 17:06:28 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Dec 2016 10:14:25 +0000</listdate>
+    <saledate>Wed, 21 Dec 2016 23:43:56 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>verygood</condition>
+    <notes>Game is played. Components complete and without noticeable wear. The Box has minimal signs of shelf wear.
+Shipping, insured, with tracking:
+Germany 4,99€
+Europe( DHL Zone 1): 13,99€
+payment via SEPA bank transfer or PayPal</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Dec 2016 03:39:15 +0000</listdate>
+    <saledate>Tue, 27 Dec 2016 06:57:38 +0000</saledate>
+    <price currency='USD'>59.99</price>
+    <condition>new</condition>
+    <notes>BIOS Megafauna, Sierra Madre Games 2011.
+Game is new in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Dec 2016 23:52:27 +0000</listdate>
+    <saledate>Thu, 05 Jan 2017 16:50:46 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>New in shrink!
+get this out of print Major work by Phil !
+Since it_T_E_M_P_T_A_G_#039;s new there is 100 percent guaranteed to have all the tons of pieces this game has!!
+Note:
+Buyer pays for Paypal fee (4 percent of total including shipping ) unless You Mark this transaction on Paypal with the payment option -for friend/family ,so that no extra charges are taken.
+Thank you for your purchase!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jan 2017 16:01:23 +0000</listdate>
+    <saledate>Thu, 19 Jan 2017 22:47:45 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>good</condition>
+    <notes>Received in a trade but just don_T_E_M_P_T_A_G_#039;t have it in me to learn it and need to purge some games. Some light shelf wear on the box. Two components are damaged (see below) but otherwise everything is excellent and well taken care of.
+The damaged components are one card which has a crease and one dinomeeple which is missing its legs. The crease is noticeable by touch and in the right light but hard to see otherwise. The dinomeeple is clearly broken, but it shouldn_T_E_M_P_T_A_G_#039;t be critical to gameplay. See the pictures of each below</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2017 19:07:31 +0000</listdate>
+    <saledate>Wed, 01 Feb 2017 15:42:26 +0000</saledate>
+    <price currency='EUR'>80</price>
+    <condition>good</condition>
+    <notes>Great condition, cards sleeved, separated in plastic bags. 
+Shipment is +5€ to Spain (with a possibility of personal meet to collect it in Madrid for free)
+For international shipment please contact BEFORE</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Feb 2017 18:20:34 +0000</listdate>
+    <saledate>Fri, 03 Feb 2017 19:14:26 +0000</saledate>
+    <price currency='USD'>63.99</price>
+    <condition>new</condition>
+    <notes>BIOS Megafauna, Sierra Madre Games 2011.
+Game is new in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Mar 2017 18:24:32 +0000</listdate>
+    <saledate>Wed, 05 Apr 2017 16:10:02 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>verygood</condition>
+    <notes>Rulebook is not included but everything else is in mint condition, never played the game actually. 
+Shipping (Ausrtia): 5€
+Pick up in Vienna
+I accept Money Transfer or Cash</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Mar 2017 01:02:04 +0000</listdate>
+    <saledate>Tue, 11 Apr 2017 18:09:52 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Unplayed.  Excellent, new condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Apr 2017 03:14:25 +0000</listdate>
+    <saledate>Mon, 17 Apr 2017 04:12:21 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>New in original shrink wrap with an additional set of roadrunner tiles.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Apr 2017 00:23:09 +0000</listdate>
+    <saledate>Thu, 20 Apr 2017 12:44:07 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Unpunched, never played, excellent condition.
+Ship worldwide, PayPal. Price is in US dollars. 
+$20 shipping to the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Mar 2017 04:27:33 +0000</listdate>
+    <saledate>Thu, 20 Apr 2017 14:52:51 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Includes shipping cost.  Reserved for Ashuashu</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Apr 2017 12:26:54 +0000</listdate>
+    <saledate>Tue, 02 May 2017 02:09:49 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>new</condition>
+    <notes>Shrink removed, but unpunched and unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Apr 2017 23:22:55 +0000</listdate>
+    <saledate>Thu, 04 May 2017 13:44:38 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>out of shrink; components sorted into baggies (never played)
+shipping: $14.60 priority mail
+(or combined shipping to be determined with multiple-game buys)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 May 2017 04:35:42 +0000</listdate>
+    <saledate>Sat, 06 May 2017 09:54:49 +0000</saledate>
+    <price currency='AUD'>59</price>
+    <condition>verygood</condition>
+    <notes>All components in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 May 2017 14:44:49 +0000</listdate>
+    <saledate>Tue, 09 May 2017 15:25:18 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Only for user niftykracker for pick up at Origins 2017.
+All other purchasers will be declined</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 May 2017 12:53:40 +0000</listdate>
+    <saledate>Wed, 10 May 2017 20:38:54 +0000</saledate>
+    <price currency='USD'>48.95</price>
+    <condition>likenew</condition>
+    <notes>The shrink wrap has been removed but the game remains unpunched and thus not played.  Box  and components are in like new condition.  Shipping in the US is $13.85.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 May 2017 15:23:33 +0000</listdate>
+    <saledate>Fri, 12 May 2017 21:26:16 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/224435/item/5344644#5344644]Item for Geeklist _T_E_M_P_T_A_G_quot;April Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 May 2017 04:47:52 +0000</listdate>
+    <saledate>Mon, 22 May 2017 10:40:14 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 May 2017 14:13:14 +0000</listdate>
+    <saledate>Thu, 25 May 2017 01:20:44 +0000</saledate>
+    <price currency='CAD'>50</price>
+    <condition>verygood</condition>
+    <notes>Sleeved.
+Buyer pays for shipping. Sale can be done in person if in Montreal. Do look at my other games for sale to see if a bundle could save you some shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Jun 2017 23:36:59 +0000</listdate>
+    <saledate>Mon, 05 Jun 2017 05:28:06 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>For BGGer:  astrostasis</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 May 2017 21:11:00 +0000</listdate>
+    <saledate>Fri, 09 Jun 2017 20:57:24 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Played a few times, but everything is in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Jul 2017 17:50:44 +0000</listdate>
+    <saledate>Thu, 03 Aug 2017 07:45:42 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 May 2017 12:30:43 +0000</listdate>
+    <saledate>Tue, 29 Aug 2017 09:52:40 +0000</saledate>
+    <price currency='GBP'>64.95</price>
+    <condition>verygood</condition>
+    <notes>Heavy game (_T_E_M_P_T_A_G_gt;2kg).  Postage (including tracking) is £7.95 to mainland UK or Northern Ireland, or £5.95 if you mark the paypal transfer as between friends, so I don_T_E_M_P_T_A_G_#039;t pay two sets of fees.  Contact me for other locations.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jun 2017 08:44:18 +0000</listdate>
+    <saledate>Tue, 19 Sep 2017 12:25:55 +0000</saledate>
+    <price currency='EUR'>69</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Sep 2017 16:47:44 +0000</listdate>
+    <saledate>Tue, 31 Oct 2017 17:21:57 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition, never played. All components have been bagged and punched.  Shipping will likely be $13 via USPS flat rate.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Nov 2017 12:29:06 +0000</listdate>
+    <saledate>Thu, 16 Nov 2017 18:04:01 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230892/item/5773270#5773270]Item for Geeklist _T_E_M_P_T_A_G_quot;PAX Unplugged Virtual Flea Market 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Cash or PayPal, let me know your preference. Can you do Friday on this?</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Sep 2017 16:29:48 +0000</listdate>
+    <saledate>Mon, 20 Nov 2017 06:17:00 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>new</condition>
+    <notes>New in shrink. Shipping is $10 to lower 48. Ships quickly.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Nov 2017 19:15:59 +0000</listdate>
+    <saledate>Wed, 27 Dec 2017 16:40:39 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>new</condition>
+    <notes>Unpunched. With a little plastic box for dinos that fit in the box
+/ 
+Sin destroquelar. Con unos archivadores de plástico para los dinosaurios, que entran en la misma caja.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Jan 2018 22:41:17 +0000</listdate>
+    <saledate>Sun, 07 Jan 2018 22:42:03 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/235899/item/5876415#5876415]Item for Geeklist _T_E_M_P_T_A_G_quot;Chris_T_E_M_P_T_A_G_#039;s NEW YEAR - NEW AUCTION Concoction (Cheap BINs, Cheap Shipping, All the time)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Apr 2017 12:00:01 +0000</listdate>
+    <saledate>Thu, 11 Jan 2018 09:36:55 +0000</saledate>
+    <price currency='EUR'>80</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 May 2017 18:01:26 +0000</listdate>
+    <saledate>Tue, 16 Jan 2018 00:24:39 +0000</saledate>
+    <price currency='CAD'>70</price>
+    <condition>verygood</condition>
+    <notes>Opened and organized, played twice. All components in excellent condition. Please add CA$20 for shipping. Local pick-up in Vancouver/Surrey is also possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Dec 2017 20:48:35 +0000</listdate>
+    <saledate>Mon, 05 Feb 2018 22:02:08 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New/in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Feb 2018 22:48:14 +0000</listdate>
+    <saledate>Mon, 26 Feb 2018 23:24:33 +0000</saledate>
+    <price currency='USD'>249</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/237954/item/5979171#5979171]Item for Geeklist _T_E_M_P_T_A_G_quot;Fix the Flood Auction #2_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+This includes: 7 Ages
+Origins
+Bazaar
+Great Khan GAme
+Throneworld
+cosari
+red 7and Origins as well.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Feb 2018 21:48:47 +0000</listdate>
+    <saledate>Sat, 28 Apr 2018 23:26:18 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Like new and complete. Shipping is $14.00 for Priority Mail (which includes insurance). PayPal payment can be sent to bitva2@yahoo.com, thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jul 2018 05:22:42 +0000</listdate>
+    <saledate>Mon, 02 Jul 2018 05:26:06 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/242643/item/6221454#6221454]Item for Geeklist _T_E_M_P_T_A_G_quot;Another Auction _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Jul 2018 02:57:32 +0000</listdate>
+    <saledate>Thu, 05 Jul 2018 20:06:57 +0000</saledate>
+    <price currency='USD'>47.94</price>
+    <condition>good</condition>
+    <notes>Condition: 2 corners complelty torn</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Aug 2018 14:37:50 +0000</listdate>
+    <saledate>Tue, 28 Aug 2018 14:54:59 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Reserved for dsdhornet
+This sale has been auto-generated for the auction: [geekurl=/geeklist/245031/item/6330129#6330129]Item for Geeklist _T_E_M_P_T_A_G_quot;Mini Auction the 3rd (CLOSED) - Roland_T_E_M_P_T_A_G_#039;s Battle Line, Arboretum and others_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Aug 2018 23:02:52 +0000</listdate>
+    <saledate>Wed, 05 Sep 2018 00:57:02 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Sep 2018 01:58:08 +0000</listdate>
+    <saledate>Mon, 24 Sep 2018 02:01:47 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/245948/item/6388891#6388891]Item for Geeklist _T_E_M_P_T_A_G_quot;Quick, Small, Strike Sale_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Nov 2018 00:49:09 +0000</listdate>
+    <saledate>Sun, 02 Dec 2018 01:05:45 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Complete game.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Oct 2018 22:24:37 +0000</listdate>
+    <saledate>Fri, 21 Dec 2018 00:30:23 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Sleeved with premium cards
+Buyer pays shipping ($14 USPS). US shipping only.
+Paypal. Cash ok for local pickup.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

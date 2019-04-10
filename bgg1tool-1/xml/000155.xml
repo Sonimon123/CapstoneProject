@@ -1,0 +1,596 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="155">
+   <yearpublished>1993</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>12</age>
+       <name  sortindex="1">Democracy</name>
+       <name primary="true" sortindex="1">Was sticht?</name>
+       <name  sortindex="1">ヴァス・シュティッヒ</name>
+         
+   <description>This is a two-trump, trick-taking card game, with several twists.  At the beginning of the game, players draft tasks they intend to complete in order to win the game.  (Tasks include things like _T_E_M_P_T_A_G_amp;quot;Take no tricks_T_E_M_P_T_A_G_amp;quot;, _T_E_M_P_T_A_G_amp;quot;Take 1 Trick_T_E_M_P_T_A_G_amp;quot;, or _T_E_M_P_T_A_G_amp;quot;Take No Red Cards_T_E_M_P_T_A_G_amp;quot;.)  Then, all of the cards are dealt out in front of the players before each hand.  Row by row, the players draft cards, and the dealer declares who would have won each row's trick, if it had been played that way.  Players use this information to deduce what the trump number and suit are.  After all the cards are drafted, each player - except the dealer - selects one of the task tiles she drafted, which will be her mission for the hand.  The dealer is stuck trying to uniquely accomplish someone else's task for the round - but at least doesn't have to preselect which person's goal he is trying to _T_E_M_P_T_A_G_amp;quot;steal_T_E_M_P_T_A_G_amp;quot;.  The hand is then played in the traditional fashion, with each player trying to take tricks or not, based on the goal she selected.  The first player to complete five tasks wins the game._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Re-implemented by:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    Mü _T_E_M_P_T_A_G_amp; Lots More_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/vkdrNu7hnIlSNbFqTWUQWMmYbVI=/fit-in/200x150/pic274047.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/C9cFA6evofVOnEABhrzGxYZWWzo=/0x0/pic274047.jpg</image>
+      
+            <boardgamehonor objectid="8954">1994 Fairplay À la carte Winner</boardgamehonor>
+               <boardgamehonor objectid="8681">1994 Spiel des Jahres Recommended</boardgamehonor>
+               <boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+               <boardgamecategory objectid="1039">Deduction</boardgamecategory>
+                                    <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgameversion objectid="30707">German edition</boardgameversion>
+                                           <boardgameversion objectid="274696">Japanese edition</boardgameversion>
+               <boardgameartist objectid="1586">Ralf E. Kahlert</boardgameartist>
+                      <boardgamepublisher objectid="2">Moskito Spiele</boardgamepublisher>
+               <boardgamecompilation objectid="32928">Mü _T_E_M_P_T_A_G_amp; Lots More</boardgamecompilation>
+               <boardgamepublisher objectid="9881">New Games Order, LLC</boardgamepublisher>
+                                           <boardgamedesigner objectid="1">Karl-Heinz Schmiel</boardgamedesigner>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamemechanic objectid="2009">Trick-taking</boardgamemechanic>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="12">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="9" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="9">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="3" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>588</usersrated>
+     <average>6.9328</average>
+     <bayesaverage>5.98252</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2256" bayesaverage="5.98252" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="982" bayesaverage="6.11425" />
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="545" bayesaverage="6.14234" />
+            
+           </ranks>
+     
+     <stddev>1.2435</stddev>
+     <median>0</median>
+     <owned>825</owned>
+     <trading>30</trading>
+     <wanting>31</wanting>
+     <wishing>83</wishing>
+     <numcomments>218</numcomments>
+     <numweights>58</numweights>
+     <averageweight>2.3966</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Wed, 08 Jan 2003 18:42:36 +0000</listdate>
+    <saledate>Sat, 26 Apr 2003 09:24:37 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>+++ in shrink +++
+2 to 5 day shipping to the USA for only $ 4.30.
+Shipping schedule is April 14th and April 21st.
+or
+make me an offer and take off 20 % from the listed price and I will arrange 
+regular worldwide shipping for EUR 6.00 within Europe or $ 7.50 worldwide. 
+For more detailed information ( insurance - airmail - combined shipping)
+please feel free to contact me. I can offer even more games upon request.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Mar 2003 19:22:44 +0000</listdate>
+    <saledate>Tue, 11 Nov 2003 13:46:32 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>still factory sealed
+shipping: Letter with a sturdy box around</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Oct 2003 21:57:07 +0000</listdate>
+    <saledate>Thu, 22 Jan 2004 14:35:27 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 6.00 within Europe or $8.50 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Jan 2004 15:54:03 +0000</listdate>
+    <saledate>Tue, 09 Mar 2004 02:46:46 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Jan 2004 22:33:43 +0000</listdate>
+    <saledate>Fri, 02 Apr 2004 13:13:44 +0000</saledate>
+    <price currency='USD'>9.9</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 6.00 within Europe or $8.50 worldwide. 
+The delivery time varies from 1 to 2 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+For costumers in the USA and Canada the shipping of games can be arranged with United States Postal Services (games up to 1 lb. and only within the USA) or Fedex Ground (most of the USA and Canada). 
+There is a small handling surcharge due to the higher effort of this special shipping offer. But believe me, the shipping costs and the delivery time (apx. 2 to 5 business days within the USA or 4 to 8 business days for shipments to Canada) probably will convince you.
+If you need more details please e-mail me your ZIP or Postal code and I will reply as soon as possible with an irresistible (???) offer.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Apr 2004 00:22:44 +0000</listdate>
+    <saledate>Mon, 13 Sep 2004 02:56:06 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 6.00 within Europe or $8.50 worldwide. 
+The delivery time varies from 1 to 2 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Sep 2004 13:19:07 +0000</listdate>
+    <saledate>Fri, 09 Dec 2005 04:29:57 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 6.00 within Europe or EUR 7.00 worldwide. 
+The delivery time varies from 1 to 2 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Nov 2004 10:46:00 +0000</listdate>
+    <saledate>Tue, 29 Mar 2005 20:02:43 +0000</saledate>
+    <price currency='EUR'>13.99</price>
+    <condition>new</condition>
+    <notes>never played +++++ german edition +++++ will be shipped with insurance only +++++ payment for germany : personal pick up in berlin or bank transfer +++++ payment for usa and canada : paypal or cash (by letter, exchanged already into euros) or bank transfer +++++ payment for asia and australia: cash (by letter, exchanged already into euros) or bank transfer +++++ countries, that have no euro : cash (by letter, exchanged already into euros) or bank transfer +++++ payment for european countries, that have euro : cash (by letter) or bank transfer (wich is cost-free !) +++++ payment for european countries, that have no euro : cash (by letter, exchanged already into euros) or bank transfer +++++ for all : no checks ! +++++ foreign buyers beware : german postal sadly is very expensive for foreign packages (about 18 - 45 euros, it depends on, where the package has to be shipped), pleask at for prices, befor you buy !) +++++ shipping inside germany will cost 8 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jun 2005 14:48:08 +0000</listdate>
+    <saledate>Wed, 29 Jun 2005 03:01:52 +0000</saledate>
+    <price currency='USD'>14.99</price>
+    <condition>likenew</condition>
+    <notes>Shipping is 6.50$ within U.S.,insurance 1.30$ opotional.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Aug 2005 04:57:34 +0000</listdate>
+    <saledate>Thu, 11 Aug 2005 14:32:43 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Still in shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Feb 2006 13:18:07 +0000</listdate>
+    <saledate>Thu, 01 Jun 2006 07:55:34 +0000</saledate>
+    <price currency='EUR'>11.99</price>
+    <condition>new</condition>
+    <notes>never played +++++ german manual, but the game components are completely language independet and you can download an english translation from boardgamegeek +++++ will be shipped with insurance +++++ payment for usa, canada, asia or australia : paypal or cash (by letter, exchanged already into euros) or bank transfer +++++ payment for other non-euro-countries : cash (by letter, exchanged already into euros) or bank transfer +++++ payment for european countries, that have euro : cash (by letter) or bank transfer (wich by the way is cost-free !) +++++ payment for germany : personal pick up in berlin or bank transfer +++++ international buyers beware : german postal sadly has expensive foreign shipping rates (about 19 - 45 euros, it depends on where the parce4l has to be shipped and it´s weight). though this is accompanied by a good speed, better ask for the shipping rates, before you buy ! +++++ shipping inside germany costs 8 euros insurance</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Mar 2006 15:03:04 +0000</listdate>
+    <saledate>Thu, 29 Jun 2006 16:10:13 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>new</condition>
+    <notes>Game is the new Moskito still in shrink
+Shipping to France or Belgium : 5 Euros
+Shipping to Europa : 6 Euros
+Shipping to rest of the world : 8 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Jun 2006 14:45:43 +0000</listdate>
+    <saledate>Wed, 13 Sep 2006 21:30:50 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>new</condition>
+    <notes>Still in shrinkwrap.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Jun 2006 18:48:58 +0000</listdate>
+    <saledate>Sat, 27 Jan 2007 03:08:19 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>new</condition>
+    <notes>Game is the new Moskito still in shrink
+Shipping to France or Belgium : 5 Euros
+Shipping to Europa : 6 Euros
+Shipping to rest of the world : 8 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Oct 2006 20:03:04 +0000</listdate>
+    <saledate>Sat, 04 Nov 2006 15:16:00 +0000</saledate>
+    <price currency='EUR'>9.99</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 5.00 within Europe or EUR 6.00 worldwide. 
+The delivery time varies from 1 to 4 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click the robbirob button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Oct 2006 22:38:40 +0000</listdate>
+    <saledate>Mon, 22 Jan 2007 18:40:04 +0000</saledate>
+    <price currency='EUR'>9.98</price>
+    <condition>new</condition>
+    <notes>OUT OF PRINT +++++ never played +++++ german version, but game components are completely language independent and you can download rules translations from boardgamegeek +++++++++ could be send as an uninsured letter, please ask for prices +++++ and about insured shipment...international payment : paypal OR direct bank to bank transfer (wich is cost-free inside european union by the way) OR cash (in a registered letter, exchanged into euros already) +++++ payment for germany : paypal OR personal pick up in berlin OR direct bank to bank transfer +++++ for all : no checks ! ++++++++++ international buyers beware : though german postal is relatively fast, they sadly aren´t cheap. it costs bewteen 19 - 37 euros for parcels up to a weight of 5 kg (= about 4 big boxed boardgames). price depends on where the package has to be shipped, so please ask for prices, before you hit the buy button ! +++++ insured shipment inside germany costs 8 eurosbutton ! +++++ shipment inside germany costs 8 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jan 2007 23:02:03 +0000</listdate>
+    <saledate>Tue, 23 Jan 2007 13:09:05 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Jan 2007 08:05:56 +0000</listdate>
+    <saledate>Mon, 09 Jun 2008 18:54:13 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>new</condition>
+    <notes>Game is the new Moskito still in shrink
+Shipping to France or Belgium : 5 Euros
+Shipping to Europa : 6 Euros
+Shipping to rest of the world : 8 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Apr 2007 11:22:53 +0000</listdate>
+    <saledate>Sun, 28 Mar 2010 06:54:07 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>new</condition>
+    <notes>COULD BE SEND AS A LETTER ( CHEAPER, FASTER)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Aug 2007 19:07:47 +0000</listdate>
+    <saledate>Wed, 29 Aug 2007 03:59:36 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Complete and in very good condition.  Moskito Spiele edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Sep 2007 03:36:11 +0000</listdate>
+    <saledate>Mon, 17 Sep 2007 03:09:03 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Opened and punched, but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jun 2008 23:32:09 +0000</listdate>
+    <saledate>Sun, 15 Jun 2008 12:41:27 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>likenew</condition>
+    <notes>Was Sticht? - Moskito Spiele
+Like New! Removed from shrink, but still in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $1.00 handling charge.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Oct 2008 17:19:46 +0000</listdate>
+    <saledate>Mon, 20 Oct 2008 16:54:43 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Apr 2009 15:02:43 +0000</listdate>
+    <saledate>Wed, 05 May 2010 23:40:36 +0000</saledate>
+    <price currency='USD'>11.95</price>
+    <condition>likenew</condition>
+    <notes>shrink removed, punched / unplayed
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 May 2009 00:27:43 +0000</listdate>
+    <saledate>Sun, 17 May 2009 02:35:10 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>acceptable</condition>
+    <notes>German language. No rules. Only 23 of 24 (?) task counters. (English rules and tasks available on BGG)
+Otherwise, cards are complete and in great condition. Box shows minor shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Nov 2009 05:16:53 +0000</listdate>
+    <saledate>Fri, 20 Nov 2009 19:58:50 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>Private sale for Jeff, for delivery at BGG.CON.  Don_T_E_M_P_T_A_G_#039;t buy this unless you_T_E_M_P_T_A_G_#039;ve already bought this.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 May 2010 16:58:54 +0000</listdate>
+    <saledate>Mon, 20 Sep 2010 05:33:24 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>The shipping charge to a US location is the actual USPS priority mail rate for a 1 pound package from zip code 22801. International bidders contact me for information about shipping rates.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Jun 2010 03:13:07 +0000</listdate>
+    <saledate>Wed, 01 Sep 2010 00:54:05 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>Complete - cards and chips in great shape. Includes English rules and translations for chips.
+Will combine shipping on multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Jun 2010 18:28:33 +0000</listdate>
+    <saledate>Thu, 05 Jun 2014 06:59:55 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>verygood</condition>
+    <notes>Moskito edition, complete, cards in better shape than very good
+272 gr.
+shipping: letter</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Dec 2010 19:19:28 +0000</listdate>
+    <saledate>Sat, 23 Jul 2011 14:34:11 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jul 2011 14:22:47 +0000</listdate>
+    <saledate>Tue, 19 Jul 2011 16:16:33 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>likenew</condition>
+    <notes>For user Deroche only.  Auction result.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Oct 2011 16:38:55 +0000</listdate>
+    <saledate>Tue, 13 Mar 2012 23:48:23 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Excellent trick taking game with a twist and a half. Get it today!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 off THIS game AND $2 off the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+Altamira
+Assyria
+Big Five
+Burgen von Burgund / Castles of Burgundy
+Cavum
+Era of Inventions
+Fluch der Mumie / Pyramid
+Helvetia
+Hornet
+Jäger und Sammler
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kings of Mithril
+Level X
+Looping Louie
+Luna
+Magnum Sal
+Mundus Novus
+Principato
+Rapa Nui
+San Francisco
+Santa Cruz
+Seeland
+Shipyard / Die Werft
+Stone Age
+Terra Turrium
+Ticket to Ride: Asia
+Ticket to Ride: Europe / Zug um Zug: Europa
+Titan
+Troyes
+Was sticht?
+Zicke Zacke Hühnerkacke / Chicken Cha cha</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Jul 2012 21:00:10 +0000</listdate>
+    <saledate>Wed, 01 Aug 2012 21:43:18 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Only played a couple times. In German but includes printed-out English rules.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Dec 2012 19:52:20 +0000</listdate>
+    <saledate>Wed, 19 Dec 2012 13:23:23 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>Brand new, never opened, never played. Gotta clear some games out to make room for new ones, so my loss is your gain. Shipping is $5.00. If you purchase more than one game I_T_E_M_P_T_A_G_#039;ll try to consolidate packages to save shipping . Paypal only please. And sorry, I don_T_E_M_P_T_A_G_#039;t sell to buyers outside of the US.
+Thanks for looking.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Nov 2011 18:03:42 +0000</listdate>
+    <saledate>Wed, 17 Dec 2014 10:33:05 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>new</condition>
+    <notes>Was sticht? (Piatnik), 0,3 Kg
+Condition/Zustand: new, unused and sealed / neu, unbenutzt und in Folie verpackt
+General Information:
+I sell this item as a private seller. I can not give any guarantees or refunds. Nevertheless as a board game collector I describe the item as accurate as possible. In case of missing tiles or damages I mention this in the item description.
+Diesen Artikel verkaufe ich als Privatperson. Eine Garantie oder eine Ruecknahme biete ich nicht an. Als Sammler von Brettspielen achte ich jedoch sehr genau auf den Zustand und auf die Vollzaehligkeit. Die Spiele sind daher meistens tadellos erhalten. Sollten Maengel vorhanden sein, werden diese auch in der Beschreibung unter _T_E_M_P_T_A_G_quot;Condition/Zustand_T_E_M_P_T_A_G_quot; erwaehnt.
+Ich versende Spiele in folgende Länder: / I ship board games and board game expansions to the following countries:
+In case you live in a different country please contact me before you buy an item.
+Shipping/Versand
+nach Deutschland (ohne Inseln):
+Maxibrief (unversichert): EUR 2,20
+Hermes-Paket(max. 50 cm laengste + kuerzeste Seite): EUR 4,50
+DHL-Paket (versichert):
+0 - 10 Kg EUR 6,00
+10 - 20 Kg EUR 11,00
+------------------------------------------------------------
+to Europe (EU): Belgium, Denmark, Finland, France, Greece, Great Britain, Ireland, Italy, Luxembourg, The Netherlands, Österreich, Poland, Portugal, Sweden, Slovakia, Spain, Czech:
+Registered Letter:
+0 - 0.5 Kg EUR 5,50
+0.5 - 1 Kg EUR 9,05
+Small Parcel / Paeckchen (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 11,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 17,00
+5 - 10 Kg EUR 22,00
+10 - 20 Kg EUR 32,00
+------------------------------------------------------------
+to Switzerland, Norway, Hungary, Slovenia, Croatia and Rest of Europe:
+Registered Letter:
+0 - 0.5 Kg EUR 5,50
+0.5 - 1 Kg EUR 9,05
+Small Parcel (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19,00
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 30,00
+5 - 10 Kg EUR 35,00
+10 - 20 Kg EUR 45,00
+------------------------------------------------------------
+to the U.S.A. and Canada:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 5.50
+0.5 - 1 Kg EUR 9.05
+Small Parcel (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.00
+DHL Parcel:
+0 - 5 Kg EUR 36.00
+5 - 10 Kg EUR 47.00
+10 - 20 Kg EUR 68.00
+------------------------------------------------------------
+to Australia, Brazil, Japan, New Zealand:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 5.50
+0.5 - 1 Kg EUR 9.05
+Small parcel (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 19.00
+DHL Parcel:
+0 - 5 Kg EUR 42.00
+5 - 10 Kg EUR 59.00
+10 - 20 Kg EUR 91.00
+------------------------------------------------------------
+Payment:
+Überweisung/bank transfer via IBAN + BIC
+PayPal
+Money Bookers (Skrill)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Jul 2015 16:32:09 +0000</listdate>
+    <saledate>Fri, 06 Nov 2015 02:40:36 +0000</saledate>
+    <price currency='USD'>6.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jun 2016 20:07:33 +0000</listdate>
+    <saledate>Wed, 15 Jun 2016 08:36:18 +0000</saledate>
+    <price currency='EUR'>7</price>
+    <condition>good</condition>
+    <notes>Was sticht + Wizzard
+for Tom Howard
+(tomhoward87) only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Sep 2017 02:23:12 +0000</listdate>
+    <saledate>Mon, 04 Sep 2017 13:17:01 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229122/item/5575744#5575744]Item for Geeklist _T_E_M_P_T_A_G_quot;Slaqr_T_E_M_P_T_A_G_#039;s Post-Gencon Auction - BINs Available - Some Rare/OOP_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Sep 2017 14:31:02 +0000</listdate>
+    <saledate>Wed, 13 Sep 2017 19:47:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for hippiephsicschick</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Oct 2017 21:20:42 +0000</listdate>
+    <saledate>Thu, 12 Oct 2017 16:15:22 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>good</condition>
+    <notes>For bigglesbee only.
+Out with the Old and In with the New Game Auction #1 winner.
+USPS Priority Mailing and PayPal feed to be covered by winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Aug 2016 11:41:14 +0000</listdate>
+    <saledate>Sat, 18 Nov 2017 23:45:37 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>new</condition>
+    <notes>I am offering the Was sticht? card game.
+The game is new and shrink wrapped and in German language.
+--------------------------
+Bezahlung / Payment:
+- Deutschland: Überweisung
+- EU: euro bank transfer with IBAN and BIC or PayPal.
+- Rest of the world: PayPal
+--------------------------
+Versandkosten / Shipping costs:
+- Deutschland: Bitte vorher anfragen.
+- EU: Please ask before buying.
+- Rest of the world: please ask before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Jul 2015 19:19:51 +0000</listdate>
+    <saledate>Thu, 01 Mar 2018 20:46:06 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

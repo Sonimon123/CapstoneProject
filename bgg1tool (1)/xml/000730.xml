@@ -1,0 +1,1659 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="730">
+   <yearpublished>1992</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>240</playingtime>
+   <minplaytime>240</minplaytime>
+   <maxplaytime>240</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Breakout: Normandy</name>
+         
+   <description>Breakout: Normandy is a complex two-player wargame on the Allied invasion of France in World War 2.  The game concentrates on the initial landings and the subsequent breakout attempts.  The German player tries to prevent the a successful Allied landing, and if that fails, to contain the beachhead.  The Allied player wins by establishing a beachhead, or (better) by successfully breaking out of the landing area._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The mapboard depicts the Normandy area where the initial landings took place.  Units are regiments and brigades, representing infantry, airborne, armour artillery, anti-tank and anti-aircraft units._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game uses the area-impulse system used in Storm over Arnhem, Thunder at Cassino and Turning Point: Stalingrad._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/JOvdB4PCzN99DwkfAaWQNDMO6Y4=/fit-in/200x150/pic239937.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/B5UZBD4ROeUqCyeTrDrXYUq-z8I=/0x0/pic239937.jpg</image>
+      
+            <boardgamehonor objectid="22366">1993 Charles S. Roberts Best World War II Board Game Nominee</boardgamehonor>
+                      <boardgamemechanic objectid="2021">Area-Impulse</boardgamemechanic>
+               <boardgamefamily objectid="18538">Avalon Hill area-impulse series</boardgamefamily>
+               <boardgameversion objectid="23730">Avalon Hill edition</boardgameversion>
+               <boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+                             <boardgamefamily objectid="11006">Country: France</boardgamefamily>
+               <boardgamedesigner objectid="76">Don Greenwood</boardgamedesigner>
+                      <boardgameartist objectid="2652">Charles Kibler</boardgameartist>
+               <boardgameversion objectid="122388">L2 deluxe edition</boardgameversion>
+               <boardgamepublisher objectid="2069">L2 Design Group</boardgamepublisher>
+               <boardgameartist objectid="3095">Art Lupinacci</boardgameartist>
+                      <boardgamedesigner objectid="352">James Stahler</boardgamedesigner>
+               <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+               <boardgamepodcastepisode objectid="174901">Wild Weasel #1</boardgamepodcastepisode>
+               <boardgamecategory objectid="1049">World War II</boardgamecategory>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="17">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="15" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="4">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="2" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="2" />
+     <result value="16" numvotes="1" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="1" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>932</usersrated>
+     <average>7.64494</average>
+     <bayesaverage>6.39982</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1100" bayesaverage="6.39982" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="58" bayesaverage="7.32337" />
+            
+           </ranks>
+     
+     <stddev>1.59054</stddev>
+     <median>0</median>
+     <owned>2092</owned>
+     <trading>67</trading>
+     <wanting>134</wanting>
+     <wishing>354</wishing>
+     <numcomments>481</numcomments>
+     <numweights>154</numweights>
+     <averageweight>3.3766</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 06 May 2003 05:00:04 +0000</listdate>
+    <saledate>Wed, 29 Oct 2003 05:24:03 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>US game. New in shrinkwrap.
+Shipping within the US via insured priority mail.
+Note to International (non-US) buyers:
+I must declare actual value on all customs forms. **I will not falsify values on customs forms, no exceptions!**. For International orders, only Paypal is accepted.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Dec 2003 13:59:11 +0000</listdate>
+    <saledate>Mon, 15 Dec 2003 03:16:46 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>Unpunched/unplayed.
+Shipping within the US via insured priority mail.
+Note to International (non-US) buyers:
+I must declare actual value on all customs forms. **I will not falsify values on customs forms, no exceptions!**. For International orders, only Paypal is accepted.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Feb 2004 02:56:14 +0000</listdate>
+    <saledate>Fri, 20 Aug 2004 18:14:09 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Punched and complete (except missing four standard six sided-dice).  The only thing _T_E_M_P_T_A_G_quot;wrong_T_E_M_P_T_A_G_quot; with this game?  The previous owner had taped the board (by the corners only) to the table at one time.  You can barely see the tape on the playing surface.  Everything else is in near-mint condition.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Sep 2004 04:38:10 +0000</listdate>
+    <saledate>Wed, 29 Sep 2004 01:54:49 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Mint in the shrinkwrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Feb 2005 06:09:06 +0000</listdate>
+    <saledate>Mon, 14 Feb 2005 01:55:09 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Game has been removed from shrinkwrap but is unpunched.  No missing or damaged pieces.  Minimal shelfware to the gamebox.  Shipping rates are available upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jun 2005 20:30:32 +0000</listdate>
+    <saledate>Mon, 06 Feb 2006 02:23:04 +0000</saledate>
+    <price currency='USD'>99</price>
+    <condition>new</condition>
+    <notes>Brand new, still in shrink wrap. 
+**Prices in U.S. dollars**
+Shipping to North America will include insurance and tracking.
+Worldwide shipping will include insurance but no tracking.
+No personal checks.
+If you are paying for the item using Paypal the buyer is responsible for a transaction fee of $ 3.00</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Aug 2005 13:04:27 +0000</listdate>
+    <saledate>Wed, 04 Jan 2006 11:01:07 +0000</saledate>
+    <price currency='GBP'>34</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2005 23:56:17 +0000</listdate>
+    <saledate>Wed, 11 Jan 2006 15:33:51 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>Avalon Hill. The game is unpunched. Box and contents are in mint condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Apr 2006 20:58:39 +0000</listdate>
+    <saledate>Sun, 14 May 2006 16:39:15 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>Still in Shrink.   Roughly $8.50 for USPS Priority Mail shipping via Flat-Rate Box.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Sep 2006 00:14:23 +0000</listdate>
+    <saledate>Fri, 13 Oct 2006 17:29:29 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>good</condition>
+    <notes>Breakout Normandy by Avalon Hill.  Game is unpunched and unplayed with all internal components in excellent condition.  Box shows average shelf wear and has two repaired split corners.  Repairs were made with paper and glue and are very professional - please see pictures for more.  
+Domestic shipping will be $8.60. International shipping will probably be in the neighborhood of $20.00 but you should contact me for a specifc quote prior to purchasing.
+Please take a look at my other games for sale. I will definitely save you money on shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Dec 2007 19:48:52 +0000</listdate>
+    <saledate>Sat, 23 Feb 2008 07:47:11 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>acceptable</condition>
+    <notes>Box is somewhat beat and boards have some warping. The countersheets are unpunched. Payment via non-credit card PayPal. Shipping is $10 for priority mail. Combine shipping on multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Feb 2008 18:23:36 +0000</listdate>
+    <saledate>Wed, 27 Feb 2008 22:05:59 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>The game has never been played. Counters have not been punched. All I have ever done with the game is read the instructions. The box shows some very slight signs of wear along the corner edges.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Mar 2008 17:36:56 +0000</listdate>
+    <saledate>Sun, 02 Mar 2008 21:43:32 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>Counters, punched, clipped, complete! Light corner scuffing, light dent on box top.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Mar 2008 14:47:59 +0000</listdate>
+    <saledate>Sun, 15 Jun 2008 05:19:09 +0000</saledate>
+    <price currency='USD'>199</price>
+    <condition>new</condition>
+    <notes>Shrink wrapped</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 May 2008 20:12:25 +0000</listdate>
+    <saledate>Fri, 13 Jun 2008 23:55:49 +0000</saledate>
+    <price currency='USD'>99</price>
+    <condition>likenew</condition>
+    <notes>Game is like new.  It is complete and unpunched.  Only the shrink was removed to verify components.  Insurance is included to US addresses.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Aug 2008 14:51:21 +0000</listdate>
+    <saledate>Fri, 03 Oct 2008 20:39:14 +0000</saledate>
+    <price currency='USD'>125</price>
+    <condition>new</condition>
+    <notes>Unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Aug 2008 01:57:45 +0000</listdate>
+    <saledate>Thu, 21 Aug 2008 05:56:44 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>This copy is in excellent condition, unpunched and unplayed.
+Buyer pays exact shipping, determined after purchase.
+Paypal buyers subject to Paypal policy limitations in terms of countries, etc.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Oct 2008 00:14:45 +0000</listdate>
+    <saledate>Sun, 04 Jan 2009 04:59:23 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>good</condition>
+    <notes>Punched, missing 1 (of 40) Allied control marker and the four standard six-sided dice.  Otherwise complete.  The rules have highlighting present.  The box has a minor amount of wear, nearly all isolated to the bottom side of the lid.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Oct 2008 19:45:04 +0000</listdate>
+    <saledate>Fri, 31 Oct 2008 19:57:18 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>The game is u/p and  has only been opened to confirm contents.  The book, _T_E_M_P_T_A_G_quot;D-Day_T_E_M_P_T_A_G_quot;, by the long out of print Ballantine_T_E_M_P_T_A_G_#039;s Illustrated, is included.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Dec 2008 17:09:04 +0000</listdate>
+    <saledate>Sun, 01 Feb 2009 10:55:21 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>acceptable</condition>
+    <notes>Game is complete, not shrink wrapped, box taped on one corner, contents in good condition, includes multiple articles about game. Game from a non-smoking home.
+Buyer to play for Priority shipping. Please send zipcode if you would like a shipping estimate.
+Combined shipping available for multiple items. Optional insurance available for $1.70. FREE delivery confirmation.
+Currently, I can only accept payment by cashier_T_E_M_P_T_A_G_#039;s check, money order, or NON-credit card Paypal transfer.
+Thanks for looking!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Jan 2009 21:50:57 +0000</listdate>
+    <saledate>Fri, 20 Mar 2009 18:50:15 +0000</saledate>
+    <price currency='USD'>120</price>
+    <condition>new</condition>
+    <notes>new, in shrinkwrap</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Feb 2009 16:50:59 +0000</listdate>
+    <saledate>Fri, 13 Mar 2009 03:12:41 +0000</saledate>
+    <price currency='USD'>87.5</price>
+    <condition>verygood</condition>
+    <notes>Punched, but never played!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Apr 2009 09:41:08 +0000</listdate>
+    <saledate>Sun, 10 May 2009 08:30:48 +0000</saledate>
+    <price currency='EUR'>80</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Apr 2009 02:45:03 +0000</listdate>
+    <saledate>Tue, 07 Jul 2009 18:03:30 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>likenew</condition>
+    <notes>Opened but unpunched. Box top caved in slightly.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Apr 2009 23:22:55 +0000</listdate>
+    <saledate>Thu, 04 Jun 2009 06:50:22 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>good</condition>
+    <notes>Box has some shelf wear. Inside the box all is in excellent condition. The game is half punched and all organized in little sandwich bags. All is in good shape, and  never been played. 
+Enjoy! </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Aug 2009 03:47:54 +0000</listdate>
+    <saledate>Fri, 04 Dec 2009 00:45:16 +0000</saledate>
+    <price currency='USD'>79.99</price>
+    <condition>verygood</condition>
+    <notes>Opened, punched, unplayed, and in outstanding condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Sep 2009 00:03:02 +0000</listdate>
+    <saledate>Tue, 02 Mar 2010 22:11:32 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Oct 2009 21:39:22 +0000</listdate>
+    <saledate>Sat, 27 Feb 2010 18:12:23 +0000</saledate>
+    <price currency='USD'>79.95</price>
+    <condition>good</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! We recently acquired a large number of older, out-of-print games and are pleased to make them available to the BGG community.
+BREAKOUT NORMANDY:  $79.95
+Cwaii (2006)
+* Game is complete and in _T_E_M_P_T_A_G_quot;Good_T_E_M_P_T_A_G_quot; condition, as shown in the pictures below.  The two split corners shown below have since been carefully repaired.
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Nov 2009 12:11:39 +0000</listdate>
+    <saledate>Sun, 10 Jan 2010 13:12:25 +0000</saledate>
+    <price currency='EUR'>110</price>
+    <condition>new</condition>
+    <notes>unpunched </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Dec 2009 02:54:22 +0000</listdate>
+    <saledate>Wed, 23 Dec 2009 17:58:16 +0000</saledate>
+    <price currency='USD'>128</price>
+    <condition>new</condition>
+    <notes>The game is in NEW condition, in original factory shrink wrap.
+Payment is expected to arrive and clear before games will ship. Pay Pal is preferred.  I will ship USPS Priority Mail unless otherwise agreed upon.  Shipping charges are those quoted by the USPS for shipping the item (http://www.usps.com/prices/priority-mail-prices.htm).  Insurance is optional, but I am not liable for non-insured packages once shipped.  If multiple items are bought I will combine items (if practical) to save the buyer shipping costs.  I must be contacted within 5 days of package receipt for refund.  Item(s) is to be returned in the same condition that it was sold in and the buyer is responsible for shipping the item(s) back.  
+Enjoy.
+Jon
+ZIP CODE: 07801
+greatdiscoverer@yahoo.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Mar 2010 10:31:07 +0000</listdate>
+    <saledate>Sun, 20 Jun 2010 02:13:00 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>likenew</condition>
+    <notes>unpunched, shrink removed. includes extra board and extra pieces from initial setup.  minor shelf wear but inside is pristine.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Apr 2010 01:00:45 +0000</listdate>
+    <saledate>Mon, 17 May 2010 23:55:19 +0000</saledate>
+    <price currency='USD'>89.95</price>
+    <condition>likenew</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! We recently acquired a large number of older, out-of-print games and are pleased to make them available to the BGG community.
+BREAKOUT NORMANDY: $89.95
+Avalon Hill (1992)
+* Game is in IN-SHRINK, as shown in the pictures below.
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 May 2010 22:05:56 +0000</listdate>
+    <saledate>Sat, 05 Jun 2010 22:23:28 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>Punched and played but complete game in very good shape.  Shipping will be $8 to US.  International buyers should contact me.  Shipping can be combined for multiple orders.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Jun 2010 06:59:57 +0000</listdate>
+    <saledate>Sat, 12 Jun 2010 10:03:44 +0000</saledate>
+    <price currency='USD'>89</price>
+    <condition>likenew</condition>
+    <notes>· Breakout: Normandy  (Avalon Hill, 1993)  The game is in EXCELLENT condition and the box is in VERY GOOD condition with a small crease on the front cover.  The counters are UNPUNCHED and the game is verified complete.
+Buyer pays for shipping.  Cashiers Check and Money Orders accepted, PAY PAL preferred.  Payment is expected to arrive and clear before games will ship.  Shipping charges are those quoted by the USPS for shipping the item(s) (http://www.usps.com/prices/priority-mail-prices.htm).  Please note that the game(s) will ship the Saturday following payment clearing (sorry but I work days and evenings and usually can not get to the Post Office before then).  Additional pictures furnished upon request.
+ 
+Best wishes,
+Jon
+ZIP CODE: 07801
+greatdiscoverer@yahoo.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Sep 2010 03:10:18 +0000</listdate>
+    <saledate>Tue, 21 Sep 2010 19:55:46 +0000</saledate>
+    <price currency='USD'>120</price>
+    <condition>new</condition>
+    <notes>New, still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Sep 2010 05:30:42 +0000</listdate>
+    <saledate>Thu, 23 Sep 2010 06:12:01 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>Complete, very good condition. Box and bits have a little bit of wear but generally speaking this copy is in pretty great shape. Shipping is $12. Combined shipping rates are available when purchasing multiple games.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Sep 2010 12:27:44 +0000</listdate>
+    <saledate>Sun, 21 Nov 2010 21:22:57 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>good</condition>
+    <notes>I pay postage to UK. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Sep 2010 14:28:08 +0000</listdate>
+    <saledate>Sat, 13 Nov 2010 01:18:42 +0000</saledate>
+    <price currency='USD'>95</price>
+    <condition>likenew</condition>
+    <notes>Collectable quality sample that is less expensive than Mint and is generally in Mint minus quality, especially for the unplayed components.  This is a gamer_T_E_M_P_T_A_G_#039;s game that plays with nail-biting tension.  I simply prefer lower unit games like squad or unit level games.  Excellent condition, super clean Very Good - more of a Like New minus for the components.  Gorgeous cover condition - one of my favorite of all box art.  Box structure intact.  Box back cover has light shelf wear - closer to Very Good to Excellent condition.  Counters unpunched and pristine.  Map boards are pristine.  Instruction book has been opened but is in perfect condition.  High quality shipping packing is ensured.  I don_T_E_M_P_T_A_G_#039;t like shipping excuses when I buy games for myself.  CONUS only.  Paypal welcome.  $95 plus $15 shipping. Considerate BGG user price for this condition.
+  </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Oct 2010 22:47:57 +0000</listdate>
+    <saledate>Tue, 12 Oct 2010 22:57:44 +0000</saledate>
+    <price currency='USD'>320</price>
+    <condition>likenew</condition>
+    <notes>for steve cox, games won plus kolin for 35.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Oct 2010 16:02:42 +0000</listdate>
+    <saledate>Thu, 11 Nov 2010 23:10:16 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Game is punched.  All components present.  Components have very minimal wear and tear.  Box has a small stain on the cover (see pictures).  U.S. Shipping is $10.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Nov 2010 18:23:24 +0000</listdate>
+    <saledate>Thu, 18 Aug 2011 12:40:49 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>Original AH edition. New in shrink wrap. Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Dec 2010 01:37:18 +0000</listdate>
+    <saledate>Thu, 06 Jan 2011 10:05:28 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>likenew</condition>
+    <notes>The game is unpunched. All game parts in new condition. The box is solid.
+PayPal only outside of the US please. Shipping is USPS at cost, no extra fee_T_E_M_P_T_A_G_#039;s.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Feb 2011 03:32:13 +0000</listdate>
+    <saledate>Fri, 11 Feb 2011 23:41:55 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Punched, complete, very nice.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Feb 2011 21:17:21 +0000</listdate>
+    <saledate>Mon, 21 Feb 2011 22:26:17 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>*Reserved for jbrodin*</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Feb 2011 17:51:39 +0000</listdate>
+    <saledate>Wed, 23 Feb 2011 17:59:38 +0000</saledate>
+    <price currency='GBP'>65</price>
+    <condition>verygood</condition>
+    <notes>Unpunched and complete all components are in very good condition including the box. postage in the UK is £6</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Mar 2011 11:56:45 +0000</listdate>
+    <saledate>Wed, 02 Mar 2011 17:55:16 +0000</saledate>
+    <price currency='GBP'>55</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Mar 2011 17:43:21 +0000</listdate>
+    <saledate>Sat, 21 May 2011 10:11:37 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>likenew</condition>
+    <notes>Avalon Hill version. Numerous articles, strategy guides and errata pages printed out and included. Complete, unpunched and in great shape. Very little shelf wear. Smoke free household.
+Combined shipping available on multiple purchases so check out my other items for sale.
+I ship via USPS Priority Mail with delivery confirmation in most cases. Larger games or trades will likely ship via FedEx. I only charge you what it costs me to ship the game and I will try to ship without flat rate shipping where weight and distance would result in a lower price. For international shipping there may be some restrictions on where I will ship to. Please contact me before purchasing. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 May 2011 13:22:03 +0000</listdate>
+    <saledate>Wed, 01 Jun 2011 15:07:44 +0000</saledate>
+    <price currency='GBP'>52</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition copy.
+Postage 6 pounds to UK, 10 pounds to EU - others please ask</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Jun 2011 03:43:43 +0000</listdate>
+    <saledate>Sun, 12 Jun 2011 07:01:32 +0000</saledate>
+    <price currency='AUD'>99</price>
+    <condition>good</condition>
+    <notes>English edition.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Sep 2011 04:46:08 +0000</listdate>
+    <saledate>Wed, 21 Sep 2011 10:50:04 +0000</saledate>
+    <price currency='USD'>93</price>
+    <condition>new</condition>
+    <notes>factory sealed,fine box.includes General feature issue V29N3</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Sep 2011 10:44:26 +0000</listdate>
+    <saledate>Tue, 06 Sep 2011 19:33:56 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>likenew</condition>
+    <notes>L2 Design Group version
+unpunched never used.
+Payment methods:
+-Italy: personal check, bank or postal transer (buyer pays expenses), paypal, postepay.
+-Europe: bank transfer (buyer pays expenses) or Paypal
+-Rest of the World: Paypal
+- Paypal payments add 3% to the payment total
+Shipping _T_E_M_P_T_A_G_amp; Handling
+- Italy and Europe: 10 euros
+- USA: 12 euros
+- Rest of the World: to be checked.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Nov 2011 19:22:22 +0000</listdate>
+    <saledate>Tue, 15 Nov 2011 16:18:26 +0000</saledate>
+    <price currency='USD'>54.99</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Please contact us for shipping rates and options. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Nov 2011 15:38:26 +0000</listdate>
+    <saledate>Fri, 24 Feb 2012 06:49:13 +0000</saledate>
+    <price currency='USD'>54.99</price>
+    <condition>new</condition>
+    <notes>*** NWS ONLINE GAMING STORE ***
+NEW RETAIL EDITION.
+_T_E_M_P_T_A_G_gt;24/7 Live Customer Support : 1-407-925-7782
+_T_E_M_P_T_A_G_gt;Email : nws-online@nws-online.net
+Please contact us for shipping rates and options. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jan 2012 21:36:00 +0000</listdate>
+    <saledate>Sat, 18 Feb 2012 00:32:44 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Game punched and played once, otherwise in great condition and complete. Box shows some shelf wear, but otherwise in excellent condition.  Please note that this is the Avalon Hill edition of the game.  Pictures available upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jan 2012 01:02:14 +0000</listdate>
+    <saledate>Thu, 13 Dec 2012 14:52:16 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>AH version - very good condition, punched (in bags), does not include dice.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Feb 2012 15:21:13 +0000</listdate>
+    <saledate>Fri, 10 Feb 2012 10:41:43 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened, but unpuched/unplayed.  Avalon Hill version.
+Check out my other games for sale and take advantage of combined shipping rates.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Mar 2012 21:22:45 +0000</listdate>
+    <saledate>Fri, 11 Oct 2013 20:50:14 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>verygood</condition>
+    <notes>AH edition. Verified complete and all components in good condition. Box is great shape with only minor shelf wear.
+Foreign buyers should contact me if interested. Sending boxes out of the U.S. has gotten very expensive. If you have concerns about condition e-mail me and I can send pix.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Apr 2012 14:48:57 +0000</listdate>
+    <saledate>Mon, 23 Apr 2012 04:53:06 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>verygood</condition>
+    <notes>Game was purchased in excellent condition in 2007. Never playerd, but set up once, all pieces are accounted for. It is punched, and counters have _T_E_M_P_T_A_G_#039;dog-ears_T_E_M_P_T_A_G_#039; carefully trimmed, and are placed in a GMT tray. Mapboard is in very good condition, with slight shelf wear, and box is in very good condition- no split corners. Stored in a dry-bin, in a smoke free and pet free home. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Apr 2012 20:57:48 +0000</listdate>
+    <saledate>Thu, 18 Oct 2012 20:13:01 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>likenew</condition>
+    <notes>Box in excellent condition. All parts present.
+Tracked postage to USA is very costly</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Apr 2012 18:02:13 +0000</listdate>
+    <saledate>Mon, 23 Apr 2012 01:26:03 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Punched/clipped.
+Original Ruleboook de-bound and in page protectors and binder.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 May 2012 02:59:56 +0000</listdate>
+    <saledate>Wed, 06 Jun 2012 21:32:25 +0000</saledate>
+    <price currency='USD'>52.99</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $10.95</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 May 2012 09:17:44 +0000</listdate>
+    <saledate>Tue, 08 May 2012 10:33:08 +0000</saledate>
+    <price currency='GBP'>16</price>
+    <condition>good</condition>
+    <notes>This is the 1993 Avalon Hill edition.
+A typical player_T_E_M_P_T_A_G_#039;s copy.
+Includes a lot of additional counters - nearly a complete second/third set.
+Plus some home-made additional ones.
+Box in very good condition.
+From a smoke free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 May 2012 11:50:20 +0000</listdate>
+    <saledate>Tue, 29 May 2012 13:30:02 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>for Rich Shipley only</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jun 2012 23:14:39 +0000</listdate>
+    <saledate>Tue, 12 Jun 2012 17:30:15 +0000</saledate>
+    <price currency='USD'>54.99</price>
+    <condition>new</condition>
+    <notes>Brand New!
+L2 Design Group Edition
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $10.95</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jun 2012 22:19:17 +0000</listdate>
+    <saledate>Sun, 18 Nov 2012 09:37:17 +0000</saledate>
+    <price currency='USD'>54.99</price>
+    <condition>new</condition>
+    <notes>Brand New!
+L2 Design Group Edition
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $10.95</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Jul 2012 22:59:33 +0000</listdate>
+    <saledate>Mon, 06 Aug 2012 02:19:17 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>new</condition>
+    <notes>Newest, L2 Edition, in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jul 2012 01:08:35 +0000</listdate>
+    <saledate>Mon, 30 Jul 2012 02:29:22 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Box has minor shelf scuffing. Game is intact, all components present. Player aids are laminated. Counters are punched, trimmed, and sorted in labeled trays. A minor article on rules from the General is also in the box</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Aug 2012 13:13:45 +0000</listdate>
+    <saledate>Sat, 06 Oct 2012 21:48:24 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>new</condition>
+    <notes>L2 Edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Aug 2012 15:32:20 +0000</listdate>
+    <saledate>Thu, 08 Nov 2012 21:14:14 +0000</saledate>
+    <price currency='EUR'>39.5</price>
+    <condition>new</condition>
+    <notes>L2 VERSION. The game is new, in perfect conditions. I will accept money order only and I will ship only to Europe. Shipping is € 11 to Italy and € 18.50 to Europe. Thanks for looking.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Aug 2012 15:10:55 +0000</listdate>
+    <saledate>Fri, 17 Aug 2012 15:31:39 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>verygood</condition>
+    <notes>Bob_T_E_M_P_T_A_G_#039;s Crazy 8s August Ameritrash Auction
+reserved for AgingOne</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Aug 2012 15:26:36 +0000</listdate>
+    <saledate>Tue, 28 May 2013 03:14:15 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Unpunched.  Pretty much immaculate condition all the way around.  AH edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Sep 2012 21:30:20 +0000</listdate>
+    <saledate>Wed, 26 Sep 2012 18:11:11 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Condition of game components is excellent, name crossed out on rule book. Condition of box is very good, name taped over in box top.
+Will ship to US or Canada. Shipping in US is $12.50 maximum. Shipping to Canada will be actual charges. Dwolla or paypal preferred. Will ship when payment clears.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Nov 2012 03:06:47 +0000</listdate>
+    <saledate>Tue, 20 Nov 2012 22:47:50 +0000</saledate>
+    <price currency='USD'>54.99</price>
+    <condition>new</condition>
+    <notes>Brand New!
+L2 Design Group Edition
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $10.95</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Nov 2012 20:16:33 +0000</listdate>
+    <saledate>Wed, 21 Nov 2012 20:47:42 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped copy of L2_T_E_M_P_T_A_G_#039;s Deluxe Edition of Breakout Normandy</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Nov 2012 22:52:16 +0000</listdate>
+    <saledate>Wed, 28 Nov 2012 19:11:30 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This is a punched Avalon Hill copy of the game.  It is complete and all components are in very good condition, including the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Dec 2012 04:12:08 +0000</listdate>
+    <saledate>Fri, 23 May 2014 05:20:12 +0000</saledate>
+    <price currency='AUD'>45</price>
+    <condition>acceptable</condition>
+    <notes>Avalon Hill Edition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jan 2013 03:34:34 +0000</listdate>
+    <saledate>Sun, 27 Jan 2013 04:07:16 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>good</condition>
+    <notes>For Dave Millette from my auction. Avalon Hill edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Mar 2013 18:58:48 +0000</listdate>
+    <saledate>Thu, 19 Jun 2014 19:58:06 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>good</condition>
+    <notes>Avalon Hill edition.  Complete and in really nice condition inside and out.
+Domestic shipping is $12.35 for USPS Priority Mail.  Contact me for an international shipping quote.
+Thanks for looking and I am happy to combine shipping with any of my other games.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Mar 2013 21:45:23 +0000</listdate>
+    <saledate>Wed, 15 May 2013 13:41:30 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>new</condition>
+    <notes>Breakout Normandy L2 Designs Deluxe edition new in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Mar 2013 22:24:18 +0000</listdate>
+    <saledate>Mon, 01 Jul 2013 21:24:20 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>good</condition>
+    <notes>AH edition. Complete and in good condition. Age spots to counters. Only played once. Board, player aids and rules in excellent condition - almost unused but slight age discolouration. Box intact but well worn. One dent to front bottom left of lid. 
+Postage £6.00 UK</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Apr 2013 10:38:17 +0000</listdate>
+    <saledate>Tue, 25 Mar 2014 08:13:02 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>new</condition>
+    <notes>Breakout Normandy L2 Designs Deluxe edition new in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Apr 2013 15:42:59 +0000</listdate>
+    <saledate>Tue, 23 Jul 2013 15:43:02 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>Game in Excellent condition.
+Never played, Unpunched.
+L2 Design Deluxe Version.
+I can send pictures if requested</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 May 2013 14:10:38 +0000</listdate>
+    <saledate>Sun, 02 Jun 2013 17:18:13 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>verygood</condition>
+    <notes>Avalon Hill version with mounted mapboards. punched and verified complete; 264 large counters, 130 small. beautiful box. components like new </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Jun 2013 11:25:55 +0000</listdate>
+    <saledate>Thu, 15 May 2014 21:01:07 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>This is the Avalon Hill edition. New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Sep 2013 14:11:33 +0000</listdate>
+    <saledate>Thu, 27 Feb 2014 18:46:03 +0000</saledate>
+    <price currency='EUR'>75</price>
+    <condition>likenew</condition>
+    <notes>Perfect condition.
+Will ship at cost and combine.
+Payment trough PayPal or bank transfer within Euro are.
+Pickup also possible in Antwerp.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Sep 2013 00:11:29 +0000</listdate>
+    <saledate>Tue, 29 Apr 2014 10:52:18 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>original version. not in bad shape but played a couple times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Sep 2013 00:09:55 +0000</listdate>
+    <saledate>Thu, 07 Nov 2013 15:44:41 +0000</saledate>
+    <price currency='USD'>44.99</price>
+    <condition>new</condition>
+    <notes>Brand New! Sealed!
+FYI: Heavy crease on box bottom and small split at corner. Believe components to be fine.
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $12.95</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Oct 2013 07:22:04 +0000</listdate>
+    <saledate>Sun, 08 Jun 2014 06:35:10 +0000</saledate>
+    <price currency='CAD'>45</price>
+    <condition>verygood</condition>
+    <notes>AH edition.  Counters punched and clipped.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Nov 2013 17:01:20 +0000</listdate>
+    <saledate>Fri, 28 Feb 2014 12:51:52 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>new</condition>
+    <notes>Note: This is the AH version.
+Brand new condition in shrinkwrap. Pristine.
+Please contact me for shipping costs. I pack safely and securely.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Nov 2013 13:13:01 +0000</listdate>
+    <saledate>Sun, 15 Jun 2014 18:39:52 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Played Once. L2 Deluxe Version</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Feb 2014 22:52:24 +0000</listdate>
+    <saledate>Wed, 16 Apr 2014 07:26:57 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>good</condition>
+    <notes>AH version
+The game is punched but compleate and in good condition ( The Back Of the German and American Unities haven_T_E_M_P_T_A_G_#039;t perfectly the
+images centered In comparison to the counters)
+COSTI DI SPEDIZIONE / SHIPPING COST
+ITALIA:
+LA SPEDIZIONE SARA_T_E_M_P_T_A_G_#039; EFFETTUATA CON SPEDIREWEB:  Euro 8,00
+EUROPA - U.S.A. - CANADA - ASIA - AUSTRALIA:
+THE DISPATCH OF THE GAME WILL HAVE EFFECTED WITH THE SERVICE OF FOREIGN RECOMMENDED LETTER OF POSTE ITALIANE 
+L_T_E_M_P_T_A_G_#039;ENVOI DU JEU EST EFFECTUÉ PAR SERVICE DE POSTE LETTRE RECOMMANDÉE ÉTRANGÈRE DES POSTE ITALIANE : 
+EUROPA: 19 Euro 
+UNITED STATES - CANADA - ASIA: 29,00 Euro 
+AUSTRALIA: 34,00 Euro 
+If you are in doubt about any aspect please Email me with any question. 
+Please, Have a look at my other items for sale!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Mar 2014 00:11:06 +0000</listdate>
+    <saledate>Mon, 07 Apr 2014 13:42:01 +0000</saledate>
+    <price currency='USD'>54.99</price>
+    <condition>new</condition>
+    <notes>Brand New! L2 Design Group Edition
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $12.95</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Mar 2014 20:52:06 +0000</listdate>
+    <saledate>Wed, 12 Mar 2014 21:51:23 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Counters punched and clipped.  Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Mar 2014 22:32:59 +0000</listdate>
+    <saledate>Sat, 22 Mar 2014 12:42:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>reserved for auction winner resQscooter</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Apr 2014 13:58:27 +0000</listdate>
+    <saledate>Wed, 18 Jun 2014 02:50:07 +0000</saledate>
+    <price currency='USD'>54.99</price>
+    <condition>new</condition>
+    <notes>Brand New! L2 Design Group Edition
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $12.95</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Apr 2014 14:23:17 +0000</listdate>
+    <saledate>Tue, 17 Jun 2014 03:58:22 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Avalon Hill edition, punched, counters clipped, near mint, great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Sep 2014 21:30:36 +0000</listdate>
+    <saledate>Fri, 03 Oct 2014 15:28:24 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>new</condition>
+    <notes>L2 Design Group - Deluxe Edition version. Brand New, still in shrink.
+Photos available on request.
+Will ship worldwide; please contact for costs.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Nov 2014 20:08:53 +0000</listdate>
+    <saledate>Wed, 19 Nov 2014 04:15:29 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Avalon Hill Breakout Normandy. The game is punched and it was played a few times.  Minor shelf wear on this 22 year old game.  It is in great condition and includes a counter tray.  Shipping in the US only via USPS. Contact me for shipping, default is a flat rate box for $11.30 but if another way is cheaper I will let you know.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Aug 2014 15:54:09 +0000</listdate>
+    <saledate>Fri, 05 Dec 2014 03:43:03 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>good</condition>
+    <notes>Box top and bottom have a largish ding on the lower left. One mapboard is a bit worn at the intersection. All other components are in excellent, unplayed and unpunched condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Aug 2014 19:41:45 +0000</listdate>
+    <saledate>Fri, 16 Jan 2015 17:09:09 +0000</saledate>
+    <price currency='USD'>109.99</price>
+    <condition>new</condition>
+    <notes>L2 in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Feb 2015 09:15:58 +0000</listdate>
+    <saledate>Tue, 10 Feb 2015 18:00:54 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>I can ship to the United States and international locations outside the EU using the USPS Priority Mail.  For games going to the U.S. the postal rate is the same as mailing within the 50 states, I am stationed in Germany, hence the item location; to estimate postage use 09112 for an area code.  For other countries international postal rates will apply.  For all EU countries I can mail using the German Postal System DHL to mail to your EU country, my German area code is 92256.  
+The game is mostly punched, has never been played, is complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Feb 2015 23:34:37 +0000</listdate>
+    <saledate>Mon, 23 Feb 2015 02:39:17 +0000</saledate>
+    <price currency='USD'>57</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187424/item/3742231#3742231]Item for Geeklist _T_E_M_P_T_A_G_quot;Heavy Cardboard Auction - Wargames, Euros, AT...a little bit for everyone!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For Breakout: Normandy _T_E_M_P_T_A_G_amp; BANG! collection</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Feb 2015 02:41:34 +0000</listdate>
+    <saledate>Fri, 27 Feb 2015 19:05:43 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>Game is complete, with one German counter replaced with a home-made counter (see pictures).  Counters are punched (not clipped) and organized in the counter tray.  First page of rulebook has slight warping due to a probability chart being glued to the front cover.  Return address sticker of former owner on top right of rulebook, and there are some notes written in black ink in the rule book.  Mounted mapboard is in excellent shape.  Box has nicks and scuffs but remains structurally sound with no blown corners.
+I will ship worldwide; buyer pays all shipping charges.  US orders will be shipped via USPS priority mail flat-rate shipping for actual costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Feb 2015 10:51:54 +0000</listdate>
+    <saledate>Tue, 03 Mar 2015 08:20:53 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>£6 postage in the UK.  Everything present; punched but looked after when played.  :-)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Mar 2015 04:25:10 +0000</listdate>
+    <saledate>Tue, 17 Mar 2015 00:57:03 +0000</saledate>
+    <price currency='USD'>59.9</price>
+    <condition>new</condition>
+    <notes>New in shrink!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Mar 2015 18:40:56 +0000</listdate>
+    <saledate>Sun, 22 Mar 2015 23:50:04 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>verygood</condition>
+    <notes>Reserved for kriss</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Jan 2015 00:34:10 +0000</listdate>
+    <saledate>Sat, 11 Apr 2015 14:50:07 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>Unpunched. Excellent condition.
+Shipping will cost $15 for this oversized game.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Sep 2014 16:11:04 +0000</listdate>
+    <saledate>Tue, 14 Apr 2015 02:42:19 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Beautiful , unpunched condition copy.  Everything, boards box and counters, are straight, bright, and tight.  Looks like a new game!
+Shipping extra.
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Apr 2015 03:16:57 +0000</listdate>
+    <saledate>Wed, 15 Apr 2015 03:01:38 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/189457/item/3821645#3821645]Item for Geeklist _T_E_M_P_T_A_G_quot;Just another April Auction - Ends 4/12/15_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 May 2015 13:55:07 +0000</listdate>
+    <saledate>Tue, 02 Jun 2015 21:40:02 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>1992 Avalon Hill.  Box has light wear.
+All components verified present.  
+Unpunched (352 on 2 sheets).
+Rules have a coffee stain upper corner last two pages (about 1/8 of the page).
+US shipping via priority mail $5.50 - $10.00 (depends on distance from 20912).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Mar 2015 16:42:56 +0000</listdate>
+    <saledate>Wed, 03 Jun 2015 08:39:25 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Apr 2015 16:54:33 +0000</listdate>
+    <saledate>Wed, 17 Jun 2015 16:45:44 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Missing three pieces as far as I can tell. 2 are the victory point looking counters and 1 German unit (not sure which). I don_T_E_M_P_T_A_G_#039;t think this should affect gameplay much.
+About 1/3 of the counters are still unpunched. Everything else present. $9 for shipping via USPS priority mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Jun 2015 14:20:30 +0000</listdate>
+    <saledate>Sun, 05 Jul 2015 22:50:24 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Punched/clipped. Nothing is missing. Never played.
+Postage to Europe 25 euroes.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Dec 2014 19:00:47 +0000</listdate>
+    <saledate>Sat, 25 Jul 2015 14:00:12 +0000</saledate>
+    <price currency='EUR'>100</price>
+    <condition>likenew</condition>
+    <notes>AH edition - unpunched</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Aug 2015 12:54:10 +0000</listdate>
+    <saledate>Mon, 10 Aug 2015 22:22:33 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Played once.  Slight scuffing to a corner of the board - doesn_T_E_M_P_T_A_G_#039;t affect any tracks or the map.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Jun 2015 11:13:20 +0000</listdate>
+    <saledate>Sat, 15 Aug 2015 09:28:01 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>verygood</condition>
+    <notes>Unplayed Avalon Hill Breakout: Normandy with  hardboard map and all counters punched, clipped and sorted into bags. £5.00 P_T_E_M_P_T_A_G_amp;P in the UK, £10.00 in the EU and £20.00 for the rest of the world.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Aug 2015 18:22:12 +0000</listdate>
+    <saledate>Thu, 01 Oct 2015 11:59:30 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jun 2015 14:29:04 +0000</listdate>
+    <saledate>Sun, 11 Oct 2015 20:41:13 +0000</saledate>
+    <price currency='USD'>64.9</price>
+    <condition>new</condition>
+    <notes>New in shrink!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2015 20:38:50 +0000</listdate>
+    <saledate>Thu, 19 Nov 2015 02:15:31 +0000</saledate>
+    <price currency='USD'>61</price>
+    <condition>verygood</condition>
+    <notes>This is a Baby Alexander is on the Way listing for user binauralg</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2015 23:54:46 +0000</listdate>
+    <saledate>Sun, 29 Nov 2015 00:29:46 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>new</condition>
+    <notes>In shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Sep 2015 16:54:11 +0000</listdate>
+    <saledate>Sun, 06 Mar 2016 21:29:49 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>likenew</condition>
+    <notes>Played once, in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Mar 2016 00:27:41 +0000</listdate>
+    <saledate>Mon, 07 Mar 2016 03:44:24 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Geekbay for lmnop</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Mar 2016 22:01:23 +0000</listdate>
+    <saledate>Fri, 01 Apr 2016 22:53:42 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>likenew</condition>
+    <notes>Opened but unpunched. Everything is in excellent condition.
+$13 shipping to ConUS.
+Please geekmail me with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Oct 2015 22:28:44 +0000</listdate>
+    <saledate>Wed, 06 Apr 2016 16:55:02 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Game is not in cellophane, but it is in otherwise brand new condition, never punched, never played
+Game has been handled with  TLC.  My late husband was an avid boardgamer, and like to play almost as much as he liked to collect them.  He took excellent care of all of his games.  He didn_T_E_M_P_T_A_G_#039;t get a chance to play them all, but if he did play them, no food or drink was allowed near the game.  All games have been stored in a pet free, non smoking environment.  Please don_T_E_M_P_T_A_G_#039;t hesitate to ask if there are any questions.  Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Feb 2016 00:50:44 +0000</listdate>
+    <saledate>Fri, 15 Apr 2016 01:58:10 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>Shrinked Avalon Hill. Very Rare</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Mar 2016 01:33:31 +0000</listdate>
+    <saledate>Tue, 17 May 2016 01:01:25 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>likenew</condition>
+    <notes>Opened but unpunched.
+Buy more than one item, you get each extra item at $5 less. (EX: Buy three games, and get a $10 discount.) Also, you save on shipping.
+ALSO: If you buy five or more games, shipping is free!!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Apr 2016 23:33:55 +0000</listdate>
+    <saledate>Tue, 17 May 2016 01:43:33 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Opened, but never punched.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jun 2016 10:37:23 +0000</listdate>
+    <saledate>Mon, 13 Jun 2016 11:53:18 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>acceptable</condition>
+    <notes>This item is for BGG user Eric Teoro (7eat51) from the auction (https://www.boardgamegeek.com/geeklist/209510/summer-auction-euros-and-wargames-closed) which closed on 6/12.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jun 2016 19:20:46 +0000</listdate>
+    <saledate>Fri, 17 Jun 2016 03:06:38 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>good</condition>
+    <notes>Copyright on box says 1993, but closest listing on BGG says 1992.
+Shipping 13.45</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Jun 2016 21:44:00 +0000</listdate>
+    <saledate>Thu, 30 Jun 2016 02:01:32 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>verygood</condition>
+    <notes>Box has very little shelf wear.  Components are punched and sorted in counter tray.  Complete and in excellent to like new condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Jan 2016 01:03:23 +0000</listdate>
+    <saledate>Tue, 05 Jul 2016 01:04:58 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>in shrink wrap</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jul 2016 05:07:45 +0000</listdate>
+    <saledate>Sat, 23 Jul 2016 05:34:42 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/211383/item/4742443#4742443]Item for Geeklist _T_E_M_P_T_A_G_quot;Anybody Want Some Wargames? - Quick auction, US only, shipping from California, ends Friday 7/22_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Aug 2016 19:53:57 +0000</listdate>
+    <saledate>Sun, 14 Aug 2016 13:46:33 +0000</saledate>
+    <price currency='CAD'>39</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition.
+Local pick-up available in Toronto area (Yonge/Davisville), otherwise shipping charges to apply.
+PayPal preferred.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Aug 2016 17:11:30 +0000</listdate>
+    <saledate>Sun, 21 Aug 2016 08:26:01 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>Very goo condition, slight sun fading on some counters.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Jul 2016 18:11:34 +0000</listdate>
+    <saledate>Mon, 22 Aug 2016 18:08:12 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>verygood</condition>
+    <notes>This game is punched, inventoried and all the components are present.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jul 2015 03:42:50 +0000</listdate>
+    <saledate>Tue, 06 Sep 2016 01:34:42 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>Still in shrinkwrap, but the wrap has been torn pretty extensively, and the box has some light damage.  (See picture)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Sep 2016 11:57:29 +0000</listdate>
+    <saledate>Tue, 27 Sep 2016 10:11:30 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Oct 2016 03:41:27 +0000</listdate>
+    <saledate>Sun, 30 Oct 2016 18:00:42 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>ONLY for scud80
+This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/4921273#4921273]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Oct 2016 12:28:15 +0000</listdate>
+    <saledate>Fri, 18 Nov 2016 08:52:23 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>I verified it is complete, including sorting every counter onto the OOB charts. Box has normal shelf wear for its age.
+$12 shipping for CONUS addresses.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Sep 2016 17:29:40 +0000</listdate>
+    <saledate>Wed, 07 Dec 2016 17:47:47 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Unpunched and never played. Box has slight wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2016 21:38:56 +0000</listdate>
+    <saledate>Fri, 09 Dec 2016 09:46:29 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>likenew</condition>
+    <notes>PayPal only please. Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Sep 2016 00:58:24 +0000</listdate>
+    <saledate>Tue, 13 Dec 2016 19:40:16 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>good</condition>
+    <notes>punched, in good condition, map, rule book, counters and box</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Mar 2016 20:14:51 +0000</listdate>
+    <saledate>Sun, 18 Dec 2016 19:23:42 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>The box shows wear on the corners and edges a bit. No other defects noted, the box looks washed out a little but I think that_T_E_M_P_T_A_G_#039;s the way the art was to begin with. :)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Aug 2014 07:57:40 +0000</listdate>
+    <saledate>Sun, 18 Dec 2016 22:09:18 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Aug 2016 22:40:16 +0000</listdate>
+    <saledate>Wed, 04 Jan 2017 19:31:50 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>This is the original 1992 Avalon Hill version.  New in shrinkwrap.  Mint.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Oct 2016 18:03:03 +0000</listdate>
+    <saledate>Sun, 08 Jan 2017 03:50:22 +0000</saledate>
+    <price currency='USD'>69</price>
+    <condition>new</condition>
+    <notes>Original 1992 Avalon Hill Edition.  New In Shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Dec 2016 03:13:34 +0000</listdate>
+    <saledate>Fri, 13 Jan 2017 02:02:57 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>good</condition>
+    <notes>Rule book has been photocopied  (original was lost). Very good photocopy.
+Also included is L2 Breakout Normandy photocopied rules.
+punched, complete, nice copy.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jul 2016 17:41:35 +0000</listdate>
+    <saledate>Mon, 16 Jan 2017 15:12:52 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Shrink recently removed, but no counters punched--game has not been played.  
+MINT CONDITION
+Will ship to US lower fifty only, please.  Thanks in advance--</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jan 2017 02:02:27 +0000</listdate>
+    <saledate>Sun, 19 Feb 2017 21:43:07 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>verygood</condition>
+    <notes>Avalon Hill version with mounted mapboards. punched and verified complete; 264 large counters, 130 small, sorted and ziplock bagged by type/nationality. counters like new, very good box box. appears played once,twice</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Dec 2016 10:28:29 +0000</listdate>
+    <saledate>Wed, 22 Feb 2017 21:23:35 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2015 22:05:50 +0000</listdate>
+    <saledate>Sun, 09 Apr 2017 22:41:31 +0000</saledate>
+    <price currency='EUR'>75.49</price>
+    <condition>likenew</condition>
+    <notes>English version.
+Played once.
+Shipping within germany 4,99€, EU 9,99€, worldwide please ask.
+Or if you live in Berlin pick it up at our weekly game night!
+When ordering additional games you_T_E_M_P_T_A_G_#039;ll only pay the actual shipping cost!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jan 2016 07:25:29 +0000</listdate>
+    <saledate>Mon, 10 Apr 2017 22:11:43 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>BRAND NEW IN SHRINK</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Apr 2017 00:32:41 +0000</listdate>
+    <saledate>Wed, 03 May 2017 19:25:04 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Unpunched.  Includes a bonus used vintage poster-map of the Normandy landings that I bought in Normandy in the 80s.
+Cash on delivery ok for local pickup.
+Buyer pays shipping (weird long game box that is bigger than a long sized USPS box so $20).
+Most of my games on BGG are for sale even if not listed in BGG marketplace yet so feel free to have a look and make an offer if you want to save on shipping :)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Apr 2017 16:01:40 +0000</listdate>
+    <saledate>Wed, 24 May 2017 23:32:04 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>unplayed; counters mostly punched (unclipped); corners of box lid ripped/taped; one corner of box bottom dented; slight scuffing of box edges
+shipping: $14.60 priority mail
+(or combined shipping to be determined with multiple-game buys)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Jun 2017 22:25:58 +0000</listdate>
+    <saledate>Thu, 08 Jun 2017 22:58:30 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Aug 2014 17:56:56 +0000</listdate>
+    <saledate>Fri, 09 Jun 2017 20:00:58 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>AH Breakout Normandy.  The game has never been played.  Some scuffing to box surface and edges. Inside,...minty fresh like new!  Also includes a bunch of articles cut out from the AH General mag and sized to fit neatly in the box.
+Shipping to US would be at $19 and will include tracking.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Jun 2017 23:20:12 +0000</listdate>
+    <saledate>Tue, 01 Aug 2017 23:32:00 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Still in  shrink. $15.00 to all US addresses. US only please.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Aug 2017 12:08:29 +0000</listdate>
+    <saledate>Tue, 08 Aug 2017 14:04:58 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>Unfortunately I have to sell my collection due to missing space ((((
+The game is punched but unplayed
+Photos are available on request</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Sep 2017 14:33:02 +0000</listdate>
+    <saledate>Sun, 17 Sep 2017 10:01:38 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>LN condition: unplayed, unpunched counters.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 02:17:04 +0000</listdate>
+    <saledate>Tue, 03 Oct 2017 15:15:18 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>verygood</condition>
+    <notes>MISSING RULES. Box corners split. Components in excellent condition. Looks complete other than rules, sold as is.
+Buyer pays shipping.
+Toronto pickup possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Sep 2017 08:28:48 +0000</listdate>
+    <saledate>Sun, 29 Oct 2017 01:51:14 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>verygood</condition>
+    <notes>Two of the reinforcement schedule cards are printed copies (printed on decent card). All other components are complete and in good condition. Comes with an extra rulebook (which has been highlighter-ed).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Aug 2017 14:44:28 +0000</listdate>
+    <saledate>Wed, 01 Nov 2017 02:33:38 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Punched, complete
+PayPal or US Postal Money Order
+Other methods of payment may be accepted but contact me before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Sep 2017 16:54:34 +0000</listdate>
+    <saledate>Sun, 12 Nov 2017 19:35:30 +0000</saledate>
+    <price currency='EUR'>85</price>
+    <condition>new</condition>
+    <notes>New  - shrinkwrap just removed</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Oct 2015 22:37:58 +0000</listdate>
+    <saledate>Tue, 21 Nov 2017 19:21:28 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>[b]Map, rules, and setup sheets are in like new condition. The counters are unpunched. The box has a little shelf wear. 100% of components are present.[/b]</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jan 2018 12:17:14 +0000</listdate>
+    <saledate>Fri, 12 Jan 2018 19:14:47 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>Very slight wear, typical for age, otherwise complete and all in excellent condition.
+Photos available on request.
+Will ship worldwide; please contact for costs.
+If you have any questions please ask, and thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Feb 2018 15:18:55 +0000</listdate>
+    <saledate>Thu, 01 Mar 2018 11:48:20 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>used twice
+complete</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jan 2018 18:02:06 +0000</listdate>
+    <saledate>Sun, 04 Mar 2018 05:54:57 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>good</condition>
+    <notes>This game has been played and lightly used.
+- One corner of the box is torn.
+- Box has some minor creasing on the corners of the lid.
+Otherwise the contents are complete and near-mint.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Mar 2018 01:14:41 +0000</listdate>
+    <saledate>Wed, 07 Mar 2018 02:11:59 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Listing for Origins/Robert Fix, thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Mar 2018 20:53:12 +0000</listdate>
+    <saledate>Sun, 01 Apr 2018 13:31:15 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>Edición en inglés, incluye copia de las reglas en castellano publicadas por el Viejo Tercio. Sólo se ha usado una vez. Está completo y en perfecto estado. Envíos sólo a España.
+English edition, it also includes the spanish version of the rules published by _T_E_M_P_T_A_G_quot;el viejo tercio_T_E_M_P_T_A_G_quot;. Used just once. It is in perfect condition. Shipments only to Spain.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Mar 2018 05:12:56 +0000</listdate>
+    <saledate>Thu, 12 Apr 2018 03:42:05 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>unpunched, top left corner of box damaged, corrections on the order of battle cards and corresponding handmade units included</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Jan 2018 03:34:18 +0000</listdate>
+    <saledate>Sun, 15 Apr 2018 19:18:12 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Mar 2018 16:45:45 +0000</listdate>
+    <saledate>Tue, 24 Apr 2018 15:18:08 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 May 2018 12:51:36 +0000</listdate>
+    <saledate>Wed, 30 May 2018 17:03:30 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Includes counter tray.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Apr 2018 13:29:19 +0000</listdate>
+    <saledate>Sat, 09 Jun 2018 13:42:49 +0000</saledate>
+    <price currency='USD'>110</price>
+    <condition>new</condition>
+    <notes>Unpunched.  $14 shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Apr 2018 04:15:10 +0000</listdate>
+    <saledate>Fri, 06 Jul 2018 02:50:08 +0000</saledate>
+    <price currency='AUD'>55</price>
+    <condition>good</condition>
+    <notes>Punched and complete. Minor scuffing to box. Contents are in great condition.
+Australian buyers: Direct Deposit
+International: Paypal</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jul 2018 23:07:32 +0000</listdate>
+    <saledate>Mon, 23 Jul 2018 05:27:45 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243043/item/6237309#6237309]Item for Geeklist _T_E_M_P_T_A_G_quot;Large Wargame, Kickstarter and Other Games Auction ---  $5 Starting Bids!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 May 2018 10:10:05 +0000</listdate>
+    <saledate>Sun, 12 Aug 2018 20:04:03 +0000</saledate>
+    <price currency='EUR'>62</price>
+    <condition>verygood</condition>
+    <notes>Only played once - very good condition and complete! AH-Edition which includes a printed copy of the L2-Edition Rules.
+Box lid has one split corner, but otherwise great condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Aug 2018 16:18:36 +0000</listdate>
+    <saledate>Wed, 22 Aug 2018 22:08:39 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/244566/item/6309310#6309310]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED Kickstarter, Eklund, Euros and Wargames (Seattle and PDX pick up available)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. Winner is WMelnick
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Aug 2018 04:54:20 +0000</listdate>
+    <saledate>Sat, 01 Sep 2018 05:17:11 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>new</condition>
+    <notes>New and unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jun 2018 18:03:08 +0000</listdate>
+    <saledate>Wed, 03 Oct 2018 18:56:22 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>New, in shrink wrap</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Oct 2018 01:46:11 +0000</listdate>
+    <saledate>Sat, 20 Oct 2018 22:00:30 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Complete, unplayed and in great shape.  Shipping to continental US will be13.65.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Oct 2018 05:25:57 +0000</listdate>
+    <saledate>Tue, 23 Oct 2018 11:40:00 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>Punched only played once</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Sep 2018 02:35:54 +0000</listdate>
+    <saledate>Thu, 25 Oct 2018 04:03:42 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Opened, never played, unpunched, like new condition, original owner.
+l live in East Bay of the Bay Area (San Francisco) would be willing to make pick up arrangements.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Nov 2018 01:06:31 +0000</listdate>
+    <saledate>Thu, 15 Nov 2018 23:10:44 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>It’s never been played but old enough it’s hard to call it new. Punched. Some highlighting in the rules. Very playable. In fabulous shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Nov 2018 15:58:29 +0000</listdate>
+    <saledate>Tue, 08 Jan 2019 09:37:30 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>verygood</condition>
+    <notes>Never played, but punched _T_E_M_P_T_A_G_amp; set up once (counters stored in a GMT tray). The lid is slightly bowed _T_E_M_P_T_A_G_amp; has small tear at corner and center of the bottom, but nothing major (it was bought that way)- so the listing for the box would be _T_E_M_P_T_A_G_quot;Good_T_E_M_P_T_A_G_quot; but the contents are _T_E_M_P_T_A_G_quot;Very Good_T_E_M_P_T_A_G_quot;  (please see photo). The map has a slight crease in a small section, nothing major (it arrived that way too). Kept in a pet free/smoke free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2018 07:12:23 +0000</listdate>
+    <saledate>Tue, 29 Jan 2019 04:11:13 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Like New. Punched but never played. All components in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Jan 2019 21:30:05 +0000</listdate>
+    <saledate>Tue, 29 Jan 2019 16:59:06 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Nov 2018 19:40:58 +0000</listdate>
+    <saledate>Thu, 31 Jan 2019 17:11:29 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>punched. Pet free/smoke free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jul 2018 21:27:09 +0000</listdate>
+    <saledate>Wed, 06 Feb 2019 22:22:08 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Clean, unpunched copy of the L2 Deluxe Edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Nov 2018 15:51:43 +0000</listdate>
+    <saledate>Mon, 11 Feb 2019 22:55:28 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>Item new in shrink, odor free, stored indoors, smoke-free home.  Buyer to pay for shipping.  USPS Priority medium flat rate box will be used, which comes with $50 insurance, please add $3 if more insurance desired.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Feb 2019 17:19:16 +0000</listdate>
+    <saledate>Thu, 28 Feb 2019 01:40:04 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>verygood</condition>
+    <notes>Pristine condition for its age. Only partially punched, never played !
+Ref. Bx3</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Mar 2019 19:19:59 +0000</listdate>
+    <saledate>Sun, 17 Mar 2019 21:56:47 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>L2 version.  Counters sorted in large tray.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

@@ -1,0 +1,958 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="129122">
+   <yearpublished>2013</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>8</age>
+       <name primary="true" sortindex="1">Band of Brothers: Ghost Panzer</name>
+         
+   <description>Band of Brothers: Ghost Panzer is a fast playing game of squad level combat in WWII. It covers the exploits of the German 11th Panzer Division in Russia from 1941 to 1944. The rules are very simple (no combat charts are needed) with very few exceptions to remember and yet the game is meant to be all encompassing and will include infantry, tanks, and artillery._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Based on years of research, the game system uses a unique suppression mechanic. There are no longer two unique states for a unit, but varying degrees of suppression. This allows suppression to accumulate from multiple fire sources and means that the unit will not take a morale check until it is asked to do something. You will never know for sure how your units will respond until they are needed._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Although casualties can be caused by artillery and heavy weapons (which makes them prime battlefield targets), squads will never cause significant casualties shooting at range at dug in, first line troops. Their goal is to fire and maneuver. Sections of the enemy force must be pinned down and eliminated from up close. The system itself forces this realistic play. In a similar fashion, the system rewards you for spreading your troops out and other realistic game play._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Another unique feature of the game is its use of Proficiency and Casualty ratings to differentiate squads in areas besides just morale._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Ghost Panzer is a STAND ALONE GAME, but is also the second in a series._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Band of Brothers: Screaming Eagles was the first in the series and followed the U.S. 101st Airborne Division._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Other games under research are _T_E_M_P_T_A_G_amp;quot;The Old Breed_T_E_M_P_T_A_G_amp;quot; (the US 1st Marine Division) and a module that follows Commonwealth forces._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Other Key Links:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Designing a Division_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/hxeQzRMXHpioNN77ExLBPzQY6lU=/fit-in/200x150/pic1392887.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/-QY5gNEnKNVuFmvPxMGA5rZzPKA=/0x0/pic1392887.jpg</image>
+      
+            <boardgamehonor objectid="24521">2013 Golden Geek Best Wargame Nominee</boardgamehonor>
+               <boardgamefamily objectid="22797">Band of Brothers</boardgamefamily>
+               <boardgameintegration objectid="207587">Band of Brothers:  Old Breed South Pacific</boardgameintegration>
+               <boardgameexpansion objectid="207318">Band of Brothers: Battle Manual</boardgameexpansion>
+               <boardgameexpansion objectid="207446">Band of Brothers: Battle Pack 1</boardgameexpansion>
+               <boardgameintegration objectid="41429">Band of Brothers: Screaming Eagles</boardgameintegration>
+               <boardgameexpansion objectid="153558">Band of Brothers: Texas Arrows</boardgameexpansion>
+                      <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgameartist objectid="94412">Michael Evans (II)</boardgameartist>
+               <boardgameversion objectid="175682">First edition</boardgameversion>
+                                    <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+               <boardgamepodcastepisode objectid="115504">I_T_E_M_P_T_A_G_#039;ve Been Diced! episode 51: The PrezCon 2014 edition</boardgamepodcastepisode>
+               <boardgamedesigner objectid="9719">Jim Krohn</boardgamedesigner>
+               <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+               <boardgameartist objectid="94395">Christopher Ono</boardgameartist>
+               <boardgameartist objectid="11699">Brandon Pennington</boardgameartist>
+               <boardgameartist objectid="42927">Dan Safee</boardgameartist>
+               <boardgameversion objectid="275665">Second edition</boardgameversion>
+               <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+               <boardgamecategory objectid="1049">World War II</boardgamecategory>
+               <boardgamepublisher objectid="2355">Worthington Games</boardgamepublisher>
+               <boardgamepublisher objectid="26659">Worthington Publishing, LLC</boardgamepublisher>
+               <boardgameintegration objectid="207587" inbound="true">Band of Brothers:  Old Breed South Pacific</boardgameintegration>
+               <boardgameintegration objectid="41429" inbound="true">Band of Brothers: Screaming Eagles</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="7">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>302</usersrated>
+     <average>8.08283</average>
+     <bayesaverage>6.00312</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2168" bayesaverage="6.00312" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="110" bayesaverage="7.10453" />
+            
+           </ranks>
+     
+     <stddev>1.41527</stddev>
+     <median>0</median>
+     <owned>1141</owned>
+     <trading>64</trading>
+     <wanting>72</wanting>
+     <wishing>245</wishing>
+     <numcomments>154</numcomments>
+     <numweights>28</numweights>
+     <averageweight>2.6071</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Wed, 11 Dec 2013 19:09:27 +0000</listdate>
+    <saledate>Mon, 30 Dec 2013 05:58:24 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BAND OF BROTHERS GHOST PANZER: $49.95
+Worthington Games [WOG 051]
+SHIPPING
+Continental U.S. - $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Dec 2013 16:18:21 +0000</listdate>
+    <saledate>Mon, 05 May 2014 20:52:59 +0000</saledate>
+    <price currency='USD'>50.99</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $10.95</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Feb 2014 08:56:44 +0000</listdate>
+    <saledate>Thu, 27 Feb 2014 09:04:38 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>Unplayed . Punched counters in trays . Very good condition .
+Shipping Germany free 
+Shipping EU 10 Euro</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Mar 2014 13:18:00 +0000</listdate>
+    <saledate>Sat, 12 Jul 2014 14:10:53 +0000</saledate>
+    <price currency='EUR'>67.9</price>
+    <condition>new</condition>
+    <notes>Band of Brothers: Ghost Panzer
+English first edition
+Worthington Games</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Mar 2014 08:22:48 +0000</listdate>
+    <saledate>Sun, 30 Mar 2014 16:43:34 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>likenew</condition>
+    <notes>UK sale only. I will pay postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 May 2014 22:25:08 +0000</listdate>
+    <saledate>Thu, 28 Aug 2014 12:44:02 +0000</saledate>
+    <price currency='GBP'>46.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 May 2014 16:42:45 +0000</listdate>
+    <saledate>Fri, 25 Jul 2014 12:04:31 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BAND OF BROTHERS GHOST PANZER: $49.95
+Worthington Games [WOG 051]
+SHIPPING
+Continental U.S. - $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Jul 2014 17:05:10 +0000</listdate>
+    <saledate>Wed, 23 Jul 2014 15:30:35 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>For sale is one copy of Band of Brothers: Ghost Panzer! 
+The game is in New condition (it has not been opened, punched, or played, and is still in shrink). 
+I will ship this item anywhere in the world at buyer_T_E_M_P_T_A_G_#039;s expense. I accept payment via PayPal and will ship within two business days of payment receipt. Game will be expertly packed with care.
+Picture is of actual item for sale. Check out my perfect marketplace and trade feedback and purchase with confidence!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Jul 2014 14:01:40 +0000</listdate>
+    <saledate>Sat, 02 Aug 2014 21:47:59 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BAND OF BROTHERS GHOST PANZER: $49.95
+Worthington Games [WOG 067]
+SHIPPING
+Continental U.S. - $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Aug 2014 19:39:44 +0000</listdate>
+    <saledate>Mon, 29 Sep 2014 01:00:17 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Brand new and unopened, I will ship Fedex or U.S. post based on buyers preference.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Aug 2014 09:34:00 +0000</listdate>
+    <saledate>Mon, 01 Sep 2014 15:16:09 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Counters punched</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Oct 2014 21:44:17 +0000</listdate>
+    <saledate>Sun, 12 Oct 2014 04:00:12 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>likenew</condition>
+    <notes>Geeklist auction win.  For user aram12 ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Oct 2014 17:14:26 +0000</listdate>
+    <saledate>Sun, 16 Nov 2014 21:01:36 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Nov 2014 06:40:09 +0000</listdate>
+    <saledate>Sat, 22 Nov 2014 14:11:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This game is complete and in excellent condition.   The shrink has been removed but the game is not punched.
+I will ship via USPS Priority Mail so shipping is $11.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Nov 2014 15:27:06 +0000</listdate>
+    <saledate>Tue, 09 Dec 2014 06:00:26 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Nov 2014 13:05:12 +0000</listdate>
+    <saledate>Wed, 31 Dec 2014 14:22:43 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>likenew</condition>
+    <notes>Counters punched and bagged. Otherwise complete and in immaculate, _T_E_M_P_T_A_G_#039;Like New_T_E_M_P_T_A_G_#039; condition.
+Photos available on request.
+Will ship worldwide; please contact for costs.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Nov 2014 14:22:01 +0000</listdate>
+    <saledate>Tue, 13 Jan 2015 21:50:05 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>new</condition>
+    <notes>In shrink
+Shipping Germany  4 Euro
+Shipping World          7 Euro
+PayPal plus max. 4 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jul 2014 09:01:23 +0000</listdate>
+    <saledate>Fri, 16 Jan 2015 03:45:49 +0000</saledate>
+    <price currency='EUR'>66.99</price>
+    <condition>new</condition>
+    <notes>Band of Brothers: Ghost Panzer
+Nick: 
+English first edition
+Publisher: Worthington Games</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Aug 2014 21:04:18 +0000</listdate>
+    <saledate>Thu, 05 Feb 2015 13:23:06 +0000</saledate>
+    <price currency='GBP'>46.99</price>
+    <condition>new</condition>
+    <notes>EU postage = £13
+See below for UK postage</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Dec 2014 21:44:22 +0000</listdate>
+    <saledate>Sun, 08 Feb 2015 17:36:13 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap
+$9.95 shipping to US</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Mar 2015 18:39:19 +0000</listdate>
+    <saledate>Wed, 18 Mar 2015 22:41:13 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Game is complete in the original box.  Counters have been rounded with a 2.5mm corner rounder and look amazing.
+(Also available as a combo with Band of Brothers: Screaming Eagles)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 May 2015 14:46:29 +0000</listdate>
+    <saledate>Thu, 28 May 2015 02:49:13 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Unpunched but counters falling out</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 May 2015 21:15:27 +0000</listdate>
+    <saledate>Fri, 29 May 2015 20:12:09 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Counter corners have been clipped nicely with a jig. Shipping from 95401. I also have Screaming Eagles and will combine shipping. Buy both and I_T_E_M_P_T_A_G_#039;ll give a $10 discount.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 May 2015 11:33:03 +0000</listdate>
+    <saledate>Fri, 12 Jun 2015 15:26:25 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New in shrink. From a pet and smoke free home. Check out my other sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Jun 2015 12:01:54 +0000</listdate>
+    <saledate>Mon, 15 Jun 2015 21:04:34 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Game complete and punched. 
+Shipping costs free without insurance and tracking number!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Jun 2015 04:03:02 +0000</listdate>
+    <saledate>Tue, 23 Jun 2015 03:59:08 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>likenew</condition>
+    <notes>Like New Unpunched copy.  Never played.  Come from a smoke free home in California.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Jun 2015 12:59:15 +0000</listdate>
+    <saledate>Mon, 29 Jun 2015 07:17:19 +0000</saledate>
+    <price currency='GBP'>22</price>
+    <condition>new</condition>
+    <notes>Brand new, sealed and unused copy of Ghost Panzer
+Please Note: Although the listing says I will ship to Europe, I will only ship to the UK (there is no option to select UK only shipping unfortunately)...
+I Will only ship to the UK (as tracked shipping is just too expensive to ship anywhere else), and the price of shipping is £5 within the UK</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 May 2015 19:19:22 +0000</listdate>
+    <saledate>Mon, 29 Jun 2015 15:16:54 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jul 2015 02:41:40 +0000</listdate>
+    <saledate>Fri, 17 Jul 2015 17:15:21 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Complete and in excellent condition.  
+Shrink removed, counters remain unpunched, 
+several suppression chits have fallen off
+Shipping from 97116
+Pictures can be sent upon request</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 May 2015 15:41:20 +0000</listdate>
+    <saledate>Mon, 27 Jul 2015 22:54:33 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jul 2015 04:03:36 +0000</listdate>
+    <saledate>Wed, 05 Aug 2015 00:22:37 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Complete and unpunched. One corner of the box top has been taped, but it_T_E_M_P_T_A_G_#039;s pretty unnoticeable.
+I accept Paypal and ship next business day after payment is received. I will ship this via USPS Priority Mail. I have 591 feedback on eBay with a 100% rating:
+http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2_T_E_M_P_T_A_G_amp;userid=magliaciclamino</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jun 2015 16:46:13 +0000</listdate>
+    <saledate>Fri, 28 Aug 2015 09:16:56 +0000</saledate>
+    <price currency='EUR'>39.99</price>
+    <condition>verygood</condition>
+    <notes>Complete, punched (counters well clipped) and in perfect condition.
+Countertray included.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 May 2015 18:06:37 +0000</listdate>
+    <saledate>Thu, 03 Sep 2015 15:11:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+Buyer to pay actual shipping cost via USPS (typically $13-$15 for Standard Post with tracking, dependent on zip code). Shipping from 95062.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Aug 2015 23:46:23 +0000</listdate>
+    <saledate>Thu, 22 Oct 2015 12:57:45 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 May 2015 07:27:25 +0000</listdate>
+    <saledate>Wed, 28 Oct 2015 22:11:19 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition.
+Punched and only played a couple of times.
+This is a tremendous system and only selling as those _T_E_M_P_T_A_G_#039;real life_T_E_M_P_T_A_G_#039; things getting in the way.
+Shipping £5 to mainland UK.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Oct 2015 13:22:17 +0000</listdate>
+    <saledate>Mon, 23 Nov 2015 21:26:27 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>Punched, but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Oct 2015 02:23:22 +0000</listdate>
+    <saledate>Thu, 26 Nov 2015 04:07:21 +0000</saledate>
+    <price currency='AUD'>80</price>
+    <condition>likenew</condition>
+    <notes>Opened, but unpunched and never ;played. Game is in excellent condition. Smoke free, pet free and clean home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Dec 2015 21:57:19 +0000</listdate>
+    <saledate>Mon, 14 Dec 2015 21:20:28 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Dec 2015 04:17:45 +0000</listdate>
+    <saledate>Sun, 20 Dec 2015 16:46:14 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/201114/item/4324813#4324813]Item for Geeklist _T_E_M_P_T_A_G_quot;I need my office space back.... Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Dec 2015 18:06:01 +0000</listdate>
+    <saledate>Wed, 06 Jan 2016 19:37:53 +0000</saledate>
+    <price currency='USD'>41</price>
+    <condition>new</condition>
+    <notes>In Shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jan 2016 13:52:45 +0000</listdate>
+    <saledate>Fri, 15 Jan 2016 18:47:39 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>might be second edition - not quite sure....</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Nov 2015 17:27:19 +0000</listdate>
+    <saledate>Sat, 06 Feb 2016 05:04:14 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>likenew</condition>
+    <notes>Game has been opened but never played.   The counter sheet of smaller counters has had many simply fall off the sheet (not punched by me).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jan 2016 17:24:43 +0000</listdate>
+    <saledate>Tue, 16 Feb 2016 03:10:51 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Feb 2016 18:02:47 +0000</listdate>
+    <saledate>Thu, 18 Feb 2016 17:32:31 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>You will just pay the actual postage, email me with location for this.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Nov 2015 00:10:13 +0000</listdate>
+    <saledate>Sun, 28 Feb 2016 19:23:25 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BAND OF BROTHERS GHOST PANZER: $49.95
+Worthington Games [WOG 067]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Dec 2015 20:54:39 +0000</listdate>
+    <saledate>Fri, 04 Mar 2016 18:02:41 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Punched, nicely clipped (see picture), never played.  Everything is in excellent condition.
+$13 shipping to ConUS.
+Please geekmail me with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Feb 2016 14:44:53 +0000</listdate>
+    <saledate>Wed, 09 Mar 2016 03:22:07 +0000</saledate>
+    <price currency='EUR'>39.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Oct 2015 06:02:01 +0000</listdate>
+    <saledate>Sat, 19 Mar 2016 04:00:56 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink. Make me a reasonable offer.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Mar 2016 16:11:43 +0000</listdate>
+    <saledate>Tue, 12 Apr 2016 05:47:09 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>verygood</condition>
+    <notes>This game is in excellent condition, neatly punched and played one time.  
+US Shipping will be $8-12 depending on what service you choose (retail ground or Priority).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Nov 2015 00:10:13 +0000</listdate>
+    <saledate>Sat, 16 Apr 2016 04:20:21 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BAND OF BROTHERS GHOST PANZER: $49.95
+Worthington Games [WOG 067]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Apr 2016 13:53:13 +0000</listdate>
+    <saledate>Wed, 27 Apr 2016 14:24:55 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198212/item/4252669#4252669]Item for Geeklist _T_E_M_P_T_A_G_quot;Pending Auction - Thunderstone, High Frontier, Wargames - Contintental US Only - Ends - Shipped from NJ_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Oct 2015 15:00:19 +0000</listdate>
+    <saledate>Fri, 13 May 2016 12:26:56 +0000</saledate>
+    <price currency='EUR'>64.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 May 2016 22:53:45 +0000</listdate>
+    <saledate>Fri, 03 Jun 2016 23:28:04 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Like new condition. I have added a counter tray, as you can see.
+Contact me for shipping and we will figure out the best/cheapest option for your area.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Jun 2016 01:43:33 +0000</listdate>
+    <saledate>Tue, 21 Jun 2016 01:07:50 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>opened but unpunched, complete copy.
+PayPal only
+USPS flat rate only</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jul 2016 14:28:28 +0000</listdate>
+    <saledate>Sun, 17 Jul 2016 19:03:50 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner Mercurio68</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jul 2016 09:13:00 +0000</listdate>
+    <saledate>Sun, 24 Jul 2016 16:10:54 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Played a hand full of times, in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Mar 2014 20:31:55 +0000</listdate>
+    <saledate>Sun, 31 Jul 2016 17:21:04 +0000</saledate>
+    <price currency='GBP'>37.5</price>
+    <condition>new</condition>
+    <notes>Brand New Shrink Wrapped copy of Band of Brothers: Ghost Panzer
+Note:
+Assuming the buyer is willing I_T_E_M_P_T_A_G_#039;ll try to complete all paperwork required by the BGG Market Place on the day of purchase and have the item packed and shipped on the next working day.
+Postage within the UK will normally be by courier(3-5 working days) with a charge of £5.50 for this item. 
+If you want to make multiple purchases contact me and I_T_E_M_P_T_A_G_#039;ll consolidate postage.
+Thanks for looking.
+Barry</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Mar 2016 07:33:44 +0000</listdate>
+    <saledate>Wed, 05 Oct 2016 20:44:46 +0000</saledate>
+    <price currency='EUR'>69.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Oct 2016 16:31:28 +0000</listdate>
+    <saledate>Tue, 25 Oct 2016 18:01:10 +0000</saledate>
+    <price currency='EUR'>69.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Oct 2016 11:49:27 +0000</listdate>
+    <saledate>Sun, 06 Nov 2016 21:10:41 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>good</condition>
+    <notes>Well packed and posted at cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Dec 2016 01:04:26 +0000</listdate>
+    <saledate>Tue, 31 Jan 2017 19:36:18 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Complete, unpunched, and in very good condition. Does not include any Kickstarter extras.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jan 2017 07:22:21 +0000</listdate>
+    <saledate>Thu, 09 Mar 2017 23:52:53 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>The game is in very good shape. Never played. Punched. Corners rounded with Oregon Lam 2mm (they look amazing).  I_T_E_M_P_T_A_G_#039;ll be more than happy to text pictures of the item upon request.
+I was never able to get my group to play it as they were too interested in fantasy and sci-fi. Dang it!
+Smoke-free home. Available for local pick-up if you_T_E_M_P_T_A_G_#039;d like to avoid the shipping (La Mesa, CA). Buyer pays shipping. Let_T_E_M_P_T_A_G_#039;s talk about how you would like it shipped before submitting PayPal payment.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Dec 2016 12:32:11 +0000</listdate>
+    <saledate>Thu, 30 Mar 2017 14:57:53 +0000</saledate>
+    <price currency='EUR'>59.95</price>
+    <condition>new</condition>
+    <notes>New.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Feb 2017 15:19:53 +0000</listdate>
+    <saledate>Sun, 02 Apr 2017 21:13:03 +0000</saledate>
+    <price currency='EUR'>59.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 9,99€.
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 May 2017 11:02:06 +0000</listdate>
+    <saledate>Mon, 29 May 2017 16:07:16 +0000</saledate>
+    <price currency='EUR'>63.95</price>
+    <condition>new</condition>
+    <notes>New.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Mar 2017 11:58:54 +0000</listdate>
+    <saledate>Tue, 30 May 2017 13:01:48 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>BUNDLE Ghost Panzer first edition. Must be bought together with Screaming Eagles (comes with the newest, updated pieces that were included with Texas Arrows) (£25), and Texas Arrows (£30). Apologies, but will not split. All three games in the system punched, sorted, played only once, in immaculate, as-new condition. Only the newest, updated rules and quick play sheets are included, and all other components are complete.
+Unbeatable value bundle for £80 total!
+Click _T_E_M_P_T_A_G_#039;buy_T_E_M_P_T_A_G_#039; for all three and I will add a single postage cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jan 2017 01:56:24 +0000</listdate>
+    <saledate>Mon, 05 Jun 2017 12:32:55 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Some counter punched and stored in a counter tray. Otherwise everything else complete and in mint condition. No wear or tear. Non-smoking home</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Jun 2017 04:52:45 +0000</listdate>
+    <saledate>Thu, 08 Jun 2017 23:30:58 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>One corner of the box lid has split. Otherwise, everything_T_E_M_P_T_A_G_#039;s good. All components in great condition. 
+Buyer pays shipping from 40504.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Jul 2017 22:21:47 +0000</listdate>
+    <saledate>Fri, 07 Jul 2017 00:58:49 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>For user jjrbedford only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Jun 2017 10:02:07 +0000</listdate>
+    <saledate>Sat, 08 Jul 2017 00:06:38 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>Only played once, sorted counters.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Jun 2015 00:28:09 +0000</listdate>
+    <saledate>Sun, 09 Jul 2017 19:47:59 +0000</saledate>
+    <price currency='EUR'>26</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Jul 2017 12:12:12 +0000</listdate>
+    <saledate>Tue, 18 Jul 2017 18:25:12 +0000</saledate>
+    <price currency='USD'>49.99</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Aug 2017 11:43:19 +0000</listdate>
+    <saledate>Mon, 18 Sep 2017 09:55:03 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>new</condition>
+    <notes>Shipping costs / Versandkosten:
+Germany: 5,00 € (egal, wie viele Artikel ihr bei uns kauft)
+EU Countries: 10,00 € (regardless how much articles You order from us)
+Rest of the World: We send You a mail with the shipping costs
+All games are new and in their original wrapping and all prices include the German VAT (7% or 19%).
+If You live outside the EU You don´t have to pay the German VAT (we send You the new, lower price with the confirmation).
+We offer only goods that we have in stock, You can also visit our onlineshop www.gamers-hq.de for more games
+Payment may be made by Paypal (no extra fee) or bank transfer in advance.
+If you have any questions, feel free to send us an email (laden@gamers-hq.de), give us a call (+49 30 79706126) or visit our homepage (www.gamers-hq.de).
+If You´re a German buyer, just read the text below (“…innerhalb Deutschlands gilt:..”)
+You find our term _T_E_M_P_T_A_G_amp; conditions here: https://gamers-hq.de/en/terms-conditions
+Innerhalb Deutschlands gilt:
+Alle Spiele sind Neuware und in Orginalverpackung . Alle Preise sind inklusive der gesetzlichen Mehrwertsteuer von 7% bzw. 19%.
+Bezahlt werden kann per paypal, Vorauskasse, Bankeinzug oder direkt bei uns im Laden (wenn ihr aus Berlin kommt).
+Wenn ihr noch irgendwelche Fragen habt, ruft uns an (030 79706126), schickt uns ne Mail (laden@gamers-hq.de) oder besucht unsere Homepage (www.gamers-hq.de).
+Unsere AGB findet ihr hier : https://gamers-hq.de/agb</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Jul 2017 20:50:40 +0000</listdate>
+    <saledate>Tue, 03 Oct 2017 15:55:37 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>likenew</condition>
+    <notes>Never played, only one sheet of counters have been punched. This counter sheet had a printing error, with many of the images offset to the right. I don_T_E_M_P_T_A_G_#039;t think it is particularly impactful to play, but it certainly is noticeable (see attached image). All other counters are fine, just this sheet was affected.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Aug 2017 11:43:19 +0000</listdate>
+    <saledate>Wed, 04 Oct 2017 09:59:08 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>new</condition>
+    <notes>Shipping costs / Versandkosten:
+Germany: 5,00 € (egal, wie viele Artikel ihr bei uns kauft)
+EU Countries: 10,00 € (regardless how much articles You order from us)
+Rest of the World: We send You a mail with the shipping costs
+All games are new and in their original wrapping and all prices include the German VAT (7% or 19%).
+If You live outside the EU You don´t have to pay the German VAT (we send You the new, lower price with the confirmation).
+We offer only goods that we have in stock, You can also visit our onlineshop www.gamers-hq.de for more games
+Payment may be made by Paypal (no extra fee) or bank transfer in advance.
+If you have any questions, feel free to send us an email (laden@gamers-hq.de), give us a call (+49 30 79706126) or visit our homepage (www.gamers-hq.de).
+If You´re a German buyer, just read the text below (“…innerhalb Deutschlands gilt:..”)
+You find our term _T_E_M_P_T_A_G_amp; conditions here: https://gamers-hq.de/en/terms-conditions
+Innerhalb Deutschlands gilt:
+Alle Spiele sind Neuware und in Orginalverpackung . Alle Preise sind inklusive der gesetzlichen Mehrwertsteuer von 7% bzw. 19%.
+Bezahlt werden kann per paypal, Vorauskasse, Bankeinzug oder direkt bei uns im Laden (wenn ihr aus Berlin kommt).
+Wenn ihr noch irgendwelche Fragen habt, ruft uns an (030 79706126), schickt uns ne Mail (laden@gamers-hq.de) oder besucht unsere Homepage (www.gamers-hq.de).
+Unsere AGB findet ihr hier : https://gamers-hq.de/agb</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Oct 2017 02:23:40 +0000</listdate>
+    <saledate>Thu, 02 Nov 2017 00:51:36 +0000</saledate>
+    <price currency='USD'>37.99</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and mostly unpunched.  One strip of counters has fallen out of the frame.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Oct 2017 00:37:31 +0000</listdate>
+    <saledate>Fri, 03 Nov 2017 02:10:19 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Jul 2017 13:15:32 +0000</listdate>
+    <saledate>Mon, 13 Nov 2017 05:29:41 +0000</saledate>
+    <price currency='USD'>48.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BAND OF BROTHERS GHOST PANZER: $48.95
+Worthington Games [WOG WP011-b]
+* Game is in-shrink, but with very minor corner ding -- see 3 pictures with this listing
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Nov 2017 21:51:43 +0000</listdate>
+    <saledate>Sun, 26 Nov 2017 03:06:32 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Still in shrink (now I have to sell)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Dec 2017 16:18:21 +0000</listdate>
+    <saledate>Sat, 09 Dec 2017 21:49:48 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Nov 2017 18:43:25 +0000</listdate>
+    <saledate>Tue, 26 Dec 2017 10:14:52 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Punched but Unplayed
+£5 post in uk
+Please pay within 48 hours or the purchase will be cancelled</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Jan 2018 06:43:00 +0000</listdate>
+    <saledate>Fri, 12 Jan 2018 13:48:08 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This is the remastered 2nd edition from Worthington Games.
+Game is partially punched, but only set up and played once.  Nothing missing or damaged.  All punched components are neatly bagged and sorted.  Also selling Band of Brothers: Screaming Eagle, 2nd Edition.  I will discount shipping if you want to order both together.
+Shipping will be via USPS Priority Flat Rate</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jan 2018 04:01:17 +0000</listdate>
+    <saledate>Sat, 27 Jan 2018 01:02:23 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>New in the shrink. No box hits. Original first printing.
+Free shipping to US</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Jul 2017 13:14:29 +0000</listdate>
+    <saledate>Fri, 16 Feb 2018 22:20:16 +0000</saledate>
+    <price currency='USD'>48.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BAND OF BROTHERS GHOST PANZER: $48.95
+Worthington Games [WOG WP011-a]
+* Game is in-shrink, but with very minor corner ding -- see 3 pictures with this listing
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Feb 2018 19:52:40 +0000</listdate>
+    <saledate>Fri, 23 Feb 2018 10:26:32 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Game is in excellent condition, only some counters punched. Postage to UK £4.50.  Shipping to EU c. £12.50.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 May 2017 20:52:14 +0000</listdate>
+    <saledate>Mon, 12 Mar 2018 18:33:13 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BAND OF BROTHERS GHOST PANZER: $54.95
+Worthington Games [WOG WP011]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Apr 2017 02:05:15 +0000</listdate>
+    <saledate>Tue, 20 Mar 2018 16:52:54 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>The shrink wrap is off the box, and some of the counters have come out of the counter sheets (which shows they were very well punched:) ), but otherwise this game is new and in excellent condition.  I will ship in a USPS Medium Flat Rate box, so it will have a tracking number.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 May 2018 17:59:18 +0000</listdate>
+    <saledate>Thu, 07 Jun 2018 15:12:05 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>verygood</condition>
+    <notes>Complete and in very good condition.
+Postage in the UK - £4.
+Will ship to Europe, but please contact me for a postage quote before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Jun 2018 21:14:05 +0000</listdate>
+    <saledate>Fri, 29 Jun 2018 21:53:42 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Second edition. Shrink removed. Otherwise unpunched, mint. 
+Shipping will be Priority Mail Medium Flat Rate.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Oct 2016 06:48:52 +0000</listdate>
+    <saledate>Wed, 01 Aug 2018 00:45:01 +0000</saledate>
+    <price currency='EUR'>69.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Oct 2018 03:30:27 +0000</listdate>
+    <saledate>Thu, 11 Oct 2018 13:14:34 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246591/item/6460429#6460429]Item for Geeklist _T_E_M_P_T_A_G_quot;70th Monthly Wargame Flea - October 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Aug 2018 09:48:00 +0000</listdate>
+    <saledate>Thu, 11 Oct 2018 21:42:53 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Opened, unplayed. Shipping is $13.45</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Oct 2018 13:34:45 +0000</listdate>
+    <saledate>Mon, 15 Oct 2018 13:36:51 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Auction winner Travis Crowe.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Sep 2018 00:22:06 +0000</listdate>
+    <saledate>Fri, 09 Nov 2018 05:12:12 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>First edition. Like New, only shrinkwrap removed.
+Add $13.00 for shipping via USPS.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Jul 2017 07:57:39 +0000</listdate>
+    <saledate>Fri, 09 Nov 2018 19:00:47 +0000</saledate>
+    <price currency='EUR'>59.49</price>
+    <condition>new</condition>
+    <notes>New.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Nov 2018 00:45:33 +0000</listdate>
+    <saledate>Mon, 26 Nov 2018 18:32:54 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Complete game, but tear in one corner of the box because of they quality of original box.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Nov 2018 16:33:18 +0000</listdate>
+    <saledate>Mon, 03 Dec 2018 11:38:03 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>new</condition>
+    <notes>NIS</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jan 2019 01:49:44 +0000</listdate>
+    <saledate>Thu, 31 Jan 2019 05:20:31 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Components in very good condition.  Light wear on the box.  Counters clipped with OL 2mm clipper.  
+Will ship cheapest method possible.  
+Paypal payment.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

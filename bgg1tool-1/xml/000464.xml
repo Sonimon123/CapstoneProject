@@ -1,0 +1,716 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="464">
+   <yearpublished>1995</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>30</playingtime>
+   <minplaytime>30</minplaytime>
+   <maxplaytime>30</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Billabong</name>
+       <name  sortindex="1">High Tail It!</name>
+       <name  sortindex="1">빌라봉</name>
+         
+   <description>In the geometrical racing game Billabong, players maneuver teams of kangaroos jumping around a _T_E_M_P_T_A_G_amp;quot;billabong_T_E_M_P_T_A_G_amp;quot; (_T_E_M_P_T_A_G_amp;quot;a dead-end channel extending from the stream of a river,_T_E_M_P_T_A_G_amp;quot; a term used in Australia). The board is made up of checkerboard-style squares around the billabong in the middle._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;On your turn, you move one of your five kangaroos, usually moving it in a jump or series of jumps over the other kangaroos. Jumps can be long; if the kangaroo to be jumped over is five spaces away, for example, the landing space will be five spaces beyond. The other option _T_E_M_P_T_A_G_amp;mdash; to move a kangaroo just one space _T_E_M_P_T_A_G_amp;mdash; is usually used as a positioning tactic for a subsequent move. The first player to get all five kangaroos around the billabong and over the finish line wins._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/U7J0KLv0v8u55ThzDoA6gSK4ASg=/fit-in/200x150/pic4092517.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/8d4a-5GLQZf5F0G6S65Pa7QhMmU=/0x0/pic4092517.jpg</image>
+      
+            <boardgamehonor objectid="8681">1994 Spiel des Jahres Recommended</boardgamehonor>
+               <boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+               <boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+               <boardgamepublisher objectid="8">AMIGO</boardgamepublisher>
+               <boardgamecategory objectid="1089">Animals</boardgamecategory>
+               <boardgamefamily objectid="7260">Animals: Kangaroos</boardgamefamily>
+               <boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+               <boardgamefamily objectid="10167">Country: Australia</boardgamefamily>
+                      <boardgameversion objectid="241491">English edition</boardgameversion>
+               <boardgamepodcastepisode objectid="268534">Episode 66 - BGG.CON 2018 Recap</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgamepublisher objectid="151">franjos Spieleverlag</boardgamepublisher>
+               <boardgameartist objectid="11507">Klemens Franz</boardgameartist>
+                             <boardgameversion objectid="35368">German first edition</boardgameversion>
+                                                                                     <boardgameversion objectid="25051">German second edition</boardgameversion>
+               <boardgameversion objectid="35367">German third edition</boardgameversion>
+               <boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+                      <boardgameartist objectid="1586">Ralf E. Kahlert</boardgameartist>
+               <boardgameversion objectid="425389">Korean edition</boardgameversion>
+                      <boardgameartist objectid="11478">Alvin Madden</boardgameartist>
+               <boardgameversion objectid="403038">Multilingual edition 2018</boardgameversion>
+               <boardgamepublisher objectid="37303">OPEN_T_E_M_P_T_A_G_#039;N PLAY</boardgamepublisher>
+               <boardgamecategory objectid="1031">Racing</boardgamecategory>
+                             <boardgamepublisher objectid="3491">SimplyFun</boardgamepublisher>
+               <boardgamedesigner objectid="104">Eric Solomon</boardgamedesigner>
+               <boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="9" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="10" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="10">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="10" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="3" />
+     <result value="8" numvotes="5" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>740</usersrated>
+     <average>6.85954</average>
+     <bayesaverage>6.0222</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2104" bayesaverage="6.0222" />
+            
+       
+              <rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="70" bayesaverage="6.58896" />
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="528" bayesaverage="6.17025" />
+            
+           </ranks>
+     
+     <stddev>1.24242</stddev>
+     <median>0</median>
+     <owned>801</owned>
+     <trading>15</trading>
+     <wanting>65</wanting>
+     <wishing>155</wishing>
+     <numcomments>251</numcomments>
+     <numweights>64</numweights>
+     <averageweight>1.9531</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sat, 15 Mar 2003 13:39:01 +0000</listdate>
+    <saledate>Thu, 22 May 2003 05:43:17 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>... still in shrink!
+Shipping worldwide at cost!!!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 May 2003 02:33:50 +0000</listdate>
+    <saledate>Sun, 01 Jun 2003 06:02:23 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 May 2003 16:28:20 +0000</listdate>
+    <saledate>Mon, 02 Jun 2003 00:44:12 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays shipping from NJ via USPS Priority Mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Mar 2004 03:26:45 +0000</listdate>
+    <saledate>Sat, 08 May 2004 05:16:16 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Amigo edition.  Components like new</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Jan 2005 18:02:05 +0000</listdate>
+    <saledate>Tue, 01 Feb 2005 08:42:35 +0000</saledate>
+    <price currency='USD'>17.5</price>
+    <condition>verygood</condition>
+    <notes>Very nice condition.
+Newest edition - Franjos.
+Shipping is 8.95$ within U.S., insurance 1.30$ opotional.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jul 2005 16:54:13 +0000</listdate>
+    <saledate>Fri, 28 Oct 2005 19:30:31 +0000</saledate>
+    <price currency='USD'>22.2</price>
+    <condition>new</condition>
+    <notes>I´m offering the original german edition by AMIGO
++++++ new + in shrink ++++
+Shipping is EUR 8.00 within Europe as also worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Feb 2006 08:45:39 +0000</listdate>
+    <saledate>Thu, 11 May 2006 13:42:37 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>AMIGO VERSION
+COULD BE SEND AS A LETTER (CHEAPER,FASTER)
+DISCOUNT RULES: IF YOU BUY 3 OR MORE GAMES YOU´LL GET DISCOUNT. THE PERCENTAGE IS (DAY+MONTH)/2 (Example: If you buy the games on 12th June you´ll get 12+6=18/2=9 %). So you can get a max. Discount on 31th december of 21 % :_). The date is the BGG-TIME (CST).
+I´m selling a lot of other german boardgames
+Shipping worldwide (Paypal or cash or Western Union). Bank Transfer is also OK, if there are no further costs for me. Picture for condition purposes can me mailed
+Look also at my other games I want _T_E_M_P_T_A_G_quot;to get rid off_T_E_M_P_T_A_G_quot;
+If you are looking for some other games send me an email.
+Shipping costs are roughly:
+--------- up to 2 kg ----- up to 5 kg --- up to 10 kg
+--------- no insurance --- insurance ---- insurance
+Europe (EU) - 9 Euros ----- 17 Euros ----- 22 Euros
+USA/Canada - 13 Euros ----- 32 Euros ----- 42 Euros
+Japan ------ 13 Euros ----- 37 Euros ----- 52 Euros 
+Australia -- 13 Euros ----- 37 Euros ----- 52 Euros
+If you have further questions on shipping costs send me a message
+!!! BUYERS FROM SOUTH KOREA !!! PLEASE BUY FROM MY FRIEND ROBBIROB !!! I DON`T SELL GAMES TO SOUTH KOREA ANY MORE !!!
+ 
+Condition: Very Good</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Nov 2006 22:07:25 +0000</listdate>
+    <saledate>Sun, 07 Nov 2010 19:01:28 +0000</saledate>
+    <price currency='USD'>27.5</price>
+    <condition>verygood</condition>
+    <notes>One corner of box is dinged up.  That same corner of the lid is starting to split.  However, kangaroo meeples are all safe and sound.  From Franjos Spieleverlag.
+Payment Notes:
+Non-US buyers will have to pay via Western Union wire transfer (see www.westernunion.com) (as it is the only way that I can assure that there will not be any funny business) unless you have _T_E_M_P_T_A_G_gt; 50 positive BGG Marketplace feedbacks OR _T_E_M_P_T_A_G_gt; 50 positive BGG Trade feedbacks OR _T_E_M_P_T_A_G_gt; 75 combined positive BGG Marketplace plus Trade feedbacks. You must also have zero negative BGG Marketplace feedbacks and zero negative BGG Trade feedbacks in which case I would be able to accept a Paypal payment. But the only type of Paypal payment that I can accept is one funded by a Paypal balance or an immediate bank transfer. I cannot take a Paypal payment that is funded via credit card.
+US buyers: USPS money order is preferred.
+Western Union transfer is also acceptable.
+However, I can also take a Paypal payment if you have _T_E_M_P_T_A_G_gt; 50 positive BGG Marketplace feedbacks OR _T_E_M_P_T_A_G_gt; 50 positive BGG Trade feedbacks OR _T_E_M_P_T_A_G_gt; 75 combined positive BGG Marketplace plus Trade feedbacks. You must also have zero negative BGG Marketplace feedbacks and zero negative BGG Trade feedbacks. But the only type of Paypal payment that I can accept is one funded by a Paypal balance or an immediate bank transfer. I cannot take a Paypal payment that is funded via credit card.
+If the receiver elects not to pay extra for insurance (totally up to you) then the receiver agrees to assume responsibility for lost or damaged packages.
+Non-US buyers: Please also note that the shipping charge will be outrageously high. Probably high enough that it does not make sense to purchase this from me. I have no control over this.
+Insurance will also be REQUIRED (at receiver_T_E_M_P_T_A_G_#039;s expense) for shipments to non-US addresses. Receivers outside the US must also agree to assume ALL responsibility for taxes, tariffs, customs duties, etc. If these terms are not acceptable, please do not order from me.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Dec 2006 22:34:50 +0000</listdate>
+    <saledate>Sun, 07 Jan 2007 05:49:03 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>From Franjos. Note Franjos does not shrink their products.  Plastic band secures item.
+Estimated shipping in US $7.50
+VA residents pay 5% sales tax.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jan 2007 05:49:41 +0000</listdate>
+    <saledate>Tue, 12 Jun 2007 14:56:48 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>new</condition>
+    <notes>From Franjos. Note Franjos does not shrink their products. Plastic band secures item.
+Estimated shipping in US $7.50
+VA residents pay 5% sales tax.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Apr 2007 11:21:21 +0000</listdate>
+    <saledate>Mon, 04 Feb 2008 07:06:40 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>new</condition>
+    <notes>AMIGO VERSION
+COULD BE SEND AS A LETTER (CHEAPER;FASTER)
+DISCOUNT RULES: IF YOU BUY 3 OR MORE GAMES YOU´LL GET DISCOUNT. THE PERCENTAGE IS (DAY+MONTH)/2 (Example: If you buy the games on 12th June you´ll get 12+6=18/2=9 %). So you can get a max. Discount on 31th december of 21 % :_). The date is the BGG-TIME (CST).
+I´m selling a lot of other german boardgames
+Shipping worldwide (Paypal or cash or Western Union). Picture for condition purposes can me mailed
+Look also at my other games I want _T_E_M_P_T_A_G_quot;to get rid off_T_E_M_P_T_A_G_quot;
+If you are looking for some other games send me an email.
+Shipping costs are roughly:
+--------- up to 2 kg ----- up to 5 kg --- up to 10 kg
+--------- no insurance --- insurance ---- insurance
+Europe (EU) - 9 Euros ----- 17 Euros ----- 22 Euros
+USA/Canada - 13 Euros ----- 32 Euros ----- 42 Euros
+Japan ------ 13 Euros ----- 37 Euros ----- 52 Euros 
+Australia -- 13 Euros ----- 37 Euros ----- 52 Euros
+!!! BUYERS FROM SOUTH KOREA !!! PLEASE BUY FROM MY FRIEND ROBBIROB !!! I DON`T SELL GAMES TO SOUTH KOREA ANY MORE !!!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jul 2007 01:51:11 +0000</listdate>
+    <saledate>Thu, 28 Aug 2008 10:43:37 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Game is complete and in excellent condition. Shipping will be actual postage cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Nov 2007 14:05:46 +0000</listdate>
+    <saledate>Mon, 19 May 2008 15:09:12 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>The game is new and still in shrink
+shipping to France : 7 euros
+Shipping to Europa : 9 euros
+Shipping to rest of the world : 13 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jan 2009 15:44:32 +0000</listdate>
+    <saledate>Fri, 13 Feb 2009 01:04:38 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>Gently used FRANJOS deluxe edition with 3D Kangaroos and roll up board (not the cheaper Amigo set with wooden disks and stickers). PayPal and US buyers only. Buyer pays shipping from NY 11783</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Apr 2009 15:37:15 +0000</listdate>
+    <saledate>Tue, 12 May 2009 14:06:50 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>good</condition>
+    <notes>Played a few times but in very good condition with solid box</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2009 13:41:35 +0000</listdate>
+    <saledate>Thu, 06 Aug 2009 07:47:48 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Condition: Complete game (no missing pieces). Played only a few times. All components in great condition. Rules have handwritten clarifications on them.
+Shipping _T_E_M_P_T_A_G_amp; Handling: Please, send me an e-mail and I will let you know about the cost.
+Payment: PayPal ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Dec 2009 20:50:59 +0000</listdate>
+    <saledate>Wed, 24 Jul 2013 07:38:03 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>Billabong (franjos)  - GERMAN Edition -
+Condition/Zustand: new + unused (but not sealed) / neu und unbenutzt, aber nicht in Folie verpackt!
+General Information:
+I sell this item as a private seller. I can not give any guarantees or refunds. Nevertheless as a board game collector I describe the item as accurate as possible. In case of missing tiles or damages I mention this in the item description.
+Diesen Artikel verkaufe ich als Privatperson. Eine Garantie oder eine Ruecknahme biete ich nicht an. Als Sammler von Brettspielen achte ich jedoch sehr genau auf den Zustand und auf die Vollzaehligkeit. Die Spiele sind daher meistens tadellos erhalten. Sollten Maengel vorhanden sein, werden diese auch in der Beschreibung unter _T_E_M_P_T_A_G_quot;Condition/Zustand_T_E_M_P_T_A_G_quot; erwaehnt.
+Ich versende Spiele in folgende Länder: / I will ship board games and board game expansions to the following countries:
+In case you live in a different country please contact me before buying. Thanking you in advance!
+Shipping/Versand
+nach Deutschland (ohne Inseln):
+Maxibrief (unversichert): EUR 2,20
+Hermes-Paket(max. 50 cm laengste + kuerzeste Seite): EUR 4,30
+DHL-Paket (versichert):
+0 - 10 Kg EUR 6,00
+10 - 20 Kg EUR 11,00
+------------------------------------------------------------
+to Europe (EU): Belgium, Denmark, Finland, France, Greece, Great Britain, Ireland, Italy, Luxembourg, The Netherlands, Österreich, Poland, Portugal, Sweden, Slovakia, Spain, Czech:
+Registered Letter:
+0 - 0.5 Kg EUR 5,50
+0.5 - 1 Kg EUR 9,05
+Small Parcel / Paeckchen (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 10,60
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 17,00
+5 - 10 Kg EUR 22,00
+10 - 20 Kg EUR 32,00
+------------------------------------------------------------
+to Switzerland, Norway, Hungary, Slovenia, Croatia and Rest of Europe:
+Registered Letter:
+0 - 0.5 Kg EUR 5,50
+0.5 - 1 Kg EUR 9,05
+Small Parcel (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 16,90
+DHL Parcel/DHL Paket:
+0 - 5 Kg EUR 30,00
+5 - 10 Kg EUR 35,00
+10 - 20 Kg EUR 45,00
+------------------------------------------------------------
+to the U.S.A. and Canada:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 5.50
+0.5 - 1 Kg EUR 9.05
+Small Parcel (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 16.90
+DHL Parcel:
+0 - 5 Kg EUR 36.00
+5 - 10 Kg EUR 47.00
+10 - 20 Kg EUR 68.00
+------------------------------------------------------------
+to Australia, Brazil, Japan, New Zealand:
+Registered Letter (Air Mail):
+0 - 0.5 Kg EUR 5.50
+0.5 - 1 Kg EUR 9.05
+Small parcel (without insurance, max. weight 2 Kg and max. length of all 3 sides 90 cm): EUR 16.90
+DHL Parcel:
+0 - 5 Kg EUR 42.00
+5 - 10 Kg EUR 59.00
+10 - 20 Kg EUR 91.00
+------------------------------------------------------------
+Payment:
+Überweisung/bank transfer via IBAN + BIC
+PayPal
+Money Bookers (Skrill)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Mar 2011 03:48:33 +0000</listdate>
+    <saledate>Fri, 18 Mar 2011 04:00:29 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>Complete, box shows very slight wear
+Billabong
+Amigo German version
+AMIGO Spiel + Freizeit GmbH</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Apr 2011 22:16:06 +0000</listdate>
+    <saledate>Fri, 08 Apr 2011 22:38:45 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>Billabong (2002) from Franjos
+Box:  Light shelfwear with a few minor dings and dents.  Overall the box is in excellent condition!
+Components:  Complete and in like new condition!  Pieces have been sorted and stored in plastic bags for convenience and protection - you will be very pleased with how the game has been packaged. 
+SHIPPING:
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 4 lbs. from zip code 85208.  International buyers are very welcome, but please contact me before buying for a shipping price quote to avoid any surprises or misunderstandings.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jun 2011 12:06:03 +0000</listdate>
+    <saledate>Fri, 08 Jul 2011 11:18:43 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>acceptable</condition>
+    <notes>German edition by Amigo.
+Contents complete _T_E_M_P_T_A_G_amp; in very good condition. Box is worn and box cover has been taped around the edges.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2012 05:16:05 +0000</listdate>
+    <saledate>Tue, 24 Jul 2012 18:55:33 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>good</condition>
+    <notes>Sold to Claudio212 in auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Sep 2012 13:57:35 +0000</listdate>
+    <saledate>Wed, 10 Oct 2012 17:58:58 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>good</condition>
+    <notes>UK Postage £5.00 elsewhere on request</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Jun 2013 03:50:22 +0000</listdate>
+    <saledate>Mon, 05 Aug 2013 02:18:20 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>verygood</condition>
+    <notes>franjos 2002 edition.
+Interestingly game description on the back of the game box is in 3 languages... but rules only in German.  Components are obviously language independent (kangaroo meeples :)) and an English rules translation is included.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jul 2013 09:25:34 +0000</listdate>
+    <saledate>Sat, 22 Feb 2014 17:22:08 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes>Game is complete, 
+German version Amigo wooden pawns with cangooroo picture
+I have another one by Franjos with wooden pawns as cangooroos. Geman rules as a copy. Like new 32 EUR
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Sep 2013 12:21:36 +0000</listdate>
+    <saledate>Wed, 30 Apr 2014 12:54:34 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>Contents excellent. Lid has a tiny puncture (that I just did :( ) below company name. Barely noticable,
+At this low price, cash, cheque or PayPal with you accepting the fees.
+Game has to sell or trade before afternoon of Friday 13th September
+Postage at actual cost. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Sep 2013 18:37:40 +0000</listdate>
+    <saledate>Thu, 10 Oct 2013 15:58:46 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>likenew</condition>
+    <notes>Shipping 10 EUR worldwide.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Nov 2013 09:40:14 +0000</listdate>
+    <saledate>Sun, 22 Dec 2013 15:24:27 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes>Amigo</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Dec 2013 20:52:41 +0000</listdate>
+    <saledate>Wed, 29 Jan 2014 14:53:32 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This is the Amigo edition with the Spiel des Jahres logo on the front box cover. This game was played, at the most, twice. The box and components look like new. Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Mar 2014 20:41:46 +0000</listdate>
+    <saledate>Sun, 11 May 2014 00:20:28 +0000</saledate>
+    <price currency='EUR'>11.99</price>
+    <condition>good</condition>
+    <notes>I´m offering the amigo edition
+shipping rates:
+Germany = 4,5 Euro
+worldwide = 9 Euro
+game weight: 700 gramms
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Sep 2014 01:12:55 +0000</listdate>
+    <saledate>Tue, 14 Oct 2014 21:25:27 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>likenew</condition>
+    <notes>Franjos second edition with the cute wood kangaroo meeples.  Complete and in excellent condition.  English rules translation included.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Jul 2014 00:09:28 +0000</listdate>
+    <saledate>Thu, 06 Nov 2014 02:20:53 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Franjos First German Edition.  Includes English rules.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Nov 2014 08:09:58 +0000</listdate>
+    <saledate>Tue, 25 Nov 2014 02:22:08 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Chad who won in auction
+Shipping will be $17.45 (Box is long because size of playing mat)
+Paypal= puckhogs11@comcast.net</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Feb 2014 08:36:43 +0000</listdate>
+    <saledate>Thu, 11 Jun 2015 16:12:00 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>good</condition>
+    <notes>Game is complete, 
+German version Amigo BILLABONG with wooden pawns with cangooroo picture
+components VERY GOOD
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Jun 2015 13:35:05 +0000</listdate>
+    <saledate>Mon, 20 Jul 2015 11:55:59 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes>English rules enclosed (no in-game text).
+UK postage £3</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Jul 2015 02:26:32 +0000</listdate>
+    <saledate>Tue, 21 Jul 2015 15:09:08 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/176995/item/3999686#3999686]Item for Geeklist _T_E_M_P_T_A_G_quot;Epic Shelf-Clearing auction, full of OOP games! Open now through July 19th! Local pickup in Maryland and Delivery to Raleigh on the 25th!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+winner: josgeerkin</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Oct 2015 02:46:02 +0000</listdate>
+    <saledate>Sat, 05 Dec 2015 21:28:32 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>good</condition>
+    <notes>Shipping $12.65.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Dec 2015 04:30:16 +0000</listdate>
+    <saledate>Wed, 16 Dec 2015 05:02:29 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Not for sale, auction item</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 May 2016 13:41:45 +0000</listdate>
+    <saledate>Fri, 03 Jun 2016 17:56:32 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>No shrink but unplayed, the game is new.
+Franjos edition.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Feb 2017 21:04:43 +0000</listdate>
+    <saledate>Wed, 29 Mar 2017 18:33:46 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>good</condition>
+    <notes>A bit of shelfwear at box corners, especially one of them which is taped with transparent tape, but holds really well and is near invisible. The board is in perfect condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Jan 2017 08:16:49 +0000</listdate>
+    <saledate>Sat, 01 Apr 2017 14:54:34 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>Game is as new.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Apr 2017 23:32:55 +0000</listdate>
+    <saledate>Tue, 18 Apr 2017 02:48:43 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>I ordered my copy from overseas and in transit I believe it fell off the boat. The box was wet when I received it and the box was a mess. I later tossed the box, because it didn_T_E_M_P_T_A_G_#039;t really even resemble a box anymore. I put the contents which are in very good condition by the way, into a poster tube.
+So, the contents are complete and in very good condition, but it doesn_T_E_M_P_T_A_G_#039;t have a box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Apr 2017 12:45:43 +0000</listdate>
+    <saledate>Wed, 21 Jun 2017 18:29:59 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>Game is in excellent shape.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Jun 2017 16:44:30 +0000</listdate>
+    <saledate>Sun, 09 Jul 2017 16:30:54 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>Franjos German edition. Components are language independent.
+This is kind of a _T_E_M_P_T_A_G_#039;deluxe_T_E_M_P_T_A_G_#039; edition since it contains not only the regular kangaroos, but also pieces with printed on kangaroos (different colours though, but still quite convenient to mark which of the kangaroos already crossed the finishing line...).
+Box shows little wear. Inside everything there in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 May 2017 02:40:09 +0000</listdate>
+    <saledate>Fri, 28 Jul 2017 04:00:29 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Mint in the original shrink!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Sep 2017 01:10:02 +0000</listdate>
+    <saledate>Wed, 08 Nov 2017 02:26:46 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>English rules printout provided.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Jul 2017 14:30:51 +0000</listdate>
+    <saledate>Fri, 29 Dec 2017 00:42:52 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Apr 2016 16:58:15 +0000</listdate>
+    <saledate>Wed, 24 Jan 2018 10:13:22 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>good</condition>
+    <notes>second Edition, German version, © 2002 by Franjos
+title slightly stained
+Shipping costs see informations below.
+Payment via PayPal or bank transfer
+We offer in our _T_E_M_P_T_A_G_quot;Modern Second-Hand-Games-Shop_T_E_M_P_T_A_G_quot; on our private homepage www.alte-spiele.de more than 2.800 other games: older one, newer one, rare one and little known one. The offer consists of titles since the 1970s and mainly in German-speaking. Just look once over with us.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Mar 2018 17:35:46 +0000</listdate>
+    <saledate>Wed, 07 Mar 2018 17:40:15 +0000</saledate>
+    <price currency='USD'>25.5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jul 2018 12:46:00 +0000</listdate>
+    <saledate>Mon, 16 Jul 2018 20:43:09 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2018 13:04:47 +0000</listdate>
+    <saledate>Sat, 04 Aug 2018 01:40:06 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>verygood</condition>
+    <notes>LE18-962</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Sep 2018 20:35:32 +0000</listdate>
+    <saledate>Sun, 14 Oct 2018 11:42:21 +0000</saledate>
+    <price currency='GBP'>22</price>
+    <condition>new</condition>
+    <notes>New edition of a classic game that I had great fun with, back in the day. The aim is to be first to get your team of kangaroos to complete a circuit of the board and into the eponymous lake.
+The price shown is for UK/EU purchasers (and includes VAT). For purchasers outside the EU, the price is £18.33 (net of UK tax) - note that the purchaser is responsible for paying any duty or tax due on import to their country.
+I charge shipping at cost, as follows.
+  UK addresses: £2.79 (myHermes, takes 2-3 working days, tracked) 
+  Other EU countries: £10.38 (Air mail, takes 1 week or so, not tracked)
+  Europe outside the EU: £8.65 (Air mail, takes 1 week or so, not tracked)
+  Australasia: £14.10 (Air mail, takes 1 week or so, not tracked)
+  USA, Canada _T_E_M_P_T_A_G_amp; elsewhere: £13.35 (Air mail, takes 1 week or so, not tracked)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Sep 2018 20:35:32 +0000</listdate>
+    <saledate>Sat, 10 Nov 2018 21:27:16 +0000</saledate>
+    <price currency='GBP'>22</price>
+    <condition>new</condition>
+    <notes>New edition of a classic game that I had great fun with, back in the day. The aim is to be first to get your team of kangaroos to complete a circuit of the board and into the eponymous lake.
+The price shown is for UK/EU purchasers (and includes VAT). For purchasers outside the EU, the price is £18.33 (net of UK tax) - note that the purchaser is responsible for paying any duty or tax due on import to their country.
+I charge shipping at cost, as follows.
+  UK addresses: £2.79 (myHermes, takes 2-3 working days, tracked) 
+  Other EU countries: £10.38 (Air mail, takes 1 week or so, not tracked)
+  Europe outside the EU: £8.65 (Air mail, takes 1 week or so, not tracked)
+  Australasia: £14.10 (Air mail, takes 1 week or so, not tracked)
+  USA, Canada _T_E_M_P_T_A_G_amp; elsewhere: £13.35 (Air mail, takes 1 week or so, not tracked)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 May 2018 15:29:01 +0000</listdate>
+    <saledate>Mon, 10 Dec 2018 15:39:53 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>As new.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Mar 2018 18:14:34 +0000</listdate>
+    <saledate>Mon, 10 Dec 2018 16:57:31 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>acceptable</condition>
+    <notes>Box has some damage. Contents are fine.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

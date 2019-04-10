@@ -1,0 +1,1841 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="8125">
+   <yearpublished>2003</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>75</playingtime>
+   <minplaytime>75</minplaytime>
+   <maxplaytime>75</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Santiago</name>
+         
+   <description>Santiago is about cultivating and watering fields. To accomplish this, a number of tiles denoting various plantation types come into the game each round. The tiles are auctioned off such that each player gets one, and the tiles are then placed onto the game board along with an ownership marker that also indicates how plentiful the tile's yield will be. Whoever bid the lowest in each round gets to be the canal overseer and decides where a canal will be built that round. The other players may make suggestions to help the canal overseer decide, and back up their suggestions with money. The final decision is always wholly up to the overseer, though._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;At the end of each round, players determine what the water supply situation looks like. Should a plantation not be sufficiently watered, its production drops dramatically; should it happen more than once, then that plantation may revert to fallow ground. At game's end, naturally only the cultivated land counts. Each plantation is counted according to type _T_E_M_P_T_A_G_amp;ndash; the bigger the better. But since the ownership markers play a role as well, the same plantation can give drastically different points for different players._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/HAtXHdflkec9rMiHKfVd63h_1IU=/fit-in/200x150/pic180497.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/HCWZp3b5CQRaCZrhF0ep6KTC7kw=/0x0/pic180497.jpg</image>
+      
+            <boardgamehonor objectid="13419">2003 Meeples_T_E_M_P_T_A_G_#039; Choice Award</boardgamehonor>
+               <boardgamehonor objectid="12819">2004 International Gamers Awards - General Strategy; Multi-player Nominee</boardgamehonor>
+               <boardgamehonor objectid="13286">2004 Tric Trac de Bronze</boardgamehonor>
+               <boardgamehonor objectid="13287">2004 Tric Trac Nominee</boardgamehonor>
+                      <boardgamepublisher objectid="8">AMIGO</boardgamepublisher>
+               <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+               <boardgamepodcastepisode objectid="3375">BGWS 009 – Santiago</boardgamepodcastepisode>
+                      <boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+               <boardgamefamily objectid="12807">Country: Cape Verde</boardgamefamily>
+                                           <boardgamepublisher objectid="30490">Ediciones Primigenio</boardgamepublisher>
+               <boardgameversion objectid="26218">English edition</boardgameversion>
+                                    <boardgameversion objectid="285329">English/German edition 2015</boardgameversion>
+               <boardgamecategory objectid="1013">Farming</boardgamecategory>
+                      <boardgameartist objectid="11901">Oliver Freudenreich</boardgameartist>
+               <boardgameversion objectid="26591">German edition</boardgameversion>
+                                                                                                                               <boardgamedesigner objectid="2788">Claudia Hely</boardgamedesigner>
+                      <boardgameartist objectid="74048">Tomasz Larek</boardgameartist>
+                      <boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+                             <boardgamedesigner objectid="2789">Roman Pelek</boardgamedesigner>
+               <boardgameversion objectid="284392">Polish edition</boardgameversion>
+                                                                                                          <boardgameversion objectid="345146">Spanish edition</boardgameversion>
+                      <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+               <boardgamepodcastepisode objectid="139641">Total Con 2015: Stalking Frank Mentzer</boardgamepodcastepisode>
+               <boardgamepublisher objectid="5268">Trefl</boardgamepublisher>
+               <boardgamepublisher objectid="538">Z-Man Games, Inc.</boardgamepublisher>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="137">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="79" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="83" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="24" />
+     <result value="Not Recommended" numvotes="85" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="24" />
+     <result value="Recommended" numvotes="82" />
+     <result value="Not Recommended" numvotes="18" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="117" />
+     <result value="Recommended" numvotes="15" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="56" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="35">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="35" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="20">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="11" />
+     <result value="12" numvotes="8" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>4578</usersrated>
+     <average>7.124</average>
+     <bayesaverage>6.77706</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="584" bayesaverage="6.77706" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="351" bayesaverage="6.86497" />
+            
+           </ranks>
+     
+     <stddev>1.21987</stddev>
+     <median>0</median>
+     <owned>4115</owned>
+     <trading>176</trading>
+     <wanting>217</wanting>
+     <wishing>729</wishing>
+     <numcomments>1509</numcomments>
+     <numweights>484</numweights>
+     <averageweight>2.4917</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 24 May 2004 13:56:26 +0000</listdate>
+    <saledate>Mon, 24 May 2004 20:35:55 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Played just twice -- so game_T_E_M_P_T_A_G_#039;s in great shape. Will ship Priority Mail day after I receive payment. Asking price *** DOES NOT *** include postage! (Contact me for exact shipping amount.) If using Paypal, send payment to asf@hgwt.com. Thanks.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Oct 2004 21:23:14 +0000</listdate>
+    <saledate>Tue, 30 May 2006 09:09:00 +0000</saledate>
+    <price currency='EUR'>19.99</price>
+    <condition>new</condition>
+    <notes>never played +++++ german version, but game parts are almost completely language independent and you can dowload various translations from boardgamegeek +++++ will be shipped with insurance +++++ payment for usa, canada, asia or australia : paypal or cash (by letter, exchanged already into euros) or bank transfer +++++ payment for other non-euro-countries : cash (by letter, exchanged already into euros) or bank transfer +++++ payment for european countries, that have euro : cash (by letter) or bank transfer (wich by the way is cost-free !) +++++ payment for germany : personal pick up in berlin or bank transfer +++++ foreign buyers beware : german postal sadly is very expensive for foreign packages (about 18 - 45 euros, it depends on, where the package has to be shipped and the weight), pleask at for shipping prices, before you buy !) +++++ shipping inside germany will cost 8 euros, including insurance</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Dec 2004 15:42:21 +0000</listdate>
+    <saledate>Sat, 11 Dec 2004 05:04:40 +0000</saledate>
+    <price currency='USD'>26.99</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Feb 2005 23:44:57 +0000</listdate>
+    <saledate>Mon, 28 Mar 2005 18:18:01 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>likenew</condition>
+    <notes>Mini shelfwear.
+Shipping is 8.80$ within U.S., insurance is 1.30$ opotional.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jul 2005 16:08:54 +0000</listdate>
+    <saledate>Thu, 08 Sep 2005 13:14:56 +0000</saledate>
+    <price currency='USD'>23.5</price>
+    <condition>likenew</condition>
+    <notes>Game has never been played. I am the original owner and I take very good care of my games. Box, board and pieces are in near mint condition. All components are present. This copy is language independent.
+-No sales tax will be applied.
+-Game will be shipped in a sturdy box.
+-Will be shipped within 1-2 business days of receiving payment.
+-Shipping costs will be around $7.00 USD.
+-A tracking number will be provided at no additional cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Jan 2006 20:40:57 +0000</listdate>
+    <saledate>Wed, 05 Apr 2006 03:15:20 +0000</saledate>
+    <price currency='USD'>15.99</price>
+    <condition>new</condition>
+    <notes>All our games are brand new in shrink wrap. Buyer pays for shipping. Shipping will depend on your location and the weight of game. We will discount shipping on multiple games orders whenever possible to ensure the fairest rate. We are not responsible for lost mail but will insure shipment, at your request. Items are shipped within one business day of receiving payment. Payment must be received within 7 days after the day you agreed to buy the item, and all PayPal or credit card payments must be made within this time period. If payment isn_T_E_M_P_T_A_G_#039;t received within these time periods, all orders will be revoked and proper feedback will be left. Unopened merchandise may be returned within 14 days of purchase for a full refund, less original shipping charges. Return shipping charges are the responsibility of the customer with the exception of defective merchandise. To return an item, please contact us prior to sending an item back to us. WA orders pay 8.5% sales tax. 
+Please email us with any questions.
+Thanks
+Chum Chum Games
+customerservice@chumchumgames.com</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Apr 2006 03:41:41 +0000</listdate>
+    <saledate>Wed, 25 Oct 2006 19:21:29 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes>All our games are brand new in shrink wrap. Buyer pays for shipping. Shipping will depend on your location and the weight of game. We will discount shipping on multiple games orders whenever possible to ensure the fairest rate. We are not responsible for lost mail but will insure shipment, at your request. Items are shipped within one business day of receiving payment. Payment must be recieved within 7 days after the day you agreed to buy the item, and all PayPal or credit card payments must be made within this time period. If payment isn_T_E_M_P_T_A_G_#039;t received within these time periods, all orders will be revoked and proper feedback will be left. Unopened merchandise may be returned within 14 days of purchase for a full refund, less original shipping charges. Return shipping charges are the responsibility of the customer with the exception of defective merchandise. To return an item, please contact us prior to sending an item back to us. WA orders pay 8.5% sales tax. 
+Please email us with any questions.
+Thanks
+Chum Chum Games
+chumchumgames@yahoo.com</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Apr 2006 06:01:19 +0000</listdate>
+    <saledate>Wed, 05 Apr 2006 23:04:39 +0000</saledate>
+    <price currency='AUD'>35</price>
+    <condition>likenew</condition>
+    <notes>Played once. All is in good order. 
+A great game. Too many games in the collection and I_T_E_M_P_T_A_G_#039;m clearing space.
+Payment by Paypal or bank deposit (Aussies).
+Combine shipping with other games and save!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Jun 2006 09:44:25 +0000</listdate>
+    <saledate>Fri, 21 Jul 2006 02:07:21 +0000</saledate>
+    <price currency='AUD'>45</price>
+    <condition>new</condition>
+    <notes>New in Shrink!
+Aussies to pay by bank transfer. All others by paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Sep 2006 23:33:32 +0000</listdate>
+    <saledate>Wed, 27 Sep 2006 23:49:11 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>new</condition>
+    <notes>Amigo; New in shrinkwrap; English edition.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Sep 2006 20:32:49 +0000</listdate>
+    <saledate>Mon, 02 Oct 2006 03:33:09 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>Amigo; Like New; Opened to check language; Unplayed; English edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Nov 2006 15:44:27 +0000</listdate>
+    <saledate>Fri, 17 Nov 2006 22:27:15 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Game is in great condition, only played a few times. Take advantage of the flat rate shipping: $8.50</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Dec 2006 08:24:29 +0000</listdate>
+    <saledate>Thu, 11 Jan 2007 15:21:44 +0000</saledate>
+    <price currency='USD'>21.98</price>
+    <condition>likenew</condition>
+    <notes>Opened, never played.  Fantastic condition.
+FREE SHIPPING (to U.S. _T_E_M_P_T_A_G_amp; Canada)
+I accept PayPal only.
+Selling price is in USD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Feb 2007 03:47:43 +0000</listdate>
+    <saledate>Thu, 22 Feb 2007 12:28:21 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>verygood</condition>
+    <notes>Played only twice.
+Postage within Australia is around $10 to most places, but please contact me regarding to confirm required delivery and costs.
+Paypal is preferred, but I will accept direct bank deposit or cash in person. I will also accept personal or bank cheques, but I will not post the game until any cheques have cleared my bank account.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Aug 2007 05:16:35 +0000</listdate>
+    <saledate>Wed, 10 Sep 2008 04:54:01 +0000</saledate>
+    <price currency='USD'>23.95</price>
+    <condition>new</condition>
+    <notes>CLSGames -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+SANTIAGO: $23.95
+Z-Man Games (2003)
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Oct 2007 10:21:27 +0000</listdate>
+    <saledate>Wed, 24 Oct 2007 12:07:00 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the AMIGO edition
+Shipping is EUR 15.00 to countries within the EU
+or EUR 25.00 to other European countries
+or EUR 30.00 to other worldwide destinations.
+++++ All shipping rates include insurance ++++
+The delivery time varies from 1 to 3 weeks. 
+I can offer even more games upon request. 
+Please also check listings of my friend montsegur - combined regular shipping is possible. 
+For more details on my USA special shipping offer please click the robbirob button. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Dec 2007 01:13:29 +0000</listdate>
+    <saledate>Mon, 10 Dec 2007 15:48:23 +0000</saledate>
+    <price currency='EUR'>16.9</price>
+    <condition>new</condition>
+    <notes>English edition by Amigo.
+Payment with Paypal or by bank transfer, which is easy among Euro using countries.
+I_T_E_M_P_T_A_G_#039;ll combine shipping, so check out my other items.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Jan 2008 04:44:35 +0000</listdate>
+    <saledate>Sat, 19 May 2012 01:32:06 +0000</saledate>
+    <price currency='AUD'>39.95</price>
+    <condition>new</condition>
+    <notes>Sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Mar 2008 19:54:10 +0000</listdate>
+    <saledate>Tue, 28 Apr 2009 09:15:13 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Mar 2008 01:06:03 +0000</listdate>
+    <saledate>Mon, 24 Mar 2008 15:59:57 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>new</condition>
+    <notes>PRIVATE SALE FOR IAN ZERCHENEL ONLY</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 May 2008 14:59:14 +0000</listdate>
+    <saledate>Mon, 07 Jul 2008 19:21:31 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This is a LIKE NEW game, played once.  VERY well taken care of.
+Please pre-pay with PayPal or a Money Order. We will ship immediately upon receipt of funds. Shipping will be $10.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Sep 2008 06:32:05 +0000</listdate>
+    <saledate>Sat, 20 Sep 2008 22:39:02 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SANTIAGO: $24.95
+Z-Man Games [ZMG 7002]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Oct 2008 17:11:24 +0000</listdate>
+    <saledate>Tue, 23 Dec 2008 00:02:32 +0000</saledate>
+    <price currency='GBP'>17.5</price>
+    <condition>likenew</condition>
+    <notes>Never played as friends also own this game.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Jan 2009 19:19:40 +0000</listdate>
+    <saledate>Wed, 28 Jan 2009 19:20:52 +0000</saledate>
+    <price currency='GBP'>11</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Apr 2009 11:20:06 +0000</listdate>
+    <saledate>Thu, 16 Jul 2009 10:32:16 +0000</saledate>
+    <price currency='GBP'>29.99</price>
+    <condition>verygood</condition>
+    <notes>£4.40  postage to UK.
+I will ship to Europe, combine orders for cheaper postage and will give a discount for purchases over £50. Please contact me for details. All items i list are in stock and will be posted within 24 hours of payment being received. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 May 2009 22:38:12 +0000</listdate>
+    <saledate>Thu, 14 May 2009 20:32:29 +0000</saledate>
+    <price currency='EUR'>19.5</price>
+    <condition>likenew</condition>
+    <notes>Amigo (german), unplayed, 862g</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Aug 2009 16:39:03 +0000</listdate>
+    <saledate>Thu, 27 Aug 2009 17:15:09 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Played once or twice, in great condition.
+I can only accept check, money order, or Paypal (if it is funded through a bank account, not a debit or credit card).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Sep 2009 22:40:41 +0000</listdate>
+    <saledate>Wed, 04 Nov 2009 22:29:50 +0000</saledate>
+    <price currency='GBP'>14</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Sep 2009 19:13:12 +0000</listdate>
+    <saledate>Fri, 18 Sep 2009 02:47:16 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Punched, played once and baggied and in excellent condition.
+I will ship priority mail with delivery confirmation and insurance.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Oct 2009 21:14:58 +0000</listdate>
+    <saledate>Fri, 11 Dec 2009 21:40:43 +0000</saledate>
+    <price currency='USD'>18.99</price>
+    <condition>verygood</condition>
+    <notes>No credit cards please.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Nov 2009 23:10:26 +0000</listdate>
+    <saledate>Wed, 18 Nov 2009 02:50:58 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>good</condition>
+    <notes>This is for user mfischer.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Nov 2009 23:00:58 +0000</listdate>
+    <saledate>Tue, 20 Jul 2010 15:25:25 +0000</saledate>
+    <price currency='GBP'>16.99</price>
+    <condition>likenew</condition>
+    <notes>Game is in excellent condition.  All the components are present and correct. The game is german, but english rules are included, and there is no language dependency.
+ 
+Weight inc packing 1120g
+UK Parcel Post  £5.41 
+UK First class  £5.45 
+Surface Worldwide  £8.34 
+Europe Airmail  £7.89 
+USA Airmail  £14.58 
+Shipping costs shown are for an individual game. I will combine shipping as best I can. Large packages (5kg, say 6 games) are very cost-effective to ship internationally via DHL. Ask if you want a detailed price. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Nov 2009 07:20:33 +0000</listdate>
+    <saledate>Sun, 29 Nov 2009 09:36:30 +0000</saledate>
+    <price currency='USD'>18.99</price>
+    <condition>likenew</condition>
+    <notes>Complete and in like-new, punched-but-never-played condition.
+Buyer to pay actual shipping cost via USPS Priority Mail or Parcel Post (buyer_T_E_M_P_T_A_G_#039;s choice). I_T_E_M_P_T_A_G_#039;ll gladly combine shipping on multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Dec 2009 05:02:32 +0000</listdate>
+    <saledate>Sun, 21 Feb 2010 15:06:10 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>new</condition>
+    <notes>original german Amigo edition (2003)
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Feb 2010 21:09:34 +0000</listdate>
+    <saledate>Sat, 09 Feb 2013 20:28:49 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Shipping to USA48: 
+$9.00 UPS Ground with free tracking and insurance
+I will combine shipping to save you money when ordering multiple games.
+Other shipping options are available upon request (Next Day / USPS / FEDEX). Contact for shipping quote.
+Alaska and Hawaii orders are shipped via USPS.
+International orders are shipped via USPS First Class (under 4 pounds) or USPS Priority Mail (up to 70 pounds per box). Contact for shipping quote.
+Orders ship within 1 business day from receipt of payment (5-10 day waiting period on personal checks).
+Ohio residents will be charged 6.5% sales tax.
+Thank-you,
+Mr. B
+ROCKIN’ B GAMES
+www.rockinbgames.com
+mrb.rockinbgames@gmail.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Mar 2010 22:07:06 +0000</listdate>
+    <saledate>Tue, 09 Mar 2010 19:59:32 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>verygood</condition>
+    <notes>RESERVED for the winner of the Geeklist auction!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Apr 2010 04:23:20 +0000</listdate>
+    <saledate>Thu, 24 Jun 2010 17:23:34 +0000</saledate>
+    <price currency='USD'>21.99</price>
+    <condition>verygood</condition>
+    <notes>Very good condition. Glad to combine shipping; see my other sales listings.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Apr 2010 19:00:07 +0000</listdate>
+    <saledate>Fri, 16 Apr 2010 20:00:56 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Reserved for (Aixelsyd)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Jun 2010 05:27:02 +0000</listdate>
+    <saledate>Sat, 26 Jun 2010 06:04:00 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Reserved for solarisphase</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jul 2010 04:46:48 +0000</listdate>
+    <saledate>Fri, 21 Jan 2011 15:35:11 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>Game is opened but only played once - in excellent condition. Buyer pays $6.00 shipping. I_T_E_M_P_T_A_G_#039;ll happily combine purchases to consolidate shipping, so check out my other games for sale. Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Jul 2010 19:48:29 +0000</listdate>
+    <saledate>Thu, 26 Aug 2010 13:35:07 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>played once. Box in good condition but dent on one side.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Aug 2010 15:46:21 +0000</listdate>
+    <saledate>Thu, 04 Nov 2010 14:37:40 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>Santiago by Amigo
+Box:  Moderate shelfwear with several significant dings, dents, and creases.  In particular, the upper right corner of the box cover has a corner ding that has caused a 1/2_T_E_M_P_T_A_G_quot; split along the upper box edge, and there are a few areas where the box paper has been scratched by a sharp object.  Overall the box is in very good+ condition!
+Components:  Complete and in like new condition!   The pieces have been sorted and stored in plastic bags for convenience and protection - you will be very pleased with how the game has been packaged.
+SHIPPING
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 3 Lbs. from zip code 85208.  International buyers are very welcome, but please contact me for a shipping price quote to avoid any surprises or misunderstandings.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Nov 2010 19:03:51 +0000</listdate>
+    <saledate>Sun, 14 Nov 2010 20:19:06 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>This is a private sale from a previous auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Nov 2010 14:05:22 +0000</listdate>
+    <saledate>Thu, 04 Aug 2011 01:35:25 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Very Good.
+Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Dec 2010 02:31:47 +0000</listdate>
+    <saledate>Thu, 09 Dec 2010 02:41:01 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>only to be bought by user Mcgartlin</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Feb 2011 00:46:48 +0000</listdate>
+    <saledate>Wed, 01 Jun 2011 21:25:16 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Played a half dozen times.  It_T_E_M_P_T_A_G_#039;s a great game but just doesn_T_E_M_P_T_A_G_#039;t hit the table anymore.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Mar 2011 00:07:58 +0000</listdate>
+    <saledate>Wed, 09 Mar 2011 05:40:18 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>auction purchase reserved for diino</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Apr 2011 09:52:23 +0000</listdate>
+    <saledate>Fri, 08 Apr 2011 19:03:32 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Will combine shipping if you purchase multiple games. Check out my other listings.
+(Please add 3% if paying by Paypal to cover their fees.)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Apr 2011 18:19:36 +0000</listdate>
+    <saledate>Mon, 06 Feb 2012 22:08:32 +0000</saledate>
+    <price currency='CAD'>12</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Jun 2011 03:12:12 +0000</listdate>
+    <saledate>Sun, 05 Jun 2011 12:28:29 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This item is RESERVED for Bearcat89
+If you_T_E_M_P_T_A_G_#039;re NOT him, please DO NOT bid!
+Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jul 2011 17:32:24 +0000</listdate>
+    <saledate>Fri, 22 Jul 2011 20:33:29 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>For slateman ONLY.  Auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Aug 2011 02:54:48 +0000</listdate>
+    <saledate>Tue, 09 Aug 2011 17:08:51 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>likenew</condition>
+    <notes>Opened.  Played a couple times.  
+**Reserved for Gamtester through my Making Space game auction**</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2011 00:36:35 +0000</listdate>
+    <saledate>Tue, 02 Aug 2011 00:53:26 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>reserved for djcack
+includes it_T_E_M_P_T_A_G_#039;s alive</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Aug 2011 19:00:38 +0000</listdate>
+    <saledate>Sun, 28 Aug 2011 19:03:58 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>verygood</condition>
+    <notes>Geeklist auction win for
+andre</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Aug 2011 10:16:12 +0000</listdate>
+    <saledate>Tue, 30 Aug 2011 11:50:31 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>likenew</condition>
+    <notes>This is a marketplace purchase for the user _T_E_M_P_T_A_G_#039;Mgoddard_T_E_M_P_T_A_G_#039; for my geeklist auction.
+$15 - Santiago
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Oct 2011 12:12:47 +0000</listdate>
+    <saledate>Mon, 17 Oct 2011 16:35:30 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>For speavy ONLY.  Auction win.  Includes Santiago and In the Shadow of the Emperor.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Nov 2011 18:11:51 +0000</listdate>
+    <saledate>Mon, 14 Nov 2011 18:32:18 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Reserved for BGG Auction: Andy Anderson (2nd Place)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Dec 2011 05:51:40 +0000</listdate>
+    <saledate>Sun, 05 Feb 2012 07:05:42 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+SANTIAGO: $19.95
+Z-Man Games [ZMG 7002]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Dec 2011 16:50:23 +0000</listdate>
+    <saledate>Tue, 06 Dec 2011 17:41:14 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>good</condition>
+    <notes>Intended only for winner of http://www.boardgamegeek.com/geeklist/75675/closed-portland-area-auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Dec 2011 16:01:51 +0000</listdate>
+    <saledate>Wed, 21 Dec 2011 16:05:52 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>for concreek who won my auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Feb 2012 20:58:28 +0000</listdate>
+    <saledate>Mon, 21 Jan 2013 15:47:59 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>opened, unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Apr 2012 08:45:37 +0000</listdate>
+    <saledate>Sat, 07 Apr 2012 12:43:02 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>good</condition>
+    <notes>Reserved for nmiguel.
+Good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Apr 2012 14:55:26 +0000</listdate>
+    <saledate>Tue, 10 Apr 2012 12:45:01 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Reserved for my Auction winner!
+Bryan Meyers
+(bjmviixii)
+Thank you for your bid!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 May 2012 16:58:04 +0000</listdate>
+    <saledate>Sat, 12 May 2012 19:26:33 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>Sold to educordi via auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 May 2012 17:44:36 +0000</listdate>
+    <saledate>Thu, 09 Aug 2012 19:30:38 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>new, in shrink
+reserved for Medievalbanquet </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2012 05:13:48 +0000</listdate>
+    <saledate>Tue, 24 Jul 2012 06:17:47 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>good</condition>
+    <notes>Sold to bastiat in auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Aug 2012 02:45:43 +0000</listdate>
+    <saledate>Wed, 15 Aug 2012 01:53:06 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>For David H (Knave)only:
+Santiago $22
+Pictureka! $1
+Total= $23
+GenCon Pickup
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Aug 2012 03:27:26 +0000</listdate>
+    <saledate>Sat, 18 Aug 2012 05:43:09 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>new</condition>
+    <notes>new, in shrink
+Reserved for Mike SurfinDecoy</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Aug 2012 17:55:27 +0000</listdate>
+    <saledate>Wed, 22 Aug 2012 15:52:08 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>For Tara Silva only!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Sep 2012 15:25:08 +0000</listdate>
+    <saledate>Fri, 07 Sep 2012 20:31:46 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>reserved for auction winner: TheLongGoodbye</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Sep 2012 11:40:02 +0000</listdate>
+    <saledate>Thu, 27 Sep 2012 15:08:16 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Reserved for elmonty
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Oct 2012 19:56:42 +0000</listdate>
+    <saledate>Tue, 23 Oct 2012 22:21:53 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>++ RESERVED for scottie4442 ++
+Includes multiple items and negotiated shipping.
+SANTIAGO
+RUNE AGE
+-----
+$19
+Shipping is $11.50</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Oct 2012 13:46:08 +0000</listdate>
+    <saledate>Thu, 08 Nov 2012 12:14:55 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>likenew</condition>
+    <notes>Only played once ...</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Dec 2012 03:39:30 +0000</listdate>
+    <saledate>Thu, 20 Dec 2012 04:15:08 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>reserved for Heckle Jekyll</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Jan 2013 17:08:58 +0000</listdate>
+    <saledate>Mon, 28 Jan 2013 21:01:35 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>This is a German edition, but has the English rules printed out.  The game is comepletely language independent.  There_T_E_M_P_T_A_G_#039;s no text on any of the pieces.  Box is fading in some areas with minor scuffing on the corners.  It_T_E_M_P_T_A_G_#039;s still sturdy and holding strong with lots of life left.  The board and bits are all in great shape.  Feel free to ask for a shipping estimate.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Mar 2013 14:15:36 +0000</listdate>
+    <saledate>Fri, 19 Apr 2013 21:58:00 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>verygood</condition>
+    <notes>Game is complete.
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+German version
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Mar 2013 18:39:44 +0000</listdate>
+    <saledate>Fri, 24 May 2013 16:33:24 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Amigo edition.  German language, but the game is language independent and English rules are included.  Great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Mar 2013 11:49:04 +0000</listdate>
+    <saledate>Fri, 12 Apr 2013 21:46:24 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>Still in shrink, from non-smoking home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Apr 2013 17:09:43 +0000</listdate>
+    <saledate>Wed, 24 Sep 2014 20:29:06 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>likenew</condition>
+    <notes>Santiago - ZMan Games
+Like New! Opened, but in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 May 2013 10:55:17 +0000</listdate>
+    <saledate>Mon, 06 May 2013 13:39:21 +0000</saledate>
+    <price currency='GBP'>27</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Phoenixgeek.
+Also includes Princes of Machu Pichu.
+Shipping for both items is £10, making a total of £37.
+My paypal address is lloydboman@googlemail.com
+If you_T_E_M_P_T_A_G_#039;d prefer to pay by bank transfer, let me know.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 May 2013 12:48:22 +0000</listdate>
+    <saledate>Sat, 04 May 2013 16:20:05 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This item is reserved for user lmjarl</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jun 2013 04:04:51 +0000</listdate>
+    <saledate>Mon, 25 Aug 2014 18:13:53 +0000</saledate>
+    <price currency='USD'>25.99</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $10.95</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Sep 2013 07:15:58 +0000</listdate>
+    <saledate>Thu, 19 Sep 2013 09:51:24 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>reserved for Kesaru</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Nov 2013 22:32:05 +0000</listdate>
+    <saledate>Tue, 22 Apr 2014 21:33:29 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>Game has been played 2 or 3 times, all components are in good condition.  Box may have some minor shelf wear from sitting around</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Feb 2014 19:20:26 +0000</listdate>
+    <saledate>Mon, 03 Mar 2014 05:34:53 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played.
+Shipping to Canada: $12
+Shipping to USA: $20
+Note: I visit the US about once every 3 months and could ship to a US address then, if you are willing to work around my travel schedule.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Mar 2014 04:59:23 +0000</listdate>
+    <saledate>Mon, 03 Mar 2014 15:00:19 +0000</saledate>
+    <price currency='USD'>21.6</price>
+    <condition>verygood</condition>
+    <notes>From the geeklist auction Spring Break Auction, which can be found here: http://boardgamegeek.com/geeklist/169893/closed-spring-break-auction-us-only-blue-mo/page/1?
+This game is only for BGG User jgoyes
+Price: $21.60 (10% reduction from $24)
+Shipping: $20
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Apr 2014 22:25:59 +0000</listdate>
+    <saledate>Wed, 30 Apr 2014 00:47:03 +0000</saledate>
+    <price currency='USD'>12.5</price>
+    <condition>likenew</condition>
+    <notes>Awesome deal on a great game, shipping is $12.35.
+Happy gaming!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jun 2014 18:54:15 +0000</listdate>
+    <saledate>Tue, 01 Jul 2014 03:06:28 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>For user jgoyes
+Includes Rum _T_E_M_P_T_A_G_amp; Pirates</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jul 2014 23:52:22 +0000</listdate>
+    <saledate>Sat, 16 Aug 2014 09:36:36 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>New in shrink.  Shrink has two small tears on the bottom.
+$10 shipping.  US Paypal verified addresses only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Sep 2014 00:06:49 +0000</listdate>
+    <saledate>Thu, 11 Sep 2014 01:49:07 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Sep 2014 15:39:50 +0000</listdate>
+    <saledate>Sun, 14 Sep 2014 14:00:15 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>All components present.  Shipping via USPS (cheapest) from 54476. Buyer agrees to pay shipping costs. Message me at bgg to discuss combined shipping on multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Jan 2014 14:21:39 +0000</listdate>
+    <saledate>Thu, 23 Oct 2014 14:29:34 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes>German edition.
+Contents complete _T_E_M_P_T_A_G_amp; in excellent condition. Box cover has a small stamp on the inside.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Nov 2014 04:08:09 +0000</listdate>
+    <saledate>Fri, 14 Nov 2014 02:53:57 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Reserved for David Satterfield BGGCON 2014</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Nov 2014 21:32:08 +0000</listdate>
+    <saledate>Tue, 18 Nov 2014 21:38:55 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Condition: Complete game (no missing pieces). All components in great condition. Rules have handwritten clarifications on them.
+Shipping _T_E_M_P_T_A_G_amp; Handling: Please, send me an e-mail and I will let you know about the cost.
+Payment: PayPal ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jun 2012 18:26:15 +0000</listdate>
+    <saledate>Thu, 04 Dec 2014 07:18:17 +0000</saledate>
+    <price currency='USD'>17.99</price>
+    <condition>likenew</condition>
+    <notes>Opened and punch, never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Dec 2014 22:30:01 +0000</listdate>
+    <saledate>Sun, 07 Dec 2014 17:47:38 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Only played a few times.
+Components in baggies.
+Free shipping in the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Dec 2014 20:00:38 +0000</listdate>
+    <saledate>Mon, 15 Dec 2014 14:19:39 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>For hanadaspiel2
+This sale has been auto-generated for the auction: [geekurl=/geeklist/181170/item/3534629#3534629]Item for Geeklist _T_E_M_P_T_A_G_quot;[CLOSED] Have These Games Home for X-mas AUCTION w/ BINs _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For:
+Santiago
+Quicksand
+Leonardo da Vinci
+Sunken City
+The Bridges of Shangri-La
+DIPLOMACY</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Dec 2014 15:08:03 +0000</listdate>
+    <saledate>Sun, 21 Dec 2014 18:32:09 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>reserved for Rustic
+$8 shipping
+paypal via wellbegotten@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Feb 2013 19:21:37 +0000</listdate>
+    <saledate>Mon, 05 Jan 2015 18:22:07 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>All pieces accounted for and in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Dec 2011 02:16:06 +0000</listdate>
+    <saledate>Mon, 05 Jan 2015 19:33:09 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Oct 2013 23:46:22 +0000</listdate>
+    <saledate>Mon, 12 Jan 2015 11:45:32 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>new</condition>
+    <notes>NEU in Folie,
+NEW, sealed
+Amigo (german), 945g (for shipping)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 May 2013 16:55:18 +0000</listdate>
+    <saledate>Tue, 03 Feb 2015 09:09:30 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>Santiago
+German edition
+Publisher: AMIGO Spiel + Freizeit GmbH
+Year: 2003
+Product Code: 3350
+Weight ~1000gr</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Feb 2015 17:17:54 +0000</listdate>
+    <saledate>Mon, 09 Feb 2015 18:44:27 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>This copy is reserved for BGG User ahwood23
+Shipping is $15.30</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Mar 2014 18:15:10 +0000</listdate>
+    <saledate>Mon, 16 Feb 2015 02:44:07 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>likenew</condition>
+    <notes>Opened but not played, unpunched.
+Will ship via USPS Flat Rate Priority Mail unless otherwise requested. Happy to combine shipping of multiple items. Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Dec 2014 11:02:31 +0000</listdate>
+    <saledate>Thu, 26 Feb 2015 08:07:18 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 11:07:49 +0000</listdate>
+    <saledate>Fri, 27 Feb 2015 13:23:08 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Mar 2015 19:08:13 +0000</listdate>
+    <saledate>Thu, 26 Mar 2015 20:13:22 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Mar 2015 01:11:31 +0000</listdate>
+    <saledate>Mon, 11 May 2015 10:33:59 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Brand New in shrink. 2003 Amigo English edition.
+Buyer to pay actual shipping cost from Zip Code 61455. Can also arrange local pickup. I am willing to combine shipping if you are interested in more than one item.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Apr 2015 18:12:49 +0000</listdate>
+    <saledate>Sun, 31 May 2015 07:21:47 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Oct 2014 09:18:49 +0000</listdate>
+    <saledate>Tue, 09 Jun 2015 15:59:15 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Jun 2015 10:32:13 +0000</listdate>
+    <saledate>Fri, 26 Jun 2015 15:04:20 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Jul 2015 10:09:44 +0000</listdate>
+    <saledate>Wed, 08 Jul 2015 11:10:33 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Good condition. Complete.
+P_T_E_M_P_T_A_G_amp;P £3 as heavy item.
+Ship to UK only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Mar 2015 02:10:51 +0000</listdate>
+    <saledate>Sat, 18 Jul 2015 01:51:50 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>likenew</condition>
+    <notes>This game has never been played.  The game is complete and components have been inventoried and meticulously bagged.    Shipping in the US is 13.95</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 May 2012 14:54:35 +0000</listdate>
+    <saledate>Mon, 20 Jul 2015 20:26:06 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>opened and played once. excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Aug 2015 13:49:15 +0000</listdate>
+    <saledate>Sat, 29 Aug 2015 19:47:11 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Auction Winner moosh21</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Aug 2015 11:46:22 +0000</listdate>
+    <saledate>Mon, 07 Sep 2015 19:27:07 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>good</condition>
+    <notes>Will only ship to the UK.  Postage will be £5.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Sep 2015 06:05:41 +0000</listdate>
+    <saledate>Wed, 30 Sep 2015 17:57:54 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played a few times; components are like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Sep 2015 19:29:50 +0000</listdate>
+    <saledate>Sun, 18 Oct 2015 23:23:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Components are in good condition, however the previous owner did cut the board in two in order to increase the ease of transport.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Aug 2015 08:04:03 +0000</listdate>
+    <saledate>Mon, 02 Nov 2015 02:24:22 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>new</condition>
+    <notes>Sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Sep 2015 23:04:03 +0000</listdate>
+    <saledate>Sun, 08 Nov 2015 14:25:08 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Sep 2015 22:38:04 +0000</listdate>
+    <saledate>Mon, 09 Nov 2015 21:26:10 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Complete. From smoke free and pet free home. Ships from 92782.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Nov 2015 22:07:47 +0000</listdate>
+    <saledate>Tue, 24 Nov 2015 17:00:36 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Sep 2015 08:44:09 +0000</listdate>
+    <saledate>Thu, 26 Nov 2015 10:50:42 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>good</condition>
+    <notes>Shipping cost USA, Europe, Asia, Canada :
+Standard (4-12 weeks): 20$
+Priority Airmail (2-4 weeks - recommended): 30$
+IMPORTANT: Deliveries will only be made to the delivery address you enter during the Paypal payment procedure.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Nov 2015 00:42:01 +0000</listdate>
+    <saledate>Thu, 10 Dec 2015 00:53:37 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Oct 2015 13:07:29 +0000</listdate>
+    <saledate>Thu, 31 Dec 2015 01:59:41 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>verygood</condition>
+    <notes>Shows some shelf wear, but complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jan 2016 17:38:29 +0000</listdate>
+    <saledate>Fri, 08 Jan 2016 01:01:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played 2 or 3 times. All components present and in great shape.  Non-smoking home.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jan 2016 07:15:56 +0000</listdate>
+    <saledate>Tue, 02 Feb 2016 01:13:32 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Flat rate Priority shipping $12.95</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Nov 2015 18:48:31 +0000</listdate>
+    <saledate>Sat, 27 Feb 2016 03:27:53 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Mar 2016 05:41:46 +0000</listdate>
+    <saledate>Tue, 08 Mar 2016 05:45:29 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205792/item/4488481#4488481]Item for Geeklist _T_E_M_P_T_A_G_quot;MORE GOOD STUFF (Auction) ----  CLOSED  ----_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Dec 2015 23:16:15 +0000</listdate>
+    <saledate>Wed, 09 Mar 2016 15:13:42 +0000</saledate>
+    <price currency='USD'>36.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Mar 2016 18:17:22 +0000</listdate>
+    <saledate>Tue, 15 Mar 2016 11:04:04 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>English edition (2003), very minor shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Apr 2014 14:44:58 +0000</listdate>
+    <saledate>Wed, 23 Mar 2016 09:12:21 +0000</saledate>
+    <price currency='EUR'>24.99</price>
+    <condition>new</condition>
+    <notes>Santiago
+German edition
+Publisher: AMIGO Spiel + Freizeit GmbH</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Feb 2016 05:19:05 +0000</listdate>
+    <saledate>Tue, 29 Mar 2016 04:01:49 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>Played once.  $11 shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Feb 2016 16:07:06 +0000</listdate>
+    <saledate>Thu, 07 Apr 2016 09:55:18 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Apr 2016 15:27:14 +0000</listdate>
+    <saledate>Sat, 16 Apr 2016 02:21:57 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Game has been gently played.
+My husband was an avid board game player/collector.  He took great car of his games and they have all been stored in a smoke free environment.  He passed away 4 years ago, and I am trying to find new homes for all of the games.  If game have been played, they were gently played, as he allowed no food or drink near his games.  Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Apr 2016 20:57:29 +0000</listdate>
+    <saledate>Sat, 23 Apr 2016 15:58:36 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Buyer pays shipping. I accept paypal, popmoney, and personal check (although I will need to receive it and have it clear before I sent out the game). U.S. only please.
+Shipping should be very reasonable in a USPS region B coming from 01610.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Apr 2016 18:25:53 +0000</listdate>
+    <saledate>Sun, 24 Apr 2016 17:42:21 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Apr 2016 21:47:51 +0000</listdate>
+    <saledate>Mon, 09 May 2016 08:36:50 +0000</saledate>
+    <price currency='USD'>29.9</price>
+    <condition>new</condition>
+    <notes>New in shrink
+Shipping cost USA, Europe, Asia, Canada :
+Standard (4-12 weeks): 20$
+Priority Airmail (2-4 weeks - recommended): 30$
+IMPORTANT: Deliveries will only be made to the delivery address you enter during the Paypal payment procedure.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 May 2016 00:19:15 +0000</listdate>
+    <saledate>Tue, 31 May 2016 02:58:19 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Reserved for ceilik
+Includes Mr. Jack</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jun 2016 04:32:11 +0000</listdate>
+    <saledate>Mon, 13 Jun 2016 23:46:16 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/209892/item/4673308#4673308]Item for Geeklist _T_E_M_P_T_A_G_quot;4 Day Auction: 200+ items. St Louis Pickup Available, Ships from STL. Ends June 12th 8pm CDT_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For radagast14 only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jun 2016 20:48:42 +0000</listdate>
+    <saledate>Wed, 15 Jun 2016 04:34:14 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>Played a handful of times.  Components show little to no wear.
+Buyer pays $12 shipping via USPS Priority Mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 May 2016 21:10:14 +0000</listdate>
+    <saledate>Wed, 29 Jun 2016 03:15:33 +0000</saledate>
+    <price currency='USD'>24.9</price>
+    <condition>new</condition>
+    <notes>New in shrink
+Shipping cost USA, Europe, Asia, Canada :
+Standard (4-12 weeks): 20$
+Priority Airmail (2-4 weeks - recommended): 30$
+IMPORTANT: Deliveries will only be made to the delivery address you enter during the Paypal payment procedure.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jul 2016 14:15:29 +0000</listdate>
+    <saledate>Fri, 15 Jul 2016 20:40:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Jul 2016 00:34:52 +0000</listdate>
+    <saledate>Sun, 17 Jul 2016 19:17:05 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Game has been reserved for Darkfart
+Played only a couple times. Great condition, just a minor bit of shelf wear on the edges.
+*SHIPPING* from Vancouver, BC
+To US: Approx. $17-21 USD depending on State
+To Canada: Approx. $17 CAD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Aug 2016 20:18:08 +0000</listdate>
+    <saledate>Thu, 11 Aug 2016 02:46:07 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Never played, excellent condition. Smoke and pet free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Aug 2016 17:55:34 +0000</listdate>
+    <saledate>Tue, 23 Aug 2016 02:13:30 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Shipping is $13.45</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Sep 2016 03:51:06 +0000</listdate>
+    <saledate>Thu, 29 Sep 2016 03:43:06 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR CARDBOARD JUNGLE AT $25.00</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jul 2016 00:23:09 +0000</listdate>
+    <saledate>Mon, 03 Oct 2016 08:18:50 +0000</saledate>
+    <price currency='AUD'>49</price>
+    <condition>verygood</condition>
+    <notes>played once only, game is in excellent condition. Local pick up is available at Sydney CBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Feb 2015 10:20:50 +0000</listdate>
+    <saledate>Sun, 09 Oct 2016 21:12:57 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Oct 2016 00:38:34 +0000</listdate>
+    <saledate>Tue, 25 Oct 2016 01:10:50 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Game was opened but never played. Contents and the box are in excellent shape.
+Generally ship USPS priority with $50 insurance and tracking.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Oct 2016 15:25:15 +0000</listdate>
+    <saledate>Thu, 05 Jan 2017 12:09:36 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Excellent shape
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Jun 2016 23:02:59 +0000</listdate>
+    <saledate>Tue, 17 Jan 2017 21:57:52 +0000</saledate>
+    <price currency='USD'>24.9</price>
+    <condition>new</condition>
+    <notes>New in shrink
+Shipping cost USA, Europe, Asia, Canada :
+Standard (4-12 weeks): 20$
+Priority Airmail (2-4 weeks - recommended): 30$
+IMPORTANT: Deliveries will only be made to the delivery address you enter during the Paypal payment procedure.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Dec 2016 18:00:36 +0000</listdate>
+    <saledate>Thu, 19 Jan 2017 08:47:47 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played once with poker chips, so money deck still in paper wrapper. All components checked and present, player components in plastic baggies. Excellent condition. 2 copies of English rules.
+I_T_E_M_P_T_A_G_#039;m prepared to listen to an offer, and would be more likely to consider if you_T_E_M_P_T_A_G_#039;re buying several game. Low-ball offers are likely to be ignored.
+*** All games on my _T_E_M_P_T_A_G_#039;For Trade_T_E_M_P_T_A_G_#039; list will be listed eventually - feel free to look through them and make offers ***
+Shipped via UPS/FedEx or USPS at your preference to mainland US addresses only (a couple of bad experiences). Payments via personal PayPal transfers preferred (extra charged for cover any credit card fees), but checks, cash, and other options considered. Not looking for any trades at this point, but may consider 18xx games.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jan 2017 18:36:07 +0000</listdate>
+    <saledate>Thu, 19 Jan 2017 19:15:24 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>all pieces are punched out. game is in pristine condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Jul 2015 18:56:11 +0000</listdate>
+    <saledate>Mon, 13 Feb 2017 03:04:21 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2017 19:57:40 +0000</listdate>
+    <saledate>Mon, 13 Feb 2017 07:17:41 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Dec 2016 16:22:22 +0000</listdate>
+    <saledate>Sat, 18 Feb 2017 12:56:38 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Plastic insert wash shipped new with a crack in it.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Feb 2017 12:34:12 +0000</listdate>
+    <saledate>Tue, 28 Feb 2017 03:28:29 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played twice.  Money never used.  Everything in excellent condition.
+Buyer to pay actual USPS shipping from zip code 37115.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2016 16:37:51 +0000</listdate>
+    <saledate>Fri, 03 Mar 2017 01:50:29 +0000</saledate>
+    <price currency='USD'>34.99</price>
+    <condition>new</condition>
+    <notes>New in shrink still. English version.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Feb 2017 12:39:12 +0000</listdate>
+    <saledate>Sat, 11 Mar 2017 01:10:46 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>Shipping costs:
+For NL (and other Kiala countries): Kiala possible.
+BE, Denmark, DE, FI, FR, UK, IRL, IT, LUX, AUS, POLAND, POR, SP, SE : 10,00 Euro (2kg), 18,00 Euro (5 kg), 22,00 Euro (10 kg)
+Rest of Europe: 16,00 Euro (2kg), 22,00 Euro (5 kg), 28,00 Euro (10 kg)
+World: 24,00 Euro (2kg), 32,00 Euro (5 kg), 52,00 Euro (10 kg)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jan 2017 03:04:41 +0000</listdate>
+    <saledate>Tue, 21 Mar 2017 12:47:18 +0000</saledate>
+    <price currency='USD'>21.99</price>
+    <condition>verygood</condition>
+    <notes>Stored on my self B4.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Mar 2017 16:33:01 +0000</listdate>
+    <saledate>Thu, 30 Mar 2017 04:58:47 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Scott O_T_E_M_P_T_A_G_#039;Brien.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Apr 2017 18:00:57 +0000</listdate>
+    <saledate>Mon, 24 Apr 2017 15:19:30 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>Played 1-2 times.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Oct 2016 16:05:00 +0000</listdate>
+    <saledate>Sat, 06 May 2017 11:18:01 +0000</saledate>
+    <price currency='USD'>44.49</price>
+    <condition>new</condition>
+    <notes>[size=14][b][u]Comments:[/u][/b][/size] 
+To see other titles that I have for sale (and perhaps mitigate shipping costs) enter the following into your browser: http://www.boardgamegeek.com/geekmarket/user/Paladin82Y . 
+Note that I am not a store but just a gamer like you (although one that lost his mind and purchased waaaay too many games over the years). I have tried to accurately describe my offerings from a gamer_T_E_M_P_T_A_G_#039;s perspective. If you are a collector or re-seller and need more details, just let me know.
+[size=14][b][u]Condition Notes:[/u][/b][/size] 
+Smoke-free home.
+Still in shrinkwrap.
+[b][u]Edition Notes:[/u][/b] English.
+[size=14][b][u]Shipping Notes:[/u][/b][/size]
+I am willing to meet you at one of the many local Game Nights close to Waukee, IA (see https://www.boardgamegeek.com/guild/1365) to make the exchange in person which would reduce your shipping cost to $0.00.
+Otherwise--Yes, I will gladly combine orders to reduce your per-item shipping costs. (To see other items to add to your order see http://www.boardgamegeek.com/geekmarket/user/Paladin82Y).
+When placing an order, please provide a contact phone number--this is ONLY in case there are shipping issues--I am NOT planning to call you. Also, please provide a direct/external (non-BGG) email address.
+Finally, if at all possible, please provide a business (rather than a residential) shipping address and let me know that the address you are providing is a business address (this may expedite delivery).
+[size=14][b][u]Payment Notes:[/u][/b][/size]
+[i]US buyers:[/i]
+When placing the order, let me know if you would like to purchase the optional insurance offered by the shipping company.  If the receiver (you) does NOT request (and does NOT pay extra for) insurance (decision is totally up to you, the receiver) then the receiver (you) agrees to assume responsibility for lost or damaged packages (I cannot remember ever having any problem, but theoretically there is some risk).  I know that this paragraph sounds scary, but my lawyer makes me include this -- again, I cannot remember ever having any problem.
+See the [i][b]Info from Seller[/b][/i] Section below for more critically important details on payment options.
+ 
+ 
+[i]non-US buyers:[/i]  See the [i][b]Info from Seller[/b][/i] Section below for more critically important details on shipping and payment options.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Jun 2017 16:13:37 +0000</listdate>
+    <saledate>Fri, 23 Jun 2017 00:21:14 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>THIS GAME IS THE RESULT OF A BGG AUCTION.  Do not buy this game unless you won the auction.  The auction was won by BGG user oyler125.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Jun 2017 21:27:25 +0000</listdate>
+    <saledate>Thu, 29 Jun 2017 18:58:33 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>new</condition>
+    <notes>New in shrink. English version.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Aug 2017 03:56:54 +0000</listdate>
+    <saledate>Tue, 22 Aug 2017 11:33:15 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228770/item/5556874#5556874]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction Time!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Aug 2017 18:47:24 +0000</listdate>
+    <saledate>Fri, 01 Sep 2017 16:07:11 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Sep 2017 00:08:22 +0000</listdate>
+    <saledate>Sun, 17 Sep 2017 15:23:52 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Aug 2017 00:17:39 +0000</listdate>
+    <saledate>Thu, 21 Sep 2017 20:37:39 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>The game itself is in excellent condition, barely used, but the box on the bottom is ripped and taped.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Jun 2017 12:47:46 +0000</listdate>
+    <saledate>Mon, 09 Oct 2017 05:06:17 +0000</saledate>
+    <price currency='USD'>29.9</price>
+    <condition>new</condition>
+    <notes>New in shrink
+Shipping cost USA, Europe, Asia, Canada :
+Standard (4-12 weeks): 20$
+Priority Airmail (2-4 weeks - recommended): 30$
+IMPORTANT: Deliveries will only be made to the delivery address you enter during the Paypal payment procedure.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Oct 2017 16:49:04 +0000</listdate>
+    <saledate>Sun, 22 Oct 2017 19:46:53 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Played a couple of times but well stored and cared for.
+UK postage £5</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Oct 2017 19:28:49 +0000</listdate>
+    <saledate>Tue, 12 Dec 2017 14:15:04 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Factory sealed in original shrink wrap. Shipping is $14.00 for Priority Mail (which includes insurance). Paypal payment can be sent to bitva2@yahoo.com, thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Dec 2017 08:51:46 +0000</listdate>
+    <saledate>Sat, 16 Dec 2017 16:51:56 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/233940/item/5821269#5821269]Item for Geeklist _T_E_M_P_T_A_G_quot;The _T_E_M_P_T_A_G_quot;INeedToMakeRent_T_E_M_P_T_A_G_quot; Auction!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+This item is for _T_E_M_P_T_A_G_quot;Ranger sTeam_T_E_M_P_T_A_G_quot; only!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Dec 2017 10:29:48 +0000</listdate>
+    <saledate>Mon, 29 Jan 2018 18:01:38 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes>German edition. Language independent game. New, in shrink
+Contact me for the exact shipping costs:
+Belgium or The Netherlands: €4-7
+other European countries: €9 - €13 (depending on the destination)
+worldwide: €19
+The shipping quotes above are shipping without tracking and no insurance. Contact me for other shipping options or combined shipping.
+Payment: European bank transfer or Paypal (buyer pays fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Sep 2017 20:06:40 +0000</listdate>
+    <saledate>Fri, 02 Feb 2018 17:49:04 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>Ships from MI</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Feb 2018 09:12:09 +0000</listdate>
+    <saledate>Mon, 05 Feb 2018 20:14:18 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/237382/item/5942971#5942971]Item for Geeklist _T_E_M_P_T_A_G_quot;auction - US shipping only from 12054 - ends 2/11_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Feb 2018 03:09:42 +0000</listdate>
+    <saledate>Sat, 10 Feb 2018 22:56:59 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>reserved for auction winner eriksdunens
+local pickup</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Dec 2017 04:56:11 +0000</listdate>
+    <saledate>Wed, 21 Feb 2018 17:11:30 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Factory sealed in original shrink wrap. Shipping is $14.00 for Priority Mail (which includes insurance). Paypal payment can be sent to bitva2@yahoo.com, thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Dec 2017 00:39:12 +0000</listdate>
+    <saledate>Wed, 28 Feb 2018 21:35:25 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>played once</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Nov 2017 11:59:45 +0000</listdate>
+    <saledate>Mon, 12 Mar 2018 06:23:47 +0000</saledate>
+    <price currency='USD'>29.9</price>
+    <condition>new</condition>
+    <notes>New in shrink
+Shipping cost USA, Europe, Asia, Canada :
+Standard (4-12 weeks): 20$
+Priority Airmail (2-4 weeks - recommended): 30$
+IMPORTANT: Deliveries will only be made to the delivery address you enter during the Paypal payment procedure.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 14:45:48 +0000</listdate>
+    <saledate>Sat, 17 Mar 2018 11:15:10 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Smoke free home
+Shipping will be about $15 within Canada, $20 to the US and $30 worldwide, please note that delivery takes 1 week, 2-3 weeks and 4-6 weeks respectively.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jan 2018 21:01:55 +0000</listdate>
+    <saledate>Sun, 18 Mar 2018 23:49:06 +0000</saledate>
+    <price currency='USD'>41</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. 
+Dimensions: 14 3/4 x 10 3/4 x 2 1/4 inches
+Weight: 1 lb 14 oz
+You can calculate shipping cost estimates via USPS.com or UPS.com. Ships from 53597. Add about 1 lb to get shipping weight and dimensions around the game size if you want padding. I will ship without, but must receive your consent before completing the transaction.
+Payment within three (3) days of sales confirmation - via PayPal or Amazon gift card, depending on your level of BGG market feedback and history.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Mar 2018 15:30:46 +0000</listdate>
+    <saledate>Tue, 10 Apr 2018 21:40:39 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>good</condition>
+    <notes>UK postage £3.00 elsewhere on request</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Oct 2017 05:00:13 +0000</listdate>
+    <saledate>Thu, 26 Apr 2018 06:31:39 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>likenew</condition>
+    <notes>Free USA shipping 
+Ask about international shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 May 2018 03:37:02 +0000</listdate>
+    <saledate>Tue, 15 May 2018 10:14:13 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>new</condition>
+    <notes>Pay actual shipping via requested method (FedEx or USPS Priority) based on actual package weight from zip 99216 (Spokane Valley, WA).  Credit card payments accepted through Square via emailed invoice.
+Quick communication given and expected.  If no response within 2 business days, sale will be canceled.
+Items purchased on BGG may be combined with orders made at Board Game Nation (http://store.boardgamenation.com).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Mar 2018 18:16:04 +0000</listdate>
+    <saledate>Wed, 16 May 2018 19:57:05 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Nov 2015 16:26:23 +0000</listdate>
+    <saledate>Thu, 17 May 2018 21:07:23 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition box and componants. Extra players aids included.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Mar 2018 23:17:51 +0000</listdate>
+    <saledate>Thu, 14 Jun 2018 06:15:56 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>New in shrink
+Shipping cost USA, Europe, Asia, Canada :
+Standard (4-12 weeks): 20$
+Priority Airmail (2-4 weeks - recommended): 30$
+IMPORTANT: Deliveries will only be made to the delivery address you enter during the Paypal payment procedure.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Jun 2018 18:24:16 +0000</listdate>
+    <saledate>Wed, 04 Jul 2018 16:09:19 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Some slight wear on front of box.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jun 2018 14:30:32 +0000</listdate>
+    <saledate>Tue, 07 Aug 2018 00:08:42 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jul 2018 12:35:39 +0000</listdate>
+    <saledate>Thu, 30 Aug 2018 10:22:51 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>New in shrink
+Shipping cost USA, Europe, Asia, Canada :
+Standard (4-12 weeks): 20$
+Priority Airmail (2-4 weeks - recommended): 30$
+IMPORTANT: Deliveries will only be made to the delivery address you enter during the Paypal payment procedure.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jun 2018 12:01:07 +0000</listdate>
+    <saledate>Tue, 04 Sep 2018 00:10:37 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>new</condition>
+    <notes>LE18-858</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Aug 2018 10:09:51 +0000</listdate>
+    <saledate>Fri, 05 Oct 2018 02:05:46 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>good</condition>
+    <notes>Santiago - Good but patched on corner (see pics).
+£4 postage and packaging within UK. Will post within UK only I_T_E_M_P_T_A_G_#039;m afraid.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Aug 2018 15:19:48 +0000</listdate>
+    <saledate>Tue, 06 Nov 2018 00:10:41 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Never Played</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Nov 2018 04:51:19 +0000</listdate>
+    <saledate>Thu, 29 Nov 2018 05:58:43 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Reserved for lyamquinn
+PAXu Pickup</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Jan 2019 17:40:18 +0000</listdate>
+    <saledate>Thu, 10 Jan 2019 15:30:10 +0000</saledate>
+    <price currency='USD'>36.49</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Aug 2017 20:06:28 +0000</listdate>
+    <saledate>Thu, 17 Jan 2019 07:24:05 +0000</saledate>
+    <price currency='USD'>20.95</price>
+    <condition>likenew</condition>
+    <notes>Contact me for shipping rates.
+APPROXIMATE Shipping Costs
+* I send via CanadaPost
+* Prices BELOW are in CAD
+* I will convert shipping costs to USD and add to your order (xe.com/ucc)
+* Example games around 1.45 kg are priced below
+CANADA
+* Regular Parcel STARTS at $15; Arrives in 7 business days
+* XpressPost STARTS at $30; Arrives in 2 business days
+INTERNATIONAL
+* Small Packet Air STARTS at $50; Arrives in 3 weeks
+* Tracked Packet STARTS at $70; Arrives in 7 business days</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Jan 2019 19:02:14 +0000</listdate>
+    <saledate>Sat, 26 Jan 2019 19:06:00 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>nis</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Sep 2018 22:28:06 +0000</listdate>
+    <saledate>Wed, 13 Feb 2019 03:52:11 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>New in shrink
+Shipping cost USA, Europe, Asia, Canada :
+Standard (4-12 weeks): 20$
+Priority Airmail (2-4 weeks - recommended): 30$
+IMPORTANT: Deliveries will only be made to the delivery address you enter during the Paypal payment procedure.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Jan 2019 18:36:33 +0000</listdate>
+    <saledate>Wed, 13 Feb 2019 20:02:22 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>2 corners of box are split. some of the paper money is wrinkled.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Mar 2018 03:08:06 +0000</listdate>
+    <saledate>Sat, 23 Feb 2019 11:16:28 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>verygood</condition>
+    <notes>Shipping: €16,85 Europe / €26,45 USA and rest of the world</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

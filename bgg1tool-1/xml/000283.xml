@@ -1,0 +1,967 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="283">
+   <yearpublished>1992</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>2480</playingtime>
+   <minplaytime>2480</minplaytime>
+   <maxplaytime>2480</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Advanced Third Reich</name>
+         
+   <description>Advanced Third Reich is a board wargame published originally by The Avalon Hill Game Co. The game is a rewrite of Rise and Decline of the Third Reich,  and is a simulation of the European and African theaters of World War II. In 2003 GMT Games published A World at War, a substantially revamped and streamlined version of Advanced Third Reich, designed by Bruce Harper.  Designed to reflect the corps scale, a turn represents three months of movement and fighting._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/ldjrajfIcgxM4NMr_EJDDVZACpA=/fit-in/200x150/pic194375.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/crs5a9GQm9KyHE09O5TKltBoSds=/0x0/pic194375.jpg</image>
+      
+            <boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgameversion objectid="24250">First edition</boardgameversion>
+               <boardgamedesigner objectid="361">Bruce Harper</boardgamedesigner>
+               <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+               <boardgameartist objectid="2652">Charles Kibler</boardgameartist>
+                             <boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+                      <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+               <boardgameimplementation objectid="7614">A World at War</boardgameimplementation>
+               <boardgamecategory objectid="1049">World War II</boardgamecategory>
+               <boardgameimplementation objectid="1563" inbound="true">Rise and Decline of the Third Reich</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="24">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="9" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="13" />
+     <result value="Recommended" numvotes="9" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="13" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="13" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="10" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="10">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="1" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="6" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+     <result level="5" value="Unplayable in another language" numvotes="1" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="2" />
+     <result value="16" numvotes="5" />
+     <result value="18" numvotes="1" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>678</usersrated>
+     <average>6.78861</average>
+     <bayesaverage>5.91823</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2567" bayesaverage="5.91823" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="457" bayesaverage="6.46237" />
+            
+           </ranks>
+     
+     <stddev>1.7592</stddev>
+     <median>0</median>
+     <owned>1448</owned>
+     <trading>95</trading>
+     <wanting>29</wanting>
+     <wishing>76</wishing>
+     <numcomments>335</numcomments>
+     <numweights>116</numweights>
+     <averageweight>4.5172</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 28 Nov 2003 13:37:12 +0000</listdate>
+    <saledate>Mon, 12 Apr 2004 10:41:57 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Haven_T_E_M_P_T_A_G_#039;t been used much. Payment method to be discussed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Jan 2004 18:41:11 +0000</listdate>
+    <saledate>Mon, 01 Mar 2004 16:26:50 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>The box has some shelf wear, but the insides are unpunched.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Oct 2004 04:38:43 +0000</listdate>
+    <saledate>Mon, 06 Dec 2004 04:00:50 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Unplayed.  All chits/pieces are unpunched.  Mapboard, rules, and various player sheets are in mint condition.  Game box has suffered some discoloration from sitting in my closet for a while.
+Payment Instructions:
+Buyer assumes all responsibility once item has been paid for and shipped. Please no credit card payments through Paypal (debit only). If paid for by personal check, item will be shipped upon received payment.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Nov 2004 16:39:53 +0000</listdate>
+    <saledate>Mon, 17 Jan 2005 18:16:21 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Partially punched but complete, excellent player_T_E_M_P_T_A_G_#039;s copy.  No real wear to components, box, etc., no mold damage.  Good as new.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Apr 2005 05:20:50 +0000</listdate>
+    <saledate>Wed, 15 Jun 2005 05:24:40 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Unpunched, never played. Box has minor shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jul 2005 00:04:07 +0000</listdate>
+    <saledate>Mon, 03 Oct 2005 03:22:08 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Punched and complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Jul 2005 23:46:36 +0000</listdate>
+    <saledate>Sat, 27 Aug 2005 19:12:20 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>In very good condition, punched.  Check and complete.  A couple of reference cards are copies but they are printed out on card as the originals.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Sep 2005 23:22:52 +0000</listdate>
+    <saledate>Wed, 26 Apr 2006 23:51:52 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Game is conplete and unpunched.  Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Dec 2005 15:57:16 +0000</listdate>
+    <saledate>Fri, 06 Jan 2006 13:43:46 +0000</saledate>
+    <price currency='EUR'>19.99</price>
+    <condition>likenew</condition>
+    <notes>Never played it.
+Shipping at actual cost depending on destination.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Oct 2006 21:05:08 +0000</listdate>
+    <saledate>Thu, 04 Jan 2007 17:59:20 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Unpunched, complete.  Light wear on the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jan 2007 05:01:13 +0000</listdate>
+    <saledate>Thu, 22 Feb 2007 14:41:04 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Game is unpunched and unplayed. No shrinkwrap.
+Game comes from non-smoking house.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Jan 2007 02:02:55 +0000</listdate>
+    <saledate>Thu, 01 Mar 2007 20:19:32 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Counters punched and bagged, but unsorted.  Rules, charts and box are brand-new.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Jun 2007 23:58:43 +0000</listdate>
+    <saledate>Sun, 06 Apr 2008 15:58:48 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>This game rates good but really the components are “like new” while the box is only “acceptable” sporting some damage.  The game itself is unpunched and complete.  If you have a spare Advanced Third Reich box sitting around you’re golden!
+The picture is the actual game for sale.  I included one picture of the side of the box that has what looks like spray paint on it as well as the dinged corner.  As I said, the components are solid, even includes an issue of “Ultra.”  Write with any questions.
+I only ask for actual postage, estimated at $6 for priority mail in the US.  Better yet, stop by and pick it up!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jul 2007 17:12:15 +0000</listdate>
+    <saledate>Wed, 28 Nov 2007 16:19:33 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>Brand new in the shrink wrap. The wrap has a tiny tear but the box is undamaged.  Buy to pay postage not to exceed the USPS Flat Rate of $8.95.  Insurance would be an additional $1.65.  International buyers will need to contact me for rates.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Feb 2008 12:32:57 +0000</listdate>
+    <saledate>Tue, 06 May 2008 01:16:13 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>new</condition>
+    <notes>New in Shrinkwrap.
+Shipping cost is exact postage plus 1$ for packaging/handling. I_T_E_M_P_T_A_G_#039;ll mail it anyway you want, parcel post, priority, or express.
+USA seller, with perfect ebay feedback I_T_E_M_P_T_A_G_#039;ll refer you to upon request.
+Note: Shipping to Europe is expensive and I_T_E_M_P_T_A_G_#039;ll only ship there to bidders with multiple positive feedback.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jun 2008 19:40:53 +0000</listdate>
+    <saledate>Tue, 24 Jun 2008 01:38:09 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>complete
+comes with extra counter trays.
+front of box shows light shelf-wear.
+otherwise everything is in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jun 2008 03:30:40 +0000</listdate>
+    <saledate>Sun, 24 Aug 2008 22:23:25 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Unpunched, one mounted map copy included</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Aug 2008 19:22:25 +0000</listdate>
+    <saledate>Sun, 17 Aug 2008 17:06:15 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>Game is unpunched and like new. Box is solid. 
+Outside US PayPal only.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Aug 2008 02:07:59 +0000</listdate>
+    <saledate>Wed, 08 Apr 2009 20:45:36 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Game is punched and I believe complete. I did not do a count of the counters having 1040 but, I will on request. Game is very clean. Box is solid with minor shelf wear.
+Outside US PayPal only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Sep 2008 07:19:58 +0000</listdate>
+    <saledate>Thu, 18 Sep 2008 19:34:58 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Still in Shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Sep 2008 20:02:42 +0000</listdate>
+    <saledate>Mon, 05 Jan 2009 21:34:41 +0000</saledate>
+    <price currency='USD'>62.5</price>
+    <condition>new</condition>
+    <notes>Game is still in shrink wrap. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Sep 2008 17:47:36 +0000</listdate>
+    <saledate>Sat, 04 Oct 2008 18:24:29 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Counters are punched but sorted into countertrays (will include). Box and rules as new.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Nov 2008 15:46:58 +0000</listdate>
+    <saledate>Sun, 25 Jan 2009 01:57:35 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Unpunched an in great shape.  Buyer pays actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Jan 2009 13:01:02 +0000</listdate>
+    <saledate>Fri, 13 Mar 2009 15:51:09 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>new</condition>
+    <notes>Muy buen estado como nuevo a estrenar, nunca jugado y por supuesto completo e impecable, practicamente a estrenar.
+In perfect conditions, only opened.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Mar 2009 13:47:37 +0000</listdate>
+    <saledate>Tue, 17 Mar 2009 21:33:23 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Will sell with Rising Sun and extras for linked game for $100 plus $16.00 Shipping US</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Apr 2009 21:17:41 +0000</listdate>
+    <saledate>Wed, 23 Sep 2009 00:18:52 +0000</saledate>
+    <price currency='USD'>48.5</price>
+    <condition>verygood</condition>
+    <notes>Game is punched and appear_T_E_M_P_T_A_G_#039;s unplayed, the BRP Cards have not been seperated. Game part_T_E_M_P_T_A_G_#039;s very clean and include_T_E_M_P_T_A_G_#039;s 2 dice. Box is solid but has a piece of clear packing tape on it. The box was taped shut when I found it. 
+Accept PayPal only outside US.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Nov 2009 19:58:31 +0000</listdate>
+    <saledate>Wed, 09 Dec 2009 18:09:01 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>New in Factory Shrink! Perfect Mint Condition!
+flat shipping is 10.95</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Jan 2010 18:21:53 +0000</listdate>
+    <saledate>Sat, 19 Jun 2010 22:57:20 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Doubt anyone has a nicer copy for sale!!
+Still in shrinkwrap!!!
+No caving to box!!!
+Absolutely beautiful box!!!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Jan 2010 22:55:38 +0000</listdate>
+    <saledate>Mon, 01 Aug 2011 00:49:29 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>Payment is by check or money order. Shipping is $11.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jan 2010 01:23:38 +0000</listdate>
+    <saledate>Sat, 13 Feb 2010 03:00:44 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>verygood</condition>
+    <notes>Looking to make some room on my game shelves and have decided to part with my copy of Third Reich. Bought new back in the early 90_T_E_M_P_T_A_G_#039;s and I_T_E_M_P_T_A_G_#039;ve only played it a couple times with friends.  
+All components are punched, included, and in good shape. The box has some minor superficial wear, but nothing structurally damaged.
+Will ship at whatever it costs to send USPS priority mail with shipping confirmation (or via another company if you request and pay shipping costs).
+I_T_E_M_P_T_A_G_#039;m relatively new to selling on BGG so I_T_E_M_P_T_A_G_#039;ve included a link to my eBay rating:
+http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback2_T_E_M_P_T_A_G_amp;userid=thecrisper_T_E_M_P_T_A_G_amp;ftab=AllFeedback
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Apr 2010 13:10:48 +0000</listdate>
+    <saledate>Thu, 09 Sep 2010 09:30:09 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>Punched but never played.
+No missing materials.
+Free shipping to Europe!
+Overall Conditions:
+Box - Acceptable
+Maps - Like New
+Counters and dices - Like New
+Manuals - Very Good</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Apr 2010 19:21:26 +0000</listdate>
+    <saledate>Sat, 05 Jun 2010 00:27:24 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>The game is punched and complete, very clean, no writing or tape marks. The counters have had the corners clipped. Box is solid, no tears, minor shelf wear.
+Accept only PayPal outside of the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Jul 2010 18:52:27 +0000</listdate>
+    <saledate>Thu, 26 Aug 2010 17:33:39 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>The game is unpuched and complete. All game parts like new. The box is soild with very minor shelfwear.
+Accept only PayPal outside of the US please. Shipping is actual cost, no extra fee_T_E_M_P_T_A_G_#039;s.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Dec 2010 04:16:15 +0000</listdate>
+    <saledate>Sat, 11 Dec 2010 04:18:24 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>new</condition>
+    <notes>For Steve Cox</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Jan 2011 13:07:47 +0000</listdate>
+    <saledate>Thu, 24 Nov 2011 11:13:26 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>The game has been used once (some 10 years ago) everything is new and neatly stacked in plastic cups. Only the rulebook shows use. For payment it would be best to just mail me about it. Xpedition0@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Mar 2011 11:02:51 +0000</listdate>
+    <saledate>Sun, 14 Aug 2011 08:03:36 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>good</condition>
+    <notes>I have taken more photos, please contact me if you want to see them.
+Contents :-
+===========
+The game is missing the dice. Everything else is there - All 1040 counters have been counted (25% still unpunched).
+Condition :-
+============
+Very good, except the outer box has scuff marks.
+Shipping :-
+===========
+UK - £5.45 (First class recorded)
+UK - £4.60 (Standard parcels)
+Europe - £7.50 (Airmail)
+Rest of the world - £14.10 (Airmail).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Apr 2011 15:46:22 +0000</listdate>
+    <saledate>Fri, 03 Jun 2011 15:37:06 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>good</condition>
+    <notes>Some wear to box and rule book. All other components present and in good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 May 2011 01:20:26 +0000</listdate>
+    <saledate>Thu, 21 Jul 2011 01:03:08 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>The game is unpunched and complete. All game parts like new.
+PayPal only outside of the US please. Shipping is USPS at cost, no extra fee_T_E_M_P_T_A_G_#039;s.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Aug 2011 13:47:00 +0000</listdate>
+    <saledate>Sun, 11 Dec 2011 16:10:00 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Unpunched and in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Aug 2011 23:35:46 +0000</listdate>
+    <saledate>Sat, 17 Sep 2011 18:08:28 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Unpunched, out of shrink, visible shelf wear. Box intact and whole.
+Will not ship to German addresses (APO is fine) due to theme and box art.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Sep 2011 02:41:07 +0000</listdate>
+    <saledate>Mon, 31 Oct 2011 16:24:00 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Box has some shelf wear. Unpunched. Initials on front of rulebook and appendices. Ships priority mail 1 buisness day after payment is received.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Dec 2011 21:09:55 +0000</listdate>
+    <saledate>Sun, 22 Jan 2012 21:30:35 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Punched, corners clipped, and bagged. Complete and in Very Good condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Jan 2012 19:28:12 +0000</listdate>
+    <saledate>Tue, 13 Mar 2012 16:48:47 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Complete and unpunched</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Feb 2012 22:13:46 +0000</listdate>
+    <saledate>Sun, 22 Apr 2012 03:49:34 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>Still shrink-wrapped, box in excellent condition. Will be shipped priority mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Apr 2012 05:37:22 +0000</listdate>
+    <saledate>Sat, 14 Apr 2012 14:34:27 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>likenew</condition>
+    <notes>Reserved for user enlightenedknave.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jun 2012 11:48:51 +0000</listdate>
+    <saledate>Thu, 14 Jun 2012 14:06:12 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>verygood</condition>
+    <notes>This item is for auction winner nighthawk326 only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jun 2012 03:34:42 +0000</listdate>
+    <saledate>Wed, 06 Mar 2013 06:09:49 +0000</saledate>
+    <price currency='CAD'>80</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Jul 2012 22:38:05 +0000</listdate>
+    <saledate>Sun, 08 Jul 2012 04:54:36 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Normal wear around edges of boxtop but otherwise this game is 100% intact and comes with all pieces. Sadly, never played, but pieces are organized in two plastic bins to prevent mess.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jul 2012 13:26:01 +0000</listdate>
+    <saledate>Mon, 18 Feb 2013 17:57:54 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>likenew</condition>
+    <notes>original English AH edition
+like new (only shrinkwrap removed) game in perfect, box in vg condition</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Jul 2012 02:24:48 +0000</listdate>
+    <saledate>Sat, 19 Jan 2013 14:21:32 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Unpunched, excellent condition. Includes one issue of Ultra magazine. Box is clean, with no dishing. Needs someone to play and love it.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Jul 2012 14:33:02 +0000</listdate>
+    <saledate>Sat, 09 Mar 2013 23:55:35 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>Some but not all counters punched.  All pieces, rulebook, board present.  Newsletter missing.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Aug 2012 17:50:17 +0000</listdate>
+    <saledate>Mon, 20 Aug 2012 15:48:20 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>10 variant counters issued with the General unused. Includes the GE CV Graf Zepplin and the associated General articles plus some what I believe are german partisans (not pictured)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Aug 2012 03:07:04 +0000</listdate>
+    <saledate>Tue, 08 Jan 2013 17:26:55 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Played numerous times, but nothing is missing; box and maps are still in great shape.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Oct 2012 11:15:28 +0000</listdate>
+    <saledate>Thu, 17 Jan 2013 19:56:39 +0000</saledate>
+    <price currency='USD'>27.94</price>
+    <condition>verygood</condition>
+    <notes>Punched and played.  Contents verified complete and in good condition.  Handling wear and slight staining and tape on the map corners.  HAVE NOT VERIFIED THE NUMBER OF COUNTERS.  Its played, its used but it is a very good players copy.  Get a lot of game for a little price.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship on multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Nov 2012 19:30:44 +0000</listdate>
+    <saledate>Sat, 15 Jun 2013 07:26:17 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Punched and separated in a tray, but unplayed.  Game is from a smoke-free home.
+Also have Empire of the Rising Sun (Like New) for sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Dec 2012 21:03:33 +0000</listdate>
+    <saledate>Wed, 26 Dec 2012 02:15:14 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>acceptable</condition>
+    <notes>This is the last AVALON HILL Edition before GMT bought the rights.  Two rule books included.  Maps have been trimmed to fit Plexiglas display, but all charts, etc. are complete.  Counters are clipped, but not organized by force or nationality. I will ship free for sale price. This is a great spare game for long-haul players of this classic. Check out my other games--low shipping rate available for multiple purchases.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Jan 2013 21:23:35 +0000</listdate>
+    <saledate>Mon, 21 Jan 2013 00:26:22 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Feb 2013 20:00:53 +0000</listdate>
+    <saledate>Sat, 09 Mar 2013 02:36:44 +0000</saledate>
+    <price currency='USD'>64.94</price>
+    <condition>verygood</condition>
+    <notes>Very good because 16 counters have fallen out of the trees otherwise unpunched.  Contents verified complete and in excellent albeit aged condition.  Box is square and straight with no dings, doinks or creases.  Goodly amount of shelf wear and corner rubs but 4 tight corners.  Worldwide shipping and will be packed well.  All forms of payment considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Mar 2013 07:19:53 +0000</listdate>
+    <saledate>Thu, 06 Jun 2013 01:05:34 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+I also have an unpunched copy in excellent conditioon for GBP 45.00.
+I pack very safely and securely. Please contact me for shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Mar 2013 22:18:58 +0000</listdate>
+    <saledate>Sat, 09 Mar 2013 16:15:40 +0000</saledate>
+    <price currency='USD'>79</price>
+    <condition>new</condition>
+    <notes>In shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Jun 2013 13:37:24 +0000</listdate>
+    <saledate>Thu, 11 Jul 2013 03:02:28 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Punched.  Shelf wear on box.  Complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Jul 2013 18:35:19 +0000</listdate>
+    <saledate>Sun, 15 Sep 2013 16:47:12 +0000</saledate>
+    <price currency='GBP'>60</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap. Excellent condition.
+I will ship outside the UK only to those countries where signed-for on delivery and full tracked is available, excluding Spain.
+Please contact me for a shipping quote. I pack very safely/securely.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Oct 2013 19:28:57 +0000</listdate>
+    <saledate>Thu, 06 Mar 2014 18:33:31 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>likenew</condition>
+    <notes>Unpunched, unplayed and unread. All components - counters, rulebooks, player-aid cards, mapsheets - are in as new condition.
+There are very slight scuff marks at the corners of the top part of the gamebox, but otherwise the game is as new.
+Please contact me for shipping costs, particularly if you are based outside of the UK. I pack very safely/securely.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Dec 2013 05:42:08 +0000</listdate>
+    <saledate>Sun, 24 Aug 2014 02:34:54 +0000</saledate>
+    <price currency='USD'>79.94</price>
+    <condition>new</condition>
+    <notes>Shrinkwrap copy.  One very minor corner crease on the lid otherwise no box damage to be seen.  No holes in the shrink.  A classic that belongs in every collection.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Mar 2014 16:01:37 +0000</listdate>
+    <saledate>Sat, 05 Apr 2014 05:02:49 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>verygood</condition>
+    <notes>Unpunched, never played, very crisp copy.  Minimal shelfwear on box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Apr 2014 12:34:09 +0000</listdate>
+    <saledate>Thu, 08 May 2014 10:44:07 +0000</saledate>
+    <price currency='AUD'>60</price>
+    <condition>likenew</condition>
+    <notes>Only shrink removed. Otherwise like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 May 2014 19:40:05 +0000</listdate>
+    <saledate>Tue, 20 May 2014 06:18:18 +0000</saledate>
+    <price currency='EUR'>38</price>
+    <condition>verygood</condition>
+    <notes>Unpunched. Very good, except the box that has lost a little color.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 May 2014 00:44:53 +0000</listdate>
+    <saledate>Tue, 08 Jul 2014 17:33:09 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>still in plastic shrinkwrap</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Sep 2014 19:12:13 +0000</listdate>
+    <saledate>Tue, 09 Sep 2014 18:06:09 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Counters are sorted in 4 Avalon Hill storage trays. Includes ULTRA magazine (devoted to Advanced Third Reich) Spring 1992 issue.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Sep 2014 21:28:25 +0000</listdate>
+    <saledate>Thu, 20 Nov 2014 05:59:27 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Some punched, but bagged.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Feb 2015 19:01:07 +0000</listdate>
+    <saledate>Mon, 16 Feb 2015 15:42:58 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>likenew</condition>
+    <notes>Complete
+Unpunched</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jan 2015 09:57:09 +0000</listdate>
+    <saledate>Wed, 11 Mar 2015 08:22:39 +0000</saledate>
+    <price currency='EUR'>90</price>
+    <condition>likenew</condition>
+    <notes>unpunched, complete</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Mar 2013 19:13:40 +0000</listdate>
+    <saledate>Tue, 12 May 2015 19:49:18 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>new in shrinkwrap</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 May 2015 04:30:12 +0000</listdate>
+    <saledate>Mon, 22 Jun 2015 06:17:45 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>punched, verified complete. appears played once if that. very good game components with a nice box too. articles included</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Jul 2015 08:42:13 +0000</listdate>
+    <saledate>Tue, 18 Aug 2015 06:18:02 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition, complete, sorted neatly and bagged. Minor cosmetic wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Sep 2015 21:00:33 +0000</listdate>
+    <saledate>Wed, 30 Sep 2015 02:24:35 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>complete (unpunched and unplayed)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Jan 2015 11:59:12 +0000</listdate>
+    <saledate>Thu, 01 Oct 2015 22:01:27 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>Includes ultra magazines</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Oct 2013 15:09:08 +0000</listdate>
+    <saledate>Tue, 19 Jan 2016 03:27:48 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in Shrink, but the shrinkwrap is beginning to come apart.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jan 2016 19:53:25 +0000</listdate>
+    <saledate>Fri, 12 Feb 2016 20:40:05 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>likenew</condition>
+    <notes>1/2 unpunched, in perfect shape!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Oct 2015 13:25:19 +0000</listdate>
+    <saledate>Wed, 24 Feb 2016 22:36:47 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Unpunched, box showing its age.
+PayPal or US Postal Money Order
+Other methods of payment may be accepted but contact me before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jan 2016 14:59:03 +0000</listdate>
+    <saledate>Sun, 13 Mar 2016 02:47:22 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and unpunched.  The game box has some minor dishing on a couple of the corners, and I have included pictures of the damage.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Feb 2016 22:10:08 +0000</listdate>
+    <saledate>Sun, 20 Mar 2016 16:11:33 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>90% Punched, sorted into ziploc bags.  Components in VG condition.  Box shows some creasing along the top, and some wear on the corners.  The rulebook has some highlighting as well.  This is definitely a players copy, though it_T_E_M_P_T_A_G_#039;s otherwise in good shape, and everything is present.
+I am also selling a copy of Empire of the Rising Sun, which is 90% unpunched and never played.
+Buyer to pay $13.45 usps flat rate, unless you want to do something different.  Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Mar 2016 12:41:30 +0000</listdate>
+    <saledate>Fri, 15 Apr 2016 21:21:21 +0000</saledate>
+    <price currency='USD'>54.82</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jul 2016 15:57:33 +0000</listdate>
+    <saledate>Sat, 30 Jul 2016 17:55:54 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in Shrink, but the shrinkwrap is beginning to come apart.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Jul 2016 14:09:27 +0000</listdate>
+    <saledate>Sat, 13 Aug 2016 22:28:29 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>good</condition>
+    <notes>Game has been inventoried and is complete with all chits present. A few of the blank ones are missing, but they do not affect gameplay in any way. All chits and charts have been laminated for durability as has the covers of the rulebooks. Buyer to pay shipping from zip code 55387. Free local pick up in the Minneapolis/St. Paul metro area. Feel free to contact me for a shipping quote or with questions and I will post pictures upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jul 2016 21:53:16 +0000</listdate>
+    <saledate>Mon, 22 Aug 2016 03:30:25 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>Condition - Unpunched and unplayed, box has very light shelf wear, components in like new condition.
+Payment by PayPal in advance or cash on pickup.
+For shipping this is considered a medium size game.
+The following options are available for delivery within the continental United States:
+1) Local pickup in the San Jose, California area (no cost)
+2) USPS Priority Mail Flat Rate - $6.60 (small), $12.65 (medium), or $17.15 (large), depending on game size. Generally very small games fit in the small box, small or medium in the medium box, and large in the large box. Box fits for some games are very snug, allowing minimal protective padding - if this shipping option is picked for such games seller assumes no responsibility for damage during transit.
+3) USPS Parcel Select Ground / Non-Flat Rate Priority - varies, usually only cheaper than Flat Rate Priority for small and very light weight games (under 2 pounds), an additional fee of $3.25 for the box and packing materials will be added to the shipping costs.
+4) FedEx Ground - varies, usually from $12 for short distance shipments of light weight games to $30 for heavy games (or multiple games up to 10 pounds) long distance shipments. This is usually the cheapest option for very large games. An additional fee of $3.25 for the box and packing materials will be added to the shipping costs. While expensive, this is the best method if damage during transit is a concern, as all items will be packed in boxes sufficiently sized for protective materials. Shipping rates to Alaska or Hawaii will be higher for FedEx.
+Games will not be shipped by any method other than a shipping box, nor unboxed or in less than complete condition, please do not ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Nov 2016 17:08:36 +0000</listdate>
+    <saledate>Fri, 11 Nov 2016 14:54:34 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>Brand new, still in shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2016 00:35:14 +0000</listdate>
+    <saledate>Thu, 29 Dec 2016 10:07:01 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>partialy punshed</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2016 01:53:45 +0000</listdate>
+    <saledate>Wed, 04 Jan 2017 03:19:01 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>New in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Apr 2015 04:12:55 +0000</listdate>
+    <saledate>Mon, 30 Jan 2017 04:15:35 +0000</saledate>
+    <price currency='AUD'>55</price>
+    <condition>likenew</condition>
+    <notes>Included 2 x D6 (16mm, red _T_E_M_P_T_A_G_amp; white) are not the original dice.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Sep 2016 21:53:48 +0000</listdate>
+    <saledate>Tue, 07 Mar 2017 11:28:34 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Nov 2016 01:50:57 +0000</listdate>
+    <saledate>Sat, 01 Apr 2017 02:47:22 +0000</saledate>
+    <price currency='USD'>78.94</price>
+    <condition>new</condition>
+    <notes>Shrinkwrap copy. No box damage. A very minor shrink split on the bottom panel. Its a classic and a must for every game library. Worldwide shipping and will be packed well. All forms of negotiable instruments considered. Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Sep 2016 23:43:33 +0000</listdate>
+    <saledate>Wed, 12 Apr 2017 09:10:31 +0000</saledate>
+    <price currency='AUD'>60</price>
+    <condition>likenew</condition>
+    <notes>Unplayed and unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Aug 2016 21:18:49 +0000</listdate>
+    <saledate>Thu, 03 Aug 2017 13:22:07 +0000</saledate>
+    <price currency='USD'>56</price>
+    <condition>likenew</condition>
+    <notes>Like New unpunched.
+Shipped anywhere in USA Priority Mail $14; Northeast US $12.
+Buy more of my games and pay only highest shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Sep 2017 20:21:48 +0000</listdate>
+    <saledate>Wed, 27 Sep 2017 19:57:52 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>Box worn but game complete and in very good condition. Counters sorted in trays, some clipped.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Feb 2018 20:26:57 +0000</listdate>
+    <saledate>Thu, 08 Feb 2018 04:53:33 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Complete.  Unpunched, unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Mar 2018 14:14:34 +0000</listdate>
+    <saledate>Thu, 08 Mar 2018 00:22:38 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>verygood</condition>
+    <notes>Unpunched, unplayed.  UK sales £4.50 p_T_E_M_P_T_A_G_amp;p tracked and insured.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Sep 2016 10:14:36 +0000</listdate>
+    <saledate>Sun, 11 Mar 2018 22:35:58 +0000</saledate>
+    <price currency='USD'>58</price>
+    <condition>likenew</condition>
+    <notes>unpunched, imagine that. box grades to 4.25 on a scale of 1 to 5. 5 being best</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Mar 2015 18:59:34 +0000</listdate>
+    <saledate>Sun, 08 Apr 2018 18:53:35 +0000</saledate>
+    <price currency='USD'>68.69</price>
+    <condition>new</condition>
+    <notes>New.
+_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt; SHIPPING is _T_E_M_P_T_A_G_quot;MEDIUM PACKAGE_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Mar 2018 15:01:40 +0000</listdate>
+    <saledate>Tue, 08 May 2018 04:59:39 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>Game box shows some shelf wear on the corners and edges.  Components are excellent. Counters are punched and bagged, not clipped. Includes Spring 1992 edition of ULTRA magazine.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2018 12:11:46 +0000</listdate>
+    <saledate>Tue, 24 Jul 2018 19:50:33 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>verygood</condition>
+    <notes>This item is posted as a part of the WargameHQ Shelf Clearing Auction.
+The item listed is only for purchase by:
+johnbjr
+The price has been set at the winning bid, or Buy It Now, price posted to the auction item comment page.
+If you won multiple items, please be sure to add them all to your cart at once and then check out so I can include them in your shipping estimate.
+As a reminder:
+I will only ship to the addresses within the United States.
+I only accept PayPal and payment details will be sent alongside your final invoice.
+Your item(s) will ship on the Saturday FOLLOWING verified payment. 
+I will provide tracking information for your item and insurance sufficient to cover the final price of the auction on shipped items.
+Please inspect your items within the first 5 business days of receipt, beyond that I cannot assist with disputes. I also make no guarantees implied or otherwise as to the condition of games if the carrier has been rough with shipping. I pack games in peanuts and try to ensure both the games and their contents are secured inside the boxes to minimize issues.
+If you fail to pay for your item within 5 business days, I will cancel the sale and list the item on eBay and you can re-bid on it there at that time.
+If you have any special requests, please Geekmail me so we can discuss prior to payment finalization.
+Thank you for your purchase and I hope you enjoy your new game(s)!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Sep 2018 11:45:09 +0000</listdate>
+    <saledate>Wed, 19 Sep 2018 17:41:54 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>verygood</condition>
+    <notes>Punched and clipped.
+Has several copies of the _T_E_M_P_T_A_G_#039;Ultra_T_E_M_P_T_A_G_#039; magazine with it too.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Aug 2018 22:24:15 +0000</listdate>
+    <saledate>Thu, 27 Sep 2018 21:52:04 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>new</condition>
+    <notes>In original shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Nov 2018 03:50:32 +0000</listdate>
+    <saledate>Wed, 07 Nov 2018 02:40:51 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>FOR GREEVES ONLY
+includes NATO and Eagles of Empire
+This sale has been auto-generated for the auction: [geekurl=/geeklist/247435/item/6491289#6491289]Item for Geeklist _T_E_M_P_T_A_G_quot;Giant auction with OOP Eklund, War-games and more_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jul 2018 15:43:35 +0000</listdate>
+    <saledate>Sat, 19 Jan 2019 14:18:31 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Unpunched, though one row of Russian counters has fallen out on their own.  Box is pristine with only the slightest corner wear.  No scuffs or creasing.  I bought this thinking I_T_E_M_P_T_A_G_#039;d play it and then stashed it away for 30 years, so it_T_E_M_P_T_A_G_#039;s in really good shape.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

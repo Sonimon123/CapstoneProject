@@ -1,0 +1,622 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="192945">
+   <yearpublished>2016</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>80</playingtime>
+   <minplaytime>50</minplaytime>
+   <maxplaytime>80</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Coal Baron: The Great Card Game</name>
+       <name  sortindex="1">Crocevia del Carbone: Il gioco di carte</name>
+       <name  sortindex="1">Crocevia del Carbone: Il Grande Gioco di Carte</name>
+       <name  sortindex="1">Glück Auf: Das große Kartenspiel</name>
+       <name  sortindex="1">Szczęść Boże: wielka gra karciana</name>
+         
+   <description>The city of Essen, Germany at the turn of the 20th century was a center for coal mining in Europe. Immerse yourself in the dark world of coal mining as you extract coal from pits, load coal to wagon trains, and then rail your coal off to distant locations in search of fortunes._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Coal Baron: The Great Card Game is a standalone game based on the very popular board game, Coal Baron, originally published in 2013. With innovative mechanisms and almost 240 cards, Coal Baron: The Great Card Game creates an experience that feels very distinct from, yet is just as intense as, the original game._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/hMSXz7aACvaJ6iu4BulJlrSwTPg=/fit-in/200x150/pic3142962.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/UaTMIQ4YQQLZsAgYNzBqNvR4DW0=/0x0/pic3142962.jpg</image>
+      
+                          <boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+                             <boardgamepublisher objectid="10768">Cranio Creations</boardgamepublisher>
+                             <boardgamepublisher objectid="1015">eggertspiele</boardgamepublisher>
+                      <boardgameversion objectid="323603">English-only first edition</boardgameversion>
+               <boardgameversion objectid="299480">English/German first edition</boardgameversion>
+               <boardgamepodcastepisode objectid="233989">Episode 1 - Check Out These Bits!</boardgamepodcastepisode>
+                                           <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+               <boardgamepodcastepisode objectid="192576">HLG-EXTRA 5: Spellenspektakel 2016</boardgamepodcastepisode>
+               <boardgamecategory objectid="1088">Industry / Manufacturing</boardgamecategory>
+               <boardgameversion objectid="360015">Italian edition</boardgameversion>
+               <boardgamedesigner objectid="42">Michael Kiesling</boardgamedesigner>
+               <boardgamedesigner objectid="7">Wolfgang Kramer</boardgamedesigner>
+               <boardgamepublisher objectid="5812">Lacerta</boardgamepublisher>
+               <boardgameartist objectid="12484">Dennis Lohausen</boardgameartist>
+               <boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
+               <boardgameversion objectid="344884">Polish edition</boardgameversion>
+                             <boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+               <boardgamepublisher objectid="11652">Stronghold Games</boardgamepublisher>
+               <boardgamepodcastepisode objectid="206294">The Long View - Quick Looks #27</boardgamepodcastepisode>
+               <boardgamecategory objectid="1034">Trains</boardgamecategory>
+                      <boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+               <boardgameimplementation objectid="143515" inbound="true">Coal Baron</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="18">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="9" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="4">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="4" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>963</usersrated>
+     <average>7.23098</average>
+     <bayesaverage>6.26331</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1394" bayesaverage="6.26331" />
+            
+           </ranks>
+     
+     <stddev>1.03081</stddev>
+     <median>0</median>
+     <owned>2278</owned>
+     <trading>100</trading>
+     <wanting>63</wanting>
+     <wishing>224</wishing>
+     <numcomments>227</numcomments>
+     <numweights>22</numweights>
+     <averageweight>2.6818</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 20 Oct 2016 14:20:07 +0000</listdate>
+    <saledate>Tue, 25 Oct 2016 14:53:52 +0000</saledate>
+    <price currency='EUR'>20.9</price>
+    <condition>new</condition>
+    <notes>Game: Glück auf: Das große Kartenspiel (Pegasus)
+Condition: new in shrinkwrap
+Language: German/English
+Thanks in advance for ordering!
+See below for information on shipping, payment _T_E_M_P_T_A_G_amp; cancellation.
+Payment:
+Bank transfer to an EU bank account using IBAN/BIC in advance
+(normally free of charge if your bank account is nominated in EURO)
+Paypal (add 3,- Euro to cover the fees. That should be the first choice for non-EU customers.)
+Pick up the game at my game store (no shipping cost)
+Shipping: always insured and with tracking
+Germany: 5,99€ for the first item
+card games or smaller boxes might be cheaper (please contact me beforehand)
+EU: 13,99€ up to 2kg
+15,99€ up to 5kg
+20,99€ up to 10kg
+Rest of the world: Please contact me before purchasing an item to clarify the shipping costs.
+I can offer discounts on shipping if multiple marketplace purchases are made.
+Returns and Cancellation:
+You may cancel your order without giving any reasons within 14 days after placing your order. Please contact spieleberatung@t-online.de and I will attempt to resolve the matter. Unopened copies of the game that are no longer wanted can be returned, but there is a 10% restocking fee payable of the item price and the buyer is responsible for the return shipping costs.
+Spieleberatung
+Frank Solnitzky
+Hainbuchenweg 1
+36381 Schlüchtern
+Germany
++49-06661-9115039
+frank@spieleberatung.com</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Nov 2016 11:52:50 +0000</listdate>
+    <saledate>Thu, 10 Nov 2016 17:42:02 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>Opened and sorted but unplayed
+Buyer to pay actual USPS shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Nov 2016 11:17:47 +0000</listdate>
+    <saledate>Sat, 12 Nov 2016 16:21:05 +0000</saledate>
+    <price currency='GBP'>15.99</price>
+    <condition>new</condition>
+    <notes>Postage
+ 
+Standard rate for the UK is £3.15 and items will usually be dispatched within 24 hours</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Nov 2016 17:07:22 +0000</listdate>
+    <saledate>Tue, 22 Nov 2016 18:55:52 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>reserved for GamingCoupleGA
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Nov 2016 07:59:31 +0000</listdate>
+    <saledate>Fri, 25 Nov 2016 22:43:09 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>likenew</condition>
+    <notes>Opened, but unplayed.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage:
+https://www.boardgamegeek.com/geekmarket/user/Scholle
+Pickup available in St Ives. Postage cost will depend upon your location.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Nov 2016 08:48:07 +0000</listdate>
+    <saledate>Wed, 30 Nov 2016 12:06:15 +0000</saledate>
+    <price currency='GBP'>15.99</price>
+    <condition>new</condition>
+    <notes>Postage
+ 
+Standard rate for the UK is £3.15 and items will usually be dispatched within 24 hours</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Nov 2016 18:22:14 +0000</listdate>
+    <saledate>Sat, 10 Dec 2016 00:46:59 +0000</saledate>
+    <price currency='GBP'>17.25</price>
+    <condition>new</condition>
+    <notes>Weight 1Kg</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Nov 2016 18:06:52 +0000</listdate>
+    <saledate>Tue, 24 Jan 2017 01:42:06 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>new</condition>
+    <notes>Still in shrink.  Buyer pays actual shipping cost from 92128.
+Buyer pays any incurred Paypal fees (use Send Money to Friend option to avoid surcharge)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jan 2017 23:23:04 +0000</listdate>
+    <saledate>Wed, 25 Jan 2017 07:23:29 +0000</saledate>
+    <price currency='GBP'>9.99</price>
+    <condition>likenew</condition>
+    <notes>Used but very good condition copy - all pieces present.
+Shipping within UK only by Royal Mail 2nd Class Signed For.
+Multiple items are being sold along with this item, so if you buy multiple items I can combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Dec 2016 13:37:32 +0000</listdate>
+    <saledate>Thu, 02 Feb 2017 14:15:36 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Nov 2016 03:22:21 +0000</listdate>
+    <saledate>Thu, 02 Feb 2017 14:53:54 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>new</condition>
+    <notes>In shrink.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage:
+https://www.boardgamegeek.com/geekmarket/user/Scholle
+Pickup available in St Ives. Postage cost will depend upon your location.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Feb 2017 08:02:09 +0000</listdate>
+    <saledate>Tue, 21 Feb 2017 17:22:13 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner user mwricketson only please.
+Also includes Porta Nigra and Hacienda.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Feb 2017 23:41:15 +0000</listdate>
+    <saledate>Mon, 03 Apr 2017 13:12:31 +0000</saledate>
+    <price currency='GBP'>14</price>
+    <condition>likenew</condition>
+    <notes>Opened but not played.
+U.K. Postage £2.85</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Feb 2017 09:13:28 +0000</listdate>
+    <saledate>Thu, 13 Apr 2017 13:12:13 +0000</saledate>
+    <price currency='GBP'>16.47</price>
+    <condition>new</condition>
+    <notes>Postage
+ 
+Standard rate for the UK is £3.15 and items will usually be dispatched within 24 hours</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 May 2017 01:12:50 +0000</listdate>
+    <saledate>Fri, 05 May 2017 23:02:54 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>Auction win for justinlca only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Jul 2017 21:13:09 +0000</listdate>
+    <saledate>Fri, 21 Jul 2017 09:15:46 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>likenew</condition>
+    <notes>Comes with two laminated score sheets and a wipe clean pen.
+Never played, just opened.
+Postage to to the UK is £3
+Europe £10</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Aug 2017 14:43:51 +0000</listdate>
+    <saledate>Mon, 14 Aug 2017 16:24:35 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>For item won at auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Aug 2017 02:58:40 +0000</listdate>
+    <saledate>Wed, 16 Aug 2017 07:07:14 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>for user blnichol only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Aug 2017 21:16:38 +0000</listdate>
+    <saledate>Sun, 20 Aug 2017 21:18:44 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228489/item/5541591#5541591]Item for Geeklist _T_E_M_P_T_A_G_quot;(CLOSED) No Room for Summer Auction - Ends Aug. 19th_T_E_M_P_T_A_G_quot; [/geekurl]
+Reserved for madax66.  Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+PayPal is preferred for shipped games.  Otherwise cash is fine for local pick-up.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Aug 2017 22:44:29 +0000</listdate>
+    <saledate>Sun, 27 Aug 2017 23:52:17 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229061/item/5572767#5572767]Item for Geeklist _T_E_M_P_T_A_G_quot;Hobbes_T_E_M_P_T_A_G_#039; Massive Bloodletting Auction -- Ends TODAY!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Oct 2017 10:24:17 +0000</listdate>
+    <saledate>Mon, 09 Oct 2017 13:11:42 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228286/item/5567593#5567593]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2017 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Oct 2017 05:05:01 +0000</listdate>
+    <saledate>Sun, 15 Oct 2017 05:05:31 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231391/item/5704695#5704695]Item for Geeklist _T_E_M_P_T_A_G_quot;It_T_E_M_P_T_A_G_#039;s that Spooky time of the year Auction [Ends Oct 20th][US Only][Ships from Irvine, CA]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Sep 2017 14:23:34 +0000</listdate>
+    <saledate>Fri, 27 Oct 2017 20:25:12 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Opened and played once. Buyer pays shipping from Boston, MA 02110</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 00:01:51 +0000</listdate>
+    <saledate>Tue, 07 Nov 2017 15:16:19 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Nov 2017 02:05:36 +0000</listdate>
+    <saledate>Mon, 13 Nov 2017 03:48:10 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230892/item/5706798#5706798]Item for Geeklist _T_E_M_P_T_A_G_quot;PAX Unplugged Virtual Flea Market 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 May 2017 23:38:13 +0000</listdate>
+    <saledate>Sun, 19 Nov 2017 06:30:28 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+NOT a Pre-Order!!! Ships TODAY !!! No Waiting !!!
+Get $4 DISCOUNT or MORE!!  See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekmarket/user/greengow
+----- 0-9 -----
+1655: Habemus Papam
+1775: Rebellion
+2019: The ARCTIC
+3 sind eine zu viel
+6 Nimmt!
+7 Kingdoms
+7 Wonders + Cities
+----- A -----
+Amerigo
+Animal Upon Animal Deluxe
+Antike Duellum
+Auf Achse
+Automania 2nd Edition
+----- B -----
+Basilica
+Batavia
+Baumeister von Colosseum
+Bookmaker
+Böhmische Dörfer - Bohemian Villages
+Bretagne
+Bruxelles 1893
+Burano
+----- C -----
+Carcassonne: The Mini Expansion
+Carcassonne: Amazonas
+Castles of Mad King Ludwig (Zamki Szalonego Krola Ludwika)
+Chronicler
+Coal Baron: The Great Card Game
+Crazy Coconuts 
+----- D -----
+Daxu
+Dice Brewing + Extras
+Double Mission: Beyond the Object
+Drum Roll
+----- E -----
+Eight-Minute Empire
+Eight-Minute Empire Lost Lands
+Eldritch Horror
+Eldritch Horror: Mountains of Madness
+El Gaucho
+----- F -----
+First Class
+First To Fight
+Flying Kiwis
+Freaky
+Fresko (Fresco)
+Fresko (Fresco) Expansion 4,5,6
+Fresko (Fresco) Expansion 8,9,10
+Fujian Trader
+----- G -----
+Grog Island
+----- H -----
+Hansa Teutonica
+Haru Ichiban
+----- I -----
+India Rails
+In the Year of the Dragon - 10th Anniversary
+----- J -----
+Jenseits von Theben (Thebes)
+----- K -----
+K2
+Keltis - includes Neue Wege, Neue Ziele expansion
+Kutschfahrt zur Teufelsburg
+----- L -----
+Lorenzo il Magnifico + Extras
+----- M -----
+Machi Koro + Harbour expansion + Millionaires expansion + Game Mat + 1 set of Large Cards
+Magnum Sal
+Manhattan
+Metro
+Mexica
+Meuterer
+M.U.L.E.
+Mystery of the Abbey with Pilgrims_T_E_M_P_T_A_G_#039; Expansion
+----- O -----
+Oh my Goods!
+----- P -----
+Papa Paolo
+Pedzace Jeze (Bucket Brigade)
+Porta Nigra
+Portale von Molthar
+----- Q -----
+Quebec
+----- R -----
+Rattus
+Rattus Cartus
+Rattus: Pied Piper
+Robber Knights
+----- S -----
+Scythe
+Seidenstrasse
+Ships
+Snowdonia
+Spirits of the Rice Paddy
+Stinky Business
+----- T -----
+Thebes
+The Big Idea
+The Castles of Burgundy: The Card Game 
+The Great Fire of London 1666
+The Voyages of Marco Polo
+Tides of Madness
+Tikal
+Touria
+Trains: Map Pack 2 – Europe/Italy/California
+Triovision
+----- U -----
+Ulm
+Urban Panic
+----- V -----
+Venetia
+Vienna
+----- W -----
+West of Africa
+Wir sind das Volk
+Witkacy
+Würfel Bohnanza
+----- Y -----
+Yangtze
+----- Z -----
+Zamki szalonego króla Ludwika (Castles of Mad King Ludwig)
+Zertz</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Dec 2017 20:52:08 +0000</listdate>
+    <saledate>Tue, 12 Dec 2017 21:03:19 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/233257/item/5788401#5788401]Item for Geeklist _T_E_M_P_T_A_G_quot;2017 FleaCon Seller_T_E_M_P_T_A_G_#039;s VFM for exchange at San Diego FleaCon(Dec 16)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Money and game exchange at FleaCon
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Dec 2017 21:42:05 +0000</listdate>
+    <saledate>Fri, 15 Dec 2017 10:20:10 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for steviebwoy for the math trade offer [listitem=5821546][/listitem] found in [geeklist=233645][/geeklist].
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t provide the corresponding money offer in the trade chain!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Feb 2018 19:41:46 +0000</listdate>
+    <saledate>Thu, 08 Feb 2018 19:43:56 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Auction item for user Level 3 Tunt (Rococo_Zephyr).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Feb 2018 02:11:16 +0000</listdate>
+    <saledate>Mon, 26 Feb 2018 05:50:27 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>reserved for joe shep from the cull the herd auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Mar 2018 20:44:29 +0000</listdate>
+    <saledate>Mon, 26 Mar 2018 01:18:49 +0000</saledate>
+    <price currency='GBP'>9</price>
+    <condition>verygood</condition>
+    <notes>Game is in excellent condition - has been stored carefully and only played a couple of times.
+Shipping will be £3 via Royal Mail. I_T_E_M_P_T_A_G_#039;m very happy to combine postage - please message me for an estimate.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Apr 2018 15:28:53 +0000</listdate>
+    <saledate>Thu, 05 Apr 2018 15:30:21 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239284/item/6041702#6041702]Item for Geeklist _T_E_M_P_T_A_G_quot;Versteigerung Spiele aus Fotowettbewerb_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Feb 2017 09:13:28 +0000</listdate>
+    <saledate>Thu, 19 Apr 2018 16:22:07 +0000</saledate>
+    <price currency='GBP'>16.47</price>
+    <condition>new</condition>
+    <notes>Postage
+ 
+Standard rate for the UK is £3.15 and items will usually be dispatched within 24 hours</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Apr 2018 04:15:25 +0000</listdate>
+    <saledate>Sun, 22 Apr 2018 04:31:33 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Complete and comes from a smoke free home.  Buyer pays actual shipping from 44044.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Apr 2018 19:17:47 +0000</listdate>
+    <saledate>Wed, 02 May 2018 16:56:09 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>likenew</condition>
+    <notes>Opened but unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Aug 2018 13:12:21 +0000</listdate>
+    <saledate>Sat, 25 Aug 2018 13:14:10 +0000</saledate>
+    <price currency='AUD'>22</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243831/item/6309220#6309220]Item for Geeklist _T_E_M_P_T_A_G_quot;Sydney No-ship Boardgame Auction and Trade Night - September 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Payment options:
+Bank transfer
+BSB: 702-069
+Acc No: 748141
+Account Name: I-Pei Lee _T_E_M_P_T_A_G_amp; Tanit Chaiyawat
+PayPal Family _T_E_M_P_T_A_G_amp; Friends ONLY (or pay 3% on top)
+bcymail@yahoo.com.au
+Would prefer not to have to deal with cash on the trade day, but if you need to, let me know.
+Thanks, Brett.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Aug 2018 12:48:55 +0000</listdate>
+    <saledate>Tue, 28 Aug 2018 21:03:15 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>ONLY for user Jerry George(midnightmagic) for winning this item from my auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Oct 2018 00:16:00 +0000</listdate>
+    <saledate>Sun, 07 Oct 2018 12:33:51 +0000</saledate>
+    <price currency='USD'>61</price>
+    <condition>likenew</condition>
+    <notes>This is for Coal Baron: The Card Game, Little Prince, Manhattan, Renegade, and Vikings Gone Wild Expansion
+This sale has been auto-generated for the auction: [geekurl=/geeklist/246356/item/6422155#6422155]Item for Geeklist _T_E_M_P_T_A_G_quot;$10 Flat-rate Shipping Auction (+$5 per additional game)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 May 2018 17:06:10 +0000</listdate>
+    <saledate>Thu, 15 Nov 2018 12:16:26 +0000</saledate>
+    <price currency='EUR'>17.9</price>
+    <condition>new</condition>
+    <notes>Weight: 864 grams + packaging</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

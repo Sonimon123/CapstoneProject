@@ -1,0 +1,713 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="102148">
+   <yearpublished>2012</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>9</maxplayers>
+   <playingtime>5</playingtime>
+   <minplaytime>5</minplaytime>
+   <maxplaytime>5</maxplaytime>
+   <age>8</age>
+       <name  sortindex="1">Noir of Indines</name>
+       <name primary="true" sortindex="1">NOIR: Deductive Mystery Game</name>
+       <name  sortindex="1">NOIR: Deductive Mystery Game – Black Box Edition</name>
+       <name  sortindex="1">NOIR: Killer vs. Inspector</name>
+       <name  sortindex="1">Нуар</name>
+         
+   <description>NOIR: Killer vs. Inspector is a two-player game of hidden identities and deduction. Each player receives a secret identity from among 25 suspects and an open role that determines his available moves and victory conditions._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The Killer plays by eliminating players, focusing more on intuition and reading his opponent. The Inspector uses secret information and his ability to accuse suspects to create a play style more focused around logical elimination of possibilities._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game plays in 5 to 15 minutes, and is contained in a 54-card deck box for easy travel play._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;NOIR: Deductive Mystery Game _T_E_M_P_T_A_G_amp;ndash; Black Box Edition includes fifty suspect and fifty innocent cards as well as six game modes _T_E_M_P_T_A_G_amp;mdash; including Killer vs. Inspector, Hitman vs. Sleuth, Spy Tag, Master Thief vs. Chief of Police _T_E_M_P_T_A_G_amp;mdash; to test your mettle!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/2kG3Kq-pxOKCdyaR71Y1L4Nbn4E=/fit-in/200x150/pic2461527.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/In3aKAw59Pnw9_rRHOO4zf8gO3Y=/0x0/pic2461527.jpg</image>
+      
+            <boardgameimplementation objectid="225449">Automata NOIR</boardgameimplementation>
+               <boardgameversion objectid="281950">BattleCON edition</boardgameversion>
+               <boardgameversion objectid="226232">BGG.CON 2013 Special Edition</boardgameversion>
+               <boardgamepodcastepisode objectid="167411">BGGcon 2015</boardgamepodcastepisode>
+               <boardgameversion objectid="265246">Black box edition</boardgameversion>
+               <boardgamecategory objectid="1039">Deduction</boardgamecategory>
+               <boardgameversion objectid="107611">English first edition (Level 99 Games Minigame Library)</boardgameversion>
+               <boardgamepodcastepisode objectid="162346">Episode 12:  Noir Black Box Edition Review - Hanabi, The Resistance, Cosmic Encounter and more!</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="149654">Episode 71 -- We Are Heatstroke!</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgameartist objectid="46478">Fábio Fontes</boardgameartist>
+               <boardgamepublisher objectid="29194">GaGa Games</boardgamepublisher>
+                      <boardgamepublisher objectid="11752">Level 99 Games</boardgamepublisher>
+               <boardgamefamily objectid="18377">Level 99 Games Minigame Library</boardgamefamily>
+               <boardgamefamily objectid="41463">Level 99 Small Box Games</boardgamefamily>
+               <boardgamecategory objectid="1040">Murder/Mystery</boardgamecategory>
+                                           <boardgameversion objectid="343258">Russian edition</boardgameversion>
+               <boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+               <boardgamecategory objectid="1081">Spies/Secret Agents</boardgamecategory>
+               <boardgamedesigner objectid="36103">D. Brad Talton, Jr.</boardgamedesigner>
+                      <boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+               <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="12" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="12" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="7">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="8">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="9">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="9+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="3" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1068</usersrated>
+     <average>6.63933</average>
+     <bayesaverage>6.02176</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2107" bayesaverage="6.02176" />
+            
+       
+              <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="397" bayesaverage="6.18267" />
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="567" bayesaverage="6.11948" />
+            
+           </ranks>
+     
+     <stddev>1.40672</stddev>
+     <median>0</median>
+     <owned>2408</owned>
+     <trading>126</trading>
+     <wanting>61</wanting>
+     <wishing>281</wishing>
+     <numcomments>327</numcomments>
+     <numweights>53</numweights>
+     <averageweight>1.6038</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 29 Mar 2013 23:32:09 +0000</listdate>
+    <saledate>Sat, 30 Mar 2013 04:34:46 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>verygood</condition>
+    <notes>Level 99 games bundle reserved for nich.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Jul 2013 13:45:19 +0000</listdate>
+    <saledate>Sun, 29 Sep 2013 15:21:45 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Played twice. Excellent condition. Send zip code for an accurate shipping quote from MA. Take $2 off each additional game purchased from my marketplace.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Dec 2013 03:03:04 +0000</listdate>
+    <saledate>Tue, 31 Dec 2013 08:23:40 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>2013 BGG edition is new in shrink wrap.
+2012 edit is opened and played twice.  Excellent condition.
+Let me know which edition you want.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Jan 2014 21:37:23 +0000</listdate>
+    <saledate>Tue, 25 Feb 2014 01:57:13 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This is the 2013 BGG edition.  It is new in shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jan 2014 17:11:00 +0000</listdate>
+    <saledate>Tue, 14 Jan 2014 05:11:44 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>new</condition>
+    <notes>BGG.CON 2013 Edition. Unopened and unused. $3 shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jan 2014 19:56:37 +0000</listdate>
+    <saledate>Tue, 21 Jan 2014 15:10:42 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jan 2014 16:08:12 +0000</listdate>
+    <saledate>Thu, 27 Mar 2014 22:17:07 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>BGG.con 2013 edition. Brand new.
+Buyer pays exact shipping cost. I will combine shipping with other items. Free local pickup also available. International buyers welcome.
+PayPal is preferred. Let me know if you need another payment method.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Jan 2014 21:33:06 +0000</listdate>
+    <saledate>Wed, 29 Jan 2014 13:08:12 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>Reserved for ghettoholder.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Jan 2014 14:55:35 +0000</listdate>
+    <saledate>Fri, 31 Jan 2014 14:58:36 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>sold in auction. reserved for user indigopotter. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Feb 2014 15:49:56 +0000</listdate>
+    <saledate>Sat, 08 Feb 2014 16:48:31 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>New BGG.CON 2013 Special Edition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Feb 2014 02:36:20 +0000</listdate>
+    <saledate>Mon, 03 Mar 2014 22:30:22 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>This is the 2013 BGG edition.
+Within the USA, I ship via priority mail.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Mar 2014 04:23:50 +0000</listdate>
+    <saledate>Mon, 03 Mar 2014 14:07:20 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>From the geeklist auction Spring Break Auction, which can be found here: http://boardgamegeek.com/geeklist/169893/closed-spring-break-auction-us-only-blue-mo/page/1?
+This game is only for BGG User AndySzy
+Price: $5
+Shipping: $5
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Apr 2014 02:21:05 +0000</listdate>
+    <saledate>Sat, 19 Apr 2014 01:43:36 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>new</condition>
+    <notes>For auction winner _T_E_M_P_T_A_G_quot;Mndwrm_T_E_M_P_T_A_G_quot; only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Jul 2014 22:06:42 +0000</listdate>
+    <saledate>Sat, 23 Aug 2014 14:33:50 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Only played once.
+$4 flat rate shipping to the USA.
+Message me for an international quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Aug 2014 14:45:14 +0000</listdate>
+    <saledate>Fri, 29 Aug 2014 03:13:19 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>For user Gripen - charity auction</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Nov 2013 15:44:21 +0000</listdate>
+    <saledate>Fri, 03 Oct 2014 18:24:03 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>BGG.Con 2013 Special Edition. Brand new. Cards sealed in box.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Oct 2014 19:01:45 +0000</listdate>
+    <saledate>Thu, 23 Oct 2014 19:08:39 +0000</saledate>
+    <price currency='CAD'>7</price>
+    <condition>verygood</condition>
+    <notes>Sold via GeekList auction for CastleCon pick-up.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Nov 2014 02:06:35 +0000</listdate>
+    <saledate>Thu, 13 Nov 2014 16:28:53 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/181250/item/3528050#3528050]Item for Geeklist _T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_#039;Nother Purge Auction from Your Pal Verkisto_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Shipping will be $6.00.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Nov 2014 01:38:01 +0000</listdate>
+    <saledate>Wed, 10 Dec 2014 22:47:51 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Feb 2015 14:08:57 +0000</listdate>
+    <saledate>Sat, 21 Feb 2015 03:25:09 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>Condition: Like new. All cards accounted for.
+Shipping via USPS Priority Flat rate: $5.95</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Feb 2015 15:47:45 +0000</listdate>
+    <saledate>Fri, 27 Feb 2015 19:56:18 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187335/item/3738317#3738317]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Mar 2015 17:45:24 +0000</listdate>
+    <saledate>Thu, 02 Apr 2015 22:00:34 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>likenew</condition>
+    <notes>Opened but unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Jun 2014 21:17:37 +0000</listdate>
+    <saledate>Tue, 12 May 2015 13:53:49 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>Opened and played once. This is the card deck from the Minigame library box; you will need to download the rules from the lv99 website.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Jun 2015 11:03:07 +0000</listdate>
+    <saledate>Wed, 10 Jun 2015 12:53:02 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191660/item/3919480#3919480]Item for Geeklist _T_E_M_P_T_A_G_quot;Massive Game Auction: Everything MUST Go!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 May 2015 23:39:34 +0000</listdate>
+    <saledate>Wed, 08 Jul 2015 04:53:28 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jul 2015 02:44:37 +0000</listdate>
+    <saledate>Tue, 14 Jul 2015 02:57:25 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>new</condition>
+    <notes>Reserved for My Hoang</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Aug 2015 13:29:01 +0000</listdate>
+    <saledate>Mon, 14 Sep 2015 07:05:45 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This was part of a Kickstarter pledge. It has been opened and unplayed in a smoke-free home. I will gladly take care of shipping, which is why I_T_E_M_P_T_A_G_#039;m only shipping to the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Sep 2015 01:33:35 +0000</listdate>
+    <saledate>Sun, 27 Sep 2015 01:07:58 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink.
+Items are from a smoke-free, pet-free home.
+Feel free to GM me with any questions or offers.
+$4 shipping _T_E_M_P_T_A_G_amp; handling within the continental USA.
+All others, please, inquire about shipping costs first.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Sep 2015 18:19:08 +0000</listdate>
+    <saledate>Thu, 08 Oct 2015 14:53:37 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Oct 2015 17:49:35 +0000</listdate>
+    <saledate>Wed, 21 Oct 2015 05:41:02 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194495/item/4165748#4165748]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2015 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Vic,
+please accept, so we could login trade feedback for our Trade we did at Essen.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Nov 2015 15:05:40 +0000</listdate>
+    <saledate>Tue, 10 Nov 2015 16:29:09 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197039/item/4174081#4174081]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Thank you.  See you at the con!  I will be there from Tuesday.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Nov 2015 16:14:00 +0000</listdate>
+    <saledate>Sun, 15 Nov 2015 01:59:11 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197039/item/4174970#4174970]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+I_T_E_M_P_T_A_G_#039;ll be at the meet up but if you want to do the exchange another time in passing give me some warning so I have the game with me but you can text me on my cell - 972-746-7209. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Nov 2015 15:39:42 +0000</listdate>
+    <saledate>Thu, 26 Nov 2015 16:01:46 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/199278/item/4270995#4270995]Item for Geeklist _T_E_M_P_T_A_G_quot;Aaron_T_E_M_P_T_A_G_#039;s BGG Con/DFW Pickup Auction! (willing to ship as well!)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jan 2016 02:54:44 +0000</listdate>
+    <saledate>Thu, 28 Jan 2016 22:12:41 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/203965/item/4406809#4406809]Item for Geeklist _T_E_M_P_T_A_G_quot;[Auction] Another batch of games to expell from my house! [US Only] Glen More, Discoveries, Pastiche, and lots more! All with starting bids of $1! Ends 01/26_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jan 2016 19:04:51 +0000</listdate>
+    <saledate>Mon, 07 Mar 2016 17:56:08 +0000</saledate>
+    <price currency='USD'>15.99</price>
+    <condition>new</condition>
+    <notes>Level 99 Games (L99NRB14)
+The Game is Afoot! Take to the streets for a life or death game of cat and mouse. Plan your moves carefully to avoid the Police or capture the Killer. In the new Black Box Edition, there are 6 game modes to test your mettle and 50 suspects to scrutinize. Will you catch a killer, or end up dead?</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Feb 2016 18:31:06 +0000</listdate>
+    <saledate>Thu, 07 Apr 2016 21:30:08 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2016 16:49:09 +0000</listdate>
+    <saledate>Sun, 21 Aug 2016 04:11:02 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Hello, I inherited many games and am hoping I find some buyers here at BGG.
+This version of Noir: Deductive Mystery Game is new, still in the shrink wrap.
+I will provide shipping in a USPS flat rate priority box for $13.45. Contact me regarding international shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Aug 2016 22:18:58 +0000</listdate>
+    <saledate>Mon, 29 Aug 2016 23:00:46 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/213201/item/4826829#4826829]Item for Geeklist _T_E_M_P_T_A_G_quot;4 Day Auction: 150 items. St Louis Pickup Available, Ships from STL - Ends Aug 28th 8PM CDT_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For kingmaker fan only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Sep 2016 01:38:01 +0000</listdate>
+    <saledate>Mon, 10 Oct 2016 05:09:32 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>verygood</condition>
+    <notes>Reserved for hawkeyept</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Oct 2016 18:32:21 +0000</listdate>
+    <saledate>Wed, 26 Oct 2016 18:36:07 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/4973001#4973001]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Oct 2016 14:49:54 +0000</listdate>
+    <saledate>Thu, 27 Oct 2016 15:03:35 +0000</saledate>
+    <price currency='USD'>0.01</price>
+    <condition>new</condition>
+    <notes>This just serves as confirmation of a VFM item. It_T_E_M_P_T_A_G_#039;s free, but the marketplace required a price, so I added 1 penny. Go ahead and _T_E_M_P_T_A_G_quot;buy_T_E_M_P_T_A_G_quot; it in the marketplace, and we_T_E_M_P_T_A_G_#039;ll meet at the CON. I am James and my cell is 785-438-9944 if you cannot find me.  This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/4948550#4948550]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Nov 2016 15:01:41 +0000</listdate>
+    <saledate>Fri, 04 Nov 2016 15:20:39 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/5004623#5004623]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Items won by skelebone for delivery to BGG.CON 2016</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Nov 2016 21:59:04 +0000</listdate>
+    <saledate>Mon, 14 Nov 2016 00:07:31 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>verygood</condition>
+    <notes>This item is for auction winner indigopotter only.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Dec 2016 03:39:16 +0000</listdate>
+    <saledate>Sun, 04 Dec 2016 07:31:45 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/217292/item/5035719#5035719]Item for Geeklist _T_E_M_P_T_A_G_quot;Selling games to support suicide awareness!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Nov 2016 16:17:39 +0000</listdate>
+    <saledate>Fri, 16 Dec 2016 01:09:47 +0000</saledate>
+    <price currency='EUR'>3</price>
+    <condition>verygood</condition>
+    <notes>The game:
+Level 99 (c) 2013.
+English edition!
+Box shows some shelf wear.
+All game cards are still in mint condition.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within EU I prefer the EU-standard-bank-tranfer (SEPA,IBAN/BIC). It is fast and causes no fees.
+Outside EU Paypal and bank-transfer are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Feb 2017 05:20:12 +0000</listdate>
+    <saledate>Tue, 21 Feb 2017 18:27:11 +0000</saledate>
+    <price currency='USD'>4.15</price>
+    <condition>verygood</condition>
+    <notes>Edition: BGG.CON 2013 Special Edition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Mar 2017 15:41:31 +0000</listdate>
+    <saledate>Sat, 15 Apr 2017 16:47:29 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap. From 2015 Level 99 Games BattleCON Kickstarter.
+Will ship by USPS post office in a small 5x3x2_T_E_M_P_T_A_G_quot; box.  $4 shipping cost. 
+Will ship to USA only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Apr 2017 09:46:36 +0000</listdate>
+    <saledate>Mon, 15 May 2017 04:39:29 +0000</saledate>
+    <price currency='EUR'>4</price>
+    <condition>verygood</condition>
+    <notes>Opened, looked at, but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 May 2017 09:20:18 +0000</listdate>
+    <saledate>Fri, 09 Jun 2017 07:06:33 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>new</condition>
+    <notes>The game has not been played. Everything is in excellent condition.
+This is the English Kickstarter version.
+We are an animal-free non smoking household.
+See also my other offers for combined shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Dec 2016 10:24:19 +0000</listdate>
+    <saledate>Mon, 03 Jul 2017 16:15:43 +0000</saledate>
+    <price currency='EUR'>12.5</price>
+    <condition>verygood</condition>
+    <notes>played. A few cards show a slight sign of wear from shuffling. Box has minimal shelf wear.
+Shipping, insured, with tracking:
+Germany 4,99€
+Europe( DHL Zone 1): 11€
+Shipping, uninsured, without tracking:
+Germany: 2,60€
+Everywhere else: 4,80€
+payment via SEPA bank transfer or PayPal</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Aug 2017 07:50:40 +0000</listdate>
+    <saledate>Sat, 19 Aug 2017 22:15:32 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>new</condition>
+    <notes>NIS
+Please email for shipping quotes.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Sep 2017 02:20:25 +0000</listdate>
+    <saledate>Sat, 09 Sep 2017 02:35:29 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Sep 2017 14:23:56 +0000</listdate>
+    <saledate>Tue, 12 Sep 2017 23:03:07 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>2015 Level 99 Games BattleCON edition. Played, complete, in very good condition.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/228843/item/5559646#5559646]Item for Geeklist _T_E_M_P_T_A_G_quot;Pre-Buckeye Game Fest Auction - Local pickup available near Cleveland/Columbus (U.S. only)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Jun 2017 21:38:34 +0000</listdate>
+    <saledate>Sun, 24 Sep 2017 18:58:17 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>Played once. All components complete and in great condition. Image available upon request. 
+ 
+Flat shipping fee $8 for Continental USA. 
+Combined shipping available. Also available for pick up in NYC (zip code: 10016).
+I accept Paypal, Venmo, Google wallet and Chase Quickpay.
+Price is negotiable if you buy multiple games. 
+ 
+For international shipping, UPS/USPS/Fedex rate is usually about $45~$100 depending on distance. I can also ship with other options upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Jul 2017 04:09:09 +0000</listdate>
+    <saledate>Tue, 06 Feb 2018 20:17:56 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Oct 2016 21:00:14 +0000</listdate>
+    <saledate>Mon, 26 Feb 2018 22:35:12 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>Postage will be $3.00 to a U.S. Address.  Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Mar 2018 16:00:43 +0000</listdate>
+    <saledate>Sat, 07 Apr 2018 13:49:30 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jun 2018 02:29:37 +0000</listdate>
+    <saledate>Sun, 17 Jun 2018 17:23:11 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>Make offer on price, Shipping calculated later.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jul 2018 18:06:44 +0000</listdate>
+    <saledate>Sun, 29 Jul 2018 18:08:39 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241960/item/6278319#6278319]Item for Geeklist _T_E_M_P_T_A_G_quot;Gencon Virtual Flea Market 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Jul 2018 03:47:01 +0000</listdate>
+    <saledate>Sun, 19 Aug 2018 06:49:27 +0000</saledate>
+    <price currency='USD'>7.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Oct 2018 18:42:42 +0000</listdate>
+    <saledate>Fri, 26 Oct 2018 19:17:36 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Doug Peterson. Shipping USPS medium flat rate $13.60</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jul 2018 15:14:04 +0000</listdate>
+    <saledate>Sat, 27 Oct 2018 04:14:35 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>good</condition>
+    <notes>Shipping within Poland 3 Euro, untracked shipping world-wide from 3.50 Euro, tracked shipping from 5.50 Euro (depending on country).
+Payment via Paypal, Cash or Wire Transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Sep 2018 17:29:21 +0000</listdate>
+    <saledate>Mon, 05 Nov 2018 00:52:19 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>Brand new, never opened, never played. Noir of Indines version of the card game. Gotta clear some games out to make room for new ones, so my loss is your gain. Shipping is $4.00. If you purchase more than one game I_T_E_M_P_T_A_G_#039;ll try to consolidate packages to save shipping . Paypal only please. And sorry, I don_T_E_M_P_T_A_G_#039;t sell to buyers outside of the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Nov 2018 15:55:55 +0000</listdate>
+    <saledate>Thu, 29 Nov 2018 18:00:05 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246163/item/6565293#6565293]Item for Geeklist _T_E_M_P_T_A_G_quot;PAX Unplugged Virtual Flea Market 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jan 2019 22:08:43 +0000</listdate>
+    <saledate>Thu, 17 Jan 2019 20:39:30 +0000</saledate>
+    <price currency='USD'>1</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/251296/item/6640220#6640220]Item for Geeklist _T_E_M_P_T_A_G_quot;Vet Bills Are Expensive Auction - US Only - Ends 1/19_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

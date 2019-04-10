@@ -1,0 +1,2612 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="26566">
+   <yearpublished>2009</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Homesteaders</name>
+         
+   <description>Homesteaders is an auction and resource management game in which players bid on the opportunity to build certain types of buildings, then spend resource cubes to build one of several buildings of that type. The buildings confer abilities, income, and points; some automatically and some requiring a worker._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game lasts ten rounds, with each round consisting of an auction phase followed by a building phase. After the last round, players take one final income phase and have one last chance to buy and sell goods and use their building abilities before scores are tallied._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Players score for their buildings, bonuses conferred by buildings, and points earned throughout the game from selling resource cubes. The player who builds the best combination of buildings and best manages the nine different resources in the game will score the most points and win _T_E_M_P_T_A_G_amp;ndash; as long as they don't take on too much debt!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/EwXsy9cbbKZcJHJknZnRWnXLfjs=/fit-in/200x150/pic1113708.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/tpgUZ893vVhwBFAeCGVn7bDREkM=/0x0/pic1113708.jpg</image>
+      
+            <boardgamepublisher objectid="9499">Tasty Minstrel Games (TMG)</boardgamepublisher>
+               <boardgameversion objectid="404062">10th Anniversary Edition</boardgameversion>
+               <boardgamehonor objectid="8759">2010 Golden Geek Best Strategy Board Game Nominee</boardgamehonor>
+                      <boardgamecategory objectid="1055">American West</boardgamecategory>
+               <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+               <boardgamepodcastepisode objectid="15209">BGB Volume 83 - Homesteaders, Long Shot and Court of the Medici - plus a note about Kevin Pimental</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="3317">BGWS 066 – Simultaneous Auction games</boardgamepodcastepisode>
+               <boardgamecategory objectid="1029">City Building</boardgamecategory>
+                             <boardgamecategory objectid="1021">Economic</boardgamecategory>
+               <boardgameversion objectid="25106">English first edition</boardgameversion>
+                                           <boardgameversion objectid="119081">English second edition</boardgameversion>
+                                                  <boardgamepodcastepisode objectid="111701">ET70: Shub-Niggurath en el Wild Wild West.</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="133849">ET84: HO! HO! HOmesteaders las DAU y la guerra en la jungla</boardgamepodcastepisode>
+                                                                              <boardgameexpansion objectid="251595">Homesteaders: New Beginnings</boardgameexpansion>
+                      <boardgameartist objectid="40634">Hans Janssen</boardgameartist>
+               <boardgamepodcastepisode objectid="5647">OBG 048: Events of All Kinds</boardgamepodcastepisode>
+                                    <boardgamepublisher objectid="10663">Quined Games</boardgamepublisher>
+               <boardgameversion objectid="178420">Quined Games Masterprint edition</boardgameversion>
+               <boardgamefamily objectid="129">Quined Master Print Edition Series</boardgamefamily>
+                             <boardgamedesigner objectid="7959">Alex Rockwell</boardgamedesigner>
+               <boardgameartist objectid="16722">Ariel Seoane</boardgameartist>
+                      <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamefamily objectid="27646">Tableau Building</boardgamefamily>
+               <boardgamepodcastepisode objectid="5545">The Spiel #96 - Going Once...</boardgamepodcastepisode>
+               <boardgamefamily objectid="17927">TMG Originals</boardgamefamily>
+             
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="70">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="30" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="33" />
+     <result value="Not Recommended" numvotes="18" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="18" />
+     <result value="Recommended" numvotes="37" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="57" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="26" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="22">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="2" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="16" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="18">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="4" />
+     <result value="12" numvotes="10" />
+     <result value="14" numvotes="3" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>3216</usersrated>
+     <average>7.26873</average>
+     <bayesaverage>6.79213</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="564" bayesaverage="6.79213" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="318" bayesaverage="6.91498" />
+            
+           </ranks>
+     
+     <stddev>1.22605</stddev>
+     <median>0</median>
+     <owned>3411</owned>
+     <trading>153</trading>
+     <wanting>235</wanting>
+     <wishing>840</wishing>
+     <numcomments>1022</numcomments>
+     <numweights>289</numweights>
+     <averageweight>3.0519</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 25 Mar 2010 18:32:44 +0000</listdate>
+    <saledate>Mon, 12 Apr 2010 21:10:21 +0000</saledate>
+    <price currency='USD'>22.95</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap. Shipping is actual cost for 4 pounds to wherever you are. Please contact with zip code and I_T_E_M_P_T_A_G_#039;ll let you know.
+Paypal only please.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 May 2010 20:00:41 +0000</listdate>
+    <saledate>Wed, 02 Jun 2010 03:36:01 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Only played a couple of times.
+Perfect shape!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Jun 2010 02:23:58 +0000</listdate>
+    <saledate>Thu, 14 Oct 2010 16:33:25 +0000</saledate>
+    <price currency='USD'>23.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+HOMESTEADERS: $23.95 ...in stock now...no waiting
+Tasty Minstrel Games [TTT 1002]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Jul 2010 11:50:49 +0000</listdate>
+    <saledate>Tue, 22 Nov 2011 18:58:28 +0000</saledate>
+    <price currency='EUR'>33</price>
+    <condition>new</condition>
+    <notes>Tasty Mistrel Games - Homesteaders
+Language: English
+Players: 3-4
+Age: 12+
+Duration: about 90 min
+Weight: 1.200 kg
+New - mint condition - unopened - still in shrink wrap.
+Theme: Homesteaders is an Auction and Resource Management game in which players bid on the opportunity to build certain types of buildings, then spend resource cubes to build one of several buildings of that type. The buildings confer abilities, income, and points; some automatically and some requiring a Worker. The game lasts 10 rounds, with each round consisting of an Auction phase followed by a Building phase. After the last round, players get 1 final income phase and one last chance to buy and sell goods and use their building abilities before scores are tallied. Players score for their buildings, bonuses conferred by buildings, and points earned throughout the game from selling resource cubes. The player who builds the best combination of buildings and best manages the 9 different resources in the game will score the most points and win, as long as they don_T_E_M_P_T_A_G_#039;t take on too much debt!
+See Details (more info) or below for complete selling, payment and shipping conditions.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Jul 2010 23:22:40 +0000</listdate>
+    <saledate>Fri, 30 Jul 2010 03:06:43 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>Never played. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Aug 2010 13:14:35 +0000</listdate>
+    <saledate>Tue, 03 Aug 2010 02:39:12 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>For hockeyhabit from the Good Games Need Good Homes Geeklist Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Sep 2010 10:47:21 +0000</listdate>
+    <saledate>Wed, 06 Oct 2010 16:14:27 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>The Poor Student With Vet Bills Auction
+Homesteaders
+Winner: derscheid</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Oct 2010 03:04:00 +0000</listdate>
+    <saledate>Sun, 10 Oct 2010 03:32:06 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This listing is specifically for BGG user Kayvon.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Oct 2010 17:04:33 +0000</listdate>
+    <saledate>Tue, 30 Nov 2010 19:23:24 +0000</saledate>
+    <price currency='USD'>23.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+HOMESTEADERS: $23.95 ...in stock now...no waiting
+Tasty Minstrel Games [TTT 1002]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TB</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Oct 2010 02:19:13 +0000</listdate>
+    <saledate>Sun, 24 Oct 2010 03:02:10 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>For BGG user docandy31 only from BGG auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Nov 2010 16:28:34 +0000</listdate>
+    <saledate>Fri, 03 Dec 2010 01:35:35 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This listing is for auction winner _T_E_M_P_T_A_G_quot;Storm King Zero_T_E_M_P_T_A_G_quot; only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Dec 2010 02:04:18 +0000</listdate>
+    <saledate>Tue, 11 Jan 2011 00:19:26 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>good</condition>
+    <notes>Complete, some wear (and a few tears) on the counters (they don_T_E_M_P_T_A_G_#039;t punch out very well). Shipping is $12. Combined shipping rates are available when purchasing multiple games.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Dec 2010 00:37:25 +0000</listdate>
+    <saledate>Sat, 11 Dec 2010 03:16:55 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Jan 2011 15:33:20 +0000</listdate>
+    <saledate>Mon, 21 Feb 2011 22:49:43 +0000</saledate>
+    <price currency='GBP'>22.5</price>
+    <condition>verygood</condition>
+    <notes>The cardboard bits are cut off centre. Apparantly this was a problem with the whole print run. Otherwise excellent condition.
+NB. Buyer pays shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Feb 2011 15:00:53 +0000</listdate>
+    <saledate>Mon, 14 Mar 2011 19:43:54 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Not in shrink but unpunched and never played.  This copy has the same shifted printing problem as most copies of the game but is in great shape otherwise.
+I ship only via USPS Priority mail.
+Alternatively, if you are in the Boston area you can make arrangements to pick the game up.
+Photos and Shipping estimates available upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Feb 2011 21:03:31 +0000</listdate>
+    <saledate>Tue, 19 Apr 2011 17:51:13 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>new</condition>
+    <notes>*** 4th Dimension Games ***
+Homesteaders: $26.00 In Stock (7% sales tax for residents of Pennsylvania)
+This is a New, Sealed in Box Homesteaders board game.
+Publisher: Tasty Minstrel Games [TTT1002]
+Number of Players: 3-4
+Ages: 13+
+Length: 80 minutes
+Shipping: Shipping rates will be determined upon sale or request. Insurance is optional but highly recommended for higher priced items. The shipping costs are NOT inflated. You pay exactly what I am charged for shipping, along with material costs. I ship through FedEx or USPS, whichever is cheaper. Normal shipping costs run from $8.00 - $11.00. If you have a commercial address that I can send to, your shipping costs will be even less!
+Payment: I accept PayPal, money orders, personal and cashier_T_E_M_P_T_A_G_#039;s checks. Personal checks will be accepted but I will wait until the check has cleared before sending the item. 
+Return Policy: I want you to be completely satisfied with your item. Because of this, I will accept return of any item for a refund of the purchase price within 30 days of the sale. The item must be in the same condition that it was sent. I cannot refund the shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Mar 2011 23:41:27 +0000</listdate>
+    <saledate>Sun, 13 Mar 2011 00:10:43 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>SELLERS TERMS AND CONDITIONS:
+PAYMENT TERMS: Payment is due within 7 days of the date you placed the order. Please do not purchase if you do not intend to pay, or cannot pay within this time frame. 
+PAYMENT METHODS:
+1) Paypal Instant Transfer - 2.9% + $0.30 processing fee applies (funded by existing funds or bank account)
+2) Money Order - We will accept postal money orders but will not ship until we have received and cashed the money order.
+SHIPPING: Buyer is responsible for all shipping cost.  I will only charge the actual USPS or Fed Ex (your choice) shipping price (lowest possible) with delivery confirmation for the game.
+INSURANCE: Insurance is optional on all items, unless noted. 
+The game has been played but is in excellent condition.  All the pieces have been sorted and bagged and the box insert has been removed.  It has no water or warp damage.
+Feel free to browse through my other games for sale in the marketplace.  I will be glad to combine orders to save on shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Jun 2011 20:26:22 +0000</listdate>
+    <saledate>Wed, 06 Jul 2011 05:43:23 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>punched and sorted/bagged.
+i have a few full color play aides that will also be included.
+please geekmail me with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Jun 2011 03:24:28 +0000</listdate>
+    <saledate>Wed, 15 Jun 2011 03:40:06 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>This is reserved for c r schwarzott (schwarzott) from a Geek Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jul 2011 01:50:02 +0000</listdate>
+    <saledate>Mon, 07 Nov 2011 16:52:57 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Played once</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2011 03:46:45 +0000</listdate>
+    <saledate>Tue, 09 Aug 2011 05:18:25 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Reserved for flintlocklaser from the _T_E_M_P_T_A_G_quot;Save the Feline_T_E_M_P_T_A_G_quot; auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Aug 2011 21:31:38 +0000</listdate>
+    <saledate>Fri, 05 Aug 2011 23:47:07 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Very nice shape, opened and set up but unplayed. This is the first edition. Should be a 3 pound package from zip 80015, but actual weight might vary by a pound at most after packing. I don_T_E_M_P_T_A_G_#039;t charge for packing/handling, and I ship USPS Priority by the lowest rate, which is often Flat Rate, but sometimes games don_T_E_M_P_T_A_G_#039;t fit in those boxes.
+Please let me know if you have questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Aug 2011 12:21:32 +0000</listdate>
+    <saledate>Tue, 16 Aug 2011 14:33:12 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>reserved for (kevintlee)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Sep 2011 14:46:21 +0000</listdate>
+    <saledate>Thu, 15 Sep 2011 15:49:20 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>For BugLaden - _T_E_M_P_T_A_G_quot;She_T_E_M_P_T_A_G_#039;s Having a Baby_T_E_M_P_T_A_G_quot; Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Sep 2011 03:52:09 +0000</listdate>
+    <saledate>Wed, 05 Oct 2011 13:36:10 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+HOMESTEADERS: $16.95 in stock now...no waiting
+Tasty Minstrel Games [TTT 1002]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Sep 2011 00:42:52 +0000</listdate>
+    <saledate>Tue, 27 Sep 2011 16:54:07 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>good</condition>
+    <notes>For user (speavy) only from my recent auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Oct 2011 13:46:52 +0000</listdate>
+    <saledate>Tue, 13 Mar 2012 18:25:21 +0000</saledate>
+    <price currency='USD'>16.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+HOMESTEADERS 1ST EDITION: $16.95 in stock now...no waiting
+Tasty Minstrel Games [TTT 1002]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Oct 2011 13:51:22 +0000</listdate>
+    <saledate>Mon, 31 Oct 2011 04:24:34 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+HOMESTEADERS 2ND EDITION: $24.95
+Tasty Minstrel Games [TTT 1002]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Oct 2011 14:39:50 +0000</listdate>
+    <saledate>Sun, 30 Oct 2011 04:00:49 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>Never played
+1ST EDITION</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Nov 2011 11:47:55 +0000</listdate>
+    <saledate>Thu, 03 Nov 2011 15:01:49 +0000</saledate>
+    <price currency='USD'>23.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+HOMESTEADERS 2ND EDITION: $23.95 ..in stock now...no waiting
+Tasty Minstrel Games [TTT 1002]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Nov 2011 15:26:48 +0000</listdate>
+    <saledate>Sat, 30 Jun 2012 02:25:05 +0000</saledate>
+    <price currency='USD'>23.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+HOMESTEADERS 2ND EDITION: $23.95 ..in stock now...no waiting
+Tasty Minstrel Games [TTT 1002]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Nov 2011 18:42:10 +0000</listdate>
+    <saledate>Mon, 07 Nov 2011 19:34:59 +0000</saledate>
+    <price currency='CAD'>28</price>
+    <condition>likenew</condition>
+    <notes>2nd printing - thicker card stock etc.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Nov 2011 12:46:25 +0000</listdate>
+    <saledate>Sat, 09 Feb 2013 20:28:49 +0000</saledate>
+    <price currency='USD'>32.47</price>
+    <condition>new</condition>
+    <notes>Brand New! 2nd Edition
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental US street address: $9.00</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Nov 2011 02:29:59 +0000</listdate>
+    <saledate>Fri, 06 Jan 2012 08:19:21 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>First edition (poorly cut tiles / chits). Missing 1 victory point marker and 1 wood resource. Shipping is $12. Combined shipping rates are available when purchasing multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Nov 2011 15:16:37 +0000</listdate>
+    <saledate>Wed, 30 Nov 2011 18:31:18 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This is an auction item for diehard4life.  Please no one else purchase this item.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Dec 2011 12:54:42 +0000</listdate>
+    <saledate>Wed, 14 Dec 2011 02:10:29 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Auction item for mmpoole only!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Dec 2011 10:54:37 +0000</listdate>
+    <saledate>Thu, 23 Feb 2012 04:09:57 +0000</saledate>
+    <price currency='USD'>12.99</price>
+    <condition>verygood</condition>
+    <notes>This is the 1st Edition. All the pieces are here, and in good shape. Box is in good shape (slight bow in top). The components in the first edition aren_T_E_M_P_T_A_G_#039;t quite as good as the new version, but there_T_E_M_P_T_A_G_#039;s nothing terrible about them. You can play the game!
+Buyer pays actual shipping only. Send me your zip and I_T_E_M_P_T_A_G_#039;ll let you know the cost.
+You can combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jan 2012 21:07:23 +0000</listdate>
+    <saledate>Fri, 24 Feb 2012 17:28:47 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>2009 _T_E_M_P_T_A_G_quot;HOMESTEADERS_T_E_M_P_T_A_G_quot; Boardgame by Tasty Minstrel (Factory-Sealed MINT Condition!)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jan 2012 10:23:12 +0000</listdate>
+    <saledate>Tue, 17 Jan 2012 20:43:54 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jan 2012 22:24:55 +0000</listdate>
+    <saledate>Sun, 18 Mar 2012 04:41:43 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>2nd edition (upgraded bits), new in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Feb 2012 15:32:46 +0000</listdate>
+    <saledate>Thu, 02 Feb 2012 15:45:01 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>Reserved for mowgli95
+Unity Games Auction
+#502 Homesteaders: $11</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Feb 2012 12:40:36 +0000</listdate>
+    <saledate>Thu, 23 Feb 2012 22:47:13 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened unpunched second edition. $5.00 for shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Feb 2012 15:33:09 +0000</listdate>
+    <saledate>Thu, 08 Mar 2012 11:41:13 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>Second edition. Punched, bagged, unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Mar 2012 21:36:34 +0000</listdate>
+    <saledate>Thu, 05 Apr 2012 21:34:55 +0000</saledate>
+    <price currency='USD'>24.48</price>
+    <condition>new</condition>
+    <notes>Tasty Minstrel Games (TTT 1002)
+Homesteaders is an auction and resource management game in which players bid on the right to build certain types of buildings, and then build their desired building of that type. Each round features an income phase, where players acquire resources, and an auction and building phase, in which players bid for available land, and then spend their resources to develop a building on that land. The game is played over 10 turns, made up of 3 stages. Turns 1-4 comprise the Settlement stage, turns 5-8 comprise the Town stage, and turns 9-10 comprise the City stage. The buildings which are available for development vary through the stages, as buildings that were important when the settlement started, such as Farms and Markets, are no longer needed and new buildings become important as the city grows, such as a Train Station and Railway Terminals. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Mar 2012 02:49:54 +0000</listdate>
+    <saledate>Sun, 18 Mar 2012 15:57:23 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Reserved for Johnnytheskin</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Mar 2012 16:40:47 +0000</listdate>
+    <saledate>Tue, 20 Mar 2012 02:26:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Reserved for DavidG55311</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Mar 2012 03:48:06 +0000</listdate>
+    <saledate>Tue, 20 Mar 2012 10:21:37 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Reserved for shouit</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Apr 2012 13:50:51 +0000</listdate>
+    <saledate>Fri, 13 Apr 2012 01:41:29 +0000</saledate>
+    <price currency='USD'>24.49</price>
+    <condition>new</condition>
+    <notes>Tasty Minstrel Games (TTT 1002)
+ 
+Homesteaders is an auction and resource management game in which players bid on the right to build certain types of buildings, and then build their desired building of that type. Each round features an income phase, where players acquire resources, and an auction and building phase, in which players bid for available land, and then spend their resources to develop a building on that land. The game is played over 10 turns, made up of 3 stages. Turns 1-4 comprise the Settlement stage, turns 5-8 comprise the Town stage, and turns 9-10 comprise the City stage. The buildings which are available for development vary through the stages, as buildings that were important when the settlement started, such as Farms and Markets, are no longer needed and new buildings become important as the city grows, such as a Train Station and Railway Terminals. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Apr 2012 12:40:17 +0000</listdate>
+    <saledate>Wed, 11 Apr 2012 20:43:34 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Reserved for user GozerTC</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 May 2012 01:57:52 +0000</listdate>
+    <saledate>Tue, 08 May 2012 06:23:24 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>For marvac only</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 May 2012 18:13:18 +0000</listdate>
+    <saledate>Tue, 08 May 2012 18:47:53 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Auction win.  Reserved for Cbursley.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Jun 2012 18:46:56 +0000</listdate>
+    <saledate>Tue, 19 Jun 2012 05:08:35 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>Opened, played twice very carefully, looks great.  This is the nice recent second edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Jun 2012 14:25:00 +0000</listdate>
+    <saledate>Sat, 16 Jun 2012 14:43:58 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>reserved for dysjunct</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jun 2012 22:10:21 +0000</listdate>
+    <saledate>Sat, 23 Jun 2012 00:03:34 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>This is for senorcoo for the Baby_T_E_M_P_T_A_G_#039;s A Comin_T_E_M_P_T_A_G_#039; Auction.
+Homesteaders Second Edition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2012 21:13:47 +0000</listdate>
+    <saledate>Fri, 29 Jun 2012 18:16:17 +0000</saledate>
+    <price currency='USD'>22.99</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played.
+Second edition.
+Buyer to pay actual shipping costs after purchase - combine multiple games for lower shipping! </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Jul 2012 11:36:22 +0000</listdate>
+    <saledate>Mon, 09 Jul 2012 17:26:14 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>For feldmafx ONLY.  Auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Jul 2012 13:59:52 +0000</listdate>
+    <saledate>Wed, 18 Jul 2012 23:03:16 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>new</condition>
+    <notes>reserved for David Larson</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jul 2012 14:05:11 +0000</listdate>
+    <saledate>Sun, 22 Jul 2012 16:31:07 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>For gManJoe ONLY</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jul 2012 14:02:49 +0000</listdate>
+    <saledate>Mon, 23 Jul 2012 14:11:23 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>Auction win for BGG user ColtsFan76 ONLY</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Aug 2012 02:37:58 +0000</listdate>
+    <saledate>Sat, 11 Aug 2012 04:22:00 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>This listing is the result of a GeekList auction.  Please do not purchase unless you are user operamang.  GenCon Pickup.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Aug 2012 22:46:36 +0000</listdate>
+    <saledate>Mon, 13 Aug 2012 20:17:23 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>for user cmdrsils only pls</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Aug 2012 11:55:45 +0000</listdate>
+    <saledate>Mon, 13 Aug 2012 12:32:52 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Ron Bahimi
+Local Pick Up</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Sep 2012 04:22:45 +0000</listdate>
+    <saledate>Tue, 11 Jun 2013 16:04:34 +0000</saledate>
+    <price currency='USD'>18.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+HOMESTEADERS 1st EDITION: $18.95
+Tasty Minstrel Games [TTT 1002]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Sep 2012 16:33:33 +0000</listdate>
+    <saledate>Sun, 21 Oct 2012 12:32:37 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>likenew</condition>
+    <notes>First edition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Sep 2012 20:00:25 +0000</listdate>
+    <saledate>Wed, 26 Sep 2012 03:40:11 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>For Nomoredroids</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Oct 2012 05:53:22 +0000</listdate>
+    <saledate>Fri, 12 Oct 2012 07:00:17 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>good</condition>
+    <notes>***reserved for user SatanicEssence</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Oct 2012 16:05:07 +0000</listdate>
+    <saledate>Fri, 02 Nov 2012 21:07:32 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>TMG version</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Nov 2012 16:06:21 +0000</listdate>
+    <saledate>Mon, 05 Nov 2012 16:59:40 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>For BGG user herendil66 only. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Nov 2012 17:50:31 +0000</listdate>
+    <saledate>Fri, 16 Nov 2012 20:37:58 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>For llopis from the Prepping for Christmas auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Nov 2012 04:10:26 +0000</listdate>
+    <saledate>Wed, 30 Jan 2013 12:48:25 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Tasty Minstrel Games Second Edition.  Opened and played once, in excellent condition. Gotta clear some games out to make room for new ones, so my loss is your gain. Shipping is $7.00. If you purchase more than one game I_T_E_M_P_T_A_G_#039;ll try to consolidate packages to save shipping . Paypal only please. And sorry, I don_T_E_M_P_T_A_G_#039;t sell to buyers outside of the US.
+Thanks for looking.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Dec 2012 20:13:34 +0000</listdate>
+    <saledate>Wed, 05 Dec 2012 00:53:39 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Auction for dlaurion</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Dec 2012 06:34:12 +0000</listdate>
+    <saledate>Mon, 17 Dec 2012 15:23:05 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>verygood</condition>
+    <notes>Auction win for TK Number 3.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Jan 2013 14:08:51 +0000</listdate>
+    <saledate>Sat, 05 Oct 2013 16:18:40 +0000</saledate>
+    <price currency='EUR'>34</price>
+    <condition>new</condition>
+    <notes>Quined Games - Homesteaders MASTER PRINT
+Language: English, German, French _T_E_M_P_T_A_G_amp; Dutch
+Players: 2-4
+Age: 12+
+Duration: about 90 min
+Weight: 1.690 kg
+New - mint condition - unopened - still in shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Jan 2013 08:38:44 +0000</listdate>
+    <saledate>Tue, 29 Jan 2013 14:04:32 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Ricky Cantrell (auction winner).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Feb 2013 17:05:16 +0000</listdate>
+    <saledate>Tue, 26 Feb 2013 01:58:13 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>Quined Games Master Print edition, played a couple of times.
+ 
+Within Europe payment by bank transfer is preferred.
+Shipping costs: €6,75 for Netherlands, between €9,00 and €11,70 (depending on country) for the rest of Europe, €18,00 for Russia and the rest of the world.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Feb 2013 23:23:37 +0000</listdate>
+    <saledate>Tue, 05 Mar 2013 17:44:32 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>First edition. No more wear than what you_T_E_M_P_T_A_G_#039;re expecting. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Feb 2013 10:41:45 +0000</listdate>
+    <saledate>Fri, 01 Mar 2013 18:25:40 +0000</saledate>
+    <price currency='GBP'>24.01</price>
+    <condition>verygood</condition>
+    <notes>2nd edition. Played twice. Box and all components are in excellent condition.
+UK postage £5.99</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Feb 2013 00:02:08 +0000</listdate>
+    <saledate>Tue, 26 Feb 2013 03:25:59 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner aaurelio.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Mar 2013 01:40:34 +0000</listdate>
+    <saledate>Tue, 12 Mar 2013 02:33:04 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Auction win for eapeas</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Mar 2013 00:10:08 +0000</listdate>
+    <saledate>Fri, 29 Mar 2013 20:58:26 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>Brand new and sealed.  Second edition.
+If you purchase multiple games from me, I will be happy to combine the games together in one box to help you save on shipping costs.
+Local pickup is available around Camarillo, CA.
+Shipping and handling costs:
+- To US address: $12.30 for USPS Priority Mail
+- To Canada address: $40.95 for USPS Priority Mail
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Mar 2013 19:36:35 +0000</listdate>
+    <saledate>Tue, 26 Mar 2013 20:02:15 +0000</saledate>
+    <price currency='GBP'>24</price>
+    <condition>likenew</condition>
+    <notes>Game is punched and has extra player aids printed that have been laminated.
+Only played once and is in great condition.
+Postage in the UK will be £6. International buyers please feel free to contact me for a price for postage.
+Thanks for looking</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Apr 2013 19:17:06 +0000</listdate>
+    <saledate>Tue, 07 May 2013 13:55:03 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>This is the _T_E_M_P_T_A_G_quot;first printing_T_E_M_P_T_A_G_quot; version of Homesteaders.  It is in excellent and complete condition!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 May 2013 01:30:29 +0000</listdate>
+    <saledate>Mon, 06 May 2013 01:56:57 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>for jmsmith2434
+Thank you!!!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 May 2013 14:41:46 +0000</listdate>
+    <saledate>Wed, 15 May 2013 11:41:31 +0000</saledate>
+    <price currency='GBP'>29.95</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 May 2013 01:04:19 +0000</listdate>
+    <saledate>Sun, 19 May 2013 16:36:44 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>Brand New! 2nd Edition In Stock
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $10.95</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Jun 2013 22:24:18 +0000</listdate>
+    <saledate>Tue, 04 Jun 2013 23:51:05 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>reserved for illest503
+Paypal to tuneloon@comcast.net</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Jun 2013 18:12:45 +0000</listdate>
+    <saledate>Mon, 24 Jun 2013 19:41:22 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Reserved for matty348</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jul 2013 01:56:26 +0000</listdate>
+    <saledate>Thu, 27 Feb 2014 21:12:55 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>likenew</condition>
+    <notes>This is the English 1st edition.  The game is opened, punched but never played. Parts have been meticulously inventoried and bagged. Shipping in the US 12.35. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Jul 2013 18:23:36 +0000</listdate>
+    <saledate>Sun, 29 Sep 2013 17:06:28 +0000</saledate>
+    <price currency='USD'>38.95</price>
+    <condition>verygood</condition>
+    <notes>Austin, TX: 2nd Edition. Played a few times. One corner of box is dented. Otherwise, box and all components in Like New condition. Stored in a smoke free, pet free environment. Shipping US only $11.95. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Jul 2013 03:39:02 +0000</listdate>
+    <saledate>Fri, 19 Jul 2013 10:19:30 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>new</condition>
+    <notes>Reserved for Todd_22 (won in auction).
+Will send GeekMail with payment instructions. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Jul 2013 12:08:36 +0000</listdate>
+    <saledate>Wed, 31 Jul 2013 00:22:15 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>For Pale Horse. Won in WBC/Lancaster Board Gamer Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Aug 2013 01:10:15 +0000</listdate>
+    <saledate>Fri, 28 Feb 2014 20:48:07 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>likenew</condition>
+    <notes>Shrinkwrap removed and counters punched but otherwise perfect. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. I have many hundreds of games for sale and would be happy to combine shipping charges for multiple games to save you money. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Aug 2013 01:02:22 +0000</listdate>
+    <saledate>Sun, 18 Aug 2013 02:54:26 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>English second edition with the improved components. Complete. Punched and played once on a clean table with clean hands.
+The box and all components are in immaculate shape. This item comes from a smoke-free, pet-free, adult-only home and has been meticulously cared for. I am liquidating my collection before going on a long journey.
+I ship promptly and pack with loving care to ensure the game reaches you in the same condition it was when shipped. Shipping quote upon request. Combined shipping available, please browse my inventory! Local pickup available in Portland, Oregon.
+Serious inquiries only, please.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Aug 2013 00:53:00 +0000</listdate>
+    <saledate>Sun, 25 Aug 2013 00:57:59 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>paypal: andrewlarcher@hotmail.com
+shipping: TBD. probably a flat rate box. :)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Sep 2013 22:16:29 +0000</listdate>
+    <saledate>Mon, 23 Sep 2013 02:29:49 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>auction win reserved for Freedom Gunfire</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Oct 2013 04:49:03 +0000</listdate>
+    <saledate>Fri, 04 Oct 2013 15:59:59 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>Auction item for user RavGamer only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Oct 2013 03:18:24 +0000</listdate>
+    <saledate>Mon, 07 Oct 2013 12:26:26 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>acceptable</condition>
+    <notes>auction item for tcadams18</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Oct 2013 12:30:25 +0000</listdate>
+    <saledate>Tue, 25 Feb 2014 20:46:38 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes>I´m offering from the SPIEL 13 the Masterprint Version No. 8 from Quined. It´s new, unused and in shrink. Multilingual Edition with english, german, french and dutch rules.
+Bezahlung / Payment:
+- Deutschland: Überweisung
+- EU: euro bank transfer with IBAN and BIC (prefered) or paypal
+- Worldwide: PayPal 
+--------------------------
+Versandkosten / Shipping costs:
+- Deutschland: Bitte vorher erfragen.
+- EU:Please ask before buying.
+- Worldwide: please ask before buying.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Oct 2013 00:15:30 +0000</listdate>
+    <saledate>Mon, 04 Nov 2013 18:13:41 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>FOR USER texasgeoker ONLY
+Played Once. Opened, Completed.
+2nd Edition
+Note: I can deliver in person at BGG.con for $0 deliver costs.
+I will ship worldwide for actual shipping costs at the buyer_T_E_M_P_T_A_G_#039;s expense.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Nov 2013 20:59:09 +0000</listdate>
+    <saledate>Tue, 04 Feb 2014 02:14:56 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>1st edition, excellent condition!
+reserved for Todd Baker</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Nov 2013 16:01:21 +0000</listdate>
+    <saledate>Wed, 25 Dec 2013 23:27:38 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Components in great condition. One cowboy meeple has leg broken but it doesn_T_E_M_P_T_A_G_#039;t affect the game as there are more cowboy meeples provided than used.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Dec 2013 01:58:33 +0000</listdate>
+    <saledate>Mon, 02 Dec 2013 02:03:13 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This is for auction winner epicgamer ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Jan 2014 19:29:30 +0000</listdate>
+    <saledate>Thu, 02 Jan 2014 20:20:40 +0000</saledate>
+    <price currency='CAD'>25</price>
+    <condition>likenew</condition>
+    <notes>Tasty Minstrel edition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Jan 2014 02:02:32 +0000</listdate>
+    <saledate>Wed, 08 Jan 2014 12:17:06 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>gently used and complete
+Paypal and USA only
+buyer pays actual shipping from NY 11783</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jan 2014 05:44:35 +0000</listdate>
+    <saledate>Mon, 20 Jan 2014 15:01:16 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Dragonbear82</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Jan 2014 19:13:21 +0000</listdate>
+    <saledate>Thu, 06 Feb 2014 15:23:46 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>brand new Second Edition by Tasty Minstrel Games in shrink. ship USPS Priority Mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Feb 2014 15:42:33 +0000</listdate>
+    <saledate>Tue, 04 Feb 2014 05:47:14 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>likenew</condition>
+    <notes>Second Edition. Opened and punched but has never been played. Complete and great condition. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Feb 2014 08:27:06 +0000</listdate>
+    <saledate>Thu, 13 Mar 2014 09:06:31 +0000</saledate>
+    <price currency='GBP'>16.5</price>
+    <condition>good</condition>
+    <notes>English 1st edition in good condition. This is the original version with the slightly warped board but otherwise in very good condition, no mold issue with this copy!
+Lightly played. Bagged and Complete.
+Box has a small amount of shelf wear
+UK postage £5.00
+Courier for multiple games between £5.00 and £7.00
+Please contact me for international postage options
+Collection possible from West London
+Payment via bank transfer or paypal (buyer to add 5% towards paypal fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Feb 2014 20:21:02 +0000</listdate>
+    <saledate>Thu, 27 Feb 2014 01:00:16 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>likenew</condition>
+    <notes>Tasty Minstrel English 2nd edition, in excellent condition.  Shipping USPS from 48105.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Feb 2014 16:18:41 +0000</listdate>
+    <saledate>Fri, 08 Aug 2014 20:26:19 +0000</saledate>
+    <price currency='USD'>84.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+HOMESTEADERS 2ND EDITION: $84.95
+Tasty Minstrel [TTT 1002-2]
+* Game is in-shrink, but with minor box crinkle -- see pictures below.
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Mar 2014 01:45:51 +0000</listdate>
+    <saledate>Tue, 11 Mar 2014 03:12:15 +0000</saledate>
+    <price currency='USD'>51</price>
+    <condition>likenew</condition>
+    <notes>Item sold to user : xamsedel</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Mar 2014 04:18:21 +0000</listdate>
+    <saledate>Mon, 17 Mar 2014 15:33:56 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>For auction winner gen1400 only.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Apr 2014 19:17:12 +0000</listdate>
+    <saledate>Wed, 02 Apr 2014 21:30:09 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>likenew</condition>
+    <notes>This items is for sale only to BGG user DAAAN, who won it in an auction</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Apr 2014 13:52:24 +0000</listdate>
+    <saledate>Thu, 03 Apr 2014 15:02:25 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This is for Gecko23 only!!!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Apr 2014 23:26:28 +0000</listdate>
+    <saledate>Sat, 05 Apr 2014 20:31:43 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Previously opened but unplayed.  Re-shrinkwrapped for protection during shipping.
+$15 shipping to the contiguous U.S.  Please email for a shipping quote to anywhere else.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Apr 2014 01:23:25 +0000</listdate>
+    <saledate>Sun, 03 Aug 2014 17:25:33 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Second edition. Shrink removed, but completely unused, and all tile sheets unpunched.
+FREE SHIPPING (for CONUS only).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Apr 2014 18:32:40 +0000</listdate>
+    <saledate>Fri, 23 May 2014 06:19:50 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Tasty Minstrel Games, English Second Edition.
+Smoke-free, pet-free home.
+Via ship via USPS with tracking.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 May 2014 15:59:50 +0000</listdate>
+    <saledate>Sat, 16 Aug 2014 23:12:21 +0000</saledate>
+    <price currency='EUR'>44.99</price>
+    <condition>new</condition>
+    <notes>Homesteaders
+English second edition
+Publisher: Tasty Minstrel Games</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 May 2014 21:59:54 +0000</listdate>
+    <saledate>Thu, 25 Sep 2014 14:55:44 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>likenew</condition>
+    <notes>Like new. Box has been wrapped in see through protective foil.
+1st edition. No mold!! Plano box inside to hold all the pieces. 
+Ships TODAY !!! 
+Get $4 DISCOUNT. See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekmarket/user/greengow
+----- 0-9 -----
+1989
+303
+----- A -----
+American Rails
+Automobile
+----- B -----
+Bora Bora
+Bremerhaven
+----- C -----
+Cafe International: Das Kartenspiel
+Cavum
+Concordia
+----- E -----
+Express 01
+Europe Engulfed
+----- G -----
+Goa
+Greed Incorporated
+----- H -----
+Hippo Hopp
+Homesteaders
+----- I -----
+India Rails
+----- M -----
+Madeira
+Maly Ksiaze - The Little Prince
+Milestones
+Mount Everest
+----- N -----
+Navajo Wars
+Nottingham
+----- O -----
+Olympos
+One More Barrel
+----- P -----
+Packet Row
+Pantheon
+----- Q -----
+Quebec
+----- R -----
+Railways Express
+Railways of Europe
+Rialto
+Russian Railroads
+----- S -----
+Soccero
+Struggle of Empires
+----- T -----
+The New Era: Spiel 2011 Promo Pack 
+----- V -----
+Vampire Empire
+Vikings
+Vinhos</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jul 2014 04:25:25 +0000</listdate>
+    <saledate>Thu, 24 Jul 2014 04:30:40 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>likenew</condition>
+    <notes>Listing reserved for user JJL_WashDC, winner of geeklist auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Jul 2014 18:39:44 +0000</listdate>
+    <saledate>Sat, 09 Aug 2014 22:21:42 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Punched but unplayed.  First edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Sep 2014 10:38:01 +0000</listdate>
+    <saledate>Tue, 16 Sep 2014 06:28:59 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Sep 2014 04:31:47 +0000</listdate>
+    <saledate>Tue, 16 Sep 2014 15:46:17 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>Reserved for auction winner Twinado2k7.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Oct 2014 05:20:09 +0000</listdate>
+    <saledate>Mon, 06 Oct 2014 08:38:21 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/177328/item/3451693#3451693]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2014 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Aug 2014 15:58:40 +0000</listdate>
+    <saledate>Thu, 16 Oct 2014 19:09:27 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>2nd edition, new in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Oct 2014 17:46:33 +0000</listdate>
+    <saledate>Thu, 23 Oct 2014 19:44:50 +0000</saledate>
+    <price currency='USD'>77</price>
+    <condition>new</condition>
+    <notes>This item is reserved for auction winner DamnDirtyApe0
+This lot includes...
+Homesteaders
+Innovation
+De Vulgari Eloquentia</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Oct 2014 14:52:57 +0000</listdate>
+    <saledate>Mon, 03 Nov 2014 12:40:55 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>Never played. Will ship USPS flat rate med or priority box.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Nov 2014 21:27:18 +0000</listdate>
+    <saledate>Mon, 03 Nov 2014 23:20:36 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/178671/item/3480820#3480820]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2014_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+SOLD to Justin Timms (JTimmz). Includes Yin Yang.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Nov 2014 15:12:35 +0000</listdate>
+    <saledate>Mon, 03 Nov 2014 23:41:42 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/180894/item/3513110#3513110]Item for Geeklist _T_E_M_P_T_A_G_quot;Trimming My Collection Auction Ends: 08/2/2014_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+ FOR BraveSirPatrick Only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jun 2014 23:31:10 +0000</listdate>
+    <saledate>Tue, 11 Nov 2014 00:46:24 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Complete and in good condition. Some minor shelf wear.  Has plano box for sorting. 2nd Edition
+Buyer pays actual shipping. I primarily use USPS. Send me your postal code for an estimate (ships from 56087). Combined shipping available. Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Nov 2014 19:42:37 +0000</listdate>
+    <saledate>Fri, 21 Nov 2014 01:17:50 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>likenew</condition>
+    <notes>Played once--everything, including box like new.  Mailing will be 12.00 Priority--slightly cheaper if you are close to Michigan.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Nov 2014 15:36:56 +0000</listdate>
+    <saledate>Sun, 30 Nov 2014 22:41:45 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>2nd edition. Only played once or twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Dec 2014 01:41:16 +0000</listdate>
+    <saledate>Thu, 04 Dec 2014 13:34:04 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Reserved for the winner of The Collection Culling auction user tweber
+Shipping is $12.65 for medium flat rate. Payment to my paypal address of glgambill@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Dec 2014 07:39:29 +0000</listdate>
+    <saledate>Sat, 13 Dec 2014 19:39:44 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Quined edition, excellent condition
+Payment should be sent via family option on paypal</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Jan 2015 05:16:51 +0000</listdate>
+    <saledate>Sun, 04 Jan 2015 09:17:30 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Quined Masterprint Edition. Shipping to US via USPS Priority Mail ($12.65).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jan 2015 09:35:10 +0000</listdate>
+    <saledate>Sun, 25 Jan 2015 13:14:24 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Quined Games Masterprint Edition. Played a few times, in perfect condition.
+Shipping to Europe is 15 euros. Elsewhere, please ask!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jan 2015 08:16:32 +0000</listdate>
+    <saledate>Tue, 03 Feb 2015 01:30:19 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>DO NOT BUY unless you are sszy59</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Dec 2014 09:58:03 +0000</listdate>
+    <saledate>Mon, 16 Feb 2015 09:21:07 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>never played, just read the rules</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jan 2015 09:40:03 +0000</listdate>
+    <saledate>Tue, 24 Feb 2015 16:41:30 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Quined Masterprint Edition. Shipping to US via USPS Priority Mail ($12.65).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Feb 2015 15:45:54 +0000</listdate>
+    <saledate>Fri, 27 Feb 2015 17:31:49 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187335/item/3738350#3738350]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Mar 2015 19:33:58 +0000</listdate>
+    <saledate>Mon, 09 Mar 2015 05:20:48 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Mike Aust/mlaust10</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Mar 2015 01:04:11 +0000</listdate>
+    <saledate>Wed, 11 Mar 2015 01:11:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/188137/item/3768701#3768701]Item for Geeklist _T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_quot;The Purge_T_E_M_P_T_A_G_quot; Auction: 1999 Acquire, OOP, etc. w/ BINs and low reserves_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Jan 2015 10:26:22 +0000</listdate>
+    <saledate>Sat, 14 Mar 2015 07:28:13 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>Very good condition.
+Payable with bank transfer or paypal. Money transfer fees are on the buyer.
+Shippig costs:
+Germany: 5,99€ (
+EU: 8,79€ (10,99€ insured)
+Worldwide: 15,79€ (17,29€ insured)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Dec 2014 10:13:22 +0000</listdate>
+    <saledate>Tue, 24 Mar 2015 22:37:32 +0000</saledate>
+    <price currency='EUR'>27.5</price>
+    <condition>new</condition>
+    <notes>Quined Games Master Print version
+Shrinkwrapped and in stock
+ENG/DE/FR/NL language
+Within The Netherlands Euro 4,- per shipment (Kiala or DHL4you) or 6,75 per shipment (PostNL). 
+Shipment to Belgium by Kiala is Euro 7,50.
+For other shipment methods and/or destinations please inquire.
+Payment is possible by bank transfer or Paypal (costs +3%)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Mar 2015 07:03:24 +0000</listdate>
+    <saledate>Fri, 27 Mar 2015 12:54:35 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/188677/item/3792686#3792686]Item for Geeklist _T_E_M_P_T_A_G_quot;Everything Must Go - An Auction with a bit of Charity_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Mar 2015 19:49:32 +0000</listdate>
+    <saledate>Wed, 15 Apr 2015 03:03:15 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>First edition, with some mis-cut components replaced. Also mounted the auction board on thicker cardboard so it sucks less.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 May 2015 01:44:46 +0000</listdate>
+    <saledate>Mon, 04 May 2015 02:22:20 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190488/item/3867212#3867212]Item for Geeklist _T_E_M_P_T_A_G_quot;200 games, Pickup in STL/Geekway available, Ships From STL, Ends 4pm CDT Sunday May 3rd_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For wigwamking only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 May 2015 18:48:09 +0000</listdate>
+    <saledate>Sat, 09 May 2015 19:04:13 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190832/item/3880558#3880558]Item for Geeklist _T_E_M_P_T_A_G_quot;Springtime Auction! OOP and others US/CAN only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For user reddish22 only. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 May 2015 20:28:01 +0000</listdate>
+    <saledate>Tue, 12 May 2015 00:42:45 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>Thanks for bidding in my auction! Please leave a note in the checkout process if you want local pickup or if you have a business address you want to use if the package works out to be more than 4lbs.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/190671/item/3873530#3873530]Item for Geeklist _T_E_M_P_T_A_G_quot;Big Apple Auction 2: the sequel - Shipping from NYC or Local Pickup!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 May 2015 01:36:30 +0000</listdate>
+    <saledate>Fri, 29 May 2015 03:22:29 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191524/item/3910803#3910803]Item for Geeklist _T_E_M_P_T_A_G_quot;Spring Purge Auction - US Only - Origins pickup available. Some OOP games and promos including Glen More, Metropolys, King of Tokyo promo pack, and more._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 May 2015 04:19:10 +0000</listdate>
+    <saledate>Fri, 29 May 2015 09:37:25 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191144/item/3892539#3892539]Item for Geeklist _T_E_M_P_T_A_G_quot;The Great Game Purge of 2015: US Only, some OOP.  Ends 5/22_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Nov 2014 21:44:23 +0000</listdate>
+    <saledate>Fri, 29 May 2015 16:39:04 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This is the 2009 edition.
+Condition: Complete game (no missing pieces). All components in great condition. Rules have handwritten clarifications on them.
+Shipping _T_E_M_P_T_A_G_amp; Handling: Please, send me an e-mail and I will let you know about the cost.
+Payment: PayPal ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 May 2015 07:15:17 +0000</listdate>
+    <saledate>Fri, 05 Jun 2015 16:04:22 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Played twice. Box and components in excellent condition.
+Shipping: USPS 2-3 Day Priority Flat Rate $11.30</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Jun 2015 12:57:54 +0000</listdate>
+    <saledate>Sat, 27 Jun 2015 13:19:56 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>For Alandric.
+(Plus shipping for $52.)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jul 2015 05:58:57 +0000</listdate>
+    <saledate>Sat, 04 Jul 2015 06:20:23 +0000</saledate>
+    <price currency='USD'>41</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191048/item/3888256#3888256]Item for Geeklist _T_E_M_P_T_A_G_quot;Auctioning a Friend_T_E_M_P_T_A_G_#039;s Collection - More than 100 games for sale!!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+reserved for neverscene
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jul 2015 03:46:52 +0000</listdate>
+    <saledate>Thu, 16 Jul 2015 13:03:58 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193266/item/3987377#3987377]Item for Geeklist _T_E_M_P_T_A_G_quot;Dog Days of Summer Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Apr 2015 22:16:10 +0000</listdate>
+    <saledate>Fri, 17 Jul 2015 09:43:23 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>new</condition>
+    <notes>Terrific game of developing a Wild West town – starting with just a homestead. The key is winning the initial auctions each turn. I now have the European edition, which has a different box from the original, but the same contents.
+The price shown is for UK/EU purchasers (and includes VAT). For purchasers outside the EU, the price is £20.83 (net of UK tax - note that the purchaser is responsible for paying any duty or tax due on import to their country).
+I charge shipping at cost and I can offer several options (or ask me to get a quote from couriers).
+To UK addresses:
+myHermes (2-3 working days, tracked) £3.98
+Second class post (2-3 working days) £3.36
+First class post (1 working day) £6.54
+To other EU countries:
+Air mail (1 week or so) £14.77
+Outside the EU:
+Air mail in Europe (1 week or so) £12.31
+Air mail (about 1 week, no tracking) £19.60 (Australasia)/£18.05 (USA, Canada _T_E_M_P_T_A_G_amp; elsewhere)
+Surface mail (up to 8 weeks, no tracking) £12.11</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Aug 2015 23:00:35 +0000</listdate>
+    <saledate>Fri, 14 Aug 2015 04:50:42 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/195096/item/4063950#4063950]Item for Geeklist _T_E_M_P_T_A_G_quot;The Giant Auction of 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Aug 2015 04:24:27 +0000</listdate>
+    <saledate>Thu, 17 Sep 2015 00:16:07 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>for user clarkkent22 only from auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Sep 2015 10:22:48 +0000</listdate>
+    <saledate>Mon, 28 Sep 2015 03:58:43 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>The game:
+Quined Games (c) 2012.
+English, German, French and Dutch rules included!
+All game materials are still in mint condition.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within Germany I prefer the standard-bank-tranfer (IBAN). It is fast and causes no fees.
+Outside Germany Paypal and bank-transfer are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Sep 2015 02:52:50 +0000</listdate>
+    <saledate>Mon, 28 Sep 2015 22:24:31 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>for auction winner sandmanx82</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Sep 2015 23:22:01 +0000</listdate>
+    <saledate>Fri, 02 Oct 2015 23:50:34 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Will ship to US only using Flat Rate shipping ($12.65), paid by buyer.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Oct 2015 16:31:18 +0000</listdate>
+    <saledate>Wed, 21 Oct 2015 18:33:57 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194888/item/4208033#4208033]Item for Geeklist _T_E_M_P_T_A_G_quot;Ran out of unwitty things to say...just a new auction!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Feb 2015 13:33:22 +0000</listdate>
+    <saledate>Sun, 25 Oct 2015 13:52:25 +0000</saledate>
+    <price currency='GBP'>17</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Oct 2015 16:10:04 +0000</listdate>
+    <saledate>Mon, 26 Oct 2015 16:21:52 +0000</saledate>
+    <price currency='GBP'>12.99</price>
+    <condition>good</condition>
+    <notes>Post to UK only by recorded delivery £4.99 , paypal only</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Jul 2015 19:59:32 +0000</listdate>
+    <saledate>Wed, 04 Nov 2015 10:24:39 +0000</saledate>
+    <price currency='EUR'>32.5</price>
+    <condition>new</condition>
+    <notes>Quined Games Master Print version
+Shrinkwrapped and in stock
+ENG/DE/FR/NL language
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Jun 2013 17:57:34 +0000</listdate>
+    <saledate>Fri, 06 Nov 2015 10:08:56 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>new</condition>
+    <notes>English TMG 2nd edition
+In shrink
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         15 Euro
+PayPal plus 3 Euro
+Money transfer via IBAN/BIC preferred
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Nov 2015 14:28:39 +0000</listdate>
+    <saledate>Tue, 17 Nov 2015 20:27:56 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>likenew</condition>
+    <notes>This is in excellent condition. Domestic shipping is $13. Shipping to Canada is $60 and other international locations is $75. I ALWAYS combine shipping for multiple purchases at +$1.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2015 15:30:58 +0000</listdate>
+    <saledate>Tue, 15 Dec 2015 15:47:28 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>FOR:
+Ledric DATPHAM nhandinh (ledric)
+AUCTION:
+https://www.boardgamegeek.com/geeklist/199738/hey-lets-have-auction-ok-ok-ends-november-27-close
+INCLUDES:
+Homesteaders (22)
+Neuroshima Hex (Z-Man old edition with Babel 13) (16)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Nov 2015 15:41:56 +0000</listdate>
+    <saledate>Wed, 16 Dec 2015 19:39:55 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>Brand New .
+In Shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Dec 2015 00:53:16 +0000</listdate>
+    <saledate>Wed, 30 Dec 2015 05:39:29 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Oct 2015 08:20:49 +0000</listdate>
+    <saledate>Thu, 31 Dec 2015 02:47:25 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>reserved</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Dec 2015 03:00:08 +0000</listdate>
+    <saledate>Sat, 02 Jan 2016 03:12:37 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played a couple of times. No real damage noted to the box. Components look to be ok, though a few of the VP/money chits printed off center a little.
+Shipping through USPS probably flat rate shipping since it_T_E_M_P_T_A_G_#039;s usually cheaper.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Nov 2015 02:13:37 +0000</listdate>
+    <saledate>Tue, 12 Jan 2016 08:13:33 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>new</condition>
+    <notes>MISB. Brand new in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2015 23:38:37 +0000</listdate>
+    <saledate>Tue, 12 Jan 2016 18:05:54 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>New    12.00 shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Jan 2016 03:32:00 +0000</listdate>
+    <saledate>Tue, 26 Jan 2016 06:13:40 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/203827/item/4401924#4401924]Item for Geeklist _T_E_M_P_T_A_G_quot;Valentine_T_E_M_P_T_A_G_#039;s Auction (02327) USA/CAN_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jan 2016 14:15:17 +0000</listdate>
+    <saledate>Sat, 06 Feb 2016 15:29:15 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Unused.
+Non EU - Paypal accepted
+EU - SEPA (normal bank transfer)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jan 2016 01:03:27 +0000</listdate>
+    <saledate>Mon, 08 Feb 2016 00:28:21 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Punched but unplayed.
+This copy is first edition. However, it does NOT have any of the mildew issues that were seen with some copies of the first edition - some of us got lucky :)  I carefully inspected every component when I first bought it and again before listing it for sale in the BGG marketplace. The game is in great shape and has never been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Oct 2013 14:03:29 +0000</listdate>
+    <saledate>Mon, 15 Feb 2016 08:32:20 +0000</saledate>
+    <price currency='EUR'>34</price>
+    <condition>new</condition>
+    <notes>Quined Games - Homesteaders MASTER PRINT
+Language: English, German, French _T_E_M_P_T_A_G_amp; Dutch
+Players: 2-4
+Age: 12+
+Duration: about 90 min
+Weight: 1.690 kg
+New - mint condition - unopened - still in shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Feb 2016 21:58:06 +0000</listdate>
+    <saledate>Sat, 27 Feb 2016 21:05:41 +0000</saledate>
+    <price currency='USD'>49.32</price>
+    <condition>verygood</condition>
+    <notes>Edition: English second edition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 01:41:15 +0000</listdate>
+    <saledate>Tue, 15 Mar 2016 18:28:42 +0000</saledate>
+    <price currency='USD'>42.6</price>
+    <condition>likenew</condition>
+    <notes>Like new, played once. Shipping not included. Local pickup Free in San Francisco (CA) or South bay.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Mar 2016 23:01:24 +0000</listdate>
+    <saledate>Fri, 01 Apr 2016 01:53:43 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/206792/item/4533566#4533566]Item for Geeklist _T_E_M_P_T_A_G_quot;Help me regain space on my shelves to move the games piled on my table back on my shelves so I can regain table space to actually play games Auction - Cont. US ONLY_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for solarisphase</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Sep 2015 06:30:38 +0000</listdate>
+    <saledate>Mon, 04 Apr 2016 19:47:34 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Apr 2016 01:42:29 +0000</listdate>
+    <saledate>Wed, 20 Apr 2016 15:21:57 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Some off center chits.
+Previous owner wrote their name in the lid.
+No damage to the box.
+The worn look adds to the rustic theme.
+Any questions please ask.
+non-smoker</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Apr 2016 23:25:22 +0000</listdate>
+    <saledate>Sun, 24 Apr 2016 23:13:54 +0000</saledate>
+    <price currency='USD'>46.99</price>
+    <condition>likenew</condition>
+    <notes>Immaculate, inside and out, virtually new.  Only played a few times, gently.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 May 2016 17:24:17 +0000</listdate>
+    <saledate>Mon, 16 May 2016 16:58:09 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>We are a smoke-, pet-, and kid-free household. Shipping is via USPS Priority Mail Medium Flat Rate Box 2 at $13.45.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Apr 2016 01:05:35 +0000</listdate>
+    <saledate>Thu, 19 May 2016 03:13:59 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>likenew</condition>
+    <notes>Box and components are in Like New condition.  Insert was discarded, and components are organized in a Plano box.
+Shipping weight is about three pounds.  Shipping is $8 to buyers East of the Mississippi, and $12.25 to buyers west of the Mississippi.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 May 2016 20:08:53 +0000</listdate>
+    <saledate>Mon, 23 May 2016 22:09:44 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Played only once.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jun 2016 02:45:06 +0000</listdate>
+    <saledate>Mon, 20 Jun 2016 02:53:12 +0000</saledate>
+    <price currency='USD'>104</price>
+    <condition>verygood</condition>
+    <notes>For user Matt62702 only.
+Includes:
+Homesteaders
+Legendary metal coins (4 sets)
+Vivajava promo
+This sale has been auto-generated for the auction: [geekurl=/geeklist/209126/item/4642405#4642405]Item for Geeklist _T_E_M_P_T_A_G_quot;Let_T_E_M_P_T_A_G_#039;s Clear the Shelves OOP, promos, etc US/CAN only ends 6/19_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Jun 2016 18:18:17 +0000</listdate>
+    <saledate>Sun, 26 Jun 2016 08:43:26 +0000</saledate>
+    <price currency='GBP'>13</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/210261/item/4693396#4693396]Item for Geeklist _T_E_M_P_T_A_G_quot;[UK/Europe] FIFTH AUCTION IN MY 2016 CHALLENGE_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 May 2016 07:10:04 +0000</listdate>
+    <saledate>Mon, 18 Jul 2016 05:02:10 +0000</saledate>
+    <price currency='EUR'>41.99</price>
+    <condition>new</condition>
+    <notes>Game: Homesteaders (Edizione Multilingua)
+Languages: UK, DE, FR, NL
+Condition: New
+Weight range: 1500 - 2000g 
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express]
+o 500-999g: 6,99€[Economy], 18,99€[Express]
+o 1000-1499g: 9,99€[Economy], 21,99€[Express]
+o 1500-2000g: 11,99€[Economy], 24,99€[Express]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express]
+o 500-999g: 6,99€[Economy], 12,99€[Express]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 34,99€[Express]
+o 500-999g: 6,99€[Economy], 36,99€[Express]
+o 1000-1499g: 9,99€[Economy], 39,99€[Express]
+o 1500-2000g: 11,99€[Economy], 42,99€[Express]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 17,99€[Standard]
+o 500-999g: 17,99€[Standard]
+o 1000-1499g: 17,99€[Standard]
+o 1500-2000g: 17,99€[Standard]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 12,99€[Standard]
+o 500-999g: 6,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 12,99€[Standard]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 17,99€[Standard]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 6,99€[Economy]
+o 500-999g: 4,99€[Corriere], 8,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 10,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Express], 9,99€[Standard]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 12,99€[Express]
+o 1000-1499g: 10,99€[Economy], 14,99€[Standard], 16,99€[Express]
+o 1500-2000g: 12,99€[Economy], 14,99€[Standard], 19,99€[Express]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 17,99€[Standard]
+o 500-999g: 8,99€[Economy], 17,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 17,99€[Standard]
+o 1500-2000g: 12,99€[Economy], 17,99€[Standard]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 12,99€[Standard]
+o 500-999g: 8,99€[Economy], 12,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 12,99€[Standard]
+o 1500-2000g: 12,99€[Standard]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[#]5ML4j9m28/JSQ9zUhAL3RG2vHiO8tBQ8akbC/38bzag=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Feb 2016 13:35:56 +0000</listdate>
+    <saledate>Tue, 26 Jul 2016 19:24:35 +0000</saledate>
+    <price currency='EUR'>32.5</price>
+    <condition>new</condition>
+    <notes>Quined Games Master Print version
+Shrinkwrapped and in stock
+ENG/DE/FR/NL language
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Aug 2016 03:09:43 +0000</listdate>
+    <saledate>Sat, 06 Aug 2016 03:11:01 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/211696/item/4759175#4759175]Item for Geeklist _T_E_M_P_T_A_G_quot;Summer Auction, Tokaido CE, Carson City Big Box. US Only (Ends 5 Aug)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for feldfan2014. Shipping will be $13.45 via USPS Priority Mail.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Feb 2016 20:35:46 +0000</listdate>
+    <saledate>Tue, 09 Aug 2016 18:00:04 +0000</saledate>
+    <price currency='EUR'>34</price>
+    <condition>new</condition>
+    <notes>Game weight: 1.690 kg</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 May 2016 22:12:31 +0000</listdate>
+    <saledate>Thu, 18 Aug 2016 01:22:49 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Sep 2016 21:57:06 +0000</listdate>
+    <saledate>Fri, 16 Sep 2016 18:13:39 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 May 2016 20:00:16 +0000</listdate>
+    <saledate>Mon, 19 Sep 2016 00:22:04 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Sep 2016 02:33:58 +0000</listdate>
+    <saledate>Thu, 29 Sep 2016 06:43:22 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR JOE DAGOSTINO AT $20.00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Oct 2016 05:44:51 +0000</listdate>
+    <saledate>Sat, 01 Oct 2016 16:57:47 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>RESERVED for markbesada
+This sale has been auto-generated for the auction: [geekurl=/geeklist/208485/item/4901913#4901913]Item for Geeklist _T_E_M_P_T_A_G_quot;ct5150_T_E_M_P_T_A_G_#039;s 6th Auction - Keep Shipping Costs LOW - US only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+RESERVED for markbesada</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Oct 2016 16:41:39 +0000</listdate>
+    <saledate>Mon, 03 Oct 2016 18:47:22 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214736/item/4907059#4907059]Item for Geeklist _T_E_M_P_T_A_G_quot;Geeklist Auction 3 of many - shipping from Seattle - ends 10/2_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Apr 2016 03:54:21 +0000</listdate>
+    <saledate>Thu, 06 Oct 2016 12:21:08 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Shipping is $13.45 within the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Oct 2016 16:35:22 +0000</listdate>
+    <saledate>Thu, 20 Oct 2016 19:27:35 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for Lee Xie.
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Lee, please contact me to arrange a date to pick up. Thanks!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2016 13:56:20 +0000</listdate>
+    <saledate>Sat, 29 Oct 2016 22:31:19 +0000</saledate>
+    <price currency='CAD'>49</price>
+    <condition>verygood</condition>
+    <notes>2nd Edition. Played around 10 times, in very good condition. A couple notes:
+- Some counters are offset (a common printing error in this edition)
+- One or two wooden pieces are oddly shaped (a printing error)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Nov 2016 00:10:27 +0000</listdate>
+    <saledate>Sat, 12 Nov 2016 00:34:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>For casualgod</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Nov 2016 06:21:21 +0000</listdate>
+    <saledate>Tue, 15 Nov 2016 15:17:55 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/216692/item/5009702#5009702]Item for Geeklist _T_E_M_P_T_A_G_quot;Just Another Fall Auction (With a bunch of great games!) Ends Nov 14th. (US Only)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Aug 2015 06:03:17 +0000</listdate>
+    <saledate>Wed, 23 Nov 2016 16:54:09 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Nov 2016 16:48:09 +0000</listdate>
+    <saledate>Thu, 01 Dec 2016 18:25:47 +0000</saledate>
+    <price currency='USD'>44.98</price>
+    <condition>verygood</condition>
+    <notes>Edition: English first edition</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Apr 2015 22:16:10 +0000</listdate>
+    <saledate>Wed, 07 Dec 2016 18:55:42 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>new</condition>
+    <notes>Terrific game of developing a Wild West town – starting with just a homestead. The key is winning the initial auctions each turn. I now have the European edition, which has a different box from the original, but the same contents.
+The price shown is for UK/EU purchasers (and includes VAT). For purchasers outside the EU, the price is £20.83 (net of UK tax - note that the purchaser is responsible for paying any duty or tax due on import to their country).
+I charge shipping at cost, as follows.
+  UK addresses: £4.30 (myHermes, takes 3 working days, tracked) 
+  Other EU countries: £14.76 (Air mail, takes 1 week or so, not tracked)
+  Europe outside the EU: £12.30 (Air mail, takes 1 week or so, not tracked)
+  Australasia: £19.60 (Air mail, takes 1 week or so, not tracked)
+  USA, Canada _T_E_M_P_T_A_G_amp; elsewhere: £18.05 (Air mail, takes 1 week or so, not tracked)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Apr 2015 22:16:10 +0000</listdate>
+    <saledate>Tue, 27 Dec 2016 17:17:54 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>new</condition>
+    <notes>Terrific game of developing a Wild West town – starting with just a homestead. The key is winning the initial auctions each turn. I now have the European edition, which has a different box from the original, but the same contents.
+The price shown is for UK/EU purchasers (and includes VAT). For purchasers outside the EU, the price is £20.83 (net of UK tax - note that the purchaser is responsible for paying any duty or tax due on import to their country).
+I charge shipping at cost, as follows.
+  UK addresses: £4.30 (myHermes, takes 3 working days, tracked) 
+  Other EU countries: £14.76 (Air mail, takes 1 week or so, not tracked)
+  Europe outside the EU: £12.30 (Air mail, takes 1 week or so, not tracked)
+  Australasia: £19.60 (Air mail, takes 1 week or so, not tracked)
+  USA, Canada _T_E_M_P_T_A_G_amp; elsewhere: £18.05 (Air mail, takes 1 week or so, not tracked)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Dec 2016 21:46:27 +0000</listdate>
+    <saledate>Sun, 01 Jan 2017 04:25:07 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>The game is brand new, unopened and still in shrink.
+CONDITION
+• Please ask any questions before buying and I will respond as quickly as I can.
+• All items come from a smoke-free home.
+• Over 300+ 100% positive eBay feedback as user dkokoska
+PAYMENT
+• I accept only PayPal. Please let me know your PayPal address and I can send you an invoice.
+• Verified PayPal user
+SHIPPING
+• Shipping is $12 via USPS Priority Mail (actual cost of a medium-sized box)
+• U.S. buyers only.
+• I will ship same or next day after payment.
+• Lots of games for sale and I will combine shipping for multiple games.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jan 2017 17:52:16 +0000</listdate>
+    <saledate>Sun, 01 Jan 2017 18:47:45 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>good</condition>
+    <notes>Hello! I_T_E_M_P_T_A_G_#039;m selling my copy of Homesteaders. Please refer to the Photos. It_T_E_M_P_T_A_G_#039;s got some shelf wear and the contents has a few imperfections.  It_T_E_M_P_T_A_G_#039;s a great game but I_T_E_M_P_T_A_G_#039;m having a clear out of board games because I_T_E_M_P_T_A_G_#039;m moving. 
+I will ship to the UK only 
+P_T_E_M_P_T_A_G_amp;P 5
+Non smoking house.
+Thank you for looking and please have a look at my other games up for sale. Have a great day!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Jan 2017 15:55:17 +0000</listdate>
+    <saledate>Mon, 09 Jan 2017 17:26:36 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/219088/item/5104981#5104981]Item for Geeklist _T_E_M_P_T_A_G_quot;New Year_T_E_M_P_T_A_G_#039;s Auction! (US Only) Ends Jan 7 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+** Offer valid only for chundar **
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jan 2017 16:43:07 +0000</listdate>
+    <saledate>Mon, 23 Jan 2017 23:18:53 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>good</condition>
+    <notes>Sold to moosh21 through Happy New Year Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Dec 2016 11:14:39 +0000</listdate>
+    <saledate>Fri, 17 Feb 2017 13:07:03 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>new</condition>
+    <notes>Quined Masterprint Series. New and in shrink!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jan 2017 05:41:49 +0000</listdate>
+    <saledate>Mon, 27 Feb 2017 17:59:26 +0000</saledate>
+    <price currency='USD'>45.81</price>
+    <condition>verygood</condition>
+    <notes>Edition: English second edition</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jan 2017 03:36:09 +0000</listdate>
+    <saledate>Sun, 30 Apr 2017 18:35:17 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Played once or twice, includes storage containers for bits. Very minor dishing on box top. English second edition (2011) Tasty Minstrel Games
+Click image for larger version(s)
+[ImageID=3335142 inline] [ImageID=3335143 inline] [ImageID=3335144 inline]</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 May 2017 15:32:55 +0000</listdate>
+    <saledate>Mon, 15 May 2017 09:59:35 +0000</saledate>
+    <price currency='EUR'>41</price>
+    <condition>new</condition>
+    <notes>Masterprint edition</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Nov 2015 18:46:46 +0000</listdate>
+    <saledate>Wed, 07 Jun 2017 19:21:52 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Game punched but not played.
+Shipping (to UK only) will be at cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jun 2017 00:08:11 +0000</listdate>
+    <saledate>Sat, 17 Jun 2017 07:20:44 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+Add $12 for shipping, or save on shipping by ordering other items that I have for sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Jun 2017 16:36:45 +0000</listdate>
+    <saledate>Wed, 21 Jun 2017 11:13:07 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Played less than 10 times.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Jun 2017 15:07:57 +0000</listdate>
+    <saledate>Mon, 07 Aug 2017 20:43:39 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Like New - All bits and tiles stored in plastic containers for fast and easy setup.
+Ships from 27518</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Jun 2017 14:33:11 +0000</listdate>
+    <saledate>Sun, 13 Aug 2017 01:02:53 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Played 4 times but in excellent condition.  Non smoking pet free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Aug 2017 21:01:42 +0000</listdate>
+    <saledate>Sun, 20 Aug 2017 21:56:45 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228489/item/5541643#5541643]Item for Geeklist _T_E_M_P_T_A_G_quot;(CLOSED) No Room for Summer Auction - Ends Aug. 19th_T_E_M_P_T_A_G_quot; [/geekurl]
+Reserved for Dorkboy.  Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Aug 2017 22:47:38 +0000</listdate>
+    <saledate>Mon, 28 Aug 2017 13:35:21 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229061/item/5572778#5572778]Item for Geeklist _T_E_M_P_T_A_G_quot;Hobbes_T_E_M_P_T_A_G_#039; Massive Bloodletting Auction -- Ends TODAY!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Aug 2017 04:57:14 +0000</listdate>
+    <saledate>Sat, 02 Sep 2017 06:36:26 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229117/item/5575377#5575377]Item for Geeklist _T_E_M_P_T_A_G_quot;BIG AUCTION: Runebound Lot (2st Ed.), Splotter and Fragor Games, OOPs, and Much More!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Sep 2017 20:12:59 +0000</listdate>
+    <saledate>Wed, 27 Sep 2017 20:44:38 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229552/item/5654198#5654198]Item for Geeklist _T_E_M_P_T_A_G_quot;Over 100 Games, Low Reserves, Flat shipping... Auction!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Oct 2017 15:14:26 +0000</listdate>
+    <saledate>Mon, 09 Oct 2017 18:54:05 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>for BGG User PovertiDonki ONLY via BGG Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Oct 2017 21:01:16 +0000</listdate>
+    <saledate>Thu, 12 Oct 2017 21:57:19 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Auction winnings for Tony Hamen.
++$13.75 shipping comes to $53.75 total.
+Paypal is sirransellot@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Apr 2017 22:53:34 +0000</listdate>
+    <saledate>Fri, 24 Nov 2017 02:49:26 +0000</saledate>
+    <price currency='USD'>47</price>
+    <condition>verygood</condition>
+    <notes>_T_E_M_P_T_A_G_gt; Shipping $15 for USPS Priority
+_T_E_M_P_T_A_G_gt; Buyer also pays +3% for PayPal fee if you use the _T_E_M_P_T_A_G_#039;business_T_E_M_P_T_A_G_#039; option</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Dec 2017 18:27:26 +0000</listdate>
+    <saledate>Mon, 11 Dec 2017 18:57:49 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>For Auction winner Tecamagus only!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Dec 2017 13:17:17 +0000</listdate>
+    <saledate>Sun, 17 Dec 2017 13:31:55 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/233833/item/5811983#5811983]Item for Geeklist _T_E_M_P_T_A_G_quot;Northern Indiana Auction - Many with  $1 initial bids_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jan 2018 16:43:42 +0000</listdate>
+    <saledate>Tue, 02 Jan 2018 17:02:41 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>new</condition>
+    <notes>Reserved for auction winner Mad Maestro
+2nd edition, New in shrink.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/234837/item/5853738#5853738]Item for Geeklist _T_E_M_P_T_A_G_quot;So I lied, just one more auction. Spend some of that Christmas cash. All items start at a whopping $1, and NO BIN.  Auction ends Jan 1st **ENDS TONIGHT**_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Dec 2017 03:53:55 +0000</listdate>
+    <saledate>Tue, 16 Jan 2018 16:52:21 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>All present and accounted for.  Minor shelf wear.  No mold.
+Buyer pays shipping from 46506</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jan 2018 05:34:14 +0000</listdate>
+    <saledate>Thu, 25 Jan 2018 02:35:42 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>good</condition>
+    <notes>The box is a little dinged up with a split corner, but is otherwise sound.  The game looks unplayed and is partially unpunched.  The auction board is a little dinged up but useable.  Estimated shipping of $13.60.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Feb 2018 11:18:00 +0000</listdate>
+    <saledate>Sun, 18 Feb 2018 00:47:56 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Mar 2018 13:07:30 +0000</listdate>
+    <saledate>Sun, 04 Mar 2018 13:11:25 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238004/item/5981406#5981406]Item for Geeklist _T_E_M_P_T_A_G_quot;Lakoda Liquidates II_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Apr 2018 01:40:17 +0000</listdate>
+    <saledate>Fri, 06 Apr 2018 01:45:28 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>For auction winner plmokn974 only</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Feb 2018 17:17:33 +0000</listdate>
+    <saledate>Wed, 18 Apr 2018 00:45:56 +0000</saledate>
+    <price currency='USD'>32.49</price>
+    <condition>verygood</condition>
+    <notes>There is a small area of peeling on one edge of the lid (see image)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 May 2018 21:51:16 +0000</listdate>
+    <saledate>Sat, 05 May 2018 12:09:00 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>auction win for kamchatka
+homesteaders (10) + Struggle of Empires (6)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 May 2018 21:32:29 +0000</listdate>
+    <saledate>Sun, 06 May 2018 15:42:50 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Mar 2018 19:15:08 +0000</listdate>
+    <saledate>Tue, 08 May 2018 10:27:04 +0000</saledate>
+    <price currency='GBP'>18.99</price>
+    <condition>likenew</condition>
+    <notes>Please request postage prior to purchase ...
+Payment by Paypal only thank you ...</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 May 2018 04:58:22 +0000</listdate>
+    <saledate>Tue, 05 Jun 2018 18:44:27 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Will be shipped with USPS flat rate $14 from 90034.
+Local pick up available.
+Combined shipping unavailable.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jun 2018 19:02:45 +0000</listdate>
+    <saledate>Wed, 20 Jun 2018 15:14:06 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>HR18-33</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jul 2018 02:15:01 +0000</listdate>
+    <saledate>Tue, 17 Jul 2018 02:41:54 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/181254/item/6242377#6242377]Item for Geeklist _T_E_M_P_T_A_G_quot;My First Auction - US Only - Ends July 15, 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jun 2018 05:41:11 +0000</listdate>
+    <saledate>Tue, 17 Jul 2018 06:32:14 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jul 2018 01:01:32 +0000</listdate>
+    <saledate>Tue, 31 Jul 2018 01:42:43 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Also includes Luna and Russian Railroads
+This sale has been auto-generated for the auction: [geekurl=/geeklist/243459/item/6256519#6256519]Item for Geeklist _T_E_M_P_T_A_G_quot;Giant Purge!  GENCON Pickup Available - US Shipping Only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Aug 2018 15:48:14 +0000</listdate>
+    <saledate>Fri, 28 Sep 2018 12:06:45 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Ask for shipping cost if you are interested.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Oct 2018 18:26:09 +0000</listdate>
+    <saledate>Fri, 26 Oct 2018 17:36:45 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>no 1st edition issues</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Oct 2018 20:34:29 +0000</listdate>
+    <saledate>Sat, 03 Nov 2018 04:31:33 +0000</saledate>
+    <price currency='USD'>48.99</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Nov 2018 13:49:09 +0000</listdate>
+    <saledate>Sat, 01 Dec 2018 06:25:51 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/247505/item/6541317#6541317]Item for Geeklist _T_E_M_P_T_A_G_quot;Fall-Winter 2018 Auction with Rolling Discounts_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Aug 2018 19:18:09 +0000</listdate>
+    <saledate>Mon, 03 Dec 2018 16:13:49 +0000</saledate>
+    <price currency='USD'>89.45</price>
+    <condition>new</condition>
+    <notes>Preorder: Expected Delivery Q1 2019
+$12.99 Shipping to US
+This bundle includes everything from the Homesteaders Anniversary Edition Plus Expansion Kickstarter Pledge.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Sep 2018 02:42:30 +0000</listdate>
+    <saledate>Mon, 17 Dec 2018 18:32:37 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays actual shipping via USPS, UPS, or FedEx. Shipping from Chicago, IL, USA. Local pickup is available.
+Shipping to other countries is expensive. It could be as much as $30-$60+ depending on where it_T_E_M_P_T_A_G_#039;s going and the weight of package. Please feel free to message me about the shipping cost before buying. 
+PayPal, Zelle, or Venmo, or message me if you prefer another online method and I_T_E_M_P_T_A_G_#039;ll look into it.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Jan 2018 14:17:02 +0000</listdate>
+    <saledate>Tue, 18 Dec 2018 06:30:03 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>verygood</condition>
+    <notes>Paypal: +1,5€ for fees</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jan 2019 03:11:52 +0000</listdate>
+    <saledate>Mon, 14 Jan 2019 13:51:57 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/249622/item/6587631#6587631]Item for Geeklist _T_E_M_P_T_A_G_quot;Post-Holiday Space-Clearing Auction [US preferred, ends 1/11]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Aug 2018 19:18:09 +0000</listdate>
+    <saledate>Sat, 19 Jan 2019 07:51:00 +0000</saledate>
+    <price currency='USD'>89.45</price>
+    <condition>new</condition>
+    <notes>Preorder: Expected Delivery Q1 2019
+$12.99 Shipping to US
+This bundle includes everything from the Homesteaders Anniversary Edition Plus Expansion Kickstarter Pledge.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Feb 2019 13:38:30 +0000</listdate>
+    <saledate>Mon, 18 Feb 2019 12:30:08 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>good</condition>
+    <notes>Uk postage £5</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Oct 2018 18:52:19 +0000</listdate>
+    <saledate>Mon, 04 Mar 2019 16:04:30 +0000</saledate>
+    <price currency='EUR'>27.9</price>
+    <condition>likenew</condition>
+    <notes>Played twice.
+1200 g</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Feb 2019 17:51:06 +0000</listdate>
+    <saledate>Tue, 05 Mar 2019 19:42:20 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>in mint condition - shipping $10</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Aug 2018 14:41:24 +0000</listdate>
+    <saledate>Tue, 12 Mar 2019 10:02:08 +0000</saledate>
+    <price currency='EUR'>33</price>
+    <condition>likenew</condition>
+    <notes>E18-8</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

@@ -1,0 +1,1491 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="5620">
+   <yearpublished>1984</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>360</playingtime>
+   <minplaytime>360</minplaytime>
+   <maxplaytime>360</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Vietnam 1965-1975</name>
+         
+   <description>This simulation game re-creates one of the longest, most complex, and least understood conflicts in US history in all of its military and political aspects._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The rules include detailed treatment of movement, terrain, search and destroy operations, special operations, firepower, air mobility, riverines, brigade-level formations, limited intelligence and auxiliary units in each scenario.  The scenarios start out small with Operation Starlite, and slowly build in complexity, introducing more rules, until the entire Campaign Scenario which covers the entire war from 1965 to 1975 and introduces South Vietnamese politics, morale and commitment, strategic bombing, reinforcements, and pacification._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Unit counters are Battalion and Regiment size._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/Gh3NAH-rLHjqkxepkSTQaU6E1Hw=/fit-in/200x150/pic148009.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/20zRni7QNIunT3wPBQ2x6EBWees=/0x0/pic148009.jpg</image>
+      
+            <boardgamehonor objectid="22097">1984 Charles S. Roberts Best Graphic Presentation in an Adventure Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="22098">1984 Charles S. Roberts Best Graphic Presentation in an Adventure Game Winner</boardgamehonor>
+               <boardgamehonor objectid="10922">1984 Charles S. Roberts Best Twentieth Century Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="10917">1984 Charles S. Roberts Best Twentieth Century Game Winner</boardgamehonor>
+                      <boardgamefamily objectid="10618">Country: Vietnam</boardgamefamily>
+               <boardgameversion objectid="28461">First edition</boardgameversion>
+               <boardgamepodcastepisode objectid="214173">GrogCast Season 5 Episode 12 – A Cast of Many</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="79662">Guns, Dice, Butter: Episode IV: May 11, 2012</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+                             <boardgamedesigner objectid="1339">Nick Karp</boardgamedesigner>
+               <boardgameartist objectid="15063">Ted Koller</boardgameartist>
+               <boardgamecategory objectid="1069">Modern Warfare</boardgamecategory>
+                      <boardgamemechanic objectid="2016">Secret Unit Deployment</boardgamemechanic>
+               <boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+               <boardgameartist objectid="13649">James Talbot</boardgameartist>
+               <boardgamepublisher objectid="123">Victory Games (I)</boardgamepublisher>
+                             <boardgamecategory objectid="1109">Vietnam War</boardgamecategory>
+                                    <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="14" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="8">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="4" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="2" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+   <results>  
+     <result value="2" numvotes="1" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="8" />
+     <result value="16" numvotes="1" />
+     <result value="18" numvotes="1" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>607</usersrated>
+     <average>7.42409</average>
+     <bayesaverage>6.07791</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1909" bayesaverage="6.07791" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="169" bayesaverage="6.93721" />
+            
+           </ranks>
+     
+     <stddev>1.60266</stddev>
+     <median>0</median>
+     <owned>1808</owned>
+     <trading>67</trading>
+     <wanting>54</wanting>
+     <wishing>181</wishing>
+     <numcomments>281</numcomments>
+     <numweights>121</numweights>
+     <averageweight>4.2645</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 15 Aug 2003 13:36:54 +0000</listdate>
+    <saledate>Fri, 19 Sep 2003 16:42:31 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>English rules.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Nov 2003 23:03:31 +0000</listdate>
+    <saledate>Mon, 12 Jul 2004 23:20:26 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Punched and complete.  All game components are in very good condition, with the box showing light wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Jun 2004 16:48:26 +0000</listdate>
+    <saledate>Wed, 20 Oct 2004 06:50:00 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>I accept PayPal and if you are in the UK cheques and PO also.
+Buyer to pay all shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Dec 2004 03:54:05 +0000</listdate>
+    <saledate>Mon, 06 Dec 2004 03:54:06 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Apr 2005 20:45:25 +0000</listdate>
+    <saledate>Sat, 23 Dec 2006 21:43:40 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>good</condition>
+    <notes>Have not counted all counters recently, but when bought and played a couple of games I had all of the counters. All counters punched and in plastic baggies
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2005 02:23:12 +0000</listdate>
+    <saledate>Tue, 13 Dec 2005 02:09:38 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Punched. Lovingly played and packed. Game map and all other components are present. The box is in good condition (scuffed corners from storage, no splits).
+Will ship a day or so after I receive your payment and $7.50 for USPS Parcel (actual charges if Non-US address).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Feb 2006 21:54:07 +0000</listdate>
+    <saledate>Wed, 29 Mar 2006 15:50:16 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Unpunched and complete.  Beautiful copy, the only flaws here are a razor thin scratch on the lid right down the middle and a few of the counters have fallen off the sprues (That_T_E_M_P_T_A_G_#039;s a sign of good counters!  It minimizes the fraggies big time).
+Email me at danger-mouse@comcast.net with any questions.
+Actual shipping costs plus $1.50 handling.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Jun 2006 01:45:45 +0000</listdate>
+    <saledate>Thu, 08 Jun 2006 13:17:05 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Punched copy - presumed to be complete. Excellent condition - apparently unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Jul 2006 13:45:01 +0000</listdate>
+    <saledate>Mon, 17 Jul 2006 15:14:55 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Reserved for: Jorge del Moral (JDMHAI) </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Sep 2006 11:06:30 +0000</listdate>
+    <saledate>Tue, 26 Sep 2006 21:12:00 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>acceptable</condition>
+    <notes>small damage to the box
+map and pieces (none missing) are in good condition
+only the dice are missing</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Mar 2007 20:17:27 +0000</listdate>
+    <saledate>Fri, 22 Jun 2007 09:40:02 +0000</saledate>
+    <price currency='GBP'>24</price>
+    <condition>verygood</condition>
+    <notes>VG: Vietnam 1965-1975 
+General: 100% complete and in very good condition 
+Box: Some rubbing on the corners, very goods condition.
+Maps: 2 large map sheets all in very good condition some 
+Counters: 780 all checked and bagged by type, two are replacements
+Rules: A4 size rule book 48 pages very good condition
+Dice: two original  D6
+Weight: 1000g packed
+Extras: Articles on
+Finding the tunnels light
+Hunting the Vietcong
+The marines alternative
+Vietnam strategy
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Mar 2007 01:09:44 +0000</listdate>
+    <saledate>Tue, 24 Apr 2007 04:35:38 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Still in shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Sep 2007 15:40:39 +0000</listdate>
+    <saledate>Fri, 23 May 2008 17:01:39 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>good</condition>
+    <notes>Played a few times.   Box has shelf wear.   
+US buyer agrees to pay $10 for USPS Priority Mail shipping with delivery confirmation.   International buyers please contact me regarding shipping before purchasing.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Apr 2008 23:39:33 +0000</listdate>
+    <saledate>Fri, 04 Apr 2008 12:28:07 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Box shows moderate wear - all charts present and in good condition with extra photocopies of logs. Maps in very good condition. Countermix is missing two generic infantry battalions - one ARVN and one VC...so it is still a fair fight. Feel free to Geekmail me with any questions.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Apr 2008 10:53:45 +0000</listdate>
+    <saledate>Sat, 03 May 2008 14:26:14 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>good</condition>
+    <notes>Contents are good condition. But counters are uncounted, just too many there to go through. hence price</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jun 2008 13:22:33 +0000</listdate>
+    <saledate>Fri, 14 Nov 2008 21:46:00 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Punched, complete (except for missing the 5 blank counters).  There is some light highlighting in the rules.  Everything is in very good condition.  NOTE: Vietnam 1965-1975 normally comes with two paper mapsheets.  The previous owner nicely mounted those mapsheets on eight mounted map board, a size similar to the ones used in AH_T_E_M_P_T_A_G_#039;s Squad Leader.  Because of this, the game is much heavier and will not fit in the bookcase-style game box.  (The box will still be included)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Aug 2008 03:46:07 +0000</listdate>
+    <saledate>Thu, 21 Aug 2008 06:19:05 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>acceptable</condition>
+    <notes>Punched. Complete. Box has wear and tear.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Oct 2008 16:20:34 +0000</listdate>
+    <saledate>Sun, 09 Nov 2008 12:19:14 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes>The condition of this game are:
+Really Very Good. It_T_E_M_P_T_A_G_#039;s Unpunched and never played
+The box is just a little faded near the corners 
+We are a professional games shop located in Italy, but we sell woldwide.
+The shipping costs for this game are:
+§§§§
+- 10,00 Euro for Europe and Countries facing the Mediterranean Sea
+- 13,00 Euro for American, Asian and other Africa Countries
+- 16,00 Euro for Oceania_T_E_M_P_T_A_G_#039;s Countries
+Payments
+-Paypal
+-Bank to bank transfert
+We will ship the game immediately after we receive the payment.
+**** FOR ITALIAN CUSTOMERS ****
+**** Per gli acquirenti italiani****
+Siamo un negozio di Bologna specializzato in giochi, se volete acquistare questo gioco le spese di spedizione sono di 11,50 Euro (spedizione con Paccocelere 3), oppure potete venire a ritirare il gioco presso il nostro punto vendita di Bologna, in via Torleone 5/a (tel. 0514841096).
+I metodi di pagamento che accettiamo sono
+- Paypal
+- Ricarica Postepay
+- Bonifico Bancario
+- Contanti al Ritiro
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Feb 2009 02:21:00 +0000</listdate>
+    <saledate>Wed, 04 Feb 2009 03:07:20 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Reserved for user RPardoe.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Mar 2009 23:11:25 +0000</listdate>
+    <saledate>Thu, 26 Mar 2009 12:41:55 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>Posted for sale only to Luiz Bayard Athayde.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Apr 2009 04:07:14 +0000</listdate>
+    <saledate>Tue, 12 May 2009 03:14:08 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Punched</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 May 2009 02:18:26 +0000</listdate>
+    <saledate>Wed, 27 May 2009 02:28:03 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>box is very beat up.  all the counters seem to be there (I bought it used and I didn_T_E_M_P_T_A_G_#039;t count them)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Aug 2009 07:24:19 +0000</listdate>
+    <saledate>Sun, 02 Aug 2009 14:46:56 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>This item is for user dutts only. Please do not attempt to purchase this if you are not he.
+Thanks,
+Jesse</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Sep 2009 23:16:36 +0000</listdate>
+    <saledate>Sun, 04 Oct 2009 23:22:11 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Never played. Joseph Miranda article. Two supplements from _T_E_M_P_T_A_G_quot;Moves_T_E_M_P_T_A_G_quot; magazine. Article from _T_E_M_P_T_A_G_quot;The Wargamer_T_E_M_P_T_A_G_quot;. Errata. 99% unpunched. Storage tray.
+I Forced to begin selling games due to lack of space. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Oct 2009 16:55:47 +0000</listdate>
+    <saledate>Wed, 11 Nov 2009 18:29:56 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>verygood</condition>
+    <notes>Box has some shelf wear, box cover has a small (1 mm) hole in it, no splits.  Majority of the counters are unpunched, all contents present and in great condition.  Feel free to request additional photos.
+Buyer to pay actual shipping costs only, will ship USPS Priority in US.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Nov 2009 02:10:18 +0000</listdate>
+    <saledate>Mon, 09 Nov 2009 02:04:09 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Unpunched and complete - only out out of the shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Nov 2009 19:35:07 +0000</listdate>
+    <saledate>Sat, 26 Dec 2009 00:05:39 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>verygood</condition>
+    <notes>Box and all components in great shape.  Appears 100% complete, tons _T_E_M_P_T_A_G_amp; tons of counters in baggies.
+Flat Shipping is 10.95</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Dec 2009 05:16:46 +0000</listdate>
+    <saledate>Fri, 15 Jan 2010 14:38:35 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Complete.  Unpunched except for three counters than have fallen off the sheets (bagged separately).  Just missing the two standard six-sided dice.  The two maps have normal wear along the folded creases, and the box has light/moderate wear and two split corners on the lid.  Otherwise in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jan 2010 16:47:30 +0000</listdate>
+    <saledate>Mon, 15 Mar 2010 14:31:01 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Mar 2010 16:41:34 +0000</listdate>
+    <saledate>Fri, 26 Mar 2010 20:00:56 +0000</saledate>
+    <price currency='CAD'>30</price>
+    <condition>verygood</condition>
+    <notes>I have a complete copy of this game in very good shape. All components are present.
+The game was played 3-4 times, and is stored in smoke-free and pet-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Apr 2010 01:18:44 +0000</listdate>
+    <saledate>Tue, 30 Nov 2010 06:40:42 +0000</saledate>
+    <price currency='USD'>65.75</price>
+    <condition>verygood</condition>
+    <notes>punched but verified complete to the counter - quite a bitch of a game to do. I rebuilt partially punched countersheets and have color copies of them now too. printouts form here aren_T_E_M_P_T_A_G_#039;t clear enough. Like new counters too. beautiful box suitable for better homes and gardens bookcase pic.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Aug 2010 19:54:39 +0000</listdate>
+    <saledate>Fri, 26 Nov 2010 14:35:44 +0000</saledate>
+    <price currency='USD'>32.5</price>
+    <condition>likenew</condition>
+    <notes>Un-boxed, ziploc edition. Complete and unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Sep 2010 19:53:13 +0000</listdate>
+    <saledate>Mon, 04 Oct 2010 02:10:09 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Fully unpunched, contents look 100% new. Box is in great shape, bright colors, very little shelfware. There is some wear at two of the corners (white corners).
+I_T_E_M_P_T_A_G_#039;ll ship this out via USPS priority or parcel, as you wish.
+Pictures on request.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Dec 2010 13:51:36 +0000</listdate>
+    <saledate>Tue, 19 Apr 2011 11:58:47 +0000</saledate>
+    <price currency='GBP'>45</price>
+    <condition>likenew</condition>
+    <notes>The game has obviously never been played. The counter sheets are unpunched, except for some counters which have fallen out of their sprues. All components - mapsheets, rulebook - are in very good condition considering the age of the game.
+I_T_E_M_P_T_A_G_#039;m quoting postage within the UK as £5.00 but if it is slightly less than this I will inform the buyer prior to payment.
+I will ship to Europe, North America and Australasia. Please ask for a shipping quote if you live outside the UK.
+Payment in the UK by personal cheque or PayPal.
+Payment from Europe by Bank Transfer or PayPal..
+Payment from North America and Australasia by PayPal only.
+For payment by PayPal I will add 2% to the invoice.
+The game will be very securely packed so as to ensure it reaches you in the same condition it leaves me.
+I will only send recorded delivery (signed for).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Dec 2010 22:25:45 +0000</listdate>
+    <saledate>Mon, 27 Dec 2010 23:38:14 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Still in shrink, with almost no visible shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Jan 2011 21:31:18 +0000</listdate>
+    <saledate>Mon, 28 Feb 2011 23:12:41 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Just the shrink removed and components checked for completeness. This is in the best condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Apr 2011 17:21:16 +0000</listdate>
+    <saledate>Sun, 01 May 2011 15:02:47 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Box has some edge and shelfwear but generally crisp colored front of box with a slight bit of dishing in lower front left of box top.
+All game materials are present, I_T_E_M_P_T_A_G_#039;ve counted the counters and there are 780.  Rule book is the most worn aspect of this game having been thoroughly reviewed.  Its a paper map, so obviously bends at the folds but still in very good shape.
+Shipping is $8 to Eastern and Central US and $10 to Mountain and Pacific areas.  All other locations please inquire.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 May 2011 22:16:57 +0000</listdate>
+    <saledate>Fri, 13 May 2011 19:06:26 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>Unpunched game in excellent condition
+includes french rules too</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 May 2011 21:55:44 +0000</listdate>
+    <saledate>Sat, 04 Jun 2011 23:33:59 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>likenew</condition>
+    <notes>This game has obviously never been played. Contents in excellent condition. Counters are unpunched except for 44 which have fallen loose of the sprues. Rulebook shows no sign of use whatsoever. Maps likewise.
+Payment by PayPal only.
+Will ship to USA/Canada, Australasia, Europe only.
+Game will be very securely packed, and (if outside UK) sent air mail international signed for.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Jun 2011 12:38:48 +0000</listdate>
+    <saledate>Tue, 13 Sep 2011 23:32:37 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jun 2011 17:38:03 +0000</listdate>
+    <saledate>Tue, 21 Jun 2011 04:50:35 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>This item is for user BLSchoose only - from the BoardGamers of Michiana Garage Sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jul 2011 20:09:52 +0000</listdate>
+    <saledate>Wed, 10 Aug 2011 19:03:10 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>good</condition>
+    <notes>Good condition.
+The game is punched.Everything should be here but I did not check all the counters.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jul 2011 15:53:48 +0000</listdate>
+    <saledate>Sun, 17 Jul 2011 18:29:35 +0000</saledate>
+    <price currency='GBP'>19.99</price>
+    <condition>likenew</condition>
+    <notes>Vietnam 1965 -1975
+Victory Games 
+- Two 22_T_E_M_P_T_A_G_quot; x 32_T_E_M_P_T_A_G_quot; map
+- one set of game rules
+- 780 punched die cut counters
+- counter storage tray and game box 
+- 2 dice
+All contents are intact and in excellant condition, 
+We accept Paypal payments only. 
+Your order will ship within 24 HOURS business days. 
+Please contact me for any info on product and shipment.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Aug 2011 12:04:09 +0000</listdate>
+    <saledate>Mon, 02 Apr 2012 17:20:34 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Aug 2011 09:33:45 +0000</listdate>
+    <saledate>Tue, 04 Oct 2011 18:20:23 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>acceptable</condition>
+    <notes>Complete, punched. Maps in good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Sep 2011 22:58:29 +0000</listdate>
+    <saledate>Wed, 30 Nov 2011 03:15:41 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>acceptable</condition>
+    <notes>I can_T_E_M_P_T_A_G_#039;t be certain all pieces are there but I think they are.
+Shipping based on method you choose and whether you want insurance</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Nov 2011 13:54:48 +0000</listdate>
+    <saledate>Sat, 12 Nov 2011 00:34:08 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>acceptable</condition>
+    <notes>reserved for cherp</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Dec 2011 17:23:52 +0000</listdate>
+    <saledate>Fri, 13 Jan 2012 18:24:22 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>punched and bagged</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Apr 2012 16:00:25 +0000</listdate>
+    <saledate>Sun, 06 May 2012 11:41:19 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Apr 2012 16:39:06 +0000</listdate>
+    <saledate>Sat, 14 Apr 2012 20:05:41 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>OK, the game is complete, and mostly unpunched.  Those counters that have fallen out of the trees are accounted for and stored in the game tray.  I will transfer those to a zip lock prior to shipping.  The box is structurally intact, but suffers from improper stacking.  The real heartache with the game is that it suffers from old storage disease.  If you are looking for a complete copy and can overlook it_T_E_M_P_T_A_G_#039;s faults, this copy will do fine.  If you_T_E_M_P_T_A_G_#039;re looking for a pristine collector_T_E_M_P_T_A_G_#039;s copy, please do not buy this copy.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jun 2012 22:38:31 +0000</listdate>
+    <saledate>Sat, 23 Jun 2012 14:19:46 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Unpunched, 3 pages of rules highlighted, the box is just like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Jun 2012 13:46:50 +0000</listdate>
+    <saledate>Sat, 13 Oct 2012 14:01:16 +0000</saledate>
+    <price currency='EUR'>69</price>
+    <condition>verygood</condition>
+    <notes>the game is almost perfect
+the box has some wear</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Aug 2012 15:22:32 +0000</listdate>
+    <saledate>Thu, 23 Aug 2012 14:48:06 +0000</saledate>
+    <price currency='USD'>67.94</price>
+    <condition>likenew</condition>
+    <notes>Unpunched.  Contents in like new condition and verified complete.  Shelf wear on the bottom panel and some minor corner rubs.  Minor crease and some edge wear along the top of the back of the box.  Straight and very square.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship on multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Nov 2012 19:44:11 +0000</listdate>
+    <saledate>Fri, 07 Feb 2014 10:34:54 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>likenew</condition>
+    <notes>Out of print.Shrink wrap removed. Unpunched. Components in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Jan 2013 22:54:03 +0000</listdate>
+    <saledate>Wed, 09 Jan 2013 03:06:12 +0000</saledate>
+    <price currency='USD'>72.94</price>
+    <condition>likenew</condition>
+    <notes>Unpunched.  Contents verified complete and in minty fresh condition.  Maps, rulebook and countersheets crisp and clean.  Box is square and straight with no dings, doinks or creases.  Corner rubs with some minor shelf wear front and back.  4 tight corners.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship on multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Jan 2013 03:52:56 +0000</listdate>
+    <saledate>Fri, 08 Feb 2013 12:05:22 +0000</saledate>
+    <price currency='USD'>48.94</price>
+    <condition>verygood</condition>
+    <notes>Punched not clipped.  Contents verified complete and in excellent condition.  LAMINATED MAPS.  No more fear of rips, stains, tape or plexiglass.  These maps look really sharp in hard laminate.   Box is square and straight.  Does have one wrinkle that runs along one side apron.  One small corner crease on the back of the box.  Some edge wear front and back otherwise it looks sharp.  Worldwide shiping and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Mar 2013 01:16:02 +0000</listdate>
+    <saledate>Sun, 17 Mar 2013 12:50:35 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>for DarkTori only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Mar 2013 20:13:59 +0000</listdate>
+    <saledate>Wed, 24 Apr 2013 16:40:57 +0000</saledate>
+    <price currency='GBP'>75</price>
+    <condition>likenew</condition>
+    <notes>Counters unpunched (though some have come away from their sprues), rulebook and mapsheets unread/unused.
+Game box in excellent condition.
+Please contact me for shipping costs. I pack very safely/securely.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 May 2013 21:36:46 +0000</listdate>
+    <saledate>Mon, 20 May 2013 21:30:50 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>acceptable</condition>
+    <notes>Game is 99% complete, missing 7 out of 780 counters as follows:
+2 x US OPS / COMP markers (of 70)
+3 x US / allied combat units (of 230)
+1 x S. Vietnamese (of 167)
+1 x N.Vietnamese (of 172)
+All other game counters are present. Counter scans are available here on BGG to check which exact units are missing and to make replacements. 
+The game is otherwise in good, used condition with counters punched, sorted and bagged. The rule book is well read, but no marking / writing and the mapboard is in very good condition. The box has some wear and creasing and one repaired corner.
+POSTAGE COST:
+UK postage: £8.00
+European Postage: £10.50
+Rest of World Postage: £16.50
+Australia _T_E_M_P_T_A_G_amp; New Zealand: £17.50</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Jun 2013 19:02:06 +0000</listdate>
+    <saledate>Mon, 08 Jul 2013 04:03:24 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>verygood</condition>
+    <notes>Punched and sorted in tray. All components in near new condition. Game looks to never have been played.
+Will ship in first class or priority box for $10 to U.S. addresses. $18 to Canada. $30 international.
+I will combine shipping if you purchase other games at the same time. Magazines and non-boxed games can usually fit in the same box so no additional charge. I will send you a postage total on multiple game orders before confirming your order. I’ve rarely had any issues with loss or damage but U.S. post office does not track first class packages once they leave the U.S. so foreign buyers assume all risk of loss or damage.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Jun 2013 01:15:48 +0000</listdate>
+    <saledate>Tue, 23 Jul 2013 22:42:14 +0000</saledate>
+    <price currency='USD'>79.94</price>
+    <condition>likenew</condition>
+    <notes>Unpunched.  Contents verified complete and in like new condition.  Maps and rule book are crisp and fresh.  I still like the way the Victory Games titles look.  Not todays graphics but still very sharp.  Box is square and straight with 4 tight corners.  One minor corner crease on the front otherwise no dings, doinks or other creases.  Some minor edge wear and corner rubs.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Jun 2013 09:28:19 +0000</listdate>
+    <saledate>Wed, 26 Jun 2013 11:51:01 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>acceptable</condition>
+    <notes>box used condition
+counters punched and completed
+maps good condition
+5 euros shipping for europe</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Jul 2013 17:17:04 +0000</listdate>
+    <saledate>Mon, 22 Jul 2013 11:27:44 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>verygood</condition>
+    <notes>Un-punched, Complete and in excellent condition.  however Box had been taped (clear) shut. 
+£5 postage to UK, Other countries please ask
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Jul 2013 13:52:41 +0000</listdate>
+    <saledate>Thu, 01 Aug 2013 00:50:52 +0000</saledate>
+    <price currency='USD'>79.94</price>
+    <condition>likenew</condition>
+    <notes>Unpunched.  Contents verified complete and in like new condition.  Crisp and fresh a very nice copy.  Box is square and straight with no dings, doinks or creases.  Barely noticeable corner rubs and very little edge wear.  This one will look good on your shelf.  Worldwide delivery and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Aug 2013 17:12:12 +0000</listdate>
+    <saledate>Sat, 17 Aug 2013 03:51:10 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Unpunched, complete
+The offered game is from Mike Bartnikowski’s collection.  He passed in late 2012 and we are liquidating his gigantic (over 1200 pieces) Hoard.  We have a live .xls catalog with most of the pieces, asking price and condition.  To learn more, make a bulk offer, arrange for local pick-up or inquire about other titles contact us at facebook page Bartnikowskis Hoard or email at bartnikowskishoard@gmail.com.  
+Local pick-up in Wyandotte, cash, credit cards (3% fee), or paypal accepted upon pickup.
+paypal payments accepted at barbarakiss@sbcglobal.net
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Aug 2013 21:48:54 +0000</listdate>
+    <saledate>Mon, 02 Sep 2013 10:24:49 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>good</condition>
+    <notes>Included are a bunch of articles:
+Finding the Tunnel_T_E_M_P_T_A_G_#039;s Light: Winning the Vietnam Campaign Game
+Hunting the Vietcong: winning vietnam tactics
+The Marine_T_E_M_P_T_A_G_#039;s Alternative: A vietnam variant
+The Sword and the Juggernaut: The NLF Offensive in Vietnam
+Vietnam Errata from Victory Insider issue 6, an insert in General 21-5
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Sep 2013 20:00:24 +0000</listdate>
+    <saledate>Tue, 03 Sep 2013 10:44:54 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>likenew</condition>
+    <notes>UNPUNCHED. Please contact me if you wish to pay other than by PayPal.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Oct 2013 15:25:07 +0000</listdate>
+    <saledate>Tue, 29 Oct 2013 02:20:41 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and unpunched.  The box has some corner wear, but other than that the game is in great shape.  Please see pictures.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Oct 2013 01:56:56 +0000</listdate>
+    <saledate>Sat, 19 Apr 2014 23:37:36 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>Dunno if it_T_E_M_P_T_A_G_#039;s ever been played but counters are punched and in a tray. Everything looks great.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Nov 2013 16:58:30 +0000</listdate>
+    <saledate>Mon, 10 Feb 2014 17:49:21 +0000</saledate>
+    <price currency='GBP'>80</price>
+    <condition>new</condition>
+    <notes>Brand new condition. In shrinkwrap.
+Please contact mne for shipping costs. I pack very safely/securely.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Dec 2013 17:55:39 +0000</listdate>
+    <saledate>Fri, 07 Mar 2014 08:31:50 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and unpunched.  It is in great condition except that it only includes one die while the box says that it should have two.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Feb 2014 00:04:11 +0000</listdate>
+    <saledate>Wed, 05 Mar 2014 18:45:58 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>Partially punched, never played. Minor wear and tear to box, with a small puncture and crease on top corner.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 May 2014 22:58:12 +0000</listdate>
+    <saledate>Wed, 07 May 2014 13:31:03 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>From my recent _T_E_M_P_T_A_G_quot;baby_T_E_M_P_T_A_G_quot; auction, for aeneas 2467</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jun 2014 00:32:22 +0000</listdate>
+    <saledate>Sun, 20 Jul 2014 00:32:04 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>This game is in Like-New condition, never-used. The game and inserts/maps are all in excellent condition. The pieces are not punched out from their original sheets. (see photo)
+US bidders; S/H for this item will be $30.00 from here in Canada to anywhere in the USA via Canada Post_T_E_M_P_T_A_G_#039;s Expedited Parcel service - which INCLUDES sufficient insurance coverage!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jun 2014 13:29:20 +0000</listdate>
+    <saledate>Mon, 07 Jul 2014 21:16:50 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>good</condition>
+    <notes>Punched. Some biro errata / notes on the playsheets.
+Perfectly playable condition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Aug 2014 22:39:08 +0000</listdate>
+    <saledate>Tue, 05 Aug 2014 11:18:36 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>auction item only for user ctewks</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Aug 2014 16:10:30 +0000</listdate>
+    <saledate>Fri, 05 Sep 2014 03:45:24 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and unpunched.  One corner of the box is slightly smashed and I have provided a picture of the damage, but other than that the game is in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Sep 2014 16:34:34 +0000</listdate>
+    <saledate>Mon, 29 Sep 2014 17:09:23 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Apr 2013 22:31:51 +0000</listdate>
+    <saledate>Sun, 16 Nov 2014 09:52:57 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>good</condition>
+    <notes>Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus max. 4 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Nov 2014 16:43:09 +0000</listdate>
+    <saledate>Mon, 01 Dec 2014 02:11:37 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Game is unpunched and unplayed.  Box has some minor shelf wear, and some counters have fallen from the sprues, but is otherwise in excellent condition.  Includes an errata sheet, and two issues of _T_E_M_P_T_A_G_quot;Victory Insider_T_E_M_P_T_A_G_quot; about this  game.  Country tray present.  Please note that the prior owner (I bought the game but never played) has some writing on the rulebook and one of the issues of Victory Insider.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Dec 2014 00:17:36 +0000</listdate>
+    <saledate>Mon, 15 Dec 2014 00:52:55 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Counters punched, never played.  Internal components in excellent condition.  Box condition good.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Oct 2014 16:29:35 +0000</listdate>
+    <saledate>Sun, 04 Jan 2015 00:49:27 +0000</saledate>
+    <price currency='USD'>150</price>
+    <condition>likenew</condition>
+    <notes>Just out of Shrink wrap   Unpunched,  Complete.  Mint   30 Year old game
+.
+Location15</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 May 2014 06:29:33 +0000</listdate>
+    <saledate>Sun, 15 Feb 2015 02:23:41 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>unpunched, comes with a Victory magazine. Box has some light wear, mostly scuffing, minor wrinkle on bottom box.  Also a small indent on the top box.  Inside like new. Minty fresh.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Jan 2015 09:52:07 +0000</listdate>
+    <saledate>Thu, 26 Feb 2015 23:10:22 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>Never played, counters punched. Complete including original dice.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Feb 2015 17:01:09 +0000</listdate>
+    <saledate>Fri, 13 Mar 2015 13:52:38 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>acceptable</condition>
+    <notes>used game, maps with some tape and blemishes, counters not inventoried, see picture</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Mar 2015 18:35:49 +0000</listdate>
+    <saledate>Sat, 14 Mar 2015 18:07:13 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and mostly unpunched.  There is significant counter fallout - 41 counters have fallen from the sheets, and oddly enough, there are 45 counters included in the countertray.  7 yellow counters have fallen out and are all included, and 34 green counters are out of the sheet, and there are 38 green counters in the countertray.  I have counted everything three times and those are the totals I get every time.  Please contact me with specific questions and I will attempt to answer them.  Additionally the game includes two Victory insiders featuring the game, and a large number of copies of the record sheets.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Mar 2015 19:10:15 +0000</listdate>
+    <saledate>Sat, 04 Apr 2015 06:22:41 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>verygood</condition>
+    <notes>The creases in the map had been reinforced by tape by the previous owner.  This does not affect playability at all; it has been removed unless removal would cause damage, some residue may remain.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Nov 2014 21:37:19 +0000</listdate>
+    <saledate>Fri, 17 Apr 2015 21:36:10 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>verygood</condition>
+    <notes>punched
+shipping cost :
+8€ to France
+15€ abroad
+exact postal price garanted, I refund if payment in excess.
+see other sell for group shipping (ex 20 euros for 2 wargames)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Apr 2015 20:48:55 +0000</listdate>
+    <saledate>Tue, 28 Apr 2015 13:39:26 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>verygood</condition>
+    <notes>The game itself is in unpunched, like new condition.  The box however, has a lot of shelf wear, scuffing on the edges, and a few creases in the corners.  See my attached picture for detail.  Local pickup is available in northern VA, either Springfield or Tysons Corner.  Buyer pays shipping via USPS service desired.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Apr 2015 12:58:45 +0000</listdate>
+    <saledate>Sat, 09 May 2015 14:14:28 +0000</saledate>
+    <price currency='USD'>79.94</price>
+    <condition>likenew</condition>
+    <notes>Unpunched.  Contents verified complete and in like new condition.  Crisp and fresh a very nice copy.  Box exhibits some corner rubbing and edge wear.  One corner crease on the back and a very slight corner budge on the lid.  Otherwise square and straight with 4 tight corners.  Not the cleanest box but contents like new.    Worldwide delivery and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 May 2015 11:42:40 +0000</listdate>
+    <saledate>Wed, 13 May 2015 18:53:34 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>good</condition>
+    <notes>Complete except counter tray missing. Box has shelfwear. Counters in bags. Maps look good, except a bit of bending. Some charts gently pulled from manual (still included of course). Manual is ok with no markings, but a bit used.
+I will happily post pictures on request.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 May 2015 17:37:21 +0000</listdate>
+    <saledate>Sun, 24 May 2015 21:13:11 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Mar 2015 14:45:23 +0000</listdate>
+    <saledate>Wed, 24 Jun 2015 21:09:30 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>good</condition>
+    <notes>Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus max. 4 Euro
+SEPA transfer via IBAN/BIC usually free from EURO accounts</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Oct 2014 09:35:03 +0000</listdate>
+    <saledate>Fri, 26 Jun 2015 10:08:08 +0000</saledate>
+    <price currency='EUR'>100</price>
+    <condition>new</condition>
+    <notes>Sealed with the original package.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 May 2015 21:05:39 +0000</listdate>
+    <saledate>Tue, 30 Jun 2015 05:09:58 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>1984 Victory Games.  Box has edge wear.
+All components present,
+About 1/4 of the counters have shaken loose; inventoried, separated and bagged.
+Rules and maps VG+.  Includes Victory Insider #3 (1984).
+US shipping via priority mail $5.50 - $10.00 (depends on distance from 20912).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 May 2015 03:50:55 +0000</listdate>
+    <saledate>Sun, 05 Jul 2015 21:53:14 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Great shape - all pieces punched and accounted for.  Smoke free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 May 2012 20:12:34 +0000</listdate>
+    <saledate>Fri, 24 Jul 2015 20:52:44 +0000</saledate>
+    <price currency='EUR'>19.99</price>
+    <condition>acceptable</condition>
+    <notes>Punched but completed. Hardly played copy. VC batallions with tape in the front to preserve from use. Maps taped in the edge. Rules corrected with erratum. For players, not collectors.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Aug 2015 13:51:29 +0000</listdate>
+    <saledate>Thu, 20 Aug 2015 16:39:00 +0000</saledate>
+    <price currency='EUR'>100</price>
+    <condition>new</condition>
+    <notes>Just do not have the shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Sep 2015 04:51:30 +0000</listdate>
+    <saledate>Fri, 04 Sep 2015 05:34:04 +0000</saledate>
+    <price currency='CAD'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Oct 2015 15:11:18 +0000</listdate>
+    <saledate>Thu, 22 Oct 2015 11:43:26 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>new</condition>
+    <notes>The game is new and in perfect condition. It has never been used. The pawns are still attached
+If required I can give the other pictures. The rules are translated into Italian.
+Shipping by postal mail:
+- For Italy: € 9.00
+- For Europe: € 25.00
+- For America and Canada: € 35.00
+- For the rest of the world: ask
+If you buy at least three titles shipping will be free.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Dec 2015 19:27:15 +0000</listdate>
+    <saledate>Sat, 13 Feb 2016 19:10:22 +0000</saledate>
+    <price currency='EUR'>89</price>
+    <condition>likenew</condition>
+    <notes>LIKE NEW
+MINOR WEAR ON BOX
+UK + ITA RULES</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2015 20:35:35 +0000</listdate>
+    <saledate>Wed, 09 Mar 2016 18:42:17 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>good</condition>
+    <notes>vietnam 1965-1975, good, all pieces punched and in ziplock bags, never played, slight discolouration on the side of the box otherwise is like new.
+Includes supplements victory insider Vietnam part 1 and  Vietnam part 2</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Feb 2016 04:14:11 +0000</listdate>
+    <saledate>Thu, 10 Mar 2016 13:13:00 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Buyers pays USPS Priority shipping.  Includes Victory Insider - Vietnam Part II.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Mar 2016 17:50:39 +0000</listdate>
+    <saledate>Tue, 15 Mar 2016 00:44:01 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Part of my vintage war game collection. Counters are punched but game is complete. Coffee stains on rulebook, but still readable (visible in photo).
+Photos:
+http://i.imgur.com/LUhlTEd.jpg
+http://i.imgur.com/22VweOZ.jpg</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Apr 2016 02:59:12 +0000</listdate>
+    <saledate>Fri, 15 Apr 2016 23:19:56 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>I am not the original owner, but all of the components appear to be there.  I can_T_E_M_P_T_A_G_#039;t say conclusively that every counter is correct, but since the box lists 780 counters and I counted (twice) 780 counters, I_T_E_M_P_T_A_G_#039;d say it_T_E_M_P_T_A_G_#039;s likely to be the case.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Mar 2016 22:46:22 +0000</listdate>
+    <saledate>Sat, 16 Apr 2016 11:10:34 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>verygood</condition>
+    <notes>The box is showing it_T_E_M_P_T_A_G_#039;s age with shelf wear and a few scrapes but all the counters are there (I counted them!) and the map _T_E_M_P_T_A_G_amp; rulebook look as though they have hardly been used. Also includes the counter tray _T_E_M_P_T_A_G_amp; the 2D6 are included as well.
+UK postage £5.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jan 2016 00:17:35 +0000</listdate>
+    <saledate>Tue, 19 Apr 2016 20:48:12 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>I am not the original owner of this game. looks to be complete...all major components are present. counters sorted in VG style tray (which means I will tape the lid down before shipping). Paypal only. USPS flatrate shipping only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Feb 2016 06:59:02 +0000</listdate>
+    <saledate>Sat, 07 May 2016 23:26:05 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>acceptable</condition>
+    <notes>This was an unpunched very beautiful copy of this game, however, whoever sold us this game was able to crush one end of the box and _T_E_M_P_T_A_G_quot;unpunch_T_E_M_P_T_A_G_quot; the counters.  Take a look at the pictures for a visual explanation of this._T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;This will include everything that came with the game as new except for the crushing issue.  Due to the condition this will be an inexpensive way to add this game to your collection!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 May 2016 14:52:12 +0000</listdate>
+    <saledate>Thu, 26 May 2016 06:56:09 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Opened, punched, box wear. includes Victory magazine about the game.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jul 2016 22:00:31 +0000</listdate>
+    <saledate>Sat, 30 Jul 2016 15:23:53 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Complete. Partially punch. Box has whitening on the corners, but box is solid. No creases, tears or broken corners.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Aug 2016 19:39:29 +0000</listdate>
+    <saledate>Fri, 12 Aug 2016 04:11:22 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Great condition.  Punched and complete, counters stored in counter tray.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Aug 2016 12:39:34 +0000</listdate>
+    <saledate>Sun, 14 Aug 2016 17:04:05 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>acceptable</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205795/item/4745044#4745044]Item for Geeklist _T_E_M_P_T_A_G_quot;Clearing the Closet Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Aug 2016 22:09:22 +0000</listdate>
+    <saledate>Mon, 29 Aug 2016 18:44:25 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>acceptable</condition>
+    <notes>Player_T_E_M_P_T_A_G_#039;s copy. It is complete but the box has shelf wear, all the counters are stored in a large ziploc bag, the maps have signs of tape damage and are a bit worn and the rulebook is very-well leafed through. Otherwise good to play.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Aug 2016 23:11:34 +0000</listdate>
+    <saledate>Tue, 30 Aug 2016 00:49:23 +0000</saledate>
+    <price currency='USD'>72</price>
+    <condition>likenew</condition>
+    <notes>This sale is for one copy of the Vietnam 1965-1975 board game. Never played and 100% complete with playing pieces and map in excellent condition...some pieces still unpunched. The box has shelf wear and staining as shown. Please look at the photos and ask questions if you have them.
+Buyers, especially new users, unless it doesn_T_E_M_P_T_A_G_#039;t matter to you, please contact me for shipping quotes BEFORE adding to cart. I only charge what USPS.com will quote me for the actual weight of the game and packing materials.   It is extreme impolite to add a game to the cart and then never paying because you don_T_E_M_P_T_A_G_#039;t like the postage.  I leave negative and/or neutral feedback in that case.
+Please be aware if you_T_E_M_P_T_A_G_#039;re in on the Eastern Time Zone, shipping will be higher due to USPS policies regarding postal zones.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Sep 2015 23:21:40 +0000</listdate>
+    <saledate>Sun, 25 Sep 2016 07:25:51 +0000</saledate>
+    <price currency='USD'>99.99</price>
+    <condition>verygood</condition>
+    <notes>Unpunched, some rubbing wear on edges.
+PayPal or US Postal Money Order
+Other methods of payment may be accepted but contact me before ordering.
+Insurance recommended</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Aug 2016 16:31:48 +0000</listdate>
+    <saledate>Sun, 25 Sep 2016 16:45:06 +0000</saledate>
+    <price currency='CAD'>60</price>
+    <condition>verygood</condition>
+    <notes>All counters present but missing counter tray.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jul 2016 19:38:51 +0000</listdate>
+    <saledate>Thu, 20 Oct 2016 14:41:39 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>verygood</condition>
+    <notes>Punched and complete in great condition with minimal shelf wear from nonsmoker_T_E_M_P_T_A_G_#039;s home.  Shipping will be $10 for USA only, international quoted separately.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Oct 2016 14:04:01 +0000</listdate>
+    <saledate>Sun, 30 Oct 2016 14:48:16 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>ONLY FOR TONYJF
+This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/4921454#4921454]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Sep 2016 07:08:49 +0000</listdate>
+    <saledate>Thu, 10 Nov 2016 16:07:57 +0000</saledate>
+    <price currency='AUD'>85</price>
+    <condition>likenew</condition>
+    <notes>Unpunched. Shrink wrapping removed, minimal shelf wear on box. Includes counter tray.
+Shipping is from Lithgow NSW 2790, Australia.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Sep 2016 10:45:25 +0000</listdate>
+    <saledate>Tue, 15 Nov 2016 22:01:00 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>verygood</condition>
+    <notes>Mostly unpunched</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jan 2017 21:06:09 +0000</listdate>
+    <saledate>Mon, 02 Jan 2017 00:51:40 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Box is in good condition; contents are unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Aug 2016 19:18:25 +0000</listdate>
+    <saledate>Mon, 02 Jan 2017 18:29:53 +0000</saledate>
+    <price currency='USD'>57.99</price>
+    <condition>good</condition>
+    <notes>Stored on my shelf B8</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Jun 2016 15:42:42 +0000</listdate>
+    <saledate>Sun, 15 Jan 2017 20:02:35 +0000</saledate>
+    <price currency='EUR'>85</price>
+    <condition>new</condition>
+    <notes>Some slight wear onthe box, otherwise as new.
+Paypal + fees or direct bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jun 2016 18:27:15 +0000</listdate>
+    <saledate>Sat, 21 Jan 2017 08:59:04 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>Barely used. Only shelf wear and two small wears on the board from taping both boards together.
+Instructions in English and Spanish.
+Additional copies for the game sheets still to be used.
+Payment: Accept bank transfer _T_E_M_P_T_A_G_amp; PayPal</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Feb 2017 23:06:08 +0000</listdate>
+    <saledate>Fri, 17 Feb 2017 21:05:30 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Unpunched, unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2016 17:07:35 +0000</listdate>
+    <saledate>Sun, 12 Mar 2017 06:00:12 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>acceptable</condition>
+    <notes>Two sets combined into one.  We played the campaign game at a friend_T_E_M_P_T_A_G_#039;s home and left it set-up.  His cats got into the game  room and ate/destroyed a number of pieces.  He bought a copy (used) of this game game and combined it into mine to replace the damage done by his cats.
+Price is $50.00 PLUS Shipping Costs</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Mar 2017 19:28:32 +0000</listdate>
+    <saledate>Thu, 30 Mar 2017 11:39:10 +0000</saledate>
+    <price currency='EUR'>42</price>
+    <condition>verygood</condition>
+    <notes>trade is also possible, have a look at my Want in Trade list
+shipping to the USA is €18 (appr. $19,50)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Mar 2017 00:52:31 +0000</listdate>
+    <saledate>Fri, 07 Apr 2017 01:43:49 +0000</saledate>
+    <price currency='USD'>114.94</price>
+    <condition>new</condition>
+    <notes>Shrink wrap copy.  No box damage.  Couple of very small rips in the shrink on the side panel.  Pristine straight from the factory 33 year old minty fresh.  Popular old school Victory Games title.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Apr 2017 22:05:38 +0000</listdate>
+    <saledate>Mon, 01 May 2017 00:47:57 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>My late husband collected board games.  Didn’t always play all of them, but he loved to collect. Time to find new homes for the games.  He took excellent care of his games, and if they were played, no food or drinks were allowed near  the game playing area.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Mar 2017 18:16:19 +0000</listdate>
+    <saledate>Thu, 11 May 2017 20:29:13 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>good</condition>
+    <notes>+ shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 May 2017 00:51:57 +0000</listdate>
+    <saledate>Fri, 30 Jun 2017 00:03:52 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Complete, unpunched but some counters are falling from the trees.
+Note: about 12 counters were lost and have been replaced from a second copy with clipped counters (US artillery and some NVA Divisions)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Aug 2017 07:58:38 +0000</listdate>
+    <saledate>Sat, 05 Aug 2017 17:16:22 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes>Need to sell my collection due to missing space ((((
+Game is punched but unplayed, all counters in nice boxes.
+Photos available on request</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Feb 2017 16:10:08 +0000</listdate>
+    <saledate>Sun, 03 Sep 2017 14:21:50 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and unpunched.  One corner of the box is slightly creased and the box is slightly whitened.  I have provided a picture of the damage, but other than that the game is in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Sep 2017 18:18:35 +0000</listdate>
+    <saledate>Fri, 22 Sep 2017 16:55:26 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and unpunched and in great shape.  The box is not in quite as good shape, with two of the corners on the top and three on the back having mild to moderate creasing and some whitening.  I_T_E_M_P_T_A_G_#039;ve included pictures of the worst of the corners.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 18:27:22 +0000</listdate>
+    <saledate>Wed, 04 Oct 2017 01:30:50 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Sep 2014 04:47:08 +0000</listdate>
+    <saledate>Mon, 09 Oct 2017 20:33:58 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>verygood</condition>
+    <notes>Only 10 counters punched, and in a small ziploc.  Otherwise, the game is in like new condition. Box has minor shelf wear, and on ding on the box where it looks like someone pushed a tack into the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Oct 2017 16:52:15 +0000</listdate>
+    <saledate>Sun, 12 Nov 2017 03:22:05 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and unpunched.  The box has some creasing and is slightly whitened.  I have provided a picture of the damage, but other than that the game is in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Oct 2017 09:34:57 +0000</listdate>
+    <saledate>Wed, 15 Nov 2017 11:49:01 +0000</saledate>
+    <price currency='GBP'>44.95</price>
+    <condition>good</condition>
+    <notes>Please request postage prior to purchase thank you ...
+Paypal only ...</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Nov 2017 17:23:48 +0000</listdate>
+    <saledate>Sun, 19 Nov 2017 18:44:22 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Game is punched and counters are neatly trimmed.   Both components and box are in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Oct 2017 17:18:56 +0000</listdate>
+    <saledate>Sun, 19 Nov 2017 21:22:54 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>The Game_T_E_M_P_T_A_G_#039;s Components are Unpunched and in Like New Condition, the box shows normal time wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Dec 2017 16:12:01 +0000</listdate>
+    <saledate>Mon, 11 Dec 2017 03:37:23 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Game is complete and unpunched and in great shape.  The box has some slight whitening.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Dec 2017 01:32:25 +0000</listdate>
+    <saledate>Tue, 12 Dec 2017 21:32:42 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Unpunched, all listed contents present and in very good shape except missing original counter tray. Box is intact but has a fair amount of wear from storage, but contents in very good shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Aug 2017 16:13:08 +0000</listdate>
+    <saledate>Fri, 29 Dec 2017 13:51:33 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>This has been sitting in the shelf since 1986. Counters are punched and in ziplocks.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Dec 2017 17:54:56 +0000</listdate>
+    <saledate>Wed, 03 Jan 2018 09:32:12 +0000</saledate>
+    <price currency='AUD'>30</price>
+    <condition>acceptable</condition>
+    <notes>All components are included.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jan 2018 18:39:33 +0000</listdate>
+    <saledate>Sun, 07 Jan 2018 01:50:55 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Punched and played.  All counters accounted for (hand counted by me) but not sorted.  Maps and inserts perfect.  Box is in excellent shape except for a little fading in the corners and a price tag stuck to it.   Rules are somewhat faded/yellowed but nor ripped nor written in.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Feb 2018 14:39:43 +0000</listdate>
+    <saledate>Mon, 19 Feb 2018 03:15:08 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Reserved for purchase by user ctewks</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Feb 2017 19:19:30 +0000</listdate>
+    <saledate>Tue, 20 Feb 2018 20:52:44 +0000</saledate>
+    <price currency='EUR'>130</price>
+    <condition>new</condition>
+    <notes>In shrink. 
+If using paypal, add the fees.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jul 2016 21:04:38 +0000</listdate>
+    <saledate>Tue, 20 Feb 2018 20:58:24 +0000</saledate>
+    <price currency='EUR'>75</price>
+    <condition>likenew</condition>
+    <notes>Mint; Not shrink-wrapped; Shipping not included</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Feb 2018 12:19:18 +0000</listdate>
+    <saledate>Tue, 10 Apr 2018 10:21:03 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>punched
+average shipping costs from France to USA : 2kg  43$.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Apr 2018 16:32:57 +0000</listdate>
+    <saledate>Tue, 17 Apr 2018 22:42:02 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Counters punched and sorted in tray. Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Mar 2018 16:28:45 +0000</listdate>
+    <saledate>Thu, 03 May 2018 13:45:39 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Counters are unpunched, contents look new, box has no flaws.
+Stored in a pet free, smoke free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jan 2018 12:50:28 +0000</listdate>
+    <saledate>Fri, 04 May 2018 17:03:04 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>good</condition>
+    <notes>2nd-hand copy. Condition of box fair and components good, counters sorted into plastic bags. Photos available upon request. 
+Shipping cost: 5.99 Euros with DHL within Germany. Other countries: depending on location, please inquire beforehand. Examples: Europe about 15-25 Euros, North America about 30-45 Dollars. For further items, add +1 Euro shipping per game. Other countries and continents, also please inquire before buying. Happy shopping!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Mar 2018 13:04:04 +0000</listdate>
+    <saledate>Sat, 12 May 2018 07:55:03 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>good</condition>
+    <notes>Partially punched
+Fourni avec traduction française</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Aug 2015 15:03:26 +0000</listdate>
+    <saledate>Sat, 12 May 2018 08:38:02 +0000</saledate>
+    <price currency='EUR'>100</price>
+    <condition>likenew</condition>
+    <notes>unpunched - a few counters came lose of the sheets, see pictures</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Apr 2018 15:44:04 +0000</listdate>
+    <saledate>Sun, 27 May 2018 17:03:51 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>new</condition>
+    <notes>Counters UNPUNCHED. Brand new inside. Box has shelf wear. Includes counter tray.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 May 2018 08:37:12 +0000</listdate>
+    <saledate>Fri, 08 Jun 2018 05:09:19 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>verygood</condition>
+    <notes>Punched three scenario played, rules underlined with black pencil
+perfect player_T_E_M_P_T_A_G_#039;s copy
+Paypal +3€</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jul 2018 18:32:51 +0000</listdate>
+    <saledate>Thu, 19 Jul 2018 23:40:33 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Counters punched and sorted into trimmed Gamers/GMT-style tray. Components in very good condition. Box has mild shelf wear due to age. Ships from 44089.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Aug 2018 07:35:00 +0000</listdate>
+    <saledate>Wed, 15 Aug 2018 15:25:42 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>good</condition>
+    <notes>This game is being sold as part of the _T_E_M_P_T_A_G_quot;A Wargamer_T_E_M_P_T_A_G_#039;s Dream Auction...many unpunched and a few in shrink._T_E_M_P_T_A_G_quot; This item was won by schroddycat. 
+Shipping will be an additional cost, based on the size and quantity of games you won, per the auction rules. Due to the high volume of games in the auction, please allow up to two weeks for the game to ship after payment.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jun 2018 23:34:29 +0000</listdate>
+    <saledate>Fri, 17 Aug 2018 08:25:50 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>100% complete. Box has wear and some clear packing tape across face (I purchased this game used). Game components are in Very Good condition. Smoke free and pet free environment. Will ship by best method for buyer. USPS priority mail would be $13.65 within U.S.
+*** Buyers outside the US, please request shipping quote before purchasing. ***
+*** Happy to ship overseas, but, unfortunately, it isn_T_E_M_P_T_A_G_#039;t very cheap. ***</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Aug 2018 19:59:23 +0000</listdate>
+    <saledate>Tue, 04 Sep 2018 00:51:17 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>verygood</condition>
+    <notes>Played and punched but in very good shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Sep 2018 11:49:35 +0000</listdate>
+    <saledate>Tue, 04 Sep 2018 23:07:52 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>good</condition>
+    <notes>Most counters are unpunched</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Jan 2018 07:06:59 +0000</listdate>
+    <saledate>Fri, 14 Sep 2018 08:30:52 +0000</saledate>
+    <price currency='USD'>79.99</price>
+    <condition>verygood</condition>
+    <notes>Very good, near like new, glossy, very light shelf wear on glossy box, complete, clean, punched, sorted/bagged, appears unplayed!
+______________________
+From a smoke and pet free environment! All items packed with care, and shipped USPS Priority, by weight when possible to save you $$$.
+Ships from Tulsa, OK. Central location = cheap shipping to most of the USA!
+Paypal payments = fast turnaround!
+*** Buyers outside the US, please request shipping quote before purchasing. ***
+*** Happy to ship overseas, but, unfortunately, it isn_T_E_M_P_T_A_G_#039;t very cheap. ***</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Aug 2018 19:44:45 +0000</listdate>
+    <saledate>Fri, 21 Sep 2018 19:47:39 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Contents are new, unpunched. Box has some scuffs but four solid corners. Spent some time in hexes 3008 and 3007.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Oct 2018 11:03:27 +0000</listdate>
+    <saledate>Mon, 29 Oct 2018 21:29:00 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>likenew</condition>
+    <notes>unpunched, good shape</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Nov 2018 22:25:05 +0000</listdate>
+    <saledate>Tue, 13 Nov 2018 03:43:09 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>verygood</condition>
+    <notes>All components in very good condition.   Counters unpunched.  Never played.  Box shows its age.
+Shipping costs extra. Shipping from Maryland (21146). Will ship worldwide but note that it will be expensive (better to have someone receive it for you in the U.S.)
+Shipping costs can be combined if you purchase other items that I am selling.
+PayPal for payment. USPS for shipment.
+If you are outside the U.S., please add 2 percent of the total (to include shipping costs) to cover the extra PayPal fees.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jun 2018 18:37:56 +0000</listdate>
+    <saledate>Wed, 14 Nov 2018 05:04:56 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Oct 2018 22:50:51 +0000</listdate>
+    <saledate>Sun, 09 Dec 2018 12:43:02 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>missing 7 NVA regimental counters. Photo shows _T_E_M_P_T_A_G_quot;MISSING_T_E_M_P_T_A_G_quot; counters. Box beat up but maps and rules, counters in good shape
+Ships USPS flat rate for $13.00 to USA</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Jan 2019 02:44:44 +0000</listdate>
+    <saledate>Mon, 28 Jan 2019 03:43:50 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/251976/item/6669822#6669822]Item for Geeklist _T_E_M_P_T_A_G_quot;Reduce my collection auction-boardgames and wargames(1/20-1/27)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

@@ -1,0 +1,810 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="221769">
+   <yearpublished>2017</yearpublished>
+   <minplayers>1</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>180</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>180</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Bios: Megafauna (Second Edition)</name>
+         
+   <description>Bios: Megafauna starts where the predecessor game Bios: Genesis left off, with the invasion of the land on the daybreak of the Phanerozoic eon. Starting as either a plant, mollusk, insect, or vertebral skeletal type, your flapping, paddling, and squawking carnivores and herbivores make a beachhead on one of the drifting continental plates in the Cambrian, Their struggle for terrestrial dominance may eventually include language-based consciousness. Although this achievement elevated a certain mammal species to notoriety, in your game things may occur differently._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This second edition of Bios: Megafauna is an evolutionary descendant of American Megafauna but as a part of the Bios series of games it is linked to the game Bios: Genesis. It plays well independently but if you have both games you can let the end state of a game of Bios: Genesis affect the starting state of a game of Bios: Megafauna.  A successor game, called Bios: Origins (which would be a descendant of Origin), is planned to cover the events of the Quaternary period including the rise of ideas and technology._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_amp;mdash;description from the publisher_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/6ymlH5X4d_8bpgW7YQPkJcfbYYg=/fit-in/200x150/pic4095180.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/jdSKoYp-NnO8IGTmJm0HLEWdSxY=/0x0/pic4095180.jpg</image>
+      
+            <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+                      <boardgamefamily objectid="23433">BIOS series</boardgamefamily>
+               <boardgameintegration objectid="98918">Bios: Genesis</boardgameintegration>
+               <boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+               <boardgameartist objectid="11925">Karim Chakroun</boardgameartist>
+               <boardgameversion objectid="424371">Czech edition</boardgameversion>
+               <boardgamedesigner objectid="46283">Andrew Doull</boardgamedesigner>
+               <boardgamedesigner objectid="174">Phil Eklund</boardgamedesigner>
+               <boardgameversion objectid="346136">English edition</boardgameversion>
+               <boardgamecategory objectid="1084">Environmental</boardgamecategory>
+               <boardgamepodcastepisode objectid="214372">Episode 116 -- The 2017 Essen Session With Heavy Cardboard</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="247027">Episode 136 -- All The Moogs</boardgamepodcastepisode>
+               <boardgamepublisher objectid="33710">Fox in the Box</boardgamepublisher>
+               <boardgamedesigner objectid="52913">Jon Manker</boardgamedesigner>
+               <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+               <boardgameartist objectid="99099">Johanna Pettersson</boardgameartist>
+               <boardgamecategory objectid="1036">Prehistoric</boardgamecategory>
+               <boardgamepublisher objectid="101">Sierra Madre Games</boardgamepublisher>
+                      <boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+               <boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+               <boardgamefamily objectid="16886">Theme: Biological Evolution</boardgamefamily>
+               <boardgameintegration objectid="98918" inbound="true">Bios: Genesis</boardgameintegration>
+               <boardgameimplementation objectid="97915" inbound="true">Bios: Megafauna</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="8" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="8" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="9" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="1" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="3" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>415</usersrated>
+     <average>7.90048</average>
+     <bayesaverage>6.10346</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1816" bayesaverage="6.10346" />
+            
+       
+              <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="280" bayesaverage="6.45715" />
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="805" bayesaverage="6.27921" />
+            
+           </ranks>
+     
+     <stddev>1.47278</stddev>
+     <median>0</median>
+     <owned>2253</owned>
+     <trading>27</trading>
+     <wanting>143</wanting>
+     <wishing>510</wishing>
+     <numcomments>214</numcomments>
+     <numweights>49</numweights>
+     <averageweight>4.6122</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Wed, 29 Nov 2017 10:32:02 +0000</listdate>
+    <saledate>Fri, 01 Dec 2017 20:20:20 +0000</saledate>
+    <price currency='EUR'>69</price>
+    <condition>new</condition>
+    <notes>Language: english
+Edition Year: 2017
+Publisher: Sierra Madre Games
+Game Condition: Mint
+Box Condition: Mint
+Available starting from: 2017-12-30
+ID Gis: 30697 (for reference)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Dec 2017 12:49:19 +0000</listdate>
+    <saledate>Sat, 23 Dec 2017 17:28:00 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>Is the version with the plastic miniatures.
+Will only ship to Belgium/France and the Netherlands with http://www.bpost.be/.
+Can provide pictures if necessary.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Jan 2018 11:45:30 +0000</listdate>
+    <saledate>Thu, 18 Jan 2018 05:47:48 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>new</condition>
+    <notes>I_T_E_M_P_T_A_G_#039;m also selling _T_E_M_P_T_A_G_quot;Bios Genesis Second Edition_T_E_M_P_T_A_G_quot;. 
+If you want to purchase both, I could make a special price for you!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Jan 2018 00:51:59 +0000</listdate>
+    <saledate>Thu, 18 Jan 2018 18:03:54 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Jan 2018 04:13:13 +0000</listdate>
+    <saledate>Fri, 26 Jan 2018 04:43:29 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Punched and played once. 
+My copy arrived missing one of 25 green cubes. I have replaced it with a (slightly larger) plastic one. Otherwise complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Jan 2018 17:54:49 +0000</listdate>
+    <saledate>Mon, 29 Jan 2018 20:22:16 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>USPS Shipping $5</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jan 2018 01:48:15 +0000</listdate>
+    <saledate>Tue, 30 Jan 2018 06:36:04 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>Shrink off the box everything else untouched.
+Slight corner box damage not by me.
+See pictures.
+Shipping $8.00
+Any questions please ask.
+non-smoker</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Jan 2018 00:18:10 +0000</listdate>
+    <saledate>Wed, 31 Jan 2018 03:00:01 +0000</saledate>
+    <price currency='CAD'>50</price>
+    <condition>new</condition>
+    <notes>In Shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Jan 2018 18:57:51 +0000</listdate>
+    <saledate>Wed, 31 Jan 2018 03:06:40 +0000</saledate>
+    <price currency='CAD'>60</price>
+    <condition>new</condition>
+    <notes>Sent extra copy by ShipNaked instead of John Company. Apparently, they don_T_E_M_P_T_A_G_#039;t want it back, because I_T_E_M_P_T_A_G_#039;m international. I haven_T_E_M_P_T_A_G_#039;t checked it if it_T_E_M_P_T_A_G_#039;s missing anything.
+Contact with shipping information for quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Jan 2018 14:56:29 +0000</listdate>
+    <saledate>Wed, 07 Feb 2018 01:08:21 +0000</saledate>
+    <price currency='USD'>120</price>
+    <condition>new</condition>
+    <notes>NIS</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Feb 2018 23:42:11 +0000</listdate>
+    <saledate>Thu, 08 Feb 2018 15:37:34 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>I received this game instead of John Company but I can_T_E_M_P_T_A_G_#039;t send it back to ShipNaked. I will be donating the game_T_E_M_P_T_A_G_#039;s selling price to Phil (minus BGG fees). 
+Buyer pays actual shipping from Canada. Please message me prior to buying to obtain a shipping quote. 
+This auction is in US dollars. Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Feb 2018 01:32:05 +0000</listdate>
+    <saledate>Mon, 19 Feb 2018 08:15:15 +0000</saledate>
+    <price currency='USD'>66</price>
+    <condition>new</condition>
+    <notes>This item is reserved for BGG user _T_E_M_P_T_A_G_quot;kikiquynh23_T_E_M_P_T_A_G_quot; winner from the auction _T_E_M_P_T_A_G_quot;The Taxman is Coming **Auction**_T_E_M_P_T_A_G_quot; If you are not _T_E_M_P_T_A_G_quot;kikiquynh23_T_E_M_P_T_A_G_quot;, please ignore this posting. 
+Payment to be made via PayPal prior to shipping. 
+Please pay within 7 days of auctions end.
+Please note that I usually ship within 24-48 hours of receiving payment.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Feb 2018 19:11:54 +0000</listdate>
+    <saledate>Mon, 19 Feb 2018 15:32:35 +0000</saledate>
+    <price currency='CAD'>45</price>
+    <condition>new</condition>
+    <notes>New-in-shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Mar 2018 21:28:31 +0000</listdate>
+    <saledate>Tue, 20 Mar 2018 13:40:59 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA 2ND EDITION: $54.95
+Sierra Madre Games [SMG 38A]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Mar 2018 21:28:31 +0000</listdate>
+    <saledate>Tue, 20 Mar 2018 16:42:17 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA 2ND EDITION: $54.95
+Sierra Madre Games [SMG 38A]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Mar 2018 21:28:31 +0000</listdate>
+    <saledate>Thu, 22 Mar 2018 01:23:58 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA 2ND EDITION: $54.95
+Sierra Madre Games [SMG 38A]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Mar 2018 21:28:31 +0000</listdate>
+    <saledate>Thu, 22 Mar 2018 15:25:42 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA 2ND EDITION: $54.95
+Sierra Madre Games [SMG 38A]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Nov 2017 16:43:17 +0000</listdate>
+    <saledate>Thu, 22 Mar 2018 17:43:58 +0000</saledate>
+    <price currency='EUR'>63.9</price>
+    <condition>new</condition>
+    <notes>Game: Bios: Megafauna 2 (Sierra Madre Games)
+Condition: new in shrinkwrap
+Language: English
+Now in stock!
+Thanks in advance for ordering!
+See below for information on shipping, payment _T_E_M_P_T_A_G_amp; cancellation.
+Payment:
+Bank transfer to an EU bank account using IBAN/BIC in advance
+(normally free of charge if your bank account is nominated in EURO)
+Paypal (add 4,- Euro to cover the fees. That should be the first choice for non-EU customers.)
+Pick up the game at my game store (no shipping cost)
+Shipping: always insured and with tracking
+Germany: 5,99€ for the first item
+card games or smaller boxes might be cheaper (please contact me beforehand)
+EU: 13,99€ up to 2kg
+15,99€ up to 5kg
+20,99€ up to 10kg
+Rest of the world: Please contact me before purchasing an item to clarify the shipping costs.
+I can offer discounts on shipping if multiple marketplace purchases are made.
+Returns and Cancellation:
+You may cancel your order without giving any reasons within 14 days after placing your order. Please contact frank@spieleberatung.com and I will attempt to resolve the matter. Unopened copies of the game that are no longer wanted can be returned, but there is a 10% restocking fee payable of the item price and the buyer is responsible for the return shipping costs.
+Spieleberatung
+Frank Solnitzky
+Hainbuchenweg 1
+36381 Schlüchtern
+Germany
++49-06661-9115039
+frank@spieleberatung.com</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Mar 2018 11:12:53 +0000</listdate>
+    <saledate>Fri, 23 Mar 2018 15:52:20 +0000</saledate>
+    <price currency='EUR'>63.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 9,99€.
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Mar 2018 19:42:07 +0000</listdate>
+    <saledate>Fri, 23 Mar 2018 22:21:46 +0000</saledate>
+    <price currency='EUR'>69.9</price>
+    <condition>new</condition>
+    <notes>Language: english
+Edition Year: 2017
+Publisher: Sierra Madre Games
+Game Condition: Mint
+Box Condition: Mint
+PREORDER - Usually available in: 3 weeks approx
+ID Gis: 30697 (for reference)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Mar 2018 06:27:19 +0000</listdate>
+    <saledate>Mon, 02 Apr 2018 16:42:47 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>new</condition>
+    <notes>For sale is a new in-shrink copy of Bios Megafauna. Coming from a smoke and pet free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Apr 2018 18:11:03 +0000</listdate>
+    <saledate>Thu, 12 Apr 2018 00:55:46 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>For sale is a new in-shrink copy of Bios Megafauna. Coming from a smoke and pet free home.
+Shipping is around $8 to $11, but feel free to ask for a quote beforehand.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Apr 2018 05:18:01 +0000</listdate>
+    <saledate>Tue, 24 Apr 2018 02:48:04 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>new</condition>
+    <notes>For sale is a new in-shrink copy of Bios Megafauna.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Apr 2018 17:08:43 +0000</listdate>
+    <saledate>Tue, 24 Apr 2018 23:10:06 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>new</condition>
+    <notes>For sale is a new in-shrink copy of Bios Megafauna.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Apr 2018 07:09:39 +0000</listdate>
+    <saledate>Fri, 27 Apr 2018 18:42:58 +0000</saledate>
+    <price currency='EUR'>37</price>
+    <condition>likenew</condition>
+    <notes>Shipping: 10 EUR</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 May 2018 00:38:40 +0000</listdate>
+    <saledate>Mon, 21 May 2018 08:48:36 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>The game wasn_T_E_M_P_T_A_G_#039;t played, only unpacked.
+The payment method is bank transfer. 
+I sell my game in Germany.
+I can send photos of the game to e-mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Nov 2017 16:43:17 +0000</listdate>
+    <saledate>Thu, 24 May 2018 09:27:01 +0000</saledate>
+    <price currency='EUR'>63.9</price>
+    <condition>new</condition>
+    <notes>Game: Bios: Megafauna 2 (Sierra Madre Games)
+Condition: new in shrinkwrap
+Language: English
+Now in stock!
+Thanks in advance for ordering!
+See below for information on shipping, payment _T_E_M_P_T_A_G_amp; cancellation.
+Payment:
+Bank transfer to an EU bank account using IBAN/BIC in advance
+(normally free of charge if your bank account is nominated in EURO)
+Paypal (add 4,- Euro to cover the fees. That should be the first choice for non-EU customers.)
+Pick up the game at my game store (no shipping cost)
+Shipping: always insured and with tracking
+Germany: 5,99€ for the first item
+card games or smaller boxes might be cheaper (please contact me beforehand)
+EU: 13,99€ up to 2kg
+15,99€ up to 5kg
+20,99€ up to 10kg
+Rest of the world: Please contact me before purchasing an item to clarify the shipping costs.
+I can offer discounts on shipping if multiple marketplace purchases are made.
+Returns and Cancellation:
+You may cancel your order without giving any reasons within 14 days after placing your order. Please contact frank@spieleberatung.com and I will attempt to resolve the matter. Unopened copies of the game that are no longer wanted can be returned, but there is a 10% restocking fee payable of the item price and the buyer is responsible for the return shipping costs.
+Spieleberatung
+Frank Solnitzky
+Hainbuchenweg 1
+36381 Schlüchtern
+Germany
++49-06661-9115039
+frank@spieleberatung.com</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 May 2018 20:59:29 +0000</listdate>
+    <saledate>Fri, 01 Jun 2018 10:41:29 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/240664/item/6153657#6153657]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED! -- Moving/Memorial Day Auction! May 20-28. Long Island area, shipping to all US._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jun 2018 11:27:55 +0000</listdate>
+    <saledate>Sun, 10 Jun 2018 10:01:45 +0000</saledate>
+    <price currency='EUR'>58</price>
+    <condition>new</condition>
+    <notes>in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Jun 2018 04:13:45 +0000</listdate>
+    <saledate>Sat, 16 Jun 2018 16:35:00 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/242145/item/6201366#6201366]Item for Geeklist _T_E_M_P_T_A_G_quot;Selling Games for Vacation Money_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jun 2018 01:03:25 +0000</listdate>
+    <saledate>Mon, 18 Jun 2018 03:20:03 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/242190/item/6200960#6200960]Item for Geeklist _T_E_M_P_T_A_G_quot;US Only - Ending 6/17 - All sorts of stuff (war, euros, and more...)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Bios: MF2 and Mint Works!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jul 2018 16:07:48 +0000</listdate>
+    <saledate>Thu, 12 Jul 2018 19:20:24 +0000</saledate>
+    <price currency='GBP'>49</price>
+    <condition>new</condition>
+    <notes>Still in shrink
+Postage and packaging £7, so total cost will be £56
+Ship to UK only
+Also available for pick up in central or north London</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jul 2018 02:56:46 +0000</listdate>
+    <saledate>Sun, 22 Jul 2018 17:15:55 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>likenew</condition>
+    <notes>Includes St.Petersburg
+This sale has been auto-generated for the auction: [geekurl=/geeklist/243497/item/6255619#6255619]Item for Geeklist _T_E_M_P_T_A_G_quot;Shelf Space Runs Thin (Auction Ends 7/21 ~9PM CST)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Jul 2018 09:45:42 +0000</listdate>
+    <saledate>Thu, 26 Jul 2018 23:19:58 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241960/item/6212676#6212676]Item for Geeklist _T_E_M_P_T_A_G_quot;Gencon Virtual Flea Market 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Gencon pickup</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jul 2018 22:27:25 +0000</listdate>
+    <saledate>Sun, 29 Jul 2018 01:28:56 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/242711/item/6225245#6225245]Item for Geeklist _T_E_M_P_T_A_G_quot;Small Summer Sale_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Apr 2018 20:59:16 +0000</listdate>
+    <saledate>Sun, 05 Aug 2018 07:03:18 +0000</saledate>
+    <price currency='GBP'>54</price>
+    <condition>new</condition>
+    <notes>The second Bios game starts as life crawls/slithers/hops out of the sea and onto land. The environment is still hostile, though, and players_T_E_M_P_T_A_G_#039; creatures must evolve, expand and adapt as the climate and geography change. Hugely challenging, great fun and educational, too.
+The price shown is for UK/EU purchasers (and includes VAT). For purchasers outside the EU, the price is £45.00 (net of UK tax) - note that the purchaser is responsible for paying any duty or tax due on import to their country.
+I charge shipping at cost, as follows.
+  UK addresses: £3.99 (myHermes, takes 2-3 working days, tracked) 
+  Other EU countries: £11.70 (Air mail, takes 1 week or so, not tracked)
+  Europe outside the EU: £9.75 (Air mail, takes 1 week or so, not tracked)
+  Australasia: £15.75 (Air mail, takes 1 week or so, not tracked)
+  USA, Canada _T_E_M_P_T_A_G_amp; elsewhere: £14.80 (Air mail, takes 1 week or so, not tracked)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Aug 2018 14:21:05 +0000</listdate>
+    <saledate>Thu, 16 Aug 2018 14:30:06 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>verygood</condition>
+    <notes>Opened, unplayed, very minor box scuffing. £4 postage to Uk, other countries please ask</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Aug 2018 16:22:08 +0000</listdate>
+    <saledate>Mon, 20 Aug 2018 21:13:11 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/244566/item/6309351#6309351]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED Kickstarter, Eklund, Euros and Wargames (Seattle and PDX pick up available)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Winner is Malloreon</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Mar 2018 08:51:13 +0000</listdate>
+    <saledate>Sun, 26 Aug 2018 10:15:20 +0000</saledate>
+    <price currency='EUR'>69.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Aug 2018 21:15:08 +0000</listdate>
+    <saledate>Sat, 01 Sep 2018 20:54:34 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>In shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Aug 2018 18:43:10 +0000</listdate>
+    <saledate>Fri, 07 Sep 2018 12:48:55 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>Nur ausgepackt - nie gespielt !
+Bezahlung per Vorkasse (Überweisung) oder Paypal.
+Versand nach Deutschland per DHL für EUR 5,99.
+Versand Rest der Welt auf Anfrage.
+Privatverkauf: Keinerlei Gewährleistung, Garantie, Widerrufs- bzw. Rücktrittsrecht.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Apr 2018 00:56:37 +0000</listdate>
+    <saledate>Tue, 18 Sep 2018 04:38:52 +0000</saledate>
+    <price currency='USD'>64</price>
+    <condition>new</condition>
+    <notes>Reserved for Mitcharf</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Oct 2018 20:07:19 +0000</listdate>
+    <saledate>Sun, 07 Oct 2018 22:00:46 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246238/item/6412553#6412553]Item for Geeklist _T_E_M_P_T_A_G_quot;New Place / New Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Thanks again!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Oct 2018 21:15:36 +0000</listdate>
+    <saledate>Wed, 10 Oct 2018 15:58:41 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Opened, but not played.
+The price shown is for UK/EU purchasers (and includes VAT). For purchasers outside the EU, the price is £25.00 (net of UK tax) - note that the purchaser is responsible for paying any duty or tax due on import to their country.
+I charge shipping at cost, as follows.
+  UK addresses: £3.99 (myHermes, takes 2-3 working days, tracked) 
+  Other EU countries: £11.70 (Air mail, takes 1 week or so, not tracked)
+  Europe outside the EU: £9.75 (Air mail, takes 1 week or so, not tracked)
+  Australasia: £15.75 (Air mail, takes 1 week or so, not tracked)
+  USA, Canada _T_E_M_P_T_A_G_amp; elsewhere: £14.80 (Air mail, takes 1 week or so, not tracked)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Sep 2018 21:42:30 +0000</listdate>
+    <saledate>Fri, 19 Oct 2018 17:16:43 +0000</saledate>
+    <price currency='USD'>43</price>
+    <condition>good</condition>
+    <notes>Selling one copy of Bios:Megafauna (Second Edition).  This copy of the game is unpunched and unplayed though the game box shows more than a bit of wear and tear.
+All components have been accounted (counters, wooden pieces, markers, cards and rules).  Both card decks are unopened.  The counters are unpunched.  The Reservoir Placard is a bit convex at the moment, but I don_T_E_M_P_T_A_G_#039;t know if it came that way naturally.
+The game box has been beat up a bit.  There are dings here and there along the game box edges.  The lower left corner of the game box top has split along the small edge.
+In summary, the game contents are unpunched and unplayed.  The game box has been beat up a bit.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Mar 2018 21:28:31 +0000</listdate>
+    <saledate>Mon, 29 Oct 2018 02:32:04 +0000</saledate>
+    <price currency='USD'>58.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA 2ND EDITION: $58.95
+Sierra Madre Games [SMG 38A]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Aug 2018 10:18:38 +0000</listdate>
+    <saledate>Tue, 30 Oct 2018 19:37:24 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Apr 2018 07:32:36 +0000</listdate>
+    <saledate>Sun, 04 Nov 2018 22:35:27 +0000</saledate>
+    <price currency='EUR'>68.9</price>
+    <condition>new</condition>
+    <notes>Price includes sales tax for germany (MwSt.)
+We deliever only by DHL Go Green.
+Shipping Costs:
+To Germany: 4,50 €
+International and EU-wide shipment costs, consultate _T_E_M_P_T_A_G_quot;Info From Seller_T_E_M_P_T_A_G_quot; below. Search your country in the lists to find out your shipment costs. If you have questions, just contact us via BGG.
+International dispatch can contain additonal taxes and custom fees.
+Payment Method:
+PayPal
+To Adress: Info@badlands-shop.de
+Bank Transfer
+Without any fees from our side as long as you use SEPA from an EU State to our IBAN/BIC Account:
+Applegate _T_E_M_P_T_A_G_amp; Jost GbR
+Sparkasse KölnBonn
+IBAN: DE34 3705 0198 1932 8477 99
+BIC: COLSDE33xxx
+We recommend an Euro donated Account, because of lower fees.
+To see our terms and conditions (AGB, Widerrufsbelehrung), visit http://www.badlands-shop.de/j/shop/terms and www.badlands-shop.de/j/shop/withdrawal. We are a german Online Shop, so the text will be in german language. If you still have questions, feel free to email them to info@badlands-shop.de.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Oct 2018 20:34:35 +0000</listdate>
+    <saledate>Wed, 07 Nov 2018 23:52:26 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>Brand new, in shrink, never opened.
+I will ship via USPS, FedEx or UPS, you choose.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Oct 2018 16:30:56 +0000</listdate>
+    <saledate>Fri, 09 Nov 2018 03:33:06 +0000</saledate>
+    <price currency='USD'>64</price>
+    <condition>new</condition>
+    <notes>New in shrink. Ships from 84098.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Nov 2017 16:43:17 +0000</listdate>
+    <saledate>Fri, 09 Nov 2018 11:25:40 +0000</saledate>
+    <price currency='EUR'>63.9</price>
+    <condition>new</condition>
+    <notes>Game: Bios: Megafauna 2 (Sierra Madre Games)
+Condition: new in shrinkwrap
+Language: English
+Now in stock!
+Thanks in advance for ordering!
+See below for information on shipping, payment _T_E_M_P_T_A_G_amp; cancellation.
+Payment:
+Bank transfer to an EU bank account using IBAN/BIC in advance
+(normally free of charge if your bank account is nominated in EURO)
+Paypal (add 4,- Euro to cover the fees. That should be the first choice for non-EU customers.)
+Pick up the game at my game store (no shipping cost)
+Shipping: always insured and with tracking
+Germany: 5,99€ for the first item
+card games or smaller boxes might be cheaper (please contact me beforehand)
+EU: 13,99€ up to 2kg
+15,99€ up to 5kg
+20,99€ up to 10kg
+Rest of the world: Please contact me before purchasing an item to clarify the shipping costs.
+I can offer discounts on shipping if multiple marketplace purchases are made.
+Returns and Cancellation:
+You may cancel your order without giving any reasons within 14 days after placing your order. Please contact frank@spieleberatung.com and I will attempt to resolve the matter. Unopened copies of the game that are no longer wanted can be returned, but there is a 10% restocking fee payable of the item price and the buyer is responsible for the return shipping costs.
+Spieleberatung
+Frank Solnitzky
+Hainbuchenweg 1
+36381 Schlüchtern
+Germany
++49-06661-9115039
+frank@spieleberatung.com</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Oct 2018 22:11:21 +0000</listdate>
+    <saledate>Fri, 09 Nov 2018 17:41:14 +0000</saledate>
+    <price currency='EUR'>63.5</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Mar 2018 11:12:53 +0000</listdate>
+    <saledate>Sat, 10 Nov 2018 20:53:24 +0000</saledate>
+    <price currency='EUR'>69.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 9,99€.
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Oct 2018 07:01:56 +0000</listdate>
+    <saledate>Sat, 17 Nov 2018 13:08:00 +0000</saledate>
+    <price currency='USD'>64.99</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA 2ND EDITION: $64.99
+Sierra Madre Games [SMG 38A]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Oct 2018 07:01:56 +0000</listdate>
+    <saledate>Sun, 18 Nov 2018 12:08:51 +0000</saledate>
+    <price currency='USD'>74.99</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+BIOS MEGAFAUNA 2ND EDITION: $74.99
+Sierra Madre Games [SMG 38A]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Sep 2018 15:28:42 +0000</listdate>
+    <saledate>Tue, 27 Nov 2018 06:16:45 +0000</saledate>
+    <price currency='EUR'>75</price>
+    <condition>new</condition>
+    <notes>Shipping from Belgium via Mondial Relay, DPD, DHL or Bpost:
+Within Benelux: 7 euro (4 euro to a pickup point)
+Germany: 10 euro with DPD (6 euro to a pickup point)
+Rest of Europe/World: Upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Nov 2018 19:51:15 +0000</listdate>
+    <saledate>Thu, 29 Nov 2018 20:24:57 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Shrink removed, but everything is unpunched and in original packaging.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Mar 2018 11:12:53 +0000</listdate>
+    <saledate>Fri, 07 Dec 2018 00:28:53 +0000</saledate>
+    <price currency='EUR'>69.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 9,99€.
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Dec 2018 16:11:10 +0000</listdate>
+    <saledate>Tue, 25 Dec 2018 23:24:26 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Played once. Box has some shelf wear.
+Shipping is $10</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Dec 2018 16:10:42 +0000</listdate>
+    <saledate>Sat, 05 Jan 2019 23:11:51 +0000</saledate>
+    <price currency='USD'>71</price>
+    <condition>new</condition>
+    <notes>In shrink. Shipping is $9 to the Continental U.S.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jan 2019 16:50:26 +0000</listdate>
+    <saledate>Sun, 13 Jan 2019 20:20:10 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>opened but unpunched/unwrapped 
+shipping - $14</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Jan 2019 00:50:40 +0000</listdate>
+    <saledate>Mon, 14 Jan 2019 11:18:55 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>verygood</condition>
+    <notes>Played twice. All components sorted in bags. Everything in excellent condition
+Shipping, insured, with tracking:
+Germany 5,99€
+Europe( DHL Zone 1): 15,99€
+payment via SEPA bank transfer or PayPal</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Jan 2019 21:21:43 +0000</listdate>
+    <saledate>Sat, 19 Jan 2019 19:54:09 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>Played once and in perfect condition. All parts and pieces are bagged.
+I will use the most cost effective shipping method via USPS Priority Mail from 63021.
+Pickup available if you are in the St. Louis Metro Area.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

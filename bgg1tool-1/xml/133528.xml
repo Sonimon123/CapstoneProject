@@ -1,0 +1,888 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="133528">
+   <yearpublished>2013</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>13</age>
+       <name primary="true" sortindex="1">City of Remnants</name>
+         
+   <description>Hot rain falls down upon a cold, rotting city. Here the Yugai, a species of militant humanoids, leave the survivors of the worlds they have ransacked and destroyed. It is a prison and a work camp, a place for those who lived through Yugai invasion to live out their remaining years as slaves. This is Gatorum, the City of Remnants._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;In City of Remnants, players take on the roles of gang leaders, each one with unique qualities and motivations. Players will struggle to control the city, but only the winner can decide the city's future. Many paths to victory lie before you. Bid for gang members who provide a variety of shady skills. Get an edge with weapons and other sundries from the black market. Build districts that can provide you with advantages, production and income, but beware because a greedy opponent might sweep in and take over the work of your own hands._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;City of Remnants combines strong resource management, auction, and conversion mechanisms with spatial tactics, assymetric player powers, area control and direct conflict. A variety of tools, different every game, are at your disposal to build up your gang and claim the city for yourself. But watch out for the Yugai police force, who will meddle with everyone's plans!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/1luemigF_szH3NVI6QJa9PI11iE=/fit-in/200x150/pic1470588.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/xaiTUFwt3fmXVuwu9uwiSgnNrFo=/0x0/pic1470588.jpg</image>
+      
+                   <boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+               <boardgamefamily objectid="5679">Aliens</boardgamefamily>
+                      <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgameartist objectid="29142">JJ Ariosa</boardgameartist>
+               <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+               <boardgamemechanic objectid="2041">Card Drafting</boardgamemechanic>
+               <boardgamepodcastepisode objectid="101483">City of Remnants</boardgamepodcastepisode>
+                      <boardgamefamily objectid="25158">Components: Miniatures</boardgamefamily>
+               <boardgamefamily objectid="5611">Cyberpunk</boardgamefamily>
+               <boardgamedesigner objectid="12953">Colby Dauch</boardgamedesigner>
+               <boardgamemechanic objectid="2664">Deck / Pool Building</boardgamemechanic>
+               <boardgamecategory objectid="1017">Dice</boardgamecategory>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+                      <boardgamecategory objectid="1021">Economic</boardgamecategory>
+               <boardgamepodcastepisode objectid="120675">Episode 23 – We talk about the games we played</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="122646">Episode 29 -- Whole Lotta Love</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="184355">Episode 3 - All Things Unique</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="212908">Episode 43 - Isaac Vega - Designer _T_E_M_P_T_A_G_amp;amp; Plaid Hat Games VP of Research and Design</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="109721">Episode 5 -- 10 Times 10 Plus 1 Equals 22</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="102483">Episode 97</boardgamepodcastepisode>
+                      <boardgamecategory objectid="1046">Fighting</boardgamecategory>
+               <boardgameversion objectid="187550">First edition</boardgameversion>
+                                    <boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+               <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+               <boardgamecategory objectid="1047">Miniatures</boardgamecategory>
+               <boardgameimplementation objectid="256643">Neon Gods</boardgameimplementation>
+                      <boardgamepublisher objectid="10754">Plaid Hat Games</boardgamepublisher>
+                             <boardgamecategory objectid="1016">Science Fiction</boardgamecategory>
+                      <boardgamepodcastepisode objectid="99539">TDT - Episode # 304 - Artwork in Games</boardgamepodcastepisode>
+               <boardgamecategory objectid="1086">Territory Building</boardgamecategory>
+                      <boardgamepodcastepisode objectid="118625">The Game Pit: Episode 23 - Reckoning the Spoils</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5496">Thematic Games</boardgamesubdomain>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+               <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+               <boardgamedesigner objectid="65023">Isaac Vega</boardgamedesigner>
+               <boardgameartist objectid="39902">Peter Wocken</boardgameartist>
+               <boardgamemechanic objectid="2082">Worker Placement</boardgamemechanic>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="29">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="14" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="12" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="18" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="18" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="10" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1084</usersrated>
+     <average>6.8788</average>
+     <bayesaverage>6.13545</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1723" bayesaverage="6.13545" />
+            
+       
+              <rank type="family" id="5496" name="thematic" friendlyname="Thematic Rank" value="328" bayesaverage="6.35496" />
+            
+           </ranks>
+     
+     <stddev>1.59555</stddev>
+     <median>0</median>
+     <owned>1951</owned>
+     <trading>149</trading>
+     <wanting>124</wanting>
+     <wishing>631</wishing>
+     <numcomments>346</numcomments>
+     <numweights>69</numweights>
+     <averageweight>3.1304</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 05 Feb 2013 23:41:06 +0000</listdate>
+    <saledate>Wed, 20 Feb 2013 19:37:42 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+CITY OF REMNANTS: $39.95
+Plaid Hat Games [PSI COR01]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date:  Q1/Q2 2013
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - FedEx: $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Feb 2013 03:25:33 +0000</listdate>
+    <saledate>Wed, 20 Feb 2013 02:20:01 +0000</saledate>
+    <price currency='USD'>150</price>
+    <condition>verygood</condition>
+    <notes>Lot
+This is reserved for someone.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Apr 2013 15:00:03 +0000</listdate>
+    <saledate>Thu, 11 Apr 2013 09:48:19 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>new</condition>
+    <notes>Plaid Hat Games (PLDCOR01)
+A City Built by War! Hot rain falls down upon a cold, rotting city. Here the Yugai, a species of militant humanoids, leave the survivors of the worlds they have ransacked and destroyed. It is a prison and a work camp, a place for those who lived through Yugai invasion to live out their remaining years as slaves. This is Gatorum, the City of Remnants. In City of Remnants, players take on the roles of gang leaders, each one with their own unique qualities and motivations. Players will struggle to control the city, but only the winner can decided the city_T_E_M_P_T_A_G_#039;s future. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 May 2013 00:10:01 +0000</listdate>
+    <saledate>Mon, 06 May 2013 04:45:23 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 May 2013 13:54:27 +0000</listdate>
+    <saledate>Mon, 24 Jun 2013 11:03:31 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>new</condition>
+    <notes>Plaid Hat Games (PLDCOR01)
+A City Built by War! Hot rain falls down upon a cold, rotting city. Here the Yugai, a species of militant humanoids, leave the survivors of the worlds they have ransacked and destroyed. It is a prison and a work camp, a place for those who lived through Yugai invasion to live out their remaining years as slaves. This is Gatorum, the City of Remnants. In City of Remnants, players take on the roles of gang leaders, each one with their own unique qualities and motivations. Players will struggle to control the city, but only the winner can decided the city_T_E_M_P_T_A_G_#039;s future. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Jun 2013 03:50:39 +0000</listdate>
+    <saledate>Tue, 11 Jun 2013 04:31:55 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>This listing is for an auction winner. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Jun 2013 10:14:53 +0000</listdate>
+    <saledate>Mon, 14 Oct 2013 19:20:25 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>new</condition>
+    <notes>Plaid Hat Games (PLDCOR01)
+A City Built by War! Hot rain falls down upon a cold, rotting city. Here the Yugai, a species of militant humanoids, leave the survivors of the worlds they have ransacked and destroyed. It is a prison and a work camp, a place for those who lived through Yugai invasion to live out their remaining years as slaves. This is Gatorum, the City of Remnants. In City of Remnants, players take on the roles of gang leaders, each one with their own unique qualities and motivations. Players will struggle to control the city, but only the winner can decided the city_T_E_M_P_T_A_G_#039;s future. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jul 2013 02:51:42 +0000</listdate>
+    <saledate>Wed, 24 Jul 2013 23:49:42 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>verygood</condition>
+    <notes>***reserved for user wduluoz</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jul 2013 02:14:38 +0000</listdate>
+    <saledate>Sat, 26 Apr 2014 15:38:17 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>opened but pristine...will ship via usps med flat rate</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Aug 2013 10:12:56 +0000</listdate>
+    <saledate>Thu, 08 May 2014 20:24:51 +0000</saledate>
+    <price currency='GBP'>39.99</price>
+    <condition>new</condition>
+    <notes>UK ship £4.99
+Europe £13.65</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Aug 2013 04:40:07 +0000</listdate>
+    <saledate>Tue, 27 Aug 2013 12:06:58 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>Auction win for khylek</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Sep 2013 16:15:32 +0000</listdate>
+    <saledate>Wed, 04 Sep 2013 02:02:44 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Matt Parker</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Sep 2013 14:00:10 +0000</listdate>
+    <saledate>Thu, 26 Sep 2013 21:11:42 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Opened and played once
+$10 Shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Sep 2013 17:02:50 +0000</listdate>
+    <saledate>Thu, 26 Sep 2013 20:07:13 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>For Salamanderguy
+Attractiveness Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Sep 2013 11:52:21 +0000</listdate>
+    <saledate>Sat, 28 Sep 2013 16:40:08 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>new</condition>
+    <notes>for user only dynamiteboy80</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Sep 2013 21:05:35 +0000</listdate>
+    <saledate>Mon, 30 Sep 2013 00:50:19 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>RESERVED FOR AUCTION WINNER RZANERCIK
+Game out of shrink. Never played. Everything looks great.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Oct 2013 19:40:24 +0000</listdate>
+    <saledate>Fri, 07 Feb 2014 18:15:26 +0000</saledate>
+    <price currency='USD'>39.99</price>
+    <condition>new</condition>
+    <notes>Plaid Hat Games (PLDCOR01)
+A City Built by War! Hot rain falls down upon a cold, rotting city. Here the Yugai, a species of militant humanoids, leave the survivors of the worlds they have ransacked and destroyed. It is a prison and a work camp, a place for those who lived through Yugai invasion to live out their remaining years as slaves. This is Gatorum, the City of Remnants. In City of Remnants, players take on the roles of gang leaders, each one with their own unique qualities and motivations. Players will struggle to control the city, but only the winner can decided the city_T_E_M_P_T_A_G_#039;s future. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Oct 2013 21:03:13 +0000</listdate>
+    <saledate>Tue, 29 Oct 2013 15:32:13 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Holmes!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Nov 2013 14:08:54 +0000</listdate>
+    <saledate>Wed, 13 Nov 2013 00:12:36 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>SOLD TO Waylander1
+City of Remnants
+Like New Condition
+Punched, but Unplayed
+$20
+NOTE: Upon inspection, I found that this copy contains a photocopied version of the rules. It does NOT contain a copy of the Glossy rules. I received this game from a friend. I do not know what happened to the original rules.
+New Delivery Information!: I can deliver all games at the Virtual Flea Market Official Exchange or some other time before 7:30 PM on Thursday or Saturday.
+I will also ship worldwide at the buyer_T_E_M_P_T_A_G_#039;s expense for the actual shipping costs</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Nov 2013 01:10:35 +0000</listdate>
+    <saledate>Mon, 18 Nov 2013 07:35:35 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Game opened but never played.
+Shipping is $10 flat rate via FedEx Express Saver.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Dec 2013 07:51:56 +0000</listdate>
+    <saledate>Tue, 07 Jan 2014 14:28:34 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition except that the original rules are missing and have been replaced by a copy of the rules.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Feb 2014 05:47:47 +0000</listdate>
+    <saledate>Tue, 18 Feb 2014 06:47:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>reserved for Melissa (mmpoole)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Feb 2014 01:03:26 +0000</listdate>
+    <saledate>Fri, 21 Feb 2014 08:04:11 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>This item is reserved for auction winner flailbear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Mar 2014 22:51:38 +0000</listdate>
+    <saledate>Fri, 18 Apr 2014 17:09:16 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>For Robert Dunn ONLY
+Includes Vineta!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Apr 2014 02:40:54 +0000</listdate>
+    <saledate>Thu, 03 Apr 2014 03:05:05 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Reserved for mowglee, Auction won item.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Apr 2014 22:39:02 +0000</listdate>
+    <saledate>Wed, 23 Apr 2014 19:02:04 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Condition: Excellent. Original Owner. Played 2 times</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Aug 2014 05:07:53 +0000</listdate>
+    <saledate>Mon, 25 Aug 2014 18:18:11 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/177329/item/3366638#3366638]Item for Geeklist _T_E_M_P_T_A_G_quot;Charity auction for a hurting family_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Sep 2014 05:08:15 +0000</listdate>
+    <saledate>Sun, 26 Oct 2014 00:20:18 +0000</saledate>
+    <price currency='AUD'>59</price>
+    <condition>verygood</condition>
+    <notes>All components in excellent condition. Laminated player aids.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Oct 2014 04:28:26 +0000</listdate>
+    <saledate>Tue, 04 Nov 2014 17:19:49 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/178671/item/3502044#3502044]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2014_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Oct 2014 23:59:15 +0000</listdate>
+    <saledate>Thu, 06 Nov 2014 07:31:49 +0000</saledate>
+    <price currency='USD'>23.99</price>
+    <condition>new</condition>
+    <notes>Plaid Hat Games (PLDCOR01)
+A City Built by War! Hot rain falls down upon a cold, rotting city. Here the Yugai, a species of militant humanoids, leave the survivors of the worlds they have ransacked and destroyed. It is a prison and a work camp, a place for those who lived through Yugai invasion to live out their remaining years as slaves. This is Gatorum, the City of Remnants. In City of Remnants, players take on the roles of gang leaders, each one with their own unique qualities and motivations. Players will struggle to control the city, but only the winner can decided the city_T_E_M_P_T_A_G_#039;s future.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Nov 2014 17:11:52 +0000</listdate>
+    <saledate>Sun, 09 Nov 2014 21:33:15 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/178671/item/3528122#3528122]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2014_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Oct 2014 23:59:15 +0000</listdate>
+    <saledate>Fri, 02 Jan 2015 21:37:54 +0000</saledate>
+    <price currency='USD'>26.49</price>
+    <condition>new</condition>
+    <notes>Plaid Hat Games (PLDCOR01)
+A City Built by War! Hot rain falls down upon a cold, rotting city. Here the Yugai, a species of militant humanoids, leave the survivors of the worlds they have ransacked and destroyed. It is a prison and a work camp, a place for those who lived through Yugai invasion to live out their remaining years as slaves. This is Gatorum, the City of Remnants. In City of Remnants, players take on the roles of gang leaders, each one with their own unique qualities and motivations. Players will struggle to control the city, but only the winner can decided the city_T_E_M_P_T_A_G_#039;s future.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2014 23:21:31 +0000</listdate>
+    <saledate>Wed, 21 Jan 2015 19:15:41 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Feb 2015 23:31:16 +0000</listdate>
+    <saledate>Wed, 04 Feb 2015 23:36:30 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/186413/item/3704503#3704503]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION - Some newer/hotter games included. Ends 2/4/15_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Will be combined with Amun-Re for shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Feb 2015 13:29:37 +0000</listdate>
+    <saledate>Fri, 13 Feb 2015 13:50:46 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Sold in the  no-ship TotalCon auction to Chris Broggi (broggi). 
+You may pay in advance with PayPal or in cash at the Con.
+Thank you!
+-Mat
+This sale has been auto-generated for the auction: [geekurl=/geeklist/185968/item/3727185#3727185]Item for Geeklist _T_E_M_P_T_A_G_quot;Total Confusion 29 Auction List - deliver games at TC-29 on February 19-22nd, 2015! (NO Shipping Costs!) _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Nov 2014 19:08:19 +0000</listdate>
+    <saledate>Sat, 07 Mar 2015 16:00:06 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>i prefer shipping with kiala or dpd (or as proposed by buyer)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Mar 2015 00:51:18 +0000</listdate>
+    <saledate>Sun, 15 Mar 2015 15:49:49 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>For BGG user jobin13</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Apr 2015 12:18:13 +0000</listdate>
+    <saledate>Thu, 09 Apr 2015 12:28:58 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/189437/item/3821017#3821017]Item for Geeklist _T_E_M_P_T_A_G_quot;Spring Cleaning bring more games, later that Spring!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Includes:
+City of Remnants
+Cyrano</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Apr 2015 15:35:17 +0000</listdate>
+    <saledate>Thu, 04 Jun 2015 07:06:08 +0000</saledate>
+    <price currency='GBP'>24.99</price>
+    <condition>new</condition>
+    <notes>UK Shipping = £5
+I_T_E_M_P_T_A_G_#039;m happy to combine orders to save on shipping.
+Will only ship within the UK</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Jul 2015 01:27:12 +0000</listdate>
+    <saledate>Thu, 23 Jul 2015 01:32:06 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193360/item/4018804#4018804]Item for Geeklist _T_E_M_P_T_A_G_quot;Gen Con Virtual Flea Market 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jul 2015 02:37:16 +0000</listdate>
+    <saledate>Sat, 29 Aug 2015 00:45:34 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>Still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jul 2015 03:55:27 +0000</listdate>
+    <saledate>Mon, 31 Aug 2015 03:50:05 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Like new condition. Never played. Shipping will be $13.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Oct 2015 02:15:17 +0000</listdate>
+    <saledate>Tue, 20 Oct 2015 11:34:41 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>This listing is for the auction item won by user _T_E_M_P_T_A_G_quot;HeirtoPendragon_T_E_M_P_T_A_G_quot; and should not be purchased by anyone else.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Sep 2015 15:35:06 +0000</listdate>
+    <saledate>Wed, 28 Oct 2015 20:11:13 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>Unpunched, cards still in wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Nov 2015 21:41:40 +0000</listdate>
+    <saledate>Mon, 09 Nov 2015 13:46:44 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>*** THIS ITEM IS RESERVED FOR USER fromeea ***
+Results of the _T_E_M_P_T_A_G_quot;SCARY_T_E_M_P_T_A_G_quot; HALLOWEEN/FALL CLEARANCE AUCTION
+Arrangements TBD for local delivery.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Nov 2015 15:37:00 +0000</listdate>
+    <saledate>Tue, 10 Nov 2015 15:41:40 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>For user hanibalicious only.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/199051/item/4252787#4252787]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction of DOOM (er...literally) - DFW/BGG.CON Pickup Only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Sep 2015 16:55:10 +0000</listdate>
+    <saledate>Sun, 22 Nov 2015 07:34:38 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>new in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Dec 2015 21:18:05 +0000</listdate>
+    <saledate>Thu, 10 Dec 2015 01:34:13 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/200322/item/4305378#4305378]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION - GIANT Super Dungeon Explore Lot _T_E_M_P_T_A_G_amp; Duel of Ages 2 _T_E_M_P_T_A_G_amp; Others! Ends TOMORROW 12/9_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Dec 2015 21:58:23 +0000</listdate>
+    <saledate>Sun, 03 Jan 2016 03:12:36 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>played once, excellent condition. cards are sleeved.
+Shipping $10</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Mar 2015 01:13:08 +0000</listdate>
+    <saledate>Tue, 05 Jan 2016 23:34:25 +0000</saledate>
+    <price currency='GBP'>29</price>
+    <condition>verygood</condition>
+    <notes>Played once. Perfect condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Feb 2016 04:48:56 +0000</listdate>
+    <saledate>Wed, 24 Feb 2016 03:07:54 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Reserved for aznbeast42.
+Includes Stratego.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Apr 2016 13:27:01 +0000</listdate>
+    <saledate>Tue, 05 Apr 2016 11:07:36 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This is a winning item from the auction: The MARCHing into Con Season Auction! If you did not win this item, please do not purchase.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Apr 2016 02:46:56 +0000</listdate>
+    <saledate>Tue, 19 Apr 2016 03:44:24 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/207335/item/4552149#4552149]Item for Geeklist _T_E_M_P_T_A_G_quot;Low on Dough Auction 1 - New and Used Games - Includes Orleans Deluxe Edition_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 May 2016 05:09:26 +0000</listdate>
+    <saledate>Fri, 13 May 2016 12:49:26 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208466/item/4612613#4612613]Item for Geeklist _T_E_M_P_T_A_G_quot;24 HOURS REMAIN: Scorched Earth. Everything must go. 45 games, including rare titles like A Study in Emerald, Ambush! and Mall of Horror._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 May 2016 21:32:54 +0000</listdate>
+    <saledate>Mon, 16 May 2016 07:18:52 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Springtime Clean the Shelves Auction winner threevenge.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Jun 2016 19:08:22 +0000</listdate>
+    <saledate>Mon, 13 Jun 2016 12:54:45 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>This purchase link is for Dustin Gaines only.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Sep 2016 19:17:37 +0000</listdate>
+    <saledate>Fri, 16 Sep 2016 19:29:38 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Please do not buy this unless you won the auction from me. 
+This item is reserved for a specific user.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Sep 2016 17:12:42 +0000</listdate>
+    <saledate>Sun, 25 Sep 2016 17:13:02 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Oct 2016 22:32:40 +0000</listdate>
+    <saledate>Wed, 19 Oct 2016 02:23:17 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/215173/item/4929683#4929683]Item for Geeklist _T_E_M_P_T_A_G_quot;Starting At $5 - Another Massive 75+ Game Auction Plus Promos!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Dec 2016 22:53:27 +0000</listdate>
+    <saledate>Tue, 27 Dec 2016 19:37:04 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>new</condition>
+    <notes>Brand new in shrinkwrap.  In perfect condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Oct 2016 16:23:32 +0000</listdate>
+    <saledate>Sat, 28 Jan 2017 01:29:46 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played once, great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Feb 2016 07:22:06 +0000</listdate>
+    <saledate>Tue, 07 Feb 2017 22:49:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This one has been punched and played two times. The box and components show little to no wear. 
+Buyer to pay actual shipping from 95008. Local pickup in San Jose, CA, is available as well.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jan 2016 16:56:54 +0000</listdate>
+    <saledate>Sat, 18 Feb 2017 10:46:40 +0000</saledate>
+    <price currency='EUR'>39.9</price>
+    <condition>new</condition>
+    <notes>Neu und noch in Folie. / New and still in shrink!
+Rare and out of print. A much undervalued top game. It_T_E_M_P_T_A_G_#039;s my extra copy, It_T_E_M_P_T_A_G_#039;s one of my favourite games.)
+Selten und nicht mehr erhältlich. Ich hab_T_E_M_P_T_A_G_#039;s zweimal. Mein eigenes gebe ich nicht her, denn es ist eins meiner Lieblingsspiele. 
+Shipping / Versand:  Gemany: 6.90 €  / EU: 15.90 €
+Paypal: 2 €
+Paypal special: _T_E_M_P_T_A_G_quot;send money to a friend)_T_E_M_P_T_A_G_quot;: free
+Money transfer: free / Überweisung: frei</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Feb 2017 11:25:06 +0000</listdate>
+    <saledate>Tue, 28 Feb 2017 17:13:19 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Apr 2017 02:46:59 +0000</listdate>
+    <saledate>Wed, 05 Apr 2017 12:40:05 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>Note: Local Pickup
+This sale is only for user Senator R, the winner of this item in The Icarus 100+ Games 98% Reserve-Free Massive Tax Time Auction USA Canada.
+Condition: Never Punched - Box Like New
+Winning Bid: $14 - Senator R</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Apr 2017 04:35:36 +0000</listdate>
+    <saledate>Wed, 26 Apr 2017 20:42:28 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Never played; complete and in very good condition. From a smoke-free, pet-free home. Will ship USPS Priority Mail ($13.65). I ask the buyer to cover the BoardGameGeek commission (less than a dollar); I_T_E_M_P_T_A_G_#039;ll cover the PayPal transaction fee.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Aug 2016 16:39:27 +0000</listdate>
+    <saledate>Tue, 13 Jun 2017 23:52:21 +0000</saledate>
+    <price currency='USD'>21.95</price>
+    <condition>likenew</condition>
+    <notes>Rule book has minor underlining to highlight key rules, otherwise game is in mint condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Jun 2017 02:47:17 +0000</listdate>
+    <saledate>Fri, 16 Jun 2017 15:24:15 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/226136/item/5428794#5428794]Item for Geeklist _T_E_M_P_T_A_G_quot;LESS THAN 12 HOURS LEFT!!! BINS LOWERED - AUCTION - Origins Pickup - We Put Together Our First Auction...But It Has Some Good Stuff!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Please let me know how you would like the game delivered (Origins/Local/Shipped) and how you would like to pay (cash/Paypal). If you choose Origins for delivery I will send you the details upon confirmation of the sale.
+Thanks you!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Jun 2017 00:43:57 +0000</listdate>
+    <saledate>Tue, 20 Jun 2017 00:58:49 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Only for auction winner Cody (AHShole) of _T_E_M_P_T_A_G_quot;Ends June 16th-- Auction: Runebound, Thunderstone, Blood Rage, more... STL area pickup (63134 / 62294)_T_E_M_P_T_A_G_quot;
+$10 - City of Remnants</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Apr 2017 09:29:00 +0000</listdate>
+    <saledate>Tue, 27 Jun 2017 11:38:10 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Oct 2016 10:37:23 +0000</listdate>
+    <saledate>Thu, 29 Jun 2017 09:37:33 +0000</saledate>
+    <price currency='GBP'>22</price>
+    <condition>good</condition>
+    <notes>**Reserved for CottonBallKid**
+Slight crease to top of box, slightly creased manual with minor damage to back page. Nothing serious to worry about.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Aug 2013 09:26:23 +0000</listdate>
+    <saledate>Wed, 26 Jul 2017 19:32:19 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>new</condition>
+    <notes>PlaidHat Games - City of Remnants
+Language: English
+Players: 2 to 4
+Age: 13+
+Duration: 60 to 90 min
+Weight: 1.750 kg
+New -- mint condition -- unopened -- still in shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Feb 2015 01:19:55 +0000</listdate>
+    <saledate>Thu, 27 Jul 2017 04:17:08 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>NIS</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Jun 2017 16:36:40 +0000</listdate>
+    <saledate>Sat, 02 Sep 2017 09:09:47 +0000</saledate>
+    <price currency='USD'>23.99</price>
+    <condition>verygood</condition>
+    <notes>Game has been played a few times and the box shows a little shelf wear, but everything is in great shape and still looks good.  Buyer only to pay actual shipping, should fit in a Medium Flat Rate Box if you are purchasing domestically.
+Please let me know if you have any questions or would like photos.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Oct 2017 15:53:59 +0000</listdate>
+    <saledate>Wed, 18 Oct 2017 09:38:05 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This is a pristine copy; smoke and mildew free.  Shrink wrap still attached to box top.  Actual shipping cost from 44074, so shipping to the east will be below flat rate.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Oct 2017 05:29:21 +0000</listdate>
+    <saledate>Fri, 10 Nov 2017 21:04:51 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played twice. Great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Nov 2017 20:06:21 +0000</listdate>
+    <saledate>Sun, 26 Nov 2017 21:19:05 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Nov 2017 19:34:17 +0000</listdate>
+    <saledate>Fri, 01 Dec 2017 15:09:58 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Condition:  Very Good, played once, minor shelf wear. All cards sleeved and components bagged.
+Buyer pays $13 for shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Dec 2017 17:11:58 +0000</listdate>
+    <saledate>Wed, 03 Jan 2018 23:20:14 +0000</saledate>
+    <price currency='USD'>26.99</price>
+    <condition>new</condition>
+    <notes>This is a NEW copy. Still in the Shrink. Enjoy!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Nov 2017 10:14:45 +0000</listdate>
+    <saledate>Fri, 12 Jan 2018 23:43:58 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Selling above mentioned game. Played once and all cards sleeved.
+Photos can be supplied on request. I accept PayPal and Überweisung.
+Can be picked up in Cologne otherwise shipping for €5.99 insured with tracking in Germany. Rest of Europe i will have to check upon sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Feb 2018 23:25:50 +0000</listdate>
+    <saledate>Wed, 21 Feb 2018 10:59:11 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>This item has been generated for user [user=Boardgamemart86][/user] as the winner of [listitem=5864374]City of Remnants[/listitem] in my auction _T_E_M_P_T_A_G_quot;[geeklist=235481][/geeklist]_T_E_M_P_T_A_G_quot;
+Please do not purchase unless you are the user listed above.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jun 2016 18:31:49 +0000</listdate>
+    <saledate>Thu, 17 May 2018 20:19:52 +0000</saledate>
+    <price currency='USD'>33.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+CITY OF REMNANTS: $33.95
+Plaid Hat Games [PSI COR01]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 May 2018 16:56:43 +0000</listdate>
+    <saledate>Wed, 13 Jun 2018 03:27:30 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>USPS Flat Rate Shipping for $13.65.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jun 2018 19:42:55 +0000</listdate>
+    <saledate>Tue, 19 Jun 2018 04:29:10 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241960/item/6212672#6212672]Item for Geeklist _T_E_M_P_T_A_G_quot;Gencon Virtual Flea Market 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For Gencon pickup</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2018 16:48:27 +0000</listdate>
+    <saledate>Wed, 04 Jul 2018 19:54:57 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Flat Rate Shipping is $10.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jul 2018 22:19:53 +0000</listdate>
+    <saledate>Tue, 17 Jul 2018 11:33:15 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Aug 2017 13:49:32 +0000</listdate>
+    <saledate>Fri, 27 Jul 2018 06:35:14 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Played a few times. Not a hit with my game group unfortunately.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jul 2018 18:02:18 +0000</listdate>
+    <saledate>Wed, 05 Sep 2018 14:27:39 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>played once, postage will be £4 in uk</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Sep 2018 00:46:37 +0000</listdate>
+    <saledate>Tue, 02 Oct 2018 00:10:41 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+Buyer pays actual shipping via USPS, UPS, or FedEx. Shipping from Chicago, IL, USA. Local pickup is available.
+Shipping to other countries is expensive. It could be as much as $30-$60+ depending on where it_T_E_M_P_T_A_G_#039;s going and the weight of package. Please feel free to message me about the shipping cost before buying. 
+PayPal, Zelle, or Venmo, or message me if you prefer another online method and I_T_E_M_P_T_A_G_#039;ll look into it.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Oct 2018 07:21:15 +0000</listdate>
+    <saledate>Wed, 17 Oct 2018 10:43:02 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246470/item/6438497#6438497]Item for Geeklist _T_E_M_P_T_A_G_quot;Huge auction! Tons of great games! Many NIS_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Nov 2018 19:54:40 +0000</listdate>
+    <saledate>Fri, 30 Nov 2018 13:36:26 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

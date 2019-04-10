@@ -1,0 +1,892 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="35342">
+   <yearpublished>2008</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>0</age>
+       <name primary="true" sortindex="1">Hold the Line</name>
+         
+   <description>Take command of the American and British Armies in twelve great battles of the American Revolutionary War. You'll feel the battles come to life as the American Continentals and feared British Elites try to hold the line against each other at the battles of Long Island, Harlem Heights, Weitzel's Mill,Trenton, Hobkirk's Hill, Eutaw Springs, Bemis Heights, White Plains, Kings Mountain, Brandywine, and the double scenario covering the morning and afternoon battles at Monmouth._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game comes with a beautiful hard mounted game board with hard mounted terrain tiles, counters and thick counters representing infantry, dragoons and artillery. The game also uses the Clash for a Continent system._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;As British leaders you've told the American patriots to lay down their weapons or you'll lay waste to their homes. And as the Americans you have pledged your lives and fortunes in defense of all you value. Take the role of British generals Howe, Burgoyne, Cornwallis and others as you stake your reputation on defeating the rebel armies. As American generals Washington, Greene, Gates and others as you've precariously placed your army in their path... The enemy approaches, the sound of cannon deafens, men shout commands, smoke fills the air, can you HOLD THE LINE!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Scenarios:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Long Island_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Harlem Heights_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;White Plains_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Trenton_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Brandywine_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Bemis Heights_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Monmouth (morning phase)_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Monmouth (afternoon phase)_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Kings Mountain_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Weitzel's Mill_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Hobkirk's Hill_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Eutaw Springs_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Princeton_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/d_36Fa0gVdU15FTSAhlJVRcIEkI=/fit-in/200x150/pic315672.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/jtgSQWaUvGQtJpn5dIwDLlkHuT0=/0x0/pic315672.jpg</image>
+      
+            <boardgamemechanic objectid="2001">Action Point Allowance System</boardgamemechanic>
+               <boardgamefamily objectid="9793">Age of Kings</boardgamefamily>
+               <boardgamecategory objectid="2726">Age of Reason</boardgamecategory>
+               <boardgamecategory objectid="1075">American Revolutionary War</boardgamecategory>
+               <boardgamedesigner objectid="4576">Matt Burchfield</boardgamedesigner>
+                      <boardgameartist objectid="27597">Sean Cooke</boardgameartist>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+                             <boardgameversion objectid="28670">First edition</boardgameversion>
+               <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+               <boardgamefamily objectid="17619">Hold the Line</boardgamefamily>
+               <boardgameexpansion objectid="37900">Hold the Line: French and Indian War Expansion Set</boardgameexpansion>
+               <boardgameexpansion objectid="136943">Hold the Line: Highland Charge</boardgameexpansion>
+               <boardgameimplementation objectid="198630">Hold the Line: The American Revolution</boardgameimplementation>
+               <boardgameexpansion objectid="29134">Hold The Line: The Mexican-American War Expansion Set</boardgameexpansion>
+               <boardgamefamily objectid="23977">Holidays:  4th of July</boardgamefamily>
+                      <boardgamemechanic objectid="2011">Modular Board</boardgamemechanic>
+               <boardgameartist objectid="20663">Don Troiani</boardgameartist>
+                      <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+               <boardgamepublisher objectid="2355">Worthington Games</boardgamepublisher>
+               <boardgamedesigner objectid="3464">Grant Wylie</boardgamedesigner>
+               <boardgamedesigner objectid="3465">Mike Wylie</boardgamedesigner>
+                      <boardgameartist objectid="27836">Gary Zaboly</boardgameartist>
+               <boardgameimplementation objectid="14860" inbound="true">Clash for a Continent:  Battles of the American Revolution and French _T_E_M_P_T_A_G_amp; Indian War</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="9" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="12" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="1" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="1" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="5" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>505</usersrated>
+     <average>7.33174</average>
+     <bayesaverage>6.03326</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2059" bayesaverage="6.03326" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="197" bayesaverage="6.86597" />
+            
+           </ranks>
+     
+     <stddev>1.386</stddev>
+     <median>0</median>
+     <owned>905</owned>
+     <trading>53</trading>
+     <wanting>89</wanting>
+     <wishing>282</wishing>
+     <numcomments>237</numcomments>
+     <numweights>93</numweights>
+     <averageweight>1.828</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 16 Oct 2008 16:56:21 +0000</listdate>
+    <saledate>Sat, 18 Oct 2008 21:42:24 +0000</saledate>
+    <price currency='EUR'>54.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Oct 2008 13:32:24 +0000</listdate>
+    <saledate>Mon, 03 Nov 2008 00:37:45 +0000</saledate>
+    <price currency='USD'>35.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+HOLD THE LINE: $35.95
+Worthington Games [WG 008]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Nov 2008 03:16:03 +0000</listdate>
+    <saledate>Mon, 17 Nov 2008 16:45:51 +0000</saledate>
+    <price currency='USD'>35.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+HOLD THE LINE: $35.95
+Worthington Games [WG 008]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Nov 2008 17:03:36 +0000</listdate>
+    <saledate>Sat, 20 Dec 2008 04:31:30 +0000</saledate>
+    <price currency='USD'>35.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+HOLD THE LINE: $35.95
+Worthington Games [WG 008]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Feb 2009 22:11:03 +0000</listdate>
+    <saledate>Thu, 05 Mar 2009 23:33:07 +0000</saledate>
+    <price currency='USD'>35.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+HOLD THE LINE: $35.95
+Worthington Games [WG 009]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Mar 2009 15:10:20 +0000</listdate>
+    <saledate>Mon, 25 May 2009 22:07:50 +0000</saledate>
+    <price currency='USD'>35.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+HOLD THE LINE: $35.95
+Worthington Games [WG 009]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 May 2009 18:14:50 +0000</listdate>
+    <saledate>Mon, 25 May 2009 01:31:32 +0000</saledate>
+    <price currency='USD'>33.49</price>
+    <condition>new</condition>
+    <notes>Worthington Games (WOG 008)
+Take command of the American and British Armies in twelve great battles of the American Revolutionary War. You_T_E_M_P_T_A_G_#039;ll feel the battles come to life as the American Continentals and feared British Elites try to hold the line against each other at the battles of Long Island, Harlem Heights, Princeton, Trenton, Hobkirk_T_E_M_P_T_A_G_#039;s Hill, Eutaw Springs, Bemis Heights, White Plains, Kings Mountain, Brandywine, and the double scenario covering the morning and afternoon battles at Monmouth.
+The game comes with a beautiful hard mounted game board with hard mounted terrain tiles, large counters. The game also uses the Clash for a Continent system.
+As British leaders you_T_E_M_P_T_A_G_#039;ve told the American patriots to lay down their weapons or you_T_E_M_P_T_A_G_#039;ll lay waste to their lands. And as the Americans you have pledged your lives and fortunes in defense of all you value. Take the role of British generals Howe, Burgoyne, Cornwallis and others as you stake your reputation on defeating the rebel armies. As American generals Washington, Greene, Gates and others as you_T_E_M_P_T_A_G_#039;ve precariously placed your army in their path... The enemy approaches, the sound of cannon deafens, men shout commands, smoke fills the air, can you HOLD THE LINE!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Jun 2009 18:34:20 +0000</listdate>
+    <saledate>Tue, 07 Jul 2009 04:02:19 +0000</saledate>
+    <price currency='USD'>48.99</price>
+    <condition>new</condition>
+    <notes>This is for Hold the Line PLUS the French Indian War Expansion to Hold the Line.  The base game is opened and unpunched.  The expansion is still sealed, brand new.
+I just don_T_E_M_P_T_A_G_#039;t know when I am going to get a chance to play this.  Now you can have both!
+Shipping is for USPS Flat Rate with delivery confirmation. I do not charge extra for PayPal.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Jul 2009 00:17:24 +0000</listdate>
+    <saledate>Thu, 16 Jul 2009 15:21:04 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>Geeklist Auction Item for BGG user _T_E_M_P_T_A_G_#039;Thunder_T_E_M_P_T_A_G_#039; only.  Also includes expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jul 2009 15:44:51 +0000</listdate>
+    <saledate>Sat, 23 Jan 2010 19:14:55 +0000</saledate>
+    <price currency='USD'>33.49</price>
+    <condition>new</condition>
+    <notes>Worthington Games (WOG 008)
+Take command of the American and British Armies in twelve great battles of the American Revolutionary War. You_T_E_M_P_T_A_G_#039;ll feel the battles come to life as the American Continentals and feared British Elites try to hold the line against each other at the battles of Long Island, Harlem Heights, Princeton, Trenton, Hobkirk_T_E_M_P_T_A_G_#039;s Hill, Eutaw Springs, Bemis Heights, White Plains, Kings Mountain, Brandywine, and the double scenario covering the morning and afternoon battles at Monmouth.
+The game comes with a beautiful hard mounted game board with hard mounted terrain tiles, large counters. The game also uses the Clash for a Continent system.
+As British leaders you_T_E_M_P_T_A_G_#039;ve told the American patriots to lay down their weapons or you_T_E_M_P_T_A_G_#039;ll lay waste to their lands. And as the Americans you have pledged your lives and fortunes in defense of all you value. Take the role of British generals Howe, Burgoyne, Cornwallis and others as you stake your reputation on defeating the rebel armies. As American generals Washington, Greene, Gates and others as you_T_E_M_P_T_A_G_#039;ve precariously placed your army in their path... The enemy approaches, the sound of cannon deafens, men shout commands, smoke fills the air, can you HOLD THE LINE!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Sep 2009 04:12:33 +0000</listdate>
+    <saledate>Sat, 26 Sep 2009 05:34:14 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>acceptable</condition>
+    <notes>Includes French _T_E_M_P_T_A_G_amp; Indian War
+For Natus Only (Geeklist auction)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Nov 2009 21:32:35 +0000</listdate>
+    <saledate>Thu, 03 Dec 2009 18:40:04 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>likenew</condition>
+    <notes>Received in a trade. In excellent condition, and includes GMT trays for storing all the counters.
+I will only sell this if you also purchase the French and Indian War expansion ($13) from me.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jan 2010 02:24:06 +0000</listdate>
+    <saledate>Mon, 11 Jan 2010 03:08:29 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>For Cherp only.  From geeklist auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jan 2010 15:09:39 +0000</listdate>
+    <saledate>Sun, 14 Mar 2010 18:08:55 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This game has been played once and is in excellent condition.
+I prefer paypal payments but I also accept money orders. I will ship once I receive payment. This game will ship USPS priority mail, flat rate box. Although I pack my games well, I cannot be responsible for any damage caused during shipping. Insurance is available to buyers at cost.
+Shipping cost is $10.00</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Jun 2010 17:38:46 +0000</listdate>
+    <saledate>Sun, 06 Jun 2010 03:47:41 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Played once. Everything like new.
+*** INCLUDES FRENCH AND INDIAN WAR EXPANSION ***</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jul 2010 19:58:04 +0000</listdate>
+    <saledate>Fri, 05 Nov 2010 23:01:26 +0000</saledate>
+    <price currency='GBP'>27</price>
+    <condition>likenew</condition>
+    <notes>NEVER USED.  terrain tiles are still unpunched.  The units have been punched _T_E_M_P_T_A_G_amp; bagged ( because they fell out of the sprue...)  The rule book has just a little of my writing in it , but not much.   100 % complete
+also selling the expansion set as well...!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Dec 2010 01:08:51 +0000</listdate>
+    <saledate>Fri, 07 Jan 2011 22:36:54 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>This includes the Frennch and Indian War expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Mar 2011 10:40:09 +0000</listdate>
+    <saledate>Thu, 10 Mar 2011 12:51:54 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>For shedding the wedding winner David Me 
+Paypal email eternallove79@juno.com
+Pay for the game and shipping.  Will ship rush N crush with hold the line for 15.00 total.  $59 total.  </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 May 2011 11:50:41 +0000</listdate>
+    <saledate>Wed, 28 Sep 2011 20:42:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Played, complete, in very good condition. Might be missing one terrain tile.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jul 2011 14:24:09 +0000</listdate>
+    <saledate>Tue, 27 Sep 2011 17:01:29 +0000</saledate>
+    <price currency='GBP'>22.5</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Aug 2011 13:24:42 +0000</listdate>
+    <saledate>Mon, 08 Aug 2011 13:37:24 +0000</saledate>
+    <price currency='USD'>27.5</price>
+    <condition>verygood</condition>
+    <notes>Notes: Punched, but only played a few times.  Nothing missing or damaged.  Everything neatly bagged and sorted.  Box has no splits,dents, dings, or tears. INCLUDES FRENCH _T_E_M_P_T_A_G_amp; INDIAN WAR EXPANSION.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Jan 2012 21:46:39 +0000</listdate>
+    <saledate>Tue, 28 Feb 2012 11:49:39 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Punched and Played twice.  Box and Components are in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Apr 2012 12:56:28 +0000</listdate>
+    <saledate>Sat, 14 Apr 2012 23:15:22 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>punched but Never Played</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 May 2012 01:24:00 +0000</listdate>
+    <saledate>Wed, 07 Nov 2012 06:14:28 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Aug 2012 06:57:47 +0000</listdate>
+    <saledate>Tue, 28 Aug 2012 01:49:25 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>· HOLD THE LINE  (Worthington Games, 2008)  The box and game are in NEW condition, in original FACTORY SHRINK WRAP.   
+Cashiers Check and Money Orders accepted, PAY PAL preferred (PAY PAL ID is greatdiscoverer@yahoo.com).  Payment is expected to arrive and clear before item(s) will ship.  Buyer pays for shipping.  Shipping charges are those quoted by the USPS for shipping the item(s).  Please note that the item(s) will ship the Saturday following payment clearing (sorry but I work days and evenings and usually can not get to the Post Office before then).  Additional pictures furnished upon request.
+Best wishes,
+Jon
+greatdiscoverer@yahoo.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Dec 2012 07:49:03 +0000</listdate>
+    <saledate>Fri, 04 Jan 2013 08:47:30 +0000</saledate>
+    <price currency='USD'>23.95</price>
+    <condition>likenew</condition>
+    <notes>Opened never played. All counters punched in 2 plastic containers. All terrain hex pieces in zip-lock baggies. Contains complete French and Indian War expansion set @ no additional charge.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Jan 2013 11:17:49 +0000</listdate>
+    <saledate>Sat, 11 Jan 2014 05:47:04 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>payment by check or money order. Shipping $12.35.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jan 2013 15:10:30 +0000</listdate>
+    <saledate>Tue, 22 Jan 2013 18:21:12 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Includes expansion
+Auction for JJRBEDFORD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Feb 2013 15:47:35 +0000</listdate>
+    <saledate>Wed, 13 Feb 2013 15:46:33 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>unplayed. second copy</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Feb 2013 15:55:42 +0000</listdate>
+    <saledate>Tue, 19 Feb 2013 17:26:09 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Super Game Auction winner Tripp.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Mar 2013 00:31:33 +0000</listdate>
+    <saledate>Mon, 18 Mar 2013 15:12:41 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Auction win for pendragon714. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Jun 2013 14:23:23 +0000</listdate>
+    <saledate>Tue, 20 Aug 2013 15:05:41 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>new</condition>
+    <notes>In original shrink wrap</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Jun 2013 21:55:20 +0000</listdate>
+    <saledate>Wed, 19 Jun 2013 22:20:36 +0000</saledate>
+    <price currency='USD'>31.49</price>
+    <condition>new</condition>
+    <notes>Brand New!
+FYI: Very light barely noticeable corner ding
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $10.95</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Aug 2013 18:30:51 +0000</listdate>
+    <saledate>Thu, 05 Sep 2013 14:42:57 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+$10 shipping
+US and paypal only.  Must ship to Paypal verified address.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Oct 2013 04:45:44 +0000</listdate>
+    <saledate>Thu, 10 Oct 2013 23:04:22 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Only played a couple of times.  All pieces are neatly bagged and sorted.  Box has no splits, dings, dents, or tears.  INCLUDES FRENCH _T_E_M_P_T_A_G_amp; INDIAN WAR EXPANSION.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Oct 2013 10:09:11 +0000</listdate>
+    <saledate>Tue, 05 Nov 2013 19:10:29 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>Punched game</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Oct 2013 17:09:33 +0000</listdate>
+    <saledate>Wed, 06 Nov 2013 07:56:16 +0000</saledate>
+    <price currency='GBP'>24</price>
+    <condition>verygood</condition>
+    <notes>100 % complete...[ the rule book has some of my writing in it ]  . all counters _T_E_M_P_T_A_G_amp; mapboard in excellent condition.   Box has slight dent in it..
+UK postage £ 6  likely  
+**** ONLY selling this with the French _T_E_M_P_T_A_G_amp; Indian war expansion - which is also excellent ****</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Dec 2013 17:01:25 +0000</listdate>
+    <saledate>Mon, 06 Jan 2014 21:29:13 +0000</saledate>
+    <price currency='USD'>33.99</price>
+    <condition>new</condition>
+    <notes>Worthington Games (WOG008)
+Take command of the American and British Armies in twelve great battles of the American Revolutionary War. You_T_E_M_P_T_A_G_#039;ll feel the battles come to life as the American Continentals and feared British Elites try to hold the line against each other at the battles of Long Island, Harlem Heights, Princeton, Trenton, Hobkirk_T_E_M_P_T_A_G_#039;s Hill, Eutaw Springs, Bemis Heights, White Plains, Kings Mountain, Brandywine, and the double scenario covering the morning and afternoon battles at Monmouth. The game comes with a beautiful hard mounted game board with hard mounted terrain tiles, large counters. The game also uses the Clash for a Continent system. As British leaders you_T_E_M_P_T_A_G_#039;ve told the American patriots to lay down their weapons or you_T_E_M_P_T_A_G_#039;ll lay waste to their lands. And as the Americans you have pledged your lives and fortunes in defense of all you value. Take the role of British generals Howe, Burgoyne, Cornwallis and others as you stake your reputation on defeating the rebel armies. As American generals Washington, Greene, Gates and others as you_T_E_M_P_T_A_G_#039;ve precariously placed your army in their path... The enemy approaches, the sound of cannon deafens, men shout commands, smoke fills the air, can you HOLD THE LINE! </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Mar 2014 12:03:22 +0000</listdate>
+    <saledate>Wed, 19 Mar 2014 04:11:59 +0000</saledate>
+    <price currency='EUR'>39.99</price>
+    <condition>new</condition>
+    <notes>Hold the Line
+First Edition
+Publisher: Worthington Games</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Mar 2014 18:33:23 +0000</listdate>
+    <saledate>Wed, 16 Apr 2014 13:42:38 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>All the components are like new. No wear on the box or map. The counters are punched.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Aug 2014 01:52:48 +0000</listdate>
+    <saledate>Mon, 04 Aug 2014 10:17:13 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/176690/item/3340268#3340268]Item for Geeklist _T_E_M_P_T_A_G_quot;US Only Auction: Yunnan, Container, Japanese games and more! _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Aug 2014 19:06:53 +0000</listdate>
+    <saledate>Mon, 18 Aug 2014 21:44:51 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Never played. Never punched the counters. Mint. Will include the French and Indian War expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Oct 2014 03:24:20 +0000</listdate>
+    <saledate>Sat, 11 Oct 2014 03:38:03 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>reserved for James torr</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Oct 2014 21:47:35 +0000</listdate>
+    <saledate>Sun, 12 Oct 2014 00:15:27 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Geeklist auction win.  For user vezina99 ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Oct 2014 12:13:47 +0000</listdate>
+    <saledate>Tue, 14 Oct 2014 14:37:35 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Reserved James torr</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Oct 2014 10:30:16 +0000</listdate>
+    <saledate>Sun, 02 Nov 2014 19:03:22 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>likenew</condition>
+    <notes>Complete. Unplayed. Pieces punched, terrain unpunched. All components in pristine, as-new condition. Light storage wear to box.
+HUGE BONUS: Includes complete French and Indian Wars expansion! The expansion is punched and sits in the HtL box with the other pieces, but is otherwise in pristine, as-new, unplayed condition, as is the main game.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Nov 2014 20:27:05 +0000</listdate>
+    <saledate>Sat, 06 Dec 2014 12:48:47 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Includes the French and Indian War Expansion. 
+Punched</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Nov 2014 12:51:18 +0000</listdate>
+    <saledate>Thu, 29 Jan 2015 20:34:27 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>Game is played a few times and in very good shape. Includes the French and Indian War expansion.
+I will ship anywhere in the world and never ask more then actual shipping costs. Shipping of multiple items can be combined.
+Payment through PayPal (worldwide) or bank transfer (within EU).
+Any questions? Just ask</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Jan 2015 13:59:01 +0000</listdate>
+    <saledate>Sat, 31 Jan 2015 14:08:21 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Counters punched, lightly played, near mint - includes French _T_E_M_P_T_A_G_amp; Indian War expansion.
+Buyer to pay actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Mar 2015 03:15:56 +0000</listdate>
+    <saledate>Mon, 30 Mar 2015 03:27:31 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>For user 4x sclaper only. Pick up at Tennessee Game Days.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Apr 2015 02:40:04 +0000</listdate>
+    <saledate>Wed, 01 Apr 2015 06:25:44 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Open and punched but never played. Everything is in excellent condition.
+$12.00 shipping to Continental US.
+Please geekmail me with any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 May 2015 02:40:59 +0000</listdate>
+    <saledate>Fri, 22 May 2015 15:49:17 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>RESERVED FOR WINNING BIDDER: mdkiria
+This sale has been auto-generated for the auction: [geekurl=/geeklist/190563/item/3879066#3879066]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee VIII:  Who Cut The Cheese?_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+It looks like I will ship this with the items from motoyugota, OriginalDM, and aksosa.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Apr 2015 20:48:32 +0000</listdate>
+    <saledate>Thu, 02 Jul 2015 15:29:00 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Box top dished, has creases, contents like new.
+Will ship cheapest USPS Priority Mail option.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Apr 2015 04:45:38 +0000</listdate>
+    <saledate>Mon, 13 Jul 2015 16:36:03 +0000</saledate>
+    <price currency='EUR'>47.99</price>
+    <condition>new</condition>
+    <notes>Hold the Line_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;First Edition_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Publisher: Worthington Games</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Aug 2015 19:39:57 +0000</listdate>
+    <saledate>Sat, 15 Aug 2015 21:27:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Slight damage to the box, all components present and in excellent condition. Will include the French and Indian war expansion pack. At no extra cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Aug 2015 20:17:42 +0000</listdate>
+    <saledate>Sat, 14 Nov 2015 22:41:32 +0000</saledate>
+    <price currency='USD'>33.29</price>
+    <condition>good</condition>
+    <notes>Age-related wear/tear</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Oct 2015 21:18:37 +0000</listdate>
+    <saledate>Mon, 30 Nov 2015 02:28:00 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Dec 2015 16:19:48 +0000</listdate>
+    <saledate>Sat, 02 Jan 2016 04:25:23 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New in shrink with French and Indian War Expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jan 2016 00:24:35 +0000</listdate>
+    <saledate>Wed, 27 Jan 2016 06:00:21 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>played once. contains two rulebooks. Paypal only. USPS flatrate only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Feb 2016 14:55:46 +0000</listdate>
+    <saledate>Fri, 12 Feb 2016 21:10:22 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>You will just pay the actual postage, I_T_E_M_P_T_A_G_#039;ll confirm this when I confirm the order.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Feb 2016 00:09:38 +0000</listdate>
+    <saledate>Tue, 23 Feb 2016 18:17:45 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Punched, and in very good condition. Comes with 110 counters, missing the one blank.     Back of the box states 114 counters, but BGG consensus seems to agree 110 counters and 1 blank. Also includes the French and Indian War Expansion Pack, still in the shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Mar 2016 18:56:46 +0000</listdate>
+    <saledate>Thu, 17 Mar 2016 21:17:00 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>Have French _T_E_M_P_T_A_G_amp; Indian expansion for sale  as well - £45 for both !!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jul 2015 06:52:04 +0000</listdate>
+    <saledate>Mon, 21 Mar 2016 20:13:51 +0000</saledate>
+    <price currency='EUR'>47.99</price>
+    <condition>new</condition>
+    <notes>Hold the Line_T_E_M_P_T_A_G_amp;lt;br /_T_E_M_P_T_A_G_amp;gt;First Edition_T_E_M_P_T_A_G_amp;lt;br /_T_E_M_P_T_A_G_amp;gt;Publisher: Worthington Games</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 May 2016 04:25:53 +0000</listdate>
+    <saledate>Sun, 05 Jun 2016 05:56:20 +0000</saledate>
+    <price currency='CAD'>45</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Bootyourface.
+Includes French and Indian War Expansion Set.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Jun 2016 23:57:57 +0000</listdate>
+    <saledate>Mon, 04 Jul 2016 08:53:58 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>in original shrink wrap</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jul 2016 22:42:04 +0000</listdate>
+    <saledate>Wed, 13 Jul 2016 20:21:30 +0000</saledate>
+    <price currency='USD'>32.99</price>
+    <condition>new</condition>
+    <notes>New / shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jul 2016 12:06:08 +0000</listdate>
+    <saledate>Tue, 16 Aug 2016 07:13:34 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>UK postage small packet £5  [ 3.50 bank to bank ]</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Jul 2016 06:20:14 +0000</listdate>
+    <saledate>Wed, 17 Aug 2016 17:23:41 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>New Game - Components punched and bagged - never played - buyer to pay $13.45 usps priority shipping in a flat rate box - I accept paypal</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Sep 2016 13:41:04 +0000</listdate>
+    <saledate>Fri, 09 Sep 2016 16:34:00 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>For Jgrime9822</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Sep 2016 14:04:11 +0000</listdate>
+    <saledate>Sat, 15 Oct 2016 15:08:02 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played. It_T_E_M_P_T_A_G_#039;s just gathering dust on my shelf.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Oct 2016 20:46:52 +0000</listdate>
+    <saledate>Wed, 16 Nov 2016 20:51:19 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes>includes French _T_E_M_P_T_A_G_amp; Indian War Expansion
+Punched.
+Shipping inside the EU: 15€
+Shipping inside Austria: 5€
+Payment via PayPal: Buyer pays fees.
+Wire transfer (IBAN) prefered.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Oct 2016 09:36:24 +0000</listdate>
+    <saledate>Mon, 21 Nov 2016 18:06:14 +0000</saledate>
+    <price currency='EUR'>69.99</price>
+    <condition>new</condition>
+    <notes>Plastic Soldier Company version with Miniatures (2016)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Dec 2016 19:53:14 +0000</listdate>
+    <saledate>Fri, 09 Dec 2016 23:22:10 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Lot contains Hold the Line + French in Indian War expansion in one box, and Frederick_T_E_M_P_T_A_G_#039;s War + Highland Charge expansion in another box.  All components are LN--only Hold the Line has been played a couple of times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Nov 2016 05:09:52 +0000</listdate>
+    <saledate>Sat, 24 Dec 2016 04:00:06 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Opened and punched. 100% complete. U.S. addresses only, please. I ship USPS flat rate.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jan 2017 18:01:43 +0000</listdate>
+    <saledate>Wed, 22 Feb 2017 02:08:05 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New, still in original shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Mar 2016 07:22:21 +0000</listdate>
+    <saledate>Mon, 27 Feb 2017 22:03:59 +0000</saledate>
+    <price currency='EUR'>47.99</price>
+    <condition>new</condition>
+    <notes>Hold the Line_T_E_M_P_T_A_G_amp;lt;br /_T_E_M_P_T_A_G_amp;gt;First Edition_T_E_M_P_T_A_G_amp;lt;br /_T_E_M_P_T_A_G_amp;gt;Publisher: Worthington Games</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Apr 2017 05:52:21 +0000</listdate>
+    <saledate>Sun, 09 Apr 2017 11:49:00 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Includes French and Indian War expansion and Highland Charge Expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Mar 2017 08:08:35 +0000</listdate>
+    <saledate>Wed, 19 Apr 2017 09:28:41 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>likenew</condition>
+    <notes>No insert</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Mar 2017 04:15:45 +0000</listdate>
+    <saledate>Wed, 10 May 2017 22:50:48 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jun 2017 19:43:07 +0000</listdate>
+    <saledate>Sat, 10 Jun 2017 02:05:11 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition.
+Add $10 for shipping, or save on shipping by ordering other items that I have for sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jul 2017 15:00:02 +0000</listdate>
+    <saledate>Sun, 30 Jul 2017 06:22:23 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Box top has a small puncture, otherwise new in shrink. I can provide a photo if interested</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Sep 2014 22:12:39 +0000</listdate>
+    <saledate>Thu, 17 Aug 2017 21:32:45 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Factory shrinked.  Priority Mail $13.50 shipping includes insurance.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 02:37:14 +0000</listdate>
+    <saledate>Sat, 07 Oct 2017 02:30:46 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229693/item/5613210#5613210]Item for Geeklist _T_E_M_P_T_A_G_quot;Massive Auction ending Oct 1 North Philly Local Pick_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 May 2017 16:33:00 +0000</listdate>
+    <saledate>Sun, 26 Nov 2017 12:51:25 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>verygood</condition>
+    <notes>Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus max. 2 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Mar 2016 16:38:12 +0000</listdate>
+    <saledate>Sat, 02 Dec 2017 01:48:33 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>verygood</condition>
+    <notes>punched, with components all bagged</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Nov 2017 16:40:39 +0000</listdate>
+    <saledate>Sun, 03 Dec 2017 03:51:59 +0000</saledate>
+    <price currency='CAD'>25</price>
+    <condition>likenew</condition>
+    <notes>First edition copy of Hold the Line in excellent condition. Counter tray in picture is not included unless you pay an extra $3</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Dec 2017 07:55:31 +0000</listdate>
+    <saledate>Sat, 09 Dec 2017 20:17:30 +0000</saledate>
+    <price currency='USD'>39.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Dec 2017 01:20:45 +0000</listdate>
+    <saledate>Mon, 18 Dec 2017 13:40:05 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Reserved for worthdot from Auction. Includes French and Indian War expansion. 1st edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Feb 2018 19:06:46 +0000</listdate>
+    <saledate>Fri, 23 Mar 2018 18:53:13 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Mint in shrink.  $5.00 flat USA shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Apr 2018 17:27:26 +0000</listdate>
+    <saledate>Fri, 20 Apr 2018 17:55:40 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239865/item/6071161#6071161]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction -- Age of Steam map bundle, Commands _T_E_M_P_T_A_G_amp; Colors, Euros, nestorgames, more (ends 4/19/2018)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 May 2018 06:15:06 +0000</listdate>
+    <saledate>Mon, 04 Jun 2018 20:37:34 +0000</saledate>
+    <price currency='GBP'>28</price>
+    <condition>verygood</condition>
+    <notes>punched out large counters and bagged. unused game. small packet within UK</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 May 2018 12:48:36 +0000</listdate>
+    <saledate>Tue, 19 Jun 2018 23:41:14 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Played once</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Feb 2018 19:06:46 +0000</listdate>
+    <saledate>Mon, 09 Jul 2018 11:14:34 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Mint in shrink.  $5.00 flat USA shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Dec 2017 17:15:37 +0000</listdate>
+    <saledate>Fri, 17 Aug 2018 15:13:06 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>verygood</condition>
+    <notes>includes French and Indian Wars expansion, the expansion without box
+Shipping: Germany 6,00€
+Europe 13,00€</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jul 2018 16:17:48 +0000</listdate>
+    <saledate>Wed, 12 Sep 2018 15:44:54 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>likenew</condition>
+    <notes>INCLUDES FRENCH AND INDIAN EXPANSION
+Like new. Smoke and pet free.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Jan 2019 14:54:26 +0000</listdate>
+    <saledate>Mon, 21 Jan 2019 01:19:00 +0000</saledate>
+    <price currency='USD'>37.48</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jan 2019 01:24:04 +0000</listdate>
+    <saledate>Mon, 28 Jan 2019 03:55:25 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

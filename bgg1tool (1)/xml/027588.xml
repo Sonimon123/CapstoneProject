@@ -1,0 +1,3751 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="27588">
+   <yearpublished>2007</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>45</playingtime>
+   <minplaytime>45</minplaytime>
+   <maxplaytime>45</maxplaytime>
+   <age>8</age>
+       <name  sortindex="1">Animal Tycoon</name>
+       <name  sortindex="1">Burgers_T_E_M_P_T_A_G_#039; Zoo</name>
+       <name  sortindex="1">Dierentuin Bordspel</name>
+       <name primary="true" sortindex="1">Zooloretto</name>
+       <name  sortindex="1">Зоолоретто</name>
+       <name  sortindex="1">動物園大亨</name>
+       <name  sortindex="1">줄로레또</name>
+         
+   <description>In Zooloretto, each player uses small, large, wild, and exotic animals and their young to try to attract as many visitors as possible to their zoo _T_E_M_P_T_A_G_amp;ndash; but be careful! The zoo must be carefully planned as before you know it, you might have too many animals and no more room for them. That brings minus points! Luckily, your zoo can expand. A zoo of a family game in which less is sometimes more..._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Can be combined with_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Aquaretto_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Zooloretto Mini_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/j2dVcsYo4TDVjmq6P_kKFzTGdo8=/fit-in/200x150/pic2021685.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/loCMLQHk4ksy-24Zh9DwjM8EQnw=/0x0/pic2021685.png</image>
+      
+            <boardgamepublisher objectid="29">ABACUSSPIELE</boardgamepublisher>
+               <boardgamefamily objectid="3279">Coloretto Series</boardgamefamily>
+               <boardgameexpansion objectid="167903">20 Jahre Darmstadt Spielt</boardgameexpansion>
+               <boardgamehonor objectid="13366">2007 Australian Games Association Game of the Year</boardgamehonor>
+               <boardgamehonor objectid="8853">2007 Golden Geek Best Children_T_E_M_P_T_A_G_#039;s Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="8740">2007 Golden Geek Best Children_T_E_M_P_T_A_G_#039;s Board Game Winner</boardgamehonor>
+               <boardgamehonor objectid="8849">2007 Golden Geek Best Family Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="8736">2007 Golden Geek Best Family Board Game Winner</boardgamehonor>
+               <boardgamehonor objectid="19182">2007 Japan Boardgame Prize Best Foreign Game for Beginners Nominee</boardgamehonor>
+               <boardgamehonor objectid="19183">2007 Japan Boardgame Prize Best Foreign Game for Beginners Winner</boardgamehonor>
+               <boardgamehonor objectid="8641">2007 Spiel des Jahres Nominee</boardgamehonor>
+               <boardgamehonor objectid="8640">2007 Spiel des Jahres Winner</boardgamehonor>
+               <boardgamehonor objectid="12704">2007 Vuoden Peli Family Game of the Year Nominee</boardgamehonor>
+               <boardgamehonor objectid="12799">2008 Boardgames Australia Awards Best International Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="18922">2008 JoTa Best Children_T_E_M_P_T_A_G_#039;s Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="18923">2008 JoTa Best Children_T_E_M_P_T_A_G_#039;s Board Game Winner</boardgamehonor>
+               <boardgamehonor objectid="13124">2008 Nederlandse Spellenprijs Nominee</boardgamehonor>
+               <boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+               <boardgameversion objectid="25013">999 Games Dutch edition 2008</boardgameversion>
+               <boardgameversion objectid="215883">999 Games Dutch second edition 2013</boardgameversion>
+                             <boardgameversion objectid="24167">ABACUSSPIELE German edition 2007</boardgameversion>
+               <boardgameversion objectid="24174">ABACUSSPIELE German edition 2007 with SdJ</boardgameversion>
+               <boardgameversion objectid="195048">ABACUSSPIELE German Löwenedition 2013</boardgameversion>
+               <boardgameversion objectid="421321">ABACUSSPIELE Hungarian edition</boardgameversion>
+               <boardgameversion objectid="182301">ABACUSSPIELE multilingual edition 2007 with SdJ</boardgameversion>
+                             <boardgamecategory objectid="1089">Animals</boardgamecategory>
+               <boardgamefamily objectid="7178">Animals: Apes / Monkeys</boardgamefamily>
+               <boardgamefamily objectid="6480">Animals: Camels</boardgamefamily>
+               <boardgamefamily objectid="6979">Animals: Elephants</boardgamefamily>
+               <boardgamefamily objectid="7260">Animals: Kangaroos</boardgamefamily>
+               <boardgamefamily objectid="20718">Animals: Pandas</boardgamefamily>
+               <boardgamefamily objectid="19328">Animals: Zebras</boardgamefamily>
+               <boardgameexpansion objectid="34194">Aquaretto</boardgameexpansion>
+               <boardgameimplementation objectid="34194">Aquaretto</boardgameimplementation>
+               <boardgameintegration objectid="34194">Aquaretto</boardgameintegration>
+                      <boardgamepodcastepisode objectid="7728">Besprechung von Zooloretto</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="15212">BGB Volume 80 - Eurogames for the iPhone and iPad</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="21487">BGWS 070: Breaking Up the Monopoly</boardgamepodcastepisode>
+               <boardgameexpansion objectid="178656">Brettspiel Adventskalender 2015</boardgameexpansion>
+               <boardgameexpansion objectid="204573">Brettspiel Adventskalender 2016</boardgameexpansion>
+                                           <boardgameartist objectid="11798">Design/Main</boardgameartist>
+                      <boardgamepodcastepisode objectid="106825">Durchgespielt – Spiel des Jahres 2007: Zooloretto</boardgamepodcastepisode>
+                                                                                            <boardgamepodcastepisode objectid="227740">Episode #36: Summer Vacation Games</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="11829">Episode 17: Zooloretto</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgamepublisher objectid="5657">Filosofia Éditions</boardgamepublisher>
+               <boardgameversion objectid="199289">Filosofia French edition 2013</boardgameversion>
+                                           <boardgamepublisher objectid="8845">G3</boardgamepublisher>
+               <boardgameversion objectid="81068">G3 Polish edition</boardgameversion>
+               <boardgameversion objectid="304864">G3 Polish second edition 2016</boardgameversion>
+                                                                                                                                                                                                            <boardgamepublisher objectid="18852">Hobby World</boardgamepublisher>
+               <boardgameversion objectid="171615">Hobby World Russian edition</boardgameversion>
+                             <boardgamepublisher objectid="8291">Korea Boardgames co., Ltd.</boardgamepublisher>
+               <boardgamepublisher objectid="3218">Lautapelit.fi</boardgamepublisher>
+               <boardgameversion objectid="35715">Lautapelit.fi Nordic edition 2007</boardgameversion>
+               <boardgameartist objectid="100260">Annemarie van Lierop</boardgameartist>
+               <boardgamepodcastepisode objectid="96564">OBG 102: Pass Your Playtest</boardgamepodcastepisode>
+                      <boardgamepublisher objectid="6756">Playgo Ltd (Hong Kong)</boardgamepublisher>
+                                    <boardgamepodcastepisode objectid="211322">Przystanek Planszówka – odcinek 50 – Zooloretto i Coloretto Amazonas</boardgamepodcastepisode>
+                                                                <boardgameartist objectid="100261">Marianne Riem</boardgameartist>
+               <boardgameversion objectid="172494">Rio Grande _T_E_M_P_T_A_G_quot;Game of the Year 2007_T_E_M_P_T_A_G_quot; edition</boardgameversion>
+               <boardgameversion objectid="25458">Rio Grande edition 2007 with SdJ</boardgameversion>
+               <boardgameversion objectid="25887">Rio Grande first edition</boardgameversion>
+               <boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+                      <boardgamedesigner objectid="86">Michael Schacht</boardgamedesigner>
+               <boardgameartist objectid="86">Michael Schacht</boardgameartist>
+               <boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+                      <boardgamepublisher objectid="9390">SpinBottle Games</boardgamepublisher>
+               <boardgameexpansion objectid="225880">Stadt Land Spielt Limitierte Sonderdrucke 2013</boardgameexpansion>
+               <boardgamepublisher objectid="9234">Swan Panasia Co., Ltd.</boardgamepublisher>
+               <boardgamepodcastepisode objectid="5615">The Spiel #32 - Spiel des Schpiel</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+                                           <boardgamepodcastepisode objectid="182153">What Did You Play This Week Podcast Thing Week 77!</boardgamepodcastepisode>
+               <boardgameversion objectid="240697">Z-Man English King of the Beasts edition 2014</boardgameversion>
+               <boardgamepublisher objectid="538">Z-Man Games, Inc.</boardgamepublisher>
+               <videogamebg objectid="86063">Zooloretto (2009)</videogamebg>
+                                           <boardgameexpansion objectid="80358">Zooloretto Boss</boardgameexpansion>
+               <boardgameimplementation objectid="232481">Zooloretto Duell</boardgameimplementation>
+               <boardgameexpansion objectid="40635">Zooloretto Exotic</boardgameexpansion>
+                                    <boardgameimplementation objectid="66120">Zooloretto Junior</boardgameimplementation>
+               <boardgameintegration objectid="66120">Zooloretto Junior</boardgameintegration>
+                                           <boardgameexpansion objectid="38896">Zooloretto XXL</boardgameexpansion>
+               <boardgameexpansion objectid="111161">Zooloretto: Big Boss</boardgameexpansion>
+               <boardgameexpansion objectid="32311">Zooloretto: Building Sites</boardgameexpansion>
+               <boardgameexpansion objectid="240695">Zooloretto: Castor</boardgameexpansion>
+               <boardgameexpansion objectid="110922">Zooloretto: Catta</boardgameexpansion>
+               <boardgameexpansion objectid="85058">Zooloretto: Chameleon</boardgameexpansion>
+               <boardgameexpansion objectid="90182">Zooloretto: Christmas Gift</boardgameexpansion>
+               <boardgameexpansion objectid="63869">Zooloretto: Christmas Tree</boardgameexpansion>
+                      <boardgameexpansion objectid="134189">Zooloretto: Familiarisation Area</boardgameexpansion>
+               <boardgameexpansion objectid="76316">Zooloretto: Five Extra Enclosures</boardgameexpansion>
+               <boardgameexpansion objectid="86318">Zooloretto: Glücksschwein</boardgameexpansion>
+               <boardgameexpansion objectid="130818">Zooloretto: Goodie-Box</boardgameexpansion>
+               <boardgameexpansion objectid="59988">Zooloretto: Grizzly</boardgameexpansion>
+               <boardgameexpansion objectid="66450">Zooloretto: Iberian Lynx</boardgameexpansion>
+               <boardgameexpansion objectid="34853">Zooloretto: Job Boards</boardgameexpansion>
+               <boardgameexpansion objectid="263947">Zooloretto: Kea</boardgameexpansion>
+               <boardgameexpansion objectid="40820">Zooloretto: King K.</boardgameexpansion>
+               <boardgameexpansion objectid="169692">Zooloretto: Kiwi</boardgameexpansion>
+               <boardgameexpansion objectid="167251">Zooloretto: Langer Ludwig</boardgameexpansion>
+               <boardgameaccessory objectid="238663">Zooloretto: Lions</boardgameaccessory>
+               <boardgameexpansion objectid="85911">Zooloretto: Octopus</boardgameexpansion>
+               <boardgameexpansion objectid="32332">Zooloretto: Polar Bear</boardgameexpansion>
+               <boardgameexpansion objectid="238926">Zooloretto: Rabbits</boardgameexpansion>
+               <boardgameexpansion objectid="40822">Zooloretto: Rio Grande Games Expansion Pack #1</boardgameexpansion>
+               <boardgameexpansion objectid="40825">Zooloretto: Rio Grande Games Expansion Pack #2</boardgameexpansion>
+               <boardgameexpansion objectid="189540">Zooloretto: Skunk</boardgameexpansion>
+               <boardgameexpansion objectid="243446">Zooloretto: Squirrel</boardgameexpansion>
+               <boardgameexpansion objectid="147543">Zooloretto: Tapir</boardgameexpansion>
+               <boardgameimplementation objectid="117942">Zooloretto: The Dice Game</boardgameimplementation>
+               <boardgameexpansion objectid="39106">Zooloretto: The Gorilla</boardgameexpansion>
+               <boardgameexpansion objectid="29779">Zooloretto: The Petting Zoo</boardgameexpansion>
+               <boardgameexpansion objectid="40818">Zooloretto: The Reindeer</boardgameexpansion>
+               <boardgameexpansion objectid="39176">Zooloretto: The Savings Book</boardgameexpansion>
+               <boardgameexpansion objectid="30139">Zooloretto: Three Additional Buildings</boardgameexpansion>
+               <boardgameexpansion objectid="29652">Zooloretto: Three Extra Enclosures</boardgameexpansion>
+               <boardgameexpansion objectid="264029">Zooloretto: Tierpark Hagenbeck</boardgameexpansion>
+               <boardgameintegration objectid="34194" inbound="true">Aquaretto</boardgameintegration>
+               <boardgameimplementation objectid="5782" inbound="true">Coloretto</boardgameimplementation>
+               <boardgameintegration objectid="66120" inbound="true">Zooloretto Junior</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="177">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="95" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="63" />
+     <result value="Not Recommended" numvotes="68" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="26" />
+     <result value="Recommended" numvotes="118" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="103" />
+     <result value="Recommended" numvotes="52" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="54" />
+     <result value="Recommended" numvotes="71" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="72" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="64">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="55" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="9" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="107">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="1" />
+     <result value="4" numvotes="5" />
+     <result value="5" numvotes="14" />
+     <result value="6" numvotes="55" />
+     <result value="8" numvotes="24" />
+     <result value="10" numvotes="5" />
+     <result value="12" numvotes="3" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>12873</usersrated>
+     <average>6.85343</average>
+     <bayesaverage>6.71248</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="655" bayesaverage="6.71248" />
+            
+       
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="155" bayesaverage="6.74907" />
+            
+           </ranks>
+     
+     <stddev>1.16846</stddev>
+     <median>0</median>
+     <owned>15987</owned>
+     <trading>523</trading>
+     <wanting>360</wanting>
+     <wishing>1572</wishing>
+     <numcomments>3216</numcomments>
+     <numweights>1092</numweights>
+     <averageweight>1.8636</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 05 Apr 2007 16:19:44 +0000</listdate>
+    <saledate>Thu, 10 May 2007 15:02:47 +0000</saledate>
+    <price currency='EUR'>23.99</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 9.00 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA special shipping offer please click robbirob. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jun 2007 20:32:03 +0000</listdate>
+    <saledate>Sat, 09 Jun 2007 15:26:21 +0000</saledate>
+    <price currency='EUR'>23.99</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 9.00 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks. 
+I can offer even more games upon request. 
+Please also check listings of my friend montsegur - combined regular shipping is possible. 
+For more details on my USA special shipping offer please click the robbirob button. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jun 2007 19:54:56 +0000</listdate>
+    <saledate>Wed, 27 Jun 2007 18:33:02 +0000</saledate>
+    <price currency='EUR'>23.99</price>
+    <condition>new</condition>
+    <notes>Shipping is EUR 9.00 within Europe or EUR 13.00 worldwide. 
+The delivery time varies from 1 to 5 weeks. 
+I can offer even more games upon request. 
+Please also check listings of my friend montsegur - combined regular shipping is possible. 
+For more details on my USA special shipping offer please click the robbirob button. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jun 2007 18:24:14 +0000</listdate>
+    <saledate>Tue, 24 Jul 2007 21:31:35 +0000</saledate>
+    <price currency='USD'>25.95</price>
+    <condition>new</condition>
+    <notes>We only sell brand new, shrinkwrapped games.  International shipping available.
+Edition: Rio Grande Games (2007)
+RIO 320</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jul 2007 22:58:45 +0000</listdate>
+    <saledate>Mon, 23 Jul 2007 22:43:24 +0000</saledate>
+    <price currency='USD'>25.65</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+ZOOLORETTO: 25.65
+Rio Grande Games [RIO 320]
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jul 2007 19:36:49 +0000</listdate>
+    <saledate>Tue, 10 Jul 2007 01:32:45 +0000</saledate>
+    <price currency='USD'>25.65</price>
+    <condition>new</condition>
+    <notes>New/Sealed Zooloretto The Boardgame! We will ship only w/in the 48 US states via UPS Ground for $9.50 or Priority Mail for $12.50. Totally new and sealed and unopened!
+Fast Shipping with full insurance and tracking # emailed back to you w/in 2 business days! We take Paypal to creditcards@sphiatt.com (include the title of the game you are ordering in the payment box)), or money orders.
+We have 35,000+ Feedback on ebay and over 10,000 transactions with paypal so buy with confidence!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jul 2007 15:53:12 +0000</listdate>
+    <saledate>Tue, 27 Nov 2007 22:55:25 +0000</saledate>
+    <price currency='USD'>25.95</price>
+    <condition>new</condition>
+    <notes>New/Sealed Zooloretto The Boardgame! We will ship only w/in the 48 US states via UPS Ground for $9.50 or Priority Mail for $12.50. Totally new and sealed and unopened!
+Fast Shipping with full insurance and tracking # emailed back to you w/in 2 business days! We take Paypal to creditcards@sphiatt.com (include the title of the game you are ordering in the payment box)), or money orders.
+We have 35,000+ Feedback on ebay and over 10,000 transactions with paypal so buy with confidence!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2007 01:39:24 +0000</listdate>
+    <saledate>Sat, 04 Aug 2007 02:30:06 +0000</saledate>
+    <price currency='USD'>25.65</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+ZOOLORETTO: 25.65
+Rio Grande Games [RIO 320]
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Aug 2007 15:29:24 +0000</listdate>
+    <saledate>Sat, 04 Aug 2007 02:30:06 +0000</saledate>
+    <price currency='USD'>25.75</price>
+    <condition>new</condition>
+    <notes>We only sell brand new, shrinkwrapped games. International shipping available.
+Edition: Rio Grande Games (2007)
+RIO 320</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Aug 2007 19:47:03 +0000</listdate>
+    <saledate>Fri, 30 Nov 2007 17:52:26 +0000</saledate>
+    <price currency='EUR'>24.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the ABACUS edition
+Shipping is EUR 15.00 to countries within the EU
+or EUR 25.00 to other European countries
+or EUR 30.00 to other worldwide destinations.
+++++ All shipping rates include insurance ++++
+The delivery time varies from 1 to 3 weeks. 
+I can offer even more games upon request. 
+Please also check listings of my friend montsegur - combined regular shipping is possible. 
+For more details on my USA special shipping offer please click the robbirob button. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Sep 2007 19:05:28 +0000</listdate>
+    <saledate>Thu, 27 Sep 2007 11:50:14 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition.  Played about a dozen times.
+Shipping is actual cost +$1. International buyers OK.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Oct 2007 22:11:13 +0000</listdate>
+    <saledate>Thu, 01 Nov 2007 18:29:31 +0000</saledate>
+    <price currency='USD'>26.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: 26.95
+Rio Grande Games [RIO 320]
+SHIPPING
+Continental U.S.: FedEx $10.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Oct 2007 22:20:31 +0000</listdate>
+    <saledate>Mon, 29 Oct 2007 18:12:43 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>Zooloretto (Rio Grande Games)
+This game is brand new and sealed. S_T_E_M_P_T_A_G_amp;H through FedEx Ground is $9.00 in the 48 states. We can combine shipping on multiple purchases. We collect 8.10% sales tax for AZ orders. 
+For more games go to www.newspiel.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Nov 2007 19:21:24 +0000</listdate>
+    <saledate>Tue, 13 Nov 2007 07:43:28 +0000</saledate>
+    <price currency='USD'>26.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: 26.95
+Rio Grande Games [RIO 320]
+SHIPPING
+Continental U.S.: FedEx $10.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Nov 2007 00:43:24 +0000</listdate>
+    <saledate>Mon, 05 Nov 2007 15:54:59 +0000</saledate>
+    <price currency='USD'>28.99</price>
+    <condition>new</condition>
+    <notes>Domestic Shipping: USPS PRIORITY MAIL with Delivery Confirmation = $9.99</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Nov 2007 13:40:23 +0000</listdate>
+    <saledate>Wed, 21 Nov 2007 16:07:40 +0000</saledate>
+    <price currency='USD'>26.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: 26.95
+Rio Grande Games [RIO 320]
+SHIPPING
+Continental U.S. - FedEx: $10.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Nov 2007 17:25:12 +0000</listdate>
+    <saledate>Mon, 26 Nov 2007 16:27:14 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>likenew</condition>
+    <notes>opened-unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Nov 2007 19:17:26 +0000</listdate>
+    <saledate>Sat, 01 Dec 2007 01:25:52 +0000</saledate>
+    <price currency='USD'>26.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: 26.95
+Rio Grande Games [RIO 320]
+SHIPPING
+Continental U.S. - FedEx: $10.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+ZOOLORETTO EXPANSION PACK: $5.95
+Rio Grande Games [RIO 320E]
+SHIPPING
+Continental U.S. - FedEx: $9.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Dec 2007 03:23:25 +0000</listdate>
+    <saledate>Tue, 04 Dec 2007 23:07:45 +0000</saledate>
+    <price currency='USD'>28.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: 28.95
+Rio Grande Games [RIO 320]
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Dec 2007 07:30:57 +0000</listdate>
+    <saledate>Wed, 19 Dec 2007 00:19:58 +0000</saledate>
+    <price currency='USD'>32.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Dec 2007 02:48:14 +0000</listdate>
+    <saledate>Wed, 02 Jan 2008 20:54:04 +0000</saledate>
+    <price currency='USD'>25.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+***** ***** PRE ORDER ***** *****
+ZOOLORETTO: 25.95 (pre-order)
+Rio Grande Games [RIO 320]
+Expected Restock Date: January 2008
+***** ***** PRE ORDER ***** *****
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Jan 2008 20:27:17 +0000</listdate>
+    <saledate>Mon, 07 Jan 2008 21:06:22 +0000</saledate>
+    <price currency='EUR'>19.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the ABACUS edition
+Shipping is EUR 15.00 to countries within the EU
+or EUR 25.00 to other European countries
+or EUR 30.00 to other worldwide destinations.
+++++ All shipping rates include insurance ++++
+The delivery time varies from 1 to 3 weeks. 
+I can offer even more games upon request. 
+Please also check listings of my friend montsegur - combined regular shipping is possible. 
+For more details on my USA special shipping offer please click the robbirob button. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Jan 2008 06:03:36 +0000</listdate>
+    <saledate>Tue, 08 Jan 2008 00:25:24 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Rio Grande English edition.  Played once.  Includes first 4 expansions: Three Extra Enclosures, The Petting Zoo, Three Additional Buildings, and Building Sites.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Jan 2008 23:51:43 +0000</listdate>
+    <saledate>Mon, 07 Jan 2008 04:07:42 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Complete and in very good condition, played only a few times. Payment via non-credit card PayPal. Shipping is $10. Combine shipping on multiple items.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Jan 2008 02:07:47 +0000</listdate>
+    <saledate>Thu, 10 Jan 2008 18:28:27 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>Brand new, in shrink. German edition. Language independent. I will provide the English version of the instructions.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Jan 2008 08:35:31 +0000</listdate>
+    <saledate>Mon, 21 Jan 2008 05:28:21 +0000</saledate>
+    <price currency='USD'>25.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: 25.95 
+Rio Grande Games [RIO 320]
+ZOOLORETTO EXPANSION PACK: 8.95 
+Rio Grande Games [RIO 320E]
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jan 2008 13:05:54 +0000</listdate>
+    <saledate>Sat, 02 Feb 2008 07:09:44 +0000</saledate>
+    <price currency='USD'>25.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: 25.95 
+Rio Grande Games [RIO 320]
+ZOOLORETTO EXPANSION PACK: 8.95 
+Rio Grande Games [RIO 320E]
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Mar 2008 03:43:51 +0000</listdate>
+    <saledate>Mon, 31 Mar 2008 16:01:53 +0000</saledate>
+    <price currency='USD'>25.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: 25.95 
+Rio Grande Games [RIO 320]
+ZOOLORETTO EXPANSION PACK: 8.95 
+Rio Grande Games [RIO 320E]
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Mar 2008 20:08:40 +0000</listdate>
+    <saledate>Fri, 06 Jun 2008 19:27:24 +0000</saledate>
+    <price currency='USD'>25.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: 25.95 
+Rio Grande Games [RIO 320]
+ZOOLORETTO EXPANSION PACK: 8.95 
+Rio Grande Games [RIO 320E]
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Apr 2008 05:30:26 +0000</listdate>
+    <saledate>Fri, 04 Apr 2008 09:49:27 +0000</saledate>
+    <price currency='GBP'>7</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Jun 2008 21:12:44 +0000</listdate>
+    <saledate>Sun, 15 Jun 2008 03:06:58 +0000</saledate>
+    <price currency='USD'>25.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: 25.95 
+Rio Grande Games [RIO 320]
+ZOOLORETTO EXPANSION PACK: 8.95 
+Rio Grande Games [RIO 320E]
+SHIPPING
+Continental U.S. - FedEx: $11.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jun 2008 01:45:43 +0000</listdate>
+    <saledate>Sun, 08 Jun 2008 21:40:08 +0000</saledate>
+    <price currency='USD'>23.99</price>
+    <condition>verygood</condition>
+    <notes>$9 shipping in US. Happy to combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jun 2008 13:22:57 +0000</listdate>
+    <saledate>Wed, 12 Nov 2008 05:15:44 +0000</saledate>
+    <price currency='USD'>25.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: $25.95 
+Rio Grande Games [RIO 320]
+ZOOLORETTO EXPANSION PACK: $8.95 
+Rio Grande Games [RIO 320E]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Jun 2008 12:00:23 +0000</listdate>
+    <saledate>Wed, 26 Nov 2008 22:06:50 +0000</saledate>
+    <price currency='GBP'>16.99</price>
+    <condition>new</condition>
+    <notes>UK 1st class £5.00
+Europe £8.50</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jun 2008 09:33:44 +0000</listdate>
+    <saledate>Sun, 31 Aug 2008 00:28:24 +0000</saledate>
+    <price currency='AUD'>31</price>
+    <condition>new</condition>
+    <notes>New in Shrink but slight box damage.
+German Edition.
+Payment by direct deposit or money order for Australian buyers. Paypal for international buyers.
+I will provide a quote for shipping if interested.
+I will ship once payment received.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Jul 2008 18:35:17 +0000</listdate>
+    <saledate>Sat, 20 Dec 2008 19:32:35 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>INCLUDES ORIGINAL RIO GRANDE EXPANSIONS (but not XXL or Gorilla). Opened and punched Rio Grande Games edition, but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Aug 2008 23:15:02 +0000</listdate>
+    <saledate>Thu, 02 Oct 2008 13:09:30 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>Srink wrapped!
+German edition (Abacus)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Sep 2008 17:35:01 +0000</listdate>
+    <saledate>Tue, 09 Sep 2008 22:58:53 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>Great game with a great theme. Well worth having in your collection.
+Gamer owned with all pieces included. I_T_E_M_P_T_A_G_#039;ve seperated all of the animals into plastic bags to choose which critters to play with.
+Perforated insert was torn on its seam when I received it from manufacturer. Packing tape fixed back to 100%.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Sep 2008 15:19:59 +0000</listdate>
+    <saledate>Mon, 06 Oct 2008 21:51:26 +0000</saledate>
+    <price currency='USD'>19.5</price>
+    <condition>new</condition>
+    <notes>New in Shrinkwrap</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Oct 2008 17:20:39 +0000</listdate>
+    <saledate>Tue, 04 Nov 2008 01:16:59 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Nov 2008 19:07:05 +0000</listdate>
+    <saledate>Sun, 23 Nov 2008 15:57:19 +0000</saledate>
+    <price currency='GBP'>16</price>
+    <condition>likenew</condition>
+    <notes>Sold with 5 expansions : Building Sites, Polar Bear, Three Enclosures, Three Buildings and Petting Zoo.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Nov 2008 19:44:00 +0000</listdate>
+    <saledate>Fri, 04 Feb 2011 15:45:28 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>new</condition>
+    <notes>By Abacus, without the _T_E_M_P_T_A_G_quot;Game of the Year_T_E_M_P_T_A_G_quot; label
+Shipping is:
+without shipping insurance:
+4 EUR to Germany,10 EUR to Europe and 15 EUR worldwide
+including shipping insurance:
+7 EUR to Germany,18 EUR to Europe, 35 EUR to U.S. and Canada and 42 EUR worldwide
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Nov 2008 23:52:18 +0000</listdate>
+    <saledate>Tue, 09 Dec 2008 06:53:32 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>good</condition>
+    <notes>Played about 8 times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Nov 2008 17:07:11 +0000</listdate>
+    <saledate>Fri, 30 Jan 2009 13:04:28 +0000</saledate>
+    <price currency='EUR'>39.9</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Dec 2008 04:42:23 +0000</listdate>
+    <saledate>Tue, 09 Dec 2008 05:44:28 +0000</saledate>
+    <price currency='USD'>25.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: $25.95 
+Rio Grande Games [RIO 320]
+ZOOLORETTO EXPANSION PACK: $8.95 
+Rio Grande Games [RIO 320E]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Dec 2008 19:30:29 +0000</listdate>
+    <saledate>Sat, 20 Dec 2008 00:30:28 +0000</saledate>
+    <price currency='USD'>23.95</price>
+    <condition>verygood</condition>
+    <notes>In very good condition.
+Shipping is $12.  Please ask about combined shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Dec 2008 15:16:15 +0000</listdate>
+    <saledate>Fri, 19 Dec 2008 03:37:41 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: $39.95 
+Rio Grande Games [RIO 320]
+ZOOLORETTO EXPANSION PACK: $8.95 
+Rio Grande Games [RIO 320E]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Dec 2008 22:23:59 +0000</listdate>
+    <saledate>Sun, 07 Jun 2009 20:51:14 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>German edition (Abacus)
+shrink wrapped!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Jan 2009 23:57:46 +0000</listdate>
+    <saledate>Sun, 11 Jan 2009 06:16:24 +0000</saledate>
+    <price currency='USD'>39.5</price>
+    <condition>new</condition>
+    <notes>Shrink wrapped. Box undamaged.  Have two of these to sell--bought them (at $50) for this year_T_E_M_P_T_A_G_#039;s Christmas presents, but it turned out we couldn_T_E_M_P_T_A_G_#039;t use them.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Jan 2009 09:17:18 +0000</listdate>
+    <saledate>Wed, 16 Dec 2009 00:01:57 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>new</condition>
+    <notes>This is for purchase by Michael Kamin only.
+Factory shrink wrapped with no damage.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jan 2009 18:22:39 +0000</listdate>
+    <saledate>Tue, 27 Jan 2009 02:08:40 +0000</saledate>
+    <price currency='USD'>30.48</price>
+    <condition>new</condition>
+    <notes>RIO Grande Games (RIO 320)
+Number of players: 2-5
+Age of players: 8+
+Length: 45 minutes
+Game Description:
+Each player uses small, large, wild and exotic animals and their young to try and attract as many visitors as possible to their zoo. But be careful - the zoo must be carefully planned. Before you know it, you have too many animals and no more room for them. That brings minus points! Luckily, your zoo can expand.A zoo of a family game in which less is sometimes more ...
+Author: Michael Schacht</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Jan 2009 15:40:29 +0000</listdate>
+    <saledate>Thu, 22 Jan 2009 20:43:50 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played once.  Includes the following expansions: Three Extra Enclosures, The Petting Zoo, Three Additional Buildings, Building Sites, Polar Bear.  Everything is in great condition </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Mar 2009 00:58:08 +0000</listdate>
+    <saledate>Wed, 15 Jul 2009 18:41:59 +0000</saledate>
+    <price currency='USD'>23.99</price>
+    <condition>new</condition>
+    <notes>new in shrink wrap still.
+Insurance extra. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Mar 2009 17:45:28 +0000</listdate>
+    <saledate>Sun, 12 Apr 2009 23:01:53 +0000</saledate>
+    <price currency='USD'>33.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: $33.95 ...in stock now...no waiting!
+Rio Grande Games [RIO 320]
+ZOOLORETTO EXPANSION PACK: $8.95 
+Rio Grande Games [RIO 320E]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 May 2009 16:14:48 +0000</listdate>
+    <saledate>Thu, 21 May 2009 03:03:55 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>For user Boanerges only. Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 May 2009 15:22:41 +0000</listdate>
+    <saledate>Mon, 12 Dec 2011 19:25:40 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>The game is unpunched and unplayed. In pristine condition with no marks of any sort.  This game is an off-shoot of Coloretto and has many, many expansions and variants available.  A good game for the entire family.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 May 2009 09:29:21 +0000</listdate>
+    <saledate>Tue, 19 May 2009 21:45:38 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>Cici_T_E_M_P_T_A_G_#039;s auction
+reserved for http://www.boardgamegeek.com/user/Upperbylad</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Jun 2009 15:41:06 +0000</listdate>
+    <saledate>Fri, 07 Aug 2009 17:17:19 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>German edition (Abacus)
+shrink wrapped!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Jul 2009 18:38:54 +0000</listdate>
+    <saledate>Thu, 02 Jul 2009 20:35:33 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Gary Pressler</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jul 2009 19:51:00 +0000</listdate>
+    <saledate>Sun, 02 Aug 2009 22:39:53 +0000</saledate>
+    <price currency='USD'>30.49</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO 320)
+Number of players: 2-5
+Age of players: 8+
+Length: 45 minutes
+Game Description: 
+Each player uses small, large, wild and exotic animals and their young to try and attract as many visitors as possible to their zoo. But be careful - the zoo must be carefully planned. Before you know it, you have too many animals and no more room for them. That brings minus points! Luckily, your zoo can expand.A zoo of a family game in which less is sometimes more ...</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Aug 2009 13:15:50 +0000</listdate>
+    <saledate>Tue, 25 Aug 2009 15:08:23 +0000</saledate>
+    <price currency='CAD'>70</price>
+    <condition>new</condition>
+    <notes>With all expansions (XXL, exotic) and will thrown in Aquaretto for free. Only played Zooloretto once, haven_T_E_M_P_T_A_G_#039;t touched Aquaretto except to open it up. About $150 worth of new games and expansions!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Sep 2009 22:31:41 +0000</listdate>
+    <saledate>Mon, 07 Sep 2009 17:01:02 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played about four times. The box includes a homemade Petting Zoo expansion. The shipping charge to a US location is either the actual USPS priority mail rate for a 4 pound package from zip code 22801 or $10.35, whichever is less. International bidders contact me for information about shipping rates.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Sep 2009 20:01:08 +0000</listdate>
+    <saledate>Tue, 22 Jun 2010 23:41:36 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Oct 2009 10:36:06 +0000</listdate>
+    <saledate>Fri, 11 Dec 2009 10:28:15 +0000</saledate>
+    <price currency='GBP'>24.99</price>
+    <condition>new</condition>
+    <notes>Shipping Costs...
+UK - Add £5.00
+EU - Add £10.00
+USA - Add £19.00
+Rest of World - Add £19.00</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Oct 2009 20:19:59 +0000</listdate>
+    <saledate>Fri, 23 Oct 2009 11:16:52 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>new</condition>
+    <notes>I am offering from the SPIEL09 the newest expansion for Zooloretto. This expansion consists of 1 tile with a little bear.
+If you want to have a photo please ask me and I will support you with one. 
+--------------------------
+Bezahlung / Payment:
+- Deutschland: Überweisung
+- EU: euro bank transfer with IBAN and BIC
+- Rest of the world: PayPal
+--------------------------
+Versandkosten / Shipping costs:
+- Deutschland: Bitte vorher anfragen.
+- EU:Please ask before buying.
+- Rest of the world: please ask before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Oct 2009 11:21:03 +0000</listdate>
+    <saledate>Sun, 25 Oct 2009 08:30:36 +0000</saledate>
+    <price currency='EUR'>5.99</price>
+    <condition>new</condition>
+    <notes>I am offering from the SPIEL09 the newest expansion for Zooloretto. This expansion consists of 1 tile with a little bear.
+If you want to have a photo please ask me and I will support you with one.
+--------------------------
+Bezahlung / Payment:
+- Deutschland: Überweisung
+- EU: euro bank transfer with IBAN and BIC
+- Rest of the world: PayPal
+--------------------------
+Versandkosten / Shipping costs:
+- Deutschland: Bitte vorher anfragen.
+- EU:Please ask before buying.
+- Rest of the world: please ask before buying.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Oct 2009 12:40:17 +0000</listdate>
+    <saledate>Fri, 01 Jan 2010 04:13:01 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>I_T_E_M_P_T_A_G_#039;m selling the main game PLUS the _T_E_M_P_T_A_G_quot;Three Extra Enclosures_T_E_M_P_T_A_G_quot; expansion. The main game has been played a few times. The expansion has been opened but never played.
+Shipping is included in the price to anywhere in the continental US.
+I prefer paypal but will accept check and money order also.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Dec 2009 22:17:02 +0000</listdate>
+    <saledate>Wed, 30 Dec 2009 02:11:09 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>First edition multilingual (Abacus)
+box: with little damage
+components: like new</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Dec 2009 17:52:42 +0000</listdate>
+    <saledate>Sat, 16 Jan 2010 23:59:33 +0000</saledate>
+    <price currency='USD'>26.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: $26.95 ...in stock now...no waiting!
+Rio Grande Games [RIO 320]
+ZOOLORETTO EXPANSION PACK: $7.95
+Rio Grande Games [RIO 320E]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Dec 2009 17:55:52 +0000</listdate>
+    <saledate>Fri, 05 Mar 2010 08:42:50 +0000</saledate>
+    <price currency='USD'>21.5</price>
+    <condition>likenew</condition>
+    <notes>Opened, played once, put back in box. Looks brand new. Shipping is $10 to US only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jan 2010 00:16:25 +0000</listdate>
+    <saledate>Sun, 16 May 2010 23:19:28 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>new</condition>
+    <notes>German edition (Abacus)
+shrink wrapped!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jan 2010 22:22:16 +0000</listdate>
+    <saledate>Sat, 23 Jan 2010 17:28:33 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>Used once, all there. Paypal only method of payment, UPS only method of shipment, USA only place shipped to.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Feb 2010 20:13:56 +0000</listdate>
+    <saledate>Wed, 03 Feb 2010 20:32:58 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>This copy is for Mark Streeter who won it in my auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Feb 2010 17:24:00 +0000</listdate>
+    <saledate>Mon, 22 Feb 2010 18:57:10 +0000</saledate>
+    <price currency='USD'>26.99</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO 320)
+Number of players: 2-5
+Age of players: 8+
+Length: 45 minutes 
+Game Description: 
+Each player uses small, large, wild and exotic animals and their young to try and attract as many visitors as possible to their zoo. But be careful - the zoo must be carefully planned. Before you know it, you have too many animals and no more room for them. That brings minus points! Luckily, your zoo can expand.A zoo of a family game in which less is sometimes more ...</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Feb 2010 17:19:02 +0000</listdate>
+    <saledate>Sun, 07 Mar 2010 16:35:03 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>verygood</condition>
+    <notes>Game has been opened and played once. The components are in immaculate condition and the box shows extremely minor shel wear. The game comes from a pet and smoke free home. I will ship worldwide and accept paypal or money order. Any questions please aske. Also check out my other games for sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Mar 2010 21:21:43 +0000</listdate>
+    <saledate>Fri, 26 Mar 2010 15:56:33 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>likenew</condition>
+    <notes>Comes WITH first expansion- polar bear, three extra enclosures, three extra buildings, building sites, and the petting zoo.
+The game was played about 5 times or so- everything still looks very nice and is like new.
+Shipping will be the exact cost for either priority mail or parcel post(your choice).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Apr 2010 15:33:08 +0000</listdate>
+    <saledate>Tue, 06 Apr 2010 14:05:20 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>reserved for Jeff Wu
+Opened and in good condition. Played a few times.
+Includes Polar Bear expansion.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Apr 2010 03:48:51 +0000</listdate>
+    <saledate>Sat, 17 Apr 2010 17:56:26 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>good</condition>
+    <notes>On hold for winner of tax day auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Apr 2010 01:07:49 +0000</listdate>
+    <saledate>Thu, 22 Apr 2010 01:35:00 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>likenew</condition>
+    <notes>Geeklist (53596) auction winner.
+Username: pdoherty
+Games Won: Zooloretto, Pony Express</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Apr 2010 04:10:19 +0000</listdate>
+    <saledate>Thu, 22 Apr 2010 00:35:56 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>for Josh Gardner</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Apr 2010 06:18:34 +0000</listdate>
+    <saledate>Sun, 02 Jan 2011 23:48:37 +0000</saledate>
+    <price currency='CAD'>26</price>
+    <condition>verygood</condition>
+    <notes>Includes the polar bear, petting zoo and extra pavillion expansions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 May 2010 22:31:43 +0000</listdate>
+    <saledate>Fri, 15 Aug 2014 17:46:05 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>German edition (Abacus)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jun 2010 12:51:24 +0000</listdate>
+    <saledate>Wed, 20 Jun 2012 08:49:06 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>new</condition>
+    <notes>original German Abacus edition
+new and shrinkwrapped in perfect condition
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Aug 2010 21:17:07 +0000</listdate>
+    <saledate>Sat, 14 Aug 2010 14:40:18 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Only for Heliconia.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Aug 2010 18:26:39 +0000</listdate>
+    <saledate>Fri, 27 Aug 2010 19:59:45 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>For user ThatFedoraGuy only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Aug 2010 15:04:28 +0000</listdate>
+    <saledate>Mon, 06 Dec 2010 15:59:39 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Item is brand new in shrink. Buyer will pay actual shipping costs, determined after item is shipped.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Sep 2010 00:58:23 +0000</listdate>
+    <saledate>Wed, 27 Oct 2010 15:27:51 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>likenew</condition>
+    <notes>Never been played. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Oct 2010 00:11:03 +0000</listdate>
+    <saledate>Fri, 29 Oct 2010 03:30:27 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>for mykidsdad</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Nov 2010 11:45:16 +0000</listdate>
+    <saledate>Thu, 09 Dec 2010 18:39:09 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Includes the Polar Bear expansion and many different player aids. No shelf-wear. I will wrap in bubble-wrap and ship in a protective box.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Nov 2010 21:12:14 +0000</listdate>
+    <saledate>Sat, 18 Dec 2010 18:09:55 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: $34.95
+Rio Grande Games [RIO 320]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Dec 2010 18:41:42 +0000</listdate>
+    <saledate>Tue, 14 Dec 2010 21:42:05 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: $39.95 ...1 COPY LEFT IN STOCK
+Rio Grande Games [RIO 320]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Dec 2010 22:14:49 +0000</listdate>
+    <saledate>Sun, 19 Dec 2010 23:44:12 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Brand New, Shrink Wrapped! We take Visa and Mastercard, and we ship Fedex! just give us time to schedule a pick up after you call us and process the order!
+Thanks
+Merry Christmas</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Dec 2010 18:57:54 +0000</listdate>
+    <saledate>Mon, 20 Dec 2010 04:44:02 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: $34.95
+Rio Grande Games [RIO 320]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Dec 2010 21:55:41 +0000</listdate>
+    <saledate>Sun, 09 Jan 2011 02:58:09 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>Game is BRAND NEW SEALED in original shrink wrap. Game was donated to a games library for students. Since we already have a copy of this game, we_T_E_M_P_T_A_G_#039;re looking to use funds for other desired games.
+Game is a wonderful family and adult game.
+Shipping calculated based upon where you_T_E_M_P_T_A_G_#039;re located. Buyer pays actual shipping cost plus $3 packing costs.
+Please feel free to email me with any questions. I haven_T_E_M_P_T_A_G_#039;t sold much on BGG, but all the people I_T_E_M_P_T_A_G_#039;ve sold to have been 100% satisfied. I can gladly provide references if desired.
+Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Jan 2011 11:35:14 +0000</listdate>
+    <saledate>Wed, 12 Jan 2011 16:10:23 +0000</saledate>
+    <price currency='USD'>35.96</price>
+    <condition>new</condition>
+    <notes>KK Boardgames ~ supplier-direct games ~ your Canadian and US source for discount game prices based in Vancouver, BC and Blaine, WA. All prices in USD and all games are new and in shrink unless otherwise stated. For Canadian customers who want to pay in CAD, we can convert to CAD based on the current exchange rate.
+Zooloretto - $35.96
+Availability: DIRECT ORDER - In stock at our supplier. *** Usually ships in 1-2 weeks ***. If you place an order, we will include the game in our next order from our supplier*
+*Next order date - to see our next order date click on the _T_E_M_P_T_A_G_quot;More info..._T_E_M_P_T_A_G_quot; link. If the _T_E_M_P_T_A_G_quot;More info..._T_E_M_P_T_A_G_quot; link is not visible, click on the user ID _T_E_M_P_T_A_G_#039;kkrieger_T_E_M_P_T_A_G_#039; to view our _T_E_M_P_T_A_G_#039;geekstore_T_E_M_P_T_A_G_#039;, then click on the _T_E_M_P_T_A_G_quot;More info..._T_E_M_P_T_A_G_quot; link for a specific game.
+SHIPPING:
+We are near the US/Canada border so we can ship from either country, so there are absolutely no customs fees for US and Canada orders!
+For Canadian orders, we ship with Canada Post and charge a flat rate for one game (based on your province, see below) + $1.50 for each additional game (up to a maximum of an additional $6).
+e.g. The 2nd, 3rd, 4th, 5th games ship for $1.50 each, all subsequent games ship for free.
+Metro Vancouver area $8.50 (1 business day) or $0.00*
+Victoria (South Vancouver Island) $10 (2 business days)
+BC $12 (2 business days)
+AB $13 (2 business days)
+SK $13 (3 business days)
+MB $14 (3 business days)
+ON $15 (4 business days)
+QC $15 (5 business days)
+PE $15 (7 business days)
+NB $15 (7 business days)
+NS $15 (7 business days)
+NL $17 (8 business days)
+YT $17 (5 business days)
+NU/NT/Remote areas $17 (up to 13 business days)
+*FREE local pick-up in Vancouver area.
+US Orders are shipped USPS from zipcode 98230.
+International Orders are shipped USPS Priority Mail International with insurance and return receipt.
+PROMOTIONS:
+Loyalty rewards: For every $50 of games on your order, receive a $2.50 credit to be used on a future order.
+PAYMENT METHODS:
+We accept the following forms of payment:
+1. Interac e-Transfer* (Canadian banks)
+2. Cash on delivery (local pick-up greater Vancouver area)
+3. PayPal (Instant Transfer or debit/credit card funded)
+4. Credit cards (processed by PayPal - your information is never shared with us)
+5. Money Order - we will accept postal money orders, but will not ship games until money order is received and cashed.
+Our prices include a discount for paying cash or another no fee method (1-2 above). All payments processed by PayPal (3-4 above) will incur an extra charge of $0.30 + 2.9% to pass on the exact processing costs charged to us by PayPal. International payments through PayPal are $0.30 + 3.9%.
+We will provide detailed payment instructions for you once the order is placed.
+CONTACT US:
+Although we will make an effort to respond to all questions via geekmail as quickly as possible, your response time will be faster if you send questions via email to kkboardgames+bgg@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Jan 2011 20:16:04 +0000</listdate>
+    <saledate>Sun, 09 Jan 2011 16:23:16 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Only played once, mint condition.  Also selling all of the expansions separately, but you can save big money on shipping by ordering everything together.  Includes several hand-make expansions as well: King Kong, Christmas Tree, Grizzly, and Reindeer.  And if you buy this before I sell them (I_T_E_M_P_T_A_G_#039;ll update this if I do) you get The Savings Book, Gorilla, and Job Boards for free!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Jan 2011 16:18:49 +0000</listdate>
+    <saledate>Sun, 13 Nov 2011 15:00:35 +0000</saledate>
+    <price currency='USD'>35.96</price>
+    <condition>new</condition>
+    <notes>KK Boardgames ~ supplier-direct games ~ your Canadian and US source for discount game prices based in Vancouver, BC and Blaine, WA. All prices in USD and all games are new and in shrink unless otherwise stated. For Canadian customers who want to pay in CAD, we can convert to CAD based on the current exchange rate.
+Zooloretto - $35.96
+Availability: DIRECT ORDER - In stock at our supplier. *** Usually ships in 1-2 weeks ***. If you place an order, we will include the game in our next order from our supplier*
+*Next order date - to see our next order date click on the _T_E_M_P_T_A_G_quot;More info..._T_E_M_P_T_A_G_quot; link. If the _T_E_M_P_T_A_G_quot;More info..._T_E_M_P_T_A_G_quot; link is not visible, click on the user ID _T_E_M_P_T_A_G_#039;kkrieger_T_E_M_P_T_A_G_#039; to view our _T_E_M_P_T_A_G_#039;geekstore_T_E_M_P_T_A_G_#039;, then click on the _T_E_M_P_T_A_G_quot;More info..._T_E_M_P_T_A_G_quot; link for a specific game.
+SHIPPING:
+We are near the US/Canada border so we can ship from either country -- there are absolutely no customs fees for US and Canada orders!
+For Canadian orders, we ship with Canada Post and charge a flat rate for one game (based on your province, see below) + $1.50 for each additional game (up to a maximum of an additional $6).
+e.g. The 2nd, 3rd, 4th, 5th games ship for $1.50 each, all subsequent games ship for free.
+Metro Vancouver area $8.50 (1 business day) or $0.00*
+Victoria (South Vancouver Island) $10 (2 business days)
+BC $12 (2 business days)
+AB $13 (2 business days)
+SK $13 (3 business days)
+MB $14 (3 business days)
+ON $15 (4 business days)
+QC $15 (5 business days)
+PE,NB,NS $15 (7 business days)
+NL $17 (8 business days)
+YT $17 (5 business days)
+NU/NT/Remote areas $17 (up to 13 business days)
+*FREE local pick-up in Vancouver area.
+US Orders are shipped USPS from zipcode 98230.
+International Orders are shipped USPS Priority Mail International with insurance and return receipt.
+PROMOTIONS:
+Loyalty rewards: For every $50 of games on your order, receive a $2.50 credit to be used on a future order.
+PAYMENT METHODS:
+We accept the following forms of payment:
+1. Interac e-Transfer* (Canadian banks)
+2. Cash on delivery (local pick-up greater Vancouver area)
+3. PayPal (Instant Transfer or debit/credit card funded)
+4. Credit cards (processed by PayPal - your information is never shared with us)
+5. Money Order - we will accept postal money orders, but will not ship games until money order is received and cashed.
+Our prices include a discount for paying cash or another no fee method (1-2 above). All payments processed by PayPal (3-4 above) will incur an extra charge of $0.30 + 2.9% to pass on the exact processing costs charged to us by PayPal. International payments through PayPal are $0.30 + 3.9%.
+We will provide detailed payment instructions for you once the order is placed.
+CONTACT US:
+Although we will make an effort to respond to all questions via geekmail as quickly as possible, your response time will be faster if you send questions via email to kkboardgames+bgg@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Jan 2011 02:20:09 +0000</listdate>
+    <saledate>Fri, 14 Jan 2011 02:01:36 +0000</saledate>
+    <price currency='USD'>27.49</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO 320)
+Number of players: 2-5
+Age of players: 8+
+Length: 45 minutes
+Game Description: 
+Each player uses small, large, wild and exotic animals and their young to try and attract as many visitors as possible to their zoo. But be careful - the zoo must be carefully planned. Before you know it, you have too many animals and no more room for them. That brings minus points! Luckily, your zoo can expand.A zoo of a family game in which less is sometimes more ...</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Jan 2011 02:56:48 +0000</listdate>
+    <saledate>Wed, 30 Mar 2011 16:06:56 +0000</saledate>
+    <price currency='USD'>27.49</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO 320)
+Number of players: 2-5
+Age of players: 8+
+Length: 45 minutes
+Game Description: 
+Each player uses small, large, wild and exotic animals and their young to try and attract as many visitors as possible to their zoo. But be careful - the zoo must be carefully planned. Before you know it, you have too many animals and no more room for them. That brings minus points! Luckily, your zoo can expand.A zoo of a family game in which less is sometimes more ...</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Jan 2011 21:47:31 +0000</listdate>
+    <saledate>Tue, 18 Jan 2011 00:18:05 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Played a few times - excellent condition - see photos.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Jan 2011 23:40:12 +0000</listdate>
+    <saledate>Sun, 30 Jan 2011 16:30:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played once. Smoke free home. Buyer pays shipping costs. Will ship USPS Priority, FedEx or UPS. Please purchase only if willing to pay via PayPal.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Feb 2011 19:59:46 +0000</listdate>
+    <saledate>Fri, 25 Mar 2011 11:27:28 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>new</condition>
+    <notes>German Abacus edition. Components are language independent.
+Game is still in shrink.
+Shipping at actual cost dependent on destination, total weight and method of shipment chosen.
+Usually shipping a single (regular sized) board game (surface) costs 13.90€ worldwide and 8.60€ within Europe. Smaller games ship cheaper. Of course multiple games can be combined.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Mar 2011 12:11:01 +0000</listdate>
+    <saledate>Wed, 26 Jun 2013 06:42:12 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>new</condition>
+    <notes>In shrink, German
+Shipping Germany  4 Euro
+Shipping European Union 9 Euro
+Shipping World         14 Euro
+PayPal plus 1 Euro
+Money transfer via IBAN/BIC preferred
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Mar 2011 00:10:42 +0000</listdate>
+    <saledate>Tue, 29 Mar 2011 19:15:23 +0000</saledate>
+    <price currency='USD'>26.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: $26.95
+Rio Grande Games [RIO 320]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Mar 2011 00:44:24 +0000</listdate>
+    <saledate>Sat, 09 Apr 2011 20:43:34 +0000</saledate>
+    <price currency='USD'>26.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO: $26.95
+Rio Grande Games [RIO 320]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Apr 2011 16:50:32 +0000</listdate>
+    <saledate>Tue, 19 Apr 2011 00:44:33 +0000</saledate>
+    <price currency='USD'>27.49</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO 320)
+Each player uses small, large, wild and exotic animals and their young to try and attract as many visitors as possible to their zoo. But be careful - the zoo must be carefully planned. Before you know it, you have too many animals and no more room for them. That brings minus points! Luckily, your zoo can expand.A zoo of a family game in which less is sometimes more ...</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Apr 2011 00:20:00 +0000</listdate>
+    <saledate>Wed, 11 May 2011 02:02:46 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>Zooloretto
+New in shrink.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Apr 2011 15:28:10 +0000</listdate>
+    <saledate>Sat, 20 Aug 2011 02:09:04 +0000</saledate>
+    <price currency='USD'>27.49</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO 320)
+Each player uses small, large, wild and exotic animals and their young to try and attract as many visitors as possible to their zoo. But be careful - the zoo must be carefully planned. Before you know it, you have too many animals and no more room for them. That brings minus points! Luckily, your zoo can expand.A zoo of a family game in which less is sometimes more ...</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 May 2011 02:36:48 +0000</listdate>
+    <saledate>Thu, 19 May 2011 02:57:30 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>verygood</condition>
+    <notes>for tamburlian. Shipping included</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jul 2011 13:48:20 +0000</listdate>
+    <saledate>Sat, 13 Aug 2011 18:23:40 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>Abacus Version - UNPUNCHED</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jul 2011 14:26:03 +0000</listdate>
+    <saledate>Wed, 20 Jul 2011 00:56:45 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>good</condition>
+    <notes>Reserved for auction winner bigfuzzymonster</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Jul 2011 02:52:44 +0000</listdate>
+    <saledate>Mon, 03 Dec 2012 03:11:35 +0000</saledate>
+    <price currency='USD'>22.99</price>
+    <condition>new</condition>
+    <notes>SELLERS TERMS AND CONDITIONS:
+ 
+PAYMENT TERMS: Payment is due within 2 days of the date you placed the order. Please do not purchase if you do not intend to pay, or cannot pay within this time frame. 
+PAYMENT METHODS: PayPal
+SHIPPING: Buyer is responsible for all shipping/handling costs. All orders are shipped Priority Mail.
+ 
+RETURNS: New Unopened items may be returned for a refund of the purchase price of the item, excluding shipping charges, within 3 days of the delivery date. All returned items must be in the original packaging and in the condition that they were shipped to you. 
+Defective or damaged items can be returned for an exchange within 3 days of the delivery date. All returns require authorization BEFORE returning the item. If you refuse delivery of an order, we will deduct the return shipping charge from your refund.
+ </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Aug 2011 19:03:46 +0000</listdate>
+    <saledate>Mon, 02 Jan 2012 06:27:54 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes>German edition (English, French, Italian _T_E_M_P_T_A_G_amp; Dutch rules included).
+Contents complete _T_E_M_P_T_A_G_amp; in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2011 18:21:43 +0000</listdate>
+    <saledate>Wed, 03 Aug 2011 03:38:39 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Base game plus several small expansions.  Reserved for mevans444 from the _T_E_M_P_T_A_G_quot;Save the Feline_T_E_M_P_T_A_G_quot; auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Aug 2011 14:25:48 +0000</listdate>
+    <saledate>Mon, 17 Oct 2011 21:03:19 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Sep 2011 00:10:01 +0000</listdate>
+    <saledate>Thu, 08 Sep 2011 01:37:15 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Game won at auction by bjmviixii</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Sep 2011 20:41:36 +0000</listdate>
+    <saledate>Mon, 10 Oct 2011 11:09:48 +0000</saledate>
+    <price currency='GBP'>16</price>
+    <condition>verygood</condition>
+    <notes>Game in excellent condition.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Sep 2011 09:26:16 +0000</listdate>
+    <saledate>Sun, 25 Sep 2011 17:25:21 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>For David Montgomery (mathguy6189) only!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Oct 2011 20:43:59 +0000</listdate>
+    <saledate>Thu, 20 Oct 2011 19:28:04 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>reserved for LannisterGold</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Oct 2011 18:59:10 +0000</listdate>
+    <saledate>Fri, 04 Nov 2011 16:59:11 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Includes Petting Zoo, Building Sites, Job Board and Savings Book expansions.
+Excellent condition, played a couple of times.
+Happy to post worldwide, contact me for rates.
+£5 p_T_E_M_P_T_A_G_amp;p to UK by Royal Mail Standard Parcels.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Oct 2011 14:16:21 +0000</listdate>
+    <saledate>Wed, 07 Dec 2011 09:11:04 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>good</condition>
+    <notes>German edition
+Played several times, scratches at the box, </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Oct 2011 23:23:34 +0000</listdate>
+    <saledate>Sat, 29 Oct 2011 00:21:09 +0000</saledate>
+    <price currency='GBP'>13</price>
+    <condition>verygood</condition>
+    <notes>Includes petting zoo expansion
+Only played a few times.
+Excellent condition. 
+UK only
+£7.00 postage _T_E_M_P_T_A_G_amp; packaging</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Nov 2011 02:36:13 +0000</listdate>
+    <saledate>Tue, 29 Nov 2011 08:27:59 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Box has some minor shelf wear.  Boards and bits in very good condition.  Comes with polar bear and squid expansions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Nov 2011 16:58:00 +0000</listdate>
+    <saledate>Mon, 26 Nov 2012 16:44:07 +0000</saledate>
+    <price currency='USD'>22.99</price>
+    <condition>likenew</condition>
+    <notes>Never played ... in mint condition
+This game is sold to Tony.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Dec 2011 00:29:14 +0000</listdate>
+    <saledate>Fri, 02 Dec 2011 04:12:37 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Reserved for yffip
+local pickup</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Dec 2011 21:07:54 +0000</listdate>
+    <saledate>Mon, 06 Feb 2012 22:08:32 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Dec 2011 03:34:48 +0000</listdate>
+    <saledate>Fri, 13 Jan 2012 12:03:44 +0000</saledate>
+    <price currency='AUD'>45</price>
+    <condition>verygood</condition>
+    <notes>This is a whole lot of _T_E_M_P_T_A_G_quot;Stuffretto_T_E_M_P_T_A_G_quot; in an Aquaretto box. As far as I can tell, it contains...
+Aquaretto
+Zooloretto
+Plus lots of expansions ....
+Polar Bear
+Grizzly
+Christmas Tree
+Building Sites
+Petting Zoo
+Extra Enclosures
+Extra Buildings
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Dec 2011 14:34:39 +0000</listdate>
+    <saledate>Fri, 30 Dec 2011 15:15:10 +0000</saledate>
+    <price currency='GBP'>16</price>
+    <condition>likenew</condition>
+    <notes>Played about three times, not to our taste. Everything like new and all components present.
+Happy to arrange collection in Balham or Fulham. UK P_T_E_M_P_T_A_G_amp;P will be £4.91. Rest of the world please contact.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jan 2012 18:28:02 +0000</listdate>
+    <saledate>Mon, 23 Jan 2012 13:24:12 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>German edition.
+Contents complete _T_E_M_P_T_A_G_amp; in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jan 2012 17:06:16 +0000</listdate>
+    <saledate>Tue, 03 Jan 2012 17:24:21 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Reserved purchase for winner of auction:  lordunborn</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2012 10:45:49 +0000</listdate>
+    <saledate>Sun, 29 Jan 2012 10:54:25 +0000</saledate>
+    <price currency='AUD'>30</price>
+    <condition>likenew</condition>
+    <notes>includes . petting zoo  and polar bear exp.
+played a few times.
+must make room.
+payment into bank acc.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Feb 2012 07:29:31 +0000</listdate>
+    <saledate>Thu, 02 Feb 2012 02:57:28 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>For ganotism only</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Mar 2012 22:24:38 +0000</listdate>
+    <saledate>Tue, 20 Mar 2012 18:33:04 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Box and components in excellent condition.  Components stored in platic bags.  Will pay for shipping costs in excess of $13.00 for US deliveries only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Mar 2012 13:40:23 +0000</listdate>
+    <saledate>Fri, 14 Dec 2012 15:29:06 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Very good condition, non-smoking environment, played several times. Includes Polar Bear and Petting Zoo expansions. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Apr 2012 16:44:23 +0000</listdate>
+    <saledate>Tue, 01 May 2012 12:36:05 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>German edition.
+Contents complete _T_E_M_P_T_A_G_amp; in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Apr 2012 17:21:16 +0000</listdate>
+    <saledate>Tue, 10 Dec 2013 19:01:12 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>I also stock Mayday Games Card Sleeves to keep the cards new and fresh.
+Shipping is usally $14 USPS for lower 48. Paypal from verified members only please. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Apr 2012 13:56:59 +0000</listdate>
+    <saledate>Sat, 28 Apr 2012 14:53:37 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>only played this once, fiancee prefers o zoo le mio 
+for pmbrill_T_E_M_P_T_A_G_#039;s auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Apr 2012 06:10:42 +0000</listdate>
+    <saledate>Mon, 30 Apr 2012 06:30:06 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>This game is reserved for Jason aka j t (semicola).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 May 2012 13:45:36 +0000</listdate>
+    <saledate>Fri, 18 May 2012 17:40:45 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>likenew</condition>
+    <notes>For BenRitter in the Trading Cardboard for Treated Lumber Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 May 2012 16:32:27 +0000</listdate>
+    <saledate>Thu, 11 Oct 2012 09:37:38 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>good</condition>
+    <notes>German edition.
+Contents complete _T_E_M_P_T_A_G_amp; in excellent condition. Box cover has some scratch/scuff marks.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jun 2012 10:11:18 +0000</listdate>
+    <saledate>Sun, 24 Jun 2012 08:39:23 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>good</condition>
+    <notes>My _T_E_M_P_T_A_G_quot;Going to America_T_E_M_P_T_A_G_quot; moving sale. I am trying to sell my collection in Germany so that I can re-buy some of my games in the US once I get back there. 
+Game is in good conditions. 
+This is the German language version of the game! </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2012 02:34:48 +0000</listdate>
+    <saledate>Wed, 27 Jun 2012 04:03:39 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>SAVED FOR EORVIK
+NO SHIPPING FOR THIS GAME...I PLACED THE TOTAL SHIPPING IN YOUR OTHER GAME</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Jun 2012 09:40:57 +0000</listdate>
+    <saledate>Thu, 28 Jun 2012 12:23:57 +0000</saledate>
+    <price currency='GBP'>9</price>
+    <condition>likenew</condition>
+    <notes>Opened, punched, unplayed. German Version.
+Shipping:-
+UK £5
+Europe £6</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jul 2012 12:40:34 +0000</listdate>
+    <saledate>Tue, 21 Aug 2012 19:08:06 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>played once.  From a smoke _T_E_M_P_T_A_G_amp; pet free home</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jul 2012 04:02:12 +0000</listdate>
+    <saledate>Fri, 13 Jul 2012 14:16:20 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner - Travis Bridges (chicagometh)
+Zooloretto Lot - Base game with several unplayed mini expansions!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jul 2012 22:45:02 +0000</listdate>
+    <saledate>Wed, 07 Nov 2012 01:03:42 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>new in shrink. Free shipping to US with $100 purchase, internationally with $200 purchase.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Aug 2012 17:34:19 +0000</listdate>
+    <saledate>Sat, 11 Aug 2012 02:38:51 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Unopened, still sealed. Rio Grande Games version. Gotta clear some games out to make room for new ones, so my loss is your gain. Shipping is $6.00. If you purchase more than one game I_T_E_M_P_T_A_G_#039;ll try to consolidate packages to save shipping . Paypal only please. And sorry, I don_T_E_M_P_T_A_G_#039;t sell to buyers outside of the US.
+Thanks for looking.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Aug 2012 01:52:17 +0000</listdate>
+    <saledate>Wed, 08 Aug 2012 02:03:41 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This is an auction win marketplace item for damiangerous only.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Aug 2012 02:38:09 +0000</listdate>
+    <saledate>Wed, 08 Aug 2012 10:24:21 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>reserved for dainharper</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Aug 2012 05:35:13 +0000</listdate>
+    <saledate>Mon, 13 Aug 2012 12:53:09 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>verygood</condition>
+    <notes>This sale is from an auction and is for Chas Argent only:
+Castle Keep _T_E_M_P_T_A_G_amp; In a Pickle $5 
+Scotland Yard $10
+Zooloretto $18
+13 Dead End Drive $5
+Total $38
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Aug 2012 09:37:29 +0000</listdate>
+    <saledate>Thu, 23 Aug 2012 15:09:21 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Minor wear at the box, comes with a bag for the tiles</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Sep 2012 16:00:50 +0000</listdate>
+    <saledate>Thu, 06 Sep 2012 16:52:11 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Reserved for Daniel Palmer(orange_rhino).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Sep 2012 03:07:09 +0000</listdate>
+    <saledate>Thu, 20 Sep 2012 04:16:43 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>good</condition>
+    <notes>For user sylvanis, only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Sep 2012 02:12:31 +0000</listdate>
+    <saledate>Sat, 22 Sep 2012 03:06:09 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>For user settlerdave, only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Oct 2012 04:04:57 +0000</listdate>
+    <saledate>Sun, 07 Oct 2012 04:36:09 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This listing is for the auction items Zooloretto and expansions which have been purchased by Khedron.
+Without Shipping $20.00
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Oct 2012 00:09:06 +0000</listdate>
+    <saledate>Fri, 19 Oct 2012 02:38:16 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>verygood</condition>
+    <notes>Auction win by BGGer Garindan.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Oct 2012 12:54:32 +0000</listdate>
+    <saledate>Fri, 19 Oct 2012 14:05:34 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>RESERVED FOR AUCTION WINNTER: Chad R (Dr. Face)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Oct 2012 14:06:11 +0000</listdate>
+    <saledate>Fri, 26 Oct 2012 22:09:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This item is reserved for Barry Chase (snakester1).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Nov 2012 20:43:44 +0000</listdate>
+    <saledate>Mon, 19 Nov 2012 04:25:49 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Game is new and still in shrink wrap</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Nov 2012 16:44:09 +0000</listdate>
+    <saledate>Thu, 06 Feb 2014 21:09:50 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes>German edition.
+Contents complete _T_E_M_P_T_A_G_amp; in excellent condition. Box has a few minor scratch marks.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Nov 2012 16:30:41 +0000</listdate>
+    <saledate>Tue, 04 Dec 2012 17:22:00 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>verygood</condition>
+    <notes>Very good condition - only played twice. Owned from new. 
+£6 shipping within UK.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Dec 2012 02:32:13 +0000</listdate>
+    <saledate>Sat, 01 Dec 2012 17:53:24 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>new</condition>
+    <notes>This is for auction winner Regnad Kcin. Please do not buy unless you are him!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Dec 2012 20:58:46 +0000</listdate>
+    <saledate>Sat, 08 Dec 2012 23:11:22 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>For cmdr layman!
+This item was won in auction and should only be purchased by BGG ID cmdr layman.  If anyone else buys this item, it will be deleted and recreated so that the auction winner can buy it.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Dec 2012 01:13:19 +0000</listdate>
+    <saledate>Thu, 05 Dec 2013 00:34:28 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Dec 2012 18:56:02 +0000</listdate>
+    <saledate>Fri, 07 Dec 2012 04:33:53 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>new</condition>
+    <notes>New in shrink!
+Buyer pays actual shipping! Many games for sale...combine shipping!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Dec 2012 18:22:32 +0000</listdate>
+    <saledate>Tue, 11 Dec 2012 23:39:43 +0000</saledate>
+    <price currency='USD'>21.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink!
+Packages shipped out Priority shipping quickly after payment is recieved. 
+Check out my other sales!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Dec 2012 21:48:07 +0000</listdate>
+    <saledate>Wed, 23 Jan 2013 01:24:26 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>New in Shrink!
+Buyer pays actual priority shipping, and game will be sent out the next week day after payment is received.
+Check out my other auctions and save!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Jan 2013 15:59:40 +0000</listdate>
+    <saledate>Fri, 10 May 2013 12:02:40 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>good</condition>
+    <notes>£6 to a UK address.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Jan 2013 17:21:06 +0000</listdate>
+    <saledate>Mon, 07 Jan 2013 19:32:15 +0000</saledate>
+    <price currency='CAD'>25</price>
+    <condition>verygood</condition>
+    <notes>I will include the Building Sites, The Polar Bear, The Petting Zoo, Three Additional Buildings, and Three Extra Enclosures expansions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jan 2013 02:18:30 +0000</listdate>
+    <saledate>Sun, 13 Jan 2013 12:54:03 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner Mattmill
+Played a couple times. Excellent condition. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Jan 2013 16:39:48 +0000</listdate>
+    <saledate>Sun, 07 Apr 2013 15:40:08 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>new</condition>
+    <notes>original German Abacus SDJ-edition
+new and shrinkwrapped and apart from a very minor kink at the edge of the boxlid in perfect condition
+other editions and conditions are also available </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Feb 2013 12:19:07 +0000</listdate>
+    <saledate>Mon, 11 Feb 2013 16:23:13 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>new</condition>
+    <notes>Completely new!
+Absolut neu - kein einziges Mal gespielt.
+Bezahlung per Paypal oder Überweisung möglich.
+Schneller Versand ;-)
+LG
+Manuel</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Feb 2013 16:09:45 +0000</listdate>
+    <saledate>Fri, 19 Apr 2013 03:41:29 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>Box and pieces in great condition. Haven_T_E_M_P_T_A_G_#039;t played it in a while. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Mar 2013 14:55:16 +0000</listdate>
+    <saledate>Wed, 27 Mar 2013 10:07:46 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>acceptable</condition>
+    <notes>Box lid split on one corner. Otherwise in excellent condition.
+Includes two unpunched Polar Bear promos.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Apr 2013 05:17:12 +0000</listdate>
+    <saledate>Wed, 10 Apr 2013 12:03:52 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Reserved for the other other steve</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Apr 2013 22:23:24 +0000</listdate>
+    <saledate>Fri, 03 May 2013 08:40:08 +0000</saledate>
+    <price currency='EUR'>9.99</price>
+    <condition>verygood</condition>
+    <notes>language independent ABACUS edition
+shipping rates:
+Germany = 5 Euro
+EU countries = 11/15 Euro (surface/airmail rate)
+worldwide = 17/19 Euro (surface/airmail rate)
+game weight: 1100 gramms
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Apr 2013 11:23:02 +0000</listdate>
+    <saledate>Sat, 27 Apr 2013 16:06:44 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>reserved for user JJL_WashDC</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 May 2013 05:48:03 +0000</listdate>
+    <saledate>Tue, 07 May 2013 14:19:10 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>for Chuckles21 only.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 May 2013 16:24:04 +0000</listdate>
+    <saledate>Tue, 21 May 2013 16:30:03 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>(reserved for psytrooper)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 May 2013 08:39:12 +0000</listdate>
+    <saledate>Wed, 29 May 2013 01:20:48 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>For Auction Winner SirWashington
+Zooloretto, Citadels: $39
+S_T_E_M_P_T_A_G_amp;H: $0
+You can paypal to _T_E_M_P_T_A_G_quot;sender.radcliffe@gmail.com_T_E_M_P_T_A_G_quot;. If you can pay to family and friends it would be appreciated but not required.
+Thanks again!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 May 2013 01:34:37 +0000</listdate>
+    <saledate>Wed, 03 Jul 2013 18:16:08 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Game is for: ctrosejr</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Jun 2013 12:00:53 +0000</listdate>
+    <saledate>Mon, 03 Jun 2013 18:23:30 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>new</condition>
+    <notes>For JJL ONLY.  Auction win for expansions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Jun 2013 19:26:53 +0000</listdate>
+    <saledate>Wed, 03 Jul 2013 18:02:31 +0000</saledate>
+    <price currency='EUR'>6</price>
+    <condition>acceptable</condition>
+    <notes>2 coins and one attraction (= onetile) is missing </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Jun 2013 17:15:49 +0000</listdate>
+    <saledate>Wed, 16 Oct 2013 19:55:13 +0000</saledate>
+    <price currency='USD'>25.95</price>
+    <condition>new</condition>
+    <notes>New in Shrink - Small Quarter-size tear in shrink
+Ships from 46902</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Jun 2013 18:26:32 +0000</listdate>
+    <saledate>Sat, 22 Jun 2013 23:30:17 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>For auction winner aaxiom only. Includes the RGG expansion #1. Will be sent in a medium flat rate box.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Jul 2013 19:37:36 +0000</listdate>
+    <saledate>Thu, 18 Jul 2013 20:38:20 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>This item is gently used.
+This item was won in a Geekbay auction for $23 by DearVienna.
+Payment must be made via Coolstuffinc gift certificate. Please send the gift certificate to yourself, then send me the code via Geekmail.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Jul 2013 00:27:48 +0000</listdate>
+    <saledate>Wed, 24 Jul 2013 01:45:22 +0000</saledate>
+    <price currency='USD'>113</price>
+    <condition>verygood</condition>
+    <notes>For user jackelfrink only
+dominion hinterland and intrigue, polarity, zooloretto: $113
+S_T_E_M_P_T_A_G_amp;H: $0</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jul 2013 01:06:56 +0000</listdate>
+    <saledate>Wed, 28 Aug 2013 16:37:55 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>Game has only been used a few times. Is complete and in great shape. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Jul 2013 00:15:21 +0000</listdate>
+    <saledate>Sun, 28 Jul 2013 01:39:44 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Item for newkillerstar27 from auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Jul 2013 19:43:44 +0000</listdate>
+    <saledate>Sat, 12 Oct 2013 11:40:12 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Still in Shrink.
+Great game!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Jul 2013 01:32:51 +0000</listdate>
+    <saledate>Mon, 29 Jul 2013 01:36:12 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>For winner of auction: clarkkent22</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Aug 2013 12:38:17 +0000</listdate>
+    <saledate>Sat, 07 Dec 2013 11:38:51 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Sep 2013 18:13:11 +0000</listdate>
+    <saledate>Sun, 13 Oct 2013 14:52:17 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Rio Grande edition. Normal shelf wear present.  Will ship USPS.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Sep 2013 15:39:04 +0000</listdate>
+    <saledate>Mon, 30 Sep 2013 19:04:42 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Played some, box shows mild shelfwear but is solid. Tiles are in good shape and other components basically like new.
+Shipping should be for a 3 pound box. I ship via USPS, FedEx, or UPS, depending on the rate and your preference.
+Let me know if you have questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Sep 2013 18:25:46 +0000</listdate>
+    <saledate>Sun, 29 Sep 2013 21:35:54 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Played 5 times.  Everything in good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Sep 2013 08:30:35 +0000</listdate>
+    <saledate>Tue, 22 Oct 2013 16:16:38 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>good</condition>
+    <notes>Some wear and tear mostly on the box, the components are in a good condition though. Coming from a non smoking home
+Payment through PayPal preferably.
+Shipping from France so overseas shipping costs are likely to get pricy.
+France: €4.10
+EU: €10
+Elsewhere: contact me for precise shipping costs
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Sep 2013 21:47:15 +0000</listdate>
+    <saledate>Sun, 22 Sep 2013 20:59:19 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Auction win for Michael Logan.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Oct 2013 00:59:04 +0000</listdate>
+    <saledate>Wed, 02 Oct 2013 06:48:55 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>likenew</condition>
+    <notes>Comes with the Rio Grande Games Expansion Packs #1 and #2.
+I_T_E_M_P_T_A_G_#039;m also separately selling the Zooloretto Boss, Zooloretto Exotic, and Zooloretto XXL expansions.
+Shipping is via USPS Medium Flat Rate Mail. I combine shipping if you purchase multiple items.
+Please PM me with questions or for photos of the game, and thanks for your interest.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Oct 2013 16:22:27 +0000</listdate>
+    <saledate>Sun, 13 Oct 2013 00:19:51 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Opened, played once, otherwise in great shape.  Your choice of shipping method, but probably Priority will be the only reasonable option.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Nov 2013 16:13:54 +0000</listdate>
+    <saledate>Wed, 13 Nov 2013 15:01:31 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>Reserved for goldengamer.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Nov 2013 03:49:20 +0000</listdate>
+    <saledate>Mon, 18 Nov 2013 02:33:21 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Reserved for TetsMom from auction</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Nov 2013 17:24:20 +0000</listdate>
+    <saledate>Mon, 25 Nov 2013 18:40:31 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>For auction winner oddtime only.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Nov 2013 12:21:08 +0000</listdate>
+    <saledate>Sun, 08 Dec 2013 19:06:26 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>verygood</condition>
+    <notes>played 5-6 times.
+smoke free, pet free home.
+email for pics if interested.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Nov 2013 06:36:21 +0000</listdate>
+    <saledate>Mon, 02 Dec 2013 04:43:59 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>acceptable</condition>
+    <notes>Item(s): Zooloretto
+Auction winnings from _T_E_M_P_T_A_G_quot;The Auction of Apocalypse_T_E_M_P_T_A_G_quot;: http://boardgamegeek.com/geeklist/165374/
+For user _T_E_M_P_T_A_G_quot;KPac511_T_E_M_P_T_A_G_quot; only.
+My PayPal address is adam.flenar@gmail.com. Thanks!
+Note: _T_E_M_P_T_A_G_quot;Acceptable_T_E_M_P_T_A_G_quot; condition listed on this page is only a stand-in. Actual condition listed on auction item.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Dec 2013 15:43:47 +0000</listdate>
+    <saledate>Fri, 20 Dec 2013 15:51:08 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>For sale to AUCTION winner only!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Dec 2013 11:17:44 +0000</listdate>
+    <saledate>Wed, 22 Jan 2014 17:49:59 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Jan 2014 02:14:02 +0000</listdate>
+    <saledate>Sat, 18 Jan 2014 03:35:06 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>for qeester only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jan 2014 18:53:28 +0000</listdate>
+    <saledate>Thu, 17 Apr 2014 23:38:28 +0000</saledate>
+    <price currency='USD'>54.95</price>
+    <condition>new</condition>
+    <notes>In shrinkwrap. Perfect. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. I have many hundreds of games for sale and would be happy to combine shipping charges for multiple games to save you money. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jan 2014 04:13:07 +0000</listdate>
+    <saledate>Thu, 30 Jan 2014 02:46:38 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>New In Shrink
+Shrink wrap has a tear in the back but is otherwise intact. Box is in perfect condition.
+Ships USPS Priority Mail and includes premium insurance from Stamps.com</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Jan 2014 13:36:37 +0000</listdate>
+    <saledate>Wed, 22 Jan 2014 15:53:27 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Game was played once, but otherwise is in perfect condition other than some normal shelf wear.
+Shipping will vary depending on your location in the US, but should not exceed $15. 
+Please PM me with any questions! And check out my other games for sale, will combine and make great deals on both price _T_E_M_P_T_A_G_amp; Shipping!
+Thanks,
+John</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jan 2014 04:24:34 +0000</listdate>
+    <saledate>Sun, 26 Jan 2014 04:59:31 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>likenew</condition>
+    <notes>Auction win.
+For Scarlett_O only!
+Zooloretto — $25 
+Dracula — $12</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Feb 2014 00:04:41 +0000</listdate>
+    <saledate>Sat, 15 Feb 2014 00:23:25 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Reserved for Joseph Stamper.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Feb 2014 13:04:13 +0000</listdate>
+    <saledate>Mon, 24 Mar 2014 17:18:57 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Rio Grande English-language version.
+P_T_E_M_P_T_A_G_amp;P £6.00 in the UK. Please ask for shipping elsewhere in EU.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Feb 2014 15:55:55 +0000</listdate>
+    <saledate>Sun, 23 Feb 2014 17:42:56 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Auction win for InstKharma only</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Feb 2014 15:28:14 +0000</listdate>
+    <saledate>Fri, 28 Feb 2014 15:36:06 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Includes Rio Grande Games Expansion Pack #1
+Reserved for worlord</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Mar 2014 23:25:13 +0000</listdate>
+    <saledate>Sat, 08 Mar 2014 05:18:13 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Sold in TGD virtual flea market - TGD pickup only. Sold to user malachi</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Mar 2014 21:13:01 +0000</listdate>
+    <saledate>Mon, 17 Mar 2014 06:14:46 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>  Rio Grande English Edition, Game has never been played however, the pieces have been sorted.  Game includes Rio Grande Expansion 1 and Rio Grande Expansion 2, plus Familiarisation Area Expansion, Gorilla and Polar Bear Expansion.  I will combine shipping if others games bought.  </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Mar 2014 22:36:55 +0000</listdate>
+    <saledate>Thu, 13 Mar 2014 05:15:15 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>verygood</condition>
+    <notes>for auction winner manifest b
+includes exotic expansion
+shipping is 8.55</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Mar 2014 14:04:27 +0000</listdate>
+    <saledate>Thu, 27 Mar 2014 14:35:52 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This is an auction item for user: servo3000
+Buyer pays shipping. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Apr 2014 14:06:30 +0000</listdate>
+    <saledate>Wed, 25 Jun 2014 16:24:27 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes>German edition (English, French, Italian _T_E_M_P_T_A_G_amp; Dutch rules included).
+Contents complete _T_E_M_P_T_A_G_amp; in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Apr 2014 01:27:22 +0000</listdate>
+    <saledate>Fri, 04 Apr 2014 17:13:20 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>likenew</condition>
+    <notes>Only for user arsmith7. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Apr 2014 06:37:25 +0000</listdate>
+    <saledate>Wed, 16 Apr 2014 15:22:05 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>FOR ag83az ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Apr 2014 12:47:57 +0000</listdate>
+    <saledate>Mon, 14 Apr 2014 14:10:41 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>RESERVED FOR Sebulik ONLY, as auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 May 2014 15:10:44 +0000</listdate>
+    <saledate>Sun, 18 May 2014 00:51:04 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>English Rio Grande Games edition.
+2nd printing with the _T_E_M_P_T_A_G_quot;Spiel des Jahres 2007_T_E_M_P_T_A_G_quot; award printed on game box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 May 2014 23:21:37 +0000</listdate>
+    <saledate>Sun, 18 May 2014 00:56:23 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Auction win for
+Ty B
+(tylerb)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 May 2014 02:41:09 +0000</listdate>
+    <saledate>Mon, 26 May 2014 18:46:13 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Game is new, out of shrink, still unpunched. There is some box wear from having sat on the shelf for awhile. Includes the Catta expansion.
+Payment will be via Paypal only. I am willing to consider all reasonable offers and thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 May 2014 18:38:21 +0000</listdate>
+    <saledate>Mon, 26 May 2014 03:49:07 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>This is being sold as a set:  Zooloretto, Aquaretto, and the Zooloretto: Exotic expansion.  All components and boxes are in good condition and present.  This is an awesome set for Zooloretto fans!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Jun 2014 05:00:34 +0000</listdate>
+    <saledate>Mon, 09 Jun 2014 06:31:29 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/174307/item/3254989#3254989]Item for Geeklist _T_E_M_P_T_A_G_quot;Short US Auction: someone should play these games (many o.o.p.) end 8th June._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+shipping with  unspeakable words
+for user downtime</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Jun 2014 12:29:36 +0000</listdate>
+    <saledate>Sun, 15 Jun 2014 13:23:15 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Zooloretto, plus promo items as follows 
+Building sites, Polar Bear, Petting Zoo, Three Additional Buildings, Three extra Enclosures. 
+Promo items unused. Nothing missing. 
+Will ship to UK only.
+Shipping via Myhermes, shipping cost £4
+Payment via paypal</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jun 2014 14:16:59 +0000</listdate>
+    <saledate>Tue, 02 Sep 2014 00:13:01 +0000</saledate>
+    <price currency='GBP'>17</price>
+    <condition>verygood</condition>
+    <notes>Photos on request</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jun 2014 13:45:50 +0000</listdate>
+    <saledate>Mon, 16 Jun 2014 20:03:11 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>good</condition>
+    <notes>Box shows shelf wear, as do the components, but the game is still in great shape. This is the Rio Grande pre-SdJ winner edition in English with French rules included.
+Local pickup in western Chicagoland is available.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jul 2014 15:11:47 +0000</listdate>
+    <saledate>Mon, 22 Sep 2014 02:53:32 +0000</saledate>
+    <price currency='USD'>31.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO 2014 EDITION: $31.95
+Z-Man Games [ZMG 71430]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jul 2014 17:09:56 +0000</listdate>
+    <saledate>Mon, 14 Jul 2014 20:05:50 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/175628/item/3308487#3308487]Item for Geeklist _T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_#039;Crate Full of Games Auction_T_E_M_P_T_A_G_#039;_T_E_M_P_T_A_G_quot; [/geekurl]
+Congratulations on your successful bid! This marketplace item has been created in order to complete the transaction for Zooloretto and Zooloretto Expansion Pack #1. 
+(The shipping cost indicated is for priority flat rate shipping.)
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jul 2014 02:57:53 +0000</listdate>
+    <saledate>Sun, 27 Jul 2014 09:08:42 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>For jomammie auction winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Oct 2014 22:31:01 +0000</listdate>
+    <saledate>Wed, 08 Oct 2014 23:38:30 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>new</condition>
+    <notes>ONLY FOR GAMES FOR OWEN AUCTION WINNER:
+wynn33</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Nov 2014 21:58:11 +0000</listdate>
+    <saledate>Sun, 02 Nov 2014 22:08:25 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Opened and played several times but in very good condition with minor shelf wear.  Rio Grande Games edition. Buyer pays $7 shipping. Will try to reduce shipping costs if you buy more than one game. Paypal only please - US buyers only please (shipping costs outside of the US are quite expensive).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Nov 2014 05:39:30 +0000</listdate>
+    <saledate>Wed, 26 Nov 2014 02:38:38 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>RESERVED FOR THE WINNER OF MY AUCTION:  jkmanny</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Nov 2014 12:15:31 +0000</listdate>
+    <saledate>Sun, 07 Dec 2014 17:20:50 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>Contents - Very Good
+Box - Very Good to Good (some shelf wear)
+Only ship to UK</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Nov 2014 23:07:01 +0000</listdate>
+    <saledate>Sun, 07 Dec 2014 18:33:16 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jan 2015 04:27:21 +0000</listdate>
+    <saledate>Fri, 09 Jan 2015 09:23:04 +0000</saledate>
+    <price currency='USD'>31.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO 2014 EDITION: $31.95
+Z-Man Games [ZMG 71430]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Oct 2014 23:16:05 +0000</listdate>
+    <saledate>Mon, 12 Jan 2015 16:52:30 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>verygood</condition>
+    <notes>Includes Rio Grande Games Expansion Pack #1.  Wear consistent with a few plays and _T_E_M_P_T_A_G_quot;private collection_T_E_M_P_T_A_G_quot; condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Feb 2015 04:03:43 +0000</listdate>
+    <saledate>Thu, 19 Feb 2015 04:36:48 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/186729/item/3716660#3716660]Item for Geeklist _T_E_M_P_T_A_G_quot;I have too many games. Edmonton, Alberta two week auction - Low Mins and BINs_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Mar 2015 00:16:13 +0000</listdate>
+    <saledate>Mon, 02 Mar 2015 01:49:24 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>For ATTACK ON TITAN AUCTION winner</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jan 2015 21:44:06 +0000</listdate>
+    <saledate>Mon, 02 Mar 2015 18:41:23 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Feb 2015 20:07:10 +0000</listdate>
+    <saledate>Fri, 06 Mar 2015 20:22:33 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This game was never played.   It was bought as a gift for my son and never used.  Only the wrap was taken off.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Feb 2015 15:05:07 +0000</listdate>
+    <saledate>Sun, 08 Mar 2015 14:09:03 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>plus shipping
+IBAN/BIC</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Mar 2015 16:09:05 +0000</listdate>
+    <saledate>Wed, 18 Mar 2015 09:41:34 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Shipping charges paid by the buyer. Combined shipping is available. Please let me know if you wish for the shipment to be insured.
+I have many other games for sale at my BGG Market page. http://boardgamegeek.com/geekmarket/user/cagood
+Please let me know if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Nov 2014 06:06:18 +0000</listdate>
+    <saledate>Mon, 23 Mar 2015 00:17:07 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>SELLERS TERMS AND CONDITIONS:
+PAYMENT TERMS: Payment is due within 2 days of the date you placed the order. Please do not purchase if you do not intend to follow through with the transaction. 
+PAYMENT METHODS: PayPal
+SHIPPING: Buyer is responsible for all shipping cost. All orders are shipping Priority Mail.
+RETURNS: All returns require authorization BEFORE returning the item. We will accept returns within 5 days of your receipt of the order. We only accept returns on items which are in their original condition. Original condition means, the game have not been played and all parts are in the same condition as they were when you received the game. We only refund shipping costs if the return is a result of our error. If you refuse delivery of an order, we will deduct the return shipping charge from your refund.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Mar 2015 06:52:42 +0000</listdate>
+    <saledate>Mon, 30 Mar 2015 14:00:42 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/188677/item/3792832#3792832]Item for Geeklist _T_E_M_P_T_A_G_quot;Everything Must Go - An Auction with a bit of Charity_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jun 2014 20:38:19 +0000</listdate>
+    <saledate>Wed, 15 Apr 2015 12:19:22 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>Shipping: 13€ worldwide
+Abacusspiele Löwen Edition (German)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 May 2015 20:22:34 +0000</listdate>
+    <saledate>Mon, 18 May 2015 09:43:26 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>likenew</condition>
+    <notes>sold through auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Mar 2015 05:12:14 +0000</listdate>
+    <saledate>Mon, 08 Jun 2015 00:51:25 +0000</saledate>
+    <price currency='EUR'>11.99</price>
+    <condition>verygood</condition>
+    <notes>shipping rates:
+Germany = 5 Euro
+EU countries = 15 Euro
+worldwide = 19 Euro
+game weight: 1200 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Jun 2015 11:02:10 +0000</listdate>
+    <saledate>Tue, 16 Jun 2015 07:15:31 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Jul 2015 04:22:35 +0000</listdate>
+    <saledate>Mon, 27 Jul 2015 05:06:03 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193989/item/4019046#4019046]Item for Geeklist _T_E_M_P_T_A_G_quot;No Ship Auction WBC or Local Pickup Lots of OOP, Rare, and More!  Ends Sun 7/26_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Jul 2015 13:04:30 +0000</listdate>
+    <saledate>Mon, 27 Jul 2015 14:36:58 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193862/item/4014029#4014029]Item for Geeklist _T_E_M_P_T_A_G_quot;No reserve auction!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 May 2015 21:58:49 +0000</listdate>
+    <saledate>Sat, 01 Aug 2015 19:58:27 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Brand new, sealed</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Aug 2015 14:54:16 +0000</listdate>
+    <saledate>Thu, 13 Aug 2015 19:19:14 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>For user (clarkkent22) - comes with Catta promo
+From: CLOSED - TOO MANY!!! US Only Auction: Ends evening of Saturday 8/8/15
+https://boardgamegeek.com/geeklist/194196/item/4025395</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Aug 2015 21:31:02 +0000</listdate>
+    <saledate>Tue, 08 Sep 2015 21:33:16 +0000</saledate>
+    <price currency='EUR'>9.9</price>
+    <condition>verygood</condition>
+    <notes>German version by Abacus + Chamaeleon promo. The game components are language independent. The game is complete and in very good condition.
+Shipping costs (up to 2kg / without insurance / surface mail):
+Germany: 4.50 EUR
+EU: 9.50 EUR
+Outside EU / Worldwide: 16.50 EUR
+Please ask for costs if you want other shipping options.
+Payment via bank transfer is preferred. Paypal is possible. Please add 2 EUR to the price for payment via Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jul 2015 18:50:40 +0000</listdate>
+    <saledate>Wed, 09 Sep 2015 04:20:50 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>*Reserved for Pito*
+Played once.  This includes the Xmas Tree _T_E_M_P_T_A_G_amp; Reindeer expansions.  Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Sep 2015 00:54:46 +0000</listdate>
+    <saledate>Mon, 14 Sep 2015 00:58:32 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/195655/item/4089822#4089822]Item for Geeklist _T_E_M_P_T_A_G_quot;North America Back To School Auction 2015 - Ends Sept. 13th_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 Sep 2015 22:30:31 +0000</listdate>
+    <saledate>Sun, 27 Sep 2015 03:30:45 +0000</saledate>
+    <price currency='USD'>51</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197001/item/4150016#4150016]Item for Geeklist _T_E_M_P_T_A_G_quot;Making Space Auction!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Oct 2015 02:59:10 +0000</listdate>
+    <saledate>Sat, 10 Oct 2015 10:02:36 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: _T_E_M_P_T_A_G_lt;a href=_T_E_M_P_T_A_G_quot;/geeklist/197021/item/4151939#4151939_T_E_M_P_T_A_G_quot; target=_T_E_M_P_T_A_G_quot;_blank_T_E_M_P_T_A_G_quot; class=_T_E_M_P_T_A_G_quot;postlink_T_E_M_P_T_A_G_quot; rel=_T_E_M_P_T_A_G_quot;nofollow_T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_gt;Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED //// LAST 24 HOURS!!!! / Miami Vice AUCTION! Part 2 / US only / Ends October 4 / Some OOP and some Spanish titles / Lots of BIN_T_E_M_P_T_A_G_quot; _T_E_M_P_T_A_G_lt;/a_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;
+Please do not purchase if you are not JASON LOCKE</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Oct 2015 06:10:32 +0000</listdate>
+    <saledate>Mon, 19 Oct 2015 14:07:42 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198187/item/4215171#4215171]Item for Geeklist _T_E_M_P_T_A_G_quot;Quick Auction: 200+ games, Pickup in STL available. Ships from STL. Ends Sunday October 18th 9pm(ish) CDT_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For Hillean only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Oct 2015 22:45:17 +0000</listdate>
+    <saledate>Mon, 19 Oct 2015 18:41:46 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Auction win for botherben15 only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Jul 2015 11:26:00 +0000</listdate>
+    <saledate>Tue, 20 Oct 2015 19:54:05 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>good</condition>
+    <notes>Game is complete and comes with
+Polar Bear, Building Sites, Petting Zoo and Three Additional buildings expansions</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Nov 2015 17:58:55 +0000</listdate>
+    <saledate>Sun, 01 Nov 2015 19:17:29 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>reserved for pesci26</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Mar 2014 16:25:44 +0000</listdate>
+    <saledate>Mon, 02 Nov 2015 09:08:04 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>good</condition>
+    <notes>weight ~1180gr
+Zooloretto
+German second edition with Spiel des Jahres mark
+Publisher: ABACUSSPIELE
+Year: 2007
+Product Code: 03071</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jul 2015 14:21:33 +0000</listdate>
+    <saledate>Thu, 05 Nov 2015 17:25:26 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition, only about half punched.  Box has a tiny bit of shelf wear on a few corners.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Nov 2015 07:52:34 +0000</listdate>
+    <saledate>Sat, 07 Nov 2015 20:40:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/194636/item/4256879#4256879]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Aug 2015 15:30:43 +0000</listdate>
+    <saledate>Mon, 16 Nov 2015 15:34:40 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>includes two expansions(EXOTIC; XXL). and petting zoo mini xp</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Nov 2015 22:15:08 +0000</listdate>
+    <saledate>Mon, 16 Nov 2015 17:40:19 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Dec 2015 21:14:42 +0000</listdate>
+    <saledate>Sat, 05 Dec 2015 21:25:28 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>verygood</condition>
+    <notes>This is reserved for Roc27_T_E_M_P_T_A_G_#039;s winning offer on my Make an Offer List for Zooloretto, Subbuteo, Enchanted Forest, Domination, and Loot. Great deal!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Dec 2015 04:13:45 +0000</listdate>
+    <saledate>Mon, 07 Dec 2015 04:56:00 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>reserved for /user/DaHawksFan
+Includes Rio Grande expansion #1.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Dec 2015 04:31:14 +0000</listdate>
+    <saledate>Mon, 07 Dec 2015 05:19:28 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/200174/item/4299749#4299749]Item for Geeklist _T_E_M_P_T_A_G_quot;Brettspiel Adventskalender 2015 Auction - Ends 06-DEC-2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Shipping will be calculated after purchase.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Dec 2015 03:00:16 +0000</listdate>
+    <saledate>Thu, 10 Dec 2015 03:05:06 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/200339/item/4306353#item4306353]Item for Geeklist _T_E_M_P_T_A_G_quot;Brettspiel Adventskalender 2015 Promo Auction - CLOSED_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction (user jwspiker).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Dec 2015 01:07:16 +0000</listdate>
+    <saledate>Thu, 17 Dec 2015 04:48:52 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>new</condition>
+    <notes>Reserved for SgtSagara1001 winner of auction: [US] NIS Games for the Holidays 2015 - Quick Auction, w BINs, Ending December 16</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Dec 2015 04:02:10 +0000</listdate>
+    <saledate>Wed, 23 Dec 2015 03:02:43 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Pinhead</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Dec 2015 00:06:24 +0000</listdate>
+    <saledate>Thu, 31 Dec 2015 19:07:07 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Box has minor shelf wear, components like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Nov 2015 03:01:08 +0000</listdate>
+    <saledate>Mon, 04 Jan 2016 21:45:06 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Received in a trade, played a few times. Great shape!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Mar 2015 22:05:40 +0000</listdate>
+    <saledate>Mon, 04 Jan 2016 23:20:11 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This listing is for the Spiel version of Zooloretto.  You can see the Spiel logo on the box after it won the prize.  It comes with the Christmas Tree expansion, which is unpunched and unplayed.  We played the base game about 5 times.  The box has the usual slight wearing on the corners.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jan 2016 11:30:39 +0000</listdate>
+    <saledate>Tue, 12 Jan 2016 13:14:47 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>verygood</condition>
+    <notes>played 4 times. excluded shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jan 2016 02:46:25 +0000</listdate>
+    <saledate>Tue, 12 Jan 2016 18:37:19 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/201746/item/4340318#4340318]Item for Geeklist _T_E_M_P_T_A_G_quot;The Great Game Purge continues. US Only.  Ends Sun 1/10/16  CLOSED_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jan 2016 19:22:59 +0000</listdate>
+    <saledate>Tue, 12 Jan 2016 19:56:46 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>reserved for auction winner: justinbarnhill</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jan 2016 15:17:36 +0000</listdate>
+    <saledate>Thu, 21 Jan 2016 15:43:27 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/203034/item/4371460#4371460]Item for Geeklist _T_E_M_P_T_A_G_quot;January 2016 Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Includes the contents of Expansion Pack 1 and Incan Gold.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jan 2015 04:27:21 +0000</listdate>
+    <saledate>Wed, 03 Feb 2016 04:39:58 +0000</saledate>
+    <price currency='USD'>31.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO 2014 EDITION: $31.95
+Z-Man Games [ZMG 71430]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Feb 2016 23:44:57 +0000</listdate>
+    <saledate>Wed, 17 Feb 2016 06:20:31 +0000</saledate>
+    <price currency='GBP'>17</price>
+    <condition>acceptable</condition>
+    <notes>This sale has been auto-generated for the Math trade: [geekurl=/geeklist/204681/item/4451388#4451388]Item for Geeklist _T_E_M_P_T_A_G_quot;UK Maths Trade February 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t make a money offer so somebody else in the trade chain gets it.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Feb 2016 11:53:28 +0000</listdate>
+    <saledate>Mon, 22 Feb 2016 18:09:13 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the math trade: [geekurl=/geeklist/205357/item/4474015#4474015]Item for Geeklist _T_E_M_P_T_A_G_quot;UK Maths Trade LEFTOVERS February 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t offer the money order which traded against this item.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Jun 2015 20:12:02 +0000</listdate>
+    <saledate>Mon, 29 Feb 2016 01:23:07 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>likenew</condition>
+    <notes>Opened and punched but completely unplayed!  I ship out the same day if you pay soon enough and the post office is open.  Shipping is $12.50 priority mail flat rate medium box!  Enjoy the game and have fun!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Mar 2016 19:53:36 +0000</listdate>
+    <saledate>Tue, 15 Mar 2016 12:47:04 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187276/item/4317062#4317062]Item for Geeklist _T_E_M_P_T_A_G_quot;Culling a Collection - Over 100 games!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.  Reserved for queerchameleon
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Feb 2016 14:37:39 +0000</listdate>
+    <saledate>Wed, 23 Mar 2016 17:35:20 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played once, components in great condition, slight shelf wear on box.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Mar 2016 15:24:57 +0000</listdate>
+    <saledate>Thu, 24 Mar 2016 16:16:25 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/206466/item/4518822#4518822]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction Co-Op, some OOP/ Hard to find_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Apr 2016 03:46:23 +0000</listdate>
+    <saledate>Sat, 02 Apr 2016 15:32:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>includes promos
+reserved from auction sale: doiron99</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Apr 2016 04:06:23 +0000</listdate>
+    <saledate>Fri, 22 Apr 2016 14:45:35 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/204560/item/4427452#4427452]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction! Lots of games, _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Oct 2015 17:45:50 +0000</listdate>
+    <saledate>Sun, 08 May 2016 20:43:54 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jun 2016 05:05:26 +0000</listdate>
+    <saledate>Mon, 13 Jun 2016 06:16:53 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/209892/item/4673387#4673387]Item for Geeklist _T_E_M_P_T_A_G_quot;4 Day Auction: 200+ items. St Louis Pickup Available, Ships from STL. Ends June 12th 8pm CDT_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For thegypsy only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jul 2016 06:37:02 +0000</listdate>
+    <saledate>Tue, 12 Jul 2016 04:31:23 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>This is reserved for Randy Thomas.
+INCLUDES ASANTE
+SHIPPING $18.75</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Jul 2016 14:32:36 +0000</listdate>
+    <saledate>Tue, 19 Jul 2016 14:33:17 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>new</condition>
+    <notes>** for AmnNate only **
+$14.00 Zooloretto/Christmas Tree
+$11.95 medium flat rate Priority
+This sale has been auto-generated for the auction: [geekurl=/geeklist/211106/item/4728990#4728990]Item for Geeklist _T_E_M_P_T_A_G_quot;indigopotter_T_E_M_P_T_A_G_#039;s summer auction - US only - shipping from NY 12790 - ends Tues. July 19, 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Aug 2016 13:38:08 +0000</listdate>
+    <saledate>Tue, 06 Sep 2016 11:02:04 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Box corners are slightly worn.  Contents are complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Sep 2016 16:23:14 +0000</listdate>
+    <saledate>Tue, 13 Sep 2016 16:37:22 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214036/item/4872752#4872752]Item for Geeklist _T_E_M_P_T_A_G_quot;Moving Auction -- US-- Ends 9/16_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Sep 2016 05:25:51 +0000</listdate>
+    <saledate>Fri, 23 Sep 2016 18:01:08 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>good</condition>
+    <notes>This listing is for user: Gchristo
+Auction: https://boardgamegeek.com/geeklist/213756/winners-closed-auction-moving-my-family-montana-gl
+Shipping T_T_E_M_P_T_A_G_amp;M is going to be $12</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Oct 2016 14:46:16 +0000</listdate>
+    <saledate>Tue, 01 Nov 2016 20:47:35 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This just serves as confirmation of a VFM sale for user. Go ahead and _T_E_M_P_T_A_G_quot;buy_T_E_M_P_T_A_G_quot; it in the marketplace, and we_T_E_M_P_T_A_G_#039;ll meet at the CON to exchange. I am James and my cell is 785-438-9944 if you cannot find me.  
+This sale has been auto-generated for the auction: [geekurl=/geeklist/214798/item/4948330#4948330]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Nov 2016 03:31:23 +0000</listdate>
+    <saledate>Mon, 07 Nov 2016 03:34:27 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/216523/item/5002117#5002117]Item for Geeklist _T_E_M_P_T_A_G_quot;Got Shelves Like a Turkey Auction!  All games starting bid is $10.  US Shipping from Pennsylvania.  Ends Sunday November 6th_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Nov 2016 23:48:30 +0000</listdate>
+    <saledate>Sat, 12 Nov 2016 11:56:42 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/213990/item/4900419#4900419]Item for Geeklist _T_E_M_P_T_A_G_quot;Lobster Trap 19 *NO SHIP* Auction - November 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Sep 2016 19:47:50 +0000</listdate>
+    <saledate>Sat, 19 Nov 2016 04:53:01 +0000</saledate>
+    <price currency='USD'>12.5</price>
+    <condition>verygood</condition>
+    <notes>Only played a couple of times. Box has a minor dent, everything else is in excellent condition.
+Ships from 48075 via Priority Mail (weight will be approximately 3.5 pounds)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Sep 2015 16:49:48 +0000</listdate>
+    <saledate>Wed, 23 Nov 2016 01:56:13 +0000</saledate>
+    <price currency='GBP'>27.5</price>
+    <condition>new</condition>
+    <notes>This game is offered for sale by King Bee Games
+Please check out our website www.kingbeegames.co.uk for some great deals!
+We are currently only shipping to the UK and use the Hermes Courier Service. We will always combine shipping to reduce the cost when you purchase multiple games.
+Shipping for this game would be £4.75.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Nov 2016 02:15:39 +0000</listdate>
+    <saledate>Wed, 23 Nov 2016 17:13:18 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>This is for the 2016 Brettspiel Advent Calendar promo. Brand new!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Jan 2015 04:27:21 +0000</listdate>
+    <saledate>Wed, 30 Nov 2016 14:03:16 +0000</saledate>
+    <price currency='USD'>31.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO 2014 EDITION: $31.95
+Z-Man Games [ZMG 71430]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Dec 2016 20:22:17 +0000</listdate>
+    <saledate>Thu, 01 Dec 2016 20:31:32 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>for auction winner jtflynn</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Mar 2016 23:16:01 +0000</listdate>
+    <saledate>Wed, 21 Dec 2016 09:47:47 +0000</saledate>
+    <price currency='EUR'>12.5</price>
+    <condition>verygood</condition>
+    <notes>It is a Dutch version of the game, but I have included additional coloured rulesbooks to the box (English, Spanish, French and a English rulebook with an additional solo game variant). 
+Please send me a message if you are interested, so I can make an estimate of the shipping costs. Payment can be done by bank transfer or Paypal. If you have any questions please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Jan 2015 17:41:03 +0000</listdate>
+    <saledate>Wed, 11 Jan 2017 23:35:00 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Opened, punched, unplayed.
+Components are bagged and in excellent condition.
+Crease in box.
+Included is the  Building Sites/Three Extra Enclosures expansion.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Sep 2016 03:35:32 +0000</listdate>
+    <saledate>Thu, 19 Jan 2017 02:29:47 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This contains an additional punch board (still in shrink) with additional Building Sites and Three Extra Enclosures.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jan 2017 13:51:02 +0000</listdate>
+    <saledate>Wed, 25 Jan 2017 15:01:08 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220770/item/5160013#5160013]Item for Geeklist _T_E_M_P_T_A_G_quot;No Reserve, All 5$ starting bids or less, Auction! Classic Games!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Listing for mattclose
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Feb 2017 02:49:28 +0000</listdate>
+    <saledate>Fri, 24 Feb 2017 13:05:51 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>likenew</condition>
+    <notes>Auction item won by juliesandy.  + $15.60 shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 04:04:30 +0000</listdate>
+    <saledate>Wed, 08 Mar 2017 20:21:22 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>RGG 2007 Edition
+Game is in excellent condition and has been verified as complete including the original instructions. Box has a little storage wear but overall the box in very good shape. Cardboard box insert is also present</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Mar 2017 17:40:29 +0000</listdate>
+    <saledate>Thu, 06 Apr 2017 22:57:50 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Everything in great condition. Game played under 10 times. Some whitening on corners of box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Apr 2017 22:22:47 +0000</listdate>
+    <saledate>Mon, 10 Apr 2017 13:03:33 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223800/item/5311586#5311586]Item for Geeklist _T_E_M_P_T_A_G_quot;Post Wedding Auction!!!!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+for zooleretto and wits and wagers bundle</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Apr 2017 17:16:19 +0000</listdate>
+    <saledate>Sun, 23 Apr 2017 19:04:41 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Played twice. Slight wear to box corners. All components in perfect condition.
+Shipped from 02155. Local pick-up available in Boston, MA area.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Apr 2010 11:43:48 +0000</listdate>
+    <saledate>Tue, 09 May 2017 11:33:58 +0000</saledate>
+    <price currency='EUR'>25.99</price>
+    <condition>new</condition>
+    <notes>Abacus Spiele - Zooloretto
+Language: English, French, German _T_E_M_P_T_A_G_amp; Italian
+Players: 2 to 5
+Age: 8+
+Duration: about 45 min
+Weight: 1.600 kg
+New - mint condition - unopened - still in shrink wrap.
+Theme: Each player uses small, large, wild, and exotic animals and their young to try to attract as many visitors as possible to their zoo. But be careful - the zoo must be carefully planned. Before you know it, you have too many animals and no more room for them. That brings minus points! Luckily, your zoo can expand. A zoo of a family game in which less is sometimes more...
+See Details (more info) or below for complete selling, payment and shipping conditions.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Feb 2017 01:11:54 +0000</listdate>
+    <saledate>Sun, 14 May 2017 02:54:44 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>With a baby on the way, I_T_E_M_P_T_A_G_#039;m clearing out a bunch of games. I have no seller feedback, but I_T_E_M_P_T_A_G_#039;ve been a BGG member since 2004 and have bought a handful of games. I am shipping from 27707 and am happy to combine items for reduced shipping or meet in person. I_T_E_M_P_T_A_G_#039;m happy to entertain any bulk offers, and I_T_E_M_P_T_A_G_#039;m happy to send photos or connect over the phone to establish credibility if the lack of feedback is worrisome. 
+Buyer pays shipping costs for USPS Priority Mail Flat Rate. You can check out my marketplace here: https://boardgamegeek.com/geekmarket/user/jammasterjake</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 May 2017 14:04:08 +0000</listdate>
+    <saledate>Thu, 25 May 2017 14:16:05 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223158/item/5402360#5402360]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con Spring 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Jul 2017 03:49:59 +0000</listdate>
+    <saledate>Sun, 09 Jul 2017 06:45:39 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Includes Zooloretto Mini and Icebergs.
+Reserved for joeydag2011.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Jul 2017 11:04:27 +0000</listdate>
+    <saledate>Sun, 09 Jul 2017 17:43:33 +0000</saledate>
+    <price currency='CAD'>120</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/227094/item/5476863#5476863]Item for Geeklist _T_E_M_P_T_A_G_quot;(CAN/USA) LOTR LCG Lot, Evolution collection and Zooloretto big set. _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Jul 2017 19:01:49 +0000</listdate>
+    <saledate>Mon, 10 Jul 2017 02:23:13 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>For auction winner antonyrivers only.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Jun 2017 23:14:49 +0000</listdate>
+    <saledate>Fri, 21 Jul 2017 07:32:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>New in Shrink - with a slight crease on top of box.
+Shipping from 63368</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Aug 2017 14:04:21 +0000</listdate>
+    <saledate>Thu, 10 Aug 2017 17:14:06 +0000</saledate>
+    <price currency='USD'>72</price>
+    <condition>new</condition>
+    <notes>Zooloretto $20
+The Capitals $20
+Medieval Academy NIS $15
+Monopoly the Card Game $2
+Titans of industry NIS $15
+This sale has been auto-generated for the auction: [geekurl=/geeklist/227665/item/5506126#5506126]Item for Geeklist _T_E_M_P_T_A_G_quot;Really Quite Big Auction (OOPs, NIS, KS, 300+ titles, Detroit/Gencon pickup) Ending Aug 6th_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 May 2017 20:22:42 +0000</listdate>
+    <saledate>Fri, 18 Aug 2017 12:20:28 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 May 2017 14:21:10 +0000</listdate>
+    <saledate>Sat, 19 Aug 2017 00:03:05 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Game was played a few times. All components are present and in great condition.
+This cover art on the box shows lemurs, not a panda, and reads _T_E_M_P_T_A_G_quot;Zooloretto Mini._T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Dec 2016 09:13:49 +0000</listdate>
+    <saledate>Sat, 19 Aug 2017 09:00:43 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>A few of the tiles have been punched, but other than that, everything is intact and accounted for. Has never been played (Los Angeles, CA)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Sep 2017 19:41:03 +0000</listdate>
+    <saledate>Thu, 28 Sep 2017 20:01:27 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230566/item/5665548#5665548]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Oct 2017 12:29:59 +0000</listdate>
+    <saledate>Tue, 03 Oct 2017 12:40:08 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>likenew</condition>
+    <notes>Payment through IBAN possible. Shipment cost excluded.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Aug 2017 04:50:54 +0000</listdate>
+    <saledate>Fri, 06 Oct 2017 22:07:24 +0000</saledate>
+    <price currency='USD'>22.5</price>
+    <condition>verygood</condition>
+    <notes>This is Zooloretto base game (2007 ed). The box does have minor shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Oct 2017 10:15:25 +0000</listdate>
+    <saledate>Sat, 14 Oct 2017 03:11:27 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Oct 2017 14:53:04 +0000</listdate>
+    <saledate>Sun, 22 Oct 2017 21:33:23 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>All proceeds will go to One America Appeal (oneamericaappeal.org) for hurricane relief.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 May 2017 21:57:36 +0000</listdate>
+    <saledate>Mon, 27 Nov 2017 19:16:31 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Jun 2016 20:20:17 +0000</listdate>
+    <saledate>Mon, 04 Dec 2017 12:21:32 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Minor wear at the box, comes with a bag for the tiles</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Dec 2017 14:59:28 +0000</listdate>
+    <saledate>Tue, 12 Dec 2017 21:10:31 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Had the game for a couple years, have only played it 1 - 2 times. It is a good game, we just have to many to get to it. All pieces are present.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Dec 2017 08:07:21 +0000</listdate>
+    <saledate>Thu, 14 Dec 2017 17:29:31 +0000</saledate>
+    <price currency='USD'>24.98</price>
+    <condition>verygood</condition>
+    <notes>Condition: corners lightly scuffed</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 May 2015 03:37:46 +0000</listdate>
+    <saledate>Fri, 15 Dec 2017 00:07:38 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap.  Rio Grande Games English edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Nov 2015 20:35:38 +0000</listdate>
+    <saledate>Fri, 15 Dec 2017 17:35:45 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Shipping is from 20852 and will be paid by purchaser, and I will ship via whatever method you request. If we (meaning me and the buyer) use USPS I will require Delivery Confirmation on the package. This is to protect both you and me so we can guarantee both that the games have been sent, and that you received them.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Dec 2017 01:35:34 +0000</listdate>
+    <saledate>Mon, 18 Dec 2017 03:05:34 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Aimii from Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Dec 2017 23:48:06 +0000</listdate>
+    <saledate>Tue, 19 Dec 2017 03:09:17 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>good</condition>
+    <notes>Components are in great shape but the box has shelf wear and is wearing through in a couple corners.  The box is structurally fine.
+Buyer pays shipping from 46506.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Jul 2017 02:07:46 +0000</listdate>
+    <saledate>Tue, 19 Dec 2017 21:08:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays shipping from 78640.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Dec 2017 18:15:40 +0000</listdate>
+    <saledate>Mon, 15 Jan 2018 09:14:19 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>verygood</condition>
+    <notes>payment:
+bank transfere, paypal for family and friends
+shipment:
+ask</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Jan 2018 12:19:57 +0000</listdate>
+    <saledate>Tue, 30 Jan 2018 16:36:10 +0000</saledate>
+    <price currency='EUR'>12.5</price>
+    <condition>verygood</condition>
+    <notes>It is a Dutch version of the game, but I have included English rulesbook to the box with an additional solo game variant.
+Please send a message if you are interested and ask for shipping costs to your location. Payment can be done by bank transfer or Pay pal. If you have any other question, please feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jan 2018 19:34:28 +0000</listdate>
+    <saledate>Tue, 30 Jan 2018 19:38:21 +0000</saledate>
+    <price currency='USD'>36.47</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/236084/item/5883054#5883054]Item for Geeklist _T_E_M_P_T_A_G_quot;Build your own discount sale! Time to clear some space. Ends Jan 22 random time._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. Includes zooloretto and others. Discount of 6.5% included.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Jan 2018 06:44:53 +0000</listdate>
+    <saledate>Fri, 09 Feb 2018 15:59:38 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jan 2018 23:39:48 +0000</listdate>
+    <saledate>Fri, 23 Feb 2018 23:12:18 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Components punched and bagged. Played only once - game is still in nearly brand new condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Nov 2016 02:21:37 +0000</listdate>
+    <saledate>Tue, 27 Feb 2018 18:23:43 +0000</saledate>
+    <price currency='USD'>25.45</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. I also have several Zooloretto promo tiles that I_T_E_M_P_T_A_G_#039;d be willing to sell for $4 each with the base game.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Jan 2018 15:38:26 +0000</listdate>
+    <saledate>Mon, 12 Mar 2018 19:33:19 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Includes a new shrink-wrapped copy of _T_E_M_P_T_A_G_quot;Zooloretto Building Sites_T_E_M_P_T_A_G_quot; expansion.  Purchaser pays shipping. If pay by personal check, item will be shipped after the check clears.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Mar 2018 07:20:56 +0000</listdate>
+    <saledate>Mon, 19 Mar 2018 06:33:10 +0000</saledate>
+    <price currency='GBP'>16</price>
+    <condition>verygood</condition>
+    <notes>Buyer to pay shipping
+Collection available from Essex</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Jan 2018 21:32:18 +0000</listdate>
+    <saledate>Wed, 21 Mar 2018 15:50:53 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>verygood</condition>
+    <notes>Please take a look at the version of the game as most of my games are in German!
+Worldwide shipping possible:
+5,00 Euro shipping costs within Germany, 
+9,00 Euro shipping costs within the [url=http://www.boardgamegeek.com/wiki/page/European_shipping_costs#toc3] EU (DHL Zone 1)[/url],
+16,00 Euro shipping costs for the rest of the world.
+If you prefer tracked shipping, please ask for additional costs.
+Combined shipping is possible.
+Payment through PayPal or European Bank Transfer - any fees are on the buyer.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Mar 2018 14:21:01 +0000</listdate>
+    <saledate>Sat, 24 Mar 2018 16:19:04 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239039/item/6031809#6031809]Item for Geeklist _T_E_M_P_T_A_G_quot;Collection Reduction Auction - Wargames, Kickstarter, others.  Ends 3/23_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Mar 2018 03:43:51 +0000</listdate>
+    <saledate>Fri, 30 Mar 2018 02:22:41 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Played twice
+Includes Exotic expansion.
+Includes Savings book and Job Board expansion.
+Includes 3 extra enclosures, 3 extra buildings expansion, petting zoo expansion, and building sites expansion.
+Includes gorilla and polar bear.
+12 dollars shipping anywhere in US.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Apr 2018 21:52:08 +0000</listdate>
+    <saledate>Fri, 13 Apr 2018 12:13:38 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Apr 2018 17:50:04 +0000</listdate>
+    <saledate>Mon, 16 Apr 2018 14:21:35 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>I have other Zooloretto stuff for sale...check them out too and you can save on shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 May 2018 05:43:00 +0000</listdate>
+    <saledate>Tue, 01 May 2018 06:28:19 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes>auction win for holden12</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Dec 2017 12:30:03 +0000</listdate>
+    <saledate>Tue, 08 May 2018 14:00:43 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>good</condition>
+    <notes>PlayingItems are in perfect state!
+No rules include . You can find online! (6 pages)
+Extra:  Polar Bear NEW
+Extra: Iberian Lynx NEW
+Extra: Skunk (Stinkdier) NEW</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Apr 2018 21:44:30 +0000</listdate>
+    <saledate>Thu, 17 May 2018 23:17:38 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>Opened, unplayed, buyer pays shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 May 2018 21:43:41 +0000</listdate>
+    <saledate>Tue, 22 May 2018 23:56:41 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239373/item/6053083#6053083]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con Spring 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Aug 2016 20:40:00 +0000</listdate>
+    <saledate>Sat, 26 May 2018 15:50:12 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Only played this game one time!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jun 2018 17:48:11 +0000</listdate>
+    <saledate>Sat, 02 Jun 2018 22:50:07 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>** Geekbay auction item - please do not buy if you do not have a winning bid on this item. **
+https://boardgamegeek.com/geeklist/241569/jts-moving-auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2018 12:06:13 +0000</listdate>
+    <saledate>Wed, 27 Jun 2018 15:02:21 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>AUCTION ITEM: This item is for user Shawn King (zongai). 
+Condition: The box and insert are a bit damaged, though still perfectly usable (I received the game in this condition from a trade). The components are in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jun 2018 01:28:10 +0000</listdate>
+    <saledate>Wed, 11 Jul 2018 07:04:14 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played once. Excellent condition.
+Includes Catta and Familiarisation Area expansions.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 May 2018 18:19:42 +0000</listdate>
+    <saledate>Tue, 24 Jul 2018 22:37:32 +0000</saledate>
+    <price currency='USD'>51.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO 2014 EDITION: $51.95
+Z-Man Games [ZMG 71430]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jul 2018 05:22:37 +0000</listdate>
+    <saledate>Tue, 31 Jul 2018 16:49:49 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Also includes a bunch of expansions: tapir, polar bear, chameleon, reindeer, kiwi, and the familiarization area.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Aug 2018 19:52:05 +0000</listdate>
+    <saledate>Fri, 03 Aug 2018 01:22:08 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243877/item/6286479#6286479]Item for Geeklist _T_E_M_P_T_A_G_quot;Freeing up space - Auction! Ends 8/2_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jan 2016 23:45:01 +0000</listdate>
+    <saledate>Mon, 03 Sep 2018 11:50:06 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Sep 2018 01:41:34 +0000</listdate>
+    <saledate>Wed, 05 Sep 2018 15:43:38 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Aug 2018 05:21:39 +0000</listdate>
+    <saledate>Sat, 08 Sep 2018 00:36:14 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>good</condition>
+    <notes>2007 edition w/ SDJ logo on box top
+Game is in very good condition and has been verified as complete including original instructions. Box has some shelf wear including a game store_T_E_M_P_T_A_G_#039;s sticker on the box top (It was part of their game library), but overall the box is in good condition. Cardboard box insert is also present.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Jun 2018 01:00:41 +0000</listdate>
+    <saledate>Mon, 17 Sep 2018 16:31:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Price includes the first expansion.  Great shape though one of the trucks came with a slight blemish.  Geekmail me for details and/or pics.
+Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Sep 2018 15:57:50 +0000</listdate>
+    <saledate>Thu, 27 Sep 2018 06:12:34 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Oct 2018 15:15:00 +0000</listdate>
+    <saledate>Tue, 16 Oct 2018 17:49:18 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Reserved for user adrienne1.
+$15 + $13.65 = $28.65.
+PayPal = chevy1988@hotmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Oct 2018 08:24:02 +0000</listdate>
+    <saledate>Wed, 17 Oct 2018 22:05:46 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246470/item/6464648#6464648]Item for Geeklist _T_E_M_P_T_A_G_quot;Huge auction! Tons of great games! Many NIS_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Sep 2018 18:14:01 +0000</listdate>
+    <saledate>Thu, 18 Oct 2018 00:31:42 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Components in ziplock bags.  All components in very good condition.  Box in very good condition.
+Shipping costs extra.  Shipped from Maryland (21146)
+Shipping costs can be combined if you purchase other items that I am selling.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Aug 2018 23:46:51 +0000</listdate>
+    <saledate>Tue, 06 Nov 2018 05:46:35 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened, played once.  Nothing wrong with the game; it_T_E_M_P_T_A_G_#039;s in perfect condition.  I_T_E_M_P_T_A_G_#039;m just cleaning up my collection, and this didn_T_E_M_P_T_A_G_#039;t survive the cull.
+Shipping from 90631.  I_T_E_M_P_T_A_G_#039;m happy to ship internationally, it just sucks (read, more expensive).  Please let me know if you have any questions.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Oct 2018 19:05:19 +0000</listdate>
+    <saledate>Thu, 08 Nov 2018 21:50:29 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/245973/item/6466005#6466005]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+reserved for user ahwood23
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jun 2018 04:45:47 +0000</listdate>
+    <saledate>Mon, 12 Nov 2018 02:26:30 +0000</saledate>
+    <price currency='AUD'>25</price>
+    <condition>verygood</condition>
+    <notes>Includes most if not all the print and play expansions</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Nov 2018 15:48:59 +0000</listdate>
+    <saledate>Wed, 14 Nov 2018 15:03:52 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Fall 2018 Auction winner Rollyn.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Nov 2018 03:37:11 +0000</listdate>
+    <saledate>Sun, 18 Nov 2018 09:07:20 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/248400/item/6535629#6535629]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction! Free shipping opportunity! Ships from CA 93402_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 May 2018 18:19:42 +0000</listdate>
+    <saledate>Sun, 25 Nov 2018 23:13:16 +0000</saledate>
+    <price currency='USD'>51.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+ZOOLORETTO 2014 EDITION: $51.95
+Z-Man Games [ZMG 71430]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Nov 2018 16:57:15 +0000</listdate>
+    <saledate>Fri, 07 Dec 2018 17:27:56 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>In extremely good condition - only played a few times. Selling to make room in my collection (buyer will cover shipping).
+I_T_E_M_P_T_A_G_#039;m also selling multiple items through BGG and willing to combine purchases to save on shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Nov 2018 19:10:25 +0000</listdate>
+    <saledate>Mon, 10 Dec 2018 14:36:29 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Plus shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Dec 2018 02:01:52 +0000</listdate>
+    <saledate>Sun, 16 Dec 2018 14:23:39 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/248692/item/6547326#6547326]Item for Geeklist _T_E_M_P_T_A_G_quot;The Search for Shelf Space Auction Part 1_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Nov 2018 19:53:58 +0000</listdate>
+    <saledate>Mon, 17 Dec 2018 15:59:44 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played 3 times.  In perfect condition.  Stored in smoke free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Dec 2018 16:23:54 +0000</listdate>
+    <saledate>Mon, 24 Dec 2018 09:05:13 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>New. Still in shrink wrap.
+Buyer pays shipping (from 20723).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Sep 2018 00:14:33 +0000</listdate>
+    <saledate>Tue, 25 Dec 2018 03:58:54 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>Buyer pays actual shipping via USPS, UPS, or FedEx. Shipping from Chicago, IL, USA. Local pickup is available.
+Shipping to other countries is expensive. It could be as much as $30-$60+ depending on where it_T_E_M_P_T_A_G_#039;s going and the weight of package. Please feel free to message me about the shipping cost before buying. 
+PayPal, Zelle, or Venmo, or message me if you prefer another online method and I_T_E_M_P_T_A_G_#039;ll look into it.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Dec 2018 05:33:39 +0000</listdate>
+    <saledate>Fri, 04 Jan 2019 05:17:02 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Includes Skunk promo tile, Familiarization Area expansion, components bagged, never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jan 2019 14:22:49 +0000</listdate>
+    <saledate>Mon, 21 Jan 2019 22:07:27 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played a handful of times but still looks really good. Non-smoking home.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jan 2019 17:04:38 +0000</listdate>
+    <saledate>Mon, 21 Jan 2019 23:22:19 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>good</condition>
+    <notes>Reserved for /u/ErgoSphere from Geeklist Auction
+This sale is for the following items:
+Base Game
+- Zooloretto (2007) 
+Big Box Expansions:
+- Zooloretto: XXL
+- Zooloretto: Boss
+- Zooloretto: Exotic
+Mini Expansions:
+- Familiarization Area
+- Polar Bear
+- Skunk
+- Taiper
+- Catta
+- Kiwi
+Everything is complete in thier original boxes/packages.
+The games are in great condition. The main zooloretto box shows some shelf wear on the edges.
+Comes from a smoke and pet free home.
+Buyer pays shipping from 48104.
+(I will work with the seller to get the cheapest shipping).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Jan 2019 13:51:15 +0000</listdate>
+    <saledate>Tue, 29 Jan 2019 19:17:10 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played a few times, in outstanding shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Feb 2019 13:16:23 +0000</listdate>
+    <saledate>Fri, 01 Feb 2019 16:48:32 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/252084/item/6677042#6677042]Item for Geeklist _T_E_M_P_T_A_G_quot;Bargains.  Some starting at $5.  Rare and hard to find included_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Feb 2019 22:04:42 +0000</listdate>
+    <saledate>Sun, 10 Feb 2019 22:05:42 +0000</saledate>
+    <price currency='EUR'>13</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/251822/item/6691463#6691463]Item for Geeklist _T_E_M_P_T_A_G_quot;German Math Trade January 2019_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you aren_T_E_M_P_T_A_G_#039;t dawue.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Feb 2019 03:23:00 +0000</listdate>
+    <saledate>Mon, 11 Feb 2019 19:32:27 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/249617/item/6657102#6657102]Item for Geeklist _T_E_M_P_T_A_G_quot;Board Game Auction Ends Feb 10th Pickup Available Bucks County, PA or King of Prussia, PA_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Jan 2019 02:29:58 +0000</listdate>
+    <saledate>Fri, 22 Feb 2019 05:18:02 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played once.  Components are in excellent condition.
+Minimal wear on edges of box from shelf.  Smoke free, cat free home.
+USPS Flat rate shipping preferred.  Paypal accepted.
+Meeting east of Rochester, NY with cash also an option.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

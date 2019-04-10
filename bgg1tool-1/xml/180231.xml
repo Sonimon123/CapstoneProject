@@ -1,0 +1,365 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="180231">
+   <yearpublished>2015</yearpublished>
+   <minplayers>1</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>30</playingtime>
+   <minplaytime>20</minplaytime>
+   <maxplaytime>30</maxplaytime>
+   <age>10</age>
+       <name  sortindex="1">Octo Dice</name>
+       <name  sortindex="1">Octo Dice</name>
+       <name primary="true" sortindex="1">OctoDice</name>
+         
+   <description>The theme of OctoDice is based on Aquasphere, and the game mechanisms recall that board game. On your turn, you roll six dice (three white and three black); two dice (one white and one black) form an action. Every roll you must pick exactly two dice to take out (any colour). In the end you combine the six dice any way you want, no matter in which order you chose to take them out of your rolls beforehand. You can use only two actions on your turn. On your development sheet you enter the actions chosen for this turn and note your points. You can also decide to _T_E_M_P_T_A_G_amp;quot;expand your lab_T_E_M_P_T_A_G_amp;quot; which will give you bonus actions or points. Other players may pick any action combination from your dice roll to add to their sheet. Do not forget to fight Octopodes ;) The game ends when each player had 6 turns. Whoever has the most points in the end wins._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/dVb2Hx3fqycbKD9QWdb7uFzq7ME=/fit-in/200x150/pic2635740.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/yVp66o-j9uTVYsEqdCE9ONpeUAM=/0x0/pic2635740.jpg</image>
+      
+                   <boardgamepublisher objectid="396">Alderac Entertainment Group</boardgamepublisher>
+               <boardgamecategory objectid="1017">Dice</boardgamecategory>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+                      <boardgameversion objectid="307143">English-only first edition</boardgameversion>
+               <boardgameversion objectid="278190">English/German first edition</boardgameversion>
+               <boardgamepodcastepisode objectid="227741">Episode #35: Games with Robots</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+                                                  <boardgameartist objectid="12484">Dennis Lohausen</boardgameartist>
+                             <boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
+                      <boardgamefamily objectid="41222">Roll-and-write</boardgamefamily>
+               <boardgameartist objectid="12674">Hans-Georg Schneider</boardgameartist>
+               <boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+               <boardgamepodcastepisode objectid="204463">THE GAME PIT: EPISODE 82 - PICKING OVER THE BONES</boardgamepodcastepisode>
+               <boardgamedesigner objectid="83710">Christoph Toussaint</boardgamedesigner>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="20">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="9" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="16" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="9" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="12" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="5" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="1" />
+     <result value="8" numvotes="3" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>834</usersrated>
+     <average>6.59232</average>
+     <bayesaverage>5.93981</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2445" bayesaverage="5.93981" />
+            
+       
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="632" bayesaverage="6.06114" />
+            
+           </ranks>
+     
+     <stddev>1.20369</stddev>
+     <median>0</median>
+     <owned>1502</owned>
+     <trading>64</trading>
+     <wanting>44</wanting>
+     <wishing>194</wishing>
+     <numcomments>200</numcomments>
+     <numweights>22</numweights>
+     <averageweight>1.8182</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 02 Nov 2015 21:59:06 +0000</listdate>
+    <saledate>Tue, 08 Dec 2015 05:16:21 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Brand new/sealed.  Ready to ship.  Buyer pays shipping from 43235.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Dec 2015 17:17:57 +0000</listdate>
+    <saledate>Fri, 11 Dec 2015 15:27:43 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Brand new/sealed.  Ready to ship.  Buyer pays shipping from 43235.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Dec 2015 18:58:41 +0000</listdate>
+    <saledate>Tue, 22 Dec 2015 22:26:33 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/201049/item/4322462#4322462]Item for Geeklist _T_E_M_P_T_A_G_quot;Huge Holiday Auction! (Ends 12/21) US Only _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Dec 2015 19:28:21 +0000</listdate>
+    <saledate>Sun, 03 Jan 2016 14:08:31 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Brand new/sealed.  Ready to ship.  Buyer pays shipping from 43235.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jan 2016 14:09:30 +0000</listdate>
+    <saledate>Sat, 09 Jan 2016 07:05:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Brand new/sealed.  Ready to ship.  Buyer pays shipping from 43235.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Feb 2016 18:16:57 +0000</listdate>
+    <saledate>Thu, 17 Mar 2016 07:52:22 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Opened, but never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Mar 2016 18:43:55 +0000</listdate>
+    <saledate>Mon, 21 Mar 2016 11:19:54 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the Math trade: [geekurl=/geeklist/205518/item/4488382#4488382]Item for Geeklist _T_E_M_P_T_A_G_quot;German Math Trade March 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t offer a money offer for this.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Apr 2016 19:41:59 +0000</listdate>
+    <saledate>Thu, 28 Apr 2016 23:25:14 +0000</saledate>
+    <price currency='GBP'>6</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208064/item/4590648#4590648]Item for Geeklist _T_E_M_P_T_A_G_quot;[UK/Europe] THIRD AUCTION IN MY 2016 CHALLENGE_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jul 2016 11:11:03 +0000</listdate>
+    <saledate>Thu, 07 Jul 2016 07:29:38 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Cute dice game. Contains all the pieces in great condition, except for a few used sheets from the score pad.
+Comes from a pet-free, smoke-free home.
+If you like, save on shipping by picking up in Park Slope, Brooklyn.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Jun 2016 10:15:19 +0000</listdate>
+    <saledate>Wed, 27 Jul 2016 09:19:40 +0000</saledate>
+    <price currency='EUR'>6.9</price>
+    <condition>likenew</condition>
+    <notes>Played once. In perfect condition. Nonsmoker household without animals.
+Payment via PayPal or wire transfer.
+(The buyer bears any costs that may arise upon payment and shipping.)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 May 2016 11:30:53 +0000</listdate>
+    <saledate>Thu, 28 Jul 2016 20:40:14 +0000</saledate>
+    <price currency='EUR'>7</price>
+    <condition>likenew</condition>
+    <notes>The game:
+Pegasus (c) 2015.
+English _T_E_M_P_T_A_G_amp; German rules included!
+All game materials are still in mint condition.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within EU I prefer the EU-standard-bank-tranfer (SEPA,IBAN/BIC). It is fast and causes no fees.
+Outside EU Paypal and bank-transfer are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jul 2016 16:39:46 +0000</listdate>
+    <saledate>Mon, 01 Aug 2016 15:58:20 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>Everything is in like new condition. 
+Shipping is from 43224.
+I will gladly combine shipping on multiple items purchased.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Sep 2016 13:51:27 +0000</listdate>
+    <saledate>Tue, 06 Sep 2016 22:57:06 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/213327/item/4832413#4832413]Item for Geeklist _T_E_M_P_T_A_G_quot;Winnowing My Collection - 03 - Ending 09-04-2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+https://www.boardgamegeek.com/geeklist/213327/item/4832413#item4832413</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2017 10:35:33 +0000</listdate>
+    <saledate>Tue, 07 Feb 2017 02:21:00 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>[b]Edition:[/b] 2016 AEG and Pegasus Spiele Engl.
+[b]Condition:[/b] NIS. From Smoker-Free Home.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Mar 2017 17:45:42 +0000</listdate>
+    <saledate>Tue, 21 Mar 2017 19:55:16 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223369/item/5287456#5287456]Item for Geeklist _T_E_M_P_T_A_G_quot;Great purge of 2017! All with BIN option. 95762. Ends March 31st_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 May 2017 14:39:16 +0000</listdate>
+    <saledate>Tue, 02 May 2017 02:06:21 +0000</saledate>
+    <price currency='CAD'>10</price>
+    <condition>likenew</condition>
+    <notes>This is an auction item
+Reserved for geek user:  Nechevo</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Aug 2017 03:41:04 +0000</listdate>
+    <saledate>Mon, 14 Aug 2017 04:04:54 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/226905/item/5516515#5516515]Item for Geeklist _T_E_M_P_T_A_G_quot;Summer Cleaning Auction 2_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Aug 2017 00:19:59 +0000</listdate>
+    <saledate>Thu, 17 Aug 2017 16:37:21 +0000</saledate>
+    <price currency='CAD'>5</price>
+    <condition>verygood</condition>
+    <notes>From Auction - For User Kaladin Stormblessed
+Please do not purchase if you are not this User</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Oct 2016 14:42:53 +0000</listdate>
+    <saledate>Mon, 25 Sep 2017 11:27:04 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Oct 2017 19:33:34 +0000</listdate>
+    <saledate>Thu, 26 Oct 2017 22:35:25 +0000</saledate>
+    <price currency='GBP'>4</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231599/item/5714134#5714134]Item for Geeklist _T_E_M_P_T_A_G_quot;[UK/Europe] FIFTH AND FINAL AUCTION IN MY 2017 COLLECTION TRIMMING_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Nov 2017 15:47:27 +0000</listdate>
+    <saledate>Fri, 03 Nov 2017 16:07:19 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>For settlerdave from the 100+ Games to Sell in Rochester, NY with BINS! (Ends 11/10) Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 May 2017 17:26:20 +0000</listdate>
+    <saledate>Thu, 28 Dec 2017 23:29:46 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>Played once. In excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Sep 2017 21:23:19 +0000</listdate>
+    <saledate>Wed, 30 May 2018 16:44:28 +0000</saledate>
+    <price currency='USD'>14.99</price>
+    <condition>likenew</condition>
+    <notes>Includes extra set of dice.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jun 2018 17:15:04 +0000</listdate>
+    <saledate>Fri, 08 Jun 2018 17:23:07 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/231344/item/6192695#6192695]Item for Geeklist _T_E_M_P_T_A_G_quot;Columbus, Ohio Virtual Flea Market (Now including Origins drop off and pick up)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jul 2018 16:51:39 +0000</listdate>
+    <saledate>Tue, 24 Jul 2018 10:01:59 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>likenew</condition>
+    <notes>played only once</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Dec 2017 18:02:24 +0000</listdate>
+    <saledate>Sat, 08 Sep 2018 22:10:29 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>new</condition>
+    <notes>Postage is £2.80 to the U.K.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Aug 2018 18:41:51 +0000</listdate>
+    <saledate>Wed, 19 Sep 2018 18:53:18 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Dec 2018 04:29:20 +0000</listdate>
+    <saledate>Thu, 13 Dec 2018 05:29:20 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239049/item/6032419#6032419]Item for Geeklist _T_E_M_P_T_A_G_quot;WingTale_T_E_M_P_T_A_G_#039;s Winter 2018 Auction - NYC area_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jan 2019 14:23:31 +0000</listdate>
+    <saledate>Tue, 22 Jan 2019 15:40:16 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/250528/item/6629437#6629437]Item for Geeklist _T_E_M_P_T_A_G_quot;2019 EsCon Gaming Convention Virtual Flea Market (Jan 25-27)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

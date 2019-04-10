@@ -1,0 +1,836 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="56786">
+   <yearpublished>2009</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>10</age>
+       <name  sortindex="1">Kamon</name>
+       <name  sortindex="1">Koehandel Master</name>
+       <name primary="true" sortindex="1">Kuhhandel Master</name>
+       <name  sortindex="1">Tope-La! Master</name>
+         
+   <description>A reimplementation of You're Bluffing!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This stand alone new version adds several new rules and possibilities:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;- Playable with 2-6 players ( Original game 3-5)_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;- New animal: The Rat makes players lose points._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;- Pedigree cards: Score bonus points for corresponding stocks of cattle._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;- New auction mechanisms (for Rat and Pedigree cards)._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This is not an expansion but an expanded version of the original game._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Re-implements:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    You're Bluffing!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/DhUbKULSPd4gT8HV1JRyK8QHINw=/fit-in/200x150/pic852332.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/2mul_198aWztsniFsN9SiPTl0Fw=/0x0/pic852332.jpg</image>
+      
+            <boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+               <boardgamecategory objectid="1089">Animals</boardgamecategory>
+               <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+               <boardgamecategory objectid="1023">Bluffing</boardgamecategory>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+                                                  <boardgameversion objectid="20861">Dutch/French edition</boardgameversion>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgameversion objectid="74378">German edition</boardgameversion>
+                                                                <boardgameartist objectid="56356">Martin Knorpp</boardgameartist>
+                      <boardgamedesigner objectid="7101">Rüdiger Koltze</boardgamedesigner>
+               <boardgameartist objectid="12107">Mathieu Leyssenne</boardgameartist>
+               <boardgameversion objectid="375949">Print and Play edition</boardgameversion>
+               <boardgamefamily objectid="17407">Ravensburger Kartenspiele</boardgamefamily>
+               <boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+                             <boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+               <boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+               <boardgameimplementation objectid="1117" inbound="true">You_T_E_M_P_T_A_G_#039;re Bluffing!</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="16">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="9" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="9" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="9" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="6" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="7" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="5" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="1" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>824</usersrated>
+     <average>6.75772</average>
+     <bayesaverage>5.99073</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2224" bayesaverage="5.99073" />
+            
+       
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="571" bayesaverage="6.11806" />
+            
+           </ranks>
+     
+     <stddev>1.2889</stddev>
+     <median>0</median>
+     <owned>1706</owned>
+     <trading>41</trading>
+     <wanting>29</wanting>
+     <wishing>93</wishing>
+     <numcomments>155</numcomments>
+     <numweights>41</numweights>
+     <averageweight>1.8537</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 19 Feb 2010 10:42:55 +0000</listdate>
+    <saledate>Tue, 14 Dec 2010 08:28:28 +0000</saledate>
+    <price currency='EUR'>13.99</price>
+    <condition>new</condition>
+    <notes>Ravenburger - Koehandel Master
+Language: Dutch _T_E_M_P_T_A_G_amp; French
+Players: 2 to 6
+Age: 10+
+Duration: about 60 min
+Weight: 0.320 kg
+New - mint condition - unopened - still in shrink wrap.
+Theme: This is an expanded version of the original Koehandel (Tope-la) game.
+See Details (more info) or below for complete selling, payment and shipping conditions.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 May 2010 05:12:32 +0000</listdate>
+    <saledate>Tue, 11 May 2010 17:16:53 +0000</saledate>
+    <price currency='USD'>22.95</price>
+    <condition>new</condition>
+    <notes>Brand new, in shrink. English instructions may be printed out on BGG.
+Will ship via USPS Priority or FedEx ground at actual cost from the 94024 zip code. FedEx ground is significantly cheaper if shipped to a business address. Game will ship the day of or the day after payment clears.
+Will combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Jul 2010 13:54:09 +0000</listdate>
+    <saledate>Tue, 14 Dec 2010 05:35:55 +0000</saledate>
+    <price currency='EUR'>13.5</price>
+    <condition>new</condition>
+    <notes>Dutch version</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Aug 2010 21:40:13 +0000</listdate>
+    <saledate>Fri, 27 Aug 2010 04:54:21 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>likenew</condition>
+    <notes>German edition. Components language independent.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Dec 2010 12:36:30 +0000</listdate>
+    <saledate>Sat, 29 Jan 2011 21:02:37 +0000</saledate>
+    <price currency='EUR'>11</price>
+    <condition>likenew</condition>
+    <notes>German edition from Ravensburger.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Feb 2011 18:19:15 +0000</listdate>
+    <saledate>Wed, 06 Apr 2011 11:11:25 +0000</saledate>
+    <price currency='EUR'>12.99</price>
+    <condition>new</condition>
+    <notes>Ravenburger - Koehandel Master
+Language: Dutch _T_E_M_P_T_A_G_amp; French
+Players: 2 to 6
+Age: 10+
+Duration: about 60 min
+Weight: 0.320 kg
+New - mint condition - unopened - still in shrink wrap.
+Theme: This is an expanded version of the original Koehandel (Tope-la) game.
+See Details (more info) or below for complete selling, payment and shipping conditions.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Mar 2011 05:12:43 +0000</listdate>
+    <saledate>Sun, 24 Apr 2011 00:33:26 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>opened, unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jul 2011 02:56:10 +0000</listdate>
+    <saledate>Sun, 11 Dec 2011 05:51:28 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>likenew</condition>
+    <notes>German edition. Cards are still in shrink. Game box has been opened. Game is language independent.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Sep 2012 09:57:49 +0000</listdate>
+    <saledate>Sat, 25 May 2013 15:25:07 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>new</condition>
+    <notes>original German Ravensburger edition
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Nov 2012 01:32:43 +0000</listdate>
+    <saledate>Thu, 01 Nov 2012 10:41:07 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Reserved for James Wahl.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Nov 2012 19:52:42 +0000</listdate>
+    <saledate>Sat, 09 Nov 2013 10:54:10 +0000</saledate>
+    <price currency='EUR'>13.5</price>
+    <condition>new</condition>
+    <notes>NL/FR</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Dec 2012 14:58:55 +0000</listdate>
+    <saledate>Tue, 01 Jan 2013 21:22:44 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>likenew</condition>
+    <notes>German edition. Played once, excellent condition. English instructions included.
+Will ship via USPS Priority or FedEx ground at actual cost from the 94024 zip code. FedEx ground is significantly cheaper if shipped to a business address. Game will ship the day of or the day after payment clears.
+Will combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Dec 2012 08:26:09 +0000</listdate>
+    <saledate>Wed, 02 Jan 2013 06:39:21 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jun 2014 03:02:41 +0000</listdate>
+    <saledate>Wed, 09 Jul 2014 04:19:14 +0000</saledate>
+    <price currency='CAD'>5</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Jan 2015 09:26:38 +0000</listdate>
+    <saledate>Mon, 06 Apr 2015 00:53:32 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>new</condition>
+    <notes>Game weight: 0.320 kg</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Aug 2015 13:25:17 +0000</listdate>
+    <saledate>Thu, 17 Sep 2015 14:33:02 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Jul 2015 23:58:07 +0000</listdate>
+    <saledate>Sat, 05 Dec 2015 16:58:20 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2015 15:27:22 +0000</listdate>
+    <saledate>Mon, 28 Dec 2015 01:35:09 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Aug 2015 16:58:04 +0000</listdate>
+    <saledate>Mon, 21 Mar 2016 17:38:54 +0000</saledate>
+    <price currency='EUR'>13.9</price>
+    <condition>new</condition>
+    <notes>mint!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Feb 2016 20:31:33 +0000</listdate>
+    <saledate>Sun, 24 Apr 2016 10:20:13 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jul 2016 23:23:20 +0000</listdate>
+    <saledate>Sat, 16 Jul 2016 08:43:13 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jul 2016 13:10:28 +0000</listdate>
+    <saledate>Wed, 17 Aug 2016 11:38:04 +0000</saledate>
+    <price currency='EUR'>14.49</price>
+    <condition>new</condition>
+    <notes>Game: Kuhhandel Master
+Languages: DE
+Condition: New
+Weight range: 0 - 500g 
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 27,99€[Express]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 16,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 27,99€[Express]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard], 43,99€[Express]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard], 52,99€[Express]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express]
+o 500-999g: 6,99€[Economy], 18,99€[Express]
+o 1000-1499g: 9,99€[Economy], 21,99€[Express]
+o 1500-2000g: 11,99€[Economy], 24,99€[Express]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 43,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 52,99€[Express]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express]
+o 500-999g: 6,99€[Economy], 12,99€[Express]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 43,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 52,99€[Express]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 28,99€[Express]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard], 43,99€[Express]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy], 52,99€[Express]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 28,99€[Express]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 16,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 16,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 43,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 52,99€[Express]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 28,99€[Express]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 34,99€[Express]
+o 500-999g: 6,99€[Economy], 36,99€[Express]
+o 1000-1499g: 9,99€[Economy], 39,99€[Express]
+o 1500-2000g: 11,99€[Economy], 42,99€[Express]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 9,99€[Standard], 21,99€[Express]
+o 500-999g: 9,99€[Standard], 24,99€[Express]
+o 1000-1499g: 16,99€[Standard], 27,99€[Express]
+o 1500-2000g: 16,99€[Standard], 30,99€[Express]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 28,99€[Express]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard]
+o 500-999g: 6,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 6,99€[Economy]
+o 500-999g: 4,99€[Corriere], 8,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 10,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 28,99€[Express]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Standard], 21,99€[Express]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 24,99€[Express]
+o 1000-1499g: 10,99€[Economy], 16,99€[Standard], 27,99€[Express]
+o 1500-2000g: 12,99€[Economy], 16,99€[Standard], 30,99€[Express]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[#]vROKuf9zTSR57e8m0G7TYBD/SbbDFx7Lzmi6KebO6YI=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Feb 2016 01:13:51 +0000</listdate>
+    <saledate>Sun, 04 Sep 2016 20:53:38 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Bought new, opened and sorted. Never played. Complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Sep 2016 09:10:06 +0000</listdate>
+    <saledate>Sun, 02 Oct 2016 08:43:57 +0000</saledate>
+    <price currency='EUR'>14.49</price>
+    <condition>new</condition>
+    <notes>Game: Kuhhandel Master
+Languages: DE
+Condition: New
+Weight range: 0 - 500g 
+SHIPPING COSTS
+[AUSTRALIA]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[AUSTRIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 27,99€[Express]
+[BELGIUM]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 7,99€[Standard], 16,99€[Express]
+o 500-999g: 6,99€[Economy], 7,99€[Standard], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 27,99€[Express]
+[BRAZIL]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[BULGARIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard], 43,99€[Express]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard], 52,99€[Express]
+[CANADA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 15,99€[Express]
+o 500-999g: 6,99€[Economy], 18,99€[Express]
+o 1000-1499g: 9,99€[Economy], 21,99€[Express]
+o 1500-2000g: 11,99€[Economy], 24,99€[Express]
+[CHINA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[CROATIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 43,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 52,99€[Express]
+[CYPRUS]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 9,99€[Express]
+o 500-999g: 6,99€[Economy], 12,99€[Express]
+o 1000-1499g: 9,99€[Economy], 16,99€[Express]
+o 1500-2000g: 11,99€[Economy], 19,99€[Express]
+[CZECH REPUBLIC]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 43,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 52,99€[Express]
+[DENMARK]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 28,99€[Express]
+[ESTONIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard], 43,99€[Express]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy], 52,99€[Express]
+[FINLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 28,99€[Express]
+[FRANCE]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 16,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[GERMANY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 16,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[GREECE]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 29,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 34,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 43,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 52,99€[Express]
+[HUNGARY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[IRELAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 28,99€[Express]
+[ISRAEL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 34,99€[Express]
+o 500-999g: 6,99€[Economy], 36,99€[Express]
+o 1000-1499g: 9,99€[Economy], 39,99€[Express]
+o 1500-2000g: 11,99€[Economy], 42,99€[Express]
+[ITALY]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere]
+o 500-999g: 4,99€[Corriere]
+o 1000-1499g: 4,99€[Corriere]
+o 1500-2000g: 4,99€[Corriere]
+[JAPAN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[KOREA, SOUTH]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[LITHUANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 10,99€[Economy], 11,99€[Standard]
+o 1500-2000g: 11,99€[Standard], 12,99€[Economy]
+[LUXEMBOURG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[NETHERLANDS]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 7,99€[Standard], 17,99€[Express]
+o 500-999g: 7,99€[Standard], 8,99€[Economy], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[NORWAY]
+o _T_E_M_P_T_A_G_lt; 500g: 9,99€[Standard], 21,99€[Express]
+o 500-999g: 9,99€[Standard], 24,99€[Express]
+o 1000-1499g: 16,99€[Standard], 27,99€[Express]
+o 1500-2000g: 16,99€[Standard], 30,99€[Express]
+[PERU]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[POLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[PORTUGAL]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 6,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 9,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 11,99€[Economy], 28,99€[Express]
+[ROMANIA]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Economy], 8,99€[Standard]
+o 500-999g: 6,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 9,99€[Economy], 11,99€[Standard]
+o 1500-2000g: 11,99€[Economy], 11,99€[Standard]
+[RUSSIA]
+o _T_E_M_P_T_A_G_lt; 500g: 28,99€[Express]
+o 500-999g: 29,99€[Express]
+o 1000-1499g: 30,99€[Express]
+o 1500-2000g: 31,99€[Express]
+[SAN MARINO]
+o _T_E_M_P_T_A_G_lt; 500g: 4,99€[Corriere], 6,99€[Economy]
+o 500-999g: 4,99€[Corriere], 8,99€[Economy]
+o 1000-1499g: 4,99€[Corriere], 10,99€[Economy]
+o 1500-2000g: 4,99€[Corriere], 12,99€[Economy]
+[SLOVAKIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[SLOVENIA]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[SPAIN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 17,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 20,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 24,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 27,99€[Express]
+[SWEDEN]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard], 18,99€[Express]
+o 500-999g: 8,99€[Economy], 8,99€[Standard], 21,99€[Express]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy], 25,99€[Express]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy], 28,99€[Express]
+[SWITZERLAND]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 9,99€[Standard], 21,99€[Express]
+o 500-999g: 8,99€[Economy], 9,99€[Standard], 24,99€[Express]
+o 1000-1499g: 10,99€[Economy], 16,99€[Standard], 27,99€[Express]
+o 1500-2000g: 12,99€[Economy], 16,99€[Standard], 30,99€[Express]
+[TURKEY]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[UNITED KINGDOM]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 8,99€[Standard]
+o 500-999g: 8,99€[Economy], 8,99€[Standard]
+o 1000-1499g: 8,99€[Standard], 10,99€[Economy]
+o 1500-2000g: 8,99€[Standard], 12,99€[Economy]
+[UNITED STATES]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 15,99€[Express]
+o 500-999g: 8,99€[Economy], 18,99€[Express]
+o 1000-1499g: 10,99€[Economy], 21,99€[Express]
+o 1500-2000g: 12,99€[Economy], 24,99€[Express]
+[TAIWAN]
+o _T_E_M_P_T_A_G_lt; 500g: 30,99€[Express]
+o 500-999g: 32,99€[Express]
+o 1000-1499g: 35,99€[Express]
+o 1500-2000g: 37,99€[Express]
+[HONG KONG]
+o _T_E_M_P_T_A_G_lt; 500g: 6,99€[Economy], 28,99€[Express]
+o 500-999g: 8,99€[Economy], 29,99€[Express]
+o 1000-1499g: 10,99€[Economy], 30,99€[Express]
+o 1500-2000g: 12,99€[Economy], 31,99€[Express]
+[#]vROKuf9zTSR57e8m0G7TYBD/SbbDFx7Lzmi6KebO6YI=[#]</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2016 01:41:15 +0000</listdate>
+    <saledate>Tue, 01 Nov 2016 12:48:31 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/215902/item/4969849#4969849]Item for Geeklist _T_E_M_P_T_A_G_quot;Winter_T_E_M_P_T_A_G_#039;s Coming Board Game Auction featuring OOP games: Magic Realm, Wasabi, Guildhall Seven Seas, and MORE!!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Oct 2016 20:33:24 +0000</listdate>
+    <saledate>Sat, 05 Nov 2016 15:24:25 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>likenew</condition>
+    <notes>Very good/Like new condition. 
+English rules printed and included for your convenience. 
+Box and game in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Aug 2015 12:00:36 +0000</listdate>
+    <saledate>Mon, 10 Jul 2017 07:23:27 +0000</saledate>
+    <price currency='EUR'>8</price>
+    <condition>verygood</condition>
+    <notes>Opened, never played._T_E_M_P_T_A_G_amp;lt;br /_T_E_M_P_T_A_G_amp;gt;_T_E_M_P_T_A_G_amp;lt;br /_T_E_M_P_T_A_G_amp;gt;Με ελληνική μετάφραση !</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Nov 2017 16:22:09 +0000</listdate>
+    <saledate>Mon, 20 Nov 2017 08:47:51 +0000</saledate>
+    <price currency='EUR'>9.95</price>
+    <condition>new</condition>
+    <notes>Language: german
+Edition Year: 2016
+Publisher: Ravensburger
+Game Condition: Mint
+Box Condition: Mint
+Availability: Now Available
+ID Gis: 26040 (for reference)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Feb 2018 00:03:43 +0000</listdate>
+    <saledate>Tue, 27 Feb 2018 00:21:35 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/237931/item/5978247#5978247]Item for Geeklist _T_E_M_P_T_A_G_quot;The $5 and Under Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jun 2017 13:25:45 +0000</listdate>
+    <saledate>Sun, 06 May 2018 16:38:11 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>new</condition>
+    <notes>Game weight: 0.280 kg</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Oct 2017 13:45:19 +0000</listdate>
+    <saledate>Sun, 20 May 2018 17:47:34 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Complete. Box top has rips on top where price tag was removed and on slides were vertical stickered tape was removed.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jul 2018 09:09:46 +0000</listdate>
+    <saledate>Sat, 08 Sep 2018 14:21:18 +0000</saledate>
+    <price currency='EUR'>6.95</price>
+    <condition>new</condition>
+    <notes>Language: german
+Edition Year: 2016
+Publisher: Ravensburger
+Game Condition: Never Opened
+Box Condition: Mint
+Availability: Now Available
+ID Gis: 29757 (for reference)</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

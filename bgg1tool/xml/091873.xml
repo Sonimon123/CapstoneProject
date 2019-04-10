@@ -1,0 +1,3562 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="91873">
+   <yearpublished>2011</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Strasbourg</name>
+       <name  sortindex="1">Strasbourg: The Age of the Guilds</name>
+         
+   <description>Strasbourg in the 15th century - the political skills of the city are heavily influenced by the craftsmen guilds ._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;In this time, players take on the lead of ascending families of the city. It is your goal to place your family members in the different guilds. Only the clever usage of influence points makes it possible to be accommodated as apprentice, assistant or even master craftsman - provided you can pay the admission fee. But don't underestimate the power of the church or the nobility._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Strasbourg is a easy to learn strategy game with inventive mechanisms, that provide the player with lots of room for decisions. But only those that also keep an eye on the plans of the other players will earn the highest fame in the end._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/9KJhM07ZihvYlHO8ESfdeBwlqhQ=/fit-in/200x150/pic951192.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/boDQ15U_KdfH-JF7kf31V3XQtB8=/0x0/pic951192.jpg</image>
+      
+            <boardgamehonor objectid="18521">2011 Spiel des Jahres Kennerspiel Game of the Year Nominee</boardgamehonor>
+               <boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+               <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+               <boardgamecategory objectid="1029">City Building</boardgamecategory>
+               <boardgamefamily objectid="11006">Country: France</boardgamefamily>
+                                    <boardgamecategory objectid="1021">Economic</boardgamecategory>
+                             <boardgamepodcastepisode objectid="91415">Episode 17: Hungry Mediums in Strasbourg</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="83353">Exploring Games, Episode 5: Exploring Theme and Feld Auction Games</boardgamepodcastepisode>
+               <boardgamedesigner objectid="4958">Stefan Feld</boardgamedesigner>
+                      <boardgameversion objectid="83110">First edition</boardgameversion>
+               <boardgameversion objectid="216169">First Edition with Kennerspiel des Jahres Nominee logo</boardgameversion>
+                                                                                                                                                                                       <boardgamepodcastepisode objectid="170757">Heavy Cardboard Episode 39 – Top 50 Favorite Games of Right Now</boardgamepodcastepisode>
+               <boardgameartist objectid="12123">Alexander Jung</boardgameartist>
+                      <boardgamecategory objectid="1035">Medieval</boardgamecategory>
+                      <boardgamemechanic objectid="2048">Pattern Building</boardgamemechanic>
+               <boardgamepublisher objectid="39">Pegasus Spiele</boardgamepublisher>
+                                    <boardgameartist objectid="12674">Hans-Georg Schneider</boardgameartist>
+                      <boardgamepodcastepisode objectid="72129">Strasbourg (Pegasus Spiele): Spiele-Podcast.de Nr. 130</boardgamepodcastepisode>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamemechanic objectid="2002">Tile Placement</boardgamemechanic>
+                    
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="52">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="22" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="19" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="22" />
+     <result value="Not Recommended" numvotes="13" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="17" />
+     <result value="Recommended" numvotes="24" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="32" />
+     <result value="Recommended" numvotes="12" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="15" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="16">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="15" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="5" />
+     <result value="12" numvotes="3" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>2324</usersrated>
+     <average>7.1796</average>
+     <bayesaverage>6.60923</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="768" bayesaverage="6.60923" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="416" bayesaverage="6.74974" />
+            
+           </ranks>
+     
+     <stddev>1.15914</stddev>
+     <median>0</median>
+     <owned>2461</owned>
+     <trading>51</trading>
+     <wanting>269</wanting>
+     <wishing>623</wishing>
+     <numcomments>526</numcomments>
+     <numweights>181</numweights>
+     <averageweight>2.7348</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 07 Apr 2011 11:34:05 +0000</listdate>
+    <saledate>Thu, 07 Apr 2011 17:07:24 +0000</saledate>
+    <price currency='EUR'>28.5</price>
+    <condition>new</condition>
+    <notes>Pegasus Spiele 2011 - german and english rules</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Apr 2011 08:15:57 +0000</listdate>
+    <saledate>Mon, 23 May 2011 13:50:49 +0000</saledate>
+    <price currency='EUR'>31.5</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Apr 2011 17:30:33 +0000</listdate>
+    <saledate>Tue, 02 Aug 2011 19:50:19 +0000</saledate>
+    <price currency='EUR'>33.99</price>
+    <condition>new</condition>
+    <notes>NEGOZIO ONLINE GIOCHI DA TAVOLO, GIOCHI IN SCATOLA E GIOCHI DI SOCIETÀ.
+UPLAY
+Strasbourg | Pegasus Spiele
+Nuovo, sigillato.
+Brand new and sealed.
+Spedizione in Italia 7,00€ (Chiedere per spedizioni combinate)
+Shipping to Europe 16,00€ (Ask for combined shipping)
+tel: (0039) 0507211814
+customer care: bgg@uplay.it
+UPLAY di DXP S.N.C - Via Tosco Romagnola, 2585 - 56021 Titignano di Cascina (Pisa) P.IVA: IT01936340502 - R.e.a. Pisa PI - 167112</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 May 2011 09:23:00 +0000</listdate>
+    <saledate>Sun, 29 May 2011 02:18:56 +0000</saledate>
+    <price currency='EUR'>24.95</price>
+    <condition>new</condition>
+    <notes>New in shrink-wrap. The box is lightly dented.
+German / English language version by Pegasus. Nominiert zum Kennerspiel des Jahres 2011.
+Payment: Paypal or bank transfer
+Shipping:
+To Germany:
+- per letter 1 Euro for single cards (with insurance +1.60 Euro)
+- per envelope up to 1 kilogram 2,50 Euro (with insurance +1.60)
+- per parcel up to 20 kilograms 6 Euro (insurance included)
+International shipping with DHL
+- per letter 1.50 Euro for single cards (with insurance +1.60 Euro)
+- per envelope up to 1 kilogram 7 Euro (with insurance +1.60)
+- per parcel up to 5 kilograms EU 17 Euro (insurance included)
+- per parcel up to 5 kilograms North America 35 Euro (insurance included) other countries on request.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 May 2011 04:25:56 +0000</listdate>
+    <saledate>Sat, 10 Mar 2012 11:00:16 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>New in shrink-wrap. The box is lightly dented.
+ German / English language version by Pegasus. Nominiert zum Kennerspiel des Jahres 2011.
+ 
+Payment: Paypal or bank transfer
+ 
+Shipping:
+ 
+To Germany:
+ - per letter 1 Euro for single cards (with insurance +1.60 Euro)
+ - per envelope up to 1 kilogram 2,50 Euro (with insurance +1.60)
+ - per parcel up to 20 kilograms 6 Euro (insurance included)
+ 
+International shipping with DHL
+ - per letter 1.50 Euro for single cards (with insurance +1.60 Euro)
+ - per envelope up to 1 kilogram 7 Euro (with insurance +1.60)
+ - per parcel up to 5 kilograms EU 17 Euro (insurance included)
+ - per parcel up to 5 kilograms North America 35 Euro (insurance included) other countries on request.
+ 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jul 2011 04:08:22 +0000</listdate>
+    <saledate>Fri, 08 Jul 2011 14:45:24 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Pegasus Spiele edition but absolutely no german required to play the game. Everything is picture based.
+Stefan Feld is at it again. Beautiful game, tough choices and indulgent game for everyone at the table. You can_T_E_M_P_T_A_G_#039;t miss this one!
+Ships immediately and I will ship worldwide.
+____________________________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 of THIS game AND the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+Bohnanza
+Cuba
+El Grande - Decennial
+Finca
+Fresco
+Hab _T_E_M_P_T_A_G_amp; Gut
+Imperial 2030
+K2
+Norenberc
+Pastiche
+Race for the Galaxy
+Reef Encounter
+Seeland
+Shogun
+Steel Driver
+Stone Age
+Thurn and Taxis
+Tikal
+Torres
+Triovision
+Uruk: Wiege der Zivilisation
+Vinhos
+Wallenstein</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jul 2011 15:03:30 +0000</listdate>
+    <saledate>Sat, 09 Jul 2011 16:07:05 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Pegasus Spiele edition but absolutely no german required to play the game. Everything is picture based.
+Stefan Feld is at it again. Beautiful game, tough choices and indulgent game for everyone at the table. You can_T_E_M_P_T_A_G_#039;t miss this one!
+Ships immediately and I will ship worldwide.
+____________________________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 of THIS game AND the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+Asara
+Bohnanza
+Cuba
+El Grande - Decennial
+Finca
+Fresco
+Hab _T_E_M_P_T_A_G_amp; Gut
+Imperial 2030
+K2
+Norenberc
+Pastiche
+Race for the Galaxy
+Reef Encounter
+Seeland
+Shogun
+Steel Driver
+Stone Age
+Thurn and Taxis
+Tikal
+Torres
+Triovision
+Uruk: Wiege der Zivilisation
+Vinhos
+Wallenstein</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jul 2011 16:22:17 +0000</listdate>
+    <saledate>Fri, 12 Aug 2011 14:10:21 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Pegasus Spiele edition but absolutely no german required to play the game. Everything is picture based.
+Stefan Feld is at it again. Beautiful game, tough choices and indulgent game for everyone at the table. You can_T_E_M_P_T_A_G_#039;t miss this one!
+Ships immediately and I will ship worldwide.
+____________________________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 of THIS game AND the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+Africa
+Age of Napoleon
+Asara
+Chicago Express
+El Capitán
+El Grande
+Fresco
+Grand Cru
+K2
+Keltis: Das Kartenspiel
+Loopin_T_E_M_P_T_A_G_#039; Louie
+Medieval Merchant - Pfeffersäcke
+Norenberc - Nürnberg
+Olympos
+Pastiche
+Quebec 1759
+Race for the Galaxy
+Reef Encounter
+San Francisco
+Seeland
+Steel Driver
+Stephensons Rocket
+Sticheln
+Strasbourg
+The Mississippi Queen
+Thebes
+Torres
+Triovision
+Um Reifenbreite
+Venedig</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Aug 2011 23:10:20 +0000</listdate>
+    <saledate>Mon, 08 Aug 2011 02:30:09 +0000</saledate>
+    <price currency='CAD'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Aug 2011 14:26:51 +0000</listdate>
+    <saledate>Mon, 15 Aug 2011 03:59:16 +0000</saledate>
+    <price currency='USD'>46</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Pegasus Spiele edition but absolutely no german required to play the game. Everything is picture based.
+Stefan Feld is at it again. Beautiful game, tough choices and indulgent game for everyone at the table. You can_T_E_M_P_T_A_G_#039;t miss this one!
+Ships immediately and I will ship worldwide.
+____________________________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 of THIS game AND the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+Africa
+Age of Napoleon
+Age of Steam Expansion #2: Western US and Germany
+Chicago Express
+El Capitán
+El Grande
+Grand Cru
+Hornet
+Imperial
+K2
+Keltis: Das Kartenspiel
+Loopin_T_E_M_P_T_A_G_#039; Louie
+Medieval Merchant - Pfeffersäcke
+Olympos
+Pastiche
+Quebec 1759
+Race for the Galaxy
+Reef Encounter
+San Francisco
+Seeland
+Steel Driver
+Stephensons Rocket
+Strasbourg
+The Mississippi Queen
+Thebes
+Torres
+Tribune Expansion
+Triovision
+Um Reifenbreite
+Venedig
+Vikings - Wikinger</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Aug 2011 09:52:36 +0000</listdate>
+    <saledate>Tue, 23 Aug 2011 04:22:44 +0000</saledate>
+    <price currency='AUD'>30</price>
+    <condition>likenew</condition>
+    <notes>Allow $12 for post</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2011 23:36:38 +0000</listdate>
+    <saledate>Thu, 27 Oct 2011 01:55:40 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+STRASBOURG: $39.95
+Pegasus Spiele [PGE 51390G]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Nov 2011 02:37:07 +0000</listdate>
+    <saledate>Thu, 10 Nov 2011 20:14:15 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds fo the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!! 
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER____________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 off THIS game AND $2 off the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+Altamira
+Era of Inventions
+Finca
+Grand Cru
+Hornet
+Jäger und Sammler
+Keltis
+Keltis: Das Kartenspiel
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Level X
+Looping Louie
+Numeri
+Quebec 1759
+Pergamon
+Principato
+Rapa Nui
+San Francisco
+Seeland
+Speicherstadt
+Terra Turrium
+Tobago
+Turmbauer, aka. Cornerstone Essential
+Union Pacific
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Nov 2011 21:51:34 +0000</listdate>
+    <saledate>Mon, 14 Nov 2011 00:19:00 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds fo the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER____________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 off THIS game AND $2 off the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+Altamira
+Era of Inventions
+Finca
+Grand Cru
+Hornet
+Jäger und Sammler
+Keltis
+Keltis: Das Kartenspiel
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Level X
+Looping Louie
+Numeri
+Quebec 1759
+Pergamon
+Principato
+Rapa Nui
+San Francisco
+Seeland
+Speicherstadt
+Terra Turrium
+Turmbauer, aka. Cornerstone Essential</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Nov 2011 01:02:22 +0000</listdate>
+    <saledate>Sun, 04 Dec 2011 14:15:32 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds fo the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER____________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 off THIS game AND $2 off the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+Altamira
+Big Five
+Cavum
+Era of Inventions
+Finca
+Fluch der Mumie / Pyramid
+Grand Cru
+Haste Bock / Shear Panic
+Hornet
+Jäger und Sammler
+Keltis
+Keltis: Das Kartenspiel
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Level X
+Looping Louie
+Luna
+Mundus Novus
+Quebec 1759
+Pergamon
+Principato
+Rapa Nui
+San Francisco
+Seeland
+Shipyard / Die Werft
+Speicherstadt
+Stone Age
+Strasbourg
+Terra Turrium
+Ticket to Ride: Asia
+Ticket to Ride: Europe / Zug um Zug: Europa
+Troyes
+Turmbauer, aka. Cornerstone Essential
+Zicke Zacke Hühnerkacke / Chicken Cha cha
+Uluru</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Nov 2011 01:25:18 +0000</listdate>
+    <saledate>Mon, 21 Nov 2011 01:35:15 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>For Sangediver only as the winner of the game in auction.
+Let me know if medium flat rate is ok.  The game fits, but it_T_E_M_P_T_A_G_#039;s a bit snug.  Other options would be to pay for a larger box and then ship either priority or parcel post.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Dec 2011 16:57:10 +0000</listdate>
+    <saledate>Wed, 07 Dec 2011 00:51:28 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds fo the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER____________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 off THIS game AND $2 off the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+Altamira
+Big Five
+Cavum
+Era of Inventions
+Finca
+Fluch der Mumie / Pyramid
+Grand Cru
+Haste Bock / Shear Panic
+Hornet
+Jäger und Sammler
+Keltis
+Keltis: Das Kartenspiel
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Level X
+Looping Louie
+Luna
+Mundus Novus
+Quebec 1759
+Pergamon
+Principato
+Rapa Nui
+San Francisco
+Seeland
+Shipyard / Die Werft
+Speicherstadt
+Stone Age
+Strasbourg
+Terra Turrium
+Ticket to Ride: Asia
+Ticket to Ride: Europe / Zug um Zug: Europa
+Troyes
+Turmbauer, aka. Cornerstone Essential
+Zicke Zacke Hühnerkacke / Chicken Cha cha
+Uluru</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Dec 2011 01:38:25 +0000</listdate>
+    <saledate>Thu, 08 Dec 2011 21:40:43 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds fo the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER____________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 off THIS game AND $2 off the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+Altamira
+Big Five
+Cavum
+Era of Inventions
+Finca
+Grand Cru
+Hornet
+Keltis
+Keltis: Das Kartenspiel
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Level X
+Mundus Novus
+Pergamon
+Principato
+Rapa Nui
+San Francisco
+Seeland
+Shipyard / Die Werft
+Speicherstadt
+Stone Age
+Strasbourg
+Terra Turrium
+Ticket to Ride: Asia
+Ticket to Ride: Europe / Zug um Zug: Europa
+Troyes
+Turmbauer, aka. Cornerstone Essential
+Uluru</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jan 2012 22:59:23 +0000</listdate>
+    <saledate>Wed, 18 Jan 2012 13:47:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Gary Heidenreich.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Feb 2012 01:08:39 +0000</listdate>
+    <saledate>Fri, 26 Oct 2012 18:55:50 +0000</saledate>
+    <price currency='USD'>31.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+STRASBOURG: $31.95
+Pegasus Spiele [PGE 51390G]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Mar 2012 00:02:05 +0000</listdate>
+    <saledate>Mon, 01 Oct 2012 22:29:40 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Shipping is $12. Combined shipping rates are available when purchasing multiple items.
+When you order this game I_T_E_M_P_T_A_G_#039;ll throw in one for free. See this list for your choices:
+http://www.boardgamegeek.com/collection/user/houjix?rankobjecttype=subtype_T_E_M_P_T_A_G_amp;rankobjectid=1_T_E_M_P_T_A_G_amp;columns=title%7Cversion%7Cconditiontext_T_E_M_P_T_A_G_amp;geekranks=Board+Game+Rank_T_E_M_P_T_A_G_amp;prevowned=1_T_E_M_P_T_A_G_amp;ff=1_T_E_M_P_T_A_G_amp;subtype=boardgame</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Apr 2012 22:32:11 +0000</listdate>
+    <saledate>Fri, 27 Apr 2012 07:58:17 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>new</condition>
+    <notes>Bilingual Pegasus English/German edition in shrink wrap
+Postage £6.00 UK, Europe £15.00, £20.00 USA _T_E_M_P_T_A_G_amp; Canada</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jun 2012 03:55:23 +0000</listdate>
+    <saledate>Sun, 03 Jun 2012 04:56:34 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>Auction win.  Reserved for senorcoo.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jul 2012 19:54:48 +0000</listdate>
+    <saledate>Wed, 11 Jul 2012 17:12:03 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>************************************************************
+* * * I am currently running the following auction * * *
+WORLD WIDE Auction - Games you always wanted to get, but were
+afraid to ask. Plus DISCOUNTS Plus FREE game offer!! - ENDS July 9
+http://boardgamegeek.com/geeklist/74420/world-wide-auction-games-you-always-wanted-to-ge
+* * * Many fantastic games hard to find these days * * *
+************************************************************
+Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds fo the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER____________________________________________
+If you buy THIS game and pick ANOTHER game from my marketplace, I will take $2 off THIS game AND $2 off the other game.
+On additional games I will take another $1 off for each game. PLUS you will get combined shipping!!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+20th Century
+6 Nimmt! - Category 5
+A la Carte
+Alcatraz
+Alhambra - Anniversary Edition
+Altamira
+Assyria
+Atlantis
+Auf Achse
+Basilica
+Big Five
+Biblios
+Busen Memo
+Cavum
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+Elasund
+Endeavor / Magister Navis
+Era of Inventions
+Fluch der Mumie / Pyramid
+Fresko
+Grand Cru
+Graenaland
+Greed, Incorporated
+Hab _T_E_M_P_T_A_G_amp; Gut
+Hamburgum
+Heckmeck am Bratwurmeck / Pickomino
+Hornet
+Jäger und Sammler
+Kamisado
+Keltis - Kartenspiel
+Keltis - Travel Edition
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kings of Mithril
+KuhHandel / You_T_E_M_P_T_A_G_#039;re Bluffing!
+Land Unter / Turn the Tide
+League of Six
+Le Havre
+Level X
+Looping Louie
+Lost Valley
+Magnum Sal
+Meuterer
+Mundus Novus
+Nürnberg / Norenberc - Die Zünfte der Stadt
+Onirim
+Opera
+Pret-a-Porter
+Principato
+Rapa Nui
+Relationship Tightrope
+Saboteur
+San Francisco
+Safranito
+Santa Cruz
+Shipyard / Die Werft
+Steel Driver
+Stone Age
+Strasbourg
+Sun, Sea _T_E_M_P_T_A_G_amp; Sand
+Sushizock im Gockelwok
+Terra Turrium
+The Great Fire of London
+Tinner_T_E_M_P_T_A_G_#039;s Trail
+Tobago
+Trajan
+Uluru
+Village
+Vinhos
+Yspahan</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jul 2012 17:14:12 +0000</listdate>
+    <saledate>Wed, 15 Aug 2012 17:02:29 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds fo the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1830: Railways _T_E_M_P_T_A_G_amp; Robber Barons
+20th Century
+6 Nimmt! - Category 5
+----- A -----
+A Castle for All Seasons
+Alcatraz
+Assyria
+Atlantis
+----- B -----
+Basilica
+Big Five
+Biblios
+Busen Memo
+----- C -----
+Cafe International: Das Kartenspiel
+Caravelas + Black Ship Expansion
+----- D -----
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+Drum Roll
+----- E -----
+Eine Frage der Ähre / Heartland
+Endeavor / Magister Navis
+Era of Inventions
+----- F -----
+Fresko
+----- G -----
+Genoa
+Geschenkt / No Thanks!
+Giants
+Giro Galoppo
+----- H -----
+Hamburgum
+Heckmeck am Bratwurmeck / Pickomino
+Hornet
+----- J -----
+Jäger und Sammler
+----- K -----
+Keltis - The Board Game
+Keltis - Kartenspiel
+Keltis - Travel Edition
+Key West
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kolejka
+KuhHandel / You_T_E_M_P_T_A_G_#039;re Bluffing!
+Kutschfahrt zu Teufelsburg / The Castle of the Devil
+----- L -----
+Land Unter / Turn the Tide
+League of Six
+Le Havre
+Level X
+----- M -----
+Magnum Sal
+Mali Powstancy + Liberator Expansion
+Maus Au Chocolat
+Meuterer
+Mondo
+----- N -----
+Norenberc + Townsmen Expansion
+----- O -----
+Onirim
+----- P -----
+Power Grid: Québec/Baden-Württemberg
+Pret-a-Porter
+----- R -----
+Rapa Nui
+R-Eco
+----- S -----
+Saboteur
+Shipyard / Die Werft
+Steel Driver
+Stone Age
+Strasbourg
+Sun, Sea _T_E_M_P_T_A_G_amp; Sand
+Sushizock im Gockelwok
+----- T -----
+The Great Fire of London 1666
+Tobago
+Trajan
+----- U -----
+Union Pacific
+----- V -----
+Venedig
+Village
+----- Y -----
+Yspahan</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jul 2012 04:15:43 +0000</listdate>
+    <saledate>Tue, 17 Jul 2012 11:02:02 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>Reserved for auction winner - Chris Palermo (lemur)
+Pickup at WBC - thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Aug 2012 18:11:31 +0000</listdate>
+    <saledate>Sun, 30 Sep 2012 07:50:09 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds fo the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1830: Railways _T_E_M_P_T_A_G_amp; Robber Barons
+20th Century
+6 Nimmt! - Category 5
+----- A -----
+Abbadon
+A Castle for All Seasons
+Alcatraz
+Assyria
+Atlantis
+----- B -----
+Basilica
+Battle Cry: 150th Civil War Anniversary Edition
+Big Five
+Biblios
+Busen Memo
+----- C -----
+Cafe International: Das Kartenspiel
+Caravelas + Black Ship Expansion
+----- D -----
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+Drum Roll
+----- E -----
+Eine Frage der Ähre / Heartland
+Endeavor / Magister Navis
+Era of Inventions
+----- F -----
+Fresko
+----- G -----
+Genoa
+Geschenkt / No Thanks!
+Giants
+Giro Galoppo
+Grind
+----- H -----
+Hamburgum
+Heckmeck am Bratwurmeck / Pickomino
+Hornet
+----- J -----
+Jäger und Sammler
+----- K -----
+Keltis - The Board Game
+Keltis - Kartenspiel
+Keltis - Travel Edition
+Key West
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kolejka
+KuhHandel / You_T_E_M_P_T_A_G_#039;re Bluffing!
+Kutschfahrt zu Teufelsburg / The Castle of the Devil
+----- L -----
+Land Unter / Turn the Tide
+Launch Pad
+League of Six
+Le Havre
+Level X
+----- M -----
+Magnum Sal
+Mali Powstancy + Liberator Expansion
+Maus Au Chocolat
+Meuterer
+Mondo
+----- N -----
+Norenberc + Townsmen Expansion
+----- O -----
+Onirim
+----- P -----
+Power Grid: Québec/Baden-Württemberg
+Pret-a-Porter
+----- R -----
+Rapa Nui
+R-Eco
+----- S -----
+Saboteur
+Settlers of Catan
+Shipyard / Die Werft
+Star Trek Catan
+Steel Driver
+Stone Age
+Strasbourg
+Sun, Sea _T_E_M_P_T_A_G_amp; Sand
+Sushizock im Gockelwok
+----- T -----
+The Great Fire of London 1666
+Tobago
+Trajan
+----- U -----
+Union Pacific
+----- V -----
+Venedig
+Village
+----- Y -----
+Yspahan</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Sep 2012 13:32:34 +0000</listdate>
+    <saledate>Mon, 01 Oct 2012 19:41:22 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds fo the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1830: Railways _T_E_M_P_T_A_G_amp; Robber Barons
+20th Century
+6 Nimmt! - Category 5
+----- A -----
+Abbadon
+A Castle for All Seasons
+Alcatraz
+Assyria
+Atlantis
+----- B -----
+Basilica
+Battle Cry: 150th Civil War Anniversary Edition
+Big Five
+Biblios
+Busen Memo
+----- C -----
+Cafe International: Das Kartenspiel
+Caravelas + Black Ship Expansion
+----- D -----
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+Drum Roll
+----- E -----
+Eine Frage der Ähre / Heartland
+Endeavor / Magister Navis
+Era of Inventions
+----- F -----
+Fresko
+----- G -----
+Genoa
+Geschenkt / No Thanks!
+Giants
+Giro Galoppo
+Grind
+----- H -----
+Hamburgum
+Heckmeck am Bratwurmeck / Pickomino
+Hornet
+----- J -----
+Jäger und Sammler
+----- K -----
+Keltis - The Board Game
+Keltis - Kartenspiel
+Keltis - Travel Edition
+Key West
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kolejka
+KuhHandel / You_T_E_M_P_T_A_G_#039;re Bluffing!
+Kutschfahrt zu Teufelsburg / The Castle of the Devil
+----- L -----
+Land Unter / Turn the Tide
+Launch Pad
+League of Six
+Le Havre
+Level X
+----- M -----
+Magnum Sal
+Mali Powstancy + Liberator Expansion
+Maus Au Chocolat
+Meuterer
+Mondo
+----- N -----
+Norenberc + Townsmen Expansion
+----- O -----
+Onirim
+----- P -----
+Power Grid: Québec/Baden-Württemberg
+Pret-a-Porter
+----- R -----
+Rapa Nui
+R-Eco
+----- S -----
+Saboteur
+Settlers of Catan
+Shipyard / Die Werft
+Star Trek Catan
+Steel Driver
+Stone Age
+Strasbourg
+Sun, Sea _T_E_M_P_T_A_G_amp; Sand
+Sushizock im Gockelwok
+----- T -----
+The Great Fire of London 1666
+Tobago
+Trajan
+----- U -----
+Union Pacific
+----- V -----
+Venedig
+Village
+----- Y -----
+Yspahan</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Oct 2012 20:14:54 +0000</listdate>
+    <saledate>Tue, 09 Oct 2012 15:38:33 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+Box has a slight crease on the back of the box (see picture) but otherwise it_T_E_M_P_T_A_G_#039;s in perfect condition.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds fo the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1830: Railways _T_E_M_P_T_A_G_amp; Robber Barons
+20th Century
+303
+6 Nimmt! - Category 5
+----- A -----
+Abbadon
+A Castle for All Seasons
+Alcatraz
+Assyria
+Atlantis
+----- B -----
+Basilica
+Battle Cry: 150th Civil War Anniversary Edition
+Big Five
+Biblios
+Busen Memo
+----- C -----
+Cafe International: Das Kartenspiel
+Caravelas + Black Ship Expansion
+Chicago Express
+Chinatown
+Colossal Arena
+----- D -----
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+Drum Roll
+----- E -----
+Eine Frage der Ähre / Heartland
+Endeavor / Magister Navis
+Era of Inventions
+----- F -----
+Fresko
+----- G -----
+Genoa
+Geschenkt / No Thanks!
+Giants
+Giro Galoppo
+Grind
+----- H -----
+Hamburgum
+Heckmeck am Bratwurmeck / Pickomino
+Hornet
+----- J -----
+Jäger und Sammler
+----- K -----
+Keltis - The Board Game
+Keltis - Kartenspiel
+Keltis - Travel Edition
+Key West
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kolejka
+KuhHandel / You_T_E_M_P_T_A_G_#039;re Bluffing!
+Kutschfahrt zu Teufelsburg / The Castle of the Devil
+----- L -----
+Land Unter / Turn the Tide
+Launch Pad
+League of Six
+Le Havre
+Level X
+----- M -----
+Magnum Sal
+Mali Powstancy + Liberator Expansion
+Maus Au Chocolat
+Meuterer
+Mondo
+Mystery of the Abbey
+----- N -----
+Norenberc + Townsmen Expansion
+----- O -----
+Onirim
+----- P -----
+Pastiche
+Power Grid: Québec/Baden-Württemberg
+Pret-a-Porter
+----- R -----
+Rapa Nui
+R-Eco
+----- S -----
+Saboteur
+Settlers of Catan
+Shipyard / Die Werft
+Slavika
+Star Trek Catan
+Steel Driver
+Stone Age
+Strasbourg
+Sun, Sea _T_E_M_P_T_A_G_amp; Sand
+Sushizock im Gockelwok
+----- T -----
+The Great Fire of London 1666
+Tobago
+Tumblin-Dice
+----- U -----
+Union Pacific
+----- V -----
+Venedig
+Village
+----- Y -----
+Yspahan</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Oct 2012 02:03:26 +0000</listdate>
+    <saledate>Fri, 12 Oct 2012 00:27:40 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds fo the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1830: Railways _T_E_M_P_T_A_G_amp; Robber Barons
+20th Century
+6 Nimmt! - Category 5
+----- A -----
+Abbadon
+A Castle for All Seasons
+Alcatraz
+Assyria
+Atlantis
+----- B -----
+Basilica
+Battle Cry: 150th Civil War Anniversary Edition
+Big Five
+Biblios
+Busen Memo
+----- C -----
+Cafe International: Das Kartenspiel
+Caravelas + Black Ship Expansion
+----- D -----
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+Drum Roll
+----- E -----
+Eine Frage der Ähre / Heartland
+Endeavor / Magister Navis
+Era of Inventions
+----- F -----
+Fresko
+----- G -----
+Genoa
+Geschenkt / No Thanks!
+Giants
+Giro Galoppo
+Grind
+----- H -----
+Hamburgum
+Heckmeck am Bratwurmeck / Pickomino
+Hornet
+----- J -----
+Jäger und Sammler
+----- K -----
+Keltis - The Board Game
+Keltis - Kartenspiel
+Keltis - Travel Edition
+Key West
+King_T_E_M_P_T_A_G_#039;s Vineyard
+Kolejka
+KuhHandel / You_T_E_M_P_T_A_G_#039;re Bluffing!
+Kutschfahrt zu Teufelsburg / The Castle of the Devil
+----- L -----
+Land Unter / Turn the Tide
+Launch Pad
+League of Six
+Le Havre
+Level X
+----- M -----
+Magnum Sal
+Mali Powstancy + Liberator Expansion
+Maus Au Chocolat
+Meuterer
+Mondo
+----- N -----
+Norenberc + Townsmen Expansion
+----- O -----
+Onirim
+----- P -----
+Power Grid: Québec/Baden-Württemberg
+Pret-a-Porter
+----- R -----
+Rapa Nui
+R-Eco
+----- S -----
+Saboteur
+Settlers of Catan
+Shipyard / Die Werft
+Star Trek Catan
+Steel Driver
+Stone Age
+Strasbourg
+Sun, Sea _T_E_M_P_T_A_G_amp; Sand
+Sushizock im Gockelwok
+----- T -----
+The Great Fire of London 1666
+Tobago
+Trajan
+----- U -----
+Union Pacific
+----- V -----
+Venedig
+Village
+----- Y -----
+Yspahan</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Oct 2012 00:35:39 +0000</listdate>
+    <saledate>Thu, 20 Dec 2012 19:07:58 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds fo the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+20th Century
+303
+----- A -----
+A Castle for All Seasons
+Amber   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Atlantis
+Autokrator   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- B -----
+Basilica
+Big Five
+----- C -----
+Cafe International: Das Kartenspiel
+Call to Glory   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Caravelas + Black Ship Expansion
+Chinatown
+Colossal Arena
+----- D -----
+Dahschur - Die Rote Pyramide
+Die Säulen der Erde: das Kartenspiel / Pillars of the Earth: Card game
+Drako
+----- E -----
+Era of Inventions
+Expadition: Congo River 1884   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- F -----
+Fremde Federn / Copycat   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- G -----
+Genoa
+Geschenkt / No Thanks!
+Giants
+Goblins, Inc.   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Grind
+----- H -----
+Hab _T_E_M_P_T_A_G_amp; Gut
+Hamburgum
+----- K -----
+Keltis - Kartenspiel
+Key West
+Kolejka
+Kutschfahrt zu Teufelsburg / The Castle of the Devil
+----- L -----
+Land Unter / Turn the Tide
+League of Six
+Level X
+Liberte
+----- M -----
+Magnum Sal
+Mali Powstancy + Liberator Expansion
+Mercurius   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Meuterer
+Milestones   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Mondo
+Mystery of the Abbey
+----- O -----
+Onirim
+----- P -----
+Pastiche
+Phantom   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Pret-a-Porter
+----- R -----
+R-Eco
+----- S -----
+Saboteur
+Slavika  _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Snowdonia   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Steel Driver
+Stone Age
+Strasbourg
+Sushizock im Gockelwok
+----- T -----
+Terra Evolution
+The Cave   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+The Great Fire of London 1666
+Tobago
+Trajan
+Tzolkin: The Mayan Calendar   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- U -----
+Union Pacific
+----- V -----
+Vampire Empire   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Vegas
+Venedig
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Oct 2012 04:10:25 +0000</listdate>
+    <saledate>Sat, 09 Feb 2013 02:07:17 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+STRASBOURG: $34.95
+Pegasus Spiele [PGE 51390G]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Dec 2012 19:16:17 +0000</listdate>
+    <saledate>Fri, 01 Mar 2013 15:14:53 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds of the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1969     _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+1984: Animal Farm     _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+20th Century
+----- A -----
+Amber   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Ascending Empires
+----- B -----
+Bora Bora
+----- C -----
+Cafe International: Das Kartenspiel
+Caravelas + Black Ship Expansion
+Chinatown
+City Tycoon
+----- D -----
+Dahschur - Die Rote Pyramide     _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Drako
+----- E -----
+Era of Inventions
+Expadition: Congo River 1884   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Express 01
+----- F -----
+Fürstenfeld
+----- G -----
+Goblins, Inc.   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- H -----
+Hamburgum
+----- I -----
+Il Vecchio      _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- K -----
+Key West
+----- L -----
+Land Unter / Turn the Tide
+League of Six
+Liberte
+----- M -----
+Magnum Sal
+Manhattan
+Mercurius   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Meuterer
+Milestones   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Mystery of the Abbey
+----- N -----
+Noblemen
+----- O -----
+Oddville     _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- P -----
+Pastiche
+Phantom   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Power Grid: Industrial Espionage
+----- R -----
+R-Eco
+Richelieu   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- S -----
+Siberia
+Slavika  _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Stalag 17
+Steel Driver
+Stone Age
+Strasbourg
+----- T -----
+Terra Evolution
+Tribune: Primus Inter Pares
+The New Science
+The Palaces of Carrara      _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- V -----
+Vampire Empire   _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Dec 2012 14:08:48 +0000</listdate>
+    <saledate>Thu, 17 Oct 2013 19:28:06 +0000</saledate>
+    <price currency='CAD'>30</price>
+    <condition>new</condition>
+    <notes>New in Shrink. Local Toronto pickup, NA shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jan 2013 05:40:45 +0000</listdate>
+    <saledate>Wed, 03 Apr 2013 01:24:17 +0000</saledate>
+    <price currency='CAD'>35</price>
+    <condition>new</condition>
+    <notes>Pegasus Spiele English edition.
+Brand new sealed in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Jan 2013 18:24:07 +0000</listdate>
+    <saledate>Tue, 16 Apr 2013 15:52:23 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>played 2 times. In great shape
+--------------------------------
+Shipping is estimated based on: USPS Priority, tracking and insurance. I will refund any difference in shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Mar 2013 15:27:05 +0000</listdate>
+    <saledate>Wed, 13 Mar 2013 04:18:50 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Contains english rules.
+The life in city of Strasbourg. Beautiful girls, fresh air and plenty of opportunities to make money. So attend to the guilds of the city, put some influence on clergy and the masons and try to attend to the best areas of the city to score the biggest points. Can you do it? Get this game and find out!
+One of the best lighter than usual, yet with tight and tough choices, game from Stefan Feld!!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=greengow
+----- 0-9 -----
+1969 _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+1984: Animal Farm _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+20th Century
+----- A -----
+Amber _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Ascending Empires
+----- B -----
+Bora Bora
+----- C -----
+Cafe International: Das Kartenspiel
+Caravelas + Black Ship Expansion
+Chinatown
+City Tycoon
+----- D -----
+Dahschur - Die Rote Pyramide _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Drako
+----- E -----
+Era of Inventions
+Expadition: Congo River 1884 _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Express 01
+----- F -----
+Fürstenfeld
+----- G -----
+Goblins, Inc. _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- H -----
+Hamburgum
+----- I -----
+Il Vecchio _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- K -----
+Key West
+----- L -----
+Land Unter / Turn the Tide
+League of Six
+Liberte
+----- M -----
+Magnum Sal
+Manhattan
+Mercurius _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Meuterer
+Milestones _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Mystery of the Abbey
+----- N -----
+Noblemen
+----- O -----
+Oddville _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- P -----
+Pastiche
+Phantom _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Power Grid: Industrial Espionage
+----- R -----
+R-Eco
+Richelieu _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- S -----
+Siberia
+Slavika _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+Stalag 17
+Steel Driver
+Stone Age
+Strasbourg
+----- T -----
+Terra Evolution
+Tribune: Primus Inter Pares
+The New Science
+The Palaces of Carrara _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+----- V -----
+Vampire Empire _T_E_M_P_T_A_G_lt;=============| ESSEN 2012 RELEASE
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jul 2013 21:30:32 +0000</listdate>
+    <saledate>Sun, 14 Jul 2013 12:48:35 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>new</condition>
+    <notes>This game is NOT for sale. This item was won via GeekList auction by BGG user caseylee82.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Jul 2013 01:21:19 +0000</listdate>
+    <saledate>Sat, 02 Aug 2014 00:40:48 +0000</saledate>
+    <price currency='AUD'>50</price>
+    <condition>new</condition>
+    <notes>Brand New In Shrink
+Will Ship Immediately</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Aug 2013 11:49:13 +0000</listdate>
+    <saledate>Sun, 06 Oct 2013 23:27:49 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Oct 2013 17:42:20 +0000</listdate>
+    <saledate>Tue, 15 Oct 2013 07:22:11 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played once, still in great shape. Some shelf wear.
+I will ship via USPS after payment is received (and shipping costs determined.) I only charge exact shipping costs and will combine shipping with multiple items. From US zip code: 97520.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Oct 2013 00:06:47 +0000</listdate>
+    <saledate>Thu, 07 Nov 2013 06:24:09 +0000</saledate>
+    <price currency='USD'>37.95</price>
+    <condition>new</condition>
+    <notes>Brand new, in shrink. English edition.
+Will ship via USPS Priority or FedEx ground at actual cost from the 94024 zip code. FedEx ground can be significantly cheaper if shipped to a business address as opposed to a residential address. Game will ship the day of or the day after payment clears.
+Will combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Nov 2013 04:04:58 +0000</listdate>
+    <saledate>Sat, 16 Nov 2013 06:03:15 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Reserved for cwhitpan from auction</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Nov 2013 15:14:38 +0000</listdate>
+    <saledate>Tue, 10 Dec 2013 16:48:18 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Very Good.
+Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Dec 2013 23:15:40 +0000</listdate>
+    <saledate>Sat, 28 Dec 2013 19:47:35 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>verygood</condition>
+    <notes>great condition, played only one time! unfortunately when removing the pieces from the punchboard the corner of the back of one of the action cards tore, but you cannot see it during gameplay as the cards are face up. doesn_T_E_M_P_T_A_G_#039;t affect game play.
+thanks for looking!
+joshua</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Dec 2013 22:59:33 +0000</listdate>
+    <saledate>Mon, 06 Jan 2014 13:05:35 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>Pegasus Spiele (c) 2011.
+Includes English and German rules!
+All game materials are still in mint condition.
+Box shows minor shelf wear.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within EU I prefer the EU-standard-bank-tranfer (SEPA,IBAN/BIC). It is fast and causes no fees.
+Outside EU Paypal and bank-transfer are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Mar 2014 04:43:56 +0000</listdate>
+    <saledate>Sat, 09 Aug 2014 02:42:33 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>New in shrink
+Pegasus original box - language independent
+Order Info:
+Canadians will be charged tax based on location
+BC Residents 5% GST + 7% PST
+All other provinces 5% GST
+Orders usually will be processed in 1-2 business days
+Check out our store for more hard to find games:
+http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=bubaka</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Apr 2014 01:27:54 +0000</listdate>
+    <saledate>Thu, 04 Sep 2014 18:56:36 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>likenew</condition>
+    <notes>The game is in like new condition and complete. Played one time.
+CONDITION
+• Please ask any questions before buying and I will respond as quickly as I can.
+• All items come from a smoke-free home.
+• Over 300+ 100% positive eBay feedback as user dkokoska
+PAYMENT
+• I accept only Paypal. Please let me know your Paypal address and I can send you an invoice.
+• Verified PayPal user
+SHIPPING
+• Shipping is $12 via USPS Priority Mail.
+• U.S. buyers only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jun 2014 13:56:13 +0000</listdate>
+    <saledate>Tue, 30 Sep 2014 22:55:53 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>Photos on request</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jun 2014 15:28:09 +0000</listdate>
+    <saledate>Thu, 03 Jul 2014 14:02:43 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>New In Shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Jul 2014 20:36:01 +0000</listdate>
+    <saledate>Sat, 19 Jul 2014 19:12:17 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>MINT - (New In Shrink)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Aug 2014 12:35:33 +0000</listdate>
+    <saledate>Fri, 08 Aug 2014 07:06:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Punched but unplayed.  Smoke free home.  Ships from 22203.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Oct 2014 20:01:37 +0000</listdate>
+    <saledate>Mon, 13 Oct 2014 23:22:05 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>verygood</condition>
+    <notes>For user sparky7139 only
+This sale has been auto-generated for the auction: [geekurl=/geeklist/179596/item/3463265#3463265]Item for Geeklist _T_E_M_P_T_A_G_quot;An auction, US only. Some OOP, all good. Ends 10/7. Shipping discounts. Plus bonus giveaways!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Oct 2014 11:00:44 +0000</listdate>
+    <saledate>Thu, 16 Oct 2014 11:46:57 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/177328/item/3491972#3491972]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2014 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Hi!
+You won Strasbourg :) I_T_E_M_P_T_A_G_#039;ll be at the galleria on friday 12h. My phone number: +36703145262
+If you want to meet a different time and place then text me.
+thanks
+Balázs</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Oct 2014 18:47:58 +0000</listdate>
+    <saledate>Tue, 28 Oct 2014 18:50:17 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/178671/item/3438730#3438730]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2014_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Cash and deliver at BGG.CON</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Nov 2014 13:55:06 +0000</listdate>
+    <saledate>Mon, 17 Nov 2014 00:28:32 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition.  Ship by USPS Med Flat Rate Box - $12.65.  Item may not contain original cardboard box insert (will verify if this is an issue for you).  I sometimes remove these to better store components.  All components are stored securely.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Oct 2014 15:26:30 +0000</listdate>
+    <saledate>Tue, 25 Nov 2014 04:38:49 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>The components are completely like new condition.  Box has some light wear.  The bottom of the box has a crease.  One of the hard to get Feld titles!  I will ship it out as soon as I receive payment.  Shipping and handling is $12.65 flat rate priority medium box.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Nov 2014 02:09:49 +0000</listdate>
+    <saledate>Sat, 06 Dec 2014 01:08:48 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Played 2-3 times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 22 Nov 2014 21:54:22 +0000</listdate>
+    <saledate>Tue, 16 Dec 2014 15:50:57 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>new</condition>
+    <notes>£2.80 p_T_E_M_P_T_A_G_amp;p or pick up cambridge, london</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Dec 2014 01:31:44 +0000</listdate>
+    <saledate>Thu, 18 Dec 2014 14:04:27 +0000</saledate>
+    <price currency='USD'>47</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+NOT a Pre-Order!!! Ships TODAY in time for the HOLIDAYS !!! 
+Get $4 DISCOUNT. See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekmarket/user/greengow
+----- 0-9 -----
+1989
+303
+7 Kingdoms
+----- A -----
+A Few Acres of Snow
+Agricola
+Agricola: Belgium Deck
+American Rails
+----- B -----
+Black _T_E_M_P_T_A_G_amp; White
+Bora Bora
+Bremerhaven
+Busen Memo
+----- C -----
+Camel Cup
+Carcassonne
+Catan Histories: Merchants of Europe
+Cavum
+Concordia
+Craftsmen
+----- D -----
+Dice Brewing
+----- E -----
+Eight-Minute Empire
+Eight-Minute Empire: Legends
+El Gaucho
+Expedition: Northwest Passage
+----- F -----
+Flip 9
+Food Chain
+----- G -----
+Gothic Invasion
+Grand Cru
+Grog Island
+----- H -----
+Hansa Teutonica
+Hellweg Westfalicus
+Hippo Hopp
+----- I -----
+Imperial Settlers
+India Rails
+----- K -----
+K2
+Keltis - Includes Neue Wege, Neue Ziele
+----- L -----
+Luna
+Lunte
+----- M -----
+Madeira
+Mafia City
+Maly Ksiaze - The Little Prince
+Massilia
+Merchants of the Middle Ages
+Mercurius
+Mount Everest
+----- N -----
+Na Grunwald
+New Amsterdam
+----- O -----
+One More Barrel
+----- P -----
+Pantheon
+Peloponnes
+----- Q -----
+Quebec
+----- R -----
+Railways Express
+Railways of Europe
+Rialto
+Romolo o Remo
+----- S -----
+Samurai
+Spyrium
+Soccero
+Strasbourg
+Struggle of Empires
+----- T -----
+Taluva
+Terra Evolution
+The Downfall of Pompeii
+The Great Fire of London 1666
+----- U -----
+Unexpected Treasures
+Uruk II
+----- V -----
+Valdora: Drei Neue Werkstätten
+Valdora: Special Board 19
+Vikings
+Vikings of the North
+----- Y -----
+Yunnan
+----- Z -----
+Zooloretto: Catta</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Dec 2014 14:15:21 +0000</listdate>
+    <saledate>Thu, 18 Dec 2014 14:51:53 +0000</saledate>
+    <price currency='USD'>47</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+NOT a Pre-Order!!! Ships TODAY in time for the HOLIDAYS !!! 
+Get $4 DISCOUNT. See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekmarket/user/greengow
+----- 0-9 -----
+1989
+303
+7 Kingdoms
+7 Steps
+----- A -----
+Aqua Sphere
+----- B -----
+Bora Bora
+Bremerhaven
+Busen Memo
+----- C -----
+Camel Cup
+Catan Histories: Merchants of Europe
+Concordia
+Concordia: Britannia _T_E_M_P_T_A_G_amp; Germania
+----- D -----
+Dice Brewing
+----- E -----
+Eight-Minute Empire
+Eight-Minute Empire: Legends
+El Gaucho
+Expedition: Northwest Passage
+----- F -----
+Flip 9
+Food Chain
+Fresh Fish
+----- G -----
+Grand Cru
+Grog Island
+----- H -----
+Hansa Teutonica
+Hippo Hopp
+----- I -----
+Imperial Settlers
+India Rails
+----- K -----
+K2
+Keltis - Includes Neue Wege, Neue Ziele
+----- L -----
+La Isla
+Luna
+Lunte
+----- M -----
+Machi Koro
+Madeira
+Mafia City
+Magnum Sal
+Mangrovia
+Manila
+Massilia
+Merchants of the Middle Ages
+Mercurius
+Mount Everest
+----- N -----
+Na Grunwald
+----- O -----
+One More Barrel
+----- P -----
+Peloponnes
+Progress: Evolution of Technology
+----- Q -----
+Quebec
+----- R -----
+Railways Express
+Railways of Europe
+Rialto
+Rococo
+----- S -----
+Samurai
+Spyrium
+Soccero
+Strasbourg
+Struggle of Empires
+----- T -----
+Tackle
+Taluva
+Terra Evolution
+The Downfall of Pompeii
+The Great Fire of London 1666
+----- U -----
+Unexpected Treasures
+Uruk II
+----- V -----
+Vikings
+Vikings of the North
+----- Y -----
+Yunnan</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Dec 2014 03:34:00 +0000</listdate>
+    <saledate>Fri, 19 Dec 2014 18:18:34 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>new</condition>
+    <notes>New in shrink_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Pegasus original box - language independent_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Order Info:_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Canadians will be charged tax based on location_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;BC Residents 5% GST + 7% PST_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;All other provinces 5% GST_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Orders usually will be processed in 1-2 business days_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Check out our store for more hard to find games:_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;a target=_T_E_M_P_T_A_G_#039;_blank_T_E_M_P_T_A_G_#039; href=_T_E_M_P_T_A_G_quot;http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=bubaka_T_E_M_P_T_A_G_quot; rel=_T_E_M_P_T_A_G_quot;nofollow_T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_gt;http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;..._T_E_M_P_T_A_G_lt;/a_T_E_M_P_T_A_G_gt;</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Dec 2014 15:03:00 +0000</listdate>
+    <saledate>Sun, 21 Dec 2014 01:23:47 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Tiny crease on the side.
+NOT a Pre-Order!!! Ships TODAY in time for the HOLIDAYS !!! 
+Get $4 DISCOUNT. See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekmarket/user/greengow
+----- 0-9 -----
+1989
+303
+7 Kingdoms
+7 Steps
+----- A -----
+Aqua Sphere
+----- B -----
+Bora Bora
+Bremerhaven
+Busen Memo
+----- C -----
+Camel Cup
+Catan Histories: Merchants of Europe
+Concordia
+Concordia: Britannia _T_E_M_P_T_A_G_amp; Germania
+----- D -----
+Dice Brewing
+----- E -----
+Eight-Minute Empire
+Eight-Minute Empire: Legends
+El Gaucho
+Expedition: Northwest Passage
+----- F -----
+Flip 9
+Food Chain
+Fresh Fish
+----- G -----
+Grand Cru
+Grog Island
+----- H -----
+Hansa Teutonica
+Hippo Hopp
+----- I -----
+Imperial Settlers
+India Rails
+----- K -----
+K2
+Keltis - Includes Neue Wege, Neue Ziele
+----- L -----
+La Isla
+Luna
+Lunte
+----- M -----
+Machi Koro
+Madeira
+Mafia City
+Magnum Sal
+Mangrovia
+Manila
+Massilia
+Merchants of the Middle Ages
+Mercurius
+Mount Everest
+----- N -----
+Na Grunwald
+----- O -----
+One More Barrel
+----- P -----
+Peloponnes
+Progress: Evolution of Technology
+----- Q -----
+Quebec
+----- R -----
+Railways Express
+Railways of Europe
+Rialto
+Rococo
+----- S -----
+Samurai
+Spyrium
+Soccero
+Strasbourg
+Struggle of Empires
+----- T -----
+Tackle
+Taluva
+Terra Evolution
+The Downfall of Pompeii
+The Great Fire of London 1666
+----- U -----
+Unexpected Treasures
+Uruk II
+----- V -----
+Vikings
+Vikings of the North
+----- Y -----
+Yunnan</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Dec 2014 03:39:28 +0000</listdate>
+    <saledate>Wed, 14 Jan 2015 03:35:09 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+NOT a Pre-Order!!! Ships TODAY in time for the HOLIDAYS !!! 
+Get $4 DISCOUNT. See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekmarket/user/greengow
+----- 0-9 -----
+1989
+303
+7 Kingdoms
+7 Steps
+----- A -----
+Aqua Sphere
+----- B -----
+Bora Bora
+Bremerhaven
+Busen Memo
+----- C -----
+Camel Cup
+Catan Histories: Merchants of Europe
+Concordia
+Concordia: Britannia _T_E_M_P_T_A_G_amp; Germania
+----- D -----
+Dice Brewing
+----- E -----
+Eight-Minute Empire
+Eight-Minute Empire: Legends
+El Gaucho
+Expedition: Northwest Passage
+----- F -----
+Flip 9
+Food Chain
+Fresh Fish
+----- G -----
+Grand Cru
+Grog Island
+----- H -----
+Hansa Teutonica
+Hippo Hopp
+----- I -----
+Imperial Settlers
+India Rails
+----- K -----
+K2
+Keltis - Includes Neue Wege, Neue Ziele
+----- L -----
+La Isla
+Luna
+Lunte
+----- M -----
+Machi Koro
+Madeira
+Mafia City
+Magnum Sal
+Mangrovia
+Manila
+Massilia
+Merchants of the Middle Ages
+Mercurius
+Mount Everest
+----- N -----
+Na Grunwald
+----- O -----
+One More Barrel
+----- P -----
+Peloponnes
+Progress: Evolution of Technology
+----- Q -----
+Quebec
+----- R -----
+Railways Express
+Railways of Europe
+Rialto
+Rococo
+----- S -----
+Samurai
+Spyrium
+Soccero
+Strasbourg
+Struggle of Empires
+----- T -----
+Tackle
+Taluva
+Terra Evolution
+The Downfall of Pompeii
+The Great Fire of London 1666
+----- U -----
+Unexpected Treasures
+Uruk II
+----- V -----
+Vikings
+Vikings of the North
+----- Y -----
+Yunnan</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Jan 2015 03:44:39 +0000</listdate>
+    <saledate>Wed, 14 Jan 2015 20:09:26 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+NOT a Pre-Order!!! Ships TODAY !!! No Waiting !!!
+Get $4 DISCOUNT. See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekmarket/user/greengow
+----- 0-9 -----
+1989: Dawn of Freedom
+1944: Race to the Rhine
+303
+7 Kingdoms
+7 Steps
+----- A -----
+Aqua Sphere
+Artificium
+----- B -----
+Bora Bora
+Bremerhaven
+----- C -----
+Camel Up
+Catan Histories: Merchants of Europe
+Concordia
+Concordia: Britannia _T_E_M_P_T_A_G_amp; Germania
+----- D -----
+Dice Brewing
+----- E -----
+Eight-Minute Empire
+Eight-Minute Empire: Legends
+El Gaucho
+Expedition: Northwest Passage
+----- F -----
+Five Tribes
+Flip 9
+Food Chain
+Fresh Fish
+----- G -----
+Grand Cru
+Grog Island
+----- H -----
+Hansa Teutonica
+Hippo Hopp
+----- I -----
+Imperial Settlers
+India Rails
+----- K -----
+K2
+Kalimambo
+Keltis + Neue Wege Neue Steine
+----- L -----
+La Isla
+Lunte
+----- M -----
+Machi Koro
+Madeira
+Mafia City
+Magnum Sal
+Mangrovia
+Manila
+Massilia
+Merchants of the Middle Ages
+Mercurius
+Mount Everest
+----- N -----
+Na Grunwald
+----- O -----
+One More Barrel
+----- P -----
+Peloponnes
+Progress: Evolution of Technology
+----- Q -----
+Quebec
+----- R -----
+Railways Express
+Railways of Europe
+Rialto
+Rococo
+----- S -----
+Samurai
+Soccero
+Strasbourg
+Struggle of Empires
+----- T -----
+Tackle
+Taluva
+Terra Evolution
+The Great Fire of London 1666
+----- U -----
+Unexpected Treasures
+Uruk II
+----- V -----
+Vikings
+Vikings of the North
+----- Y -----
+Yardmaster Express
+Yunnan</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Jan 2015 20:23:12 +0000</listdate>
+    <saledate>Fri, 16 Jan 2015 18:22:30 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+NOT a Pre-Order!!! Ships TODAY in time for the HOLIDAYS !!! 
+Get $4 DISCOUNT. See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekmarket/user/greengow
+----- 0-9 -----
+1989
+303
+7 Kingdoms
+7 Steps
+----- A -----
+Aqua Sphere
+----- B -----
+Bora Bora
+Bremerhaven
+Busen Memo
+----- C -----
+Camel Cup
+Catan Histories: Merchants of Europe
+Concordia
+Concordia: Britannia _T_E_M_P_T_A_G_amp; Germania
+----- D -----
+Dice Brewing
+----- E -----
+Eight-Minute Empire
+Eight-Minute Empire: Legends
+El Gaucho
+Expedition: Northwest Passage
+----- F -----
+Flip 9
+Food Chain
+Fresh Fish
+----- G -----
+Grand Cru
+Grog Island
+----- H -----
+Hansa Teutonica
+Hippo Hopp
+----- I -----
+Imperial Settlers
+India Rails
+----- K -----
+K2
+Keltis - Includes Neue Wege, Neue Ziele
+----- L -----
+La Isla
+Luna
+Lunte
+----- M -----
+Machi Koro
+Madeira
+Mafia City
+Magnum Sal
+Mangrovia
+Manila
+Massilia
+Merchants of the Middle Ages
+Mercurius
+Mount Everest
+----- N -----
+Na Grunwald
+----- O -----
+One More Barrel
+----- P -----
+Peloponnes
+Progress: Evolution of Technology
+----- Q -----
+Quebec
+----- R -----
+Railways Express
+Railways of Europe
+Rialto
+Rococo
+----- S -----
+Samurai
+Spyrium
+Soccero
+Strasbourg
+Struggle of Empires
+----- T -----
+Tackle
+Taluva
+Terra Evolution
+The Downfall of Pompeii
+The Great Fire of London 1666
+----- U -----
+Unexpected Treasures
+Uruk II
+----- V -----
+Vikings
+Vikings of the North
+----- Y -----
+Yunnan</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Oct 2014 22:04:52 +0000</listdate>
+    <saledate>Mon, 19 Jan 2015 17:28:24 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Dec 2014 21:10:06 +0000</listdate>
+    <saledate>Wed, 21 Jan 2015 20:26:23 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>New in shrink_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Pegasus original box - language independent_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Order Info:_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Canadians will be charged tax based on location_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;BC Residents 5% GST + 7% PST_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;All other provinces 5% GST_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Orders usually will be processed in 1-2 business days_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Check out our store for more hard to find games:_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;a target=_T_E_M_P_T_A_G_#039;_blank_T_E_M_P_T_A_G_#039; href=_T_E_M_P_T_A_G_quot;http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=bubaka_T_E_M_P_T_A_G_quot; rel=_T_E_M_P_T_A_G_quot;nofollow_T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_gt;http://www.boardgamegeek.com/geekmarket/productlist/bubaka_T_E_M_P_T_A_G_lt;/a_T_E_M_P_T_A_G_gt;</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Jan 2015 18:30:47 +0000</listdate>
+    <saledate>Mon, 02 Feb 2015 20:53:53 +0000</saledate>
+    <price currency='USD'>58</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+Light ding and split on the corner.
+NOT a Pre-Order!!! Ships TODAY !!! No Waiting !!!
+Get $4 DISCOUNT. See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekmarket/user/greengow
+----- 0-9 -----
+1989: Dawn of Freedom
+1944: Race to the Rhine
+303
+7 Kingdoms
+7 Steps
+----- A -----
+Aqua Sphere
+Artificium
+----- B -----
+Bora Bora
+Bremerhaven
+----- C -----
+Camel Up
+Catan Histories: Merchants of Europe
+Concordia
+Concordia: Britannia _T_E_M_P_T_A_G_amp; Germania
+----- D -----
+Dice Brewing
+----- E -----
+Eight-Minute Empire
+Eight-Minute Empire: Legends
+El Gaucho
+Expedition: Northwest Passage
+----- F -----
+Five Tribes
+Flip 9
+Food Chain
+Fresh Fish
+----- G -----
+Grand Cru
+Grog Island
+----- H -----
+Hansa Teutonica
+Hippo Hopp
+----- I -----
+Imperial Settlers
+India Rails
+----- K -----
+K2
+Kalimambo
+Keltis + Neue Wege Neue Steine
+----- L -----
+La Isla
+Lunte
+----- M -----
+Machi Koro
+Madeira
+Mafia City
+Magnum Sal
+Mangrovia
+Manila
+Massilia
+Merchants of the Middle Ages
+Mercurius
+Mount Everest
+----- N -----
+Na Grunwald
+----- O -----
+One More Barrel
+----- P -----
+Peloponnes
+Progress: Evolution of Technology
+----- Q -----
+Quebec
+----- R -----
+Railways Express
+Railways of Europe
+Rialto
+Rococo
+----- S -----
+Samurai
+Soccero
+Strasbourg
+Struggle of Empires
+----- T -----
+Tackle
+Taluva
+Terra Evolution
+The Great Fire of London 1666
+----- U -----
+Unexpected Treasures
+Uruk II
+----- V -----
+Vikings
+Vikings of the North
+----- Y -----
+Yardmaster Express
+Yunnan</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Feb 2015 16:51:37 +0000</listdate>
+    <saledate>Mon, 09 Feb 2015 17:21:55 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>for sale only to the bgg user who won it at this auction: http://www.boardgamegeek.com/geeklist/184457/rahdo-runs-through-his-5th-auction-usa-only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Jan 2015 12:59:57 +0000</listdate>
+    <saledate>Tue, 10 Feb 2015 02:43:35 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>likenew</condition>
+    <notes>Played twice.  UK postage £5</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Feb 2015 04:00:40 +0000</listdate>
+    <saledate>Wed, 11 Feb 2015 01:00:30 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>new</condition>
+    <notes>New in shrink_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Pegasus original box - language independent_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Order Info:_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Canadians will be charged tax based on location_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;BC Residents 5% GST + 7% PST_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;All other provinces 5% GST_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Orders usually will be processed in 1-2 business days_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Check out our store for more hard to find games:_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;a target=_T_E_M_P_T_A_G_#039;_blank_T_E_M_P_T_A_G_#039; href=_T_E_M_P_T_A_G_quot;http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;username=bubaka_T_E_M_P_T_A_G_quot; rel=_T_E_M_P_T_A_G_quot;nofollow_T_E_M_P_T_A_G_quot;_T_E_M_P_T_A_G_gt;http://www.boardgamegeek.com/geekstore.php3?action=viewuser_T_E_M_P_T_A_G_amp;..._T_E_M_P_T_A_G_lt;/a_T_E_M_P_T_A_G_gt;</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Dec 2014 07:09:46 +0000</listdate>
+    <saledate>Sun, 15 Feb 2015 10:09:45 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>In shrink. Ask me for shipping costs, or look them up at post.ch if you know the weight of the game.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Feb 2015 13:25:42 +0000</listdate>
+    <saledate>Tue, 17 Feb 2015 12:49:37 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/186839/item/3720140#3720140]Item for Geeklist _T_E_M_P_T_A_G_quot;Ladies of Troyes, Glen More, Palaces of Carrara and more! US/CAN only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+For user josgeerkin only.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Feb 2015 16:04:27 +0000</listdate>
+    <saledate>Wed, 25 Feb 2015 16:12:30 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187155/item/3731898#3731898]Item for Geeklist _T_E_M_P_T_A_G_quot;Can_T_E_M_P_T_A_G_#039;t wait for spring fling, er auction._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Hi Erik,
+Shipping is $11.30 for priority shipping via USPS.com it_T_E_M_P_T_A_G_#039;s .23 cents less to send standard.
+Please use bk_dk_ak_jc@hotmail.com for Paypal.com. As soon as I see payment it will go out to  you.
+Thank and enjoy!
+Brian</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Oct 2014 14:49:52 +0000</listdate>
+    <saledate>Sun, 22 Mar 2015 23:58:16 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>new</condition>
+    <notes>Still in shrink.
+Selling as not getting around to playing.
+Any questions please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Mar 2015 22:48:41 +0000</listdate>
+    <saledate>Mon, 23 Mar 2015 06:04:08 +0000</saledate>
+    <price currency='USD'>44.95</price>
+    <condition>likenew</condition>
+    <notes>Played once, excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Sep 2014 18:16:04 +0000</listdate>
+    <saledate>Mon, 06 Apr 2015 04:16:48 +0000</saledate>
+    <price currency='EUR'>33</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Apr 2015 04:00:46 +0000</listdate>
+    <saledate>Mon, 20 Apr 2015 05:19:36 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190015/item/3845305#3845305]Item for Geeklist _T_E_M_P_T_A_G_quot;Spring Thaw Clearance - US Only Auction - Ends 4/19_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for user eapeas
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Nov 2014 21:16:41 +0000</listdate>
+    <saledate>Wed, 22 Apr 2015 12:12:09 +0000</saledate>
+    <price currency='EUR'>31</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment (Kiala or DHL4you) or € 6,75 per shipment (PostNL).
+Shipment to Belgium by Kiala is Euro 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Aug 2014 12:45:00 +0000</listdate>
+    <saledate>Fri, 24 Apr 2015 20:24:33 +0000</saledate>
+    <price currency='GBP'>21.22</price>
+    <condition>new</condition>
+    <notes>UK P_T_E_M_P_T_A_G_amp;P £3.78
+This listing is for user _T_E_M_P_T_A_G_quot;AjayDominoe_T_E_M_P_T_A_G_quot;.  If you are not _T_E_M_P_T_A_G_quot;AjayDominoe_T_E_M_P_T_A_G_quot; please do not buy this item</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Apr 2015 14:50:52 +0000</listdate>
+    <saledate>Sun, 03 May 2015 10:02:47 +0000</saledate>
+    <price currency='EUR'>33</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Aug 2014 12:32:00 +0000</listdate>
+    <saledate>Mon, 18 May 2015 05:52:10 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 May 2015 06:46:15 +0000</listdate>
+    <saledate>Thu, 21 May 2015 18:33:57 +0000</saledate>
+    <price currency='EUR'>33</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 May 2015 01:37:58 +0000</listdate>
+    <saledate>Thu, 21 May 2015 18:46:28 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191346/item/3903278#3903278]Item for Geeklist _T_E_M_P_T_A_G_quot;Dice Tower Convention/Buying a Dodge Challenger auction 2015 part 1_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for user Sir Ransellot (Ransell Lezu). </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Mar 2015 04:03:17 +0000</listdate>
+    <saledate>Fri, 22 May 2015 10:28:36 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>English Pegasus Spiele edition. Brand new in shrink.
+Buyer to pay exact shipping (will combine shipping on multiple items).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Jun 2015 21:15:08 +0000</listdate>
+    <saledate>Thu, 18 Jun 2015 22:17:24 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/192288/item/3946176#3946176]Item for Geeklist _T_E_M_P_T_A_G_quot;Big Apple Auction 3 - USA shipping and local NYC pickup available_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Jul 2015 22:45:09 +0000</listdate>
+    <saledate>Thu, 23 Jul 2015 02:55:42 +0000</saledate>
+    <price currency='USD'>58</price>
+    <condition>new</condition>
+    <notes>New in shrink.  
+$12 flat rate priority shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 May 2015 15:15:25 +0000</listdate>
+    <saledate>Wed, 12 Aug 2015 03:10:40 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Auction reserved for ct5150
+Strasbourg + Sanssouci</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Aug 2015 09:48:01 +0000</listdate>
+    <saledate>Sat, 29 Aug 2015 18:40:50 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Aug 2015 21:48:20 +0000</listdate>
+    <saledate>Sat, 05 Sep 2015 18:31:22 +0000</saledate>
+    <price currency='EUR'>31</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Sep 2015 20:05:31 +0000</listdate>
+    <saledate>Wed, 30 Sep 2015 07:20:11 +0000</saledate>
+    <price currency='EUR'>31</price>
+    <condition>new</condition>
+    <notes>Shrinkwrapped and in stock
+Language: English
+Within The Netherlands € 4,- per shipment to a Kiala service point near you or € 6,75 per shipment for delivery at your doorstep.
+Shipment to Belgium by Kiala is € 7,50.
+Payment is possible by bank transfer or Paypal (costs +3%)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Sep 2015 08:37:25 +0000</listdate>
+    <saledate>Sun, 18 Oct 2015 19:58:59 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>likenew</condition>
+    <notes>SEPA bank transfer prefered - Paypal fees paid by buyer
+Shipping either from Germany or Austria, whichever is cheaper (check logoix.com or post.at for prices)
+Essen pick-up (2015) a possibility</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Sep 2015 07:24:50 +0000</listdate>
+    <saledate>Sun, 01 Nov 2015 17:04:25 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>New in shrink.  Minor box dent.  Components completely unaffected.
+$12 flat rate priority shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Nov 2015 20:55:09 +0000</listdate>
+    <saledate>Sun, 15 Nov 2015 21:25:34 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Insert removed. Components punched and bagged. Shipping = $10</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 May 2015 01:11:43 +0000</listdate>
+    <saledate>Sat, 28 Nov 2015 15:12:14 +0000</saledate>
+    <price currency='USD'>80</price>
+    <condition>new</condition>
+    <notes>Shipping will be $14 in the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Dec 2015 14:11:37 +0000</listdate>
+    <saledate>Tue, 08 Dec 2015 01:31:48 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner: Flame Point Crispin
+$12 flat rate priority shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Dec 2015 14:34:52 +0000</listdate>
+    <saledate>Tue, 08 Dec 2015 10:28:23 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>new</condition>
+    <notes>reserved for auction winner: phillipz   + Notre Dame</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Dec 2015 01:42:53 +0000</listdate>
+    <saledate>Thu, 07 Jan 2016 12:10:07 +0000</saledate>
+    <price currency='CAD'>60</price>
+    <condition>likenew</condition>
+    <notes>The game is like new/almost perfect condition.
+Only played 1 time.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jan 2016 03:29:28 +0000</listdate>
+    <saledate>Tue, 12 Jan 2016 15:51:46 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/202002/item/4347488#4347488]Item for Geeklist _T_E_M_P_T_A_G_quot;Hobbesian New Year Auction (I Can Haz your Xmas Money?) -- Ends TODAY, Sunday 1/10_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Feb 2016 20:43:57 +0000</listdate>
+    <saledate>Fri, 26 Feb 2016 21:47:54 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Price INCLUDES shipping in US.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Mar 2016 21:31:38 +0000</listdate>
+    <saledate>Wed, 16 Mar 2016 21:49:53 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/206240/item/4511229#4511229]Item for Geeklist _T_E_M_P_T_A_G_quot;Giant Spring Cleaning Auction. Lots of rare and OOP games_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Mar 2016 21:44:34 +0000</listdate>
+    <saledate>Sat, 26 Mar 2016 09:08:46 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Apr 2016 14:09:43 +0000</listdate>
+    <saledate>Mon, 11 Apr 2016 14:15:34 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>likenew</condition>
+    <notes>reserved for stormseeker75
+Includes Rococo and $5 discount.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Apr 2016 04:37:44 +0000</listdate>
+    <saledate>Tue, 26 Apr 2016 11:53:55 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Shrink removed from box.  Cardboard and wood components in bags, all cards in shrink.  Box in excellent condition.  
+Shipping $13.45 via USPS Priority mail.  Can combine with other purchases to save on shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Feb 2016 22:43:38 +0000</listdate>
+    <saledate>Mon, 06 Jun 2016 13:36:22 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>verygood</condition>
+    <notes>Game is complete,  components in zip lock bags
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+Pegasus
+rules in German, English,</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Apr 2016 16:32:26 +0000</listdate>
+    <saledate>Sat, 18 Jun 2016 20:36:38 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>Shipment only to Germany. Please do not order from other countries. 
+-----------------------------------------------------------------------------------------------------
+Zustand:
+Geöffnet, Spielmaterial nicht ausgestanzt. Tier- und kinderfreier Nichtraucherhaushalt. 
+Bezahlung: 
+Banküberweisung oder Paypal.
+Versand: 
+5€ mit DHL, 4€ mit Hermes. Versand nach Geldeingang. Leider kann ich berufsbedingt nur an Wochenenden versenden.
+Beim Kauf mehrerer Spiele entfallen die Versandkosten oder fragt vor dem Kauf nach einem Rabatt.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jul 2016 12:35:30 +0000</listdate>
+    <saledate>Wed, 06 Jul 2016 00:18:42 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>likenew</condition>
+    <notes>like new, played once, components in zip bags, tiny bump on the back of the box
+rulebooks in English and German</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jun 2016 20:30:10 +0000</listdate>
+    <saledate>Fri, 19 Aug 2016 07:04:04 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>good</condition>
+    <notes>There is a few small dents and scratches on the box (see picture for one example). All game components are as good as new.
+Please contact me for shipping costs before ordering. Sending parcels (with insurance and track and trace) from Denmark is quite expensive (€24 and up), depending on destination), so if that_T_E_M_P_T_A_G_#039;s over your budget and you won_T_E_M_P_T_A_G_#039;t accept shipping as regular mail (without insurance, no track and trace), which is a lot cheaper, please don_T_E_M_P_T_A_G_#039;t order.
+Notes:
+PayPal Commision Fees (approx. 4% of the total price) will be included in the shipping fee.
+Order must be paid within one week after ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Aug 2016 11:24:07 +0000</listdate>
+    <saledate>Mon, 29 Aug 2016 10:40:19 +0000</saledate>
+    <price currency='EUR'>39.9</price>
+    <condition>verygood</condition>
+    <notes>Played once, box with minimal wear.
+1100 g</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Sep 2016 12:07:33 +0000</listdate>
+    <saledate>Thu, 01 Sep 2016 12:20:09 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/212737/item/4804152#4804152]Item for Geeklist _T_E_M_P_T_A_G_quot;Kansas City Area Auction, multiple sellers, ends 8/31, US Shipping_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Jul 2016 19:31:32 +0000</listdate>
+    <saledate>Wed, 21 Sep 2016 03:16:16 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Oct 2016 04:41:18 +0000</listdate>
+    <saledate>Sat, 05 Nov 2016 03:24:25 +0000</saledate>
+    <price currency='USD'>78</price>
+    <condition>new</condition>
+    <notes>New in shrink. The box has a tiny bit of corner whitening on two corners (from sitting on the display shelf for a while).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Oct 2016 11:45:37 +0000</listdate>
+    <saledate>Sat, 05 Nov 2016 23:34:45 +0000</saledate>
+    <price currency='EUR'>34</price>
+    <condition>likenew</condition>
+    <notes>Inside and outside like new. // Innen und außen wie neu.
+----
+Shipping:
+to Germany: 5 EUR
+to European Union: 9 EUR
+worldwide (unfortunately, this includes European non-EU as well): ~ 16 EUR (please ask for exact costs beforehand)
+--_T_E_M_P_T_A_G_gt; Insured shipping will be more expensive.
+----
+Payment:
+#Discount if you buy more than one item from me in the marketplace!#
+You can send me the money via bank transfer or PayPal. // If you chose PayPal and pay from outside of Germany, please add +4 % +0,30 EUR sales tax to the whole amount (item + shipping costs).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Nov 2016 15:03:51 +0000</listdate>
+    <saledate>Fri, 16 Dec 2016 02:27:19 +0000</saledate>
+    <price currency='EUR'>38.9</price>
+    <condition>new</condition>
+    <notes>Sealed.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Nov 2016 17:48:41 +0000</listdate>
+    <saledate>Fri, 23 Dec 2016 08:31:09 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>likenew</condition>
+    <notes>Played twice, in pristine condition.
+P_T_E_M_P_T_A_G_amp;P is £3 to the UK only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Nov 2016 18:02:02 +0000</listdate>
+    <saledate>Wed, 04 Jan 2017 06:11:14 +0000</saledate>
+    <price currency='EUR'>44.9</price>
+    <condition>new</condition>
+    <notes>shrinkwrapped
+1330 g</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Jan 2017 01:05:22 +0000</listdate>
+    <saledate>Sun, 08 Jan 2017 18:42:58 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Opened and played twice. Buyer pays shipping from Boston, MA (02210).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2017 15:09:21 +0000</listdate>
+    <saledate>Thu, 12 Jan 2017 22:29:00 +0000</saledate>
+    <price currency='CAD'>60</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2016 02:24:54 +0000</listdate>
+    <saledate>Mon, 23 Jan 2017 16:05:33 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>English Pegasus Spiele edition. Excellent condition.
+Buyer to pay exact shipping (will combine shipping on multiple items).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Feb 2017 01:43:55 +0000</listdate>
+    <saledate>Wed, 01 Feb 2017 19:58:52 +0000</saledate>
+    <price currency='CAD'>70</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Feb 2017 12:06:59 +0000</listdate>
+    <saledate>Fri, 03 Feb 2017 20:17:05 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>Played once, excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Feb 2017 14:12:45 +0000</listdate>
+    <saledate>Wed, 08 Feb 2017 13:12:08 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Feb 2017 00:41:26 +0000</listdate>
+    <saledate>Tue, 14 Feb 2017 01:13:22 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>For auction winner ocbrad only please.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Nov 2016 12:43:15 +0000</listdate>
+    <saledate>Fri, 03 Mar 2017 13:32:06 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>OVP</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 21:17:35 +0000</listdate>
+    <saledate>Sun, 05 Mar 2017 13:13:45 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Just used once, everything in perfect condition. Great Stefan Feld game!
+Will bubble wrap and mail securely :-)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Mar 2017 04:56:41 +0000</listdate>
+    <saledate>Tue, 14 Mar 2017 12:28:33 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222798/item/5256772#5256772]Item for Geeklist _T_E_M_P_T_A_G_quot;New_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Mar 2017 01:47:18 +0000</listdate>
+    <saledate>Tue, 25 Apr 2017 04:15:31 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Complete.  Excellent condition.  All components bagged.  Played twice.
+Shipping  (United States only)  = $15.00
+[ImageID=951192 inline] [ImageID=994152 inline] [ImageID=994155 inline]</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Apr 2017 12:59:13 +0000</listdate>
+    <saledate>Sat, 29 Apr 2017 02:52:34 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 May 2017 14:41:18 +0000</listdate>
+    <saledate>Sat, 06 May 2017 12:25:12 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>Only played once</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 May 2017 15:50:22 +0000</listdate>
+    <saledate>Tue, 16 May 2017 20:03:24 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>components still in excellent condition (played once); missing German rules
+shipping is $14.60 priority mail
+(combined shipping available for multi-game orders)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 May 2017 21:29:56 +0000</listdate>
+    <saledate>Fri, 19 May 2017 10:36:48 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>verygood</condition>
+    <notes>almost like new on the inside, but some wear on the outside - see pictures</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 May 2017 15:20:35 +0000</listdate>
+    <saledate>Wed, 24 May 2017 00:55:24 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>Auction item reserved for BGG user _T_E_M_P_T_A_G_quot;whavoc_T_E_M_P_T_A_G_quot; only. (All items for this winner are listed under one Marketplace heading)
+Items: 
+$55 - Strasbourg
+-----------------------------------
+SUBTOTAL - $55
+Please complete this order by clicking _T_E_M_P_T_A_G_quot;Add to Cart_T_E_M_P_T_A_G_quot; and then _T_E_M_P_T_A_G_quot;Proceed to Checkout,_T_E_M_P_T_A_G_quot; making sure your delivery information is correct.  I will confirm the order giving the total owed, including shipping to your state, along with my PayPal account for payment.
+Shipping costs will be based on the policy detailed in the auction header (click on link below). Exact shipping costs will be provided upon order confirmation. 
+Note: If you plan on local pick-up in Rochester, NY, please let me know as soon as possible, as we will have to arrange a time for the exchange no later than Tuesday, May 30. If you will be picking up in Bronx, NY, I will not be able to arrange for pick-up until after my move on June 1. 
+This sale has been auto-generated for the auction: [geekurl=/geeklist/225351/item/5393514#5393514]Item for Geeklist _T_E_M_P_T_A_G_quot;LAST DAY - Moving Sale!! Over 120 games must go! Local Pick-Up in Rochester and/or NYC. ENDS TONIGHT, 5/22_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Apr 2017 19:15:55 +0000</listdate>
+    <saledate>Wed, 31 May 2017 19:07:58 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jun 2017 17:52:53 +0000</listdate>
+    <saledate>Tue, 06 Jun 2017 05:46:20 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Adamredwoods for combined auction winnings.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 May 2017 10:25:29 +0000</listdate>
+    <saledate>Sun, 11 Jun 2017 11:42:51 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>new</condition>
+    <notes>new in shrink without any bumps.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Jun 2017 13:19:57 +0000</listdate>
+    <saledate>Tue, 20 Jun 2017 13:32:53 +0000</saledate>
+    <price currency='USD'>74</price>
+    <condition>verygood</condition>
+    <notes>SAVED FOR DON</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jun 2017 03:07:49 +0000</listdate>
+    <saledate>Thu, 29 Jun 2017 14:53:08 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/226678/item/5462900#5462900]Item for Geeklist _T_E_M_P_T_A_G_quot;Sizzling Summer Auction (US Only, Located in SO CAL) (Ends June 27th)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Jul 2017 08:57:46 +0000</listdate>
+    <saledate>Tue, 04 Jul 2017 10:22:09 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>Shipping will be calculated based on where it is to be sent.
+Buy any 2 games from my offerings and get 10% off.
+Buy any 3 games from my offerings and get 20% off.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Jul 2017 22:12:58 +0000</listdate>
+    <saledate>Wed, 19 Jul 2017 22:59:04 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Aug 2017 10:18:17 +0000</listdate>
+    <saledate>Wed, 16 Aug 2017 13:15:36 +0000</saledate>
+    <price currency='EUR'>65</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition, never played. All game components are sorted into it plastic bags (see photo).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Aug 2017 13:55:24 +0000</listdate>
+    <saledate>Thu, 31 Aug 2017 22:20:10 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 May 2017 11:03:04 +0000</listdate>
+    <saledate>Fri, 01 Sep 2017 19:06:18 +0000</saledate>
+    <price currency='EUR'>49</price>
+    <condition>verygood</condition>
+    <notes>almost like new on the inside, but minimal shelfwear on the bottom of the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Sep 2017 04:12:54 +0000</listdate>
+    <saledate>Thu, 07 Sep 2017 14:03:45 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229431/item/5595690#5595690]Item for Geeklist _T_E_M_P_T_A_G_quot;Multi-seller auction.  US shipping and Kansas City local pickup._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 05:19:48 +0000</listdate>
+    <saledate>Mon, 02 Oct 2017 14:27:29 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>New In Shrink - I am willing to deliver to BGG.CON 2017</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Oct 2017 23:51:36 +0000</listdate>
+    <saledate>Thu, 12 Oct 2017 02:47:56 +0000</saledate>
+    <price currency='USD'>74</price>
+    <condition>new</condition>
+    <notes>Auction winnings for Doug Seldeen.
++$30.24 shipping comes to $104.24 total.
+Paypal is sirransellot@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Oct 2017 21:02:04 +0000</listdate>
+    <saledate>Thu, 12 Oct 2017 03:49:43 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Auction win for herendil66 only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Oct 2017 17:57:06 +0000</listdate>
+    <saledate>Wed, 18 Oct 2017 04:18:47 +0000</saledate>
+    <price currency='USD'>70.49</price>
+    <condition>verygood</condition>
+    <notes>Played several times. In very good shape. Components are organized in several plastic containers.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Aug 2017 09:16:50 +0000</listdate>
+    <saledate>Sat, 21 Oct 2017 08:11:44 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes>Very good condition.
+English rulebook only.
+Shipping inside EU: 15 euros</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 23:22:37 +0000</listdate>
+    <saledate>Fri, 27 Oct 2017 14:29:33 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Still in shrink.
+Please email for a shipping quote.
+Price is USD.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Nov 2017 17:00:00 +0000</listdate>
+    <saledate>Tue, 28 Nov 2017 00:21:52 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Dec 2017 11:24:56 +0000</listdate>
+    <saledate>Tue, 02 Jan 2018 12:55:53 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>new</condition>
+    <notes>+ 5 Euro for shipping in Germany, please ask for other destinations , german edition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Dec 2017 07:26:26 +0000</listdate>
+    <saledate>Fri, 12 Jan 2018 02:57:37 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>likenew</condition>
+    <notes>Price does not include shipment and PayPal fees (3%).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Jan 2018 19:52:18 +0000</listdate>
+    <saledate>Mon, 22 Jan 2018 17:12:30 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>good</condition>
+    <notes>German
+Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus max. 3 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Feb 2018 01:38:31 +0000</listdate>
+    <saledate>Sat, 03 Feb 2018 07:08:40 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Feb 2018 15:02:29 +0000</listdate>
+    <saledate>Mon, 05 Feb 2018 17:24:01 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/237382/item/5942990#5942990]Item for Geeklist _T_E_M_P_T_A_G_quot;auction - US shipping only from 12054 - ends 2/11_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Dec 2017 15:29:35 +0000</listdate>
+    <saledate>Wed, 07 Feb 2018 02:31:00 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Feb 2018 06:40:19 +0000</listdate>
+    <saledate>Fri, 09 Feb 2018 19:57:28 +0000</saledate>
+    <price currency='USD'>90</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Feb 2018 02:09:59 +0000</listdate>
+    <saledate>Tue, 06 Mar 2018 22:47:23 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>English Eggertspiele edition. Excellent condition.
+Buyer to pay exact shipping (will combine shipping on multiple items).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Mar 2018 16:34:25 +0000</listdate>
+    <saledate>Sun, 11 Mar 2018 18:17:05 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Opened but never played. Will ship USPS priority from 03036.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Mar 2018 23:47:24 +0000</listdate>
+    <saledate>Tue, 10 Apr 2018 13:50:41 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>Buyer pays actual shipping via USPS, UPS, or FedEx. Shipping from U.S.A.
+Shipping to other countries is expensive. It could be as much as $30-$60+ depending on where it_T_E_M_P_T_A_G_#039;s going and the weight of package. Please feel free to message me about the shipping cost before buying. 
+PayPal, Zelle, or Venmo, or message me if you prefer another online method and I_T_E_M_P_T_A_G_#039;ll look into it.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Mar 2018 11:15:11 +0000</listdate>
+    <saledate>Thu, 19 Apr 2018 03:54:31 +0000</saledate>
+    <price currency='GBP'>32</price>
+    <condition>new</condition>
+    <notes>Out of Shrink, NEVER PLAYED. Will Only Ship to United Kingdom. £4.99 P_T_E_M_P_T_A_G_amp;P
+images from BGG.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Jan 2018 11:10:43 +0000</listdate>
+    <saledate>Mon, 23 Apr 2018 20:52:13 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>new</condition>
+    <notes>shipping in Germany is 5 Euro, in Europe 9 Euro</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Apr 2018 17:36:56 +0000</listdate>
+    <saledate>Sun, 29 Apr 2018 19:45:23 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>For auction winner Randy Thomas only, please. This item includes any other auction winnings.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 May 2018 12:11:01 +0000</listdate>
+    <saledate>Wed, 16 May 2018 18:39:29 +0000</saledate>
+    <price currency='EUR'>79</price>
+    <condition>new</condition>
+    <notes>in shrink - new!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Sep 2017 19:10:24 +0000</listdate>
+    <saledate>Sat, 19 May 2018 22:26:26 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>likenew</condition>
+    <notes>New in shrink
+Orders usually will be processed in 1-2 business days
+We will also be able to ship at US domestic rates.
+Please contact us for a shipping quote.
+Check out our store for more hard to find games:
+http://www.boardgamegeek.com/geekmarket/productlist/bubaka
+Sales history</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Jun 2018 07:17:17 +0000</listdate>
+    <saledate>Mon, 18 Jun 2018 11:18:11 +0000</saledate>
+    <price currency='GBP'>43</price>
+    <condition>new</condition>
+    <notes>Still wrapped</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Jun 2018 06:42:26 +0000</listdate>
+    <saledate>Sat, 21 Jul 2018 16:27:22 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>Pegasus first edition (EN/DE)
+Just a little wear on the box edges, complete and in great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jul 2018 12:30:54 +0000</listdate>
+    <saledate>Sun, 29 Jul 2018 19:43:28 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>likenew</condition>
+    <notes>Mint condition. Unplayed and cards in premium sleeves.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jul 2018 12:07:49 +0000</listdate>
+    <saledate>Tue, 07 Aug 2018 12:23:14 +0000</saledate>
+    <price currency='GBP'>39.5</price>
+    <condition>likenew</condition>
+    <notes>Punched and bagged, but I don_T_E_M_P_T_A_G_#039;t believe it_T_E_M_P_T_A_G_#039;s ever been played.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 May 2018 12:40:25 +0000</listdate>
+    <saledate>Mon, 01 Oct 2018 19:07:43 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>likenew</condition>
+    <notes>Punched, but never played so all components in excellent condition.
+Shipping cost in the UK is £5</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Oct 2018 20:53:48 +0000</listdate>
+    <saledate>Mon, 15 Oct 2018 21:02:06 +0000</saledate>
+    <price currency='EUR'>42</price>
+    <condition>good</condition>
+    <notes>Essen auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jun 2018 12:51:55 +0000</listdate>
+    <saledate>Fri, 09 Nov 2018 05:32:13 +0000</saledate>
+    <price currency='USD'>78</price>
+    <condition>verygood</condition>
+    <notes>Played twice, cards sleeved in FFG sleeves (included.)  Also includes a plano container (pictured) to sort/store bits, minor shelf wear on bow. 
+Shipping $15 in the US, to include insurance for final amount. Will ship internationally but insured cost will be prohibitive 
+Local pickup in Lexington available, or Louisville/Cincy if patient 
+Please GM me with any questions, I will be happy to combine shipping on any item in my marketplace, OR with any item on my trade list if you_T_E_M_P_T_A_G_#039;d like to make an offer. I REALLY need the space!
+All sales will go through BGG marketplace. Payment via paypal only</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jul 2018 19:51:38 +0000</listdate>
+    <saledate>Fri, 30 Nov 2018 04:19:02 +0000</saledate>
+    <price currency='USD'>97</price>
+    <condition>new</condition>
+    <notes>New in shrink!
+Buyer pays shipping from 43026.  Local pick up available with COD. 
+Flat rate medium priority box is $13.65  (could be cheaper in a different box, depends on location)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Oct 2018 11:16:39 +0000</listdate>
+    <saledate>Sun, 09 Dec 2018 13:58:56 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>English/German, Cards are sleeved</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Nov 2018 13:22:53 +0000</listdate>
+    <saledate>Wed, 12 Dec 2018 06:30:24 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Dec 2018 16:14:54 +0000</listdate>
+    <saledate>Sun, 16 Dec 2018 03:13:20 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Oct 2018 11:01:45 +0000</listdate>
+    <saledate>Fri, 21 Dec 2018 00:20:47 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>verygood</condition>
+    <notes>The games is sleeved and the price includes UK mainland shipping, but please contact me for overseas postage rates</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Nov 2018 21:15:10 +0000</listdate>
+    <saledate>Fri, 21 Dec 2018 17:58:13 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Dec 2018 12:04:41 +0000</listdate>
+    <saledate>Tue, 25 Dec 2018 14:15:04 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Feb 2018 10:54:40 +0000</listdate>
+    <saledate>Sun, 06 Jan 2019 22:40:35 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>good</condition>
+    <notes>Eine der 40 Münzen (Pappmarker) fehlt .
+One coin (of 40) ist missing.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jan 2019 11:31:48 +0000</listdate>
+    <saledate>Mon, 21 Jan 2019 13:04:27 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/251300/item/6640127#6640127]Item for Geeklist _T_E_M_P_T_A_G_quot;Quest for Holy Grail Game Auction! Featuring: Puerto Rico Limited Anniversary Edition, Strasburg (Brand New in shrink), Champions of Midgard: The Dark Mountains (Brand New), Loopin_T_E_M_P_T_A_G_#039; Louie (Brand New) etc.  Ends Sunday, January 20th_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+*Reserved for user: MistaRau - Ryan Rau, thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Feb 2019 03:48:16 +0000</listdate>
+    <saledate>Sun, 03 Feb 2019 09:59:12 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>This game has been kept in a smoke _T_E_M_P_T_A_G_amp; pet free home. It comes with all of the components, and everything is in like new condition. This game has both English and German language rules.
+Buyer must also cover shipping cost.
+Shipping will come from 40299 zip and I am willing to use any major service (UPS, FedEx, USPS)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jan 2019 17:07:29 +0000</listdate>
+    <saledate>Thu, 07 Feb 2019 18:52:56 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>The game was played only once.
+Shipping costs for germany would be 5€, in europe around 15€, please ask before buying.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

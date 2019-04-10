@@ -1,0 +1,911 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="1430">
+   <yearpublished>1976</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>360</playingtime>
+   <minplaytime>360</minplaytime>
+   <maxplaytime>360</maxplaytime>
+   <age>12</age>
+       <name  sortindex="1">Alesia</name>
+       <name  sortindex="1">Caesar at Alesia</name>
+       <name primary="true" sortindex="1">Caesar: Epic Battle of Alesia</name>
+         
+   <description>Caesar at Alesia simulates an epic battle in 52 BC where Julius Caesar surrounded the battered forces of the Gauls led by Vercingetorix.  Knowing the Gauls had a relief force coming (of over 250,000 men), Caesar built a defensive perimeter facing outward to match his perimeter facing inward to beseige Vercingetorix.  An unusual _T_E_M_P_T_A_G_amp;quot;donut_T_E_M_P_T_A_G_amp;quot; formation._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The large mapboard 33_T_E_M_P_T_A_G_amp;quot;x28_T_E_M_P_T_A_G_amp;quot; portrays the town of Alesia and all of the works built by Caesar.  The Gauls have a small force trapped in the town including Vercingetorix as well as a large force which sets up in off board areas.  The Gallic player must reveal which off board zones he occupies with at least 1 unit, but does NOT have give further information._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The goal of the game is for the Gauls to create an escape route for Vercingetorix and exit him off the board.  The Romans must prevent this over the 20 game turns (which represents 2 days)._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/KQKFI1k3SZv8zooEGzahrYrJWmY=/fit-in/200x150/pic174006.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/NfxvWEo04KpWrSwYpMypvVSd4so=/0x0/pic174006.jpg</image>
+      
+            <boardgamepublisher objectid="4">(Self-Published)</boardgamepublisher>
+                      <boardgamecategory objectid="1050">Ancient</boardgamecategory>
+               <boardgamefamily objectid="5606">Ancient Rome</boardgamefamily>
+               <boardgameversion objectid="25197">Avalon Hill edition</boardgameversion>
+               <boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+               <boardgamedesigner objectid="599">Robert Bradley</boardgamedesigner>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgameartist objectid="71537">Al Eckman</boardgameartist>
+                             <boardgameartist objectid="76">Don Greenwood</boardgameartist>
+               <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+               <boardgameartist objectid="12259">W. Scott Moores</boardgameartist>
+               <boardgameversion objectid="139700">Self-Published edition</boardgameversion>
+               <boardgameartist objectid="71538">Charles Veit</boardgameartist>
+               <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+             
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="11">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="9" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="4">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="1" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="4" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>559</usersrated>
+     <average>7.07562</average>
+     <bayesaverage>5.97316</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2293" bayesaverage="5.97316" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="296" bayesaverage="6.6757" />
+            
+           </ranks>
+     
+     <stddev>1.42202</stddev>
+     <median>0</median>
+     <owned>1281</owned>
+     <trading>46</trading>
+     <wanting>38</wanting>
+     <wishing>94</wishing>
+     <numcomments>283</numcomments>
+     <numweights>71</numweights>
+     <averageweight>3</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sat, 01 May 2004 03:11:49 +0000</listdate>
+    <saledate>Tue, 18 May 2004 04:55:24 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>Punched but complete.  Email me for a photo.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Oct 2004 01:56:12 +0000</listdate>
+    <saledate>Tue, 11 Jan 2005 01:34:51 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>acceptable</condition>
+    <notes>Box has split corners.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Aug 2005 04:16:27 +0000</listdate>
+    <saledate>Fri, 16 Sep 2005 14:27:36 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>verygood</condition>
+    <notes>Reallly closer to like new condition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 May 2007 19:02:22 +0000</listdate>
+    <saledate>Tue, 15 May 2007 02:00:51 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>The box is split and taped at all four corners. The cover also has moderate wear and a crease along one side. The game is complete and the components are all in fine condition.
+Shipping is $5.00 via 2-9 day USPS Media Mail.  I encourage insurance which would be an additional $1.65
+I_T_E_M_P_T_A_G_#039;ll post pictures soon.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Jul 2007 02:18:16 +0000</listdate>
+    <saledate>Thu, 21 Feb 2008 21:30:30 +0000</saledate>
+    <price currency='USD'>70</price>
+    <condition>good</condition>
+    <notes>Caesar: Epic Battle of Alesia. This is a punched copy with all components inventoried and guaranteed to be complete, including all blank counters. The box shows moderate wear with a couple of neatly repaired corners, otherwise I would have listed this as _T_E_M_P_T_A_G_quot;very good_T_E_M_P_T_A_G_quot;. All interior components are in very good to excellent condition. Also includes color photocopies of unpunched counter sheets for your inventory purposes. See actual photos. S_T_E_M_P_T_A_G_amp;H to U.S. is $10. Please inquire about international shipping rates. Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Aug 2007 00:47:17 +0000</listdate>
+    <saledate>Mon, 10 Sep 2007 03:37:36 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>Box top has two split corners, but everything else is in excellent shape.  Pieces are punched, sorted, complete.
+(3)
+Shipping $11 in the US, by priority international mail to anywhere else in the world. Feel free to email me for a shipping quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Sep 2008 01:28:18 +0000</listdate>
+    <saledate>Sun, 28 Sep 2008 02:15:25 +0000</saledate>
+    <price currency='USD'>19.99</price>
+    <condition>good</condition>
+    <notes>Chits separated and in baggies.  Boards in good shape.  See picture!  If picture not present, email our BGG account and we_T_E_M_P_T_A_G_#039;ll send you one.
+Domestic Shipping: USPS MEDIA MAIL with Delivery Confirmation = $5.99 or USPS PRIORITY MAIL with Delivery Confirmation = $12.99</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Dec 2008 20:04:09 +0000</listdate>
+    <saledate>Tue, 06 Oct 2009 06:09:42 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>Game in excellent condition except for slight damage to the box (all corners unsplit).
+Unplayed.  All pieces and materials present except some of the blank extra counters.
+Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Feb 2009 23:22:37 +0000</listdate>
+    <saledate>Mon, 09 Mar 2009 13:28:33 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Some counters punched, in bags. Otherwise excellent condition, box excellent.
+The paypal id is sue@readitagainbooks.net
+Sue Moon
+Read It Again Books
+PO Box 420
+Oak Grove MO 64075
+816-690-5660
+www.readitagainbooks.net</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 May 2009 13:43:18 +0000</listdate>
+    <saledate>Tue, 10 Aug 2010 18:57:11 +0000</saledate>
+    <price currency='GBP'>47.5</price>
+    <condition>verygood</condition>
+    <notes>CONDITION: Like New, contents near mint, unused and complete, with unpunched counters. The box is near perfect also. I_T_E_M_P_T_A_G_#039;m listing it as Very Good only because the rulebook has slight handling wear and a small mark on the back cover.  
+POSTAGE COST:
+UK postage:  £5.50
+European Postage: £12.00
+Rest of World Postage: £23.00
+Any buyers in and around London are welcome to collect in person (cash on collection).
+COMBINED SHIPPING:
+I will always combine multiple items to reduce your shipping costs where possible.  Please note that it is NOT always cheaper to combine shipping on games outside the UK due to the weight limit of 2KG on the Small Packet service. As a rough approximation, outside the UK it is usually cheaper to combine 5 or more games, while 4 or less are best sent individually.  This depends entirely on the specific games - please contact me before buying if you wish to purchase multiple games so that I can give you an accurate shipping cost.
+ABOUT ME:
+I have been playing and collecting games for over 25 years and I also sell games and magazines on ebay with the same username (saabdastard) where I have a 100% positive rating and a feedback score of over 4000. I am a verified PAYPAL Premier account holder (since 2004), with over 650 PayPal Verified Buyers.
+SELLERS TERMS AND CONDITIONS:
+PAYMENT TERMS: 
+Please wait until you receive my invoice before sending payment. 
+Payment is due within 5 days of the date you receive my invoice. 
+Please do not purchase if you do not intend to pay, or cannot pay within this time frame.
+PAYMENT METHODS: 
+UK buyers may use PayPal, cheque or cash-on-collection.
+Overseas buyers MUST USE PAYPAL only.
+SHIPPING:
+Buyer is responsible for all shipping costs. Europe and Rest of World rates shown above are for Airmail. Surface Mail rate to Rest of World is available if you wish (same as Europe Air rate), but Surface Mail to Rest of World can take up to 2 months!  There is no real difference between Air and Surface rates for Europe.
+INSURANCE:
+Insurance is optional on all items, unless noted. Failure to take out optional insurance limits my liability for loss or damage in the mail to the amount automatically covered by Royal Mail (currently £39 per package for Small Packets, £150 for International Standard).
+CUSTOMS:
+Buyers outside the EU are responsible for all Customs charges applicable to their country.
+RETURNS:
+New Unopened items may be returned for a refund of the purchase price of the item, excluding shipping charges, within 7 days of the delivery date. All returned items must be in the original packaging and in the condition that they were shipped to you.
+Defective or damaged items can be returned for an exchange or refund within 7 days of the delivery date. All returns require authorization from me BEFORE returning the item.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 May 2009 15:56:20 +0000</listdate>
+    <saledate>Sat, 31 Oct 2009 04:21:56 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Partially punched. One box corner split. Otherwise in great shape. Please check out my other games for sale!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Oct 2009 16:14:56 +0000</listdate>
+    <saledate>Fri, 20 Nov 2009 23:12:17 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2009 16:50:13 +0000</listdate>
+    <saledate>Sun, 03 Jan 2010 23:56:41 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Game is complete.  Components are in very good condition.  Box has some minor shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Dec 2009 21:23:30 +0000</listdate>
+    <saledate>Mon, 25 Jan 2010 19:34:22 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>acceptable</condition>
+    <notes>The counters are punched and nicely clipped. Nearly complete; missing only one non-blank counter (Gallic cavalry #18) and the six-sided die. The box lid has three taped corners and small amounts of wear. The rules are in good condition, and one of the charts has a couple small stains. The mounted boards are in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Dec 2009 18:47:04 +0000</listdate>
+    <saledate>Fri, 13 Sep 2013 20:30:49 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>verygood</condition>
+    <notes>Punched,gamebox minor damage
+Game parts mint condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Jan 2010 14:31:34 +0000</listdate>
+    <saledate>Thu, 04 Mar 2010 23:57:16 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Avalon Hill_T_E_M_P_T_A_G_#039;s 
+Caesar 
+Epic battle of Alesia
+  Unpunched Replacement Counters 
+BOTH Roman and Gaul
+color counter sheets! 
+Has your game been on the shelf because some tribes or legions have been lost? 
+Well now you can replace those lost units with a new set 
+of complete and un-punched counter sheets.
+These full color reproduction counter sheets
+are mounted and die cut!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Mar 2010 13:16:54 +0000</listdate>
+    <saledate>Tue, 08 Mar 2011 06:39:40 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Avalon Hill_T_E_M_P_T_A_G_#039;s 
+Caesar 
+Epic battle of Alesia
+Unpunched Replacement Counters 
+BOTH Roman and Gaul
+color counter sheets! 
+Has your game been on the shelf because some tribes or legions have been lost? 
+Well now you can replace those lost units with a new set 
+of complete and un-punched counter sheets.
+These full color reproduction counter sheets
+are mounted and die cut!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Sep 2010 16:38:50 +0000</listdate>
+    <saledate>Fri, 13 May 2011 09:25:14 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>good</condition>
+    <notes>CONDITION: Good condition overall - the contents are in excellent condition, 100% complete and barely used, with the counters punched, sorted and bagged. The box has some wear and split corners, which is why I am listing it as Good, rather than Very Good.
+POSTAGE COST:
+UK postage: £5.50
+European Postage: £12.00
+Rest of World Postage: £23.00
+Any buyers in and around London are welcome to collect in person (cash on collection).
+COMBINED SHIPPING:
+I will always combine multiple items to reduce your shipping costs where possible. Please note that it is NOT always cheaper to combine shipping on games outside the UK due to the weight limit of 2KG on the Small Packet service. As a rough approximation, outside the UK it is usually cheaper to combine 5 or more games, while 4 or less are best sent individually. This depends entirely on the specific games - please contact me before buying if you wish to purchase multiple games so that I can give you an accurate shipping cost.
+ABOUT ME:
+I have been playing and collecting games for over 25 years and I also sell games and magazines on ebay with the same username (saabdastard) where I have a 100% positive rating and a feedback score of over 4000. I am a verified PAYPAL Premier account holder (since 2004), with over 650 PayPal Verified Buyers.
+SELLERS TERMS AND CONDITIONS:
+PAYMENT TERMS:
+Please wait until you receive my invoice before sending payment.
+Payment is due within 5 days of the date you receive my invoice.
+Please do not purchase if you do not intend to pay, or cannot pay within this time frame.
+PAYMENT METHODS:
+UK buyers may use PayPal, cheque or cash-on-collection.
+Overseas buyers MUST USE PAYPAL only.
+SHIPPING:
+Buyer is responsible for all shipping costs. Europe and Rest of World rates shown above are for Airmail. Surface Mail rate to Rest of World is available if you wish (same as Europe Air rate), but Surface Mail to Rest of World can take up to 2 months! There is no real difference between Air and Surface rates for Europe.
+INSURANCE:
+Insurance is optional on all items, unless noted. Failure to take out optional insurance limits my liability for loss or damage in the mail to the amount automatically covered by Royal Mail (currently £39 per package for Small Packets, £150 for International Standard).
+CUSTOMS:
+Buyers outside the EU are responsible for all Customs charges applicable to their country.
+RETURNS:
+New Unopened items may be returned for a refund of the purchase price of the item, excluding shipping charges, within 7 days of the delivery date. All returned items must be in the original packaging and in the condition that they were shipped to you.
+Defective or damaged items can be returned for an exchange or refund within 7 days of the delivery date. All returns require authorization from me BEFORE returning the item.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Sep 2010 14:23:55 +0000</listdate>
+    <saledate>Sun, 07 Aug 2011 04:43:14 +0000</saledate>
+    <price currency='USD'>59.95</price>
+    <condition>verygood</condition>
+    <notes>Components including game boards, counters, charts, and rulebook are in excellent condition. Top of box has some minor dishing and one split corner. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Nov 2010 03:13:42 +0000</listdate>
+    <saledate>Sat, 13 Nov 2010 10:56:39 +0000</saledate>
+    <price currency='AUD'>30</price>
+    <condition>good</condition>
+    <notes>Obviously some box scuffing, but all complete and in good nick.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Nov 2010 03:45:38 +0000</listdate>
+    <saledate>Thu, 23 Dec 2010 03:19:28 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>verygood</condition>
+    <notes>· CAESAR: Epic Battle Of Alesia  (Avalon Hill, 1976)  The game is in EXCELLENT condition, the box shows some shelf wear.  The counters are PUNCHED and the game is verified COMPLETE.
+Buyer pays for shipping.  Cashiers Check and Money Orders accepted, PAY PAL preferred.  Payment is expected to arrive and clear before games will ship.  Shipping charges are those quoted by the USPS for shipping the item(s) (http://www.usps.com/prices/priority-mail-prices.htm).  Please note that the game(s) will ship the Saturday following payment clearing (sorry but I work days and evenings and usually can not get to the Post Office before then).  Additional pictures furnished upon request.
+Best wishes,
+Jon
+ZIP CODE: 07801
+greatdiscoverer@yahoo.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Jan 2011 03:00:51 +0000</listdate>
+    <saledate>Sat, 08 Jan 2011 11:25:41 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>In 51 B.C., Vercingetorix led 80,000 starving Gauls from the besieged city of Alesia and threw them against the surrounding Roman fortifications in concert with attacks from without by a relieving force a quarter of a million strong. What followed sealed the fate of Gaul. Can you succeed where he failed?
+Julius Caesar with ten tested legions maintained an investment of a force larger than his own while fending off a relieving force 250,000 strong. Outnumbered 6-1, defending a tactical _T_E_M_P_T_A_G_quot;doughnut_T_E_M_P_T_A_G_quot; against a simultaneously expanding center and contracting perimeter, Caesar accomplished a feat which astounds historians to this day.
+Caesar recreates on a large 28_T_E_M_P_T_A_G_quot; x 33_T_E_M_P_T_A_G_quot;, full colour mapboard the epic battle of Alesia, unique in antiquity and all of recorded warfare, in highly playable classic form in a game as exciting as the battle itself.
+Complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Jan 2011 05:59:31 +0000</listdate>
+    <saledate>Sun, 16 Jan 2011 21:51:06 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>verygood</condition>
+    <notes>This is an unpunched copy. In addition there is a bag of counters from another copy I used to have which has long since gone, essentially 2 sets of counters. The bagged set is missing one piece which has been replaced with a home-made counter. The game is in excellent condition, the box has some shelf wear but is in excellent condition for age, no split corners etc...
+The game is 100% complete.
+Will post Worldwide and accept Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jan 2011 18:34:38 +0000</listdate>
+    <saledate>Wed, 20 Apr 2011 00:16:55 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>verygood</condition>
+    <notes>Game contents are complete, unpunched and in excellent condition.  Game box is damaged (bottom right, box edge, a flap about 4 inches long has separated from the box edge).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jun 2011 17:20:49 +0000</listdate>
+    <saledate>Tue, 21 Jun 2011 12:39:15 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This item is for user toyempire only - from the BoardGamers of Michiana Garage Sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jun 2011 23:56:42 +0000</listdate>
+    <saledate>Tue, 19 Jul 2011 22:34:13 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>The box shows shelf wear especially at the edges and corners. The lid has three split corners. The inside of the lid has one spot of water damage. The contents are in excellent condition though. All counters are accounted for. The die had gone missing. I replaced it with a six sided die. The game is complete.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jul 2011 05:54:25 +0000</listdate>
+    <saledate>Sat, 24 Mar 2012 10:52:36 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>New unpunched game in original shrink wrap.
+Shipping_T_E_M_P_T_A_G_amp;Handling - Priority Mail excl. Insurance: 
+Switzerland: CHF 10.-- 
+Europe: USD 37.--
+Others: USD 52.--
+We will always combine multiple items to reduce your shipping costs where possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Aug 2011 01:07:46 +0000</listdate>
+    <saledate>Tue, 04 Oct 2011 14:49:37 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>good</condition>
+    <notes>Box is split at corners, it_T_E_M_P_T_A_G_#039;s been played probably 5 or 10 times. It_T_E_M_P_T_A_G_#039;s not in bad shape though.
+BUT...
+it does come with what I think is a huge bonus - the edition of The General Magazine that covers the game with insight, strategy, tactics, etc. That is the first thing I always want when I get a game - articles about it.
+Will calc shipping based on your shipping method preference</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Oct 2011 19:18:39 +0000</listdate>
+    <saledate>Fri, 08 Feb 2013 04:42:09 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>In shrink wrap, will charge actual shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Oct 2011 19:02:33 +0000</listdate>
+    <saledate>Fri, 11 Nov 2011 19:42:40 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>Unpunched.  Game is in new condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Apr 2012 15:12:12 +0000</listdate>
+    <saledate>Fri, 22 Feb 2013 21:29:25 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>acceptable</condition>
+    <notes>Punched, bagged and sorted but with issues:
+Rulebook is a photocopy
+Counters are verified as complete but there are four substitute counters: 2 Barbarian, 1 Roman, 1 Fort.
+There are more fort counters than you likely need so no playability issue there. Substitute unit counters are scanned and Photoshopped so look just like the originals.
+The map is in mint condition except panel 3 (of three) has encountered some water on one edge. It_T_E_M_P_T_A_G_#039;s about two inches in. Fully legible and undamaged but paper a little wrinkly.
+Basically a fine playable copy but not for the collector or purist. Also good if you want parts. The substitute unit counters are:
+Roman XV-2
+Barbarian Pictones (7-6) unit 3
+Barbarian Andi (5-6) unit 2
+and a generic Fort counter
+Still, more fun than clunky GMT version.
+Priority mail to any U.S. address is $9</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Apr 2012 12:52:45 +0000</listdate>
+    <saledate>Mon, 04 Mar 2013 18:28:45 +0000</saledate>
+    <price currency='GBP'>37.5</price>
+    <condition>good</condition>
+    <notes>CONDITION: Good condition overall - the contents are in excellent, near mint condition, 100% complete and barely used, with the counters punched, trimmed, sorted and bagged. The box has some wear and split corners, which is why I am listing it as Good, rather than Very Good.
+POSTAGE COST:
+UK postage: £6.50
+European Postage: £13.50
+Rest of World Postage: £25.50
+Any buyers in and around London are welcome to collect in person (cash on collection).
+COMBINED SHIPPING:
+I will always combine multiple items to reduce your shipping costs where possible. Please note that it is NOT always cheaper to combine shipping on games outside the UK due to the weight limit of 2KG on the Small Packet service. As a rough approximation, outside the UK it is usually cheaper to combine 5 or more games, while 4 or less are best sent individually. This depends entirely on the specific games - please contact me before buying if you wish to purchase multiple games so that I can give you an accurate shipping cost.
+ABOUT ME:
+I have been playing and collecting games for over 25 years and I also sell games and magazines on ebay with the same username (saabdastard) where I have a 100% positive rating and a feedback score of over 4000. I am a verified PAYPAL Premier account holder (since 2004), with over 650 PayPal Verified Buyers.
+SELLERS TERMS AND CONDITIONS:
+PAYMENT TERMS:
+Please wait until you receive my invoice before sending payment.
+Payment is due within 5 days of the date you receive my invoice.
+Please do not purchase if you do not intend to pay, or cannot pay within this time frame.
+PAYMENT METHODS:
+UK buyers may use PayPal, cheque or cash-on-collection.
+Overseas buyers MUST USE PAYPAL only.
+SHIPPING:
+Buyer is responsible for all shipping costs. Europe and Rest of World rates shown above are for Airmail. Surface Mail rate to Rest of World is available if you wish (same as Europe Air rate), but Surface Mail to Rest of World can take up to 2 months! There is no real difference between Air and Surface rates for Europe.
+INSURANCE:
+Insurance is optional on all items, unless noted. Failure to take out optional insurance limits my liability for loss or damage in the mail to the amount automatically covered by Royal Mail (currently £39 per package for Small Packets, £150 for International Standard).
+CUSTOMS:
+Buyers outside the EU are responsible for all Customs charges applicable to their country.
+RETURNS:
+New Unopened items may be returned for a refund of the purchase price of the item, excluding shipping charges, within 7 days of the delivery date. All returned items must be in the original packaging and in the condition that they were shipped to you.
+Defective or damaged items can be returned for an exchange or refund within 7 days of the delivery date. All returns require authorization from me BEFORE returning the item.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 May 2012 15:51:51 +0000</listdate>
+    <saledate>Sat, 01 Sep 2012 07:53:31 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>New unpunched game in original shrink wrap.
+(AH 1976)
+Shipping_T_E_M_P_T_A_G_amp;Handling - Priority Mail excl. Insurance: 
+Switzerland: CHF 10.-- 
+Europe: USD 37.--
+Others: USD 52.--
+We will always combine multiple items to reduce your shipping costs where possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jul 2012 21:29:43 +0000</listdate>
+    <saledate>Wed, 13 Mar 2013 02:49:58 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Brand new, unpunched, box in great condition.  Sat in a closet for decades.  </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Aug 2012 20:11:21 +0000</listdate>
+    <saledate>Wed, 29 Aug 2012 11:32:10 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Punched and complete.  Clean copy.  Two corners of the box split and have been repaired with clear tape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Aug 2012 23:43:54 +0000</listdate>
+    <saledate>Sun, 30 Sep 2012 03:50:52 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Contents in great shape. Box is slightly dented.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Sep 2012 08:29:19 +0000</listdate>
+    <saledate>Mon, 22 Oct 2012 14:43:14 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>New unpunched game in original shrink wrap.
+(AH 1976)
+Shipping_T_E_M_P_T_A_G_amp;Handling - Priority Mail incl. Insurance: 
+Switzerland: CHF 10.-- 
+Europe: USD 41.--
+Others: USD 52.--
+We will always combine multiple items to reduce your shipping costs where possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Oct 2012 09:32:35 +0000</listdate>
+    <saledate>Sun, 25 Nov 2012 16:54:35 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>acceptable</condition>
+    <notes>A few small 1cm marks on boards. Counters show some ageing.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Jan 2013 16:10:22 +0000</listdate>
+    <saledate>Wed, 23 Jan 2013 01:36:10 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>This item is reserved for user cmhladik from a geeklist auction. The purchase price includes this game for $25 and Caesar_T_E_M_P_T_A_G_#039;s Legions for $20. Both games will be included in this sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Mar 2013 14:00:02 +0000</listdate>
+    <saledate>Sat, 30 Mar 2013 06:05:03 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>acceptable</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 May 2013 18:15:26 +0000</listdate>
+    <saledate>Sat, 11 May 2013 07:45:10 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>good</condition>
+    <notes>All counters verified. Counters punched and in counter trays.
+Rules and charts in good condition.
+Game has been played many times.
+I do come to the UK every couple of months and can post this game from there. For UK buyers this would obviously be cheaper.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 May 2013 07:57:46 +0000</listdate>
+    <saledate>Sun, 30 Jun 2013 14:27:56 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>likenew</condition>
+    <notes>New unpunched game (AH 1976)
+Shipping_T_E_M_P_T_A_G_amp;Handling - Priority Mail incl. Insurance: 
+Switzerland: CHF 10.-- 
+Europe: USD 35.--
+Others: USD 48.--
+We will always combine multiple items to reduce your shipping costs where possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jul 2013 13:57:42 +0000</listdate>
+    <saledate>Sat, 24 Aug 2013 22:16:04 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>verygood</condition>
+    <notes>punched, verified complete. very good game components and a better than average box</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Aug 2013 18:36:07 +0000</listdate>
+    <saledate>Thu, 19 Sep 2013 14:18:25 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Seen some playing . . . but everything_T_E_M_P_T_A_G_#039;s there. No Gaul stones here.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Sep 2013 14:17:27 +0000</listdate>
+    <saledate>Tue, 10 Sep 2013 16:26:01 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>acceptable</condition>
+    <notes>I found two copies of this game at a local book sale. I have no reason to believe that they are not complete, but there is no counter manifest and I_T_E_M_P_T_A_G_#039;m not going to put in the work to track one down and count all of the counters. This sale is for BOTH copies, sold _T_E_M_P_T_A_G_quot;as-is_T_E_M_P_T_A_G_quot;. The boxes show normal aging and shelf wear for games this old. The map boards and counters all appear to be in good condition. Punched, but not clipped counters.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Sep 2013 22:35:36 +0000</listdate>
+    <saledate>Sat, 14 Dec 2013 19:05:58 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Punched. All boards and components complete and in very good  condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Aug 2014 19:46:28 +0000</listdate>
+    <saledate>Sun, 14 Sep 2014 03:29:48 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Unpunched.  rules underlined/highlighted.  Minor shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Mar 2013 18:58:39 +0000</listdate>
+    <saledate>Tue, 02 Dec 2014 23:23:13 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Game is 100% complete.  2 of the 3 game boards had some water damage so that the middle 2 rows of hexes on the 2 boards are partially torn and difficult to read.  The game is still playable however.  The counters were stored seprately in plastic are are unaffected and in excellent condition.  Of Board Movement Chart, and combat table are in like new condition.  The rule book is in good condition.  The box has shelf wear, 4 corner splits, and water stains.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jun 2014 17:57:05 +0000</listdate>
+    <saledate>Sun, 08 Feb 2015 13:55:59 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>unpunched, never played. Box has some scuffing and split corners.
+Inside the game looks like new. Minty fresh.
+Also comes with the AH General mag for the game and another game article.
+SHIPPING comes with tracking. Shipping is $18</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Feb 2015 21:24:14 +0000</listdate>
+    <saledate>Sat, 21 Feb 2015 22:04:10 +0000</saledate>
+    <price currency='USD'>39.94</price>
+    <condition>verygood</condition>
+    <notes>Punched not clipped.  Counters punched but still in strips so I doubt that it has been played.  Contents verified complete and in excellent condition.  Box is square and straight.  The lid has one split corner the box bottom does not.  A goodly amount of edge wear and corner rubbing but otherwise not bad.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.  Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Apr 2015 15:28:35 +0000</listdate>
+    <saledate>Thu, 18 Jun 2015 10:58:28 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>acceptable</condition>
+    <notes>Very good game in a damaged box.
+1976 Avalon Hill. Box lid has split corner, edge wear 
+Unpunched (448 on 2 folded sheets).
+Rules unmarked; off-Board Movement chart; 1 chart with CRT and other tables; D6.  
+Maps VG.
+US shipping depends on zip code. Ships from 20912.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Jun 2015 20:12:16 +0000</listdate>
+    <saledate>Sun, 26 Jul 2015 23:24:37 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>verygood</condition>
+    <notes>Scatola con 2 angoli aperti. Per il resto come nuovo (unpunched). Comprende anche alcuni articoli tratti dalla rivisita The General
+The upper box has 2 opened corners; all the components are like new and unpunched. It comes with some prints from General magazine about the game.
+ INTERNATIONAL BUYERS - The shipment charges are based on shipping a parcel  by International Guaranted Mail with tracking number. The costs depend both on the zone you live AND the weight of the parcel. I am considering 3 different ranges of weight (from 250 to 350 grammes/ from 350 grammes to 1 kilo/ from 1 kilo to 2 kilos). Most of the games are in the 350 - 1 kilo range. In the case the parcel would weight more than 2 kilos (as in a case of a combined shipment) I ll have to ship it by another mean (i.e. QPE or EMS) and have to recalculate the costs. Anyway for any doubt or questions, please, feel free to ask in advance. I am also glad to upload more pictures if needed.
+Europe and some African countries : 10,60/ 14,40  / 21,10 euro.
+US, Canada, other countries of America and Africa: 13,90/ 20,00 / 29,90 euro.
+Oceania : 17,80/ 26,70 / 37,80 euro.
+In the case of a miscalculation in your favor I ll refund any eventual surplus charge.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Sep 2015 01:08:07 +0000</listdate>
+    <saledate>Tue, 20 Oct 2015 04:00:14 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Ships out of AZ at 2 lbs.
+Contents are really nice, item appears to have have very little play.  Chits are accounted for. Boards are super nice. Box has 2 split corners,  super common on these.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Aug 2015 15:18:57 +0000</listdate>
+    <saledate>Tue, 20 Oct 2015 16:50:56 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>acceptable</condition>
+    <notes>Contents mostly unpunched and complete. Outer box has wear and a split corner.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Nov 2015 22:24:29 +0000</listdate>
+    <saledate>Tue, 10 Nov 2015 00:34:09 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197039/item/4172068#4172068]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Thanks!  See you at the con.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Dec 2015 16:23:42 +0000</listdate>
+    <saledate>Sat, 02 Jan 2016 13:29:14 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Pieces have been punched but game was never played.  Shipping $12.65 USPS</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jan 2016 01:50:53 +0000</listdate>
+    <saledate>Mon, 15 Feb 2016 00:35:25 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>The components are in excellent shape and show only light use. Tha mapboards are undamaged. The box shows some wear and is torn in one corner, with some tape used to patch, but is otherwise in good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Feb 2016 12:55:53 +0000</listdate>
+    <saledate>Tue, 22 Mar 2016 15:39:13 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Nov 2015 23:12:11 +0000</listdate>
+    <saledate>Sat, 23 Apr 2016 19:21:56 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Box and contents in good shape. All pieces are present.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jul 2016 01:39:42 +0000</listdate>
+    <saledate>Wed, 20 Jul 2016 19:34:38 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Jul 2016 08:41:48 +0000</listdate>
+    <saledate>Sun, 24 Jul 2016 09:21:42 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes>still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2016 02:18:14 +0000</listdate>
+    <saledate>Fri, 14 Oct 2016 21:45:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>All games are complete to the best of my knowledge, if I have any doubt I sell it as pieces.
+I am a non-smoker.  The games have been stored in a dry basement in bookshelves. 
+I wrap all the games I sell in plastic to prevent damaged. The game come with trays in them, if they came with them or I if added them.
+I also use a professional mailing company. They do a good job in packing and insurance. Never had a problem with them.
+PayPal is game1953@att.net</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 May 2016 12:18:36 +0000</listdate>
+    <saledate>Wed, 04 Jan 2017 01:06:21 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Box shows some wear, contents near mint.  Shipping via $18.00 via USPS due to over sized box.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Nov 2016 00:56:51 +0000</listdate>
+    <saledate>Sat, 11 Feb 2017 16:21:06 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>likenew</condition>
+    <notes>punshed</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jan 2017 11:47:10 +0000</listdate>
+    <saledate>Sun, 05 Mar 2017 23:43:04 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 May 2013 20:26:14 +0000</listdate>
+    <saledate>Mon, 13 Mar 2017 04:28:39 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 May 2017 13:41:51 +0000</listdate>
+    <saledate>Sat, 06 May 2017 16:40:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/224839/item/5360475#5360475]Item for Geeklist _T_E_M_P_T_A_G_quot;Wargame Auction - B17, Ambush + More - Ends 5/7_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Apr 2017 23:03:58 +0000</listdate>
+    <saledate>Tue, 16 May 2017 03:31:15 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>My late husband collected board games.  Didn’t always play all of them, but he loved to collect. Time to find new homes for the games.  He took excellent care of his games, and if they were played, no food or drinks were allowed near  the game playing area.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Apr 2017 21:57:39 +0000</listdate>
+    <saledate>Mon, 29 May 2017 19:00:37 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Shipping is additional</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Dec 2014 03:52:23 +0000</listdate>
+    <saledate>Mon, 17 Jul 2017 00:16:14 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Game is 100% complete (counters counted) and in like new condition.  Off Board Movement Chart, rule book and combat table are in like new condition.  The box has very light shelf wear and 2 corner splits.  Overall, you will not find many copies of this 39 year old game in better condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Sep 2017 20:19:07 +0000</listdate>
+    <saledate>Sun, 03 Dec 2017 23:23:59 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>acceptable</condition>
+    <notes>Box in poor shape  blown corners, tape marks and tears but cover picture is fine. There is 1 counter missing. Rest of game is in great shape. Missing counter should not effect game play at all. This is an excellent playing copy.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Dec 2017 16:32:21 +0000</listdate>
+    <saledate>Sun, 07 Jan 2018 19:19:22 +0000</saledate>
+    <price currency='USD'>59.99</price>
+    <condition>likenew</condition>
+    <notes>re-shrinked, complete, excellent.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Nov 2017 13:41:38 +0000</listdate>
+    <saledate>Mon, 22 Jan 2018 13:24:13 +0000</saledate>
+    <price currency='GBP'>29.95</price>
+    <condition>good</condition>
+    <notes>Loved this game many years ago. Time for someone else to get some fun from it.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Oct 2017 10:53:21 +0000</listdate>
+    <saledate>Thu, 12 Apr 2018 14:25:07 +0000</saledate>
+    <price currency='GBP'>39.95</price>
+    <condition>verygood</condition>
+    <notes>Slight damage to box, contents in very good punched condition</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Apr 2018 23:17:50 +0000</listdate>
+    <saledate>Sat, 05 May 2018 21:23:00 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Never played. Mint. Counters have not been punched. Mounted map looks brand new. Extras include _T_E_M_P_T_A_G_quot;Moves_T_E_M_P_T_A_G_quot; magazine article and four articles from _T_E_M_P_T_A_G_quot;The General_T_E_M_P_T_A_G_quot;. Wonderful condition for a game this old. Bought new way back when and kept, unplayed all these years. Time to sell, unfortunately.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 May 2018 17:16:02 +0000</listdate>
+    <saledate>Fri, 01 Jun 2018 12:51:05 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 May 2018 19:25:24 +0000</listdate>
+    <saledate>Fri, 01 Jun 2018 17:27:09 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>Contents are in very good condition except rule booklet shows wear along spine. Game was missing 2 counters; 1 of 20 white counters with the word “Disrupt” on them and 1 of 15 pink counters with a horse head and 2-15 printed on it representing the First Squadron of Caesars mercenary Germanic Cavalry. I made replacement counters by copying existing counters of the same type. See pictures. Counters have been verified by reference to pictures of unpunched panels on BGG.  The box top has one split corner and tape remnants on all four sides (See picture). The box bottom is intact with slight rough spots where tape was removed.
+I will ship USPS Priority Mail with cost based on destination, weight and box dimensions. For this game box is 15.5 x 12.5 x 3.25 inches. Weight is 3 lbs, 6 oz. You can calculate shipping charges on USPS website (www.usps.com) based on your Zip Code and my Zip Code, 95829. I will confirm shipping charges when I know destination. Local pickup is also acceptable.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Oct 2017 20:55:11 +0000</listdate>
+    <saledate>Wed, 20 Jun 2018 20:49:59 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Unpunched, Updated replacement counters (unpunched) are included,  Essentials CD included
+PayPal or US Postal Money Order
+Other methods of payment may be accepted but contact me before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Jan 2015 20:25:38 +0000</listdate>
+    <saledate>Mon, 02 Jul 2018 00:46:22 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Caesar at Alesia (Avalon Hill First Edition) (1976)
+Counters Punched _T_E_M_P_T_A_G_amp; Magnetized.   Two  Maps:  one Mounted _T_E_M_P_T_A_G_amp; one Laminated Map  
+Box: Very Good ( would have been excellent except for two split corners)
+35 Year Old game. Rare.    4 lbs of game components
+Nice addition to Game Collection
+.
+Location04  to S- 2 #2</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Aug 2018 02:04:17 +0000</listdate>
+    <saledate>Sun, 05 Aug 2018 03:58:41 +0000</saledate>
+    <price currency='CAD'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Aug 2018 05:58:11 +0000</listdate>
+    <saledate>Wed, 08 Aug 2018 23:25:10 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>This game is being sold as part of the _T_E_M_P_T_A_G_quot;A Wargamer_T_E_M_P_T_A_G_#039;s Dream Auction...many unpunched and a few in shrink._T_E_M_P_T_A_G_quot; This item was won by cnewson42. 
+Shipping will be an additional cost, based on the size and quantity of games you won, per the auction rules. Due to the high volume of games in the auction, please allow up to two weeks for the game to ship after payment.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Aug 2018 01:20:25 +0000</listdate>
+    <saledate>Fri, 26 Oct 2018 16:54:04 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Nov 2018 19:47:04 +0000</listdate>
+    <saledate>Fri, 09 Nov 2018 19:25:05 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Counters are complete and in very good condition.  The maps, rules and box look very good.  Box has light shelf wear on top and bottom.
+Stored in a dry, pet free, smoke free home.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

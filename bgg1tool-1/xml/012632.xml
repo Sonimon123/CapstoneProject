@@ -1,0 +1,868 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="12632">
+   <yearpublished>2004</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>10</age>
+       <name  sortindex="1">Goldbrau</name>
+       <name primary="true" sortindex="1">Goldbräu</name>
+       <name  sortindex="1">Złote Piwo</name>
+         
+   <description>From the publisher, Rio Grande Games:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Seehausen am See. For many years, more and more people visit this idyllic village during the annual summer fest. In these three weeks, the breweries and beer gardens in the village make more money than during the rest of the year. So, you and your opponents become hardened businessmen, who rush to Seehausen am See to invest in the businesses there with an eye toward the large profits that come during the festival. During these three weeks each will invest in the businesses and try to get his people in management positions in the breweries and beer gardens where he owns stock. The players also work to increase the size of their favorite beer gardens so that they can earn more money. In the end, it is not the size of the beer gardens or who is in charge, but the amount of money in the players_T_E_M_P_T_A_G_amp;rsquo; pockets..._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/QvYlqo485rnnIJ3jx4EGeYZkgsg=/fit-in/200x150/pic54572.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/ncFCyIrdtsr2gJHBGDl01T2yXpQ=/0x0/pic54572.jpg</image>
+      
+            <boardgamefamily objectid="22783">Admin: Better Description Needed!</boardgamefamily>
+               <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+               <boardgamefamily objectid="26397">Beer</boardgamefamily>
+               <boardgamedesigner objectid="57">Franz-Benno Delonge</boardgamedesigner>
+                                    <boardgamecategory objectid="1021">Economic</boardgamecategory>
+               <boardgameversion objectid="23822">English edition</boardgameversion>
+                             <boardgameversion objectid="24878">German edition</boardgameversion>
+                                                                                                                        <boardgamepublisher objectid="3117">Hanser</boardgamepublisher>
+                                    <boardgamepublisher objectid="3">Rio Grande Games</boardgamepublisher>
+                                           <boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+               <boardgamemechanic objectid="2005">Stock Holding</boardgamemechanic>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgameartist objectid="11883">Franz Vohwinkel</boardgameartist>
+                      <boardgamepublisher objectid="87">Zoch Spiele</boardgamepublisher>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="25">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="12" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="10" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="11" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="20" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="12" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="11">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="11" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="3" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1235</usersrated>
+     <average>6.41247</average>
+     <bayesaverage>5.95839</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2359" bayesaverage="5.95839" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1054" bayesaverage="6.0451" />
+            
+           </ranks>
+     
+     <stddev>1.30204</stddev>
+     <median>0</median>
+     <owned>1701</owned>
+     <trading>141</trading>
+     <wanting>36</wanting>
+     <wishing>116</wishing>
+     <numcomments>525</numcomments>
+     <numweights>135</numweights>
+     <averageweight>2.5185</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sun, 10 Oct 2004 13:10:12 +0000</listdate>
+    <saledate>Thu, 11 Nov 2004 20:15:43 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>*** PRIORITY MAIL INCLUDED ***  This is the just-released Rio Grande version. Played once, condition excellent. PayPal preferred to asf@hgwt.com.  Shipping via 2-3 day Priority Mail included (within continental US).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Oct 2004 16:36:48 +0000</listdate>
+    <saledate>Thu, 21 Oct 2004 06:35:59 +0000</saledate>
+    <price currency='USD'>18.99</price>
+    <condition>likenew</condition>
+    <notes>English language edition by Rio Grande.
+Shipping is 8.00$ within U.S., insurance 1.30$ opotional.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Apr 2005 15:38:21 +0000</listdate>
+    <saledate>Wed, 09 Nov 2005 02:43:23 +0000</saledate>
+    <price currency='USD'>17.6</price>
+    <condition>likenew</condition>
+    <notes>Played twice</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 May 2005 00:28:35 +0000</listdate>
+    <saledate>Tue, 10 May 2005 04:01:13 +0000</saledate>
+    <price currency='USD'>18.5</price>
+    <condition>verygood</condition>
+    <notes>In very good condition, only played twice. I can ship multiple games in a single box to save shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jun 2005 19:21:41 +0000</listdate>
+    <saledate>Sun, 26 Jun 2005 23:18:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Opened and played but in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Feb 2006 00:25:56 +0000</listdate>
+    <saledate>Sun, 19 Feb 2006 13:07:43 +0000</saledate>
+    <price currency='AUD'>35</price>
+    <condition>verygood</condition>
+    <notes>Rio Grande English version.
+Direct bank transfer is the best way to pay.
+See my other games for sale and combine an order to save on shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 May 2006 14:23:16 +0000</listdate>
+    <saledate>Mon, 17 Jul 2006 02:44:13 +0000</saledate>
+    <price currency='USD'>24.5</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Rio Grande Games (RIO 247)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Aug 2007 15:34:57 +0000</listdate>
+    <saledate>Tue, 26 May 2009 19:40:36 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Sep 2007 21:17:02 +0000</listdate>
+    <saledate>Tue, 29 Jul 2008 06:17:32 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>new</condition>
+    <notes>Brand new, shrink wrapped, from a smoke-free environment.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Nov 2007 05:03:48 +0000</listdate>
+    <saledate>Mon, 28 Jan 2008 21:01:16 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>opened, played a couple times</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Apr 2008 21:04:18 +0000</listdate>
+    <saledate>Mon, 28 Jul 2008 11:39:01 +0000</saledate>
+    <price currency='USD'>15.95</price>
+    <condition>new</condition>
+    <notes>Opened, but never played.  All parts are accounted for.
+SHIPPING:  Buyer will pay actual shipping.  No hidden fees.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 May 2008 22:48:07 +0000</listdate>
+    <saledate>Thu, 21 Aug 2008 19:39:05 +0000</saledate>
+    <price currency='GBP'>8</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Mar 2009 17:24:08 +0000</listdate>
+    <saledate>Mon, 06 Apr 2009 20:55:14 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Perfect condition. English Rio Grande version.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Sep 2009 00:24:50 +0000</listdate>
+    <saledate>Wed, 30 Sep 2009 01:58:11 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>This is a reserved listing for kdean1 to complete a geeklist auction. Please do not purchase if you are not kdean1.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Nov 2009 19:39:50 +0000</listdate>
+    <saledate>Sun, 31 Jan 2010 02:30:29 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Dec 2009 06:34:17 +0000</listdate>
+    <saledate>Fri, 08 Jan 2010 06:15:13 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Complete and in great shape. Payment via non-credit/debit card PayPal, or USPS money order. Shipping is $10. Combine shipping on multiple games.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Dec 2009 15:54:25 +0000</listdate>
+    <saledate>Mon, 29 Mar 2010 01:46:48 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>New in shrink. 
+Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Dec 2009 16:28:21 +0000</listdate>
+    <saledate>Sun, 07 Feb 2010 03:57:58 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>new</condition>
+    <notes>oringinal german Zoch/Hanser edition
+new and shrinkwrapped in perfect condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Feb 2010 23:55:06 +0000</listdate>
+    <saledate>Sun, 14 Feb 2010 03:14:06 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>This is a geeklist auction buy it now for LokaiNY. Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 May 2010 02:29:14 +0000</listdate>
+    <saledate>Sun, 06 Jun 2010 18:52:16 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played.  Buyer pays $7.00 shipping.  I can try to consolidate shipping costs if you buy multiple items from for sale list.  Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Jul 2010 18:46:52 +0000</listdate>
+    <saledate>Sun, 25 Jul 2010 06:03:56 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>For user dragondrive</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Apr 2011 14:13:16 +0000</listdate>
+    <saledate>Mon, 04 Apr 2011 04:39:24 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 May 2011 19:31:19 +0000</listdate>
+    <saledate>Fri, 25 Apr 2014 21:23:12 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>new</condition>
+    <notes>Excellent Sealed Condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 May 2011 15:46:29 +0000</listdate>
+    <saledate>Sat, 28 May 2011 17:12:48 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>for Lordunborn - spring cleaning sale</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Jun 2011 00:33:33 +0000</listdate>
+    <saledate>Fri, 24 Jun 2011 01:58:37 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink
+Reserved for auction winner: Fizbin44</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Jun 2011 17:34:32 +0000</listdate>
+    <saledate>Mon, 27 Jun 2011 18:55:21 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>For divaqd</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jul 2011 16:32:59 +0000</listdate>
+    <saledate>Mon, 12 Sep 2011 19:49:56 +0000</saledate>
+    <price currency='EUR'>11</price>
+    <condition>verygood</condition>
+    <notes>German edition.
+Contents complete _T_E_M_P_T_A_G_amp; in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Jul 2011 20:41:09 +0000</listdate>
+    <saledate>Sat, 30 Jul 2011 19:19:26 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Reserved for jmellby from the _T_E_M_P_T_A_G_quot;Save the Feline_T_E_M_P_T_A_G_quot; auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Sep 2011 14:16:30 +0000</listdate>
+    <saledate>Mon, 30 Apr 2012 14:23:24 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>likenew</condition>
+    <notes>German edition.
+Shrink wrap removed, but has never been played (components new _T_E_M_P_T_A_G_amp; unpunched).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Nov 2011 01:00:28 +0000</listdate>
+    <saledate>Sat, 10 Aug 2013 06:23:34 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Played once or twice.  All components are present and in great shape.  Non-smoking home.  Check out what else I_T_E_M_P_T_A_G_#039;ve got for sale and combine shipping!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Nov 2011 17:03:06 +0000</listdate>
+    <saledate>Tue, 03 Apr 2012 01:22:31 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>Reserved for gholm.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Dec 2011 06:01:37 +0000</listdate>
+    <saledate>Sat, 14 Jan 2012 09:47:01 +0000</saledate>
+    <price currency='EUR'>13.5</price>
+    <condition>new</condition>
+    <notes>Original German Zoch edition. Components are language independent.
+Game is still in shrink.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Feb 2012 16:54:12 +0000</listdate>
+    <saledate>Thu, 31 Jul 2014 17:03:12 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>German
+Shipping Germany 4 Euro
+Shipping EU  9 Euro
+Shipping World  15 Euro
+PayPal plus 1 Euro
+Money transfer via IBAN/BIC preferred
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Mar 2012 17:19:22 +0000</listdate>
+    <saledate>Wed, 07 Mar 2012 02:17:33 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This entry is for pmboos. If you are not this user you cannot purchase this item. The price includes Goldbrau and Hameln.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jul 2012 10:36:00 +0000</listdate>
+    <saledate>Thu, 29 Nov 2012 21:22:42 +0000</saledate>
+    <price currency='GBP'>14</price>
+    <condition>verygood</condition>
+    <notes>Ship UK Only</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Jul 2012 12:17:41 +0000</listdate>
+    <saledate>Mon, 23 Jul 2012 21:55:46 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>verygood</condition>
+    <notes>german Hanser/Zoch edition
+components in near mint condition
+box with minimal wear</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Aug 2012 10:50:00 +0000</listdate>
+    <saledate>Thu, 30 Aug 2012 17:02:17 +0000</saledate>
+    <price currency='EUR'>9</price>
+    <condition>likenew</condition>
+    <notes>German Edition - Deutsche Version</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Aug 2012 01:47:38 +0000</listdate>
+    <saledate>Tue, 04 Sep 2012 02:49:44 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>Played a few times.  Some shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Aug 2012 17:22:42 +0000</listdate>
+    <saledate>Mon, 10 Sep 2012 22:26:18 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>Buyer pays actual shipping charge. No handling fee. I will combine shipping for multiple items. For an estimate use canadapost.ca. Origin postal code is: T2A5Y7.
+Goldbrau is new and unopened, but the plastic on the box has been torn.  The box is also dinged and has a scrape.
+English edition
+Dimensions are 35 x 23 x 8 cm, 1.1 kg
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Oct 2012 06:10:33 +0000</listdate>
+    <saledate>Thu, 11 Oct 2012 16:17:48 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>new</condition>
+    <notes>For: Brian Lenz
+(LaffyTaffy)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Nov 2012 00:58:32 +0000</listdate>
+    <saledate>Fri, 05 Jul 2013 16:15:13 +0000</saledate>
+    <price currency='USD'>12.99</price>
+    <condition>new</condition>
+    <notes>Unopened in shrink wrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jan 2013 16:09:45 +0000</listdate>
+    <saledate>Sun, 27 Jan 2013 19:47:13 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>verygood</condition>
+    <notes>Geeklist Auction item reserved for Marcul01.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Feb 2013 21:08:54 +0000</listdate>
+    <saledate>Fri, 01 Feb 2013 21:14:36 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>RESERVED FOR CHRIS FAWECETT AT $12.00</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Feb 2013 16:56:36 +0000</listdate>
+    <saledate>Sun, 31 Mar 2013 20:21:33 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>Punched, but never played.  Includes laminated reference sheet and colored baggies for player pieces. 
+I_T_E_M_P_T_A_G_#039;m an avid game collector in a smoke-free home and take good care of my games. Unless otherwise noted above, game is complete with little or no shelf wear or damaged components. High-resolution picture available upon request. 
+Domestic US shipping is $12.35 for USPS Priority Mail with tracking (insurance is optional if you want to pay for it). International shipping will be ACTUAL SHIPPING COST PLUS USD$5.00 (sorry, it is a much bigger hassle on my end, plus I need to provide the box). Contact me BEFORE ORDERING if you have any questions about shipping.
+Must pay me via PayPal (I will cover the fees). I have many other games up for sale and in most cases I can combine shipping for some significant savings, but please check with me and provide your zip code for details.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Mar 2013 14:32:47 +0000</listdate>
+    <saledate>Wed, 24 Sep 2014 03:22:24 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>Goldbräu
+German first edition
+Publisher: Zoch Verlag
+weight ~1130gr</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Mar 2013 04:29:35 +0000</listdate>
+    <saledate>Mon, 25 Mar 2013 12:38:58 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>reserved for Jason Miller
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 May 2013 02:08:17 +0000</listdate>
+    <saledate>Thu, 09 May 2013 07:33:19 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>reserved for forgotmypencil</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 May 2013 13:41:40 +0000</listdate>
+    <saledate>Tue, 21 May 2013 17:48:17 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>reserved for Scott Kovatch</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Aug 2013 21:41:23 +0000</listdate>
+    <saledate>Wed, 14 Aug 2013 00:23:50 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>Shrinwkrapped.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Sep 2013 14:53:37 +0000</listdate>
+    <saledate>Sat, 14 Sep 2013 09:46:42 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>new</condition>
+    <notes>Condition: new
+Postage
+Germany: Euro 5.00
+EU: Euro 10.00
+Rest of the world: Euro 15.00
+Payment: Paypal, bank transfer, local pickup</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Oct 2013 03:36:21 +0000</listdate>
+    <saledate>Thu, 17 Oct 2013 03:52:16 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>reserved for Andy Latto
+multi-game lot</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jan 2014 12:16:01 +0000</listdate>
+    <saledate>Sat, 05 Apr 2014 16:16:04 +0000</saledate>
+    <price currency='USD'>14.95</price>
+    <condition>likenew</condition>
+    <notes>Shrinkwrap removed but never played. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. I have many hundreds of games for sale and would be happy to combine shipping charges for multiple games to save you money. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Jan 2014 00:34:03 +0000</listdate>
+    <saledate>Sat, 22 Mar 2014 13:05:47 +0000</saledate>
+    <price currency='GBP'>12.5</price>
+    <condition>new</condition>
+    <notes>Version: German first edition (2004)
+Publisher: Hanser,?Zoch Verlag
+Language Dependence: No necessary in-game text
+Contents: The set is brand new and still in shrinkwrap.
+S_T_E_M_P_T_A_G_amp;H is £5.99 to anywhere in the UK except Highlands and Islands (possible extra charge for those locations).
+For S_T_E_M_P_T_A_G_amp;H to Europe, USA, Australia and elsewhere please contact me for a quote. Great deals available on surface shipping rates! I have good experience shipping internationally.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Mar 2014 04:20:36 +0000</listdate>
+    <saledate>Thu, 06 Mar 2014 11:42:43 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>For auction winner:
+Stephen Benton
+(shbenton)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Mar 2014 05:02:33 +0000</listdate>
+    <saledate>Wed, 21 May 2014 21:04:40 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>Original German Zoch edition. Components are language independent.
+Game is is still in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Apr 2014 18:16:02 +0000</listdate>
+    <saledate>Wed, 02 Apr 2014 21:48:23 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>English version.  Reserved for The Grinch.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Apr 2014 21:57:05 +0000</listdate>
+    <saledate>Sat, 03 May 2014 20:50:59 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>Very good condition. Played a couple of times by careful adults. Rio Grande Games edition. Box has 1-2 minor corner dings.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 May 2014 08:10:58 +0000</listdate>
+    <saledate>Sat, 03 May 2014 14:47:42 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/172763/item/3193874#3193874]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION - April Showers bring May Games! Multiple sellers! Includes LUNZ, EGIZIA, KINGS _T_E_M_P_T_A_G_amp; THINGS, ATTIKA and more! [ENDS FRIDAY, MAY 2ND]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+RESERVED FOR Kwill2</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Aug 2014 09:37:54 +0000</listdate>
+    <saledate>Mon, 11 Aug 2014 17:31:52 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>new</condition>
+    <notes>This item is an auction win only for AB76</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Aug 2014 10:32:58 +0000</listdate>
+    <saledate>Mon, 25 Aug 2014 13:59:25 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Aug 2014 22:21:48 +0000</listdate>
+    <saledate>Sun, 31 Aug 2014 19:10:47 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Auction item reserved for Steven Bond (geobaldi5)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Oct 2014 13:49:29 +0000</listdate>
+    <saledate>Fri, 10 Oct 2014 14:30:58 +0000</saledate>
+    <price currency='EUR'>5</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/177328/item/3438055#3438055]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2014 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jun 2008 18:13:41 +0000</listdate>
+    <saledate>Thu, 30 Oct 2014 05:13:14 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>new</condition>
+    <notes>German edition (Zoch)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Nov 2014 02:14:17 +0000</listdate>
+    <saledate>Sun, 02 Nov 2014 03:11:35 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>likenew</condition>
+    <notes>Auction win for BGG user Flame Point Crispin.
+Includes:
+- Goldbrau
+-Mississippi Queen
+-Rheinlander</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Dec 2013 20:11:37 +0000</listdate>
+    <saledate>Sun, 14 Dec 2014 17:36:59 +0000</saledate>
+    <price currency='EUR'>11</price>
+    <condition>verygood</condition>
+    <notes>Worldwide shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Mar 2015 14:31:36 +0000</listdate>
+    <saledate>Sun, 22 Mar 2015 04:51:06 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/188402/item/3783495#3783495]Item for Geeklist _T_E_M_P_T_A_G_quot;Spring Cleaning Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Mar 2015 16:41:18 +0000</listdate>
+    <saledate>Mon, 13 Apr 2015 18:24:03 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>good</condition>
+    <notes>Buyer pays actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 May 2015 01:41:03 +0000</listdate>
+    <saledate>Mon, 04 May 2015 02:52:01 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190488/item/3867209#3867209]Item for Geeklist _T_E_M_P_T_A_G_quot;200+ games, Pickup in STL/Geekway available, Ships From STL, Ends 4pm CDT Sunday May 3rd_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For FibonacciRocks only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Oct 2014 02:25:11 +0000</listdate>
+    <saledate>Sat, 03 Oct 2015 17:51:30 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>In Portland, OR for those interested in local pickup.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Nov 2015 18:36:33 +0000</listdate>
+    <saledate>Sun, 01 Nov 2015 19:04:42 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>verygood</condition>
+    <notes>reserved for BruceJackson</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Oct 2015 08:29:15 +0000</listdate>
+    <saledate>Mon, 28 Dec 2015 17:23:27 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>verygood</condition>
+    <notes>Shipping only within the EU</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Feb 2016 06:18:15 +0000</listdate>
+    <saledate>Tue, 23 Feb 2016 15:43:33 +0000</saledate>
+    <price currency='USD'>3</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205063/item/4454429#4454429]Item for Geeklist _T_E_M_P_T_A_G_quot;Looking forward to Spring (Cleaning) Auction -- $1 Min. or Free on Many Items!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Dec 2015 20:33:48 +0000</listdate>
+    <saledate>Thu, 10 Mar 2016 12:23:03 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Payment within Europe IBAN prefered.
+Postage (package up to 2 kg): 
+Netherlands: Normal: € 6,95 * Track_T_E_M_P_T_A_G_amp;trace: € 6,95 * Registered: € 8,60
+Europe (EU): Normal:€ 9,00 * Track_T_E_M_P_T_A_G_amp;trace:€ 13,00 * Registered:€ 14,65
+World: Normal:€ 18,00 * Track_T_E_M_P_T_A_G_amp;trace:€ 24,30 * Registered:€ 25,95
+Postage (package 2-5 kg):
+Netherlands: Normal: € 6,95 * Track_T_E_M_P_T_A_G_amp;trace: € 6,95 * Registered: € 8,60
+Europe (EU): Track_T_E_M_P_T_A_G_amp;trace:€ 19,50 * Registered:€ 21,15
+World: Track_T_E_M_P_T_A_G_amp;trace:€ 34,30 * Registered:€ 35,95
+Postage (letter up to 250 g):
+Netherlands: Normal:€ 2,76 * Registered:€ 7,95
+Europe (EU): Normal:€ 5,75 * Registered:€ 11,00
+World: Normal:€ 5,75 * Registered:€ 16,00
+Postage (Letter 250 g - 2000 g)
+Netherlands: Normal:€ 3,45* Registered:€ 7,95
+Europe (EU): Normal:€ 10,35* Registered:€ 11,00
+World: Normal:€ 10,35* Registered:€ 16,00
+Please check out my other items for sale!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Mar 2014 16:13:50 +0000</listdate>
+    <saledate>Wed, 23 Mar 2016 09:12:24 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>Goldbräu
+German first edition
+Publisher: Hanser,?Zoch Verlag</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jul 2016 09:56:30 +0000</listdate>
+    <saledate>Tue, 19 Jul 2016 14:58:49 +0000</saledate>
+    <price currency='USD'>58</price>
+    <condition>verygood</condition>
+    <notes>Reserved for David Barnes from the summer auction.
+includes:
+goldbrau
+carc the castle
+mr. jack
+Octodice
+My paypal:  tedcheatham@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Aug 2016 02:24:24 +0000</listdate>
+    <saledate>Mon, 29 Aug 2016 03:16:05 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/213201/item/4826785#4826785]Item for Geeklist _T_E_M_P_T_A_G_quot;4 Day Auction: 150 items. St Louis Pickup Available, Ships from STL - Ends Aug 28th 8PM CDT_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction. For Geekway only
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Oct 2016 22:18:04 +0000</listdate>
+    <saledate>Sun, 02 Oct 2016 22:29:06 +0000</saledate>
+    <price currency='EUR'>7</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/211885/item/4803782#4803782]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2016 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Oct 2016 14:36:37 +0000</listdate>
+    <saledate>Thu, 06 Oct 2016 07:58:10 +0000</saledate>
+    <price currency='EUR'>6</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/211885/item/4858584#4858584]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2016 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Feb 2016 12:58:30 +0000</listdate>
+    <saledate>Sun, 12 Feb 2017 16:36:31 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>new</condition>
+    <notes>Payment via bank transfer or paypal</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Feb 2017 15:32:06 +0000</listdate>
+    <saledate>Wed, 01 Mar 2017 06:55:44 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>new</condition>
+    <notes>German edition. Language independent game. New, no shrink around the box, cards are still in shrink.
+Contact me for the exact shipping costs:
+Belgium or The Netherlands: €4 with Kiala €7 with BPost or PostNL
+other European countries: €9 - €13 (depending on the destination)
+worldwide: €19
+The shipping quotes above are shipping without tracking and no insurance. Contact me for other shipping options or combined shipping.
+Payment: European bank transfer or Paypal (buyer pays fees)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jan 2017 03:32:05 +0000</listdate>
+    <saledate>Wed, 20 Sep 2017 06:54:20 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>One corner slightly dinged, played once or twice, includes 8 coasters. English first edition (2004) Rio Grande Games
+Click image for larger version(s)
+[ImageID=3335131 inline] [ImageID=3335132 inline] [ImageID=3335130 inline]
+reserved for sikeospi</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Dec 2017 21:19:22 +0000</listdate>
+    <saledate>Tue, 02 Jan 2018 03:43:47 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>Played once, excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Mar 2018 14:45:00 +0000</listdate>
+    <saledate>Sun, 11 Mar 2018 16:02:23 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238488/item/6003552#6003552]Item for Geeklist _T_E_M_P_T_A_G_quot;Spring Cleaning, OOP Games, Battlestar, LOTR, Speicherstadt, Dungeon Saga, Mayfair, Wargames, promos, Family games, munchkin, Knizia, etc.. tons_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Mar 2018 13:42:47 +0000</listdate>
+    <saledate>Fri, 16 Mar 2018 19:28:22 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238935/item/6027284#6027284]Item for Geeklist _T_E_M_P_T_A_G_quot;CBERG_T_E_M_P_T_A_G_#039;s Shelf Clearing Auction #3_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction
+Reserved for ProudDad</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Mar 2018 14:27:18 +0000</listdate>
+    <saledate>Tue, 17 Apr 2018 09:41:53 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Never played. Will ship USPS priority from 03036.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Apr 2018 19:38:44 +0000</listdate>
+    <saledate>Tue, 24 Apr 2018 16:53:34 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This is a new and unplayed copy of Goldbrau still in shrink.
+Please let me know if you have any questions.
+Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Dec 2018 17:49:43 +0000</listdate>
+    <saledate>Tue, 04 Dec 2018 00:53:07 +0000</saledate>
+    <price currency='USD'>2</price>
+    <condition>likenew</condition>
+    <notes>Auction item reserved for user 1000games. Please do not purchase this unless you are user 1000games! Thanks.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 May 2014 18:17:32 +0000</listdate>
+    <saledate>Thu, 20 Dec 2018 14:02:10 +0000</saledate>
+    <price currency='EUR'>19.99</price>
+    <condition>likenew</condition>
+    <notes>german edition</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Sep 2018 01:33:08 +0000</listdate>
+    <saledate>Tue, 01 Jan 2019 21:32:20 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Dec 2018 12:23:53 +0000</listdate>
+    <saledate>Sun, 06 Jan 2019 00:16:07 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Game is complete,  components  in zip lock bag 
+Payments: bank account or Paypal
+If you want to pay by Paypal, there will be an additional fee
+German version 
+rules in German,</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

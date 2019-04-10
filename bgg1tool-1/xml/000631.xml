@@ -1,0 +1,675 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="631">
+   <yearpublished>1990</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>70</playingtime>
+   <minplaytime>70</minplaytime>
+   <maxplaytime>70</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Daytona 500</name>
+         
+   <description>Six little plastic cars race around the big Daytona track.  The track is three spaces wide except for a sweeping curve at either end.  In the curves, the track narrows to two lanes.  The outer lane is a passing lane, requiring twice as many movement points to use and in which a car may not end its turn.  Movement points come from play of the special deck of cards.  Selecting a card from your hand, you move each of the cars on the card the prescribed number of spaces, trying to position your own car or cars most advantageously while leaving your opponents blocked.  Before each race, the six cars are auctioned off, and you bid for them based on the cards in your hand.  Payout is based on where your car(s) finished in the race.  Most money wins._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Suggested game length is three races (each race lasts about 20 minutes), enough to give the luck of the draw a chance to even out._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/UTh8OrAC2bGQsSfgL2v5A9VK7WM=/fit-in/200x150/pic235297.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/6C3zg71IMamnLzKlJ051vuqthcU=/0x0/pic235297.jpg</image>
+      
+            <boardgamemechanic objectid="2012">Auction/Bidding</boardgamemechanic>
+               <boardgamefamily objectid="9862">Auto Racing: Wolfgang Kramer card system</boardgamefamily>
+               <boardgamecategory objectid="1002">Card Game</boardgamecategory>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgameversion objectid="28868">First edition</boardgameversion>
+               <boardgamemechanic objectid="2040">Hand Management</boardgamemechanic>
+               <boardgamedesigner objectid="7">Wolfgang Kramer</boardgamedesigner>
+               <boardgamepublisher objectid="20">Milton Bradley</boardgamepublisher>
+               <boardgamecategory objectid="1031">Racing</boardgamecategory>
+                                    <boardgamecategory objectid="1038">Sports</boardgamecategory>
+               <boardgamefamily objectid="6206">Sports: Auto Racing</boardgamefamily>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgameimplementation objectid="5389" inbound="true">Niki Lauda_T_E_M_P_T_A_G_#039;s Formel 1</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="37">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="22" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="16" />
+     <result value="Not Recommended" numvotes="12" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="18" />
+     <result value="Recommended" numvotes="15" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="17" />
+     <result value="Recommended" numvotes="16" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="13" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="5">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="5" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="3" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="1" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>978</usersrated>
+     <average>7.14369</average>
+     <bayesaverage>6.22488</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1486" bayesaverage="6.22488" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="726" bayesaverage="6.36706" />
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="335" bayesaverage="6.39559" />
+            
+           </ranks>
+     
+     <stddev>1.28361</stddev>
+     <median>0</median>
+     <owned>1069</owned>
+     <trading>93</trading>
+     <wanting>92</wanting>
+     <wishing>195</wishing>
+     <numcomments>421</numcomments>
+     <numweights>101</numweights>
+     <averageweight>1.7723</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 19 Aug 2003 18:03:33 +0000</listdate>
+    <saledate>Mon, 25 Aug 2003 02:14:52 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>acceptable</condition>
+    <notes>DAYTONA 500 1990 Milton Bradley.  Complete with gameboard, 6 race cars, 48 cards, paper money, instructions.  Shipping weight is 4 pounds.  Game looks unplayed, so cards and all parts are in perfect condition, however the box bottom has some major splits and tears (but still holds together fine).  This game is Out-of-Print.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Dec 2003 14:11:38 +0000</listdate>
+    <saledate>Mon, 15 Dec 2003 20:23:49 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>verygood</condition>
+    <notes>Used, but very good condition.
+Shipping within the US via insured priority mail.
+Note to International (non-US) buyers:
+I must declare actual value on all customs forms. **I will not falsify values on customs forms, no exceptions!**. For International orders, only Paypal is accepted.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 May 2004 00:51:41 +0000</listdate>
+    <saledate>Thu, 10 Jun 2004 17:05:58 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition copy of this out of print game; box and contents in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Nov 2004 02:43:00 +0000</listdate>
+    <saledate>Mon, 03 Jan 2005 10:15:13 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>good</condition>
+    <notes>Box has wear and is dented on back of the box, white scuffing.
+Games is played couple of times. 
+Shipping is 8.80$ within U.S., insurance 1.30$ opotional.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Jan 2005 14:48:54 +0000</listdate>
+    <saledate>Wed, 19 Jan 2005 14:48:54 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Feb 2005 15:39:30 +0000</listdate>
+    <saledate>Sun, 17 Apr 2005 13:20:04 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>Worn, used copy:
+The box shows shelfwear, but is still intact.  The cars are all present, but the stickers were never applied and are no longer included.  The board is still in quite good condition.  Original rules are missing but scans are still available at Hasbro_T_E_M_P_T_A_G_#039;s website (link is on the Daytona 500 page here at the BGG).
+Actual shipping cost (but, be forwarned: the box is awkwardly long, and somewhat heavy). Shipping for multiple items will be combined. Please contact me for the exact cost based on your location. I have little feedback here, but please see my ebay feedback for _T_E_M_P_T_A_G_quot;weadockfamily_T_E_M_P_T_A_G_quot; if you are concerned.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Apr 2005 00:55:36 +0000</listdate>
+    <saledate>Fri, 22 Apr 2005 13:51:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Components are complete and in excellent condition.  Box is dished in a bit on top, has a ding on one side, and moderate shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 May 2005 04:26:52 +0000</listdate>
+    <saledate>Thu, 12 May 2005 04:51:27 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>Cards have some wear - you can certainly still play with them, but I would probably use card protectors (probably a good idea anyway, as they are flimsy).  Cars do not have the stickers on them (doesn_T_E_M_P_T_A_G_#039;t affect play).  Box has some wear and the bottom is indented.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jul 2005 03:08:31 +0000</listdate>
+    <saledate>Wed, 06 Jul 2005 04:13:53 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>good</condition>
+    <notes>Game is complete.  Box is a little dented in and some of the cards are creased but everything is there.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Jul 2005 21:23:03 +0000</listdate>
+    <saledate>Wed, 27 Jul 2005 17:56:14 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>great condition.  box has a split corner, but is otherwise good.   buy from me and i ship the next business day!
+Will happily combine shipping with multiple orders.
+SPECIAL! Take 5% off the total price for EACH game you buy from me after the first one!! Maximum 30% off. Save on Shipping, and get an incredible deal!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Sep 2005 19:43:03 +0000</listdate>
+    <saledate>Sun, 04 Sep 2005 20:02:13 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Classic Wolfgang Kramer design. Stickers already on cars, game is complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Sep 2006 01:48:24 +0000</listdate>
+    <saledate>Sun, 05 Nov 2006 22:52:03 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>acceptable</condition>
+    <notes>Good condition. Complete, but about a dozen cards are creased.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Sep 2006 22:29:35 +0000</listdate>
+    <saledate>Wed, 20 Sep 2006 00:00:21 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>acceptable</condition>
+    <notes>Sorry, this is already sold. Need to set this up so Aldie gets his taste. Please don_T_E_M_P_T_A_G_#039;t ask to buy, unless you_T_E_M_P_T_A_G_#039;re jayjonbeach.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Jan 2007 06:23:54 +0000</listdate>
+    <saledate>Tue, 16 Jan 2007 03:50:34 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Box has shelf wear and the bottom is pushed in a bit. Contents are excellent, only played a couple times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Aug 2007 21:50:23 +0000</listdate>
+    <saledate>Mon, 03 Dec 2007 03:14:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>The box bottom is indented, but otherwise mint in the original shrinkwrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 May 2008 07:33:11 +0000</listdate>
+    <saledate>Fri, 30 May 2008 11:29:46 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Nascar Daytona 500 game.  Game and box are both in overall very good condition.  Shelf wear appearance to the box.  Shipping is actual cost + $1.50.   </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Sep 2008 17:32:15 +0000</listdate>
+    <saledate>Fri, 19 Sep 2008 16:52:08 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Daytona 500
+Good overall shape.
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Sep 2008 18:41:35 +0000</listdate>
+    <saledate>Wed, 24 Sep 2008 03:43:09 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>Daytona 500 - Milton Bradley
+Very Good! Removed from shrink, but still in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $1.00 handling charge.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Oct 2008 19:56:15 +0000</listdate>
+    <saledate>Wed, 15 Oct 2008 21:28:56 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>This game is complete. The cars are the version without stickers, and the board has the incised grid pattern on it.
+The board is in good shape, and the cars are in good shape. The box is still solid but with a paper coming up in one corner, some dishing, and lots of shelfwear.
+The full set of cards have some bends on them all pretty similar in their amount of damage. I wasn_T_E_M_P_T_A_G_#039;t able to remember one card from another from the backs, but I also never tried. The picture below shows one card (left) with typical damage, and another (right) with the most damage. All cards are fully readable.
+This game is out of print.
+Shipping will be priority mail, probably around $8-10 to the US. Give me your zip code and I_T_E_M_P_T_A_G_#039;ll give you an exact amount.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Feb 2009 04:55:07 +0000</listdate>
+    <saledate>Tue, 24 Mar 2009 01:06:58 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 May 2009 14:52:46 +0000</listdate>
+    <saledate>Thu, 25 Jun 2009 03:10:27 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>good</condition>
+    <notes>Stickers on the cars are there, complete.  Some shelfwear.
+S_T_E_M_P_T_A_G_amp;H: $14</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 May 2009 00:58:13 +0000</listdate>
+    <saledate>Wed, 05 Aug 2009 00:28:32 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>good</condition>
+    <notes>for bigchief from auction #2
+Box has shelf wear and 2 split corners, The cards show lots of wear. The stickers for the cars are missing. The board is split at one of the folds. Sounds bad but this is a complete game that is a lot of fun to play. 
+Shipping will be USPS $12.00 in the US. International buyers should contact me first for shipping costs. 
+I will combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Jun 2009 21:12:05 +0000</listdate>
+    <saledate>Thu, 11 Jun 2009 03:38:48 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>likenew</condition>
+    <notes>open, unpunched, unstickered</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jul 2009 02:20:09 +0000</listdate>
+    <saledate>Wed, 22 Jul 2009 21:13:26 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>This copy is in nice condition and is guaranteed 100% complete.
+The box is in ok condition but has surface wear, some minor corner wear and a slightly concaved box bottom.
+The fully color instructions are included in great shape.
+All 6 little cars are included in very good condition but some of the stickers are starting to peel a little.
+Huge game board is in good condition but is slightly warped (which is common for this game).
+Contains ALL 48 cards in great condition.
+Money is included (Milton Bradley money of course).
+U.S. buyers can pay with Google Checkout, Paypal, money orders or checks.  Shipping is $9.
+International buyers must use Google Checkout or Paypal.  Shipping depends on location.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Oct 2009 16:36:18 +0000</listdate>
+    <saledate>Tue, 08 Jun 2010 13:50:47 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Extremely minor crease on back by corner, minor bowing of box side (i.e. it sticks out about 5 mm from side of bottom), minor 1 mm ding on side by corner. (Really not much. This box looks great.)
+Includes 5 (perhaps 6 I do not remember) really nice metal miniature cars.
+Paypal adds 4%. I am not opposed to outside US purchases, BUT purchases outside the USA must contact me directly before purchase so that we can discuss feasibility. It is a large flat game, so may be expensive to ship outside the USA.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Nov 2009 23:51:48 +0000</listdate>
+    <saledate>Tue, 23 Feb 2010 10:46:20 +0000</saledate>
+    <price currency='GBP'>11.99</price>
+    <condition>acceptable</condition>
+    <notes>The box is intact but is worn.  The game parts are all there and the board is in very good condition.  </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Nov 2009 23:05:08 +0000</listdate>
+    <saledate>Wed, 18 Nov 2009 00:23:07 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>good</condition>
+    <notes>This is for buyer dakendi.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jan 2010 21:24:35 +0000</listdate>
+    <saledate>Fri, 24 Dec 2010 16:27:53 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>100% complete including box insert in excellent condition. Cards,  money, and rules booklet are straight and crisp. Board is very shiny. Some of the stickers are coming off the cars. Box has a little shelfwear and slight dishing, with a few small wrinkles   Game is free from offensive odors (smoke, pet, mildew, etc).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Mar 2010 10:31:08 +0000</listdate>
+    <saledate>Tue, 24 Aug 2010 18:09:04 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Jul 2010 09:44:27 +0000</listdate>
+    <saledate>Mon, 02 Aug 2010 14:04:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This game is reserved for the winner of my auction Myles 
+(Great_Mazinga)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Sep 2010 23:01:07 +0000</listdate>
+    <saledate>Mon, 27 Dec 2010 21:35:26 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>verygood</condition>
+    <notes>Components including cars, board, cars, and money are all in excellent, like new condition. Box has some minor shelf wear. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Nov 2010 15:37:17 +0000</listdate>
+    <saledate>Tue, 22 Nov 2011 21:36:10 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>Daytona 500, still in original shrink!  Box has minor shelf wear, but excellent for a 20 year old game!  (I_T_E_M_P_T_A_G_#039;ll happily send photos if requested.) A fantastic racing game, an early gem from Kramer that should not be missed.  Buyer to pay actual shipping costs, please message me for details or questions.  Due to length/width, UPS internation rates are in excess of $100, so shipping to US only, please</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Jan 2011 17:52:03 +0000</listdate>
+    <saledate>Wed, 13 Nov 2013 04:27:15 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Used but good condition. Very hard to find.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Feb 2011 15:49:48 +0000</listdate>
+    <saledate>Mon, 18 Apr 2011 19:31:11 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>acceptable</condition>
+    <notes>Box has wear and is bowed.  The cars don_T_E_M_P_T_A_G_#039;t have stickers and there is normal game wear on the cards.  Otherwise in good shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Feb 2011 23:59:27 +0000</listdate>
+    <saledate>Thu, 24 Feb 2011 00:15:16 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>good</condition>
+    <notes>Item intended for winner of The Something For Everyone auction: Matt Baughman</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Mar 2011 14:37:45 +0000</listdate>
+    <saledate>Sun, 20 Mar 2011 14:42:31 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>RESERVED FOR BOP517</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Mar 2011 02:25:42 +0000</listdate>
+    <saledate>Wed, 23 Mar 2011 11:48:02 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>acceptable</condition>
+    <notes>For jodyray25</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Apr 2011 19:20:48 +0000</listdate>
+    <saledate>Thu, 30 Jun 2011 18:17:31 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>good</condition>
+    <notes>Box shows shelf wear, corners have been taped, all parts accounted for. Stickers are still attached to cars but they are peeling up a bit. A little glue and TLC will fix that though. Box insert with Daytona 500 historical notes still in box too. 
+I actually combined this set with another beat up thrift set so there is an additional set of cars (no stickers) and an almost complete set of movement cards included too. Everything is bagged and neatly organized.
+Just needs a good home.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jul 2011 20:31:50 +0000</listdate>
+    <saledate>Wed, 20 Jul 2011 14:34:32 +0000</saledate>
+    <price currency='GBP'>32</price>
+    <condition>good</condition>
+    <notes>UK postage £5.50</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Dec 2011 02:00:32 +0000</listdate>
+    <saledate>Sat, 07 Jan 2012 13:35:06 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>for user Thies</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Jun 2013 19:38:46 +0000</listdate>
+    <saledate>Sun, 07 Jul 2013 13:16:12 +0000</saledate>
+    <price currency='USD'>24.95</price>
+    <condition>good</condition>
+    <notes>Box lid has significant dishing, rubbing and wear.  The dishing is worst along the left side with creasing.  See photographs.  There are no split corners.
+Game components are in very good shape.  The cars have the decals, and all 48 cards are present with no creasing or tears.  Money looks like it hasn_T_E_M_P_T_A_G_#039;t been used.
+Will combine shipping on multiple items, and will ship internationally.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Aug 2013 02:20:21 +0000</listdate>
+    <saledate>Tue, 06 Aug 2013 13:21:19 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>acceptable</condition>
+    <notes>Reserved for Benjamin Miller for winning my auction.  Includes Parade.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Aug 2013 22:34:45 +0000</listdate>
+    <saledate>Mon, 12 Aug 2013 01:52:17 +0000</saledate>
+    <price currency='USD'>85</price>
+    <condition>verygood</condition>
+    <notes>For user pblaw only.
+Gen Con pick-up.
+Bridge Troll $7.00
+Crows $9.00
+Daytona 500 $12.00
+Dungeon Run $31.00
+Horse Fever $15.00
+Nitro Dice $5.00
+Quicksand $3.00
+TPOC: The Politics of Cannibals $3.00
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Aug 2013 17:42:43 +0000</listdate>
+    <saledate>Sat, 09 Nov 2013 03:26:28 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>American version, © 1990 by MB,
+Shipping costs Germany: 4,50 €
+Shipping costs Eurozone: 9,00 €
+Shipping costs worldwide: 16,00 €
+Payment via PayPal or bank transfer
+We offer in our _T_E_M_P_T_A_G_quot;Modern Second-Hand-Games-Shop_T_E_M_P_T_A_G_quot; on our private homepage www.alte-spiele.de many other games: older one, newer one, rare one and little known one. The offer consists of titles since the 1970s and mainly in German-speaking. Just look once over with us.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Nov 2014 04:11:27 +0000</listdate>
+    <saledate>Mon, 17 Nov 2014 22:55:13 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>Reserved for John Callahan BGGCON 2014</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Jul 2014 05:17:28 +0000</listdate>
+    <saledate>Sun, 23 Nov 2014 07:48:41 +0000</saledate>
+    <price currency='CAD'>35</price>
+    <condition>verygood</condition>
+    <notes>Components are complete and in very good condition, but some shelf wear on game box.
+Pictures available on request. Please send message if you have any questions.
+Shipping cost depends on destination. If interested, I can provide a quote or local pickup available in Toronto.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Jul 2013 16:45:45 +0000</listdate>
+    <saledate>Thu, 08 Jan 2015 23:54:16 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>Factory Sealed.
+Buyer prepays plus USPS priority mail shipping charges.  About 3.5 lbs from 38655</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Aug 2013 00:04:22 +0000</listdate>
+    <saledate>Mon, 26 Jan 2015 19:50:17 +0000</saledate>
+    <price currency='USD'>43</price>
+    <condition>likenew</condition>
+    <notes>unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 May 2015 16:49:50 +0000</listdate>
+    <saledate>Tue, 19 May 2015 19:54:48 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190563/item/3870402#3870402]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee VIII:  Who Cut The Cheese?_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 May 2015 14:05:23 +0000</listdate>
+    <saledate>Thu, 28 May 2015 16:26:16 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Very good condition, with light box wear and minor signs of component handling, complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Aug 2015 18:37:13 +0000</listdate>
+    <saledate>Tue, 15 Sep 2015 11:22:54 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>verygood</condition>
+    <notes>VG, or actually very close to _T_E_M_P_T_A_G_quot;like new_T_E_M_P_T_A_G_quot;...box has minimal wear, considering game is 25 years old...board,cards,cars all in great shape...no idea if box ever did have an insert or not, but when I purchased it here on BGG years ago one did not come with it...really, everything is in great shape and looks like it was hardly ever used...also, from a smoke free home...s/h will be $10.99</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Aug 2015 22:40:01 +0000</listdate>
+    <saledate>Fri, 18 Sep 2015 14:17:30 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>For user wesphys only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Nov 2015 17:45:34 +0000</listdate>
+    <saledate>Tue, 10 Nov 2015 17:50:23 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>good</condition>
+    <notes>Game is complete and in very good condition. Listed as good because box shows signs of shelf wear with some bumping. Else game is complete and playable. SHIPS FAST, WITH TRACKING.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Feb 2014 23:03:21 +0000</listdate>
+    <saledate>Sat, 16 Jan 2016 06:42:07 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Contents appear to be complete. Box cover is bowed in and taped on some edges and corners. Board is taped on the back.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Mar 2016 03:07:45 +0000</listdate>
+    <saledate>Tue, 29 Mar 2016 08:42:15 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205267/item/4516938#4516938]Item for Geeklist _T_E_M_P_T_A_G_quot;The Great Purge of 2016 continues...help me clear my shelves!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Jul 2016 02:13:06 +0000</listdate>
+    <saledate>Mon, 08 Aug 2016 16:10:34 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>verygood</condition>
+    <notes>** NOT FOR THE GAME **
+This is for 6 replacement cars for use in game.
+The replacement cars can be used in place of the original plastic cars that came with the game. These are third party production _T_E_M_P_T_A_G_quot;NASCAR_T_E_M_P_T_A_G_quot; style stock cars painted to resemble car from the time period of the Daytona 500 Board Game (Mid 1990_T_E_M_P_T_A_G_#039;s)
+6 Cars are included, one to replace each original car from the base game - Black, Orange, Green, Yellow, Blue _T_E_M_P_T_A_G_amp; Red.
+Buyer to pay shipping cost, I can provide an estimate. They will ship either in a small padded envelope or, worst case possible would be a small flat rate box with a lot of newspaper stuffed in.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 May 2016 15:52:18 +0000</listdate>
+    <saledate>Sat, 05 Nov 2016 00:50:03 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>Clean and Complete. Box has a small amount of scuffing</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Nov 2016 00:55:45 +0000</listdate>
+    <saledate>Fri, 02 Dec 2016 09:59:45 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/217350/item/5037757#5037757]Item for Geeklist _T_E_M_P_T_A_G_quot;------ HOTNESS, CLASSICS and RARE items------ [ CLOSED ]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Feb 2017 16:11:12 +0000</listdate>
+    <saledate>Fri, 24 Feb 2017 15:29:47 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>verygood</condition>
+    <notes>** NOT FOR THE GAME **
+This is for 6 replacement cars for use in game.
+The replacement cars can be used in place of the original plastic cars that came with the game. These are third party production _T_E_M_P_T_A_G_quot;NASCAR_T_E_M_P_T_A_G_quot; style stock cars painted to resemble car from the time period of the Daytona 500 Board Game (Mid 1990_T_E_M_P_T_A_G_#039;s)
+6 Cars are included, one to replace each original car from the base game - Black, Orange, Green, Yellow, Blue _T_E_M_P_T_A_G_amp; Red.
+Buyer to pay shipping cost, I can provide an estimate. They will ship either in a small padded envelope or, worst case possible would be a small flat rate box with a lot of newspaper stuffed in.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Apr 2017 13:48:31 +0000</listdate>
+    <saledate>Mon, 24 Apr 2017 16:01:23 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222664/item/5349431#5349431]Item for Geeklist _T_E_M_P_T_A_G_quot;Moving Auction. OOP, Eurogames, Splotter, Low Soft reserves, BINs GAME DAYS free delivery, Ends 4/23_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Apr 2017 02:18:50 +0000</listdate>
+    <saledate>Fri, 28 Apr 2017 16:36:37 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Buyer pays shipping from 55123. Great condition, all cards are sleeved. Box has some wear and tear.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Jul 2017 10:33:17 +0000</listdate>
+    <saledate>Mon, 17 Jul 2017 16:05:18 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>verygood</condition>
+    <notes>Components are complete and in excellent condition.  Box has minor shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Jul 2017 08:51:24 +0000</listdate>
+    <saledate>Mon, 14 Aug 2017 15:51:23 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>acceptable</condition>
+    <notes>Box with heavy damage - see pictures
+thec omponents are in a good condition
+complete</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Dec 2017 06:06:40 +0000</listdate>
+    <saledate>Tue, 12 Dec 2017 14:34:49 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/233892/item/5816098#5816098]Item for Geeklist _T_E_M_P_T_A_G_quot;*** THE GAMES YOU HAVE BEEN LOOKING FOR ***     [ CLOSED ]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Mar 2018 03:00:55 +0000</listdate>
+    <saledate>Fri, 23 Mar 2018 06:30:19 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238228/item/6013237#6013237]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee XII - The Twelfth Cheddar..._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jul 2018 01:03:45 +0000</listdate>
+    <saledate>Tue, 31 Jul 2018 03:07:15 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/224632/item/6253254#6253254]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jul 2018 23:43:24 +0000</listdate>
+    <saledate>Fri, 03 Aug 2018 17:56:47 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>The components are like new. Labels have not been applied to cars.  The box shows only slight shelf wear.
+I ship USPS Priority Mail based on destination and size and weight of package. If you would like shipping cost, send me your Zip Code and I will provide cost.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

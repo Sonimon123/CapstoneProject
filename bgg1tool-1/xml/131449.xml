@@ -1,0 +1,471 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="131449">
+   <yearpublished>2015</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>5</maxplayers>
+   <playingtime>150</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>150</maxplaytime>
+   <age>13</age>
+       <name primary="true" sortindex="1">Captains of Industry</name>
+         
+   <description>As a captain of industry in the suitably titled game Captains of Industry, you will vie for domination in the cutthroat arena of the marketplace. To do this, you will:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Build facilities to control supply,_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Develop real estate to manipulate demand, _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Invest in technology to increase efficiency, _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Complete hidden agendas to secure your legacy, and_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Undercut the competition to dominate the marketplace!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;You will depend on your opponents to fuel your expansion as they exploit your production for theirs. Supply and demand are king in this player-driven marketplace!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/gquGhRdtZxq060pV4iW_Qhhghvw=/fit-in/200x150/pic4328870.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/VQ-PctCVjUy3gowQexQcrNfEnTM=/0x0/pic4328870.jpg</image>
+      
+            <boardgamemechanic objectid="2080">Area Control / Area Influence</boardgamemechanic>
+                             <boardgamemechanic objectid="2013">Commodity Speculation</boardgamemechanic>
+               <boardgamefamily objectid="8374">Crowdfunding: Kickstarter</boardgamefamily>
+                      <boardgamecategory objectid="1021">Economic</boardgamecategory>
+               <boardgameversion objectid="182846">First edition</boardgameversion>
+               <boardgameartist objectid="40435">Bryan Fischer</boardgameartist>
+                      <boardgamepodcastepisode objectid="170597">Gaming Rules! – Podcast 26</boardgamepodcastepisode>
+               <boardgamecategory objectid="1088">Industry / Manufacturing</boardgamecategory>
+               <boardgamedesigner objectid="59938">Michael R. Keller</boardgamedesigner>
+               <boardgamepodcastepisode objectid="184154">Podcast #104 - Juegos o juguetes</boardgamepodcastepisode>
+               <boardgameartist objectid="5245">Daniel Solis</boardgameartist>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgamepublisher objectid="9499">Tasty Minstrel Games (TMG)</boardgamepublisher>
+               <boardgamepodcastepisode objectid="140946">The Long View: Princes of Florence</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="165348">Vox Republica 105: Low Down Dirty Cheaters</boardgamepodcastepisode>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="6" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="5+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="4" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="2">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="1" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>452</usersrated>
+     <average>7.15834</average>
+     <bayesaverage>5.94398</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2421" bayesaverage="5.94398" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1024" bayesaverage="6.07401" />
+            
+           </ranks>
+     
+     <stddev>1.27774</stddev>
+     <median>0</median>
+     <owned>1108</owned>
+     <trading>73</trading>
+     <wanting>39</wanting>
+     <wishing>189</wishing>
+     <numcomments>166</numcomments>
+     <numweights>44</numweights>
+     <averageweight>3.7955</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Tue, 22 Apr 2014 22:25:21 +0000</listdate>
+    <saledate>Sun, 28 Sep 2014 00:44:07 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+CAPTAINS OF INDUSTRY $42.95
+Tasty Minstrel Games [TTT 1011]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: July 2014
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Dec 2014 14:20:53 +0000</listdate>
+    <saledate>Thu, 01 Jan 2015 10:10:38 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>new</condition>
+    <notes>Postage in the UK is £5, probably via Hermes standard delivery, but I_T_E_M_P_T_A_G_#039;m happy to look into faster/next day shipping options.
+Overseas shipping will vary depending on destination - please message me for quotes.
+I will also accept bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Sep 2014 05:42:52 +0000</listdate>
+    <saledate>Fri, 02 Jan 2015 18:40:39 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+CAPTAINS OF INDUSTRY $42.95
+Tasty Minstrel Games [TTT 1011]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: October / November 2014
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Jan 2015 14:26:51 +0000</listdate>
+    <saledate>Sat, 03 Jan 2015 20:29:54 +0000</saledate>
+    <price currency='GBP'>35</price>
+    <condition>new</condition>
+    <notes>Postage in the UK is £5, probably via Hermes standard delivery, but I_T_E_M_P_T_A_G_#039;m happy to look into faster/next day shipping options.
+Overseas shipping will vary depending on destination - please message me for quotes.
+I will also accept bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Aug 2014 11:09:16 +0000</listdate>
+    <saledate>Thu, 22 Jan 2015 18:39:00 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>Kickstarter version! Comes with all stretch goals.
+Brand New and in Shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Feb 2015 15:57:58 +0000</listdate>
+    <saledate>Wed, 25 Feb 2015 17:46:04 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187155/item/3731910#3731910]Item for Geeklist _T_E_M_P_T_A_G_quot;Can_T_E_M_P_T_A_G_#039;t wait for spring fling, er auction._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Feb 2015 18:06:08 +0000</listdate>
+    <saledate>Wed, 04 Mar 2015 20:22:16 +0000</saledate>
+    <price currency='GBP'>32</price>
+    <condition>new</condition>
+    <notes>Postage in the UK is £5, probably via Hermes standard delivery, but I_T_E_M_P_T_A_G_#039;m happy to look into faster/next day shipping options._T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Overseas shipping will vary depending on destination - please message me for quotes._T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;I will also accept bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Mar 2015 20:05:46 +0000</listdate>
+    <saledate>Sat, 07 Mar 2015 09:15:38 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/187739/item/3753196#3753196]Item for Geeklist _T_E_M_P_T_A_G_quot;February Auction (Tuscany/Viticulture KS Collector Edition, Captains of Industry, more KS and others)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Feb 2015 18:06:08 +0000</listdate>
+    <saledate>Thu, 02 Apr 2015 10:41:21 +0000</saledate>
+    <price currency='GBP'>32</price>
+    <condition>new</condition>
+    <notes>Postage in the UK is £5, probably via Hermes standard delivery, but I_T_E_M_P_T_A_G_#039;m happy to look into faster/next day shipping options._T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;Overseas shipping will vary depending on destination - please message me for quotes._T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br /_T_E_M_P_T_A_G_gt;I will also accept bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Mar 2015 19:42:29 +0000</listdate>
+    <saledate>Thu, 02 Apr 2015 13:59:08 +0000</saledate>
+    <price currency='CAD'>55</price>
+    <condition>likenew</condition>
+    <notes>Auction win; includes Harbour. For Marshall Davout.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Apr 2015 23:00:22 +0000</listdate>
+    <saledate>Sun, 12 Apr 2015 12:10:57 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>Reserved for the winner of The Long View Spring Clean Auction user NotJeff</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 Feb 2015 01:24:40 +0000</listdate>
+    <saledate>Sun, 03 May 2015 00:58:30 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter edition. Opened and sorted but unplayed. Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 May 2015 20:23:54 +0000</listdate>
+    <saledate>Wed, 27 May 2015 12:46:38 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>For Raleigh Retard ONLY.  Auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Feb 2015 01:35:42 +0000</listdate>
+    <saledate>Mon, 13 Jul 2015 15:25:28 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>likenew</condition>
+    <notes>Kickstarter</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 04 Aug 2015 03:52:29 +0000</listdate>
+    <saledate>Tue, 04 Aug 2015 13:00:09 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193789/item/4011279#4011279]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction! No reserves. BINs. Flat shipping! or NYC local pickup_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Aug 2015 21:44:19 +0000</listdate>
+    <saledate>Wed, 19 Aug 2015 22:58:06 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>likenew</condition>
+    <notes>I accept PayPal and Google Wallet. If you pay through PayPal add 2.9% to the total (including shipping) to cover the PayPal fee, unless you pay using Friends and Family.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Oct 2015 03:32:58 +0000</listdate>
+    <saledate>Tue, 06 Oct 2015 10:43:13 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Only for auction winner oddtime</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Nov 2015 07:16:20 +0000</listdate>
+    <saledate>Thu, 19 Nov 2015 12:35:10 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/199439/item/4271042#4271042]Item for Geeklist _T_E_M_P_T_A_G_quot;I bought too many Essen games... Auction (US Only) Ends 11/18_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Jan 2015 13:50:52 +0000</listdate>
+    <saledate>Mon, 25 Jan 2016 05:05:20 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>new</condition>
+    <notes>Brand New Copy of Captains of industry still in plastic seal from the Kickstarter. 
+Got several copies and want to sell this one on - note that Postage will be additional cost (approx £5 UK) and confirmed when you are interested in buying this game</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Mar 2016 19:04:43 +0000</listdate>
+    <saledate>Tue, 15 Mar 2016 15:23:06 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>For Auction Winner Cardboardjunkie</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Feb 2016 01:53:07 +0000</listdate>
+    <saledate>Mon, 27 Jun 2016 14:55:34 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>Brand new, never opened, never played, still sealed. Just don_T_E_M_P_T_A_G_#039;t have time to play everything I_T_E_M_P_T_A_G_#039;ve got, so my loss is your gain. Shipping is $8.00. If you purchase more than one game I_T_E_M_P_T_A_G_#039;ll try to consolidate packages to save shipping . Paypal only please. And sorry, I don_T_E_M_P_T_A_G_#039;t sell to buyers outside of the US</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Jun 2016 02:11:14 +0000</listdate>
+    <saledate>Tue, 28 Jun 2016 04:15:18 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>New, in-shrink.  No damage either.
+Shipping will be exact USPS from 53534, about 4.5 lbs.
+Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Sep 2016 14:21:29 +0000</listdate>
+    <saledate>Thu, 01 Sep 2016 17:36:37 +0000</saledate>
+    <price currency='USD'>47</price>
+    <condition>likenew</condition>
+    <notes>Reserved for marlnobor
+Also includes Airships, Pyramidion, Race for the Galaxy, and Unita</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Nov 2016 21:54:25 +0000</listdate>
+    <saledate>Sat, 19 Nov 2016 07:10:44 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>for auction winner Miz Moto</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Feb 2017 13:45:36 +0000</listdate>
+    <saledate>Wed, 15 Feb 2017 14:51:22 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Reserved for broggi.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Feb 2017 22:57:22 +0000</listdate>
+    <saledate>Thu, 23 Mar 2017 05:28:56 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played once
+Buyer pays all shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Apr 2017 14:49:54 +0000</listdate>
+    <saledate>Mon, 17 Apr 2017 15:45:50 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/223158/item/5331935#5331935]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con Spring 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Jun 2017 13:53:25 +0000</listdate>
+    <saledate>Mon, 05 Jun 2017 00:26:41 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/225908/item/5417028#5417028]Item for Geeklist _T_E_M_P_T_A_G_quot;Isaac_T_E_M_P_T_A_G_#039;s _T_E_M_P_T_A_G_quot;They_T_E_M_P_T_A_G_#039;re Not Selling_T_E_M_P_T_A_G_quot; Blowout Sale: Everything Starts at $1! (Part 1 of 5)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Jul 2017 21:26:04 +0000</listdate>
+    <saledate>Wed, 19 Jul 2017 10:32:57 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This game is still factory sealed in its original box. Standard retail release version. Offers welcome.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Jul 2017 13:01:37 +0000</listdate>
+    <saledate>Sat, 29 Jul 2017 16:08:24 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228120/item/5522904#5522904]Item for Geeklist _T_E_M_P_T_A_G_quot;The Shelves Overfloweth Auction Including Yokohama Deluxe, Mombasa, Santorini and others_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Listing also includes Dead of Winter
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Jun 2017 23:09:31 +0000</listdate>
+    <saledate>Wed, 30 Aug 2017 03:19:23 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>New in shrink.
+Add $12 for shipping, or save on shipping by ordering other items that I have for sale.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Sep 2017 04:45:30 +0000</listdate>
+    <saledate>Wed, 20 Sep 2017 12:16:26 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner Inari44.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 02:15:11 +0000</listdate>
+    <saledate>Mon, 02 Oct 2017 09:51:31 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229693/item/5611759#5611759]Item for Geeklist _T_E_M_P_T_A_G_quot;Massive Auction ending Oct 1 North Philly Local Pick_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Oct 2017 15:37:31 +0000</listdate>
+    <saledate>Tue, 03 Oct 2017 16:20:04 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229863/item/5621825#5621825]Item for Geeklist _T_E_M_P_T_A_G_quot;Tabletop Gamers Alliance_T_E_M_P_T_A_G_#039;s All-Day Quarterly (2017Q4) No-Shipping Auction [10/7/2017] - Natick, MA_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Nov 2017 15:29:49 +0000</listdate>
+    <saledate>Mon, 13 Nov 2017 17:28:17 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>For CHIEF31 only.
+US Auction: More Games than Shelves - PAX Unplugged Pickup Option/Shipping From 06110 - Ends Nov 12th
+Saturday PAX Unplugged 2017 Pickup</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Jan 2017 00:39:48 +0000</listdate>
+    <saledate>Fri, 01 Dec 2017 21:04:08 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>No shrink, but cards still in plastic, box and components in great condition. Selling as part of the _T_E_M_P_T_A_G_quot;collect less, play more_T_E_M_P_T_A_G_quot; philosophy that_T_E_M_P_T_A_G_#039;s now the law in my game room! $13.50 USPS shipping. Thanks for lookin_T_E_M_P_T_A_G_#039;, take care,,,</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Apr 2018 15:46:56 +0000</listdate>
+    <saledate>Sun, 08 Apr 2018 16:24:18 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/239588/item/6055236#6055236]Item for Geeklist _T_E_M_P_T_A_G_quot;Yet Another Auction of OOPs, Kickstarters, Cheap BINs, etc_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Apr 2018 13:52:11 +0000</listdate>
+    <saledate>Tue, 01 May 2018 17:08:15 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Punched never played
+[imageid=4046673 inline]
+reserved for Pinhead</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Nov 2018 17:09:52 +0000</listdate>
+    <saledate>Mon, 05 Nov 2018 20:44:37 +0000</saledate>
+    <price currency='USD'>14</price>
+    <condition>likenew</condition>
+    <notes>For auction winner Mal Loreon only, please. This item includes any other auction winnings.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Nov 2018 19:45:30 +0000</listdate>
+    <saledate>Mon, 12 Nov 2018 20:32:47 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/245973/item/6403935#6403935]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Oct 2018 17:41:48 +0000</listdate>
+    <saledate>Fri, 04 Jan 2019 03:31:42 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

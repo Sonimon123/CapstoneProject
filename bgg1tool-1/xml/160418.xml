@@ -1,0 +1,905 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="160418">
+   <yearpublished>2015</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>120</playingtime>
+   <minplaytime>120</minplaytime>
+   <maxplaytime>120</maxplaytime>
+   <age>0</age>
+       <name primary="true" sortindex="1">Wing Leader: Victories 1940-1942</name>
+         
+   <description>Wing Leader is an exciting new game system of large scale aerial combat in World War II. Based on a unique side-scrolling view, in which altitude is clearly visible, players can recreate the great air battles of the war._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This first volume, Wing Leader: Victories 1940-1942, includes scenarios for the Battle of Britain, Malta, Coral Sea, Midway, North Africa, and Stalingrad. Future games will expand the system to the late war._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Players fly squadrons and flights, attempting to intercept raids or fend off marauding fighters in fast-playing games that take between 90 and 120 minutes._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Wing Leader takes a new look at aerial warfare, incorporating aircraft, altitude, and weather in a way never seen before!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The second game in the series is Wing Leader: Supremacy 1943-1945._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/GxPOrHlXGSrRYtyyCJasmHSw1Qw=/fit-in/200x150/pic2569281.png</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/IhbRxUJX0JSFvWUJshUwvII__p8=/0x0/pic2569281.png</image>
+      
+            <boardgamehonor objectid="34512">2015 Golden Geek Best Wargame Nominee</boardgamehonor>
+                      <boardgamecategory objectid="2650">Aviation / Flight</boardgamecategory>
+               <boardgamedesigner objectid="2370">Lee Brimmicombe-Wood</boardgamedesigner>
+               <boardgameartist objectid="2370">Lee Brimmicombe-Wood</boardgameartist>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgameversion objectid="242414">First edition</boardgameversion>
+               <boardgamepublisher objectid="52">GMT Games</boardgamepublisher>
+               <boardgamepodcastepisode objectid="161394">GrogCast Season 2, Episode 1</boardgamepodcastepisode>
+               <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+               <boardgameartist objectid="71">Rodger B. MacGowan</boardgameartist>
+               <boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+               <boardgamepodcastepisode objectid="162058">Three Moves Ahead 322: Wing Leader</boardgamepodcastepisode>
+               <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+               <boardgameartist objectid="36639">Ian Wedge</boardgameartist>
+                             <boardgamefamily objectid="39731">Wing Leader Series</boardgamefamily>
+               <boardgameexpansion objectid="218422">Wing Leader: Blitz 1939-1942</boardgameexpansion>
+               <boardgameintegration objectid="183578">Wing Leader: Supremacy 1943-1945</boardgameintegration>
+                      <boardgameexpansion objectid="232630">Wing Leader: Victories C3i #29 Scenarios</boardgameexpansion>
+               <boardgamecategory objectid="1049">World War II</boardgamecategory>
+               <boardgameintegration objectid="183578" inbound="true">Wing Leader: Supremacy 1943-1945</boardgameintegration>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="8">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="1" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="3" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="1">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="1" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>317</usersrated>
+     <average>7.99254</average>
+     <bayesaverage>5.98377</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2249" bayesaverage="5.98377" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="136" bayesaverage="7.02877" />
+            
+           </ranks>
+     
+     <stddev>1.35908</stddev>
+     <median>0</median>
+     <owned>1079</owned>
+     <trading>24</trading>
+     <wanting>53</wanting>
+     <wishing>192</wishing>
+     <numcomments>146</numcomments>
+     <numweights>38</numweights>
+     <averageweight>2.9737</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Thu, 25 Jun 2015 22:05:42 +0000</listdate>
+    <saledate>Fri, 31 Jul 2015 19:12:37 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+*** *** PRE-ORDER *** ***
+WING LEADER VICTORIES 1940-42: $42.95
+GMT Games [GMT 1507]
+Publisher_T_E_M_P_T_A_G_#039;s Anticipated Release Date: late July
+*** *** PRE-ORDER *** ***
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Aug 2015 14:40:01 +0000</listdate>
+    <saledate>Thu, 06 Aug 2015 21:46:06 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>SHRINKWRAPPED.  Payment to be sent to Richard Berg, 7321 Water Thrush Ct, Hanahan SC 29410.  Any problems, email me at BergBROG@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Aug 2015 12:55:05 +0000</listdate>
+    <saledate>Thu, 13 Aug 2015 15:23:11 +0000</saledate>
+    <price currency='EUR'>63.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Aug 2015 07:04:44 +0000</listdate>
+    <saledate>Mon, 17 Aug 2015 15:07:42 +0000</saledate>
+    <price currency='EUR'>63.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Aug 2015 06:28:32 +0000</listdate>
+    <saledate>Tue, 18 Aug 2015 09:13:29 +0000</saledate>
+    <price currency='EUR'>63.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Aug 2015 09:20:23 +0000</listdate>
+    <saledate>Tue, 18 Aug 2015 09:48:34 +0000</saledate>
+    <price currency='EUR'>63.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Aug 2015 09:54:11 +0000</listdate>
+    <saledate>Sat, 22 Aug 2015 19:06:57 +0000</saledate>
+    <price currency='EUR'>63.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Aug 2015 17:37:21 +0000</listdate>
+    <saledate>Thu, 27 Aug 2015 07:52:08 +0000</saledate>
+    <price currency='EUR'>59.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Aug 2015 08:30:52 +0000</listdate>
+    <saledate>Fri, 28 Aug 2015 19:49:10 +0000</saledate>
+    <price currency='EUR'>63.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Aug 2015 10:34:19 +0000</listdate>
+    <saledate>Mon, 31 Aug 2015 21:18:33 +0000</saledate>
+    <price currency='EUR'>59.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 Aug 2015 08:00:55 +0000</listdate>
+    <saledate>Wed, 02 Sep 2015 05:18:35 +0000</saledate>
+    <price currency='EUR'>63.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2015 20:32:11 +0000</listdate>
+    <saledate>Sun, 20 Sep 2015 15:54:02 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+WING LEADER VICTORIES 1940-42: $42.95
+GMT Games [GMT 1507]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2015 20:32:11 +0000</listdate>
+    <saledate>Fri, 02 Oct 2015 18:52:36 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+WING LEADER VICTORIES 1940-42: $42.95
+GMT Games [GMT 1507]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2015 20:32:11 +0000</listdate>
+    <saledate>Sun, 04 Oct 2015 18:28:16 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+WING LEADER VICTORIES 1940-42: $42.95
+GMT Games [GMT 1507]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Sep 2015 13:09:02 +0000</listdate>
+    <saledate>Tue, 06 Oct 2015 08:34:05 +0000</saledate>
+    <price currency='EUR'>63.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Sep 2015 10:33:04 +0000</listdate>
+    <saledate>Wed, 07 Oct 2015 19:25:47 +0000</saledate>
+    <price currency='EUR'>59.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Oct 2015 12:43:45 +0000</listdate>
+    <saledate>Thu, 08 Oct 2015 18:39:22 +0000</saledate>
+    <price currency='CAD'>50</price>
+    <condition>likenew</condition>
+    <notes>Like new condition, non-smoking home. Counters organised in GMT counter tray. Will ship anywhere but Canada Post outside North America can be expensive, buyer pays postage. CDN$50 = approx $US$39.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2015 20:32:11 +0000</listdate>
+    <saledate>Thu, 08 Oct 2015 22:36:23 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+WING LEADER VICTORIES 1940-42: $42.95
+GMT Games [GMT 1507]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2015 20:32:11 +0000</listdate>
+    <saledate>Sat, 17 Oct 2015 01:24:00 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+WING LEADER VICTORIES 1940-42: $42.95
+GMT Games [GMT 1507]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Oct 2015 22:53:01 +0000</listdate>
+    <saledate>Wed, 28 Oct 2015 00:25:57 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>GMT Games WIng Leader. The game has been punched and played a couple of times, but it is in excellent condition otherwise. Shipping in the US only via USPS. Contact me for shipping, default is a flat rate box for $11.30 but if another way is cheaper I will let you know.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Oct 2015 02:31:26 +0000</listdate>
+    <saledate>Sat, 07 Nov 2015 17:59:19 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Brand New Game - Still in Shrink Wrap - A gift I will not play - time to move on to someone who will - shipping will be usps priority medium flat rate - $12.65</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Oct 2015 22:49:25 +0000</listdate>
+    <saledate>Sat, 07 Nov 2015 23:42:06 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>new</condition>
+    <notes>GMT Games Wing Leader. The game is new in the shrinkwrap. Shipping in the US only via USPS. Contact me for shipping, default is a flat rate box for $11.30 but if another way is cheaper I will let you know.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Nov 2015 20:20:16 +0000</listdate>
+    <saledate>Mon, 09 Nov 2015 20:28:37 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198899/item/4252535#4252535]Item for Geeklist _T_E_M_P_T_A_G_quot;[CLOSED] Connery Says _T_E_M_P_T_A_G_quot;Shave Our Shelves_T_E_M_P_T_A_G_quot; [US only]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Sep 2015 13:45:28 +0000</listdate>
+    <saledate>Mon, 16 Nov 2015 17:30:34 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>Opened, but unplayed.
+Feel free to message me if you have any questions.
+Shipping:
+Please ask for the details! Shipping depends on destination and total weight.
+(Germany 5,99€ DHL, most other EU countries 16€).
+I will accept payment via Paypal (if you pay the fees / send money to friends) or Bank Transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2015 20:32:11 +0000</listdate>
+    <saledate>Wed, 25 Nov 2015 10:32:43 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+WING LEADER VICTORIES 1940-42: $42.95
+GMT Games [GMT 1507]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Nov 2015 05:14:45 +0000</listdate>
+    <saledate>Wed, 09 Dec 2015 02:23:12 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>likenew</condition>
+    <notes>Rulebook has been thumbed through, but contents are otherwise new and unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Jan 2016 07:53:44 +0000</listdate>
+    <saledate>Fri, 22 Jan 2016 17:40:04 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>likenew</condition>
+    <notes>Counters punched, never played</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Feb 2016 18:48:51 +0000</listdate>
+    <saledate>Sat, 13 Feb 2016 01:26:19 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Counters unpunched.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Feb 2016 04:49:08 +0000</listdate>
+    <saledate>Sun, 14 Feb 2016 21:15:58 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Complete and punched.  Counters stored in plastic tray.  Comes from a smoke free home.  Buyer pays actual shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Mar 2016 22:52:20 +0000</listdate>
+    <saledate>Sat, 02 Apr 2016 15:16:25 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Complete and in like-new condition. Box is pristine. Counters neatly trimmed, sorted, and bagged. Map, cards, rules, charts all pristine.
+Shipping will be USPS Priority Mail Flat Rate, 13.45.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Feb 2016 01:49:47 +0000</listdate>
+    <saledate>Sun, 03 Apr 2016 20:13:34 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>includes the extra scenarios and counters that came on C3i # 29</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Feb 2016 14:37:32 +0000</listdate>
+    <saledate>Tue, 05 Apr 2016 17:58:10 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>new</condition>
+    <notes>Only removed the plastic wrapping. Unpnched and unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Oct 2015 08:50:02 +0000</listdate>
+    <saledate>Fri, 15 Apr 2016 17:13:02 +0000</saledate>
+    <price currency='EUR'>63.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 May 2016 01:03:01 +0000</listdate>
+    <saledate>Fri, 20 May 2016 16:20:54 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Still in original shrink wrap.
+U.S. addresses only, please.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 May 2016 07:01:35 +0000</listdate>
+    <saledate>Wed, 25 May 2016 11:37:50 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes>The game is punched and the counters are clipped using an Oregon Laminations 2mm Clipper.  It has been played 4-5 times, is complete and in excellent condition.  Shipping to Germany is €5.00, to EU countries is:  €9.50 and to the USA is $16.00.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 May 2016 18:35:00 +0000</listdate>
+    <saledate>Sat, 11 Jun 2016 12:34:28 +0000</saledate>
+    <price currency='EUR'>43</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 May 2016 23:00:54 +0000</listdate>
+    <saledate>Wed, 24 Aug 2016 00:58:33 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Slight creasing on box bottom, unpunched, otherwise mint.
+Buyer to pay actual shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Sep 2016 04:25:42 +0000</listdate>
+    <saledate>Sun, 04 Sep 2016 19:16:17 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>verygood</condition>
+    <notes>Wing Leader:  Victories 1940-1942, GMT Games 2015 edition.
+Game is punched, complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Aug 2016 01:55:37 +0000</listdate>
+    <saledate>Fri, 09 Sep 2016 19:22:38 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Unpunched.
+Shipping will be via Priority Mail (in the US) or First Class international (outside the US).</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Sep 2016 13:56:23 +0000</listdate>
+    <saledate>Thu, 15 Sep 2016 12:56:13 +0000</saledate>
+    <price currency='USD'>28.99</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Sep 2016 18:29:01 +0000</listdate>
+    <saledate>Sun, 25 Sep 2016 20:24:30 +0000</saledate>
+    <price currency='GBP'>38</price>
+    <condition>likenew</condition>
+    <notes>Played only once, the first learning scenario. Counters punched only for that scenario, 95% of the counters still unpunched. Shipping £4 (myhermes), unless you prefer a different courier.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Aug 2016 14:42:07 +0000</listdate>
+    <saledate>Thu, 20 Oct 2016 21:05:10 +0000</saledate>
+    <price currency='USD'>32.5</price>
+    <condition>likenew</condition>
+    <notes>No shrink Not played</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Oct 2016 18:47:46 +0000</listdate>
+    <saledate>Thu, 17 Nov 2016 05:27:29 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>If I can_T_E_M_P_T_A_G_#039;t easily find a box to ship in, I_T_E_M_P_T_A_G_#039;ll use a medium size USPS flat rate mail box, but only charge $9.95.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Dec 2016 19:05:26 +0000</listdate>
+    <saledate>Thu, 08 Dec 2016 03:37:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/217669/item/5051361#5051361]Item for Geeklist _T_E_M_P_T_A_G_quot;Now that all your money is gone, buy my games!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Nov 2016 00:11:16 +0000</listdate>
+    <saledate>Mon, 12 Dec 2016 02:25:00 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Any questions please ask.
+Max shipping is $10.50
+non-smoker</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Dec 2016 20:44:29 +0000</listdate>
+    <saledate>Tue, 13 Dec 2016 21:45:26 +0000</saledate>
+    <price currency='EUR'>44</price>
+    <condition>likenew</condition>
+    <notes>Wing Leader: Victores 1940-1942
+Game is like new. Only the shrink wrap has been removed..
+Shipping to Germany is 5 Euros (insured + traceable)
+Shipping to other EU countries is 15 Euros (insured + traceable)
+For all other countries please contact me
+Payment is accepted via Paypal or bank transfer.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Dec 2016 17:35:21 +0000</listdate>
+    <saledate>Thu, 29 Dec 2016 08:32:43 +0000</saledate>
+    <price currency='GBP'>40</price>
+    <condition>likenew</condition>
+    <notes>UK sale only. I pay postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Dec 2016 05:03:39 +0000</listdate>
+    <saledate>Thu, 29 Dec 2016 18:51:04 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 May 2016 07:46:21 +0000</listdate>
+    <saledate>Sun, 01 Jan 2017 22:02:10 +0000</saledate>
+    <price currency='EUR'>49.9</price>
+    <condition>likenew</condition>
+    <notes>NEVER USED!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Aug 2016 00:23:59 +0000</listdate>
+    <saledate>Tue, 03 Jan 2017 10:26:38 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Shrink wrap removed otherwise counters unpunched and everything else complete and in mint condition. Never played. No wear or tear.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Sep 2016 21:16:04 +0000</listdate>
+    <saledate>Tue, 03 Jan 2017 13:53:34 +0000</saledate>
+    <price currency='EUR'>44</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Oct 2016 15:01:03 +0000</listdate>
+    <saledate>Mon, 16 Jan 2017 05:01:48 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>Punched but not played. Pickup available in Chicago.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Jan 2017 22:33:22 +0000</listdate>
+    <saledate>Tue, 24 Jan 2017 02:13:26 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/220363/item/5144166#5144166]Item for Geeklist _T_E_M_P_T_A_G_quot;New Year, New Auction. Includes Up Front, Banzai, Space Alert and expansion, Thunderstone, Fabled Fruit, Colony, Seasons and expansions_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jan 2017 00:45:57 +0000</listdate>
+    <saledate>Sat, 28 Jan 2017 02:16:11 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New and unpunched. 
+Shipping weight will be ~3 pounds, and location is ZIP 55764 if you want to estimate shipping. Will fit in medium priority mail flat rate box. Otherwise cost will be actual shipping +$1 for box. Will gladly combine shipping.
+Feel free make me an alternative offer. Especially if you are interested in more than one item.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2017 17:41:12 +0000</listdate>
+    <saledate>Thu, 09 Feb 2017 23:40:51 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Played, complete.  Includes insert cards and counters from C3i #29 and C3i #30.
+Top of box is dinged on both top and bottom right corners.
+Shipping extra, to US medium flat rate or cheaper.
+PayPal preferred</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 May 2016 16:43:03 +0000</listdate>
+    <saledate>Tue, 28 Feb 2017 10:15:35 +0000</saledate>
+    <price currency='EUR'>64.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Mar 2017 01:36:08 +0000</listdate>
+    <saledate>Wed, 05 Apr 2017 21:27:29 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Never played and unpunched. The manual has been thumbed through, but that_T_E_M_P_T_A_G_#039;s it. Shipping will be $12.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Mar 2017 19:38:54 +0000</listdate>
+    <saledate>Fri, 28 Apr 2017 15:51:36 +0000</saledate>
+    <price currency='CAD'>25</price>
+    <condition>likenew</condition>
+    <notes>* Reserved for Keegan. *
+This is an unplayed, unpunched copy.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Apr 2017 13:05:15 +0000</listdate>
+    <saledate>Tue, 27 Jun 2017 21:31:16 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>verygood</condition>
+    <notes>PUNCHED TWO SCENARIOS PLAYED
+PAYPAL + 3€
+Shipping
+ITALY  10€   
+EUROPE 13€</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Jul 2017 05:31:42 +0000</listdate>
+    <saledate>Tue, 25 Jul 2017 03:44:49 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for user moly19
+for the auction: [geekurl=/geeklist/227638/item/5505290#5505290]Item for Geeklist _T_E_M_P_T_A_G_quot;My First BGG Auction, NOW CLOSED. - Ended 7/23. Thanks for the bids!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2015 20:32:11 +0000</listdate>
+    <saledate>Fri, 28 Jul 2017 16:47:53 +0000</saledate>
+    <price currency='USD'>42.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+WING LEADER VICTORIES 1940-42: $42.95
+GMT Games [GMT 1507]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Nov 2016 12:09:44 +0000</listdate>
+    <saledate>Fri, 04 Aug 2017 23:24:45 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap.  Perfect condition!  Shipped same or next day!  Flat shipping cost of $20 for USPS Priority Mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 28 Jul 2017 18:36:12 +0000</listdate>
+    <saledate>Wed, 09 Aug 2017 13:06:36 +0000</saledate>
+    <price currency='USD'>48.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in their factory shrink-wrap.
+WING LEADER VICTORIES 1940-42: $48.95
+GMT Games [GMT 1507]
+SHIPPING
+Continental U.S. - $14.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 May 2017 18:28:00 +0000</listdate>
+    <saledate>Wed, 16 Aug 2017 19:13:53 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened, but never played</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Aug 2017 21:41:36 +0000</listdate>
+    <saledate>Sun, 03 Sep 2017 17:00:06 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Never played
+Buyer to pay actual shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Sep 2017 03:08:26 +0000</listdate>
+    <saledate>Mon, 02 Oct 2017 16:49:19 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Complete and comes from a smoke free home.  Buyer pays actual shipping from 44044.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Mar 2016 21:47:02 +0000</listdate>
+    <saledate>Sat, 16 Dec 2017 02:15:57 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Punched, complete, played 3 times but my most frequent opponent didn_T_E_M_P_T_A_G_#039;t care for it so it won_T_E_M_P_T_A_G_#039;t get more table time at my house; box and components all in excellent condition
+All games come from a non-smoking home and have been stored in a temperature-controlled environment unless otherwise noted.
+Feel free to look over my entire BGG collection as nearly everything can be available for purchase and discounts may be available if multiple items are purchased at the same time.
+Shipping charges are actual cost of shipping only - no added fees, etc.
+PayPal accepted with Verified Account/Verified Address.
+Personal checks accepted only if drawn on BB_T_E_M_P_T_A_G_amp;T, SunTrust, Union First or Wells Fargo banks.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Oct 2017 19:16:42 +0000</listdate>
+    <saledate>Mon, 01 Jan 2018 16:58:37 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>new</condition>
+    <notes>Buyer pays shipping. 
+NIS and includes printed 2.0.1 rules. 
+CoD okay for local pickup.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jan 2018 06:23:11 +0000</listdate>
+    <saledate>Tue, 02 Jan 2018 18:56:31 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>new</condition>
+    <notes>In shrink, but one corner is dinged a little.  Shipping via USPS ($13 in USA) or Fedex; local pickup available near west LA.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jan 2018 02:23:54 +0000</listdate>
+    <saledate>Thu, 04 Jan 2018 04:00:56 +0000</saledate>
+    <price currency='USD'>41.65</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Jan 2018 22:03:04 +0000</listdate>
+    <saledate>Mon, 29 Jan 2018 20:03:01 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>Game is in shrink, buyer to pay for shipping, will ship worldwide.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Dec 2017 17:55:00 +0000</listdate>
+    <saledate>Sun, 04 Feb 2018 06:05:18 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>Punched, sorted in ziplock bags and a GMT counter tray</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Oct 2017 15:56:30 +0000</listdate>
+    <saledate>Fri, 09 Feb 2018 03:04:57 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Game is new in shrink.  The box has some severe crushing on the front and side, and one creased corner on the back.  Please see pictures for details.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 Aug 2017 10:16:35 +0000</listdate>
+    <saledate>Fri, 09 Feb 2018 03:41:57 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Counters beautifully clipped and sorted in GMT tray
+Buyer pays shipping
+COD ok for local pickup</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Feb 2018 13:17:22 +0000</listdate>
+    <saledate>Wed, 14 Feb 2018 04:59:17 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Never played. Some counters punched and bagged. Will ship USPS from 03036</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Dec 2015 14:04:36 +0000</listdate>
+    <saledate>Thu, 15 Feb 2018 22:14:47 +0000</saledate>
+    <price currency='GBP'>64.95</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Dec 2017 10:34:08 +0000</listdate>
+    <saledate>Mon, 19 Feb 2018 17:15:34 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Feb 2017 11:30:10 +0000</listdate>
+    <saledate>Tue, 27 Feb 2018 12:42:20 +0000</saledate>
+    <price currency='EUR'>64.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Mar 2018 14:37:47 +0000</listdate>
+    <saledate>Fri, 02 Mar 2018 16:56:43 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Game is new in shrink and in great shape!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Feb 2018 17:08:52 +0000</listdate>
+    <saledate>Sun, 04 Mar 2018 17:27:29 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Shrink removed only unpunched unplayed</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Feb 2018 15:26:36 +0000</listdate>
+    <saledate>Tue, 13 Mar 2018 11:12:22 +0000</saledate>
+    <price currency='EUR'>39</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Mar 2018 08:12:58 +0000</listdate>
+    <saledate>Thu, 15 Mar 2018 21:57:59 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>used once</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Mar 2018 09:11:15 +0000</listdate>
+    <saledate>Sun, 25 Mar 2018 16:41:41 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>new</condition>
+    <notes>Box opened, but never played. Counters are unpunched.
+Please ask for shipping costs, I will ship worldwide.
+Payment methods:
+- bank transfer
+- PayPal Family_T_E_M_P_T_A_G_amp;Friends
+- PayPal (+5%)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Feb 2018 09:00:25 +0000</listdate>
+    <saledate>Mon, 09 Apr 2018 21:23:38 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>Unplayed 
+Shipping Germany 6 Euro
+Shipping EU 16 Euro</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Mar 2018 15:19:46 +0000</listdate>
+    <saledate>Tue, 01 May 2018 17:47:05 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Aug 2016 23:56:17 +0000</listdate>
+    <saledate>Wed, 02 May 2018 21:14:38 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>likenew</condition>
+    <notes>Played twice, it_T_E_M_P_T_A_G_#039;s too fiddly for my taste.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Feb 2018 12:44:46 +0000</listdate>
+    <saledate>Wed, 13 Jun 2018 14:12:54 +0000</saledate>
+    <price currency='EUR'>64.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jun 2018 23:03:43 +0000</listdate>
+    <saledate>Fri, 29 Jun 2018 18:45:37 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Absolute Mint Condition. UNPUNCHED. Box Cellophane Removed: Contents Inventoried.
+Note: I will only ship this game outside CONUS via USPS Priority Mail Insured.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jul 2018 22:38:12 +0000</listdate>
+    <saledate>Mon, 23 Jul 2018 02:51:30 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243043/item/6237192#6237192]Item for Geeklist _T_E_M_P_T_A_G_quot;Large Wargame, Kickstarter and Other Games Auction ---  $5 Starting Bids!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Jul 2018 11:58:17 +0000</listdate>
+    <saledate>Tue, 24 Jul 2018 12:24:45 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This item is reserved for BGG user _T_E_M_P_T_A_G_quot;Travdaddy11_T_E_M_P_T_A_G_quot; winner from the auction _T_E_M_P_T_A_G_quot;Wargame Extravaganza Auction_T_E_M_P_T_A_G_quot; If you are not _T_E_M_P_T_A_G_quot;Travdaddy11_T_E_M_P_T_A_G_quot;, please ignore this posting. 
+Payment to be made via PayPal prior to shipping. 
+Please pay within 7 days of auctions end.
+Please note that I usually ship within 24-48 hours of receiving payment.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Oct 2018 03:47:22 +0000</listdate>
+    <saledate>Mon, 01 Oct 2018 05:24:34 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246196/item/6408745#6408745]Item for Geeklist _T_E_M_P_T_A_G_quot;Quick Auction Ends 9/30 - Star Wars Imperial Assault LOT, Curio, Wing Leader_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Oct 2018 03:27:11 +0000</listdate>
+    <saledate>Sat, 06 Oct 2018 22:16:53 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>new</condition>
+    <notes>New in shrink!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Aug 2018 01:46:46 +0000</listdate>
+    <saledate>Sat, 13 Oct 2018 20:24:50 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>Still in Original shrink. Perfect box.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Dec 2018 21:27:33 +0000</listdate>
+    <saledate>Sat, 08 Dec 2018 20:30:18 +0000</saledate>
+    <price currency='USD'>51</price>
+    <condition>likenew</condition>
+    <notes>Game was opened but never played.  The components are unpunched,</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jun 2017 17:21:40 +0000</listdate>
+    <saledate>Fri, 14 Dec 2018 19:17:29 +0000</saledate>
+    <price currency='EUR'>69.49</price>
+    <condition>new</condition>
+    <notes>CONDITION: New
+PAYMENT: Bank transfer is free. Paypal is +2€.
+SHIPPING: Germany 4,99€, EU 9,99€.
+SHIPPING: For multiple games Germany 5,99€, EU 11,99€ (GRE/BUL/CRO/ROM 18,99€).
+SHIPPING: Pickup at our weekly game night in Berlin is possible.
+DISCOUNT: For orders above 99€ free shipping in Germany.
+All prices include VAT.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Aug 2018 09:21:21 +0000</listdate>
+    <saledate>Sat, 12 Jan 2019 15:13:02 +0000</saledate>
+    <price currency='GBP'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

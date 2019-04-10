@@ -1,0 +1,781 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="38545">
+   <yearpublished>2008</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>20</playingtime>
+   <minplaytime>20</minplaytime>
+   <maxplaytime>20</maxplaytime>
+   <age>0</age>
+       <name primary="true" sortindex="1">Kamisado</name>
+       <name  sortindex="1">Kamisado Pocket</name>
+       <name  sortindex="1">Камисадо</name>
+         
+   <description>Kamisado is a game of pure skill and strategy with no dice, cards or other chance element _T_E_M_P_T_A_G_amp;mdash; it's just you against your opponent!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The aim in each round is to be the first to get an octagonal _T_E_M_P_T_A_G_amp;quot;dragon tower_T_E_M_P_T_A_G_amp;quot; to the opposite side of the board; towers move in straight lines, either forwards or diagonally forwards. The twist is that you must move the tower of the color matching the space on which the opponent moved on her previous turn. As the game progresses, you'll find that the routes you want to use are blocked by enemy towers _T_E_M_P_T_A_G_amp;mdash; and sometimes your own! If you can't move, your opponent moves again immediately, moving the tower matching the color of the space occupied by the stymied tower._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;As the game unfolds, your towers will be promoted to _T_E_M_P_T_A_G_amp;quot;Sumos_T_E_M_P_T_A_G_amp;quot; and have the ability to push your opponent's pieces backwards, earning you extra turns. The situations continue to become more complex and challenging, until one player accumulates the required winning total and can be declared a _T_E_M_P_T_A_G_amp;quot;Kamisado Grand Master_T_E_M_P_T_A_G_amp;quot; _T_E_M_P_T_A_G_amp;mdash; until the next game!_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/gT45ZOIWoBzAFZzCQHdkioekJvw=/fit-in/200x150/pic710500.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/HatRPk65DAX0mfzrcN8VNaZDpwQ=/0x0/pic710500.jpg</image>
+      
+            <boardgamepublisher objectid="2864">Burley Games</boardgamepublisher>
+               <boardgamehonor objectid="8414">2009 Golden Geek Best 2-Player Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="12968">2009 International Gamers Award - General Strategy: Two-players</boardgamehonor>
+               <boardgamehonor objectid="18873">2009 JoTa Best 2-Player Board Game Audience Award</boardgamehonor>
+               <boardgamehonor objectid="18872">2009 JoTa Best 2-Player Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="21778">2009 UK Games Expo Best Abstract Game Winner</boardgamehonor>
+               <boardgamehonor objectid="12418">2010 Deutscher Lernspielpreis _T_E_M_P_T_A_G_quot;9 years and up_T_E_M_P_T_A_G_quot; Nominee</boardgamehonor>
+               <boardgamehonor objectid="8635">2010 Spiel des Jahres Recommended</boardgamehonor>
+               <boardgamehonor objectid="21007">2012 Le Lys Grand Public Finalist</boardgamehonor>
+               <boardgamepublisher objectid="267">999 Games</boardgamepublisher>
+               <boardgamesubdomain objectid="4666">Abstract Games</boardgamesubdomain>
+               <boardgamecategory objectid="1009">Abstract Strategy</boardgamecategory>
+                      <boardgamedesigner objectid="84">Peter Burley</boardgamedesigner>
+               <boardgamefamily objectid="26432">Combinatorial</boardgamefamily>
+               <boardgamepodcastepisode objectid="164014">Cult of the New Board Game Podcast 004 – Essen 2015 Diary!</boardgamepodcastepisode>
+               <boardgameartist objectid="11802">Peter Dennis</boardgameartist>
+               <boardgamepublisher objectid="2366">Devir</boardgamepublisher>
+                      <boardgameversion objectid="23003">English/German first edition</boardgameversion>
+                      <boardgamepublisher objectid="1280">FoxMind</boardgamepublisher>
+                                                                                                                                                    <boardgamemechanic objectid="2676">Grid Movement</boardgamemechanic>
+               <boardgamepublisher objectid="3490">HUCH!</boardgamepublisher>
+                             <videogamebg objectid="196791">Kamisado</videogamebg>
+               <boardgameimplementation objectid="153498">Kamisado Max</boardgameimplementation>
+                      <boardgameimplementation objectid="110245">Kamisado Schnupperspiel</boardgameimplementation>
+                             <boardgameartist objectid="43527">Neil Merryweather</boardgameartist>
+               <boardgameversion objectid="229896">Multilingual fifth edition</boardgameversion>
+               <boardgameversion objectid="266865">Multilingual fourth edition</boardgameversion>
+               <boardgameversion objectid="23004">Multilingual second edition</boardgameversion>
+               <boardgameversion objectid="132856">Multilingual third edition</boardgameversion>
+                                                  <boardgameversion objectid="177396">Russian edition</boardgameversion>
+                      <boardgameartist objectid="56860">Steve Tolley</boardgameartist>
+                                    <boardgamepublisher objectid="1466">Zvezda</boardgamepublisher>
+               <boardgameimplementation objectid="26151" inbound="true">Square Routes</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="18">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="11" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="16" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="12" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="14">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="14" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="10">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="2" />
+     <result value="8" numvotes="6" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1761</usersrated>
+     <average>6.94276</average>
+     <bayesaverage>6.35168</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1188" bayesaverage="6.35168" />
+            
+       
+              <rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="46" bayesaverage="6.7382" />
+            
+           </ranks>
+     
+     <stddev>1.32252</stddev>
+     <median>0</median>
+     <owned>2279</owned>
+     <trading>56</trading>
+     <wanting>99</wanting>
+     <wishing>518</wishing>
+     <numcomments>463</numcomments>
+     <numweights>107</numweights>
+     <averageweight>2.486</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 10 Oct 2008 18:08:40 +0000</listdate>
+    <saledate>Fri, 10 Oct 2008 22:01:55 +0000</saledate>
+    <price currency='GBP'>29.99</price>
+    <condition>new</condition>
+    <notes>NEW factory sealed world wide exclusive for boardgamegeek !!!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Oct 2008 05:22:38 +0000</listdate>
+    <saledate>Sun, 26 Oct 2008 04:00:34 +0000</saledate>
+    <price currency='GBP'>29.99</price>
+    <condition>new</condition>
+    <notes>NEW factory sealed world wide exclusive for boardgamegeek !!!
+hi guys..this is the last one ..!!!! -_T_E_M_P_T_A_G_gt; when is gone..  is gone ;-)
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Oct 2008 02:06:26 +0000</listdate>
+    <saledate>Mon, 15 Dec 2008 12:58:37 +0000</saledate>
+    <price currency='GBP'>29</price>
+    <condition>new</condition>
+    <notes>NEW FACTORY SEALED ! IN STOCK !
+note.. as the pound is getting wicker and wicker day by day : exchange rate (15 nov. 08)
+29.00 GBP = 43.0766 USD 
+29.00 GBP = 53.3394 CAD 
+29.00 GBP = 66.7714 AUD 
+29.00 GBP = 33.6936 EUR 
+29.00 GBP = 1,176.46 RUB (russian)
+29.00 GBP = 4,169.45 JPY 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Dec 2008 19:37:36 +0000</listdate>
+    <saledate>Mon, 31 Aug 2009 06:23:04 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>new</condition>
+    <notes>NEW FACTORY SEALED ! IN STOCK !
+ 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Dec 2008 07:57:29 +0000</listdate>
+    <saledate>Sat, 27 Dec 2008 20:36:11 +0000</saledate>
+    <price currency='EUR'>39.95</price>
+    <condition>new</condition>
+    <notes>mint!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Dec 2008 15:30:17 +0000</listdate>
+    <saledate>Fri, 02 Jan 2009 18:41:13 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+KAMISADO: $49.95 ...in stock now...no waiting!
+Burley Games (2008)
+SHIPPING
+Continental U.S. - FedEx: $9.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Mar 2009 01:38:21 +0000</listdate>
+    <saledate>Tue, 07 Apr 2009 01:31:42 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>The shrinkwrap was removed and the contents were examined.  Game is in perfect shape.
+I prefer paypal payments but I also accept money orders. I will ship once I receive payment. I will ship USPS, UPS or Fed Ex at my discretion. Although I pack my games well, I cannot be responsible for any damage caused during shipping. Insurance is available to buyers at cost.
+Shipping is $9</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 May 2009 22:21:47 +0000</listdate>
+    <saledate>Fri, 09 Oct 2009 04:25:03 +0000</saledate>
+    <price currency='USD'>33.49</price>
+    <condition>new</condition>
+    <notes>FRED Distribution (FDD 101132N)
+Kamisado is a game of pure skill and strategy! There are no dice, cards or any other chance element -- just you against your opponent. The aim in each round is to be the first to get an octagonal ‘dragon tower’ to the opposite side of the board by moving the towers in straight lines, either forward or diagonally. It sounds easy, doesn’t it? Well, of course there’s a twist: You can only move a tower if its color matches the color of the square your opponent last moved to. Also, you’ll sometimes find the routes you want to use blocked by enemy towers (and sometimes your own!). As the game unfolds, your towers will be promoted to ‘Sumos’, and will gain the ability to push your opponent’s pieces backwards, earning you extra turns. The situations continue to become more complex and challenging, until one player accumulates the required winning total and can be declared a ‘Kamisado Grand Master’!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jun 2009 11:39:14 +0000</listdate>
+    <saledate>Thu, 23 Jul 2009 16:11:58 +0000</saledate>
+    <price currency='GBP'>26.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £4.40 postage to UK.
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a   discount for purchases over £50. Please contact me for details. All items (approximately 500 unique games) I list are in stock and will be posted within 24 working hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jul 2009 17:30:51 +0000</listdate>
+    <saledate>Thu, 30 Jul 2009 09:45:50 +0000</saledate>
+    <price currency='USD'>27.5</price>
+    <condition>likenew</condition>
+    <notes>Complete and like-new. Box has some extremely minor corner deformation from original shipping. Otherwise the game appears pristine.
+Weight is 4lb 15oz. Due to the fact it won_T_E_M_P_T_A_G_#039;t fit in a regular mailing box, shipping will be by FedEx Ground, approx. $12.75 in the US, cheaper if your close to California.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Aug 2009 13:39:59 +0000</listdate>
+    <saledate>Fri, 12 Feb 2010 23:33:05 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Condition: Complete game (no missing pieces). Played only a few times. All components in great condition. Rules have handwritten clarifications on them.
+Shipping _T_E_M_P_T_A_G_amp; Handling: Please, send me an e-mail and I will let you know about the cost.
+Payment: PayPal ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Sep 2009 12:48:16 +0000</listdate>
+    <saledate>Tue, 05 Jan 2010 13:45:51 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>new</condition>
+    <notes>NEW</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Oct 2009 14:45:20 +0000</listdate>
+    <saledate>Mon, 07 Dec 2009 20:47:08 +0000</saledate>
+    <price currency='USD'>33.49</price>
+    <condition>new</condition>
+    <notes>FRED Distribution (FDD 101132N)
+Kamisado is a game of pure skill and strategy! There are no dice, cards or any other chance element -- just you against your opponent. The aim in each round is to be the first to get an octagonal ‘dragon tower’ to the opposite side of the board by moving the towers in straight lines, either forward or diagonally. It sounds easy, doesn’t it? Well, of course there’s a twist: You can only move a tower if its color matches the color of the square your opponent last moved to. Also, you’ll sometimes find the routes you want to use blocked by enemy towers (and sometimes your own!). As the game unfolds, your towers will be promoted to ‘Sumos’, and will gain the ability to push your opponent’s pieces backwards, earning you extra turns. The situations continue to become more complex and challenging, until one player accumulates the required winning total and can be declared a ‘Kamisado Grand Master’!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Oct 2009 20:29:41 +0000</listdate>
+    <saledate>Thu, 26 Nov 2009 15:03:48 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played. I will ship FedEx Ground ($5 for shipping) and provide a tracking number. If you have any questions just ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Jan 2010 18:54:29 +0000</listdate>
+    <saledate>Fri, 24 Feb 2012 19:35:28 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>new</condition>
+    <notes>NEW factory sealed !
+P.Burley version top notch production,box weight packed kg. 1.8, special discounted shipping worldwide prices !</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Feb 2010 23:16:15 +0000</listdate>
+    <saledate>Wed, 09 Jun 2010 20:16:01 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>new</condition>
+    <notes>Brand New in Shrink!
+A portion of the earnings from each sale is donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Shipping to USA48: 
+$9.00 UPS Ground with tracking and insurance
+Other shipping options available upon request.
+I will combine shipping to save you money when ordering multiple games.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Mar 2010 11:48:34 +0000</listdate>
+    <saledate>Mon, 29 Mar 2010 20:53:31 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 May 2010 07:40:05 +0000</listdate>
+    <saledate>Thu, 27 May 2010 03:39:00 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>RESERVED for Diego Mascheroni (Pinhead)
+Early Bird Sale/Trade for Live Rummage Sale 5/22</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Jun 2010 13:56:50 +0000</listdate>
+    <saledate>Thu, 24 Jun 2010 00:12:37 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink. Beautiful colorful game with lots of strategies.
+Huch und Friends version as pictured.
+I will ship worldwide.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Jul 2010 14:26:53 +0000</listdate>
+    <saledate>Mon, 19 Jul 2010 22:19:11 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>The game:
+English version from Burley Games.
+All game are in great condition.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within EU I prefer the EU-standard-bank-tranfer (SEPA,IBAN/BIC). It is fast and causes no fees.
+Outside EU Paypal and bank-transfer are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Aug 2010 17:37:30 +0000</listdate>
+    <saledate>Tue, 07 Dec 2010 14:18:51 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Reserved for farmpup.
+Very Good Condition. Some minor box wear. 
+Buyer only pays actual shipping. Send me your postal code for an estimate. Combined shipping available. Thanks</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Oct 2010 18:50:02 +0000</listdate>
+    <saledate>Sat, 19 Mar 2011 21:49:35 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>FRED Distribution (FDD 101132N)
+Kamisado is a game of pure skill and strategy! There are no dice, cards or any other chance element -- just you against your opponent. The aim in each round is to be the first to get an octagonal ‘dragon tower’ to the opposite side of the board by moving the towers in straight lines, either forward or diagonally. It sounds easy, doesn’t it? Well, of course there’s a twist: You can only move a tower if its color matches the color of the square your opponent last moved to. Also, you_T_E_M_P_T_A_G_#039;ll sometimes find the routes you want to use blocked by enemy towers (and sometimes your own!). As the game unfolds, your towers will be promoted to _T_E_M_P_T_A_G_#039;Sumos_T_E_M_P_T_A_G_#039;, and will gain the ability to push your opponent_T_E_M_P_T_A_G_#039;s pieces backwards, earning you extra turns. The situations continue to become more complex and challenging, until one player accumulates the required winning total and can be declared a _T_E_M_P_T_A_G_#039;Kamisado Grand Master_T_E_M_P_T_A_G_#039;!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Dec 2010 22:22:34 +0000</listdate>
+    <saledate>Wed, 08 Dec 2010 15:00:07 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>Burley version, opened but unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Dec 2010 10:32:56 +0000</listdate>
+    <saledate>Wed, 02 Feb 2011 20:20:00 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes>UK postage will be £10.00.  I won_T_E_M_P_T_A_G_#039;t post abroad.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Mar 2011 11:46:22 +0000</listdate>
+    <saledate>Wed, 05 Oct 2011 05:19:27 +0000</saledate>
+    <price currency='USD'>30.49</price>
+    <condition>new</condition>
+    <notes>FRED Distribution (FDD 101132N)
+Kamisado is a game of pure skill and strategy! There are no dice, cards or any other chance element -- just you against your opponent. The aim in each round is to be the first to get an octagonal ‘dragon tower’ to the opposite side of the board by moving the towers in straight lines, either forward or diagonally. It sounds easy, doesn’t it? Well, of course there’s a twist: You can only move a tower if its color matches the color of the square your opponent last moved to. Also, you_T_E_M_P_T_A_G_#039;ll sometimes find the routes you want to use blocked by enemy towers (and sometimes your own!). As the game unfolds, your towers will be promoted to _T_E_M_P_T_A_G_#039;Sumos_T_E_M_P_T_A_G_#039;, and will gain the ability to push your opponent_T_E_M_P_T_A_G_#039;s pieces backwards, earning you extra turns. The situations continue to become more complex and challenging, until one player accumulates the required winning total and can be declared a _T_E_M_P_T_A_G_#039;Kamisado Grand Master_T_E_M_P_T_A_G_#039;!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Apr 2011 06:14:07 +0000</listdate>
+    <saledate>Mon, 04 Jul 2011 04:38:46 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>Game in excellent condition. I will only charge the actual USPS shipping price (lowest possible) with delivery confirmation for the game.
+Feel free to browse through my other games for sale in the marketplace. I will provide free shipping in the continental US for orders over $150. I will also offer $10 off on shipping to anywhere else in the world for orders over $150.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Oct 2011 13:29:23 +0000</listdate>
+    <saledate>Sun, 22 Jan 2012 23:56:02 +0000</saledate>
+    <price currency='USD'>30.49</price>
+    <condition>new</condition>
+    <notes>FRED Distribution (FDD 101132N)
+Kamisado is a game of pure skill and strategy! There are no dice, cards or any other chance element -- just you against your opponent. The aim in each round is to be the first to get an octagonal ‘dragon tower’ to the opposite side of the board by moving the towers in straight lines, either forward or diagonally. It sounds easy, doesn’t it? Well, of course there’s a twist: You can only move a tower if its color matches the color of the square your opponent last moved to. Also, you_T_E_M_P_T_A_G_#039;ll sometimes find the routes you want to use blocked by enemy towers (and sometimes your own!). As the game unfolds, your towers will be promoted to _T_E_M_P_T_A_G_#039;Sumos_T_E_M_P_T_A_G_#039;, and will gain the ability to push your opponent_T_E_M_P_T_A_G_#039;s pieces backwards, earning you extra turns. The situations continue to become more complex and challenging, until one player accumulates the required winning total and can be declared a _T_E_M_P_T_A_G_#039;Kamisado Grand Master_T_E_M_P_T_A_G_#039;!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Feb 2012 21:48:53 +0000</listdate>
+    <saledate>Wed, 02 May 2012 20:33:18 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>US Version, like new, played a few times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Mar 2012 16:27:53 +0000</listdate>
+    <saledate>Thu, 18 Sep 2014 00:38:19 +0000</saledate>
+    <price currency='USD'>32.49</price>
+    <condition>new</condition>
+    <notes>Brand New!
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a continental USA street address: $11.95</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 May 2012 20:56:09 +0000</listdate>
+    <saledate>Fri, 17 Aug 2012 04:17:24 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>$10 USPS Priority shipping, U.S. only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jun 2012 03:53:26 +0000</listdate>
+    <saledate>Mon, 11 Jun 2012 17:30:22 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>Still in shrink. Burley Games edition.
+This listing also includes the game CARNIVAL. Comes with the sideshow and wild die expansions. Opened, but never played.
+THIS LISTING IS RESERVED FOR AUCTION WINNER JGOYES</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Jul 2012 16:18:57 +0000</listdate>
+    <saledate>Mon, 16 Jul 2012 18:16:12 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>This item is reserved for (easye1982)
+If you_T_E_M_P_T_A_G_#039;re NOT HIM, please DO NOT purchase.
+Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jul 2012 03:57:23 +0000</listdate>
+    <saledate>Tue, 17 Jul 2012 12:21:15 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Reserved for auction winner - Justin Fitzgerald (kakarismaelstrom)
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Sep 2012 23:54:23 +0000</listdate>
+    <saledate>Sun, 02 Sep 2012 03:29:42 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>For Lord_Prussian:
+27. Board Game: Kamisado $13
+33. Board Game: Medici vs Strozzi $10
+Shipping $11 (priority)
+Total = $34
+Payable to KakarisMaelstrom@gmail.com.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 Feb 2013 04:15:47 +0000</listdate>
+    <saledate>Thu, 28 Feb 2013 22:58:19 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>for chiefsachem ONLY (geeklist auction)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Apr 2013 03:55:49 +0000</listdate>
+    <saledate>Fri, 19 Apr 2013 00:44:26 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This copy of kamisado is on reserve for travvller for an auction win.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jan 2014 09:28:19 +0000</listdate>
+    <saledate>Thu, 23 Jan 2014 17:28:32 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 31 Mar 2014 02:55:43 +0000</listdate>
+    <saledate>Tue, 06 May 2014 04:16:13 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Sep 2014 20:23:52 +0000</listdate>
+    <saledate>Sat, 20 Sep 2014 22:33:40 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Shipping is $12 and the game should arrive in 2 to 3 days.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Oct 2014 23:30:46 +0000</listdate>
+    <saledate>Sun, 26 Oct 2014 06:52:15 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>Reserved for tactitles</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Aug 2014 23:31:57 +0000</listdate>
+    <saledate>Fri, 02 Jan 2015 22:30:08 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Opened, but never played. Shipping is actual cost from zip 48911. Spend $150 or more in my market and I will take 10% off the final total of your order(including shipping!). Pics of any of my games are available upon request!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Feb 2015 06:09:22 +0000</listdate>
+    <saledate>Fri, 06 Feb 2015 14:21:14 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/185864/item/3686592#3686592]Item for Geeklist _T_E_M_P_T_A_G_quot;US Auction: Five Tribes, Bora Bora, Trajan, Trains, 7 Wonders, SoTM expansions, Viticulture _T_E_M_P_T_A_G_amp; more, Ends Feb 4_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Sep 2014 22:59:35 +0000</listdate>
+    <saledate>Sun, 15 Feb 2015 12:58:05 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Reserved for ConnerCP
+Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Feb 2015 23:13:09 +0000</listdate>
+    <saledate>Mon, 02 Mar 2015 01:54:12 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Played once.  Abstracts are just not appreciated in my house.  This is the English/German first edition.  Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Apr 2015 23:04:45 +0000</listdate>
+    <saledate>Sun, 10 May 2015 16:47:56 +0000</saledate>
+    <price currency='USD'>14.43</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 May 2015 17:02:45 +0000</listdate>
+    <saledate>Tue, 19 May 2015 22:04:23 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190563/item/3869139#3869139]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee VIII:  Who Cut The Cheese?_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Jun 2015 11:21:47 +0000</listdate>
+    <saledate>Mon, 01 Jun 2015 19:06:42 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191379/item/3904635#3904635]Item for Geeklist _T_E_M_P_T_A_G_quot;Mostly sealed Euro Columbus, OH Auction!  Origins pickup available._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Jun 2015 11:00:15 +0000</listdate>
+    <saledate>Wed, 10 Jun 2015 17:32:52 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191660/item/3919272#3919272]Item for Geeklist _T_E_M_P_T_A_G_quot;Massive Game Auction: Everything MUST Go!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Mar 2015 20:18:19 +0000</listdate>
+    <saledate>Wed, 24 Jun 2015 04:16:59 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Jul 2015 05:01:06 +0000</listdate>
+    <saledate>Thu, 02 Jul 2015 13:27:50 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191048/item/3927194#3927194]Item for Geeklist _T_E_M_P_T_A_G_quot;Auctioning a Friend_T_E_M_P_T_A_G_#039;s Collection - More than 100 games for sale!!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+reserved for povertidonki
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Mar 2015 01:15:19 +0000</listdate>
+    <saledate>Tue, 18 Aug 2015 19:53:16 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Local pick up only in NYC metro area.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Sep 2015 16:07:02 +0000</listdate>
+    <saledate>Thu, 10 Sep 2015 19:53:38 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/196317/item/4119378#4119378]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED - US Auction -  Ends Today! Final Hours! Twilight Struggle Deluxe, Escape Big Box, BSG, Descent 2e _T_E_M_P_T_A_G_amp; others ends 9/9_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Sep 2015 01:16:41 +0000</listdate>
+    <saledate>Tue, 06 Oct 2015 02:46:29 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Item has only been played a couple of time and is in excellent condition.  Everything looks great.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Nov 2015 05:52:09 +0000</listdate>
+    <saledate>Wed, 25 Nov 2015 15:43:04 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>For river tam (hippiephysicschick) ONLY!
+This sale has been auto-generated for the auction: [geekurl=/geeklist/197044/item/4240183#4240183]Item for Geeklist _T_E_M_P_T_A_G_quot;[US] 50+ Games - 1 Week Auction - Ends XXXX_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Dec 2015 02:07:30 +0000</listdate>
+    <saledate>Mon, 11 Jan 2016 19:43:47 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Good condition! Never played, just opened.
+Pay cheapest actual shipping, and will combine with other items.
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Mar 2016 18:50:03 +0000</listdate>
+    <saledate>Sun, 13 Mar 2016 03:18:25 +0000</saledate>
+    <price currency='USD'>83</price>
+    <condition>new</condition>
+    <notes>Auction item reserved for BGG user _T_E_M_P_T_A_G_quot;bigglesbee_T_E_M_P_T_A_G_quot; only.
+Items: 
+$22 - Kamisado
+$21 - Forbidden Desert
+$20 - Druidenwalzer
+$12 - Kahuna
+$ 8 - Lost Temple
+-----------------------------------
+SUBTOTAL - $83
+Please complete this order by clicking _T_E_M_P_T_A_G_quot;Add to Cart_T_E_M_P_T_A_G_quot; and then _T_E_M_P_T_A_G_quot;Proceed to Checkout,_T_E_M_P_T_A_G_quot; making sure your delivery information is correct.  I will confirm the order giving the total owed, plus shipping, along with my PayPal account for payment. 
+If you plan on local pick-up, specify whether you will be picking up in Rochester or in NYC (we will have to work out details for pick-up individually). Otherwise, shipping costs will be based on the policy detailed in the auction header (click on link below). Exact shipping costs will be provided upon order confirmation. 
+This sale has been auto-generated for the auction: [geekurl=/geeklist/205786/item/4488922#4488922]Item for Geeklist _T_E_M_P_T_A_G_quot;*LAST DAY!* Auction: Lots of Rare _T_E_M_P_T_A_G_amp; OOP Games/Expansions. Ends March 11, 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Mar 2016 02:02:07 +0000</listdate>
+    <saledate>Tue, 29 Mar 2016 14:15:16 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205267/item/4490770#4490770]Item for Geeklist _T_E_M_P_T_A_G_quot;The Great Purge of 2016 continues...help me clear my shelves! Raising funds for suicide awareness._T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Jan 2016 13:05:34 +0000</listdate>
+    <saledate>Sun, 03 Apr 2016 13:48:17 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>Unplayed but not in shrink anymore.
+Shipping within Germany 4,50 Euro or 7,- Euro with tracking and insurance.
+Please ask for EU and worldwide shipping costs.
+PayPal possible</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jan 2016 19:14:29 +0000</listdate>
+    <saledate>Sun, 10 Apr 2016 16:30:12 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>verygood</condition>
+    <notes>Kamisado, bought new, played about a half dozen times, in excellent condition. Instructions in French, English, German.
+Approximate shipping costs with insurance:
+4.99€ Germany
+11.20€ EU
+19.20€ World
+Or if you live in Berlin you can come by and pick it up.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Jun 2016 18:17:19 +0000</listdate>
+    <saledate>Sat, 25 Jun 2016 21:54:30 +0000</saledate>
+    <price currency='GBP'>6</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/210261/item/4693393#4693393]Item for Geeklist _T_E_M_P_T_A_G_quot;[UK/Europe] FIFTH AUCTION IN MY 2016 CHALLENGE_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Mar 2016 07:52:21 +0000</listdate>
+    <saledate>Thu, 22 Sep 2016 13:43:18 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>likenew</condition>
+    <notes>Played once.
+Components in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Dec 2016 02:34:54 +0000</listdate>
+    <saledate>Fri, 02 Dec 2016 03:50:44 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/217292/item/5035342#5035342]Item for Geeklist _T_E_M_P_T_A_G_quot;Selling games to support suicide awareness!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Jan 2017 05:50:04 +0000</listdate>
+    <saledate>Sat, 07 Jan 2017 08:47:56 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/205983/item/4502111#4502111]Item for Geeklist _T_E_M_P_T_A_G_quot;Save My Games Before My Child Destroys It All_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 May 2017 11:38:34 +0000</listdate>
+    <saledate>Tue, 02 May 2017 11:45:12 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/224814/item/5359383#5359383]Item for Geeklist _T_E_M_P_T_A_G_quot;US auction with BINs ships from SE WI, includes Memoir 44 D-Day maps, Zombicide Season 3, Mice and Mystics, Battlelore 2nd Edition and more!!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Oct 2017 18:06:16 +0000</listdate>
+    <saledate>Mon, 16 Oct 2017 23:19:59 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228286/item/5697495#5697495]Item for Geeklist _T_E_M_P_T_A_G_quot;The Essen 2017 no-shipping auction list. Post your own items for sale!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Oct 2017 13:36:33 +0000</listdate>
+    <saledate>Sun, 29 Oct 2017 13:48:36 +0000</saledate>
+    <price currency='CAD'>15</price>
+    <condition>verygood</condition>
+    <notes>Sold to J Jones (SOMEGI), for delivery at CastleCon</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Aug 2017 23:25:19 +0000</listdate>
+    <saledate>Mon, 06 Nov 2017 22:25:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played. Game box and contents are in excellent shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Dec 2016 16:09:15 +0000</listdate>
+    <saledate>Sat, 16 Dec 2017 22:55:17 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Bought used, played a few times by me, no major issues. Multilingual fourth edition (2013) HUCH! _T_E_M_P_T_A_G_amp; friends
+Click image for larger version(s)...
+[ImageID=3285037 inline] [ImageID=3285036 inline]</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Dec 2017 09:27:39 +0000</listdate>
+    <saledate>Sun, 18 Feb 2018 15:47:25 +0000</saledate>
+    <price currency='EUR'>6</price>
+    <condition>verygood</condition>
+    <notes>No box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 May 2015 12:27:45 +0000</listdate>
+    <saledate>Wed, 21 Feb 2018 22:26:37 +0000</saledate>
+    <price currency='EUR'>22</price>
+    <condition>verygood</condition>
+    <notes>Shipping Germany  5 Euro
+Shipping European Union 9 Euro
+Shipping World         16 Euro
+PayPal plus max. 2 Euro
+SEPA transfer via IBAN/BIC usually free</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Feb 2018 20:05:16 +0000</listdate>
+    <saledate>Fri, 23 Feb 2018 02:43:54 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Opened and played a few times.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Jun 2016 09:11:45 +0000</listdate>
+    <saledate>Sun, 18 Mar 2018 20:33:05 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Played only once</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Jul 2018 17:22:39 +0000</listdate>
+    <saledate>Wed, 25 Jul 2018 00:26:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>for Lynda (80sgirl)  $25 + shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Oct 2018 22:45:51 +0000</listdate>
+    <saledate>Fri, 05 Oct 2018 01:26:09 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>For user anubisdeath666.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 23 Oct 2018 13:24:52 +0000</listdate>
+    <saledate>Tue, 23 Oct 2018 19:39:08 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/246415/item/6466093#6466093]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee XIII - Gaming Oktoberfest - Closed!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

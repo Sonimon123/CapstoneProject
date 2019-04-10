@@ -1,0 +1,923 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="223">
+   <yearpublished>1996</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>6</maxplayers>
+   <playingtime>90</playingtime>
+   <minplaytime>90</minplaytime>
+   <maxplaytime>90</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Expedition</name>
+       <name  sortindex="1">Expedition: Abenteurer, Entdecker, Mythen</name>
+       <name  sortindex="1">National Geographic Expedition</name>
+       <name  sortindex="1">Terra-X</name>
+         
+   <description>Based on his earlier effort, Wildlife Adventure, Expedition is a game about moving three commonly held expeditions around the world in search of various archaeological sites. The board is a map of the world with many different branching paths, and players advance the expeditions by placing plastic arrows. When an expedition arrives at a location that matches one of your cards, you score that card. The first player to score all of his cards ends the game, and the highest total score takes the day._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Reimplements_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Wildlife Adventure_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Reimplemented as_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Schatzsucher (children's version)_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Expedition: Famous Explorers_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/uMpAeEVZHEWqPFjy5npG5zezS6s=/fit-in/200x150/pic97042.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/4-6xvxnHiForD2WoQKbsjaURAF4=/0x0/pic97042.jpg</image>
+      
+            <boardgamehonor objectid="13412">1996 Meeples_T_E_M_P_T_A_G_#039; Choice Award</boardgamehonor>
+               <boardgamehonor objectid="8675">1997 Spiel des Jahres Recommended</boardgamehonor>
+               <boardgamehonor objectid="12433">2006 Deutscher Lernspielpreis _T_E_M_P_T_A_G_quot;9 years and up_T_E_M_P_T_A_G_quot; Nominee</boardgamehonor>
+               <boardgamehonor objectid="12407">2006 Deutscher Lernspielpreis _T_E_M_P_T_A_G_quot;9 years and up_T_E_M_P_T_A_G_quot; Winner</boardgamehonor>
+               <boardgamepublisher objectid="8">AMIGO</boardgamepublisher>
+               <boardgamefamily objectid="21940">Archaeology</boardgamefamily>
+               <boardgamepodcastepisode objectid="95421">BGTG 133 - 100 Great Games, part 2 (with Stephen Glenn and Mark Jackson)</boardgamepodcastepisode>
+                                                         <boardgameversion objectid="423249">Dutch/French/Italian edition</boardgameversion>
+               <boardgameversion objectid="131174">Dutch/French/Spanish edition</boardgameversion>
+               <boardgameversion objectid="76614">English edition</boardgameversion>
+                                                  <boardgameimplementation objectid="136558">Expedition: Famous Explorers</boardgameimplementation>
+               <boardgamecategory objectid="1020">Exploration</boardgamecategory>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+                      <boardgameversion objectid="321022">German fifth edition</boardgameversion>
+               <boardgameversion objectid="164497">German first edition</boardgameversion>
+               <boardgameversion objectid="186707">German fourth edition</boardgameversion>
+                                                                                                          <boardgameversion objectid="27227">German second edition</boardgameversion>
+               <boardgameversion objectid="27126">German third edition</boardgameversion>
+                      <boardgameartist objectid="962">Jo Hartwig</boardgameartist>
+               <boardgamedesigner objectid="7">Wolfgang Kramer</boardgamedesigner>
+               <boardgameartist objectid="57201">Marc Margielsky</boardgameartist>
+                      <boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+               <boardgamepublisher objectid="47">Queen Games</boardgamepublisher>
+               <boardgamepublisher objectid="34">Ravensburger Spieleverlag GmbH</boardgamepublisher>
+                      <boardgamemechanic objectid="2081">Route/Network Building</boardgamemechanic>
+               <boardgamecategory objectid="1011">Transportation</boardgamecategory>
+               <boardgamecategory objectid="1097">Travel</boardgamecategory>
+               <boardgameimplementation objectid="156" inbound="true">Wildlife Adventure</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="28">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="10" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="4" />
+     <result value="Recommended" numvotes="16" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="19" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="10" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="5">  
+     <result value="Best" numvotes="5" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+   
+  <results numplayers="6">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="11" />
+    </results>     
+   
+  <results numplayers="6+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="11" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="10">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="4" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="6" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="2" />
+     <result value="10" numvotes="3" />
+     <result value="12" numvotes="1" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1036</usersrated>
+     <average>6.84541</average>
+     <bayesaverage>6.12678</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1746" bayesaverage="6.12678" />
+            
+       
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="423" bayesaverage="6.28285" />
+            
+           </ranks>
+     
+     <stddev>1.24649</stddev>
+     <median>0</median>
+     <owned>1240</owned>
+     <trading>60</trading>
+     <wanting>86</wanting>
+     <wishing>181</wishing>
+     <numcomments>373</numcomments>
+     <numweights>123</numweights>
+     <averageweight>1.9756</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Sun, 01 Dec 2002 08:05:34 +0000</listdate>
+    <saledate>Tue, 17 Dec 2002 22:12:53 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Only played once.  Buyer to pay shipping cost of $5.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Feb 2003 05:52:32 +0000</listdate>
+    <saledate>Thu, 01 May 2003 18:15:08 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>New and shrinkwrapped.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Feb 2003 00:39:24 +0000</listdate>
+    <saledate>Sat, 01 Mar 2003 00:11:22 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Mar 2003 13:59:11 +0000</listdate>
+    <saledate>Sat, 01 May 2004 18:46:43 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>new, still shrinkwrapped.
+Get these new Adventure Wildlife edition.
+Look my other offers, maybe we can combine and save on shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Jul 2003 16:27:59 +0000</listdate>
+    <saledate>Fri, 05 Sep 2003 14:16:45 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>new</condition>
+    <notes>Still in shrinkwrap</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Aug 2003 09:35:32 +0000</listdate>
+    <saledate>Thu, 07 Aug 2003 23:56:43 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Feb 2004 06:07:05 +0000</listdate>
+    <saledate>Tue, 17 Feb 2004 20:43:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 May 2004 09:00:07 +0000</listdate>
+    <saledate>Tue, 25 May 2004 16:54:41 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>new</condition>
+    <notes>new, still shrinkwrapped.
+Get these new Adventure Wildlife edition.
+Look my other offers, maybe we can combine and save on shipping costs.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 01 Jun 2004 13:52:30 +0000</listdate>
+    <saledate>Tue, 06 Jul 2004 17:36:36 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>The game has been opened, but it has never been played.  The instructions and cards are all in German.  This is the _T_E_M_P_T_A_G_quot;Expedition_T_E_M_P_T_A_G_quot; edition of the game, not the _T_E_M_P_T_A_G_quot;Terra-X_T_E_M_P_T_A_G_quot; edition.  All components are present.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Nov 2004 22:14:00 +0000</listdate>
+    <saledate>Fri, 19 Nov 2004 00:19:49 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>While the game is complete and in excellent condition, there is some significant damage to the box--it was damaged in shipping, with a (repaired) split corner and some crushing.  It doesn_T_E_M_P_T_A_G_#039;t look terrible--you can put the good side pointing out on a shelf--but it is damaged.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Dec 2004 13:15:53 +0000</listdate>
+    <saledate>Fri, 13 May 2005 05:17:58 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>new</condition>
+    <notes>new, still shrinkwrapped.
+Get these new Adventure Wildlife edition (Queen games).
+Look my other offers, maybe we can combine and save on shipping costs. 
+Cheapest worldwide shipping is 12.30 Euro.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 25 Dec 2004 04:40:50 +0000</listdate>
+    <saledate>Sat, 25 Dec 2004 08:05:00 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Great shape, barely played.  Complete, of course.  Please buy it, I need space!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Feb 2005 00:16:16 +0000</listdate>
+    <saledate>Thu, 21 Apr 2005 20:07:43 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>This is EXPEDITION by QUENN GAMES
+---- new and in shrink ----
+Shipping is EUR 8.60 within Europe or EUR 13 worldwide. 
+The delivery time varies from 1 to 5 weeks.
+I can offer even more games upon request.
+Please also check listings of my friend montsegur - combined regular shipping is possible.
+For more details on my USA and Canada special shipping offer please click robbirob and then the more info button.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 May 2005 16:32:29 +0000</listdate>
+    <saledate>Wed, 01 Jun 2005 19:03:09 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>I_T_E_M_P_T_A_G_#039;m offering the German edition by Queen Games.
+Shipping is EUR 9,60 within Europe or $18 worldwide, both surface mail, no insurance, no track+trace.
+We have many other interesting and rare games! Email us!
+We can collect games up to 5 - 10 or 20 kg boxes, so you can save shipping costs! Just email for more information!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Aug 2005 17:47:59 +0000</listdate>
+    <saledate>Mon, 07 Aug 2006 16:36:12 +0000</saledate>
+    <price currency='EUR'>27</price>
+    <condition>new</condition>
+    <notes>brandnew, still in shrinkwrap.
+Get these rare and sold out Wolfgang Kramer game in the original Queen Games edition.
+Look my other offers too for more rare german games.
+Cheapest worldwide shipping this game is 12,90 Euro.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jan 2006 22:58:23 +0000</listdate>
+    <saledate>Sun, 19 Mar 2006 02:28:43 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>*** This game has been reserved for ltux ***
+New in shrinkwrap; Queen (German) edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Feb 2006 18:44:21 +0000</listdate>
+    <saledate>Mon, 11 Sep 2006 14:03:37 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>new</condition>
+    <notes>I´m offering the beautiful and rare original German QUEEN edition in mint condition (still in shrink-wrap!)
+This is Kramer at his best...!
+ 
+All games come from a private collection (non-smoking environment)!
+Please contact me if you´re looking for more interesting German games as I can offer a lot more.
+Buyer pays actual postage, so ask before buying to determine the weight of your desired games! 
+The following payments are welcome: 
+(1) Cash in a registered letter (only Euro accepted) or
+(2) Chargefree EU Bank-Transfer (using IBAN and SWIFT) or 
+(3) PayPal (for PayPal payment please add +4 % of the total sum).
+Have fun playing, Flix!
+SHIPPING:
+----------------
+_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt; up to 2000 g without insurance:
+Germany: EUR 4,30
+Europe: EUR 10,00
+US/Canada: EUR 15,00
+_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt; up to 5 kg with insurance
+Germany: EUR 7,00
+Europe: EUR 19,00 - 32,00 (depending on country)
+US/Canada: EUR 34,00</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Aug 2006 23:18:33 +0000</listdate>
+    <saledate>Fri, 25 Aug 2006 01:09:19 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>Queen Games (German).  Played, complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Sep 2006 21:43:34 +0000</listdate>
+    <saledate>Tue, 12 Sep 2006 13:48:12 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>German edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Dec 2006 16:04:59 +0000</listdate>
+    <saledate>Wed, 21 Feb 2007 03:43:08 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>new</condition>
+    <notes>BRANDNEW: I´m offering the beautiful and rare original German QUEEN edition in mint condition (still in shrink-wrap!) My last copy of this one!
+This is Kramer at his best...!
+ 
+All games come from a private collection (non-smoking environment)!
+Please contact me if you´re looking for more interesting German games as I can offer a lot more.
+Buyer pays postage, so ask before buying to determine the weight of your desired games! 
+The following payments are welcome: 
+(1) Cash in a registered letter (only Euro accepted) or
+(2) Chargefree EU Bank-Transfer (using IBAN and SWIFT) or 
+(3) Moneybookers.com (it´s as fast and safe as PayPal but much cheaper: maximum fee is 0.50 EUR) or
+(4) PayPal (for PayPal payment please add +5 % of the total sum).
+Have fun playing, Flix!
+---------------------------------------------
+NEW SHIPPING CONDITIONS TO US! 
+PLEASE READ!!
+---------------------------------------------
+ 
+I have now the possibility to send parcels to the US through a friend of mine who is US Army member in Germany.
+ 
+ + Cheaper shipping (13,90 EURO for Priority  Mail)
+ + including insurance
+ + Much faster delivery (USPS Airmail)
+ = More satisfaction
+ 
+Regular SHIPPING with DHL (=German Post):
+--------------------------------------------------------
+_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt; up to 1000 g without insurance 
+(e.g. small cardgames):
+Europe: EUR 8,00
+US/Canada: EUR 10,00
+_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt; up to 2000 g without insurance:
+Germany: EUR 4,30
+Europe: EUR 10,00
+US/Canada: EUR 15,00
+_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_gt; up to 5 kg with insurance
+Germany: EUR 7,00
+Europe: EUR 19,00 - 32,00 (depending on country)
+US/Canada: EUR 34,00</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 May 2007 10:14:22 +0000</listdate>
+    <saledate>Tue, 27 Nov 2007 13:30:28 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>verygood</condition>
+    <notes>First German edition (Queen Games).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jun 2007 00:14:28 +0000</listdate>
+    <saledate>Tue, 12 Jun 2007 13:45:10 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>likenew</condition>
+    <notes>National Geographic edition.  Opened.  Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Sep 2007 13:40:26 +0000</listdate>
+    <saledate>Thu, 13 Sep 2007 14:11:38 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>German language, Queen Edition.  Barely played at all and in great shape.  Box also in excellent shape.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Oct 2007 10:42:52 +0000</listdate>
+    <saledate>Thu, 22 Nov 2007 08:50:56 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>played once, everything complete and in very good condition. GErman edition by Queen games.
+$18 worldwide surface mail delivery.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Dec 2007 20:03:19 +0000</listdate>
+    <saledate>Sun, 23 Dec 2007 12:07:16 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Outer shrink wrap opened, but the components inside untouched/unpunched/cards still wrapped, never played.  German version of the National Geographic edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Feb 2008 20:15:35 +0000</listdate>
+    <saledate>Mon, 02 Jun 2008 12:58:45 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>German Ravensburger National Geographic Edition</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Jun 2008 23:39:41 +0000</listdate>
+    <saledate>Mon, 09 Jun 2008 16:10:36 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>likenew</condition>
+    <notes>National Geographic: Expedition - Ravensburger
+Like New! English Edition. Removed from shrink, but still in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs plus $2.00 handling charge.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Oct 2008 03:42:56 +0000</listdate>
+    <saledate>Mon, 13 Oct 2008 18:22:12 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap. 
+Back of the box has a shallow u-shaped crease about 7 inches in length. 
+This listing is for the Ravensburger GERMAN edition of National Geographic Expedition.
+Photos:
+1st one shows where the crease is.
+2nd one shows the crease.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Jan 2009 18:44:43 +0000</listdate>
+    <saledate>Sat, 21 Mar 2009 15:15:17 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This is the Queen edition. Complete and in excellent condition.  Box shows slight edge wear only.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Feb 2009 09:53:28 +0000</listdate>
+    <saledate>Mon, 16 Mar 2009 05:36:49 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>acceptable</condition>
+    <notes>box shows some wear from storage, corners taped (this game was from a library), complete , components in very good condition.
+13.90 Euros worldwide surface mail delivery.
+8.60 Euros shipping within the EC.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Apr 2009 05:22:41 +0000</listdate>
+    <saledate>Tue, 26 May 2009 01:31:19 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Queen games Expedition version. Flavor text on cards is in German, though unnecessary for play purposes. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 May 2009 20:31:46 +0000</listdate>
+    <saledate>Mon, 29 Nov 2010 03:37:39 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>german edition
+Will Ship worldwide...
+shipping costs until 2kg between 15-22 U.S. dollar 
+more than 2 kg with more games will cost less in total.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 May 2009 07:24:27 +0000</listdate>
+    <saledate>Mon, 08 Jun 2009 01:42:17 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>good</condition>
+    <notes>Queen games version, cards in German but information not necessary for gameplay. English translation of rules included.
+Played once or twice, but components complete and in excellent condition.  Box in excellent condition with only minimal wear at corners.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jun 2009 22:14:00 +0000</listdate>
+    <saledate>Sat, 03 Apr 2010 02:55:26 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>verygood</condition>
+    <notes>1996 German Edition. Used, complete, in very good condition. English rules included. Game is language independent.
+Shipping _T_E_M_P_T_A_G_amp; Handling: $14.00. Will Only Ship within USA.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Aug 2009 03:56:22 +0000</listdate>
+    <saledate>Sun, 09 Aug 2009 03:27:26 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>new</condition>
+    <notes>reserved for felipedias</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Aug 2009 04:11:48 +0000</listdate>
+    <saledate>Tue, 25 Aug 2009 11:19:44 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>For Jill to order only!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Dec 2009 12:51:39 +0000</listdate>
+    <saledate>Thu, 10 Dec 2009 17:52:47 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>verygood</condition>
+    <notes>This game comes with English rules.  The cards are in German but have pictures and destinations on them and that_T_E_M_P_T_A_G_#039;s all you need to know.  The German text is just educational about the place you are building an expedition to so it would be a bonus and interesting if you can read it but not necessary to play the game.  This game comes from a non-smoking, no pets household in Tennessee.  Please provide your phone number (work or cell is okay) because I ship FedEx Ground.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jan 2010 19:44:05 +0000</listdate>
+    <saledate>Sun, 24 Jul 2011 07:42:37 +0000</saledate>
+    <price currency='EUR'>9.5</price>
+    <condition>good</condition>
+    <notes>By Queen Games
+Shipping is:
+without shipping insurance:
+4 EUR to Germany,10 EUR to EU and 15 EUR worldwide
+including shipping insurance:
+7 EUR to Germany,18 EUR to EU, 35 EUR to Europe, U.S. and Canada and 42 EUR worldwide
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 May 2010 22:38:10 +0000</listdate>
+    <saledate>Tue, 11 May 2010 03:05:32 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Queen Games edition.  German text.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 May 2010 22:19:43 +0000</listdate>
+    <saledate>Thu, 01 Jul 2010 00:42:32 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>verygood</condition>
+    <notes>complete and in very good condition.
+13.90 Euros worldwides surface mail delivery.
+9 Euros shipping within the EC.
+4 Euros shipping within Germany</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Aug 2010 16:12:19 +0000</listdate>
+    <saledate>Wed, 03 Nov 2010 17:17:50 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Expedition (1996) from Queen
+Box:  Box has very light shelfwear with no significant dings, dents, or creases.  Overall the box is in outstanding condition!
+Contents:  Complete and like new!  The pieces have been sorted and stored in plastic bags for convenience and safety -- you will be very happy with how the game is packaged. 
+SHIPPING
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 4 Lbs. International buyers are very welcome, but please contact me for a shipping price quote to avoid any surprises or misunderstandings.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Nov 2010 21:08:13 +0000</listdate>
+    <saledate>Mon, 29 Nov 2010 01:55:41 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Queen (german) Edition, with english rules printout. Complete and in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jan 2011 23:35:38 +0000</listdate>
+    <saledate>Fri, 04 Feb 2011 17:38:12 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>verygood</condition>
+    <notes>Expedition (1996) from Queen
+Box:  Box has very light shelfwear 5_T_E_M_P_T_A_G_quot; long dent on the bottom and a few additional minor dings, dents, and creases. Overall the box is in very good to excellent condition!
+Contents:  Complete and like new!  The pieces have been sorted and stored in plastic bags for convenience and safety -- you will be very happy with how the game is packaged. 
+SHIPPING
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 4 Lbs. International buyers are very welcome, but please contact me for a shipping price quote to avoid any surprises or misunderstandings.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Feb 2011 02:51:24 +0000</listdate>
+    <saledate>Fri, 04 Mar 2011 14:34:00 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This is the Queen_T_E_M_P_T_A_G_#039;s Games version. The English rules are included. All pieces, board, and box are in excellent condition. Kept in a smoke-free house. Shipping will be FedEx from Florida. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Jun 2011 23:43:44 +0000</listdate>
+    <saledate>Thu, 26 Apr 2012 15:17:33 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap, Queen Games version</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Jun 2011 17:51:24 +0000</listdate>
+    <saledate>Wed, 06 Jul 2011 23:24:11 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>new</condition>
+    <notes>German edition from 2005.
+New _T_E_M_P_T_A_G_amp; shrink wrapped.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jul 2011 16:28:42 +0000</listdate>
+    <saledate>Tue, 02 Aug 2011 22:53:03 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Queen Games German Edition, 1996</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Nov 2011 09:06:51 +0000</listdate>
+    <saledate>Sun, 29 Jan 2012 19:22:04 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>likenew</condition>
+    <notes>National Geographic/Ravensburger edition, cards are French, Italian and Dutch.
+Played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Nov 2011 02:40:19 +0000</listdate>
+    <saledate>Sun, 27 Nov 2011 02:28:43 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 01 Dec 2011 23:07:09 +0000</listdate>
+    <saledate>Fri, 02 Dec 2011 02:28:04 +0000</saledate>
+    <price currency='AUD'>50</price>
+    <condition>verygood</condition>
+    <notes>Sale item for Trip</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Mar 2012 18:53:40 +0000</listdate>
+    <saledate>Sun, 30 Sep 2012 10:45:14 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>good</condition>
+    <notes>German edition by Queen Games.
+Contents complete _T_E_M_P_T_A_G_amp; in good condition. Box has a few scuff marks.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Apr 2012 01:49:51 +0000</listdate>
+    <saledate>Sun, 30 Sep 2012 19:46:13 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>good</condition>
+    <notes>Queen Games edition.
+Game is in good condition. Not the English language edition.
+About half the travel vouchers are missing although it was never an issue in our game play since the travel vouchers are used quite frequently and the turnover rate is quite high
+Buyer pays for shipping via USPS (Flat rate box if possible)
+or actual cost of shipping from 90034 zip code.
+Local pick up in the Los Angeles region is encouraged.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Jul 2012 07:51:45 +0000</listdate>
+    <saledate>Mon, 03 Dec 2012 14:34:12 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>good</condition>
+    <notes>Third German edition, english translation provided, cards in Deutsch. Some minor box scuffing appropriate for its age, some spotting on the board and the rules translation, all other components bagged and in excellent condition. Please check out my other games for sale to see if you can bundle and save on postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jul 2012 14:15:31 +0000</listdate>
+    <saledate>Wed, 18 Jul 2012 12:26:54 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This sale is for the 1996 Queen Games German Language edition.  English rules translation is included.
+Very minor shelf wear on the box.  From a pet _T_E_M_P_T_A_G_amp; smoke free home</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Aug 2012 14:26:13 +0000</listdate>
+    <saledate>Tue, 28 Aug 2012 17:05:28 +0000</saledate>
+    <price currency='CAD'>45</price>
+    <condition>verygood</condition>
+    <notes>2005 Ravensberger edition (English).  Box has some minor  shelfwear around edges, but components are complete and in excellent condition.
+Please check out my other games for sale and take advantage of combined shipping rates. </notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Oct 2012 13:27:41 +0000</listdate>
+    <saledate>Thu, 31 Jan 2013 13:12:22 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>verygood</condition>
+    <notes>Game is complete, .
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+Expedition Queen Games (German)
+I can offer Terra X (NEW) for 45 EUR</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Oct 2012 12:51:14 +0000</listdate>
+    <saledate>Sun, 28 Oct 2012 13:14:19 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>The game is like new, but the box has a corner that was banged up and had to be taped - this happened when it was shipped to me. I have 3 different editions of this game, so this edition was only played a couple of times. It is the Queen Games edition with the SDJ label on the cover. The cards are like new, the trip tickets tablet is almost completely unused.  I removed 11 coupons from the tablet, and the rest (over 60) are still attached and unused. The board is in perfect condition and the plastic arrows were counted and there are exactly 45 in each color. Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2012 02:52:52 +0000</listdate>
+    <saledate>Fri, 07 Dec 2012 04:43:19 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>German, Queen Games Edition. Contents checked, bagged and in like-new condition. I charge a flat $12 for shipping. Combined rates available. No international shipping. Please message me with ant questions. Thank you for looking. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Feb 2013 13:21:01 +0000</listdate>
+    <saledate>Thu, 31 Jul 2014 09:29:00 +0000</saledate>
+    <price currency='EUR'>17.99</price>
+    <condition>verygood</condition>
+    <notes>I´m offering the Queen Games edition
+shipping rates:
+Germany = 5 Euro
+EU countries = 11/15 Euro
+worldwide = 17/19 Euro
+game weight: 1100 gramms</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Feb 2013 00:45:01 +0000</listdate>
+    <saledate>Wed, 27 Feb 2013 01:58:07 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>verygood</condition>
+    <notes>FOR gameced ONLY</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Mar 2013 15:23:08 +0000</listdate>
+    <saledate>Sun, 02 Jun 2013 06:13:10 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Expedition
+Queen Games Second Edition
+Publisher: Queen Games
+Year: 1996
+Weight ~1220gr
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Jul 2013 04:07:51 +0000</listdate>
+    <saledate>Fri, 26 Jul 2013 15:05:40 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>this is for chas_argent</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Nov 2013 18:51:21 +0000</listdate>
+    <saledate>Wed, 12 Feb 2014 09:34:53 +0000</saledate>
+    <price currency='EUR'>17</price>
+    <condition>likenew</condition>
+    <notes>Queen Games Second Edition
+Excellent condition, all pieces present, cards are sleeved
+Shipping
+ to EU: €12.50
+ elsewhere: €20.40</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Jun 2014 18:41:04 +0000</listdate>
+    <saledate>Wed, 04 Jun 2014 01:24:10 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>[b]Reserved for kevinpdx from Bargain Auction[/b]</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Sep 2014 20:11:25 +0000</listdate>
+    <saledate>Thu, 11 Sep 2014 21:22:49 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Box isn_T_E_M_P_T_A_G_#039;t very pretty, but the components are unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Jun 2014 05:10:59 +0000</listdate>
+    <saledate>Sat, 08 Nov 2014 07:09:39 +0000</saledate>
+    <price currency='USD'>144.95</price>
+    <condition>verygood</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+EXPEDITION (ENGLISH EDITION) $144.95
+Ravensburger [RAV 26546]
+* Game is complete and in very good+ to like new condition -- see pictures below.
+SHIPPING
+Continental U.S. - $15.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI) - USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Oct 2011 14:46:42 +0000</listdate>
+    <saledate>Sat, 08 Nov 2014 23:41:08 +0000</saledate>
+    <price currency='EUR'>39.99</price>
+    <condition>likenew</condition>
+    <notes>Expedition National Geografic by Ravensburger, cards like new, arrow still in a sealed bag
+1284 gr.
+shipping: package or registered letter</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Feb 2015 05:43:26 +0000</listdate>
+    <saledate>Mon, 09 Feb 2015 04:38:13 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>reserved for auction winner Jeff Wu. Payment may be made by check, cash or paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Jan 2015 12:10:38 +0000</listdate>
+    <saledate>Mon, 02 Mar 2015 19:23:49 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>weight ~1180gr
+please rule about the shape with the help of the pictures of the game I made</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Aug 2014 11:12:31 +0000</listdate>
+    <saledate>Mon, 28 Sep 2015 12:42:04 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>likenew</condition>
+    <notes>This is a German game.
+Shipping to the UK only will be at cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 20 Aug 2015 17:42:16 +0000</listdate>
+    <saledate>Wed, 18 Nov 2015 16:25:54 +0000</saledate>
+    <price currency='USD'>19.95</price>
+    <condition>likenew</condition>
+    <notes>Complete and in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 28 May 2015 19:25:15 +0000</listdate>
+    <saledate>Fri, 20 Nov 2015 04:02:21 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>good</condition>
+    <notes>2005 Ravensburger English edition.  
+Good luck finding another English edition copy!  This is a rare item indeed!
+Reserved for aquabob</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 May 2015 10:42:57 +0000</listdate>
+    <saledate>Sat, 23 Apr 2016 18:20:01 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Oct 2015 16:27:22 +0000</listdate>
+    <saledate>Fri, 27 May 2016 14:41:33 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Nov 2016 14:55:44 +0000</listdate>
+    <saledate>Tue, 29 Nov 2016 16:50:29 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>as new
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Feb 2017 02:27:19 +0000</listdate>
+    <saledate>Wed, 15 Mar 2017 00:10:18 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>likenew</condition>
+    <notes>Stored on my shelf B16. Card decks still sealed. Includes print of English rules.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Feb 2017 16:00:58 +0000</listdate>
+    <saledate>Tue, 11 Apr 2017 21:13:30 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>new</condition>
+    <notes>INSIDE UNPUNCHED / UNSEALED -_T_E_M_P_T_A_G_gt; MINT
+Expedition
+Queen Games Second Edition
+Publisher: Queen Games
+Year: 1996
+Weight ~1220gr</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Mar 2017 13:28:29 +0000</listdate>
+    <saledate>Mon, 31 Jul 2017 21:44:35 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>The game:
+Amigo (c) 2016.
+GERMAN EDITION.
+All game materials are still in mint condition.
+Shipping:
+All shipping is done via DHL. Shipping costs depend on size and weight of the parcel and destination. 
+Payment:
+Within EU I prefer the EU-standard-bank-tranfer (SEPA,IBAN/BIC). It is fast and causes no fees.
+Outside EU Paypal and bank-transfer are possible.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Sep 2015 06:48:27 +0000</listdate>
+    <saledate>Mon, 21 Aug 2017 12:45:08 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes>Ravensburger (National Geographic) German edition
+Some light wear on the box corners, otherwise top condition and complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Sep 2017 06:35:41 +0000</listdate>
+    <saledate>Mon, 18 Sep 2017 23:54:12 +0000</saledate>
+    <price currency='USD'>31.98</price>
+    <condition>verygood</condition>
+    <notes>Edition: Queen Games Second Edition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Oct 2017 12:27:12 +0000</listdate>
+    <saledate>Sun, 22 Oct 2017 14:04:02 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>For _T_E_M_P_T_A_G_quot;David Vander Ark_T_E_M_P_T_A_G_quot; only.
+Out with the Old and In with the New Game Auction #2 winner.
+USPS Priority Mailing and PayPal fees to be covered by winner.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 07 Jan 2018 01:07:18 +0000</listdate>
+    <saledate>Sat, 13 Jan 2018 01:17:36 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Very Good to Like New Condition.
+Minor shelf wear.
+Contents like new.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Apr 2016 07:42:59 +0000</listdate>
+    <saledate>Sat, 30 Jun 2018 12:32:03 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Oct 2018 12:48:05 +0000</listdate>
+    <saledate>Mon, 15 Oct 2018 14:15:31 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

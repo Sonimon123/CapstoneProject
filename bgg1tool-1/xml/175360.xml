@@ -1,0 +1,818 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="175360">
+   <yearpublished>2015</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>20</playingtime>
+   <minplaytime>15</minplaytime>
+   <maxplaytime>20</maxplaytime>
+   <age>14</age>
+       <name primary="true" sortindex="1">W1815</name>
+         
+   <description>W1815 is a simple strategy game that simulates the key events of the battle of Waterloo in 15 minutes. The French side can try a number of different strategies in an attempt to crush the Anglo-Allied army before the Prussians arrive. Meanwhile, the Anglo-Allied player must focus on keeping his army in the battle by using reserves in right situations until the Prussians get into the action._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The game contains a battlefield map which is used to record casualties and the current strength of the participating armies. The cards are setup around the battlefield map with each card representing a corps. Players take it in turns to activate one corps and carry out an action. The rules for each individual corps action are described on the cards. The results of these actions are then recorded on the battlefield map. The game ends when either army fails a rout test or the time marker is moved to the night square._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/Bmf-dXw4a20sNtf9hDxhcvLjYW4=/fit-in/200x150/pic2460294.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/S-xN1bPe7OJ1n7O1z-DO7bPPhGY=/0x0/pic2460294.jpg</image>
+      
+            <boardgamehonor objectid="34512">2015 Golden Geek Best Wargame Nominee</boardgamehonor>
+                      <boardgamefamily objectid="12226">Country: Belgium</boardgamefamily>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+               <boardgameversion objectid="269774">First edition</boardgameversion>
+               <boardgamepodcastepisode objectid="162641">GrogCast Season 2, Episode 4</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="172717">I_T_E_M_P_T_A_G_#039;ve Been Diced! episode 71: Mutants, game studies, and 2015 in review</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="163503">Low Player Count - Ep 14 - Free Form</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="164264">Low Player Count - Ep. 15 - The Filler Episode</boardgamepodcastepisode>
+               <boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
+               <boardgameartist objectid="68991">Kim Paqvalin</boardgameartist>
+               <boardgamepodcastepisode objectid="184154">Podcast #104 - Juegos o juguetes</boardgamepodcastepisode>
+                      <boardgamemechanic objectid="2070">Simulation</boardgamemechanic>
+                             <boardgamepublisher objectid="25405">U_T_E_M_P_T_A_G_amp;P Games</boardgamepublisher>
+               <boardgamedesigner objectid="68990">Hannu Uusitalo</boardgamedesigner>
+               <boardgamemechanic objectid="2015">Variable Player Powers</boardgamemechanic>
+                                    <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+             
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="2" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="1" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="3" />
+     <result value="Recommended" numvotes="2" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="3" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="3">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="0" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="0" />
+     <result value="12" numvotes="2" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>408</usersrated>
+     <average>7.54142</average>
+     <bayesaverage>6.00444</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2161" bayesaverage="6.00444" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="183" bayesaverage="6.90893" />
+            
+           </ranks>
+     
+     <stddev>1.35861</stddev>
+     <median>0</median>
+     <owned>639</owned>
+     <trading>10</trading>
+     <wanting>136</wanting>
+     <wishing>359</wishing>
+     <numcomments>173</numcomments>
+     <numweights>44</numweights>
+     <averageweight>1.4773</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 25 May 2015 21:02:03 +0000</listdate>
+    <saledate>Wed, 27 May 2015 15:04:17 +0000</saledate>
+    <price currency='GBP'>12.5</price>
+    <condition>likenew</condition>
+    <notes>Opened but complete an in immaculate _T_E_M_P_T_A_G_#039;Like New_T_E_M_P_T_A_G_#039; condition.
+Photos available on request.
+Will ship worldwide please contact for costs. Within the UK - as at 25/05/2015 - £2.80 for Royal Mail Second Class service.
+If you have any questions please ask, and thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Jul 2015 13:24:47 +0000</listdate>
+    <saledate>Tue, 07 Jul 2015 00:11:44 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Played a few time but still in very good condition - bear in mind there is no box.
+UK postage: £3</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jul 2015 20:08:11 +0000</listdate>
+    <saledate>Tue, 14 Jul 2015 20:56:04 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Played One Time. Comes in original ziplock bag.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Jul 2015 01:28:29 +0000</listdate>
+    <saledate>Sat, 18 Jul 2015 05:26:22 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Lightly played, excellent condition.  Shipping in the US is $10 - more elsewhere.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 Aug 2015 20:42:06 +0000</listdate>
+    <saledate>Sun, 09 Aug 2015 04:07:28 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Oct 2015 06:21:10 +0000</listdate>
+    <saledate>Wed, 21 Oct 2015 13:20:16 +0000</saledate>
+    <price currency='EUR'>24.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Oct 2015 13:18:36 +0000</listdate>
+    <saledate>Tue, 10 Nov 2015 16:01:57 +0000</saledate>
+    <price currency='EUR'>24.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Nov 2015 14:44:31 +0000</listdate>
+    <saledate>Wed, 16 Dec 2015 18:28:05 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes>Cards sleeved - sleeves just match to the inch - better you leave them in the sleeves!!!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Nov 2015 18:28:28 +0000</listdate>
+    <saledate>Tue, 29 Dec 2015 01:46:38 +0000</saledate>
+    <price currency='EUR'>24.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Nov 2015 11:36:15 +0000</listdate>
+    <saledate>Fri, 01 Jan 2016 13:18:57 +0000</saledate>
+    <price currency='EUR'>24.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Jan 2016 11:42:17 +0000</listdate>
+    <saledate>Mon, 25 Jan 2016 21:09:37 +0000</saledate>
+    <price currency='EUR'>20.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jan 2016 15:26:46 +0000</listdate>
+    <saledate>Thu, 28 Jan 2016 02:52:50 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>Never played.  Buyer pays actual shipping costs from 92128.  Will combine with other games to save on total shipping cost.
+Buyer pays any incurred Paypal fees (use Send Money to Friend option to avoid surcharge)</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jan 2016 09:33:20 +0000</listdate>
+    <saledate>Sun, 31 Jan 2016 14:13:18 +0000</saledate>
+    <price currency='EUR'>21.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Feb 2016 07:46:36 +0000</listdate>
+    <saledate>Sun, 07 Feb 2016 08:01:46 +0000</saledate>
+    <price currency='EUR'>21.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Feb 2016 08:46:37 +0000</listdate>
+    <saledate>Sun, 21 Feb 2016 11:01:03 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Feb 2016 08:24:21 +0000</listdate>
+    <saledate>Tue, 23 Feb 2016 10:37:46 +0000</saledate>
+    <price currency='EUR'>20.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Feb 2016 04:05:25 +0000</listdate>
+    <saledate>Wed, 24 Feb 2016 02:39:09 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>new</condition>
+    <notes>New as received from designer. Ships next business day after payment clears. $9.95 Flat Rate shipping to US only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 00:56:53 +0000</listdate>
+    <saledate>Sun, 28 Feb 2016 02:39:48 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 00:56:53 +0000</listdate>
+    <saledate>Sun, 28 Feb 2016 04:11:34 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 00:56:53 +0000</listdate>
+    <saledate>Sun, 28 Feb 2016 15:38:34 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 00:56:53 +0000</listdate>
+    <saledate>Sun, 28 Feb 2016 16:53:22 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 00:56:53 +0000</listdate>
+    <saledate>Sun, 28 Feb 2016 18:59:19 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Feb 2016 10:23:07 +0000</listdate>
+    <saledate>Mon, 29 Feb 2016 05:50:52 +0000</saledate>
+    <price currency='EUR'>20.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 00:56:53 +0000</listdate>
+    <saledate>Mon, 29 Feb 2016 08:18:04 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Feb 2016 11:16:57 +0000</listdate>
+    <saledate>Tue, 01 Mar 2016 20:25:46 +0000</saledate>
+    <price currency='EUR'>20.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 00:56:53 +0000</listdate>
+    <saledate>Thu, 03 Mar 2016 16:03:33 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 00:56:53 +0000</listdate>
+    <saledate>Sat, 05 Mar 2016 05:01:04 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 00:56:53 +0000</listdate>
+    <saledate>Sat, 05 Mar 2016 05:41:00 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 00:56:53 +0000</listdate>
+    <saledate>Sat, 05 Mar 2016 06:39:03 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 00:56:53 +0000</listdate>
+    <saledate>Sat, 05 Mar 2016 07:49:07 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Feb 2016 00:56:53 +0000</listdate>
+    <saledate>Sun, 06 Mar 2016 20:39:35 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Feb 2016 23:46:46 +0000</listdate>
+    <saledate>Sun, 20 Mar 2016 03:40:17 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>In great shape.  Only played a few times.
+For those unaware, this only comes in a folder.  There is no box.
+I will pay the shipping to the continental US.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Mar 2016 08:47:17 +0000</listdate>
+    <saledate>Mon, 28 Mar 2016 11:26:34 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>Played about three times. Cards have been sleeved</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Mar 2016 01:32:22 +0000</listdate>
+    <saledate>Tue, 29 Mar 2016 03:12:08 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Played a couple times.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Apr 2016 13:18:16 +0000</listdate>
+    <saledate>Fri, 01 Apr 2016 15:46:56 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>PM me for details.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Mar 2016 10:41:04 +0000</listdate>
+    <saledate>Tue, 05 Apr 2016 10:02:00 +0000</saledate>
+    <price currency='EUR'>21.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Mar 2016 08:23:57 +0000</listdate>
+    <saledate>Sat, 09 Apr 2016 08:29:40 +0000</saledate>
+    <price currency='EUR'>20.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Apr 2016 10:22:58 +0000</listdate>
+    <saledate>Sun, 10 Apr 2016 18:18:20 +0000</saledate>
+    <price currency='EUR'>20.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Feb 2016 16:34:28 +0000</listdate>
+    <saledate>Tue, 12 Apr 2016 20:00:41 +0000</saledate>
+    <price currency='EUR'>21.9</price>
+    <condition>new</condition>
+    <notes>mint!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Apr 2016 05:12:11 +0000</listdate>
+    <saledate>Thu, 21 Apr 2016 18:08:32 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Apr 2016 05:12:11 +0000</listdate>
+    <saledate>Sun, 24 Apr 2016 07:16:18 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Apr 2016 05:12:11 +0000</listdate>
+    <saledate>Sun, 24 Apr 2016 09:55:29 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Apr 2016 05:12:11 +0000</listdate>
+    <saledate>Sun, 24 Apr 2016 21:43:40 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Apr 2016 05:12:11 +0000</listdate>
+    <saledate>Mon, 25 Apr 2016 17:53:54 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Apr 2016 05:12:11 +0000</listdate>
+    <saledate>Tue, 26 Apr 2016 16:33:00 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Apr 2016 05:12:11 +0000</listdate>
+    <saledate>Tue, 26 Apr 2016 18:54:26 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Apr 2016 05:12:11 +0000</listdate>
+    <saledate>Wed, 27 Apr 2016 19:18:36 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Apr 2016 10:13:48 +0000</listdate>
+    <saledate>Thu, 28 Apr 2016 21:57:20 +0000</saledate>
+    <price currency='EUR'>21.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Apr 2016 20:45:40 +0000</listdate>
+    <saledate>Sat, 07 May 2016 01:32:11 +0000</saledate>
+    <price currency='USD'>29.99</price>
+    <condition>new</condition>
+    <notes>New and in original zip-lock baggy straight from Finland!  
+We ship from North Seattle via USPS First Class (~$5) so it should get to you in under a week, but allow 1-3 business days for us to process it.
+You_T_E_M_P_T_A_G_#039;ve been waiting long enough, now play the game your friend of a friend on BGG has been talking about!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Apr 2016 07:05:35 +0000</listdate>
+    <saledate>Fri, 10 Jun 2016 19:52:25 +0000</saledate>
+    <price currency='EUR'>21.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Apr 2016 19:54:01 +0000</listdate>
+    <saledate>Mon, 13 Jun 2016 15:47:55 +0000</saledate>
+    <price currency='USD'>49.95</price>
+    <condition>new</condition>
+    <notes>Never played.  Buyer pays actual shipping costs from 92128.  Will combine with other games to save on total shipping cost.
+Buyer pays any incurred Paypal fees (use Send Money to Friend option to avoid surcharge)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Apr 2016 06:28:29 +0000</listdate>
+    <saledate>Sun, 19 Jun 2016 14:00:32 +0000</saledate>
+    <price currency='EUR'>20.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Jun 2016 07:57:48 +0000</listdate>
+    <saledate>Fri, 24 Jun 2016 19:17:07 +0000</saledate>
+    <price currency='EUR'>20.95</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 23 Jul 2016 21:20:14 +0000</listdate>
+    <saledate>Mon, 25 Jul 2016 00:25:46 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Like new condition. No wear or tear. Non-smoking home. **Game will be slightly expensive to ship by mail outside of Canada.** Can deliver to Toronto (west of Yonge, south of 401) and west along 401 corridor to Kitchener-Waterloo (item location). COD is fine for delivery or pick-up, otherwise Paypal. Buyer pays postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2016 01:26:01 +0000</listdate>
+    <saledate>Wed, 03 Aug 2016 19:25:34 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>played once, excellent shape</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Sep 2016 22:27:04 +0000</listdate>
+    <saledate>Mon, 26 Sep 2016 23:51:40 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Cards are sleeved. Buyer pays shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 03 Oct 2016 01:09:00 +0000</listdate>
+    <saledate>Mon, 03 Oct 2016 02:17:59 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Reserved for auction winner</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Oct 2016 07:38:56 +0000</listdate>
+    <saledate>Sat, 08 Oct 2016 20:36:52 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Out of print. Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Oct 2016 22:56:45 +0000</listdate>
+    <saledate>Wed, 26 Oct 2016 00:59:53 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>Complete and in excellent to like new condition. All components show little to no signs of wear.
+Shipping weight is 1lb; shipping will be by USPS Flate Rate Envelope.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Oct 2016 14:08:32 +0000</listdate>
+    <saledate>Sat, 05 Nov 2016 15:56:02 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>opened, unplayed. £3 postage to UK, other countries please ask</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Jul 2016 12:47:08 +0000</listdate>
+    <saledate>Tue, 15 Nov 2016 22:06:28 +0000</saledate>
+    <price currency='EUR'>59.9</price>
+    <condition>new</condition>
+    <notes>paypal add 4%</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Dec 2016 23:31:46 +0000</listdate>
+    <saledate>Sat, 24 Dec 2016 04:08:30 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Opened. Placed cards in sleeves. Never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jan 2017 19:04:52 +0000</listdate>
+    <saledate>Fri, 06 Jan 2017 21:50:21 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Never played.
+$6 shipping for this item.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jan 2017 07:20:52 +0000</listdate>
+    <saledate>Fri, 27 Jan 2017 07:27:10 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes>Shipping from 43026.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Feb 2017 17:12:54 +0000</listdate>
+    <saledate>Fri, 24 Feb 2017 01:15:50 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>Shipping by USPS priority mail.  $8.35</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Feb 2017 14:39:25 +0000</listdate>
+    <saledate>Sun, 05 Mar 2017 16:46:27 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Mar 2017 18:08:15 +0000</listdate>
+    <saledate>Tue, 21 Mar 2017 18:42:34 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>new</condition>
+    <notes>new</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Apr 2017 03:17:59 +0000</listdate>
+    <saledate>Fri, 21 Apr 2017 11:46:20 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/224222/item/5334320#5334320]Item for Geeklist _T_E_M_P_T_A_G_quot;Seattle (and a bit of Portland auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 May 2017 16:12:27 +0000</listdate>
+    <saledate>Thu, 01 Jun 2017 21:03:05 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>new</condition>
+    <notes>Postage to Europe 5 euroes, worldwide 10 euroes.
+I accept bank transfer within europe and paypal worldwide.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 May 2017 20:45:52 +0000</listdate>
+    <saledate>Sat, 10 Jun 2017 19:23:38 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>verygood</condition>
+    <notes>Played five times, very good condition. In ziplock bag.
+Contact me for shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Jul 2017 02:05:02 +0000</listdate>
+    <saledate>Tue, 18 Jul 2017 04:29:51 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>verygood</condition>
+    <notes>Very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Jul 2017 11:11:59 +0000</listdate>
+    <saledate>Sat, 19 Aug 2017 23:39:59 +0000</saledate>
+    <price currency='EUR'>60</price>
+    <condition>new</condition>
+    <notes>Payment by SEPA transfer where available, Paypal accepted outside SEPA area.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Sep 2017 17:56:37 +0000</listdate>
+    <saledate>Tue, 26 Sep 2017 03:42:07 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>verygood</condition>
+    <notes>Played but good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Jul 2017 10:54:44 +0000</listdate>
+    <saledate>Wed, 04 Oct 2017 11:49:36 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>likenew</condition>
+    <notes>Pefect condition! Cards are sleeved!
+Added a box for better storage.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Oct 2017 16:24:38 +0000</listdate>
+    <saledate>Sat, 11 Nov 2017 07:03:22 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>new</condition>
+    <notes>100% complete and unplayed. Shipping costs added to total, contact me for the final sum.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 26 Nov 2017 20:41:37 +0000</listdate>
+    <saledate>Thu, 14 Dec 2017 20:08:50 +0000</saledate>
+    <price currency='GBP'>80</price>
+    <condition>likenew</condition>
+    <notes>Game is in excellent condition, please see pictures.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Jan 2018 03:57:23 +0000</listdate>
+    <saledate>Tue, 09 Jan 2018 11:04:51 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Doug1020</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 14 Jan 2018 17:47:54 +0000</listdate>
+    <saledate>Sun, 04 Feb 2018 18:20:26 +0000</saledate>
+    <price currency='GBP'>90</price>
+    <condition>new</condition>
+    <notes>Game is complete and unplayed.
+Postage with tracking and insurance is included for the UK. For other European countries it will be an additional £10.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Feb 2018 15:33:26 +0000</listdate>
+    <saledate>Mon, 05 Feb 2018 15:38:43 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>Played a few times</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Feb 2018 21:40:38 +0000</listdate>
+    <saledate>Sat, 03 Mar 2018 21:42:38 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>likenew</condition>
+    <notes>Never played. Excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Feb 2018 08:59:17 +0000</listdate>
+    <saledate>Mon, 05 Mar 2018 05:28:43 +0000</saledate>
+    <price currency='GBP'>60</price>
+    <condition>verygood</condition>
+    <notes>Complete and in excellent condition (played a handful of times).</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Feb 2018 22:09:02 +0000</listdate>
+    <saledate>Mon, 19 Mar 2018 12:50:08 +0000</saledate>
+    <price currency='AUD'>130</price>
+    <condition>likenew</condition>
+    <notes>Unplayed, still in original ziplock bags. 
+Shipping is extra
+or pick up in Sydney (Frenchs Forest)</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Apr 2018 18:07:51 +0000</listdate>
+    <saledate>Thu, 05 Apr 2018 23:06:19 +0000</saledate>
+    <price currency='USD'>55</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 May 2018 09:53:21 +0000</listdate>
+    <saledate>Mon, 14 May 2018 13:36:21 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 May 2018 14:00:19 +0000</listdate>
+    <saledate>Mon, 21 May 2018 19:45:06 +0000</saledate>
+    <price currency='EUR'>70</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Aug 2018 18:17:45 +0000</listdate>
+    <saledate>Sat, 25 Aug 2018 01:56:37 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>likenew</condition>
+    <notes>includes original shipping box, which i_T_E_M_P_T_A_G_#039;ve used as the game box since the game itself uses a ziploc bag instead of a box. 
+$10 shipping via USPS priority</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Aug 2018 12:32:31 +0000</listdate>
+    <saledate>Fri, 31 Aug 2018 19:47:24 +0000</saledate>
+    <price currency='EUR'>46</price>
+    <condition>likenew</condition>
+    <notes>Komplett und in sehr gutem Zustand. Wenig gespielt.
+Alles in Original Zip-Lock Beutel.
+Versand als Großbrief, Einwurfeinschreiben: € 3,60</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Nov 2018 21:07:14 +0000</listdate>
+    <saledate>Sun, 25 Nov 2018 21:45:26 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>verygood</condition>
+    <notes>Complete</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Dec 2018 23:06:52 +0000</listdate>
+    <saledate>Mon, 17 Dec 2018 11:50:10 +0000</saledate>
+    <price currency='CAD'>65</price>
+    <condition>verygood</condition>
+    <notes>Played, but still in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Dec 2018 07:49:28 +0000</listdate>
+    <saledate>Tue, 25 Dec 2018 12:31:54 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>The shipping price depends on your country, the weight and the ever fluctuation prices of the parcel shipping companies.
+Indicative prices :
+Belgium, Luxemburg : 4 euro
+The Netherlands : 7 euro
+France : 9 euro
+Germany : 10 euro
+Spain : 12 euro
+UK : 15 euro
+Portugal, Italy, Austria : 17 euro
+...
+USA : 24 euro
+Payment can be done through PayPal or regular bank transfer (IBAN/BIC)</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

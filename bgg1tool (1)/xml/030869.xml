@@ -1,0 +1,2921 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="30869">
+   <yearpublished>2007</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>8</age>
+       <name  sortindex="1">Jenseits von Theben</name>
+       <name  sortindex="1">Teby</name>
+       <name  sortindex="1">Théba</name>
+       <name primary="true" sortindex="1">Thebes</name>
+       <name  sortindex="1">Théby</name>
+       <name  sortindex="1">テーベ</name>
+       <name  sortindex="1">テーベの東</name>
+         
+   <description>Thebes is a game of competitive archeology. Players are archaeologists who must travel around Europe, northern Africa, and the Middle East to acquire knowledge about five ancient civilizations -- the Greeks, the Cretans, the Egyptians, the Palestinians, and the Mesopotamians -- and then must use this knowledge to excavate historical sites in the areas of these civilizations. Through the course of the game, expositions are revealed, and an archaeologist who has treasures from the requisite civilizations may claim the prize (this is a change from the first edition's handling of exhibitions). The archaeologist who learns the most about the civilizations, claims the greatest-valued artifacts, and collects the most exhibitions will win out over his or her colleagues._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The key element to the game is that it is played out over a period of two (or three) years, and each action a player performs takes a certain amount of time -- traveling is a week between cities, gathering knowledge takes time for the level of the knowledge, and actually digging at a cultural site takes time to yield a certain number of artifact tiles. The game uses a novel mechanism to keep track of this. There is a track of 52 spaces around the outside of the board. Each time a player moves and takes an action, he or she moves their player token forward in time. Players take turns based on being the one who is furthest back in _T_E_M_P_T_A_G_amp;quot;time_T_E_M_P_T_A_G_amp;quot;. So, a player can go to an excavation site and spend 10 weeks digging for artifacts, but that will also mean that the other players will likely be taking several actions in the interim while that player waits for the _T_E_M_P_T_A_G_amp;quot;time_T_E_M_P_T_A_G_amp;quot; to catch up._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;In addition, the artifact tiles for each civilization are drawn from a bag that also contains dirt.  When a player excavates a site, that player pulls tiles from the bag, but some may only be worthless dirt instead of valuable treasure. That dirt is then returned to the bag, making the first draw more likely to provide useful tiles._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;This is the new entry for the Queen printing of Jenseits von Theben.  As the new game changes several mechanisms of the original, and is available in a much wider release, the two games should be regarded as separate entities._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Re-implements:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;    Jenseits von Theben_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/DGpckKYsUe3uXMqz7-MtQRZ4HBo=/fit-in/200x150/pic2723204.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/cLWmUgzfk-520gBxW5hugGEk5XQ=/0x0/pic2723204.jpg</image>
+      
+            <boardgamepublisher objectid="47">Queen Games</boardgamepublisher>
+                      <boardgamehonor objectid="8850">2007 Golden Geek Best Board Game Artwork/Presentation Nominee</boardgamehonor>
+               <boardgamehonor objectid="8849">2007 Golden Geek Best Family Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="8846">2007 Golden Geek Best Gamer_T_E_M_P_T_A_G_#039;s Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="19182">2007 Japan Boardgame Prize Best Foreign Game for Beginners Nominee</boardgamehonor>
+               <boardgamehonor objectid="21031">2007 Spiel der Spiele Hit mit Freunden Recommended</boardgamehonor>
+               <boardgamehonor objectid="8641">2007 Spiel des Jahres Nominee</boardgamehonor>
+               <boardgamehonor objectid="12799">2008 Boardgames Australia Awards Best International Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="8769">2008 Golden Geek Best Board Game Artwork/Presentation Nominee</boardgamehonor>
+               <boardgamehonor objectid="8768">2008 Golden Geek Best Family Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="8727">2008 Golden Geek Best Family Board Game Winner</boardgamehonor>
+               <boardgamehonor objectid="8762">2008 Golden Geek Best Gamer_T_E_M_P_T_A_G_#039;s Board Game Nominee</boardgamehonor>
+               <boardgamehonor objectid="13124">2008 Nederlandse Spellenprijs Nominee</boardgamehonor>
+               <boardgamecategory objectid="1050">Ancient</boardgamecategory>
+               <boardgamefamily objectid="21940">Archaeology</boardgamefamily>
+               <boardgamepublisher objectid="3475">Arclight</boardgamepublisher>
+                      <boardgamepodcastepisode objectid="101144">BGTG 136 - 100 Great Games, part 3 (with Stephen Glenn and Mark Jackson)</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="20503">BGTG 51 - Feb.13, 2006 - SR: Jenseits von Theben, Vegas Showdown, Bolide, Zahltag, and Feedback</boardgamepodcastepisode>
+               <boardgamepublisher objectid="6818">Corfix</boardgamepublisher>
+               <boardgameversion objectid="205461">Corfix Czech/Slovak edition</boardgameversion>
+               <boardgamefamily objectid="6471">Country: Egypt</boardgamefamily>
+                      <boardgameversion objectid="172069">Czech/Slovak edition</boardgameversion>
+                                                                <boardgamepodcastepisode objectid="227767">Ep. 10: PacifiCon Game Expo</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="227764">Ep. 13 - Friends Are Always Welcome!</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="227738">Episode #38: Two Player Games</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="15873">Episode 10: Thebes</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="227748">Episode 28: Role Playing Games</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="9354">Episode 29 – Queen Games – Neuheiten Frühjahr 2007</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="198773">Episode 2: San Juan, Viticulture, Thebes, Agility, Myrmes</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="119847">Episode 76-- Spiel des Jahres chat and What we have been playing With guests Joel Eddy and Paul Owen</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="124968">Episodio 14 – Especial verano 2014: Reglas mal explicadas</boardgamepodcastepisode>
+               <boardgamecategory objectid="1020">Exploration</boardgamecategory>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+                                                                                                                                                    <boardgameversion objectid="138187">Hungarian edition</boardgameversion>
+               <boardgamepodcastepisode objectid="9416">I_T_E_M_P_T_A_G_#039;ve Been Diced! episode 3: Games that stood the test of time</boardgamepodcastepisode>
+               <boardgameversion objectid="202664">Japanese edition</boardgameversion>
+                      <boardgameartist objectid="11825">Michael Menzel</boardgameartist>
+               <boardgamepodcastepisode objectid="123121">Mighty Meepcast 02: Vegan Hot Dogs</boardgamepodcastepisode>
+                      <boardgamepublisher objectid="22">Piatnik</boardgamepublisher>
+               <boardgamemechanic objectid="2078">Point to Point Movement</boardgamemechanic>
+               <boardgameversion objectid="267167">Polish edition</boardgameversion>
+                                    <boardgamedesigner objectid="4299">Peter Prinz</boardgamedesigner>
+               <boardgameversion objectid="20894">Queen German edition</boardgameversion>
+               <boardgameversion objectid="204799">Queen German SdJ edition</boardgameversion>
+               <boardgameversion objectid="289526">Queen German square edition</boardgameversion>
+               <boardgameversion objectid="25923">Queen multilingual edition 2007</boardgameversion>
+               <boardgameversion objectid="205460">Queen multilingual edition 2012</boardgameversion>
+               <boardgameversion objectid="170209">Queen Nordic first edition</boardgameversion>
+               <boardgamepublisher objectid="7466">Rebel</boardgamepublisher>
+                                                         <boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+                             <boardgamepodcastepisode objectid="114518">The Long View: Thebes</boardgamepodcastepisode>
+               <boardgamepodcastepisode objectid="5615">The Spiel #32 - Spiel des Schpiel</boardgamepodcastepisode>
+                             <boardgameimplementation objectid="114387">Thebes: The Tomb Raiders</boardgameimplementation>
+               <boardgamemechanic objectid="2663">Time Track</boardgamemechanic>
+                             <boardgamecategory objectid="1097">Travel</boardgamecategory>
+               <boardgameimplementation objectid="13883" inbound="true">Jenseits von Theben</boardgameimplementation>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="190">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="90" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="25" />
+     <result value="Recommended" numvotes="99" />
+     <result value="Not Recommended" numvotes="24" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="111" />
+     <result value="Recommended" numvotes="43" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="90" />
+     <result value="Recommended" numvotes="61" />
+     <result value="Not Recommended" numvotes="8" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="81" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="52">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="49" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="48">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="4" />
+     <result value="8" numvotes="27" />
+     <result value="10" numvotes="16" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="1" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>8493</usersrated>
+     <average>7.15723</average>
+     <bayesaverage>6.93463</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="415" bayesaverage="6.93463" />
+            
+       
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="75" bayesaverage="7.00021" />
+            
+           </ranks>
+     
+     <stddev>1.20018</stddev>
+     <median>0</median>
+     <owned>10063</owned>
+     <trading>271</trading>
+     <wanting>432</wanting>
+     <wishing>1698</wishing>
+     <numcomments>2452</numcomments>
+     <numweights>820</numweights>
+     <averageweight>2.1622</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Fri, 03 Aug 2007 19:04:58 +0000</listdate>
+    <saledate>Tue, 21 Aug 2007 22:36:00 +0000</saledate>
+    <price currency='USD'>31.95</price>
+    <condition>new</condition>
+    <notes>We only sell brand new, shrinkwrapped games.  International shipping available.
+Edition: Rio Grande Games - Jenseits Von Theben (2007)
+RIO 084</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Aug 2007 20:07:05 +0000</listdate>
+    <saledate>Tue, 11 Sep 2007 01:24:47 +0000</saledate>
+    <price currency='USD'>32.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Aug 2007 00:04:28 +0000</listdate>
+    <saledate>Wed, 26 Sep 2007 02:50:47 +0000</saledate>
+    <price currency='USD'>29.45</price>
+    <condition>new</condition>
+    <notes>CLS Games -- Atlanta_T_E_M_P_T_A_G_#039;s favorite Magic The Gathering card store -- now has board games! All games are new and still in their factory shrink-wrap.
+JENSEITS VON THEBES (2007): 29.45
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Aug 2007 04:58:20 +0000</listdate>
+    <saledate>Fri, 02 Nov 2007 13:31:00 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the latest QUEEN GAMES edition
+Shipping is EUR 15.00 to countries within the EU
+or EUR 25.00 to other European countries
+or EUR 30.00 to other worldwide destinations.
+++++ All shipping rates include insurance ++++
+The delivery time varies from 1 to 3 weeks. 
+I can offer even more games upon request. 
+Please also check listings of my friend montsegur - combined regular shipping is possible. 
+For more details on my USA special shipping offer please click the robbirob button. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Sep 2007 13:35:37 +0000</listdate>
+    <saledate>Tue, 11 Sep 2007 23:10:57 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Company: Queen
+Year: 2007
+Rules_T_E_M_P_T_A_G_#039; Language: English
+Condition: Complete game (no missing pieces). Played only a few times. All components in excellent condition. Rules have handwritten clarifications on them.
+Shipping: Please, send me an e-mail and I will let you know about the shipping cost. The following link provides approximate shipping prices in Canadian Dollars: http://www.canadapost.ca/personal/prodserv/sp/default-e.asp
+Handling: The cost depends on how large is the box for the package and can range between 2.00 to 10.00 US$.
+Payment: PayPal ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Sep 2007 03:04:00 +0000</listdate>
+    <saledate>Wed, 03 Oct 2007 20:57:46 +0000</saledate>
+    <price currency='USD'>32.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Sep 2007 03:26:27 +0000</listdate>
+    <saledate>Wed, 03 Oct 2007 12:51:28 +0000</saledate>
+    <price currency='USD'>29.45</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THEBES: 29.45
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S.: FedEx $9.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Oct 2007 15:02:32 +0000</listdate>
+    <saledate>Sat, 20 Oct 2007 18:17:25 +0000</saledate>
+    <price currency='USD'>29.45</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THEBES: 29.45
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S.: FedEx $10.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Oct 2007 19:45:38 +0000</listdate>
+    <saledate>Fri, 26 Oct 2007 23:22:49 +0000</saledate>
+    <price currency='USD'>29.45</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THEBES: 29.45
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S.: FedEx $10.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Oct 2007 01:23:57 +0000</listdate>
+    <saledate>Mon, 29 Oct 2007 23:01:58 +0000</saledate>
+    <price currency='USD'>29.45</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THEBES: 29.45
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S.: FedEx $10.95
+International (Including AK and HI): TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Nov 2007 22:53:18 +0000</listdate>
+    <saledate>Thu, 06 Dec 2007 22:48:28 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>new</condition>
+    <notes>Thebes (Queen Games)
+This game is brand new and sealed. S_T_E_M_P_T_A_G_amp;H through FedEx Ground is $9.00 in the 48 states. We can combine shipping on multiple purchases. We collect 8.1% sales tax for AZ orders. 
+For more games go to www.newspiel.com.
+Free FedEx Ground Shipping on all orders of $125 or more!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Nov 2007 18:43:58 +0000</listdate>
+    <saledate>Tue, 04 Dec 2007 23:07:45 +0000</saledate>
+    <price currency='USD'>31.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THEBES: 31.95 _T_E_M_P_T_A_G_lt;-- IN STOCK NOW
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI): USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Dec 2007 23:04:40 +0000</listdate>
+    <saledate>Sun, 09 Dec 2007 17:38:39 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>Thebes (Queen Games)
+This game is brand new and sealed. S_T_E_M_P_T_A_G_amp;H through FedEx Ground is $9.00 in the 48 states. We can combine shipping on multiple purchases. We collect 8.1% sales tax for AZ orders. 
+For more games go to www.newspiel.com.
+Free FedEx Ground Shipping on all orders of $125 or more!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Dec 2007 19:48:11 +0000</listdate>
+    <saledate>Sat, 15 Dec 2007 17:30:57 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>Thebes (Queen Games)
+This game is brand new and sealed. S_T_E_M_P_T_A_G_amp;H through FedEx Ground is $9.00 in the 48 states. We can combine shipping on multiple purchases. We collect 8.1% sales tax for AZ orders. 
+For more games go to www.newspiel.com.
+Free FedEx Ground Shipping on all orders of $125 or more!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Dec 2007 18:42:21 +0000</listdate>
+    <saledate>Sat, 15 Dec 2007 20:20:03 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>Thebes (Queen Games)
+This game is brand new and sealed. S_T_E_M_P_T_A_G_amp;H through FedEx Ground is $9.00 in the 48 states. We can combine shipping on multiple purchases. We collect 8.1% sales tax for AZ orders.
+For more games go to www.newspiel.com.
+Free FedEx Ground Shipping on all orders of $125 or more!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Dec 2007 22:19:26 +0000</listdate>
+    <saledate>Mon, 22 Sep 2008 21:08:06 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>Thebes (Queen Games)
+This game is brand new and sealed. S_T_E_M_P_T_A_G_amp;H through FedEx Ground is $9.00 in the 48 states. We can combine shipping on multiple purchases. We collect 8.1% sales tax for AZ orders.
+For more games go to www.newspiel.com.
+Free FedEx Ground Shipping for all orders of $125 or more!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Dec 2007 03:24:17 +0000</listdate>
+    <saledate>Wed, 02 Jan 2008 23:13:39 +0000</saledate>
+    <price currency='USD'>28.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THEBES: 28.95
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S. - FedEx: $12.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI): USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Feb 2008 16:29:05 +0000</listdate>
+    <saledate>Tue, 05 Feb 2008 19:16:46 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Feb 2008 18:13:10 +0000</listdate>
+    <saledate>Tue, 11 Mar 2008 03:29:08 +0000</saledate>
+    <price currency='USD'>36.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THEBES: 36.95 _T_E_M_P_T_A_G_lt;_T_E_M_P_T_A_G_lt;--- IN STOCK NOW!
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI): USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Feb 2008 19:34:48 +0000</listdate>
+    <saledate>Fri, 26 Feb 2010 18:52:52 +0000</saledate>
+    <price currency='USD'>35.99</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games (RIO 084)
+Number of players: 2-4
+Age of players: 10+
+Length: 45-60 minutes
+Game Description: 
+In this game, the players travel back to the end of the 19th century to take on the roles of the famous archaeologists who discovered so much in so short a time. The names Schliemann, Evans, Carter, and Koldeway are still famous today. Like those they seek to emulate, the players seek to discover those antique treasures and places which have been buried in the sands for thousands of years.Each player take the role of an archaeologist. They first travel across Europe to find useful knowledge of different archaeological areas and then they excavate at places they expect to find treasures. The players score points for discoveries at these locations. Also, the players can acquire articles to assist them in excavation and travel, and will visit exhibitions to present their finds. 
+Author: Peter Prinz</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Feb 2008 18:55:57 +0000</listdate>
+    <saledate>Thu, 17 Apr 2008 03:05:19 +0000</saledate>
+    <price currency='USD'>31.9</price>
+    <condition>new</condition>
+    <notes>Brand New In Shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 12 Mar 2008 11:13:37 +0000</listdate>
+    <saledate>Fri, 26 Dec 2008 20:35:21 +0000</saledate>
+    <price currency='USD'>36.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THEBES: 36.95
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI): USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Apr 2008 10:35:24 +0000</listdate>
+    <saledate>Sun, 20 Apr 2008 16:44:29 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>Queen Games edition. Has been opened and played a couple of times but is in like new condition. Comes with English rules and is language independent.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 Jul 2008 04:30:17 +0000</listdate>
+    <saledate>Wed, 09 Jul 2008 14:44:05 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 14 Jul 2008 17:31:07 +0000</listdate>
+    <saledate>Mon, 22 Sep 2008 02:24:11 +0000</saledate>
+    <price currency='USD'>30.5</price>
+    <condition>new</condition>
+    <notes>Shrink-wrapped and brand new.  I will ship to USA Only and by Fedex.  There will be an extra charge if insurance on shipment is required.  Payment accepted only by PayPal(based upon non-credit card).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Aug 2008 00:40:23 +0000</listdate>
+    <saledate>Wed, 13 Aug 2008 11:18:35 +0000</saledate>
+    <price currency='AUD'>49</price>
+    <condition>verygood</condition>
+    <notes>German edition.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 04 Aug 2008 04:17:30 +0000</listdate>
+    <saledate>Mon, 15 Sep 2008 12:21:27 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>English version of the game (actually includes rules in multiple languages from Queen).  Game was played once, in like new condition.  Buyer pays $6.00 shipping.  Paypal only please.  Thanks for looking (and check out my other games for sale - I happily combine shipping for multiple game purchases).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Sep 2008 00:55:42 +0000</listdate>
+    <saledate>Wed, 01 Oct 2008 17:35:05 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>Received in trade. Between owners total number of plays is two, game is in like new condition. I only can accept Paypal and will ship the game in 1-2 business days USPS Priority Mail after your purchase. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Oct 2008 12:28:56 +0000</listdate>
+    <saledate>Thu, 30 Oct 2008 21:29:22 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>likenew</condition>
+    <notes>Original Queen Re-release Jenseits von Theben. In Excellent Condition
+Open to Trade offers
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Dec 2008 23:17:03 +0000</listdate>
+    <saledate>Wed, 03 Feb 2010 10:26:57 +0000</saledate>
+    <price currency='GBP'>29</price>
+    <condition>new</condition>
+    <notes>Game is in excellent condition - new in shrink.  All the components are present and correct. 
+ 
+Weight inc packing 1555g
+UK Parcel Post  £5.20 
+UK First class  £6.70 
+Surface Worldwide  £10.01 
+Europe Airmail  £9.91 
+USA Airmail  £17.67 
+Shipping costs shown are for an individual game. I will combine shipping as best I can. Large packages (5kg, say 6 games) are very cost-effective to ship internationally via DHL. Ask if you want a detailed price. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Feb 2009 21:25:34 +0000</listdate>
+    <saledate>Wed, 04 Mar 2009 15:47:55 +0000</saledate>
+    <price currency='EUR'>27</price>
+    <condition>verygood</condition>
+    <notes>complete and in very good shape.
+13.90 Euros worldwide durface mail delivery.
+8.60 Euros shipping within the EC.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Feb 2009 04:13:30 +0000</listdate>
+    <saledate>Mon, 16 Feb 2009 14:34:00 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>opened, played a couple times, in excellent shape</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Feb 2009 17:54:39 +0000</listdate>
+    <saledate>Thu, 02 Apr 2009 17:12:51 +0000</saledate>
+    <price currency='GBP'>24.99</price>
+    <condition>new</condition>
+    <notes>New in shrink. $4.20 postage to UK
+I will ship to Europe, combine orders for cheaper postage and will give a discount for purchases over £50. Please contact me for details. All items i list are in stock and will be posted within 24 hours of payment being received.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Mar 2009 12:29:25 +0000</listdate>
+    <saledate>Tue, 10 Mar 2009 18:59:57 +0000</saledate>
+    <price currency='USD'>35.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THEBES: $35.95
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI): USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Mar 2009 19:27:37 +0000</listdate>
+    <saledate>Wed, 28 Oct 2009 19:03:57 +0000</saledate>
+    <price currency='USD'>35.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Boardgame Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THEBES: $35.95
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI): USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Mar 2009 20:10:37 +0000</listdate>
+    <saledate>Sat, 09 May 2009 10:35:49 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>Played once. Counters punched and dials assembled,  But otherwise mint condition. 
+Postage approx £5.00 1st class to UK.
+Other countries please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Jun 2009 22:54:44 +0000</listdate>
+    <saledate>Fri, 19 Jun 2009 23:42:49 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>for edwin nealley only</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Jul 2009 18:48:34 +0000</listdate>
+    <saledate>Mon, 14 Sep 2009 04:45:39 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Reserved for Lurking Meeple</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Jul 2009 16:22:36 +0000</listdate>
+    <saledate>Fri, 31 Jul 2009 23:02:22 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Played once.  All parts neatly stored and game looks great.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Sep 2009 15:37:44 +0000</listdate>
+    <saledate>Thu, 24 Sep 2009 15:49:31 +0000</saledate>
+    <price currency='CAD'>35</price>
+    <condition>verygood</condition>
+    <notes>Played half a dozen times. Everything is in great shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Oct 2009 15:25:27 +0000</listdate>
+    <saledate>Fri, 18 Dec 2009 13:18:39 +0000</saledate>
+    <price currency='GBP'>24.99</price>
+    <condition>new</condition>
+    <notes>New in Shrink. £5  postage to UK.
+I will ship worldwide (please ask, if outside the UK, for a shipping quote before ordering), combine orders for cheaper postage and will give a  2.5% discount for purchases over £50 and  5% for purchases over £100. All items (750 unique games) I list are in stock and will be posted within 24 working hours of payment being received.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Oct 2009 21:41:47 +0000</listdate>
+    <saledate>Fri, 13 Nov 2009 09:58:50 +0000</saledate>
+    <price currency='CAD'>30</price>
+    <condition>verygood</condition>
+    <notes>Only played once</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jan 2010 05:26:05 +0000</listdate>
+    <saledate>Fri, 22 Jan 2010 12:33:57 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>I ship everything via USPS Priority Mail flat rate boxes - with _T_E_M_P_T_A_G_quot;Fragile,_T_E_M_P_T_A_G_quot; _T_E_M_P_T_A_G_quot;Keep Dry,_T_E_M_P_T_A_G_quot; and _T_E_M_P_T_A_G_quot;Do Not Bend_T_E_M_P_T_A_G_quot; written on the boxes. The rate structure for those boxes is as follows:
+Shipping for games that will fit within a 8.5_T_E_M_P_T_A_G_quot; X 5.25_T_E_M_P_T_A_G_quot; X 1.5_T_E_M_P_T_A_G_quot; box costs $4.95.
+Shipping for games that will fit within a 13.5_T_E_M_P_T_A_G_quot; X 11.75_T_E_M_P_T_A_G_quot; X 3.25_T_E_M_P_T_A_G_quot; box costs $10.70.
+I can easily combine shipping if games will fit within these boxes. If they don_T_E_M_P_T_A_G_#039;t, I can still combine shipping, but that is a little tricker. Thursdays are the days I get most of my shipping done, if that helps you.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Mar 2010 19:28:32 +0000</listdate>
+    <saledate>Sun, 07 Mar 2010 16:35:03 +0000</saledate>
+    <price currency='CAD'>22</price>
+    <condition>verygood</condition>
+    <notes>Game has been opened and played a couple of times. The game comes from a pet and smoke free home, as well all the components are present and in excellent condition. The only component issue to note is one of the player wheels, for estimating the dig, came with a clasp that was to small. The wheel still works but not as efficiently as it should. Any quesitons please ask. Thank you and check out my other sales.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Apr 2010 20:56:00 +0000</listdate>
+    <saledate>Thu, 29 Apr 2010 23:21:06 +0000</saledate>
+    <price currency='GBP'>16</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition, played only once.
+Shipping likely to be £4.41 for UK standard parcel, will confirm on request.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 08 May 2010 14:16:40 +0000</listdate>
+    <saledate>Wed, 12 May 2010 04:40:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>played once. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 May 2010 02:00:25 +0000</listdate>
+    <saledate>Tue, 15 Jun 2010 00:19:53 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played 3 times.  Everything is in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Jun 2010 22:59:49 +0000</listdate>
+    <saledate>Sun, 06 Jun 2010 02:46:05 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Only played a few times. English rules and reference card only. I MISPLACED THE OTHER LANGUAGES RULES AND REF CARDS. YOU ONLY GET THE ENGLISH. I ship UPS and use the good packing service of the UPS store.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jun 2010 15:15:14 +0000</listdate>
+    <saledate>Sun, 13 Jun 2010 20:00:04 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>Only played a couple of times so in excellent condition. UK postage £6</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Jul 2010 14:36:15 +0000</listdate>
+    <saledate>Wed, 04 Aug 2010 21:37:54 +0000</saledate>
+    <price currency='USD'>31.99</price>
+    <condition>new</condition>
+    <notes>Rio Grande Games / Queen Games*
+Please contact us on selection and quantity.
+Queen Games (QNG 60461) $31.99 [Thebes]
+Rio Grande Games (RIO 084) $36.99 [Thebes]
+**
+Number of players: 2-4
+Age of players: 10+
+Length: 45-60 minutes
+Game Description: 
+In this game, the players travel back to the end of the 19th century to take on the roles of the famous archaeologists who discovered so much in so short a time. The names Schliemann, Evans, Carter, and Koldeway are still famous today. Like those they seek to emulate, the players seek to discover those antique treasures and places which have been buried in the sands for thousands of years.Each player take the role of an archaeologist. They first travel across Europe to find useful knowledge of different archaeological areas and then they excavate at places they expect to find treasures. The players score points for discoveries at these locations. Also, the players can acquire articles to assist them in excavation and travel, and will visit exhibitions to present their finds. </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Aug 2010 17:10:19 +0000</listdate>
+    <saledate>Mon, 16 Aug 2010 01:51:30 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Reserved for Douglas Weinstein.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Aug 2010 15:57:12 +0000</listdate>
+    <saledate>Fri, 10 Sep 2010 20:57:46 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played only once. In excellent condition, and complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Oct 2010 02:40:01 +0000</listdate>
+    <saledate>Mon, 25 Oct 2010 16:54:51 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>likenew</condition>
+    <notes>This sale is for USER: pima for an item they won in a geek auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Nov 2010 16:13:57 +0000</listdate>
+    <saledate>Fri, 19 Nov 2010 16:26:22 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Hi guys, new copy of Thebes, all components complete and in pristine condition as if the shrink just came off, the cards are even sleeved!  I want someone else to enjoy it since its collecting dust in my house, I_T_E_M_P_T_A_G_#039;m selling it cheap, $15! hope you fun with this game!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Dec 2010 07:11:23 +0000</listdate>
+    <saledate>Mon, 06 Dec 2010 08:23:28 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>for Netizen only!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Dec 2010 14:18:14 +0000</listdate>
+    <saledate>Fri, 07 Oct 2011 04:56:31 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>German Edition from Queen Games _T_E_M_P_T_A_G_quot;Jenseits von Theben_T_E_M_P_T_A_G_quot;</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Jan 2011 06:54:36 +0000</listdate>
+    <saledate>Sun, 09 Jan 2011 22:42:41 +0000</saledate>
+    <price currency='USD'>39.96</price>
+    <condition>new</condition>
+    <notes>KK Boardgames ~ supplier-direct games ~ your Canadian and US source for discount game prices based in Vancouver, BC and Blaine, WA. All prices in USD and all games are new and in shrink unless otherwise stated. For Canadian customers who want to pay in CAD, we can convert to CAD based on the current exchange rate.
+Thebes - $39.96
+Availability: DIRECT ORDER - In stock at our supplier. *** Usually ships in 1-2 weeks ***. If you place an order, we will include the game in our next order from our supplier*
+*Next order date - to see our next order date click on the _T_E_M_P_T_A_G_quot;More info..._T_E_M_P_T_A_G_quot; link. If the _T_E_M_P_T_A_G_quot;More info..._T_E_M_P_T_A_G_quot; link is not visible, click on the user ID _T_E_M_P_T_A_G_#039;kkrieger_T_E_M_P_T_A_G_#039; to view our _T_E_M_P_T_A_G_#039;geekstore_T_E_M_P_T_A_G_#039;, then click on the _T_E_M_P_T_A_G_quot;More info..._T_E_M_P_T_A_G_quot; link for a specific game.
+SHIPPING:
+We are near the US/Canada border so we can ship from either country -- there are absolutely no customs fees for US and Canada orders!
+For Canadian orders, we ship with Canada Post and charge a flat rate for one game (based on your province, see below) + $1.50 for each additional game (up to a maximum of an additional $6).
+e.g. The 2nd, 3rd, 4th, 5th games ship for $1.50 each, all subsequent games ship for free.
+Metro Vancouver area $8.50 (1 business day) or $0.00*
+Victoria (South Vancouver Island) $10 (2 business days)
+BC $12 (2 business days)
+AB $13 (2 business days)
+SK $13 (3 business days)
+MB $14 (3 business days)
+ON $15 (4 business days)
+QC $15 (5 business days)
+PE,NB,NS $15 (7 business days)
+NL $17 (8 business days)
+YT $17 (5 business days)
+NU/NT/Remote areas $17 (up to 13 business days)
+*FREE local pick-up in Vancouver area.
+US Orders are shipped USPS from zipcode 98230.
+International Orders are shipped USPS Priority Mail International with insurance and return receipt.
+PROMOTIONS:
+Loyalty rewards: For every $50 of games on your order, receive a $2.50 credit to be used on a future order.
+PAYMENT METHODS:
+We accept the following forms of payment:
+1. Interac e-Transfer* (Canadian banks)
+2. Cash on delivery (local pick-up greater Vancouver area)
+3. PayPal (Instant Transfer or debit/credit card funded)
+4. Credit cards (processed by PayPal - your information is never shared with us)
+5. Money Order - we will accept postal money orders, but will not ship games until money order is received and cashed.
+Our prices include a discount for paying cash or another no fee method (1-2 above). All payments processed by PayPal (3-4 above) will incur an extra charge of $0.30 + 2.9% to pass on the exact processing costs charged to us by PayPal. International payments through PayPal are $0.30 + 3.9%.
+We will provide detailed payment instructions for you once the order is placed.
+CONTACT US:
+Although we will make an effort to respond to all questions via geekmail as quickly as possible, your response time will be faster if you send questions via email to kkboardgames+bgg@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Feb 2011 02:04:32 +0000</listdate>
+    <saledate>Wed, 02 Mar 2011 08:17:02 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played once. Excellent condition.
+Will discuss shipping.
+Trying to make room by selling some of my collection.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Mar 2011 03:11:59 +0000</listdate>
+    <saledate>Fri, 29 Apr 2011 17:52:50 +0000</saledate>
+    <price currency='USD'>34.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THEBES: $34.95
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI): USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 06 Mar 2011 15:42:32 +0000</listdate>
+    <saledate>Mon, 14 Mar 2011 00:45:13 +0000</saledate>
+    <price currency='USD'>30.49</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG 60461)
+Thebes is a game of competitive archeology. Players are archaeologists who must travel around Europe, northern Africa, and the Middle East to acquire knowledge about five ancient civilizations -- the Greeks, the Cretans, the Egyptians, the Palestinians, and the Mesopotamians -- and then must use this knowledge to excavate historical sites in the areas of these civilizations. Through the course of the game, expositions are revealed, and an archaeologist who has treasures from the requisite civilizations may claim the prize (this is a change from the first edition_T_E_M_P_T_A_G_#039;s handling of exhibitions). The archaeologist who learns the most about the civilizations, claims the greatest-valued artifacts, and collects the most exhibitions will win out over his or her colleagues.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Apr 2011 17:30:49 +0000</listdate>
+    <saledate>Tue, 28 Jun 2011 19:25:15 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jun 2011 15:47:33 +0000</listdate>
+    <saledate>Sat, 04 Jun 2011 15:49:01 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>new</condition>
+    <notes>This item is RESERVED for Danath !
+If you_T_E_M_P_T_A_G_#039;re NOT HIM, please  DO NOT purchase!
+Thank you</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Jun 2011 13:14:34 +0000</listdate>
+    <saledate>Wed, 12 Dec 2012 20:18:12 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>likenew</condition>
+    <notes>Jenseits von Theben by Queen Games, unplayed and in excellent shape
+1052
+shipping: letter by airmail or small package</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 18 Jun 2011 19:40:20 +0000</listdate>
+    <saledate>Sat, 18 Jun 2011 21:08:02 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Reserved for BGG user:  Bearcat89</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Jul 2011 21:12:15 +0000</listdate>
+    <saledate>Thu, 31 May 2012 07:24:23 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Opened, played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Jul 2011 03:23:24 +0000</listdate>
+    <saledate>Mon, 25 Jul 2011 10:45:04 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>For BGG User naturestee from Geeklist Auction at http://www.boardgamegeek.com/geeklist/69871/closed-another-auction-lots-of-knizia-and-more/page/1
+Won for $12 with $12 shipping.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 01 Aug 2011 16:28:03 +0000</listdate>
+    <saledate>Thu, 04 Aug 2011 20:05:37 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Reserved for tapwater12 from the _T_E_M_P_T_A_G_quot;Save the Feline_T_E_M_P_T_A_G_quot; auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Aug 2011 22:06:12 +0000</listdate>
+    <saledate>Mon, 19 Sep 2011 03:15:52 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Very good condition. You pay only the exact shipping cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Aug 2011 19:08:15 +0000</listdate>
+    <saledate>Fri, 05 Aug 2011 21:01:16 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This is reserved for OCBRAD. He won it in an auction for $20 plus $15 shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 04 Sep 2011 16:27:31 +0000</listdate>
+    <saledate>Tue, 20 Sep 2011 03:46:13 +0000</saledate>
+    <price currency='USD'>27.99</price>
+    <condition>likenew</condition>
+    <notes>Pristine condition inside _T_E_M_P_T_A_G_amp; out, only played once, smoke-free home.  Buyer only pays exact shipping - no extra costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Sep 2011 22:10:13 +0000</listdate>
+    <saledate>Sun, 11 Sep 2011 06:26:10 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>for the winner of my auction - davido</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 12 Sep 2011 19:46:38 +0000</listdate>
+    <saledate>Mon, 19 Sep 2011 20:00:50 +0000</saledate>
+    <price currency='GBP'>17.5</price>
+    <condition>likenew</condition>
+    <notes>Everything is in excellent condition.
+UK Shipping £5.00</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Sep 2011 00:36:43 +0000</listdate>
+    <saledate>Mon, 26 Sep 2011 04:37:44 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>For John Hathorn/JohnnyOffice only, winner of game auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Sep 2011 00:44:50 +0000</listdate>
+    <saledate>Tue, 27 Sep 2011 21:43:31 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>For user (Lunaclara) only from my recent auction</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Oct 2011 14:31:12 +0000</listdate>
+    <saledate>Sat, 17 Dec 2011 00:36:36 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played just a handful of times.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Nov 2011 17:56:21 +0000</listdate>
+    <saledate>Fri, 11 Nov 2011 18:30:50 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Reserved for LordJunon
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Dec 2011 09:17:09 +0000</listdate>
+    <saledate>Wed, 07 Dec 2011 02:47:53 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>verygood</condition>
+    <notes>This is an auction item for larrykruger.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Dec 2011 22:14:00 +0000</listdate>
+    <saledate>Tue, 03 Jan 2012 06:16:37 +0000</saledate>
+    <price currency='USD'>33.95</price>
+    <condition>new</condition>
+    <notes>CLS Games - Atlanta_T_E_M_P_T_A_G_#039;s Board Game Warehouse - is the largest retailer of board games in metro Atlanta! All games are new _T_E_M_P_T_A_G_amp; still in factory shrink-wrap.
+THEBES: $33.95
+Rio Grande Games [RIO 084]
+SHIPPING
+Continental U.S. - FedEx: $13.95
+International (Including AK _T_E_M_P_T_A_G_amp; HI): USPS Priority Mail: TBD</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jan 2012 16:25:13 +0000</listdate>
+    <saledate>Fri, 27 Jan 2012 20:16:28 +0000</saledate>
+    <price currency='USD'>26.55</price>
+    <condition>new</condition>
+    <notes>Queen Games publisher.   Multiple language edition.
+Still in shrinkwrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jan 2012 22:32:44 +0000</listdate>
+    <saledate>Tue, 06 Mar 2012 04:46:02 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Counters punched and bagged, cards still in SW--never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Jan 2012 17:28:27 +0000</listdate>
+    <saledate>Tue, 31 Jan 2012 15:26:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Played the game once, in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Feb 2012 14:20:03 +0000</listdate>
+    <saledate>Thu, 02 Feb 2012 15:05:58 +0000</saledate>
+    <price currency='USD'>44</price>
+    <condition>verygood</condition>
+    <notes>Reserved for TradeMark Y.
+Unity Games Auction. 
+#301 Thebes $21
+#640 Egizia $23</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Feb 2012 21:09:32 +0000</listdate>
+    <saledate>Wed, 14 Mar 2012 01:00:36 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>Mint, in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Mar 2012 19:19:21 +0000</listdate>
+    <saledate>Mon, 12 Mar 2012 17:16:08 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played 2-3 times, Queen edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Mar 2012 01:15:55 +0000</listdate>
+    <saledate>Wed, 25 Apr 2012 18:14:55 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>new</condition>
+    <notes>Mint, in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Apr 2012 07:12:02 +0000</listdate>
+    <saledate>Tue, 10 Apr 2012 11:26:38 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>For sale to member Kristin0711 only!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Apr 2012 14:32:50 +0000</listdate>
+    <saledate>Tue, 24 Apr 2012 16:34:15 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Apr 2012 18:19:02 +0000</listdate>
+    <saledate>Fri, 04 May 2012 07:31:52 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>new</condition>
+    <notes>Mint, in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 08 May 2012 02:08:36 +0000</listdate>
+    <saledate>Tue, 08 May 2012 03:33:04 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>For littlemonkey only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 May 2012 22:03:40 +0000</listdate>
+    <saledate>Sun, 10 Jun 2012 12:09:57 +0000</saledate>
+    <price currency='USD'>37.5</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. All pieces, complete.
+Shipping in US is $10.95
+Will combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 25 May 2012 17:17:35 +0000</listdate>
+    <saledate>Sat, 26 May 2012 18:14:29 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>likenew</condition>
+    <notes>Part of game lot won at auction - for Cbursley</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 May 2012 20:56:23 +0000</listdate>
+    <saledate>Thu, 31 May 2012 04:54:39 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Thebes - reserved for JJL_WASHDC</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Jun 2012 03:40:55 +0000</listdate>
+    <saledate>Wed, 06 Jun 2012 10:42:50 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Played maybe 5 times.  This game is in perfect condition with all pieces present.
+I can take paypal or amazon payments.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jun 2012 01:38:57 +0000</listdate>
+    <saledate>Fri, 24 Aug 2012 23:32:21 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>good</condition>
+    <notes>There there is a major ding in the form of a 2-inch crush/pinch on the bottom right corner of the box--it affects the box top and bottom. I will send pictures on request.
+The game is in otherwise perfect condition; the shrink has been removed and the contents examined to ensure that the ding did not affect any game components.
+Shipping is USPS flat rate $11.35 in the US.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Jun 2012 05:22:12 +0000</listdate>
+    <saledate>Mon, 18 Jun 2012 06:04:57 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>good</condition>
+    <notes>Shipping to Australia only. Prefer payment by direct deposit.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Jun 2012 21:17:21 +0000</listdate>
+    <saledate>Tue, 31 Jul 2012 18:23:55 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>likenew</condition>
+    <notes>UK postage £5</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jun 2012 15:21:06 +0000</listdate>
+    <saledate>Fri, 03 Aug 2012 11:07:42 +0000</saledate>
+    <price currency='GBP'>26</price>
+    <condition>new</condition>
+    <notes>Postages;
+UK std £6.00
+Europe £9.50</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jul 2012 20:07:33 +0000</listdate>
+    <saledate>Sat, 03 Nov 2012 19:44:18 +0000</saledate>
+    <price currency='USD'>65</price>
+    <condition>new</condition>
+    <notes>New in shrinkwrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jul 2012 19:24:57 +0000</listdate>
+    <saledate>Tue, 17 Jul 2012 20:57:16 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>This item is reserved for sorennarnia as buyer in my auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jul 2012 20:31:28 +0000</listdate>
+    <saledate>Mon, 23 Jul 2012 08:24:50 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>Private sale for auction winner (okami31)
+Quoted shipping is for Parcel Post. Priority Mail will run $20 because of the odd box size Queen Games likes to use and flat-rate boxes won_T_E_M_P_T_A_G_#039;t fit.
+Let me know which shipping auction you want and when this is confirmed I_T_E_M_P_T_A_G_#039;ll send over a PayPal invoice.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 25 Jul 2012 16:16:45 +0000</listdate>
+    <saledate>Fri, 27 Jul 2012 15:32:55 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes>reserve for toedash</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Sep 2012 02:23:05 +0000</listdate>
+    <saledate>Sat, 01 Sep 2012 02:30:09 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>verygood</condition>
+    <notes>Reserved for user Liba007
+Do NOT buy if this is not you.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Sep 2012 17:03:21 +0000</listdate>
+    <saledate>Fri, 07 Sep 2012 15:57:46 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>new</condition>
+    <notes>still in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Sep 2012 00:49:13 +0000</listdate>
+    <saledate>Mon, 17 Sep 2012 00:33:10 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played twice, great condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Sep 2012 19:19:27 +0000</listdate>
+    <saledate>Sat, 29 Sep 2012 17:02:29 +0000</saledate>
+    <price currency='USD'>39.5</price>
+    <condition>new</condition>
+    <notes>Brand new, in shrink.
+Shipping will be $15.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Oct 2012 22:19:11 +0000</listdate>
+    <saledate>Wed, 07 Nov 2012 03:10:41 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 15 Nov 2012 04:58:39 +0000</listdate>
+    <saledate>Fri, 16 Nov 2012 10:22:31 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60461F)
+In this game, the players travel back to the end of the 19th century to take on the roles of the famous archaeologists who discovered so much in so short a time. The names Schliemann, Evans, Carter, and Koldeway are still famous today. Like those they seek to emulate, the players seek to discover those antique treasures and places which have been buried in the sands for thousands of years. Each player takes the role of an archaeologist. They first travel across Europe to find useful knowledge of different archaeological areas and then they excavate at places they expect to find treasures. The players score points for discoveries at these locations. Also, the players can acquire articles to assist them in excavation and travel, and will visit exhibitions to present their finds. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Nov 2012 13:41:48 +0000</listdate>
+    <saledate>Thu, 20 Dec 2012 02:05:45 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60461F)
+ 
+In this game, the players travel back to the end of the 19th century to take on the roles of the famous archaeologists who discovered so much in so short a time. The names Schliemann, Evans, Carter, and Koldeway are still famous today. Like those they seek to emulate, the players seek to discover those antique treasures and places which have been buried in the sands for thousands of years. Each player takes the role of an archaeologist. They first travel across Europe to find useful knowledge of different archaeological areas and then they excavate at places they expect to find treasures. The players score points for discoveries at these locations. Also, the players can acquire articles to assist them in excavation and travel, and will visit exhibitions to present their finds. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Jan 2013 18:39:04 +0000</listdate>
+    <saledate>Fri, 08 Feb 2013 21:04:30 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>For ronster0 only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jan 2013 01:33:34 +0000</listdate>
+    <saledate>Sun, 13 Jan 2013 02:30:54 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>For auction winner Zpimpslappa  ONLY</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jan 2013 20:25:10 +0000</listdate>
+    <saledate>Tue, 12 Feb 2013 05:25:53 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Game has only been played twice. All parts are in original condition, no damage.  We take very good care of the few games we own.  Beautiful theme and a great family game.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Jan 2013 22:36:07 +0000</listdate>
+    <saledate>Sun, 27 Jan 2013 00:57:18 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This copy of Thebes is opened and has been played around five times.  Everything is in good condition, though the cards are noticeably worn from shuffling (slightly arched but nothing severe).  Please see the attached image and ask me any questions you_T_E_M_P_T_A_G_#039;d like.
+Shipping to the United States only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Mar 2013 17:48:22 +0000</listdate>
+    <saledate>Sun, 31 Mar 2013 18:01:38 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>For user davaughnci</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Apr 2013 03:46:43 +0000</listdate>
+    <saledate>Thu, 04 Apr 2013 12:40:47 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>good</condition>
+    <notes>For jlrothe</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Apr 2013 23:33:30 +0000</listdate>
+    <saledate>Tue, 09 Apr 2013 23:48:07 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Auction item for pa5t0rd.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Apr 2013 09:38:12 +0000</listdate>
+    <saledate>Tue, 28 May 2013 22:45:40 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>Unplayed, in perfect condition.
+Shipping 12 EUR worldwide.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 15 Apr 2013 01:27:51 +0000</listdate>
+    <saledate>Mon, 15 Apr 2013 08:55:13 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>Reserved for user gen1400</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 May 2013 02:55:01 +0000</listdate>
+    <saledate>Mon, 10 Jun 2013 13:23:19 +0000</saledate>
+    <price currency='USD'>53</price>
+    <condition>new</condition>
+    <notes>2 items (Thebes and Twilight Struggle) won by Squeakz in auction.
+Local pick up.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Jun 2013 04:51:50 +0000</listdate>
+    <saledate>Mon, 02 Dec 2013 16:27:15 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>Played a handful of times.  Excellent condition. 
+$12 shipping in the US</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 10 Jun 2013 06:38:01 +0000</listdate>
+    <saledate>Fri, 14 Jun 2013 02:36:47 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Auction win
+Reserved for rhiochs
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Jun 2013 18:05:18 +0000</listdate>
+    <saledate>Fri, 28 Jun 2013 18:54:02 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This is the Queen Games multi-lingual edition. It has been punched but never played. I will split the actual cost of priority mail shipping 50/50 with the buyer.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jul 2013 01:24:33 +0000</listdate>
+    <saledate>Wed, 24 Jul 2013 15:51:54 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>For user misterboy only
+thebes, wasabi, carcassone H_T_E_M_P_T_A_G_amp;G, olympos: $75
+S_T_E_M_P_T_A_G_amp;H: $26</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Aug 2013 16:20:52 +0000</listdate>
+    <saledate>Fri, 11 Oct 2013 09:59:42 +0000</saledate>
+    <price currency='USD'>26.99</price>
+    <condition>likenew</condition>
+    <notes>Opened but unplayed.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Aug 2013 23:38:50 +0000</listdate>
+    <saledate>Thu, 30 Jan 2014 13:50:56 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Nov 2013 14:45:25 +0000</listdate>
+    <saledate>Tue, 04 Mar 2014 04:06:45 +0000</saledate>
+    <price currency='EUR'>29.99</price>
+    <condition>new</condition>
+    <notes>I´m offering the QUEEN GAMES edition (2nd edition)
+shipping rates:
+Germany = 4,5 Euro
+EU countries = 15 Euro
+worldwide = 19 Euro
+game weight: 1550 gramms
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Nov 2013 18:38:14 +0000</listdate>
+    <saledate>Sun, 17 Nov 2013 21:04:51 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>verygood</condition>
+    <notes>reserved for megryphon</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 20 Nov 2013 03:31:42 +0000</listdate>
+    <saledate>Wed, 20 Nov 2013 05:13:12 +0000</saledate>
+    <price currency='USD'>59</price>
+    <condition>new</condition>
+    <notes>FOR aram12!!!
+includes Lost Legends and KS stuff and shipping!</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Dec 2013 21:27:50 +0000</listdate>
+    <saledate>Sun, 08 Dec 2013 18:36:32 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60461F)
+In this game, the players travel back to the end of the 19th century to take on the roles of the famous archaeologists who discovered so much in so short a time. The names Schliemann, Evans, Carter, and Koldeway are still famous today. Like those they seek to emulate, the players seek to discover those antique treasures and places which have been buried in the sands for thousands of years. Each player takes the role of an archaeologist. They first travel across Europe to find useful knowledge of different archaeological areas and then they excavate at places they expect to find treasures. The players score points for discoveries at these locations. Also, the players can acquire articles to assist them in excavation and travel, and will visit exhibitions to present their finds. </notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Dec 2013 05:25:27 +0000</listdate>
+    <saledate>Mon, 09 Dec 2013 05:39:26 +0000</saledate>
+    <price currency='USD'>33</price>
+    <condition>new</condition>
+    <notes>Reserved for Satori</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Jan 2014 06:01:18 +0000</listdate>
+    <saledate>Mon, 06 Jan 2014 13:54:11 +0000</saledate>
+    <price currency='USD'>30.99</price>
+    <condition>new</condition>
+    <notes>Queen Games (QNG60461F)
+In this game, the players travel back to the end of the 19th century to take on the roles of the famous archaeologists who discovered so much in so short a time. The names Schliemann, Evans, Carter, and Koldeway are still famous today. Like those they seek to emulate, the players seek to discover those antique treasures and places which have been buried in the sands for thousands of years. Each player takes the role of an archaeologist. They first travel across Europe to find useful knowledge of different archaeological areas and then they excavate at places they expect to find treasures. The players score points for discoveries at these locations. Also, the players can acquire articles to assist them in excavation and travel, and will visit exhibitions to present their finds. </notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Jan 2014 02:38:41 +0000</listdate>
+    <saledate>Fri, 10 Jan 2014 02:56:59 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>likenew</condition>
+    <notes>For user mykidsdad only</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Jan 2014 23:29:30 +0000</listdate>
+    <saledate>Mon, 13 Jan 2014 00:55:08 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>for user cunning stunt only.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Jan 2014 02:48:46 +0000</listdate>
+    <saledate>Mon, 13 Jan 2014 02:55:28 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>for user bryo4 only.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Jan 2014 23:07:57 +0000</listdate>
+    <saledate>Mon, 27 Jan 2014 16:43:28 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Mar 2014 14:50:30 +0000</listdate>
+    <saledate>Tue, 08 Apr 2014 21:34:25 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>The game is like new condition - only played with once.  This is the 2007 Queen version based on the German version Jenseits von Theben, not the card game version.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Mar 2014 12:56:23 +0000</listdate>
+    <saledate>Thu, 27 Mar 2014 20:07:09 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Dustin Miller.
+This item was part of the Virtual Marketplace for SaltCON.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Mar 2014 17:32:09 +0000</listdate>
+    <saledate>Thu, 27 Mar 2014 19:38:58 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>Shipping to the UK only will be at cost.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Apr 2014 22:35:22 +0000</listdate>
+    <saledate>Tue, 29 Apr 2014 18:37:04 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This game has been meticulously cared for.  Great family game!
+Payment via PayPal, or cash for local pickup.
+Buyer pays actual shipping from the 65536 zip code. I will work with you to minimize shipping costs and combine shipping wherever possible. I prefer USPS fixed rate priority boxes, which usually means $12.35 for a medium box.
+Please check out my other games for sale. I recently added a bunch of GMT war games and other classic boardgames. </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 May 2014 20:30:38 +0000</listdate>
+    <saledate>Sun, 01 Jun 2014 10:39:00 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition.  </notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 May 2014 22:13:37 +0000</listdate>
+    <saledate>Wed, 21 May 2014 14:39:00 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Contents: One copy Thebes (Jenseits von Theben) from Queen Games.  2007 International edition.
+Condition: (I_T_E_M_P_T_A_G_#039;m conservative with my descriptions so people cannot claim I_T_E_M_P_T_A_G_#039;ve been dishonest!)  The only wear you can notice on this copy is some light indentations on the bottom of the box, and the English rules have been read a few times.  Otherwise the game is like new.  Complete.  Copies of all rules in all languages provided, though all non-English rules are under the insert.  Bought new and played 2 or 3 times and that_T_E_M_P_T_A_G_#039;s it.
+Shipping: This will ship via USPS, Regional Rate B or Flat Rate or even regular. My guess is $8-15 to ship, fully insured, depending on how far you are from northern Indiana.
+Payment: I take Paypal, USPS Money Orders, and Walmart Money Orders. Bitcoin works too.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 May 2014 14:06:08 +0000</listdate>
+    <saledate>Sun, 18 May 2014 16:30:02 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Components are all great, box has some corner wear but is structurally sound and doesn_T_E_M_P_T_A_G_#039;t have dents.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 May 2014 18:05:53 +0000</listdate>
+    <saledate>Tue, 27 May 2014 19:13:14 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>For Jeremy Crawford ONLY!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 May 2014 01:20:27 +0000</listdate>
+    <saledate>Sat, 31 May 2014 02:42:29 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/174011/item/3242653#3242653]Item for Geeklist _T_E_M_P_T_A_G_quot;Summer Break Auction - Helios and more!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 May 2014 14:22:22 +0000</listdate>
+    <saledate>Sat, 07 Jun 2014 10:28:44 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Thanks for looking.
+Item will be sent out on the next Saturday after payment.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jun 2014 13:09:28 +0000</listdate>
+    <saledate>Tue, 29 Jul 2014 21:23:04 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>RESERVED FOR scottearley
+International edition with multiple rulebooks in the following languages: English, Dutch, French,?German,?Italian,?Spanish. Game components and cards are all like new and bagged. Box has some wrinkles and creases from storage. Nothing extreme but I have pictures so you can decide for yourself. Other than that, this game is Like New. Comes from a smoke and pet free home. Ships fast from Michigan. Help me pay for my wedding and browse my other boardgame sales!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Jun 2014 18:20:09 +0000</listdate>
+    <saledate>Mon, 30 Jun 2014 15:57:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Played 3-4 times by adults in a smoke free home.  Everything is present and accounted for.    </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Jul 2014 19:30:20 +0000</listdate>
+    <saledate>Thu, 18 Sep 2014 02:23:59 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition.  Played only once.  Currently out of print (until Kickstarter ships).</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Aug 2014 01:43:10 +0000</listdate>
+    <saledate>Sun, 31 Aug 2014 02:10:07 +0000</saledate>
+    <price currency='USD'>39.95</price>
+    <condition>likenew</condition>
+    <notes>Played once.  Game is complete, inventoried and meticulously bagged.  I will combine shipping with other purchases.  Shipping in the US is 13.95</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Aug 2014 08:49:26 +0000</listdate>
+    <saledate>Sun, 17 Aug 2014 09:18:26 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>verygood</condition>
+    <notes>Auction listing for user bearn
+very good condition, but does have a medium ding in one corner of the box. Components are great</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Oct 2014 21:10:18 +0000</listdate>
+    <saledate>Thu, 30 Oct 2014 04:11:47 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>For Jesscuster3 only</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jun 2014 15:03:32 +0000</listdate>
+    <saledate>Fri, 31 Oct 2014 22:37:56 +0000</saledate>
+    <price currency='GBP'>23</price>
+    <condition>likenew</condition>
+    <notes>Photos on request</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Nov 2014 14:04:24 +0000</listdate>
+    <saledate>Tue, 11 Nov 2014 16:56:46 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>Sold to Meysey Hampton via GeekAuction</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Dec 2014 19:15:04 +0000</listdate>
+    <saledate>Fri, 12 Dec 2014 06:56:17 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>The game is in wonderful condition.
+Flat shipping rate of $10.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Dec 2014 03:17:59 +0000</listdate>
+    <saledate>Sat, 13 Dec 2014 20:03:30 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Dec 2014 02:04:05 +0000</listdate>
+    <saledate>Mon, 15 Dec 2014 16:13:07 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>2007 Queen Games German edition. Played, complete. The box lid has one very light crease in the corner of the lid, but the game is otherwise in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Dec 2014 08:39:40 +0000</listdate>
+    <saledate>Fri, 23 Jan 2015 17:39:43 +0000</saledate>
+    <price currency='USD'>38</price>
+    <condition>new</condition>
+    <notes>NIS. Please GM me for shipping quote.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Jan 2015 06:49:13 +0000</listdate>
+    <saledate>Sun, 25 Jan 2015 20:52:45 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/186192/item/3694926#3694926]Item for Geeklist _T_E_M_P_T_A_G_quot;SUPERBOWL SUPER SELL OFF!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Delaric only!
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 26 Jan 2015 16:36:10 +0000</listdate>
+    <saledate>Mon, 26 Jan 2015 17:21:21 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>new</condition>
+    <notes>Shipping will be $12.50 for a total of $41.50.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/178754/item/3681783#3681783]Item for Geeklist _T_E_M_P_T_A_G_quot;Small Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Feb 2015 22:59:45 +0000</listdate>
+    <saledate>Sun, 01 Feb 2015 23:11:22 +0000</saledate>
+    <price currency='USD'>76</price>
+    <condition>new</condition>
+    <notes>reserved for auction winner (adam)</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 03 Feb 2015 16:22:37 +0000</listdate>
+    <saledate>Sun, 08 Feb 2015 07:00:47 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Oct 2014 20:30:29 +0000</listdate>
+    <saledate>Sat, 21 Feb 2015 11:58:41 +0000</saledate>
+    <price currency='GBP'>26</price>
+    <condition>new</condition>
+    <notes>Due to shipping costs, will only sell to the UK.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 Feb 2015 05:31:04 +0000</listdate>
+    <saledate>Tue, 24 Feb 2015 11:38:12 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Box corners show minor wear. Components are bagged and in great shape. Note that the green bag does have an undone seam that runs roughly 1/4 the length of the seam on one side; it could be easily repaired with a needle and thread. Everything else is in very good shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Mar 2015 05:08:00 +0000</listdate>
+    <saledate>Sat, 07 Mar 2015 21:00:13 +0000</saledate>
+    <price currency='USD'>44.99</price>
+    <condition>new</condition>
+    <notes>Brand new, factory-sealed. Buyer pays shipping. Please let me know if you have any questions! 
+WITH TOMB RAIDERS EXPANSION!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Dec 2014 01:14:42 +0000</listdate>
+    <saledate>Mon, 09 Mar 2015 10:26:10 +0000</saledate>
+    <price currency='USD'>36.95</price>
+    <condition>new</condition>
+    <notes>Brand new, in shrink. Latest edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Nov 2014 21:34:46 +0000</listdate>
+    <saledate>Mon, 06 Apr 2015 00:28:25 +0000</saledate>
+    <price currency='USD'>34.99</price>
+    <condition>verygood</condition>
+    <notes>Punched, played lightly. Excellent condition and complete.
+A portion of the earnings from each sale are donated to St. Jude Children_T_E_M_P_T_A_G_#039;s Research Hospital.
+Standard shipping to a contiguous USA street address: $11.99</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Apr 2015 20:18:40 +0000</listdate>
+    <saledate>Fri, 15 May 2015 04:33:51 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 May 2015 13:42:23 +0000</listdate>
+    <saledate>Sat, 16 May 2015 01:28:39 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/190737/item/3876306#3876306]Item for Geeklist _T_E_M_P_T_A_G_quot;May Flowers Bloom New Games Auction! [US Only] Origins pickup available. Games include Council of Verona, Trains, Abyss, Dark Horse, and lots more! Ends May 14th!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 May 2015 03:33:59 +0000</listdate>
+    <saledate>Sun, 17 May 2015 17:54:47 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>The draw string on the maroon bag is broken.  Does not impact game play.   Otherwise the game is in like new condition, played 3 times.
+Shipping is $12 via USPS priority mail w/ tracking and insurance.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 May 2015 15:23:26 +0000</listdate>
+    <saledate>Tue, 26 May 2015 02:55:58 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>acceptable</condition>
+    <notes>Large ding on at the top of the box. Otherwise in great condition. Flat-rate shipping will be $7.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 22 Apr 2015 20:18:40 +0000</listdate>
+    <saledate>Fri, 29 May 2015 22:37:30 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 May 2015 23:37:53 +0000</listdate>
+    <saledate>Mon, 01 Jun 2015 00:38:46 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191710/item/3917653#3917653]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Jun 2015 12:22:24 +0000</listdate>
+    <saledate>Wed, 03 Jun 2015 17:43:17 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/191686/item/3920428#3920428]Item for Geeklist _T_E_M_P_T_A_G_quot;Played in Peoria BOGO Auction - US only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+This item is for rhernandez831 only. Thank you for your winning bid for Thebes. Priority shipping (3lb 13oz) from 61616 is $7.25.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Jun 2015 14:51:56 +0000</listdate>
+    <saledate>Sun, 07 Jun 2015 22:13:53 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Played once or twice. Game is in excellent condition. Buyer pays all shipping fees. Will ship to US and accept Paypal only. Thanks for looking!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Jun 2015 10:09:54 +0000</listdate>
+    <saledate>Sun, 21 Jun 2015 01:03:42 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Excellent Condition. Queen Edition.
+Shipping _T_E_M_P_T_A_G_amp; Handling: $15.00</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 May 2015 06:11:22 +0000</listdate>
+    <saledate>Wed, 24 Jun 2015 22:43:49 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 29 Jun 2015 01:40:43 +0000</listdate>
+    <saledate>Mon, 29 Jun 2015 01:40:52 +0000</saledate>
+    <price currency='AUD'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Jul 2015 23:19:06 +0000</listdate>
+    <saledate>Mon, 06 Jul 2015 23:33:47 +0000</saledate>
+    <price currency='USD'>52</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/192957/item/3974138#3974138]Item for Geeklist _T_E_M_P_T_A_G_quot;When it Rains it Pours Auction *Ends July 5th* *US ONLY* !!!CLOSED!!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Includes
+--------------------
+thebes - $26
+alhambra - $26
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 31 Jul 2015 15:04:32 +0000</listdate>
+    <saledate>Fri, 31 Jul 2015 15:14:45 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/193886/item/4014659#4014659]Item for Geeklist _T_E_M_P_T_A_G_quot;I need money, you need games. Let_T_E_M_P_T_A_G_#039;s do this!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Aug 2014 01:12:26 +0000</listdate>
+    <saledate>Sat, 08 Aug 2015 20:00:34 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink.
+no smoking home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Jan 2015 15:21:23 +0000</listdate>
+    <saledate>Mon, 07 Sep 2015 21:42:51 +0000</saledate>
+    <price currency='USD'>49</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 18 Nov 2012 19:58:25 +0000</listdate>
+    <saledate>Sat, 12 Sep 2015 01:17:04 +0000</saledate>
+    <price currency='GBP'>29.99</price>
+    <condition>verygood</condition>
+    <notes>English language
+Postage £5 to UK using collect plus
+cheers,
+James</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Jun 2014 06:01:43 +0000</listdate>
+    <saledate>Fri, 25 Sep 2015 07:38:35 +0000</saledate>
+    <price currency='EUR'>31</price>
+    <condition>new</condition>
+    <notes>Sealed
+Multilingual Queen Games edition
+English, French, Spanish, German, Italian, Dutch</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 26 Sep 2015 23:15:42 +0000</listdate>
+    <saledate>Sun, 04 Oct 2015 23:23:04 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Played twice.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 11 Jun 2015 15:33:05 +0000</listdate>
+    <saledate>Sat, 31 Oct 2015 17:54:13 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>likenew</condition>
+    <notes>Multi-lingual reprint edition 2014 with rulebooks in German, English, French, Spanish, Dutch; 
+Game components are language-independent, only the cards have the German names of the cities and areas on them;
+Played only one time, very good condition, components complete and like new, two tiny bumps on the boxes edges</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Nov 2015 11:32:25 +0000</listdate>
+    <saledate>Mon, 02 Nov 2015 21:46:27 +0000</saledate>
+    <price currency='EUR'>28</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Nov 2015 23:15:21 +0000</listdate>
+    <saledate>Sun, 08 Nov 2015 19:44:42 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Item reserved for ptm_junk
+For BGG.Con VFM meetup, payment at time of delivery.
+This sale has been auto-generated for the auction: [geekurl=/geeklist/197039/item/4192264#4192264]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Nov 2015 20:13:12 +0000</listdate>
+    <saledate>Tue, 10 Nov 2015 16:54:39 +0000</saledate>
+    <price currency='USD'>31.99</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMQ060461)
+In this game, the players travel back to the end of the 19th century to take on the roles of the famous archaeologists who discovered so much in so short a time. The names Schliemann, Evans, Carter, and Koldeway are still famous today. Like those they seek to emulate, the players seek to discover those antique treasures and places which have been buried in the sands for thousands of years. Each player takes the role of an archaeologist. They first travel across Europe to find useful knowledge of different archaeological areas and then they excavate at places they expect to find treasures. The players score points for discoveries at these locations. Also, the players can acquire articles to assist them in excavation and travel, and will visit exhibitions to present their finds.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 05 Nov 2015 20:13:12 +0000</listdate>
+    <saledate>Tue, 10 Nov 2015 18:44:15 +0000</saledate>
+    <price currency='USD'>31.99</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMQ060461)
+In this game, the players travel back to the end of the 19th century to take on the roles of the famous archaeologists who discovered so much in so short a time. The names Schliemann, Evans, Carter, and Koldeway are still famous today. Like those they seek to emulate, the players seek to discover those antique treasures and places which have been buried in the sands for thousands of years. Each player takes the role of an archaeologist. They first travel across Europe to find useful knowledge of different archaeological areas and then they excavate at places they expect to find treasures. The players score points for discoveries at these locations. Also, the players can acquire articles to assist them in excavation and travel, and will visit exhibitions to present their finds.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Nov 2015 01:30:02 +0000</listdate>
+    <saledate>Sun, 15 Nov 2015 04:48:24 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/197039/item/4204099#4204099]Item for Geeklist _T_E_M_P_T_A_G_quot;Virtual Flea Market for Delivery to BGG.Con 2015_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2015 18:42:49 +0000</listdate>
+    <saledate>Thu, 19 Nov 2015 15:19:06 +0000</saledate>
+    <price currency='USD'>30.49</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMQ060461)
+In this game, the players travel back to the end of the 19th century to take on the roles of the famous archaeologists who discovered so much in so short a time. The names Schliemann, Evans, Carter, and Koldeway are still famous today. Like those they seek to emulate, the players seek to discover those antique treasures and places which have been buried in the sands for thousands of years. Each player takes the role of an archaeologist. They first travel across Europe to find useful knowledge of different archaeological areas and then they excavate at places they expect to find treasures. The players score points for discoveries at these locations. Also, the players can acquire articles to assist them in excavation and travel, and will visit exhibitions to present their finds.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2015 18:42:49 +0000</listdate>
+    <saledate>Mon, 23 Nov 2015 14:55:51 +0000</saledate>
+    <price currency='USD'>30.49</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMQ060461)
+In this game, the players travel back to the end of the 19th century to take on the roles of the famous archaeologists who discovered so much in so short a time. The names Schliemann, Evans, Carter, and Koldeway are still famous today. Like those they seek to emulate, the players seek to discover those antique treasures and places which have been buried in the sands for thousands of years. Each player takes the role of an archaeologist. They first travel across Europe to find useful knowledge of different archaeological areas and then they excavate at places they expect to find treasures. The players score points for discoveries at these locations. Also, the players can acquire articles to assist them in excavation and travel, and will visit exhibitions to present their finds.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2015 18:42:49 +0000</listdate>
+    <saledate>Mon, 07 Dec 2015 02:15:51 +0000</saledate>
+    <price currency='USD'>30.49</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMQ060461)
+In this game, the players travel back to the end of the 19th century to take on the roles of the famous archaeologists who discovered so much in so short a time. The names Schliemann, Evans, Carter, and Koldeway are still famous today. Like those they seek to emulate, the players seek to discover those antique treasures and places which have been buried in the sands for thousands of years. Each player takes the role of an archaeologist. They first travel across Europe to find useful knowledge of different archaeological areas and then they excavate at places they expect to find treasures. The players score points for discoveries at these locations. Also, the players can acquire articles to assist them in excavation and travel, and will visit exhibitions to present their finds.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Nov 2015 18:42:49 +0000</listdate>
+    <saledate>Tue, 15 Dec 2015 16:57:46 +0000</saledate>
+    <price currency='USD'>30.49</price>
+    <condition>new</condition>
+    <notes>Asmodee (ASMQ060461)
+In this game, the players travel back to the end of the 19th century to take on the roles of the famous archaeologists who discovered so much in so short a time. The names Schliemann, Evans, Carter, and Koldeway are still famous today. Like those they seek to emulate, the players seek to discover those antique treasures and places which have been buried in the sands for thousands of years. Each player takes the role of an archaeologist. They first travel across Europe to find useful knowledge of different archaeological areas and then they excavate at places they expect to find treasures. The players score points for discoveries at these locations. Also, the players can acquire articles to assist them in excavation and travel, and will visit exhibitions to present their finds.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Dec 2015 19:16:18 +0000</listdate>
+    <saledate>Wed, 30 Dec 2015 14:38:28 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jan 2016 13:07:08 +0000</listdate>
+    <saledate>Tue, 12 Jan 2016 01:04:06 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/203098/item/4373597#4373597]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction for an Engagement --- All with BINs! Ends 1/10_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Nov 2015 00:03:47 +0000</listdate>
+    <saledate>Thu, 04 Feb 2016 01:15:16 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Lightly played (4-6 times)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Dec 2015 23:10:23 +0000</listdate>
+    <saledate>Fri, 05 Feb 2016 18:56:39 +0000</saledate>
+    <price currency='USD'>44.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Jan 2016 22:06:10 +0000</listdate>
+    <saledate>Sun, 07 Feb 2016 22:11:18 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Nov 2015 11:24:12 +0000</listdate>
+    <saledate>Sat, 27 Feb 2016 03:27:53 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 19 Feb 2016 19:16:15 +0000</listdate>
+    <saledate>Thu, 03 Mar 2016 00:46:19 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>likenew</condition>
+    <notes>Rules in English, French, Dutch, German and Spanish
+no necessary in-game text
+Queen Games, multilingual edition (2012)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Feb 2016 14:48:21 +0000</listdate>
+    <saledate>Fri, 04 Mar 2016 14:06:27 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>[b]Condition:[/b] Opened _T_E_M_P_T_A_G_amp; punched, but never played. In perfect condition.
+[b]Language:[/b] English
+[b]Publisher:[/b] Queen
+Will Combine shipping with other items</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Mar 2016 17:46:30 +0000</listdate>
+    <saledate>Sat, 12 Mar 2016 21:03:08 +0000</saledate>
+    <price currency='USD'>37</price>
+    <condition>new</condition>
+    <notes>Auction item reserved for BGG user _T_E_M_P_T_A_G_quot;lordunborn_T_E_M_P_T_A_G_quot; only.
+Items: 
+$24 - Thebes
+$13 - Upon a Salty Ocean
+-----------------------------------
+SUBTOTAL - $37
+Please complete this order by clicking _T_E_M_P_T_A_G_quot;Add to Cart_T_E_M_P_T_A_G_quot; and then _T_E_M_P_T_A_G_quot;Proceed to Checkout,_T_E_M_P_T_A_G_quot; making sure your delivery information is correct.  I will confirm the order giving the total owed, plus shipping, along with my PayPal account for payment. 
+If you plan on local pick-up, specify whether you will be picking up in Rochester or in NYC (we will have to work out details for pick-up individually). Otherwise, shipping costs will be based on the policy detailed in the auction header (click on link below). Exact shipping costs will be provided upon order confirmation. 
+This sale has been auto-generated for the auction: [geekurl=/geeklist/205786/item/4489304#4489304]Item for Geeklist _T_E_M_P_T_A_G_quot;*LAST DAY!* Auction: Lots of Rare _T_E_M_P_T_A_G_amp; OOP Games/Expansions. Ends March 11, 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Mar 2016 15:48:36 +0000</listdate>
+    <saledate>Wed, 16 Mar 2016 17:34:45 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>verygood</condition>
+    <notes>PLEASE DO NOT BUY! OFFER MADE FOR USER HYBRY!
+Language:
+German edition from Queen Games with german rulebook
+Language Dependency:
+No necessary in-game text
+Condition:
+components in very good condition, little wear on the box
+Weight:
+1400g
+Shipping:
+4.99 within Germany
+10.99 within DHL Zone 1 (EU, see seller info)
+28.99 within DHL Zone 2 (Europe outside of EU)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Mar 2016 22:20:27 +0000</listdate>
+    <saledate>Wed, 23 Mar 2016 06:58:08 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Played once.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Mar 2016 22:39:37 +0000</listdate>
+    <saledate>Wed, 30 Mar 2016 01:24:47 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>FOR SpudBudly ONLY!
+This sale has been auto-generated for the auction: [geekurl=/geeklist/206505/item/4520519#4520519]Item for Geeklist _T_E_M_P_T_A_G_quot;Last auction before I move to Japan - BINS, OOPs, Kickstarters and more!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 Mar 2016 06:26:31 +0000</listdate>
+    <saledate>Thu, 31 Mar 2016 21:58:28 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>acceptable</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/206468/item/4528971#4528971]Item for Geeklist _T_E_M_P_T_A_G_quot;March Auction 2016_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Mar 2016 12:23:07 +0000</listdate>
+    <saledate>Sun, 03 Apr 2016 02:30:21 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Some whitening on box corners. Game components are in excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Dec 2014 15:53:58 +0000</listdate>
+    <saledate>Wed, 06 Apr 2016 23:52:32 +0000</saledate>
+    <price currency='USD'>59.99</price>
+    <condition>new</condition>
+    <notes>new _T_E_M_P_T_A_G_amp; sealed. box damaged.
+buyer responsible for fees.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Apr 2016 06:34:09 +0000</listdate>
+    <saledate>Mon, 11 Apr 2016 16:54:03 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>This item for Jasnis only (winning bidder in the Sail the World Sale).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Apr 2016 20:00:50 +0000</listdate>
+    <saledate>Mon, 11 Apr 2016 17:59:12 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>This copy was purchased new, played a couple of times and has sat on a shelf since.  It_T_E_M_P_T_A_G_#039;s time for this copy to see some table time--maybe your table.  I_T_E_M_P_T_A_G_#039;m a very careful packer and I only use brand new sturdy cardboard boxes to ship.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 24 Apr 2016 05:31:02 +0000</listdate>
+    <saledate>Sun, 24 Apr 2016 11:50:13 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/207807/item/4575527#4575527]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction, Lots of GMTs, Wargames, Family Games, Louisville, KY, Ends 4/23_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 May 2016 17:40:41 +0000</listdate>
+    <saledate>Thu, 05 May 2016 01:42:21 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>likenew</condition>
+    <notes>punched but unplayed
+free shipping to continental us. 
+no international shipping!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 May 2016 13:43:49 +0000</listdate>
+    <saledate>Sat, 14 May 2016 17:04:00 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/208527/item/4615001#4615001]Item for Geeklist _T_E_M_P_T_A_G_quot;[Auction Title Goes Here]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Jun 2016 04:28:06 +0000</listdate>
+    <saledate>Wed, 01 Jun 2016 10:31:36 +0000</saledate>
+    <price currency='USD'>48.05</price>
+    <condition>verygood</condition>
+    <notes>$30
+$18.05 Shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 14 Jun 2016 01:07:55 +0000</listdate>
+    <saledate>Tue, 14 Jun 2016 01:09:52 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/200121/item/4297798#4297798]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction - Clearing out more unplayed games (or games that have fallen out of favor:))_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+reserved for user pjb51
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Jun 2016 00:03:49 +0000</listdate>
+    <saledate>Fri, 24 Jun 2016 17:45:42 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>likenew</condition>
+    <notes>personal delivery in Greater Stuttgart or plus 5€ shipping in Germany (in Europe may be expensive). If you choose PayPal with Buyer Protection (not Family and Friends) for paying please note the additional PayPal fee you have to pay</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jun 2016 02:31:00 +0000</listdate>
+    <saledate>Wed, 06 Jul 2016 21:57:56 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Will ship USPS priority.
+Payment through Paypal.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Jul 2016 02:58:59 +0000</listdate>
+    <saledate>Mon, 11 Jul 2016 03:58:25 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/210799/item/4716622#4716622]Item for Geeklist _T_E_M_P_T_A_G_quot;Critical Mass Flash Auction - Ends 7/10_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Apr 2016 18:54:48 +0000</listdate>
+    <saledate>Thu, 21 Jul 2016 00:24:29 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink wrap.
+German box. English rules color printout will be included with the game.
+Small crease on the back of the box. See pic.
+NOT a Pre-Order!!! Ships TODAY !!! No Waiting !!!
+Get $4 DISCOUNT. See below!!
+I will ship immediately and will ship worldwide.
+DISCOUNT OFFER_____________________________________________
+Buy ANY 2 games from me --_T_E_M_P_T_A_G_gt; get $ 4 discount.
+Buy MORE than 2 games --_T_E_M_P_T_A_G_gt; get $ 4 on first 2 + $1 OFF for the 3rd, 4th, 5th, etc. game.
+Combined shipping for the whole purchase anywhere in the WORLD!
+____________________________________________________________
+My Marketplace and some hard to find games:
+http://www.boardgamegeek.com/geekmarket/user/greengow
+----- 0-9 -----
+3 sind eine zu viel
+504
+6 Nimmt!
+7 Kingdoms
+1944: Race to the Rhine + Limited Edition Red Ball Expansion 
+----- A -----
+AARRR!
+Absacker
+Animal Upon Animal Deluxe
+Arkham Horror: Kingsport Horror Expansion
+----- B -----
+Basilica
+Batavia
+Biberbande
+Böhmische Dörfer - Bohemian Villages
+Bremerhaven
+Bretagne
+Bruges
+----- C -----
+Cappuccino
+Carcassonne Star Wars
+Cargotrain
+Caverna
+Castles of Mad King Ludwig (NEW graphics edition)
+Chronicler
+Cornwall
+Council of Four
+Craftsmen
+Crazy Coconuts 
+----- D -----
+Daxu
+Dice Brewing
+Double Mission: Beyond the Object
+Dynasties: Heirate _T_E_M_P_T_A_G_amp; Herrsche
+----- E -----
+Eight-Minute Empire
+Eight-Minute Empire: Legends
+Eldritch Horror
+Eldritch Horror: Forsaken Lore
+----- F -----
+First To Fight
+Five Tribes
+Florenza
+Flying Kiwis
+Fresko
+Fürstenfeld
+----- G -----
+Grand Austria Hotel
+Grog Island
+----- H -----
+Haithabu
+Haru Ichiban
+Hawaii
+Hermagor
+----- I -----
+Imperialism: Road to Domination
+India Rails
+----- J -----
+Jäger und Sammler
+Jenseits von Theben (Thebes)
+----- K -----
+Kamisado Max
+Keltis - includes Neue Wege, Neue Ziele expansion
+Kolejka
+Kutschfahrt zur Teufelsburg
+----- L -----
+Looping Louie
+----- M -----
+Machi Koro + Machi Koro: Harbour expansion + 1 set of Large Cards
+Madame Ching
+Mangrovia
+Manhattan
+Meuterer
+Murano
+Mysterium (Tajemnicze Domostwo)
+----- N -----
+Nauticus
+Notre Dame
+----- O -----
+Oh my Goods!
+Ora et Labora
+----- P -----
+Pi mal Pflaumen
+PitchCar
+Poison
+Porta Nigra
+----- Q -----
+Quadropolis
+Quebec
+----- R -----
+Railways Express
+Raptor
+Rattus Cartus
+Rokoko
+----- S -----
+Santa Cruz
+Sarkophag
+Settlers of America
+Soccero
+Splendor
+Stinky Business
+----- T -----
+Tajemnicze Domostwo
+Tammany Hall
+Thebes
+The Castles of Burgundy: The Card Game 
+The Great Fire of London 1666
+Thurn und Taxis
+Tides of Time
+----- U -----
+Urban Panic
+----- V -----
+Verräter
+Versailles
+Vienna
+----- W -----
+Waggle Dance
+West of Africa</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 26 May 2016 19:11:14 +0000</listdate>
+    <saledate>Sat, 23 Jul 2016 00:00:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Opened and punched, never played.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 22 Mar 2016 14:52:20 +0000</listdate>
+    <saledate>Thu, 18 Aug 2016 13:35:36 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>Played a couple of times so everything looks shiny.
+Shipping (with or without tracking code): Please ask.
+PAYPAL and Bank Transfer accepted. (PayPal, please add 3€)
+Local pickup (Estoril, Lisboa, Portugal) possible. Cash accepted.
+Please, see games for sale list at https://www.boardgamegeek.com/geekmarket/user/kulkat .
+Any question, feel free to ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Apr 2016 01:18:22 +0000</listdate>
+    <saledate>Thu, 08 Sep 2016 16:44:45 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>new</condition>
+    <notes>New in shrink. Buyer pays actual USPS shipping cost from 32824 (Orlando, FL).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Sep 2016 17:51:49 +0000</listdate>
+    <saledate>Thu, 29 Sep 2016 19:07:38 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 May 2016 18:26:39 +0000</listdate>
+    <saledate>Fri, 21 Oct 2016 20:59:27 +0000</saledate>
+    <price currency='CAD'>45</price>
+    <condition>likenew</condition>
+    <notes>Never played, punched
++shipping, will combine shipping on multiple orders</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Oct 2016 14:00:29 +0000</listdate>
+    <saledate>Sat, 29 Oct 2016 15:43:19 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>played 6 times. £5 postage to UK, other countries please ask</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Oct 2016 09:09:36 +0000</listdate>
+    <saledate>Mon, 28 Nov 2016 09:05:57 +0000</saledate>
+    <price currency='EUR'>18</price>
+    <condition>verygood</condition>
+    <notes>Queen Games multilingual edition (DE/EN/ES/FR/NL)
+Lightly played and in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Dec 2016 18:18:12 +0000</listdate>
+    <saledate>Tue, 13 Dec 2016 22:24:46 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/217944/item/5065574#5065574]Item for Geeklist _T_E_M_P_T_A_G_quot;Santa Dropped A Deuce Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Aug 2016 15:30:58 +0000</listdate>
+    <saledate>Thu, 15 Dec 2016 13:09:20 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>likenew</condition>
+    <notes>Played only three times</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 07 Dec 2016 20:34:30 +0000</listdate>
+    <saledate>Mon, 19 Dec 2016 21:43:39 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>new</condition>
+    <notes>Payment can be made through secure order form at www.spiritgames.co.uk or by Paypal (salnphil@spiritgames.co.uk £1 fee, invoice on request)
+UK Postage £5.00 First Class
+Overseas Postage at cost - please email us.
+Max UK Postage £5.00. The postage above is at cost (for Sale goods) but the maximum £5.00 for UK still applies.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 29 Dec 2016 02:09:58 +0000</listdate>
+    <saledate>Thu, 29 Dec 2016 02:52:55 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Shipping is from 43224.
+I will gladly combine shipping on multiple items purchased.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jan 2017 16:18:53 +0000</listdate>
+    <saledate>Sat, 14 Jan 2017 12:12:47 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>U.K. Postage £5</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Jan 2017 17:33:48 +0000</listdate>
+    <saledate>Mon, 16 Jan 2017 19:55:20 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Played once.
+Max shipping $11.95
+Any questions please ask.
+non-smoker</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Nov 2016 18:29:55 +0000</listdate>
+    <saledate>Tue, 17 Jan 2017 17:51:01 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>verygood</condition>
+    <notes>Pick-up available in Toronto area.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Jan 2017 19:46:15 +0000</listdate>
+    <saledate>Tue, 24 Jan 2017 20:02:16 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 09 Oct 2016 19:52:47 +0000</listdate>
+    <saledate>Mon, 30 Jan 2017 21:04:53 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>likenew</condition>
+    <notes>In perfect condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 17 Jan 2017 20:59:29 +0000</listdate>
+    <saledate>Sun, 12 Feb 2017 21:14:23 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>likenew</condition>
+    <notes>This is the English/German version, It Has The ENGLISH RULES  INCLUDED,   Will Only Ship To United Kingdom.  £4.99 P_T_E_M_P_T_A_G_amp;P</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Feb 2017 03:08:25 +0000</listdate>
+    <saledate>Mon, 20 Feb 2017 03:38:30 +0000</saledate>
+    <price currency='USD'>48</price>
+    <condition>likenew</condition>
+    <notes>Auction item won by garret10169 + 12.40 shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Mar 2017 00:04:11 +0000</listdate>
+    <saledate>Sat, 11 Mar 2017 03:57:19 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/146056/item/5264313#5264313]Item for Geeklist _T_E_M_P_T_A_G_quot;Portland, OR Virtual Flea Market_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you aren_T_E_M_P_T_A_G_#039;t DocCroaker</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Apr 2017 16:24:31 +0000</listdate>
+    <saledate>Wed, 05 Apr 2017 18:37:55 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition. Never played.
+Local pick-up available in Toronto (Woodbine and Danforth area), otherwise shipping charges to apply.
+PayPal preferred and buyer is responsible for PayPal fees, if applicable.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Apr 2017 20:00:07 +0000</listdate>
+    <saledate>Mon, 17 Apr 2017 11:32:05 +0000</saledate>
+    <price currency='EUR'>12</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Apr 2017 03:08:59 +0000</listdate>
+    <saledate>Mon, 24 Apr 2017 11:56:45 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/224310/item/5339813#5339813]Item for Geeklist _T_E_M_P_T_A_G_quot;CLOSED - April Showers Bring My Games (US Only; ships from Landisville, PA) - ends 04/23/17_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Apr 2017 23:56:36 +0000</listdate>
+    <saledate>Fri, 28 Apr 2017 11:45:41 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>WON AT AUCTION BY RIVENTHAL.  PLEASE DO NOT PURCHASE UNLESS YOU WON THIS ITEM.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Apr 2017 19:12:33 +0000</listdate>
+    <saledate>Sat, 06 May 2017 03:31:44 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Opened but never played.
+Shipping is $10 to CONUS.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 May 2017 02:48:54 +0000</listdate>
+    <saledate>Thu, 18 May 2017 02:53:19 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/225035/item/5372581#5372581]Item for Geeklist _T_E_M_P_T_A_G_quot;EAST COAST AUCTION  - [CLOSED] _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 May 2017 14:34:50 +0000</listdate>
+    <saledate>Sun, 11 Jun 2017 15:23:56 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>verygood</condition>
+    <notes>Played twice, in great condition. Components Baggied.
+Pay to PayPal: firstfletch@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Jun 2017 00:35:35 +0000</listdate>
+    <saledate>Fri, 16 Jun 2017 00:49:58 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>$10 Shipping
+Reserved for bprush</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Jul 2017 03:54:01 +0000</listdate>
+    <saledate>Sun, 02 Jul 2017 15:39:10 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/226883/item/5469074#5469074]Item for Geeklist _T_E_M_P_T_A_G_quot;The Heat of Summer Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+RESERVED FOR WARD WEBSTER
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Apr 2017 19:41:03 +0000</listdate>
+    <saledate>Thu, 13 Jul 2017 19:44:05 +0000</saledate>
+    <price currency='EUR'>14</price>
+    <condition>likenew</condition>
+    <notes>Like new.
+Non smoking household.
+Price: 14,00 € + shipping; payment by bank transfer or Paypal
+Shipping:
+Germany 7,00 €
+EU 17,00 €
+Rest Europe: 30,00 €
+North America: 36,00 €</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Jul 2017 02:30:08 +0000</listdate>
+    <saledate>Wed, 19 Jul 2017 02:44:31 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>for Blake the Flake ONLY.
+Shipping to be added when buyer confirms purchases (if not local pickup or online shipping change).</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Jul 2017 01:49:32 +0000</listdate>
+    <saledate>Tue, 25 Jul 2017 01:57:13 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/227617/item/5503894#5503894]Item for Geeklist _T_E_M_P_T_A_G_quot;BOOMSHAKALAKA - Get those Games, its Heating up!!!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Jul 2017 06:10:03 +0000</listdate>
+    <saledate>Fri, 28 Jul 2017 16:21:15 +0000</saledate>
+    <price currency='GBP'>12.5</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Aug 2017 07:44:50 +0000</listdate>
+    <saledate>Thu, 10 Aug 2017 13:19:35 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228068/item/5537793#5537793]Item for Geeklist _T_E_M_P_T_A_G_quot;Clearing the Shelves: Summer Auction (Ends Aug. 7th!!) ((UPDATED - NEW GAMES ADDED!!))_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Aug 2017 19:51:55 +0000</listdate>
+    <saledate>Sun, 20 Aug 2017 21:30:47 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/228489/item/5542010#5542010]Item for Geeklist _T_E_M_P_T_A_G_quot;(CLOSED) No Room for Summer Auction - Ends Aug. 19th_T_E_M_P_T_A_G_quot; [/geekurl]
+Reserved for KnobleSavage.  Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 01 Apr 2017 22:41:42 +0000</listdate>
+    <saledate>Sun, 17 Sep 2017 14:55:06 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>in shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Sep 2017 11:45:18 +0000</listdate>
+    <saledate>Mon, 25 Sep 2017 09:54:21 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>German Edition like new. Will ship worldwide.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Sep 2017 19:41:42 +0000</listdate>
+    <saledate>Thu, 28 Sep 2017 11:07:20 +0000</saledate>
+    <price currency='EUR'>16</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/229021/item/5612927#5612927]Item for Geeklist _T_E_M_P_T_A_G_quot;Essen SPIEL 2017 no shipping math trade_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+No game, but payment for Essen Math Trade</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Sep 2017 17:31:04 +0000</listdate>
+    <saledate>Tue, 03 Oct 2017 15:10:57 +0000</saledate>
+    <price currency='USD'>12.5</price>
+    <condition>new</condition>
+    <notes>New in shrink. Never opened/played.  Buyer pays USPS Priority Shipping from 11229 (Brooklyn, NY).</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Oct 2017 21:10:50 +0000</listdate>
+    <saledate>Sun, 08 Oct 2017 23:13:50 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230740/item/5685166#5685166]Item for Geeklist _T_E_M_P_T_A_G_quot;Min 10 BIN 25 Auction ends on 10/7, Shipping from Los Angeles_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Oct 2017 23:58:14 +0000</listdate>
+    <saledate>Fri, 13 Oct 2017 07:20:57 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>new</condition>
+    <notes>Auction winnings for Christy Love.
++$18.98 shipping comes to $29.98 total.
+Paypal is sirransellot@gmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Oct 2017 13:52:45 +0000</listdate>
+    <saledate>Sun, 22 Oct 2017 17:46:52 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Opened, never played.  In Excellent Condition.
+Shipping from 14625.  Payment via PayPal only please.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Jul 2017 14:54:14 +0000</listdate>
+    <saledate>Tue, 07 Nov 2017 18:38:44 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Plsyed Once</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Nov 2017 16:09:57 +0000</listdate>
+    <saledate>Thu, 09 Nov 2017 16:11:09 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/230892/item/5743019#5743019]Item for Geeklist _T_E_M_P_T_A_G_quot;PAX Unplugged Virtual Flea Market 2017_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 09 Nov 2017 19:35:14 +0000</listdate>
+    <saledate>Wed, 15 Nov 2017 21:06:43 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>new in shrink and perfect.  Ships for $14 in a flat rate medium box.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 09 Sep 2017 13:19:49 +0000</listdate>
+    <saledate>Fri, 24 Nov 2017 17:55:59 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>In great shape.  Comes with a laminated rules summary.  Shipping will probably be around $12-14, depending on where you live.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 24 Nov 2017 17:23:34 +0000</listdate>
+    <saledate>Sat, 25 Nov 2017 01:24:53 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/232927/item/5774072#5774072]Item for Geeklist _T_E_M_P_T_A_G_quot;Go crazy Auction. _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Aug 2017 16:11:33 +0000</listdate>
+    <saledate>Sun, 26 Nov 2017 16:06:04 +0000</saledate>
+    <price currency='GBP'>22</price>
+    <condition>likenew</condition>
+    <notes>Thebes 
+Queen Games
+Like new, English/German version
+Postage by Hermes £3.49
+Payment by Paypal family and friends.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Jun 2017 13:41:56 +0000</listdate>
+    <saledate>Mon, 27 Nov 2017 13:23:30 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>verygood</condition>
+    <notes>Complete and in very good condition.
+From a smoke and pet-free home and will be carefully packed for shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Nov 2017 16:13:51 +0000</listdate>
+    <saledate>Wed, 29 Nov 2017 16:16:33 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>SOLD: FOR EDUARDOPOP ONLY</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Oct 2017 17:40:10 +0000</listdate>
+    <saledate>Fri, 01 Dec 2017 03:05:05 +0000</saledate>
+    <price currency='USD'>23.31</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Nov 2016 02:50:35 +0000</listdate>
+    <saledate>Fri, 01 Dec 2017 20:28:37 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>new</condition>
+    <notes>New In Shrink</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 01 Dec 2017 04:32:39 +0000</listdate>
+    <saledate>Wed, 13 Dec 2017 02:08:31 +0000</saledate>
+    <price currency='USD'>24.98</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Oct 2017 14:55:38 +0000</listdate>
+    <saledate>Sat, 30 Dec 2017 17:37:27 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Ships USPS Medium Flat Rate. From smoke free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Dec 2017 16:40:48 +0000</listdate>
+    <saledate>Thu, 04 Jan 2018 04:10:43 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Great family game.  nice production and solid mechanics.  Very fun for younger players to dig through the bags for relics/treasures!
+Likely ships in a Flatrate USPS box ~$13</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Jan 2018 16:41:27 +0000</listdate>
+    <saledate>Thu, 01 Feb 2018 00:50:45 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>verygood</condition>
+    <notes>Shipping within the UK will cost £3 via Royal Mail.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Dec 2017 12:33:33 +0000</listdate>
+    <saledate>Wed, 07 Feb 2018 17:02:58 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>UK delivery (£3) only (no exceptions unless you arrange pick-up).</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 14 Feb 2018 13:28:41 +0000</listdate>
+    <saledate>Fri, 16 Feb 2018 04:44:11 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/236065/item/5968076#5968076]Item for Geeklist _T_E_M_P_T_A_G_quot;Granite Game Summit Spring 2018 Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Congrats! I_T_E_M_P_T_A_G_#039;ll contact you as we get closer to Saturday the 10th to help facilitate purchase.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Feb 2018 15:21:36 +0000</listdate>
+    <saledate>Tue, 20 Feb 2018 15:29:26 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/235578/item/5939240#5939240]Item for Geeklist _T_E_M_P_T_A_G_quot;TotalCon 32 No-Ship Auction List_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Mar 2018 14:46:04 +0000</listdate>
+    <saledate>Wed, 21 Mar 2018 04:42:46 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>RESERVED FOR ANDREW GENTRY (username: andgen9)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Mar 2018 02:23:45 +0000</listdate>
+    <saledate>Wed, 21 Mar 2018 13:58:03 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/238604/item/6009791#6009791]Item for Geeklist _T_E_M_P_T_A_G_quot;IT_T_E_M_P_T_A_G_#039;S THE SPRING TIME AUCTION -- DOdodoDO dodododoDO (ends march 16th)_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Jan 2018 18:57:57 +0000</listdate>
+    <saledate>Sat, 07 Apr 2018 11:29:40 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>new</condition>
+    <notes>In shrink.
+Non EU - Paypal accepted
+EU - SEPA (bank transfer)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Apr 2018 22:03:05 +0000</listdate>
+    <saledate>Tue, 01 May 2018 12:23:14 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Played twice 
+Comes with Fresco board game in same box and same condition. Can ship in Fresco or Thebes box. 
+12 dollars shipped anywhere in US</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Mar 2018 20:54:57 +0000</listdate>
+    <saledate>Tue, 01 May 2018 15:34:00 +0000</saledate>
+    <price currency='USD'>24.49</price>
+    <condition>likenew</condition>
+    <notes>Thebes - Queen Games
+Like New! Removed from shrink, but in excellent condition. Pictures available upon request.
+Buyer to pay exact shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Apr 2018 05:43:12 +0000</listdate>
+    <saledate>Sat, 05 May 2018 05:02:26 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 May 2018 22:52:49 +0000</listdate>
+    <saledate>Mon, 21 May 2018 01:42:19 +0000</saledate>
+    <price currency='USD'>17</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/241086/item/6140159#6140159]Item for Geeklist _T_E_M_P_T_A_G_quot;FINAL HOURS!!! - Prices Lowered - Game and Promo Auction - CMON Expo Promos, Games, and Other Stuff_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Feb 2018 03:08:50 +0000</listdate>
+    <saledate>Sat, 26 May 2018 03:18:20 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>new</condition>
+    <notes>New in shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 29 May 2018 04:17:41 +0000</listdate>
+    <saledate>Fri, 01 Jun 2018 05:06:04 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes>Will be shipped with USPS flat rate $14 from 90034.
+Local pick up available.
+Combined shipping unavailable.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Jun 2018 19:37:11 +0000</listdate>
+    <saledate>Fri, 08 Jun 2018 19:48:21 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/237266/item/6113964#6113964]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction to make room for toddler toys_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 Dec 2017 20:52:36 +0000</listdate>
+    <saledate>Sun, 17 Jun 2018 21:06:57 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Played once. Everything pristine. Buyer pays actual shipping costs. I can almost always get anything out by the weekend. Thank you!</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 26 Jun 2018 13:59:05 +0000</listdate>
+    <saledate>Tue, 26 Jun 2018 14:14:14 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/242381/item/6210927#6210927]Item for Geeklist _T_E_M_P_T_A_G_quot;Summer Purge ending July 1 Pickup Available Bucks County or King of Prussia, PA_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jul 2018 20:42:35 +0000</listdate>
+    <saledate>Sun, 01 Jul 2018 21:47:32 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>new</condition>
+    <notes>This sale has been auto-generated for travdaddy11: [geekurl=/geeklist/242501/item/6215676#6215676]Item for Geeklist _T_E_M_P_T_A_G_quot;Clearing out some space Auction! Includes some new-in-shrink out of print games! (Ends 6/30) _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Nov 2016 23:10:17 +0000</listdate>
+    <saledate>Fri, 06 Jul 2018 02:45:08 +0000</saledate>
+    <price currency='USD'>19.94</price>
+    <condition>verygood</condition>
+    <notes>Punched but appears unplayed. Bits and pieces painstakingly counted and verified complete. Box is square and straight with no dings, doinks or creases. Some edge wear and corner rubbing noted. Worldwide shipping and will be packed well. All forms of negotiable instruments considered. Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 09 Jul 2018 01:40:05 +0000</listdate>
+    <saledate>Mon, 09 Jul 2018 03:53:51 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Auction for Bodhibelly</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Feb 2018 04:20:30 +0000</listdate>
+    <saledate>Wed, 25 Jul 2018 00:35:55 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Opened and played twice. Buyer pays shipping from Boston, MA.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Jul 2018 01:57:39 +0000</listdate>
+    <saledate>Sun, 29 Jul 2018 15:34:43 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243330/item/6250419#6250419]Item for Geeklist _T_E_M_P_T_A_G_quot;July purging auction. Ends July 31st_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 30 Jul 2018 02:39:05 +0000</listdate>
+    <saledate>Mon, 30 Jul 2018 10:56:31 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243553/item/6258057#6258057]Item for Geeklist _T_E_M_P_T_A_G_quot;Auction! ships to U.S. from 62401, ends 7/29/2018, all $1 starting bids_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Aug 2018 05:12:42 +0000</listdate>
+    <saledate>Mon, 27 Aug 2018 06:05:26 +0000</saledate>
+    <price currency='AUD'>26</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243831/item/6299075#6299075]Item for Geeklist _T_E_M_P_T_A_G_quot;Sydney No-ship Boardgame Auction and Trade Night - September 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 27 Aug 2018 10:32:50 +0000</listdate>
+    <saledate>Mon, 27 Aug 2018 12:17:22 +0000</saledate>
+    <price currency='AUD'>30</price>
+    <condition>likenew</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/243831/item/6319080#6319080]Item for Geeklist _T_E_M_P_T_A_G_quot;Sydney No-ship Boardgame Auction and Trade Night - September 2018_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Aug 2018 10:48:51 +0000</listdate>
+    <saledate>Wed, 19 Sep 2018 04:58:12 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Lightly played, very good condition
+Shipping is $12</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 21 Sep 2018 01:11:41 +0000</listdate>
+    <saledate>Tue, 25 Sep 2018 05:05:17 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Nov 2017 12:44:31 +0000</listdate>
+    <saledate>Thu, 27 Sep 2018 05:20:52 +0000</saledate>
+    <price currency='EUR'>24.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Oct 2018 06:37:46 +0000</listdate>
+    <saledate>Tue, 02 Oct 2018 15:57:00 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 Oct 2018 16:24:29 +0000</listdate>
+    <saledate>Wed, 24 Oct 2018 16:02:01 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 26 Oct 2018 02:15:34 +0000</listdate>
+    <saledate>Fri, 26 Oct 2018 10:55:21 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/198692/item/6495873#6495873]Item for Geeklist _T_E_M_P_T_A_G_quot;NYC Flea Market _T_E_M_P_T_A_G_amp; Trade List_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+This item has been sold to kevdog8.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Oct 2018 02:30:25 +0000</listdate>
+    <saledate>Mon, 29 Oct 2018 19:44:39 +0000</saledate>
+    <price currency='USD'>24.49</price>
+    <condition>likenew</condition>
+    <notes>Thebes - Queen Games
+Like New! Removed from shrink, but unplayed and still in excellent condition. Pictures available upon request. Multilingual Edition.
+Buyer to pay exact shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 01 Aug 2018 12:33:25 +0000</listdate>
+    <saledate>Tue, 06 Nov 2018 00:03:47 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>likenew</condition>
+    <notes>LE18-578</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Oct 2018 00:38:25 +0000</listdate>
+    <saledate>Fri, 16 Nov 2018 09:48:34 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 Aug 2018 11:47:33 +0000</listdate>
+    <saledate>Tue, 27 Nov 2018 16:47:36 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>As new.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Jan 2019 16:15:42 +0000</listdate>
+    <saledate>Thu, 07 Feb 2019 13:00:56 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>likenew</condition>
+    <notes>Only played a couple times.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 11 Feb 2019 15:16:22 +0000</listdate>
+    <saledate>Mon, 11 Feb 2019 17:46:40 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Very good condition, only played once.  Shipping not to exceed USPS Priority Mail rates ($14.35 as of 2/11/19, but subject to change).</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 19 Jan 2019 21:18:28 +0000</listdate>
+    <saledate>Tue, 12 Feb 2019 20:38:08 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>good</condition>
+    <notes>The box is well worn, with one side slightly split.
+Game has been played a handful of times over the years. Components are in very good condition.
+This is a largish box. Unless you are near southern Oregon, shipping will more than likely be in a large, flat-rate USPS box: $18.90</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Mar 2019 18:44:17 +0000</listdate>
+    <saledate>Tue, 12 Mar 2019 00:36:37 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>likenew</condition>
+    <notes>Played once, this game has the unique situation that it is my only game that my wife taught me, happy gaming!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jan 2019 19:27:28 +0000</listdate>
+    <saledate>Sun, 17 Mar 2019 06:29:06 +0000</saledate>
+    <price currency='EUR'>15</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

@@ -1,0 +1,962 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="14">
+   <yearpublished>1998</yearpublished>
+   <minplayers>3</minplayers>
+   <maxplayers>4</maxplayers>
+   <playingtime>25</playingtime>
+   <minplaytime>25</minplaytime>
+   <maxplaytime>25</maxplaytime>
+   <age>10</age>
+       <name primary="true" sortindex="1">Basari</name>
+       <name  sortindex="1">バザリ</name>
+         
+   <description>Basari is a game of gem merchants competing in a marketplace_T_E_M_P_T_A_G_amp;quot;: racing, collecting, trading, and predicting what the other merchants will do._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;To start the game, players receive 12 gemstones (3 each of 4 colors). _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Each turn there will be a movement phase and an action phase:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;For movement, everyone simultaneously rolls their die and moves their markers around a track._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;They then choose one of three different actions to perform. The actions are:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;- to take a variety of gems from a market stall, _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;- to immediately score from between 4 and 7 points, or _T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;- to roll and move again and also collect points._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;The action cards are revealed simultaneously. If only 1 player chose a particular action, they simply perform that action. If 2 players chose the same action, they barter back and forth with gemstones. One player will eventually accept the other's offer of gems, and the other will take the action. If 3 or 4 players all chose the same action card, that action is cancelled. Note that in 4-player games, there will always be a conflict in choice of 3 actions, so much more negotiating goes on._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;A new turn begins with everyone rolling their die, moving, then choosing and revealing their action cards. When any merchant piece completes a lap around the board, the round ends and bonus points are awarded based on who has the majority in each gem color and who has completed a lap. After three rounds, the game is over and the highest score wins._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Re-implemented by:_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;     Edel, Stein _T_E_M_P_T_A_G_amp; Reich_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/hBDymMYGWKQNbiuxDtqSQyYZDvQ=/fit-in/200x150/pic48605.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/xFRII0rLyA7eb2CDF_GT4BS-eLE=/0x0/pic48605.jpg</image>
+      
+            <boardgamehonor objectid="8673">1998 Spiel des Jahres Recommended</boardgamehonor>
+               <boardgamehonor objectid="12325">2004 Mensa Select Winner</boardgamehonor>
+               <boardgameimplementation objectid="152567">Basari: Das Kartenspiel</boardgameimplementation>
+               <boardgamepodcastepisode objectid="86305">BGTG - May 2, 2005 (SR: Settlers, Dancing Dice, Basari, Ra, San Marco, Xe Queo!, Ingenious, Star Wars Ep. 2 Card Game, Kapitan Wackelpudding)</boardgamepodcastepisode>
+                      <boardgameimplementation objectid="5781">Edel, Stein _T_E_M_P_T_A_G_amp; Reich</boardgameimplementation>
+               <boardgameversion objectid="26135">English edition</boardgameversion>
+                             <boardgamepublisher objectid="11">F.X. Schmid</boardgamepublisher>
+               <boardgamesubdomain objectid="5499">Family Games</boardgamesubdomain>
+               <boardgameversion objectid="34252">German edition</boardgameversion>
+                                                  <boardgameversion objectid="337044">Japanese edition</boardgameversion>
+               <boardgameartist objectid="6815">John Kovalic</boardgameartist>
+               <boardgameartist objectid="37332">Lüders _T_E_M_P_T_A_G_amp; Baran</boardgameartist>
+               <boardgamefamily objectid="6485">Mensa Select</boardgamefamily>
+               <boardgamecategory objectid="1026">Negotiation</boardgamecategory>
+               <boardgamepublisher objectid="9881">New Games Order, LLC</boardgamepublisher>
+                      <boardgamepublisher objectid="48">Out of the Box Publishing</boardgamepublisher>
+               <boardgamemechanic objectid="2035">Roll / Spin and Move</boardgamemechanic>
+                      <boardgamemechanic objectid="2004">Set Collection</boardgamemechanic>
+               <boardgamemechanic objectid="2020">Simultaneous Action Selection</boardgamemechanic>
+               <boardgamedesigner objectid="12">Reinhard Staupe</boardgamedesigner>
+               <boardgamesubdomain objectid="5497">Strategy Games</boardgamesubdomain>
+               <boardgameartist objectid="17547">Stefan Theurer</boardgameartist>
+      
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="38">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="26" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="1" />
+     <result value="Not Recommended" numvotes="25" />
+    </results>     
+   
+  <results numplayers="3">  
+     <result value="Best" numvotes="7" />
+     <result value="Recommended" numvotes="20" />
+     <result value="Not Recommended" numvotes="6" />
+    </results>     
+   
+  <results numplayers="4">  
+     <result value="Best" numvotes="31" />
+     <result value="Recommended" numvotes="4" />
+     <result value="Not Recommended" numvotes="2" />
+    </results>     
+   
+  <results numplayers="4+">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="0" />
+     <result value="Not Recommended" numvotes="18" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="7">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="7" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="4" />
+     <result value="12" numvotes="0" />
+     <result value="14" numvotes="0" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1548</usersrated>
+     <average>6.77518</average>
+     <bayesaverage>6.2233</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1491" bayesaverage="6.2233" />
+            
+       
+              <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="764" bayesaverage="6.33445" />
+              <rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="366" bayesaverage="6.36045" />
+            
+           </ranks>
+     
+     <stddev>1.20373</stddev>
+     <median>0</median>
+     <owned>1715</owned>
+     <trading>85</trading>
+     <wanting>56</wanting>
+     <wishing>181</wishing>
+     <numcomments>646</numcomments>
+     <numweights>179</numweights>
+     <averageweight>1.8603</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 21 Apr 2003 14:13:16 +0000</listdate>
+    <saledate>Mon, 21 Apr 2003 15:47:13 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>been played 5-6 times at most, in very good shape, complete and with English rules translation
+Buyer pays shipping from NY
+Paypal or money order only</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 May 2003 10:51:02 +0000</listdate>
+    <saledate>Fri, 04 Jul 2003 06:58:58 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>... shrink from box removed, unpunched and the _T_E_M_P_T_A_G_amp;quot;jewels_T_E_M_P_T_A_G_amp;quot; are still factory sealed!
+Shipping worldwide at cost!!!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 31 Jul 2003 05:27:09 +0000</listdate>
+    <saledate>Sat, 20 Sep 2003 11:51:12 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Played once</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 05 Sep 2003 17:56:39 +0000</listdate>
+    <saledate>Tue, 09 Sep 2003 14:31:09 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>Brand new and sealed. English Language. $6.00 Priority Mail Shipping within the U.S., Shipping to Canada will be $12.00 Airmail Shipping. Other Countries $18.00 Airmail shipping. This is the brand new _T_E_M_P_T_A_G_amp;quot;Out of the Box_T_E_M_P_T_A_G_amp;quot; Edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 20 Dec 2003 19:18:36 +0000</listdate>
+    <saledate>Fri, 20 Feb 2004 00:23:58 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>new</condition>
+    <notes>brandnew, still in shrinkwrap.
+Original german edition from F.X.Schmid.
+Look my other offers too for more rare german games.
+Feel free and ask for shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Feb 2004 19:13:27 +0000</listdate>
+    <saledate>Tue, 15 Nov 2005 13:33:26 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>verygood</condition>
+    <notes>DISCOUNT RULES: IF YOU BUY 3 OR MORE GAMES YOU´LL GET DISCOUNT. THE PERCENTAGE IS (DAY+MONTH)/2 (Example: If you buy the games on 12th June you´ll get 12+6=18/2=9 %). So you can get a max. Discount on 31th december of 21 % :_). The date is the BGG-TIME (CST).
+I´m selling a lot of other german boardgames
+Shipping worldwide (Paypal or cash or Western Union). Picture for condition purposes can me mailed
+Look also at my other games I want _T_E_M_P_T_A_G_quot;to get rid off_T_E_M_P_T_A_G_quot;
+If you are looking for some other games send me an email.
+Shipping costs are roughly:
+--------- up to 2 kg ----- up to 5 kg --- up to 10 kg
+--------- no insurance --- insurance ---- insurance
+Europe (EU) - 9 Euros ----- 17 Euros ----- 22 Euros
+USA/Canada - 13 Euros ----- 32 Euros ----- 42 Euros
+Japan ------ 13 Euros ----- 37 Euros ----- 52 Euros 
+Australia -- 13 Euros ----- 37 Euros ----- 52 Euros
+If you have further questions on shipping costs send me a message
+!!! BUYERS FROM SOUTH KOREA !!! PLEASE BUY FROM MY FRIEND ROBBIROB !!! I DON`T SELL GAMES TO SOUTH KOREA ANY MORE !!!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Feb 2004 18:52:47 +0000</listdate>
+    <saledate>Sat, 08 May 2004 04:17:38 +0000</saledate>
+    <price currency='EUR'>24</price>
+    <condition>verygood</condition>
+    <notes>Just a very little bit of shelfwear on the edges of the box. Game itself complete and just played a few times.
+Shipping at actual cost dependend on destination, total weight and method of shipment chosen.
+Usually shipping a single (regular sized) boardgame (surface) costs 12.30€ worldwide and 8.20€ within Europe. Smaller games ship cheaper. Of course multiple games can be combined.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Sep 2004 19:00:37 +0000</listdate>
+    <saledate>Tue, 01 Mar 2005 05:02:43 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>This is the FX Schimd edition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Oct 2004 07:25:26 +0000</listdate>
+    <saledate>Thu, 28 Apr 2005 15:03:16 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>likenew</condition>
+    <notes>Original german F.X.Schmid edition.
+Look my other offers too for more german games.
+Feel free and ask for shipping costs.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 06 Sep 2005 02:21:59 +0000</listdate>
+    <saledate>Fri, 30 Jun 2006 22:50:34 +0000</saledate>
+    <price currency='USD'>13.75</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally.  Out of the Box Publishing (OTB 5555)</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Sep 2005 14:29:39 +0000</listdate>
+    <saledate>Thu, 29 Sep 2005 17:12:07 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>Out of the Box English edition.  Components are complete and in excellent condition.  Box has minor shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Jun 2006 08:19:26 +0000</listdate>
+    <saledate>Mon, 14 Aug 2006 05:17:34 +0000</saledate>
+    <price currency='USD'>12.99</price>
+    <condition>new</condition>
+    <notes>NEW AND FACTORY FRESH
+We are a small, family owned and operated game shoppe. Like you, we simple love board games!
+You_T_E_M_P_T_A_G_#039;ll only pay $6.99 to have your Basari board game shipped via USPS PRIORITY 2-3 DAY MAIL. Of course, you can always add USPS shipping insurance for $1.35. 
+Please have a look at our other listings on BoardGameGeek. We now have almost 200. We_T_E_M_P_T_A_G_#039;ll discount your shipping costs if you_T_E_M_P_T_A_G_#039;d like to order more than one item.
+International orders, please inquire about shipping costs through email before ordering.
+North Dakota residents are responsible for 6% sales tax.
+Thank you, 
+Jeremy, Jennifer, and Family
+J and J Board Games
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Jul 2006 17:47:31 +0000</listdate>
+    <saledate>Sat, 21 Apr 2007 23:43:10 +0000</saledate>
+    <price currency='USD'>13.75</price>
+    <condition>new</condition>
+    <notes>Brand New!! Still in shrinkwrap. Will ship internationally. Out of the Box Publishing (OTB 5555)</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 16 Aug 2006 00:58:49 +0000</listdate>
+    <saledate>Wed, 25 Jul 2007 03:14:48 +0000</saledate>
+    <price currency='USD'>13.19</price>
+    <condition>new</condition>
+    <notes>NEW AND FACTORY FRESH
+We are a small, family owned and operated game shoppe. Like you, we simply love board games!
+You_T_E_M_P_T_A_G_#039;ll only pay $7.79 to have your Basari board game shipped via USPS PRIORITY 2-3 DAY MAIL. Of course, you can always add USPS shipping insurance for $1.35. 
+Please have a look at our other listings on BoardGameGeek. We now have well over 250, and we_T_E_M_P_T_A_G_#039;re still growing!
+SAVE MONEY: We_T_E_M_P_T_A_G_#039;ll discount your shipping costs if you_T_E_M_P_T_A_G_#039;d like to order more than one item.
+International orders, please inquire about shipping costs through email before ordering.
+North Dakota residents are responsible for 6% sales tax.
+Thank you, 
+Jeremy, Jennifer, and Family
+J and J Board Games
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Aug 2006 15:45:04 +0000</listdate>
+    <saledate>Wed, 30 Aug 2006 15:43:25 +0000</saledate>
+    <price currency='GBP'>10</price>
+    <condition>new</condition>
+    <notes>Brand new in shrink
+UK postage £5.00, elsewhere please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 Sep 2006 21:11:13 +0000</listdate>
+    <saledate>Sat, 29 Sep 2007 02:52:39 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Basari - Out of the Box
+Like New! Removed from shrink, but in excellent condition. Very light shelfwear. Pictures available upon request.
+Buyer to pay exact shipping costs plus $2.00 handling charge.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Dec 2006 05:55:20 +0000</listdate>
+    <saledate>Fri, 19 Jan 2007 17:59:03 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>new</condition>
+    <notes>shrinkwrapped game which is my second copy
+a great deal</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 May 2007 15:59:41 +0000</listdate>
+    <saledate>Mon, 08 Feb 2010 06:07:48 +0000</saledate>
+    <price currency='USD'>16.49</price>
+    <condition>new</condition>
+    <notes> Out of the Box Publishing (OBG 5555)
+BASARI... Step Right Up!
+Enter the street bazaar…the enticing sights, sounds and flavor of the marketplace are everywhere!
+In BASARI® players act as merchants who compete on the streets of a lucrative gem marketplace. Each round, players earn valuable points by haggling and bartering for precious gemstones. The player with the most points after three rounds wins BASARI.
+Adventure awaits in BASARI...
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Jul 2007 20:51:41 +0000</listdate>
+    <saledate>Fri, 28 May 2010 02:14:00 +0000</saledate>
+    <price currency='USD'>15.99</price>
+    <condition>new</condition>
+    <notes>DOMESTIC SHIPPING: USPS PRIORITY 2-3 DAY mail with Delivery Confirmation = $9.99 or less, depending on your zip code</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Sep 2007 11:56:08 +0000</listdate>
+    <saledate>Sun, 23 Sep 2007 12:01:07 +0000</saledate>
+    <price currency='EUR'>4</price>
+    <condition>acceptable</condition>
+    <notes>This is for Johan only</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Dec 2007 16:08:13 +0000</listdate>
+    <saledate>Wed, 30 Jan 2008 05:18:10 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>New. Sealed.  Payment by PayPal (no credit cards) or postal money order.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Dec 2007 17:16:28 +0000</listdate>
+    <saledate>Wed, 26 Dec 2007 19:16:34 +0000</saledate>
+    <price currency='USD'>47.99</price>
+    <condition>new</condition>
+    <notes>Original FX Schmid German edition. New in shrink. $7 shipping in US.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Jan 2008 00:41:30 +0000</listdate>
+    <saledate>Sat, 05 Jan 2008 03:21:31 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>_T_E_M_P_T_A_G_quot;Out of the Box_T_E_M_P_T_A_G_quot;, USA edition in almost NEW condition.
+Perfect!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Feb 2008 04:34:13 +0000</listdate>
+    <saledate>Sun, 07 Sep 2008 15:33:14 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>new</condition>
+    <notes>Basari (Out of the Box Publishing)
+This game is brand new and sealed. S_T_E_M_P_T_A_G_amp;H through FedEx Ground is $8.00 in the 48 states. We can combine shipping on multiple purchases. We collect 8.10% sales tax for AZ orders.
+For more games go to www.newspiel.com.  Free FedEx Ground Shipping on all orders of $125 or more!!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Jul 2008 03:59:32 +0000</listdate>
+    <saledate>Thu, 10 Jul 2008 14:40:04 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>new</condition>
+    <notes>shrinkwrapped</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 13 Jul 2008 01:53:51 +0000</listdate>
+    <saledate>Fri, 12 Dec 2008 16:01:43 +0000</saledate>
+    <price currency='USD'>10.5</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Jul 2008 13:24:06 +0000</listdate>
+    <saledate>Tue, 28 Oct 2008 16:09:14 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>new</condition>
+    <notes>get the better artwork - German edition by F.X. Schmid, hard to find even in Germany, still sealed
+weight: 642 gramme
+shipping: letter by airmail</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Aug 2008 13:07:07 +0000</listdate>
+    <saledate>Wed, 20 Aug 2008 12:08:46 +0000</saledate>
+    <price currency='USD'>31</price>
+    <condition>verygood</condition>
+    <notes>first print by FX, as new. Rare !</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Dec 2008 10:23:44 +0000</listdate>
+    <saledate>Fri, 09 Jan 2009 12:55:44 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes>F X SCHMID edition
+Shipping to UK destination = £5.50</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Jan 2009 20:48:26 +0000</listdate>
+    <saledate>Wed, 11 Nov 2009 13:16:17 +0000</saledate>
+    <price currency='GBP'>13.5</price>
+    <condition>good</condition>
+    <notes>This is the original FX Schmid Basari version.  Game is in excellent condition.  All the components are present and correct, except for 2 of the gems which have been replaced by very similar glass beads - this has no impact on gameplay. 
+ 
+Weight inc packing 830g
+UK First class  £4.08 
+Surface Worldwide  £5.91 
+Europe Airmail  £6.31 
+USA Airmail  £10.47 
+   
+Shipping costs shown are for an individual game. I will combine shipping as best I can. Large packages (5kg, say 6 games) are very cost-effective to ship internationally via DHL. Ask if you want a detailed price. 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Feb 2009 12:52:55 +0000</listdate>
+    <saledate>Wed, 18 Mar 2009 06:52:56 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>acceptable</condition>
+    <notes>Played many times, components are in OK condition (game board is coming apart a little, this is a manufacturing defect). I don_T_E_M_P_T_A_G_#039;t have the original instructions, but include a copy I printed.
+I prefer paypal, but will also accept check or money order (though it will be slower).
+I ship by USPS parcel post with delivery confirmation. If you order several games from me, I will combine shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 02 Jun 2009 15:09:50 +0000</listdate>
+    <saledate>Sun, 20 Sep 2009 15:39:30 +0000</saledate>
+    <price currency='USD'>9.75</price>
+    <condition>likenew</condition>
+    <notes>Game has been opened but never played.  No missing pieces.  Brand new.
+Cost: $9.75    Shipping: $7.25
+If you order this with at least one other game I have listed for sale (All In, Canasta, Cheater, Chess, Santiago, WordXchange), I will lower cost _T_E_M_P_T_A_G_amp; shipping on all items ordered</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Dec 2009 05:57:13 +0000</listdate>
+    <saledate>Wed, 02 Dec 2009 12:20:42 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>Geekbay listing for user kytty.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Jan 2010 22:41:52 +0000</listdate>
+    <saledate>Tue, 14 Sep 2010 02:20:21 +0000</saledate>
+    <price currency='USD'>12.5</price>
+    <condition>verygood</condition>
+    <notes>Out of the Box edition. Some wear on the box and cards.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Mar 2010 03:36:13 +0000</listdate>
+    <saledate>Fri, 19 Mar 2010 22:33:09 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>This is for Basari, won by user pdoherty in my GL auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 19 Aug 2010 00:00:55 +0000</listdate>
+    <saledate>Sat, 21 Aug 2010 03:30:56 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>likenew</condition>
+    <notes>Item sold in an auction and reserved for Mary Ann Nguyen (solarisphase)</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 23 Aug 2010 02:59:55 +0000</listdate>
+    <saledate>Mon, 06 Sep 2010 14:31:13 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Basari (2003) by Out of the Box Publishing 
+Box:  Light shelfwear with a few minor dings and dents.  Overall the box is in excellent condition! 
+Components:  Complete and in like new condition!  Pieces have been sorted and stored in plastic bags for convenience and protection - you will be very pleased with how the game has been packaged.
+SHIPPING:
+U.S. shipping will be via USPS Priority Shipping and based on a weight of 3 Lbs. from zip code 85208.  International buyers are very welcome, but please contact me for a shipping price quote to avoid any surprises or misunderstandings.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Sep 2010 22:53:51 +0000</listdate>
+    <saledate>Wed, 22 Sep 2010 04:00:46 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>good</condition>
+    <notes>Packaged with The Isle of Dr. N.  Part of the _T_E_M_P_T_A_G_#039;I Just Got Back From the Con_T_E_M_P_T_A_G_#039; Geeklist auction item, which ended on 9/19/10. For freitag only. Shipping will be Priority Flat Rate Medium-sized box for $10.70</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Oct 2010 23:53:09 +0000</listdate>
+    <saledate>Thu, 17 Mar 2011 02:35:05 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>new</condition>
+    <notes>If you want insurance please specify that _T_E_M_P_T_A_G_amp; add $2.00 to the shipping costs.
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 07 Oct 2010 02:53:16 +0000</listdate>
+    <saledate>Thu, 07 Oct 2010 05:53:24 +0000</saledate>
+    <price currency='USD'>6.95</price>
+    <condition>likenew</condition>
+    <notes>My girlfriend wants me to reduce my collection, so I_T_E_M_P_T_A_G_#039;m listing over 30 games for sale at cheaper prices than CoolStuff Inc. or Boards _T_E_M_P_T_A_G_amp; Bits.  Please check out my other listings.  I_T_E_M_P_T_A_G_#039;ll gladly combine shipping for even bigger discounts so feel free to message me if you have any questions.  Just don_T_E_M_P_T_A_G_#039;t wait too long in case they_T_E_M_P_T_A_G_#039;re all gone!
+CONDITION: Like New - Never Played. Everything in excellent condition.
+S_T_E_M_P_T_A_G_amp;H: $6.95 I will gladly combine shipping for even bigger discounts.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 27 Oct 2010 05:42:31 +0000</listdate>
+    <saledate>Sat, 20 Nov 2010 00:28:47 +0000</saledate>
+    <price currency='AUD'>25</price>
+    <condition>verygood</condition>
+    <notes>Out of the box English edition.
+Direct bank transfer is the best way to pay.
+Check out my other games to bundle an order and save on postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 10 Dec 2010 18:12:15 +0000</listdate>
+    <saledate>Tue, 18 Jan 2011 22:20:45 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Removed from shrink _T_E_M_P_T_A_G_amp; played once.  Box _T_E_M_P_T_A_G_amp; components in
+excellent condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 17 Dec 2010 06:25:40 +0000</listdate>
+    <saledate>Sat, 25 Dec 2010 19:28:20 +0000</saledate>
+    <price currency='USD'>9.95</price>
+    <condition>likenew</condition>
+    <notes>Shrinkwrap removed but unplayed. Pretty much perfect. Includes many extra components. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 12 Mar 2011 20:56:07 +0000</listdate>
+    <saledate>Sun, 03 Apr 2011 21:40:30 +0000</saledate>
+    <price currency='USD'>7.99</price>
+    <condition>verygood</condition>
+    <notes>Only played once or twice.  Includes all components and spare gemstones.  The paint on one or two gemstones does appears to be flaking off, but they could be swapped with some of the spare gemstones.
+This is the Out of the Box version of the game with english rules.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 Apr 2011 07:25:11 +0000</listdate>
+    <saledate>Wed, 31 Aug 2011 22:16:25 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>Out of the Box edition. Played around 5 times. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 23 Jun 2011 02:21:33 +0000</listdate>
+    <saledate>Thu, 23 Jun 2011 10:12:18 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Geeklist auction winner = tofuji</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Nov 2011 23:56:40 +0000</listdate>
+    <saledate>Sat, 10 Dec 2011 12:51:54 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>verygood</condition>
+    <notes>Reserved for halbower.
+Shipping and handling is $11.00, for a total of $23.00.
+PayPal payment can be sent to themilkcrate@hotmail.com</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 05 Dec 2011 16:46:28 +0000</listdate>
+    <saledate>Mon, 05 Dec 2011 19:07:18 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>For purchase by user thejadeape only.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Dec 2011 18:21:29 +0000</listdate>
+    <saledate>Fri, 25 May 2012 14:09:55 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Opened, never played.
+Payment via PayPal to lucia-lance@att.net</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Feb 2012 00:26:04 +0000</listdate>
+    <saledate>Thu, 16 Feb 2012 16:30:08 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Frank Muscarella (gamtester). Won in the Ancient Civilizations Auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 27 Apr 2012 15:53:30 +0000</listdate>
+    <saledate>Mon, 14 May 2012 16:52:24 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>verygood</condition>
+    <notes>reserved for jargo</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 May 2012 17:19:54 +0000</listdate>
+    <saledate>Thu, 31 May 2012 03:52:20 +0000</saledate>
+    <price currency='USD'>9</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Jonathan Fried
+Basari Jonathan Fried $9.00 Purge #3 $9.00
+used. played once. Contents uncounted, but I assume complete.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 16 Jun 2012 17:57:46 +0000</listdate>
+    <saledate>Sat, 16 Jun 2012 21:16:46 +0000</saledate>
+    <price currency='USD'>27</price>
+    <condition>likenew</condition>
+    <notes>auction win for captain007 only
+includes:
+Basari
+Death Wears White - shrinkwrap
+Halloween Party
+Light Speed - Cheapass games - rules and cards, use your own glass beads
+Mutiny
+Senator
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jul 2012 01:01:34 +0000</listdate>
+    <saledate>Fri, 08 Mar 2013 17:15:17 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Played 2 times. Very good condition.
+Buyer agrees to pay USPS Priority shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jul 2012 18:41:18 +0000</listdate>
+    <saledate>Thu, 27 Sep 2012 05:46:18 +0000</saledate>
+    <price currency='USD'>17.78</price>
+    <condition>likenew</condition>
+    <notes>In Excellent Condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Aug 2012 02:04:12 +0000</listdate>
+    <saledate>Wed, 25 Sep 2013 00:28:27 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>Complete.  Components are in very good condition.  The box bottom has 1 split corner and the box top has 3 split corners.  All have been repaired with clear tape.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Aug 2012 10:46:00 +0000</listdate>
+    <saledate>Fri, 14 Sep 2012 14:18:23 +0000</saledate>
+    <price currency='EUR'>7.5</price>
+    <condition>good</condition>
+    <notes>German edition (FX Schmid)
+box with little wear
+components like new, but one blue gem is missing</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 29 Aug 2012 18:52:57 +0000</listdate>
+    <saledate>Mon, 10 Dec 2012 18:34:07 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>The components were punched, but the game was never played. This is the FX Schmid edition. Comes from a smoke-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Apr 2013 01:49:39 +0000</listdate>
+    <saledate>Sat, 27 Apr 2013 01:58:49 +0000</saledate>
+    <price currency='USD'>67</price>
+    <condition>verygood</condition>
+    <notes>GeekBay Auction Item:
+This is only for satorisnow</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 May 2013 21:01:45 +0000</listdate>
+    <saledate>Mon, 09 Dec 2013 21:10:02 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes>All pieces are present, however it was originally packaged without one of the brown tokens, but with an extra brown disc. Game can still be played with the extra disc acting as the token.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 20 May 2013 11:57:18 +0000</listdate>
+    <saledate>Mon, 03 Jun 2013 14:38:45 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>new</condition>
+    <notes>Publisher: FX Schmid
+Overall: Shrink
+Contents: Shrink
+Lid: Shrink
+Box: Shrink
+English rules: Printout
+N.B. German first edition
+Shipping will be at actual cost
+If paying by PayPal it MUST be from a certified/verified account
+*** Please check my other games for sale ***
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 05 Nov 2013 21:02:14 +0000</listdate>
+    <saledate>Wed, 06 Nov 2013 10:54:53 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes>Only played a few times. A very neat little game. All in very good condition. £12 for the game and £3 P_T_E_M_P_T_A_G_amp;P in the UK . If you are interested form outside the UK happy to quote cost of shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Dec 2013 04:57:28 +0000</listdate>
+    <saledate>Sat, 11 Jan 2014 00:42:09 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>likenew</condition>
+    <notes>From non-smoking home. You pay only exact postage. </notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Mar 2014 19:11:57 +0000</listdate>
+    <saledate>Wed, 30 Jul 2014 23:36:51 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Played 3 or 4 times.  Complete.  From smoke and pet-free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 17 Mar 2014 21:03:10 +0000</listdate>
+    <saledate>Sun, 23 Mar 2014 19:35:02 +0000</saledate>
+    <price currency='EUR'>19.99</price>
+    <condition>verygood</condition>
+    <notes>I´m offering the FX SCHMID edition
+shipping rates:
+Germany = 4,5 Euro
+worldwide = 9 Euro
+game weight: 630 gramms
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 23 Feb 2014 22:14:14 +0000</listdate>
+    <saledate>Mon, 06 Oct 2014 13:48:37 +0000</saledate>
+    <price currency='EUR'>19</price>
+    <condition>acceptable</condition>
+    <notes>Game is complete, 
+was in library, so box is strongly used (you see some white instead of the color), but has no strong damage.  Components GOOD
+Payments: bank account or Paypal 
+If you want to pay by Paypal, there will be an additional fee
+German version FX Schmid
+rules in German, 
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jul 2013 16:43:22 +0000</listdate>
+    <saledate>Fri, 21 Nov 2014 13:30:14 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Components in excellent shape and box is solid with minor shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Dec 2014 05:37:29 +0000</listdate>
+    <saledate>Sun, 28 Dec 2014 14:52:43 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>reserved for auction winner pharmakon</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 31 Dec 2014 04:12:25 +0000</listdate>
+    <saledate>Sun, 08 Feb 2015 16:07:53 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>likenew</condition>
+    <notes>Shrinkwrap removed but unplayed. Pretty much perfect. Includes many extra components. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 10 Dec 2014 04:27:30 +0000</listdate>
+    <saledate>Thu, 09 Apr 2015 19:28:35 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>likenew</condition>
+    <notes>Excellent condition, buyer pay shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 21 May 2015 22:27:06 +0000</listdate>
+    <saledate>Thu, 21 May 2015 22:45:59 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>new</condition>
+    <notes>RESERVED FOR LOCAL BUYER: Mattrick
+This sale has been auto-generated for the auction: [geekurl=/geeklist/190563/item/3879618#3879618]Item for Geeklist _T_E_M_P_T_A_G_quot;The Auction That Ate Milwaukee VIII:  Who Cut The Cheese?_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+LOCAL PICKUP, cash on delivery.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 May 2015 09:44:01 +0000</listdate>
+    <saledate>Thu, 09 Jul 2015 10:13:03 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Sep 2015 01:02:14 +0000</listdate>
+    <saledate>Wed, 23 Sep 2015 01:04:15 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>For chiefsachem from the _T_E_M_P_T_A_G_#039;So Many Games Have to Go_T_E_M_P_T_A_G_#039; Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Sep 2015 15:44:25 +0000</listdate>
+    <saledate>Thu, 24 Sep 2015 15:46:25 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Includes hoity toity. Reserved for winner of auction.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Jun 2015 04:30:56 +0000</listdate>
+    <saledate>Wed, 09 Dec 2015 22:27:46 +0000</saledate>
+    <price currency='USD'>44.99</price>
+    <condition>likenew</condition>
+    <notes>Taken out of shrink, unpunched, unplayed.
+Dimensions: 9 x 9 x 2 inches
+Weight: 1 lb 11 oz
+You can calculate shipping cost estimates via USPS.com or UPS.com. Add at least 2 inches to each dimension and 12 oz for shipping size/weight approximation. Ships from 53597.
+Payment via PayPal or Amazon gift card, depending on your level of BGG market feedback and history.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 31 Oct 2015 06:09:24 +0000</listdate>
+    <saledate>Sun, 03 Jan 2016 02:28:13 +0000</saledate>
+    <price currency='USD'>9.99</price>
+    <condition>good</condition>
+    <notes>Complete and great shape.  Estimated shipping of $10.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 03 Dec 2015 00:05:32 +0000</listdate>
+    <saledate>Wed, 03 Feb 2016 09:28:53 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 25 Nov 2014 12:35:56 +0000</listdate>
+    <saledate>Mon, 01 Aug 2016 13:09:03 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 25 Aug 2016 01:11:33 +0000</listdate>
+    <saledate>Wed, 07 Sep 2016 07:16:45 +0000</saledate>
+    <price currency='USD'>23.98</price>
+    <condition>verygood</condition>
+    <notes>Edition: English first edition</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 13 Feb 2013 11:36:31 +0000</listdate>
+    <saledate>Mon, 19 Sep 2016 19:54:38 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Game components complete and in very good condition.
+Game box lightly scuffed
+FX Schmid edition
+Shipping to UK destination £6.60</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Feb 2016 02:57:29 +0000</listdate>
+    <saledate>Fri, 04 Nov 2016 08:06:01 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>likenew</condition>
+    <notes>Gently played a few times, game is in excellent shape. Clean, complete and ready to play.
+Shipping will be $11.00, US only please</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Nov 2016 18:49:17 +0000</listdate>
+    <saledate>Thu, 24 Nov 2016 00:41:11 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/214431/item/4891050#4891050]Item for Geeklist _T_E_M_P_T_A_G_quot;Let_T_E_M_P_T_A_G_#039;s have an auction! -- US ONLY - Ends September 25!_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 02 Jul 2016 13:24:19 +0000</listdate>
+    <saledate>Thu, 23 Feb 2017 01:25:28 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 23 Nov 2016 16:14:35 +0000</listdate>
+    <saledate>Tue, 28 Feb 2017 02:13:31 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>This copy of the game has only been played once, but it_T_E_M_P_T_A_G_#039;s still in great shape after all of these years.
+Game contents have been verified.  All components (including extra gems) are in the game box.  Insert is in excellent shape (even if it_T_E_M_P_T_A_G_#039;s useless.)
+The front page of the rules have a very slight red smudge on it near the title part of the page (upper left).  Otherwise the rules are just fine.  (I think the rules came that way when I opened the box.)
+The game box is in very good condition.  If you look closely, you can see a minor dent here and there from other boxes being on top of this.
+Game comes from a non-smoking home.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 15 Jun 2016 16:40:01 +0000</listdate>
+    <saledate>Fri, 28 Jul 2017 23:25:38 +0000</saledate>
+    <price currency='USD'>6.55</price>
+    <condition>good</condition>
+    <notes>Box show a little wear and the cards show a little wear.  This copy was played but cared for. Shipping will be USPS Medium Flat Rate Priority ($13.45.) $20.00 total to anywhere in the Continental U.S.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Jun 2016 18:39:39 +0000</listdate>
+    <saledate>Fri, 01 Sep 2017 23:36:56 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>new</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Jul 2015 18:37:51 +0000</listdate>
+    <saledate>Thu, 14 Sep 2017 16:37:51 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>good</condition>
+    <notes>Note this is the German edition.
+Please see my other games. All are priced to sell.
+https://boardgamegeek.com/geekmarket/user/themore5@earthlink</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 15 Aug 2017 18:18:50 +0000</listdate>
+    <saledate>Tue, 02 Jan 2018 22:40:24 +0000</saledate>
+    <price currency='GBP'>14.5</price>
+    <condition>good</condition>
+    <notes>German edition - downloaded English rules provided.
+Slight damage to the box</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Mar 2018 03:18:21 +0000</listdate>
+    <saledate>Fri, 04 May 2018 12:30:29 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Condition: Taped tears on upper left and lower right corners</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 May 2018 21:13:48 +0000</listdate>
+    <saledate>Mon, 18 Jun 2018 06:30:25 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>As new.
+FREE SHIPPING TO EUROPE AND NORTH AMERICA !!!
+Any boardgames order from this list starting from:
+$250 and above (EU zone)
+$360 and above (rest of Europe)
+$500 and above (USA and Canada)
+will ship FOR FREE, including sturdy package and tracking number !!!
+Any other destination country will also get very special shipping prices, almost free, ask for details !!</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 04 Mar 2017 16:36:51 +0000</listdate>
+    <saledate>Mon, 16 Jul 2018 05:12:00 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>likenew</condition>
+    <notes>Shipping is $12.
+PayPal or Square Cash accepted.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 11 Aug 2018 15:57:33 +0000</listdate>
+    <saledate>Sat, 11 Aug 2018 16:47:41 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>verygood</condition>
+    <notes>[b]RESERVED for (aldenbell)[/b]
+This sale has been auto-generated for the auction: [geekurl=/geeklist/232566/item/6296211#6296211]Item for Geeklist _T_E_M_P_T_A_G_quot;ct5150_T_E_M_P_T_A_G_#039;s 8th Auction = $8 Shipping = USA only_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+[b]RESERVED for (aldenbell)[/b]</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Jan 2018 09:26:37 +0000</listdate>
+    <saledate>Wed, 31 Oct 2018 22:22:57 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>verygood</condition>
+    <notes>U.K. Shipping £2, free collection from Brighton</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 08 Nov 2018 02:58:19 +0000</listdate>
+    <saledate>Thu, 08 Nov 2018 03:21:33 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/247587/item/6499000#6499000]Item for Geeklist _T_E_M_P_T_A_G_quot;Get Yourself Something for Christmas - Free Pax Unplugged Delivery Possible_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Winner - loyolag</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Dec 2018 21:42:47 +0000</listdate>
+    <saledate>Wed, 26 Dec 2018 15:47:53 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>verygood</condition>
+    <notes>Played once.
+Smoke free, pet free home.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Jul 2018 11:16:42 +0000</listdate>
+    <saledate>Wed, 23 Jan 2019 17:51:30 +0000</saledate>
+    <price currency='EUR'>29</price>
+    <condition>new</condition>
+    <notes>LE18-384</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>

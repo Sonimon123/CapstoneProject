@@ -1,0 +1,1447 @@
+<boardgames termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+     <boardgame objectid="237">
+   <yearpublished>1974</yearpublished>
+   <minplayers>2</minplayers>
+   <maxplayers>2</maxplayers>
+   <playingtime>60</playingtime>
+   <minplaytime>60</minplaytime>
+   <maxplaytime>60</maxplaytime>
+   <age>12</age>
+       <name primary="true" sortindex="1">Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men</name>
+         
+   <description>Fighting ships in the age of sail!  This classic title details military engagements in the golden age of sail with a plethora of historical scenarios.  Players take their groups of ships and form their ship lines and then go at it.  The game comes with a large generic ocean map overlaid with a hex grid.  The ship counters occupy two hexes and include special rules for moving and firing with this design.  Players can begin with the smaller scenarios and work up to whole fleets engaged in pitched battle._T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;Avalon Hill Complexity Rating - 6_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;_T_E_M_P_T_A_G_lt;br/_T_E_M_P_T_A_G_gt;</description>
+       <thumbnail>https://cf.geekdo-images.com/thumb/img/xDg0WbFsFvxnZGxBcYRi_ssnG7s=/fit-in/200x150/pic3341.jpg</thumbnail>
+    <image>https://cf.geekdo-images.com/original/img/NG-CrUq03rvjErTAc3FjFgEaKqI=/0x0/pic3341.jpg</image>
+      
+            <boardgamemechanic objectid="2689">Action / Movement Programming</boardgamemechanic>
+               <boardgamefamily objectid="9793">Age of Kings</boardgamefamily>
+               <boardgamecategory objectid="2726">Age of Reason</boardgamecategory>
+               <boardgamecategory objectid="1108">American Indian Wars</boardgamecategory>
+               <boardgamecategory objectid="1075">American Revolutionary War</boardgamecategory>
+                      <boardgameversion objectid="31451">Avalon Hill first edition</boardgameversion>
+               <boardgamepublisher objectid="5">The Avalon Hill Game Co</boardgamepublisher>
+               <boardgameversion objectid="133881">Avalon Hill second edition</boardgameversion>
+               <boardgamepublisher objectid="1634">Battleline</boardgamepublisher>
+               <boardgameversion objectid="50031">Battleline edition</boardgameversion>
+               <boardgamemechanic objectid="2072">Dice Rolling</boardgamemechanic>
+                      <boardgamemechanic objectid="2026">Hex-and-Counter</boardgamemechanic>
+               <boardgameartist objectid="42845">Edward Moran</boardgameartist>
+               <boardgamecategory objectid="1051">Napoleonic</boardgamecategory>
+               <boardgamecategory objectid="1008">Nautical</boardgamecategory>
+               <boardgamecategory objectid="1090">Pirates</boardgamecategory>
+                      <boardgamecategory objectid="2710">Post-Napoleonic</boardgamecategory>
+               <boardgamedesigner objectid="136">S. Craig Taylor</boardgamedesigner>
+               <boardgamecategory objectid="1019">Wargame</boardgamecategory>
+               <boardgamesubdomain objectid="4664">Wargames</boardgamesubdomain>
+               <videogamebg objectid="77937">Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men</videogamebg>
+                    
+   <poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="32">
+   
+  <results numplayers="1">  
+     <result value="Best" numvotes="0" />
+     <result value="Recommended" numvotes="5" />
+     <result value="Not Recommended" numvotes="18" />
+    </results>     
+   
+  <results numplayers="2">  
+     <result value="Best" numvotes="23" />
+     <result value="Recommended" numvotes="7" />
+     <result value="Not Recommended" numvotes="0" />
+    </results>     
+   
+  <results numplayers="2+">  
+     <result value="Best" numvotes="10" />
+     <result value="Recommended" numvotes="13" />
+     <result value="Not Recommended" numvotes="5" />
+    </results>     
+ </poll>
+   <poll name="language_dependence" title="Language Dependence" totalvotes="9">
+   
+  <results>  
+     <result level="1" value="No necessary in-game text" numvotes="1" />
+     <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+     <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+     <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+     <result level="5" value="Unplayable in another language" numvotes="0" />
+    </results>     
+ </poll>
+   <poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+   <results>  
+     <result value="2" numvotes="0" />
+     <result value="3" numvotes="0" />
+     <result value="4" numvotes="0" />
+     <result value="5" numvotes="0" />
+     <result value="6" numvotes="0" />
+     <result value="8" numvotes="0" />
+     <result value="10" numvotes="2" />
+     <result value="12" numvotes="11" />
+     <result value="14" numvotes="2" />
+     <result value="16" numvotes="0" />
+     <result value="18" numvotes="0" />
+     <result value="21 and up" numvotes="0" />
+    </results>     
+ </poll>
+   
+   
+      <statistics page="1">
+            <ratings >
+     <usersrated>1823</usersrated>
+     <average>7.02337</average>
+     <bayesaverage>6.36854</bayesaverage>
+     
+     <ranks>
+       
+              <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1160" bayesaverage="6.36854" />
+            
+       
+              <rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="201" bayesaverage="6.85238" />
+            
+           </ranks>
+     
+     <stddev>1.33532</stddev>
+     <median>0</median>
+     <owned>3662</owned>
+     <trading>175</trading>
+     <wanting>68</wanting>
+     <wishing>297</wishing>
+     <numcomments>689</numcomments>
+     <numweights>235</numweights>
+     <averageweight>3.1277</averageweight>
+    </ratings>
+               </statistics>
+  
+    <marketplacehistory>
+      <listing>
+    <listdate>Mon, 25 Nov 2002 12:37:15 +0000</listdate>
+    <saledate>Mon, 25 Nov 2002 22:06:40 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 06 Dec 2002 20:25:15 +0000</listdate>
+    <saledate>Sat, 07 Dec 2002 04:49:54 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>Very Good condition.  All part are present.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jun 2003 20:34:11 +0000</listdate>
+    <saledate>Tue, 10 Jun 2003 20:34:11 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>This game was a preorder.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Sep 2003 22:28:41 +0000</listdate>
+    <saledate>Mon, 29 Sep 2003 15:05:17 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>good</condition>
+    <notes>The components are complete, punched and bagged, with a big pad of unused ship logs. The box though is worn now, but still intact.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 21 Jun 2004 22:22:43 +0000</listdate>
+    <saledate>Fri, 12 Nov 2004 03:08:59 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 Oct 2004 02:00:08 +0000</listdate>
+    <saledate>Mon, 03 Jan 2005 22:36:16 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>acceptable</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 12 Aug 2005 01:46:04 +0000</listdate>
+    <saledate>Fri, 13 Jan 2006 23:02:14 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>All pieces and rulebook together, box is slightly worn, but otherwise in very good condition.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 13 Aug 2005 02:34:34 +0000</listdate>
+    <saledate>Sat, 28 Jul 2007 23:41:21 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>Bicentennial version with second edition (1981) rules. Box has a wrinkle on the front, but almost no damage or shelfwear. Some tape on sides to hold box closed. Partially punched, but contents look unplayed - rulebook is crisp and counters are shiny. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 27 Sep 2005 04:08:58 +0000</listdate>
+    <saledate>Fri, 11 Nov 2005 06:45:46 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Unpunched and unplayed, but has two repaired corners. Copyright 1975, 1st print AH.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2005 02:26:29 +0000</listdate>
+    <saledate>Wed, 19 Oct 2005 20:53:49 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Punched. Lovingly played and packed. Game map and all other components are present. The box is in good condition (scuffed corners from storage, no splits).
+Will ship a day or so after I receive your payment and $7.50 for USPS Parcel (actual charges if Non-US address).
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 28 Dec 2005 01:18:12 +0000</listdate>
+    <saledate>Sun, 12 Feb 2006 11:44:24 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>verygood</condition>
+    <notes>Played once, some shelf wear.  Includes a copy of a WS_T_E_M_P_T_A_G_amp;IM General magazine that featured the game.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 May 2006 11:50:39 +0000</listdate>
+    <saledate>Wed, 07 Jun 2006 19:29:46 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>Add 40p + 3% for PayPal</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Jun 2006 15:39:00 +0000</listdate>
+    <saledate>Tue, 15 Aug 2006 23:03:51 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>good</condition>
+    <notes>Good. Counters are punched.  Will also include a large number of  extra articles from the general free of charge, which include rules improvements and extra scenarios etc..
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Aug 2006 00:05:09 +0000</listdate>
+    <saledate>Fri, 22 Sep 2006 00:50:33 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Shrinked.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 24 Jan 2007 19:01:04 +0000</listdate>
+    <saledate>Mon, 14 Jan 2008 23:12:52 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Original Battleline edition.  Components in excellent to mint condition.  A few counters are punched.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 01 Jul 2007 16:44:49 +0000</listdate>
+    <saledate>Mon, 08 Feb 2010 15:07:58 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>acceptable</condition>
+    <notes>Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men is a well cared for vintage game copyrighted 1975 by Avalon Hill.
+Contents to my knowledge are complete, undamaged, _T_E_M_P_T_A_G_amp; complete.  Chips are partially punched.  Contents include instructions, game board in 2 sections, the Ship_T_E_M_P_T_A_G_#039;s Log Pad (from which I think only 1/2 doz sheets used), Advanced Game Tables, _T_E_M_P_T_A_G_amp; a die.  
+I have rated the game _T_E_M_P_T_A_G_quot;acceptable_T_E_M_P_T_A_G_quot; because the box top has 1 split corner and shelf wear.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Sep 2007 22:59:13 +0000</listdate>
+    <saledate>Sat, 17 Nov 2007 14:49:40 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>All components present and in very good to excellent condition. A few pages from the ship_T_E_M_P_T_A_G_#039;s log pad have been used. The box is also in a very good condition.  Any questions please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 27 Jan 2008 14:43:54 +0000</listdate>
+    <saledate>Tue, 23 Sep 2008 18:19:49 +0000</saledate>
+    <price currency='GBP'>24</price>
+    <condition>good</condition>
+    <notes>Good condition box fixed on 3 corners</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 27 Mar 2008 17:38:03 +0000</listdate>
+    <saledate>Fri, 15 Oct 2010 16:45:02 +0000</saledate>
+    <price currency='EUR'>45</price>
+    <condition>verygood</condition>
+    <notes>Punched but never played . Excelent condition ! 1975 edition .</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Apr 2008 04:18:50 +0000</listdate>
+    <saledate>Sun, 13 Jul 2008 02:04:02 +0000</saledate>
+    <price currency='USD'>40</price>
+    <condition>verygood</condition>
+    <notes>Special Bonus: Many photocopied pages from at least 2 articles from The General about this game giving tips and techniques and alternate scenerios, etc! Game complete. All units have been punched and bagged. Only 2 log sheets have been used then photocopies were used after that leaving an almost full pad unused. Box looks OK for it_T_E_M_P_T_A_G_#039;s age but 2 corners split and some tape reinforced corners etc.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 May 2008 10:21:45 +0000</listdate>
+    <saledate>Tue, 03 Jun 2008 04:52:13 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>verygood</condition>
+    <notes>Includes additional scenarios and material from The General magazine, and a printed copy of the tournament rules as found on the internet. E_T_E_M_P_T_A_G_#039; compresa anche una copia delle regole in italiano.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 Jun 2008 20:35:40 +0000</listdate>
+    <saledate>Fri, 08 Aug 2008 12:46:17 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>likenew</condition>
+    <notes>Complete and unpunched, though with very slight storage wear to the lid.
+Shipping to UK is £4.50
+Shipping to Europe is £8.15
+Shipping to USA is £14.00</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Jun 2008 07:19:40 +0000</listdate>
+    <saledate>Fri, 24 Oct 2008 13:53:04 +0000</saledate>
+    <price currency='GBP'>20</price>
+    <condition>good</condition>
+    <notes>Played twice. Excellent condition apart from a slight gouge on the cover - see pictures. Will ship to UK or Europe. Buyer pays postage.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 17 Sep 2008 13:25:10 +0000</listdate>
+    <saledate>Tue, 06 Jan 2009 14:35:58 +0000</saledate>
+    <price currency='EUR'>27</price>
+    <condition>acceptable</condition>
+    <notes>Punched and played...</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 28 Sep 2008 01:39:02 +0000</listdate>
+    <saledate>Fri, 30 Jan 2009 16:53:33 +0000</saledate>
+    <price currency='USD'>24.99</price>
+    <condition>good</condition>
+    <notes>CHITS UNPUNCHED!  A few have fallen out, but most are unpunched!  All chits presents and boards in good shape.  See picture!  If picture not present, email us on the BGG system and we_T_E_M_P_T_A_G_#039;ll send you one.
+Domestic Shipping: USPS MEDIA MAIL with Delivery Confirmation = $5.99 or USPS PRIORITY MAIL with Delivery Confirmation = $12.99</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Oct 2008 11:37:33 +0000</listdate>
+    <saledate>Tue, 21 Oct 2008 21:13:21 +0000</saledate>
+    <price currency='USD'>53</price>
+    <condition>verygood</condition>
+    <notes>excellent shape and complete</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 21 Jan 2009 19:39:35 +0000</listdate>
+    <saledate>Thu, 22 Jan 2009 00:15:10 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>good</condition>
+    <notes>Auction win for Threedub
+Civil War $20
+Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men $15
+Shipping $11.72</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 04 Mar 2009 21:38:52 +0000</listdate>
+    <saledate>Sun, 08 Mar 2009 18:32:56 +0000</saledate>
+    <price currency='USD'>5</price>
+    <condition>acceptable</condition>
+    <notes>Missing instructions - counters and map present.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Apr 2009 15:28:35 +0000</listdate>
+    <saledate>Sun, 19 Apr 2009 15:57:25 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Components are in VERY good condition.  Box is intact, but has wear and some split edges.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 19 May 2009 04:14:58 +0000</listdate>
+    <saledate>Mon, 01 Jun 2009 01:23:51 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>likenew</condition>
+    <notes>For yosemite only from geeklist auction</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Jun 2009 19:48:59 +0000</listdate>
+    <saledate>Thu, 04 Jun 2009 21:20:31 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Trekspert1 who has pre-purchased this through the auction for Cici.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 22 Jun 2009 13:28:26 +0000</listdate>
+    <saledate>Tue, 11 Aug 2009 02:38:37 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Excellent Condition for age
+UK Postage £4.50</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 30 Jun 2009 05:20:51 +0000</listdate>
+    <saledate>Wed, 04 Nov 2009 23:39:11 +0000</saledate>
+    <price currency='USD'>59.99</price>
+    <condition>new</condition>
+    <notes>New in shrink. Slight scuff on one corner (see pictures).
+Avalon Hill - English - 1975 Bicentennial Edition
+Will ship at cost using whatever method you prefer. Shipping to a business address saves you money.
+Will combine with any other item I sell to save you money.
+Links to full picture scans:
+http://www.boardgamegeek.com/image/448963
+http://www.boardgamegeek.com/image/448962
+http://www.boardgamegeek.com/image/448965
+http://www.boardgamegeek.com/image/448964</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 24 Oct 2009 06:12:03 +0000</listdate>
+    <saledate>Fri, 01 Jan 2010 16:12:37 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>good</condition>
+    <notes>This is the complete game, opened and played, in good condition.  It is the Avalon Hill edition of the game, published in 1975.
+About half the counters are punched, and all are in very good condition. The rulebook is in good condition, with clean interior pages, but with discoloration and dirt on the cover, and with wear and slight bending to the upper right corner of some pages. A few of the ship’s log pads have been used; the rest are clean. The tables page is slightly discolored. The mapboard is in very good condition with a few light dents from die rolls. It lies flat without difficulty. The box is in fair condition, with a slight bend to its sides, dirt from the price tag, and significant wear on all edges.
+The listed shipping price is for USPS Priority Mail -- You can likely save $2  or more if you don_T_E_M_P_T_A_G_#039;t mind using Parcel Post, instead.  Also, note that I do reduce shipping charges if you buy more than one of my games -- Send me a message and I_T_E_M_P_T_A_G_#039;ll calculate the discount. (I charge an estimate of the actual shipping cost.)</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 05 Dec 2009 22:06:09 +0000</listdate>
+    <saledate>Tue, 13 Apr 2010 07:56:52 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>likenew</condition>
+    <notes>Unpunched
+Shipping Germany  4 Euro
+Shipping European Union 9 Euro
+Shipping World         14 Euro
+PayPal plus 3 Euro
+Money transfer via IBAN/BIC preferred
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 18 Jan 2010 13:55:08 +0000</listdate>
+    <saledate>Mon, 18 Jan 2010 15:46:05 +0000</saledate>
+    <price currency='USD'>29</price>
+    <condition>acceptable</condition>
+    <notes>Reserved for whac3.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Feb 2010 23:58:02 +0000</listdate>
+    <saledate>Sat, 06 Mar 2010 14:20:25 +0000</saledate>
+    <price currency='GBP'>24</price>
+    <condition>good</condition>
+    <notes>Good condition with lots of extra material
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Apr 2010 14:52:11 +0000</listdate>
+    <saledate>Mon, 16 Aug 2010 22:16:16 +0000</saledate>
+    <price currency='GBP'>30</price>
+    <condition>good</condition>
+    <notes>Has been played with a few times. Pieces kept neatly in mini plastic bags</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 May 2010 03:06:18 +0000</listdate>
+    <saledate>Mon, 05 Jul 2010 11:56:11 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>likenew</condition>
+    <notes>Unpunched copy.  Box in excellent condition.  If sending personal checks, will only ship once check clears.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 29 May 2010 19:13:45 +0000</listdate>
+    <saledate>Thu, 09 Sep 2010 20:58:25 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Box has some dishing and a small amount of tape on sides but is solid and has good color.
+Components are complete and in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 18 Jun 2010 00:37:15 +0000</listdate>
+    <saledate>Sat, 03 Jul 2010 00:14:53 +0000</saledate>
+    <price currency='USD'>39</price>
+    <condition>verygood</condition>
+    <notes>unpunched with decent box and I believe I have the latest/last edition of the rules. 2nd?</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Jun 2010 03:15:16 +0000</listdate>
+    <saledate>Sun, 20 Jun 2010 19:49:14 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>acceptable</condition>
+    <notes>Game sold to auction winner Christopher Bartlett</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 30 Jun 2010 16:58:59 +0000</listdate>
+    <saledate>Thu, 04 Nov 2010 23:44:33 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>shipping will depend on where you live.
+UNPUNCHED...box has a little wear
+all the games i_T_E_M_P_T_A_G_#039;m selling have been checked to be complete.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 10 Aug 2010 18:01:49 +0000</listdate>
+    <saledate>Wed, 15 Dec 2010 14:53:25 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>verygood</condition>
+    <notes>punched and verified complete - I_T_E_M_P_T_A_G_#039;ll include color copies of unpunched counter sheets (since sold those). Decent box and rules booklet/docs-charts.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 11 Aug 2010 02:45:59 +0000</listdate>
+    <saledate>Wed, 11 Aug 2010 03:11:49 +0000</saledate>
+    <price currency='AUD'>35</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 21 Sep 2010 15:06:49 +0000</listdate>
+    <saledate>Wed, 22 Sep 2010 15:14:43 +0000</saledate>
+    <price currency='USD'>32.95</price>
+    <condition>verygood</condition>
+    <notes>Components including game boards, counters, charts, log pad, and rulebook are in like new condition. Box is in excellent condition with some minnor dishing. I store my games in a pet-free and smoke-free environment and I package my games for shipment with the utmost care. I ship quickly - within 24 hours of receiving payment. Shipping weight is 5 pounds.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 Nov 2010 05:14:59 +0000</listdate>
+    <saledate>Tue, 25 Jan 2011 09:30:17 +0000</saledate>
+    <price currency='AUD'>20</price>
+    <condition>good</condition>
+    <notes>2nd edition, 1981. Box split at 1 corner and showing its age, but components in decent nick.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Nov 2010 03:54:51 +0000</listdate>
+    <saledate>Thu, 17 Mar 2011 16:18:04 +0000</saledate>
+    <price currency='USD'>29.5</price>
+    <condition>good</condition>
+    <notes>Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men
+Good condition overall
+I welcome international buyers!</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Nov 2010 13:12:23 +0000</listdate>
+    <saledate>Mon, 08 Nov 2010 13:15:37 +0000</saledate>
+    <price currency='USD'>88</price>
+    <condition>verygood</condition>
+    <notes>FOR STEVE COX ONLY.  WSIM, Lee vs Grant, Combat Stalingrad, 8.00 shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Nov 2010 19:55:44 +0000</listdate>
+    <saledate>Tue, 21 Dec 2010 21:38:16 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Complete Avalon Hill edition. Lovingly played. Box top has one split corner but otherwise in good shape. </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Dec 2010 20:35:34 +0000</listdate>
+    <saledate>Wed, 08 Dec 2010 06:45:37 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>acceptable</condition>
+    <notes>This item for sale to Pop Kin (calandale) only.
+Shipping for this item includes combined shipping for Age of Napoleon and A House Divided, as well.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Dec 2010 23:47:13 +0000</listdate>
+    <saledate>Sat, 03 Dec 2011 13:43:00 +0000</saledate>
+    <price currency='USD'>22.5</price>
+    <condition>verygood</condition>
+    <notes>Unpuched in great shape. Box very good and a pile of xeroxed notes, scenarios etc included</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 26 Jan 2011 00:26:30 +0000</listdate>
+    <saledate>Wed, 26 Jan 2011 14:52:15 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>All counters are accounted for
+However counter 1226 (British) was chewed a bit - it is usable, but noticably chewed.
+Box is split on the left side.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 02 Mar 2011 21:41:30 +0000</listdate>
+    <saledate>Sat, 05 Mar 2011 06:01:19 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Box has some wear, but the game is complete and in very good conditon.  Original owner, non smoking household.
+I will pay shipping costs. NO PO BOXES.  US Customers ONLY.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 24 Mar 2011 04:49:46 +0000</listdate>
+    <saledate>Sat, 02 Apr 2011 19:45:58 +0000</saledate>
+    <price currency='USD'>29.95</price>
+    <condition>verygood</condition>
+    <notes>punched, verified complete and only the best counters culled from my WS_T_E_M_P_T_A_G_amp;IM pool. VG box too. plus extras</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Apr 2011 02:08:17 +0000</listdate>
+    <saledate>Mon, 11 Apr 2011 23:50:10 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Unpunched, Near Mint.  The box front is a pressed-in/imperfect - that_T_E_M_P_T_A_G_#039;s the only flaw.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 15 Apr 2011 04:54:50 +0000</listdate>
+    <saledate>Sun, 09 Dec 2012 00:56:32 +0000</saledate>
+    <price currency='USD'>42</price>
+    <condition>likenew</condition>
+    <notes>Unpunched BATTLELINE. very good overall including the box. Supplemented with a decent set of AH WS_T_E_M_P_T_A_G_amp;IM mounted mapboards. PLUS a copy of the article from HTF •Battleplan _T_E_M_P_T_A_G_quot;Rerigging Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men - Variants_T_E_M_P_T_A_G_quot;
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 07 May 2011 11:59:21 +0000</listdate>
+    <saledate>Mon, 09 May 2011 20:51:49 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>likenew</condition>
+    <notes>HONEST !....its never been used.  UNPUNCHED counters...{ ever so slight rusting on the rules staples but no staining on the rule book. Its in very excellent condition...Even the box...</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 May 2011 16:21:25 +0000</listdate>
+    <saledate>Tue, 31 May 2011 18:02:18 +0000</saledate>
+    <price currency='USD'>32</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Jim Horvath.
+Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men
+Hera _T_E_M_P_T_A_G_amp; Zeus</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 16 Jun 2011 00:03:57 +0000</listdate>
+    <saledate>Fri, 22 Jul 2011 12:59:28 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Game components are in excellent condition, but box isn_T_E_M_P_T_A_G_#039;t.  Box shows a lot of wear.  See photos.
+Shipping will be my exact cost.  I will most likely ship flat rate box.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 06 Jul 2011 12:04:23 +0000</listdate>
+    <saledate>Sat, 09 Jul 2011 11:27:39 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>New unpunched game in original shrink wrap 
+Shipping_T_E_M_P_T_A_G_amp;Handling - Priority Mail excl. Insurance: 
+Switzerland: CHF 10.-- 
+Europe: USD 41.--
+US/ Canada: USD 48.--
+Others Overseas: USD 52.—
+We will always combine multiple items to reduce your shipping costs where possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 29 Jul 2011 13:31:55 +0000</listdate>
+    <saledate>Fri, 20 Apr 2012 00:30:04 +0000</saledate>
+    <price currency='USD'>60</price>
+    <condition>likenew</condition>
+    <notes>New unpunched game 
+Shipping_T_E_M_P_T_A_G_amp;Handling - Priority Mail excl. Insurance: 
+Switzerland: CHF 10.-- 
+Europe: USD 39.--
+Others: USD 53.--
+We will always combine multiple items to reduce your shipping costs where possible.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 03 Aug 2011 05:24:50 +0000</listdate>
+    <saledate>Wed, 03 Aug 2011 15:41:58 +0000</saledate>
+    <price currency='USD'>24</price>
+    <condition>verygood</condition>
+    <notes>This is for user Vidbot only from 4in1 auction.  Shipping will be parcel post. $11.39 for both items won.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Oct 2011 19:53:16 +0000</listdate>
+    <saledate>Fri, 01 Jun 2012 13:32:00 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>Very good condition. Never been played. A few counters separated from their sheets, but otherwise as new.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 28 Nov 2011 04:08:22 +0000</listdate>
+    <saledate>Wed, 21 Dec 2011 01:17:10 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>· Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men, + BONUSES  (Avalon Hill, 1975)  The game is in VERY GOOD to EXCELLENT condition, with the rules showing use.  The box shows wear with a taped side panel.  The counters are PUNCHED and the game is verified COMPLETE.   BONUSES: General articles on _T_E_M_P_T_A_G_quot;Design Your Own Scenarios_T_E_M_P_T_A_G_quot; and _T_E_M_P_T_A_G_quot;WSIM Of The Levant_T_E_M_P_T_A_G_quot;.  
+Buyer pays for shipping.  Cashiers Check and Money Orders accepted, PAY PAL preferred.  Payment is expected to arrive and clear before games will ship.  Shipping charges are those quoted by the USPS for shipping the item(s) (http://www.usps.com/prices/priority-mail-prices.htm).  Please note that the game(s) will ship the Saturday following payment clearing (sorry but I work days and evenings and usually can not get to the Post Office before then).  Additional pictures furnished upon request.
+Best wishes,
+Jon
+ZIP CODE: 07801
+greatdiscoverer@yahoo.com
+</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Dec 2011 17:37:27 +0000</listdate>
+    <saledate>Sat, 03 Dec 2011 02:44:15 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Box with minimal shelf wear, components in excellent condition.  Never played, punched.  Excellent player_T_E_M_P_T_A_G_#039;s copy.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 02 Feb 2012 14:38:35 +0000</listdate>
+    <saledate>Tue, 25 Sep 2012 20:48:30 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>good</condition>
+    <notes>I have verified that all counters are present and most of them are unpunched. I didn_T_E_M_P_T_A_G_#039;t count all of the log sheets but there are a lot still there. Map in good condition with no tears. Box in very good condition with very minor shelf wear. It had one split corner but this has been repaired (not with tape). The packaged game weights 3 lbs 4 oz and I charge only exact USPS shipping costs from zip code 21702 (Maryland). If you are unsure of the shipping costs, please geekmail me your zip code and I will give you the exact cost options. I will ship internationally if you are willing to pay the costs and assume responsibility for any loss although I have never had any problems before shipping internationally. I can provide photos if you want. Any other questions please ask.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 08 Apr 2012 22:27:19 +0000</listdate>
+    <saledate>Tue, 24 Apr 2012 00:40:51 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Almost like new 2nd AH Edition.  Most units still unpunched (just 24 units have been punched) and everything is in like-new condition. Box in good condition as well.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 May 2012 03:37:41 +0000</listdate>
+    <saledate>Thu, 10 May 2012 17:09:42 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>sold to johnmattf</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Jun 2012 11:38:04 +0000</listdate>
+    <saledate>Sun, 07 Jul 2013 07:47:11 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Punched, Very Good. Played once or twice. Will also consider reasonable offers.
+I am now in Seattle, WA</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 25 Jun 2012 23:29:10 +0000</listdate>
+    <saledate>Sat, 30 Jun 2012 16:05:32 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Punched and complete.  Very clean.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 03 Aug 2012 20:15:45 +0000</listdate>
+    <saledate>Mon, 10 Sep 2012 15:11:29 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>Punched and complete.  Very clean copy.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 06 Sep 2012 17:40:16 +0000</listdate>
+    <saledate>Thu, 06 Sep 2012 18:13:29 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>Reserved for user _T_E_M_P_T_A_G_quot;Shenderson2002_T_E_M_P_T_A_G_quot;
+For Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men AND 1776
+From Post-Labor Day Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 27 Oct 2012 23:10:19 +0000</listdate>
+    <saledate>Wed, 12 Dec 2012 15:34:02 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>The gane has been punched aand the box show its age,  overall I would say its in good shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 16 Nov 2012 09:06:36 +0000</listdate>
+    <saledate>Wed, 23 Jan 2013 13:12:58 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>Box has its age, but gamecomponents are new and unpunched.
+International payment with IBAN.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 25 Nov 2012 22:58:22 +0000</listdate>
+    <saledate>Mon, 26 Nov 2012 01:11:58 +0000</saledate>
+    <price currency='USD'>11</price>
+    <condition>verygood</condition>
+    <notes>For auction winner 28th only</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Dec 2012 15:20:46 +0000</listdate>
+    <saledate>Sun, 20 Jan 2013 17:37:36 +0000</saledate>
+    <price currency='GBP'>12</price>
+    <condition>verygood</condition>
+    <notes>Bi-centinial version.
+Re-listed due to time waster!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 08 Feb 2013 22:22:17 +0000</listdate>
+    <saledate>Fri, 17 May 2013 17:38:53 +0000</saledate>
+    <price currency='USD'>26</price>
+    <condition>verygood</condition>
+    <notes>Very good condition. All pieces accounted for (map in two pieces, ship_T_E_M_P_T_A_G_#039;s log pad, advanced game tables, counter sheet, one six sided die, and box. Box has normal shelf wear for a game published almost 40 years ago; corners are tapes on two sides). Most counters are unpunched.
+Buyer pays shipping. Buyer pays any fees associated with receiving payment (e.g. paypal). USPS money order also accepted. Shipping is from 80516 zip.
+I welcome international sales. The recipient bears all risk for lost packages, etc. I will scan and email a receipt of shipment upon request, but cannot be responsible for lost or stolen packages.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Mar 2013 17:47:21 +0000</listdate>
+    <saledate>Sun, 05 May 2013 19:56:11 +0000</saledate>
+    <price currency='CAD'>40</price>
+    <condition>verygood</condition>
+    <notes>Avalon Hill original edition from 1975.  All counters are UNPUNCHED.  Box has shelfwear and on s corner split that runs up the top of the box about 3 inches.  Game is 100% complete.  Board is in like new condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 May 2013 12:27:43 +0000</listdate>
+    <saledate>Thu, 25 Jul 2013 14:17:44 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>new</condition>
+    <notes>In Shrink.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Jun 2013 01:03:01 +0000</listdate>
+    <saledate>Wed, 26 Jun 2013 00:23:14 +0000</saledate>
+    <price currency='USD'>16</price>
+    <condition>verygood</condition>
+    <notes>Punched and bagged.
+All components in near new condition. Does not look to have been played. Box has average shelf wear but no damage.
+Will ship in first class or priority box for $10 to U.S. addresses. $18 to Canada. $30 international.
+I will combine shipping if you purchase other games at the same time. Magazines and non-boxed games can usually fit in the same box so no additional charge. I will send you a postage total on multiple game orders before confirming your order. I’ve rarely had any issues with loss or damage but U.S. post office does not track first class packages once they leave the U.S. so foreign buyers assume all risk of loss or damage.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 03 Aug 2013 22:29:53 +0000</listdate>
+    <saledate>Mon, 05 Aug 2013 02:03:00 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>Punched and complete.  Three corners of box top split and has been repaired with clear tape.  Box top has some spill damage inside the lid.  No smells,  Rules are used.  Counters and board are in excellent shape.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Aug 2013 17:36:15 +0000</listdate>
+    <saledate>Sat, 31 Aug 2013 02:00:56 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>good</condition>
+    <notes>Has the 1981 rules. Partially punched, complete, in good condition. The box bottom has some warping and partially scuffed crease. Everything inside the box is in very good condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 20 Aug 2013 11:45:26 +0000</listdate>
+    <saledate>Wed, 21 Aug 2013 18:19:28 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Game punched but in great condition.  Stored in a dry smoke free home.  Shipping from 02562.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 29 Sep 2013 23:09:40 +0000</listdate>
+    <saledate>Wed, 02 Oct 2013 09:05:21 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. This game has seen little play. Second Edition 1981.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 07 Oct 2013 05:06:27 +0000</listdate>
+    <saledate>Sun, 10 Nov 2013 17:36:51 +0000</saledate>
+    <price currency='USD'>10</price>
+    <condition>acceptable</condition>
+    <notes>Reserved for thejadeape . Players copy. Missing 5 chits, 1704, 1303, 2105, 2303, and 4603.  Box corners are blown and fixed with brown packing tape.   Rules have a stain on the front of the book.  Still has most of the sheets left on the ships logs.  </notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Nov 2013 09:45:31 +0000</listdate>
+    <saledate>Tue, 25 Mar 2014 08:53:48 +0000</saledate>
+    <price currency='EUR'>27</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 17 Nov 2013 17:24:24 +0000</listdate>
+    <saledate>Tue, 19 Nov 2013 15:21:18 +0000</saledate>
+    <price currency='USD'>68</price>
+    <condition>verygood</condition>
+    <notes>Reserve for gersh77 auction result + TSR mini games + Kairo + RoboRally + New England</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 May 2014 03:47:44 +0000</listdate>
+    <saledate>Thu, 22 May 2014 17:21:00 +0000</saledate>
+    <price currency='USD'>18.99</price>
+    <condition>acceptable</condition>
+    <notes>All here, including some blank logs to make copies from.  </notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 09 Sep 2014 01:59:00 +0000</listdate>
+    <saledate>Tue, 09 Sep 2014 14:55:29 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>Reserved for Aaron B. auction winner</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 16 Sep 2014 01:47:22 +0000</listdate>
+    <saledate>Tue, 16 Sep 2014 17:35:45 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>sold in auction to Aaron B.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 10 Aug 2014 21:03:13 +0000</listdate>
+    <saledate>Fri, 17 Oct 2014 23:25:45 +0000</saledate>
+    <price currency='USD'>22</price>
+    <condition>verygood</condition>
+    <notes>Excellent played copy.  Everything bright and tight.
+Shipping extra, insurance etc at buyers cost if desired.
+Thanks!</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 07 Nov 2014 06:09:17 +0000</listdate>
+    <saledate>Fri, 07 Nov 2014 06:11:41 +0000</saledate>
+    <price currency='USD'>7</price>
+    <condition>verygood</condition>
+    <notes>Reserved for BGG User tebald from Selling the Loot BGG Auction</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Nov 2014 06:07:26 +0000</listdate>
+    <saledate>Mon, 24 Nov 2014 14:29:10 +0000</saledate>
+    <price currency='USD'>18</price>
+    <condition>acceptable</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/181593/item/3555592#3555592]Item for Geeklist _T_E_M_P_T_A_G_quot;Downsizing collection auction Ends 11/23/14 _T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+for:red_herring</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 04 Dec 2014 16:50:16 +0000</listdate>
+    <saledate>Thu, 04 Dec 2014 20:02:50 +0000</saledate>
+    <price currency='USD'>6</price>
+    <condition>good</condition>
+    <notes>for satorisnow</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 02 Nov 2014 18:49:37 +0000</listdate>
+    <saledate>Tue, 09 Dec 2014 06:37:09 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>This is the 1981 2nd addition.
+100% complete--Played only a few times.
+In all-around excellent shape including the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Feb 2015 18:46:38 +0000</listdate>
+    <saledate>Thu, 12 Feb 2015 20:16:30 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Complete, all contents present.
+Shipping is $12.60 USPS Priority</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 13 Feb 2015 18:03:26 +0000</listdate>
+    <saledate>Sun, 15 Feb 2015 23:50:36 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>good</condition>
+    <notes>Components in good, clean condition. Game was only played a few times. 
+Box top has normal wear and three split corners. Bottom of box is sturdy with one corner starting to split.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Mar 2015 14:30:57 +0000</listdate>
+    <saledate>Mon, 23 Mar 2015 13:36:15 +0000</saledate>
+    <price currency='USD'>4</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/188402/item/3783491#3783491]Item for Geeklist _T_E_M_P_T_A_G_quot;Spring Cleaning Auction_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Mar 2015 02:24:18 +0000</listdate>
+    <saledate>Thu, 26 Mar 2015 18:26:45 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>likenew</condition>
+    <notes>Like new copy. Unpunched but some counters have fallen free. Box covers has no splits and shows only minor wear. Log Book unused.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Apr 2015 17:01:07 +0000</listdate>
+    <saledate>Thu, 04 Jun 2015 20:46:56 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Partially punched but very clean copy. Box has one split corner and normal shelf wear. Still has Avalon Hill comment card and promo material for Arab-Israeli Wars and The Russian Campaign.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 30 May 2015 22:51:54 +0000</listdate>
+    <saledate>Wed, 01 Jul 2015 22:48:18 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>verygood</condition>
+    <notes>I would put _T_E_M_P_T_A_G_quot;like new_T_E_M_P_T_A_G_quot; but it is hard to roll back the clock to 1974.
+The box looks great.   Ship_T_E_M_P_T_A_G_#039;s Log Pad is not marked and complete.
+This is wonderful old school game with all the tactics of the age of sail...</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 12 Apr 2015 15:44:21 +0000</listdate>
+    <saledate>Thu, 02 Jul 2015 06:58:37 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>2nd edition
+Comes with 180 counters
+Good shape
+Complete
+Box has minor shelfwear</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 28 Apr 2015 14:11:56 +0000</listdate>
+    <saledate>Sun, 12 Jul 2015 14:04:55 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>Nice game in a damaged box.
+1975 Avalon Hill.  1st ed near as I can tell.  Box in poor shape: all corners split and taped, heavy edge wear, age discoloration.
+All components present; plenty of blank log pads; a couple of variants printed from the web.
+2 units loose and bagged, balance unpunched.
+Rules have some handling wear; maps VG.
+US shipping depends on zip code. Ships from 20912.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 14 Feb 2015 18:07:23 +0000</listdate>
+    <saledate>Sat, 25 Jul 2015 17:45:41 +0000</saledate>
+    <price currency='USD'>22.94</price>
+    <condition>verygood</condition>
+    <notes>About 15 counters punched not clipped.  Balance of the counters still unpunched.  Contents verified complete and in very good condition.  Some underlining and staining on the rulebook otherwise looks good.  Box has no split corners but one corner on the lid is cracking.  Plenty of shelf wear and corner rubbing.  Looks like a couple of tape marks as well.  Worldwide shipping and will be packed well.  All forms of negotiable instruments considered.   Combine ship with multiple purchases.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 09 Sep 2015 16:33:00 +0000</listdate>
+    <saledate>Tue, 22 Sep 2015 14:07:43 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>Missing one counter (#1105, can be easily substituted with a different nationality).  About 80% of the counters unpunched.  Complete.  Box has medium shelfwear, not bad at all for it_T_E_M_P_T_A_G_#039;s age.  Two split corners in lid, bottom is solid.  Contents have some yellowing, pad only missing a few sheets.  Complete and inventoried.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 05 Nov 2014 22:55:58 +0000</listdate>
+    <saledate>Sat, 10 Oct 2015 06:26:31 +0000</saledate>
+    <price currency='USD'>17.76</price>
+    <condition>good</condition>
+    <notes>Complete and in very nice condition.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 31 May 2015 14:13:28 +0000</listdate>
+    <saledate>Wed, 14 Oct 2015 23:51:29 +0000</saledate>
+    <price currency='USD'>34</price>
+    <condition>likenew</condition>
+    <notes>Box has minor shelf wear, unpunched
+The offered game is from Mike Bartnikowski’s collection.  He passed in late 2012 and we are liquidating his gigantic (over 1200 pieces) Hoard.  We have a live .xls catalog with most of the pieces, asking price and condition.  To learn more, email at bartnikowskishoard@gmail.com.  
+Shipping to be paid by buyer.  We ship from 48192.
+paypal payments accepted at barbarakiss@sbcglobal.net</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Nov 2015 02:22:25 +0000</listdate>
+    <saledate>Mon, 16 Nov 2015 02:45:32 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Reserved for Binaural G only. All others will be rejected. Also included is Third Reich, Foxbat and Sixth Fleet</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Oct 2015 15:17:05 +0000</listdate>
+    <saledate>Thu, 26 Nov 2015 23:05:07 +0000</saledate>
+    <price currency='EUR'>30</price>
+    <condition>new</condition>
+    <notes>The game is new and in perfect condition. It has never been used. The pawns are still attached
+If required I can give the other pictures. The rules are translated into Italian.
+Shipping by postal mail:
+- For Italy: € 9.00
+- For Europe: € 25.00
+- For America and Canada: € 35.00
+- For the rest of the world: ask
+If you buy at least three titles shipping will be free.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 21 Mar 2015 23:08:11 +0000</listdate>
+    <saledate>Tue, 01 Dec 2015 04:51:50 +0000</saledate>
+    <price currency='AUD'>40</price>
+    <condition>good</condition>
+    <notes>One corner of box is split, otherwise very presentable.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 20 Nov 2015 15:06:23 +0000</listdate>
+    <saledate>Sun, 13 Dec 2015 20:34:18 +0000</saledate>
+    <price currency='GBP'>18</price>
+    <condition>verygood</condition>
+    <notes>Checked and complete. The box has minor shelfwear and no typical _T_E_M_P_T_A_G_#039;flatbox_T_E_M_P_T_A_G_#039; dishing.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 15 Nov 2015 03:00:00 +0000</listdate>
+    <saledate>Tue, 12 Jan 2016 01:24:05 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 23 Oct 2015 15:45:40 +0000</listdate>
+    <saledate>Mon, 18 Jan 2016 14:44:57 +0000</saledate>
+    <price currency='EUR'>10</price>
+    <condition>good</condition>
+    <notes>The game is complete, counters and map are in very good (up to excellent) condition. However, the game box shows wear and tear in a range what would be expected after about 30 years.
+I can provide pictures if necessary.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 05 Jul 2015 18:11:02 +0000</listdate>
+    <saledate>Tue, 26 Jan 2016 02:43:46 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>Buyer pays for shipping from USA, 22150</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 11 Aug 2015 15:16:24 +0000</listdate>
+    <saledate>Wed, 27 Jan 2016 04:40:41 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Counters are unpunched, contents very good. 
+Outer box has a split corner and some dishing. Some tape residue on 4 sides.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 04 Nov 2011 19:20:57 +0000</listdate>
+    <saledate>Wed, 27 Jan 2016 04:40:43 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>acceptable</condition>
+    <notes>Avalon Hill_T_E_M_P_T_A_G_#039;s 1981 second edition.
+All parts are present, but I have used eighteen out of the thirty original pages of the Log Chart; nevertheless, it_T_E_M_P_T_A_G_#039;s easy enough to print or photocopy more logs if you use up the remaining twelve. Some wear on the board, bits and tables. Some items on tables circled in pencil, and my name is written (in small letters!) on the rule book and Combat Results Table. A few of the counters also have the name of that ship on the underside. The box has a fair bit of _T_E_M_P_T_A_G_quot;shelf wear_T_E_M_P_T_A_G_quot; on it, but it_T_E_M_P_T_A_G_#039;s all in one piece, and there are no tears at the corners.
+I_T_E_M_P_T_A_G_#039;m willing to accept payment in either Canadian or American dollars, whichever is most convenient for you.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 22 Jan 2016 17:33:53 +0000</listdate>
+    <saledate>Wed, 30 Mar 2016 21:52:44 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>verygood</condition>
+    <notes>the original game (punched counters) + General articles ...The Baltic, ...Navy Triumphant, ...Continentals, ...Frigates Fight,...Levant</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 11 Oct 2015 19:12:54 +0000</listdate>
+    <saledate>Tue, 12 Apr 2016 14:20:09 +0000</saledate>
+    <price currency='USD'>19</price>
+    <condition>verygood</condition>
+    <notes>Punched, played, all components present _T_E_M_P_T_A_G_amp; in very good condition. Log pad is quite thick. Box is definitely showing its age with some shelfwear and minor dings; but it is sound and looks good overall.
+$8 shipping east of the Mississippi; $13 West of the Mississippi.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 18 Aug 2015 19:45:12 +0000</listdate>
+    <saledate>Wed, 13 Apr 2016 01:26:56 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Game is complete and has been punched, but never played. All components are bagged and in great shape. Manual in excellent shape as well. Box has slight storage wear. Game comes from a smoke and pet free home. Buyer to pay shipping from zip code 55387. Free local pick up in the  Minneapolis/St. Paul metro area. Feel free to contact me with questions and I will post pictures upon request.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 03 Apr 2016 11:53:09 +0000</listdate>
+    <saledate>Tue, 19 Apr 2016 09:35:37 +0000</saledate>
+    <price currency='EUR'>25</price>
+    <condition>good</condition>
+    <notes>Used but in very good conditions, most counters punched, only 4 log sheets used,
+gastos de envio a España por Kiala 5 euros
+P_T_E_M_P_T_A_G_amp;p to Europe 20 euros, if you know of a cheaper option just tell me.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 30 Aug 2013 21:35:13 +0000</listdate>
+    <saledate>Sun, 15 May 2016 22:16:19 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men by Avalon Hill brand new in factory shrink. S_T_E_M_P_T_A_G_amp;H to the US is $13.00. Please ask about international shipping costs.
+Thanks for looking.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 28 Mar 2015 15:47:39 +0000</listdate>
+    <saledate>Sat, 09 Jul 2016 15:53:13 +0000</saledate>
+    <price currency='EUR'>75</price>
+    <condition>likenew</condition>
+    <notes>Counters are unpunched.
+Postage Europe: € 25
+Postage US: € 35
+Payment via PayPal.
+Private sale without warranty.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 30 Jun 2016 15:50:54 +0000</listdate>
+    <saledate>Wed, 27 Jul 2016 10:31:00 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 19 Jan 2015 03:04:10 +0000</listdate>
+    <saledate>Thu, 22 Sep 2016 14:34:20 +0000</saledate>
+    <price currency='USD'>45</price>
+    <condition>verygood</condition>
+    <notes>Some counters have fallen off the trees, otherwise unpunched.  Light wear on front of counters, probably due to contents shifting.
+Buyer pays for USPS Priority Mail shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 24 May 2016 15:48:41 +0000</listdate>
+    <saledate>Thu, 29 Sep 2016 13:46:03 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>verygood</condition>
+    <notes>Excellent condition. Partially punched -- just counters to play Shannon vs. Chesapeake scenario. One log sheet used. Box is tight with minimal shelf scuffing.
+Add $15.00 for shipping via USPS.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Oct 2016 08:53:05 +0000</listdate>
+    <saledate>Fri, 14 Oct 2016 21:04:09 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/215074/item/4937770#4937770]Item for Geeklist _T_E_M_P_T_A_G_quot;AUCTION: Octoberly purge - time to SCARE up some sales!  INTL Ship [Navegador, Machi Koro+exp, Carc: The City, Pirate_T_E_M_P_T_A_G_#039;s Cove, Ticket to Ride: Europe, Trans Europa, Dogfight and More!!]_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+Reserved for spidey412
+***If you have multiple items, be sure to ADD THEM ALL TO THE CART before checking out to simplify the process!***
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Dec 2016 23:34:43 +0000</listdate>
+    <saledate>Fri, 30 Dec 2016 00:12:23 +0000</saledate>
+    <price currency='USD'>23</price>
+    <condition>verygood</condition>
+    <notes>Smoke free home, unpunched, complete, good condition
+Will combine shipping</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 11 Jul 2014 19:52:07 +0000</listdate>
+    <saledate>Sat, 21 Jan 2017 20:20:48 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>verygood</condition>
+    <notes>The box has the usual shelfware to be expected of a near-forty year old game and the board has faded a little with age but the counters are all very bright and in very good condition. The game does not appear to have been played and is otherwise in mint condition.
+UK postage: £5 by MyHermes</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Mar 2015 17:31:02 +0000</listdate>
+    <saledate>Sun, 22 Jan 2017 20:53:22 +0000</saledate>
+    <price currency='EUR'>50</price>
+    <condition>good</condition>
+    <notes>Ah 2.nd edition - punched</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 14 Nov 2014 18:13:25 +0000</listdate>
+    <saledate>Sat, 25 Feb 2017 15:02:03 +0000</saledate>
+    <price currency='GBP'>25</price>
+    <condition>good</condition>
+    <notes>Weight: 1200g</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 13 Feb 2017 02:10:26 +0000</listdate>
+    <saledate>Fri, 10 Mar 2017 01:08:24 +0000</saledate>
+    <price currency='USD'>50</price>
+    <condition>likenew</condition>
+    <notes>unpunched copy of game.  Box has shelf wear and some tape remnants.</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 31 Jan 2017 17:16:09 +0000</listdate>
+    <saledate>Mon, 10 Apr 2017 08:55:10 +0000</saledate>
+    <price currency='GBP'>15</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 08 Mar 2017 20:39:29 +0000</listdate>
+    <saledate>Thu, 13 Apr 2017 01:03:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>likenew</condition>
+    <notes>Add shipping to the price</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 24 Apr 2017 15:00:32 +0000</listdate>
+    <saledate>Mon, 24 Apr 2017 15:07:33 +0000</saledate>
+    <price currency='USD'>15</price>
+    <condition>verygood</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/222664/item/5328516#5328516]Item for Geeklist _T_E_M_P_T_A_G_quot;Help an Addict Out Auction. OOP, Eurogames, Splotter_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 17 Jan 2015 22:52:26 +0000</listdate>
+    <saledate>Sat, 06 May 2017 05:33:33 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>verygood</condition>
+    <notes>Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men (Battleline Edition) (1974)
+ONLY 50 Counters Punched OUT  _T_E_M_P_T_A_G_amp; sorted in Zip Locks bags ( The rest still on tree)
+Box : Excellent All Square... right out of Shrink
+41 Year Old game.    RARE
+Nice Addition to Game Collection
+.
+Location04</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 30 Apr 2017 23:00:41 +0000</listdate>
+    <saledate>Sun, 21 May 2017 23:08:18 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>good</condition>
+    <notes>My late husband collected board games.  Didn’t always play all of them, but he loved to collect. Time to find new homes for the games.  He took excellent care of his games, and if they were played, no food or drinks were allowed near  the game playing area.  
+One corner of the box id is split</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 18 May 2017 10:26:19 +0000</listdate>
+    <saledate>Fri, 26 May 2017 19:15:40 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>acceptable</condition>
+    <notes>Punched, complete, rules are well worn but legible.
+PayPal or US Postal Money Order
+Other methods of payment may be accepted but contact me before ordering.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 13 Nov 2014 17:28:31 +0000</listdate>
+    <saledate>Wed, 14 Jun 2017 15:34:18 +0000</saledate>
+    <price currency='USD'>100</price>
+    <condition>new</condition>
+    <notes>Reserved for Terry Lewis
+Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men (Avalon Hill First edition) (1975)
+Shrink Wrapped .....   40 Year Old game
+Box Mint 
+Nice addition to Game Collection
+.
+Location07</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 07 Feb 2017 14:40:04 +0000</listdate>
+    <saledate>Tue, 27 Jun 2017 20:20:47 +0000</saledate>
+    <price currency='EUR'>55</price>
+    <condition>good</condition>
+    <notes>Postage:
+Versandkosten innerhalb Deutschlands 6 Euro (inkl. 19% Mwst.)
+German customers pay 6 Euros.
+EU and Switzerland customers:
+- 13 € up to 2 kilos of games
+- 16 € up to 5 kilos of games
+Postage non-EU:
+- 19 € up to 2 kilos of games
+- 36 € up to 5 kilos of games
+Private sale without warranty.
+Privater Verkauf unter Ausschluss jeder Gewährleistung.</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 06 May 2017 08:44:02 +0000</listdate>
+    <saledate>Mon, 03 Jul 2017 12:38:15 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>verygood</condition>
+    <notes>Played a handful of times, in excellent condition</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 16 Jul 2017 01:59:57 +0000</listdate>
+    <saledate>Wed, 16 Aug 2017 18:06:16 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Clean, unpunched copy. Box cover has no splits and shows normal wear. Log Book unused.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 10 Aug 2017 12:40:49 +0000</listdate>
+    <saledate>Fri, 06 Oct 2017 07:19:17 +0000</saledate>
+    <price currency='EUR'>40</price>
+    <condition>good</condition>
+    <notes></notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 12 Sep 2017 20:06:31 +0000</listdate>
+    <saledate>Fri, 10 Nov 2017 19:51:27 +0000</saledate>
+    <price currency='EUR'>59</price>
+    <condition>verygood</condition>
+    <notes>Einmal gespielt, komplett und in exzellentem Zustand. Teilweise punched. Versand 7 Euro.
+Falls auf paypal bestanden wird, bitte 8% auf den Endbetrag incl. Versand dazu rechnen.
+Played one, complete and excellent condition. Game is partially punched.
+Shipping Europ e 15 Euros.
+If you insist on Paypal, please add 8% to the cost of the game and shipping.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 19 Nov 2017 17:06:44 +0000</listdate>
+    <saledate>Wed, 29 Nov 2017 04:40:09 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>90% unpunched. Received in math trade and previous owner(s) must_T_E_M_P_T_A_G_#039;ve only played one battle.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Oct 2017 22:09:30 +0000</listdate>
+    <saledate>Tue, 12 Dec 2017 10:37:21 +0000</saledate>
+    <price currency='USD'>25</price>
+    <condition>good</condition>
+    <notes>Box has some wear.  Game has been played as shows a bit of wear.  All Game pieces present and previous player notes included!</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 21 Jan 2018 03:54:59 +0000</listdate>
+    <saledate>Mon, 05 Feb 2018 20:18:26 +0000</saledate>
+    <price currency='USD'>20</price>
+    <condition>verygood</condition>
+    <notes>complete, unpunched, 1 corner of lid popped, bottom of box a little bent down on sides</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 10 Feb 2018 16:15:55 +0000</listdate>
+    <saledate>Sat, 17 Feb 2018 15:12:39 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>Minor wear on box, all corners intact.  Counters bagged</notes>
+   </listing>
+      <listing>
+    <listdate>Tue, 13 Feb 2018 20:37:04 +0000</listdate>
+    <saledate>Wed, 28 Feb 2018 20:07:20 +0000</saledate>
+    <price currency='USD'>12</price>
+    <condition>acceptable</condition>
+    <notes>Much loved and played copy.  Box is in good shape other than typical shelve wear.  One copy of ship log left - thank God for Xerox.  
+Bonus copy of Avalon General magazine included.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 09 Mar 2018 00:22:11 +0000</listdate>
+    <saledate>Sun, 01 Apr 2018 13:24:17 +0000</saledate>
+    <price currency='USD'>125</price>
+    <condition>likenew</condition>
+    <notes>Shrink removed, but unpunched and unplayed. It_T_E_M_P_T_A_G_#039;s in beatiful condition. There are copies of several articles on the game from The General in the box.</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 02 Apr 2018 16:18:47 +0000</listdate>
+    <saledate>Thu, 12 Apr 2018 17:00:54 +0000</saledate>
+    <price currency='EUR'>20</price>
+    <condition>good</condition>
+    <notes>Complete
+Game in good shape
+Box has minor shelfwear
+I pay the Geek, you pay Paypal</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 16 Apr 2018 18:04:14 +0000</listdate>
+    <saledate>Tue, 17 Apr 2018 01:37:18 +0000</saledate>
+    <price currency='USD'>35</price>
+    <condition>likenew</condition>
+    <notes>Complete, unpunched, unblemished, zero wear and tear, all components completely unused. The box is very slightly yellowing with age, but is basically unblemished. Incredible for a 30+ year old box.
+The rule book is the _T_E_M_P_T_A_G_quot;fixed_T_E_M_P_T_A_G_quot; version with the center pages in place.
+I am unsure that all the components come from the same print run, and have no way to check, which is why I rated this as _T_E_M_P_T_A_G_quot;like new_T_E_M_P_T_A_G_quot;. This copy has been opened and perused, and has been owned by more than one person. I can say for sure is that it_T_E_M_P_T_A_G_#039;s a complete copy with all the components in unused condition, but it may not be precisely like it just came out of the shrinkwrap.</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Mar 2018 04:23:03 +0000</listdate>
+    <saledate>Tue, 24 Apr 2018 12:25:27 +0000</saledate>
+    <price currency='USD'>36</price>
+    <condition>likenew</condition>
+    <notes>Unpunched, very good overall including the box. Supplemented with a copy of the article _T_E_M_P_T_A_G_quot;Rerigging Wooden Ships _T_E_M_P_T_A_G_amp; Iron Men - Variants_T_E_M_P_T_A_G_quot; from Battleplan. Maybe some others too. 
+Add $10 for an additional set of VG punched counters</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 22 Mar 2018 18:06:20 +0000</listdate>
+    <saledate>Thu, 26 Apr 2018 13:22:53 +0000</saledate>
+    <price currency='EUR'>35</price>
+    <condition>likenew</condition>
+    <notes>punched but never used</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 17 May 2018 05:36:37 +0000</listdate>
+    <saledate>Thu, 17 May 2018 14:24:51 +0000</saledate>
+    <price currency='USD'>8</price>
+    <condition>acceptable</condition>
+    <notes>Reserved for Geoffrey Frost.</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 12 Jul 2018 19:34:39 +0000</listdate>
+    <saledate>Fri, 13 Jul 2018 01:53:56 +0000</saledate>
+    <price currency='CAD'>10</price>
+    <condition>good</condition>
+    <notes>box is slightly worn with split on one corner repaired</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 06 Aug 2018 07:42:22 +0000</listdate>
+    <saledate>Mon, 06 Aug 2018 09:51:41 +0000</saledate>
+    <price currency='USD'>21</price>
+    <condition>acceptable</condition>
+    <notes>This game is being sold as part of the _T_E_M_P_T_A_G_quot;A Wargamer_T_E_M_P_T_A_G_#039;s Dream Auction...many unpunched and a few in shrink._T_E_M_P_T_A_G_quot; This item was won by joevano. 
+Shipping will be an additional cost, based on the size and quantity of games you won, per the auction rules. Due to the high volume of games in the auction, please allow up to two weeks for the game to ship after payment.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 18 Jul 2018 03:15:12 +0000</listdate>
+    <saledate>Wed, 08 Aug 2018 19:02:59 +0000</saledate>
+    <price currency='USD'>28</price>
+    <condition>verygood</condition>
+    <notes>punched, verified complete and only the best counters culled from my WS_T_E_M_P_T_A_G_amp;IM pool. VG box too. plus extras such as _T_E_M_P_T_A_G_quot;Rerigging WS_T_E_M_P_T_A_G_amp;IM_T_E_M_P_T_A_G_quot; from Battleplan series of variants,optionals _T_E_M_P_T_A_G_amp; suggested amendments to the game.  these are oriented towards the engine of the game and procedures of play rather than scenario/OOB modifications like adding the Swiss Berne Class from Jagdpanther V4N1</notes>
+   </listing>
+      <listing>
+    <listdate>Fri, 02 Nov 2018 01:54:46 +0000</listdate>
+    <saledate>Fri, 02 Nov 2018 04:53:31 +0000</saledate>
+    <price currency='USD'>13</price>
+    <condition>good</condition>
+    <notes>This sale has been auto-generated for the auction: [geekurl=/geeklist/247428/item/6491090#6491090]Item for Geeklist _T_E_M_P_T_A_G_quot;Trim down my collection auction ending 11/3_T_E_M_P_T_A_G_quot; [/geekurl]
+Please do not purchase if you didn_T_E_M_P_T_A_G_#039;t win this auction.
+for AddictArts</notes>
+   </listing>
+      <listing>
+    <listdate>Mon, 08 Oct 2018 13:06:00 +0000</listdate>
+    <saledate>Sun, 11 Nov 2018 03:38:50 +0000</saledate>
+    <price currency='USD'>30</price>
+    <condition>verygood</condition>
+    <notes>200th Anniv Edition.  Still sealed in shrink wrap, but one section of shrink wrap top right corner has torn away a bit. 
+Box may have a slight yellowing and musty smell from basement storage. Salvaged from a lot of games I bought at an estate sale. 
+Best of the lot.  Postage extra. Thanks all.</notes>
+   </listing>
+      <listing>
+    <listdate>Wed, 19 Sep 2018 22:19:03 +0000</listdate>
+    <saledate>Thu, 13 Dec 2018 16:58:14 +0000</saledate>
+    <price currency='USD'>54</price>
+    <condition>likenew</condition>
+    <notes>NEAR MINT Like New UNPUNCHED Copy</notes>
+   </listing>
+      <listing>
+    <listdate>Sat, 15 Dec 2018 14:34:20 +0000</listdate>
+    <saledate>Sat, 15 Dec 2018 18:22:39 +0000</saledate>
+    <price currency='GBP'>6</price>
+    <condition>good</condition>
+    <notes>Appears to be complete, box is slightly worn, but otherwise fine. Booklets and paper sheets all in good nic.
+postage £5 in uk 2nd class, more for international</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 22 Apr 2018 05:02:12 +0000</listdate>
+    <saledate>Thu, 21 Feb 2019 16:13:37 +0000</saledate>
+    <price currency='USD'>75</price>
+    <condition>new</condition>
+    <notes>New in shrink wrap. Has 1975 copyright date on the front cover.
+One tiny hole in the shrink wrap.  No damage or wear to box.
+Price does not include postage.</notes>
+   </listing>
+      <listing>
+    <listdate>Sun, 20 Jan 2019 15:18:56 +0000</listdate>
+    <saledate>Thu, 28 Feb 2019 21:25:05 +0000</saledate>
+    <price currency='USD'>29.96</price>
+    <condition>verygood</condition>
+    <notes>Condition: slight fade on box top and slightly bent on upper left corner</notes>
+   </listing>
+      <listing>
+    <listdate>Thu, 14 Mar 2019 02:23:47 +0000</listdate>
+    <saledate>Thu, 14 Mar 2019 02:58:01 +0000</saledate>
+    <price currency='CAD'>20</price>
+    <condition>verygood</condition>
+    <notes>Set up for previously confirmed sale.</notes>
+   </listing>
+     </marketplacehistory>   
+  
+    
+  </boardgame>
+ </boardgames>
