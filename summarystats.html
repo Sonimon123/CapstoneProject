@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style>
+			ul {
+			  list-style-type: none;
+			  margin: 0;
+			  padding: 0;
+			  overflow: hidden;
+			  background-color: #333;
+			}
+
+			li {
+			  float: left;
+			}
+
+			li a {
+			  display: block;
+			  color: white;
+			  text-align: center;
+			  padding: 14px 16px;
+			  text-decoration: none;
+			}
+
+			/* Change the link color to #111 (black) on hover */
+			li a:hover {
+			  background-color: #111;
+			}
+		</style>
+		<title>Board Game Data Analysis</title>
+	</head>
+	<body>
+	
+		<ul>
+		  <li><a href="index.html">Back to Main Page</a></li>
+		  
+		</ul>		
+		
+		<h1>Board Game Data Analysis</h1>
+		<hr>
+		<h2>Summary Statistics Table</h2>
+		<style type="text/css">
+		.tg  {border-collapse:collapse;border-spacing:0;}
+		.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+		.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+		.tg .tg-s268{text-align:left}
+		.tg .tg-0lax{text-align:left;vertical-align:top}
+		</style>
+		<table class="tg">
+		  <tr>
+			<th class="tg-s268">Rank</th>
+			<th class="tg-s268"> </th>
+			<th class="tg-s268">Rating</th>
+			<th class="tg-0lax"> </th>
+			<th class="tg-0lax">Owners</th>
+			<th class="tg-0lax"> </th>
+			<th class="tg-0lax">Year</th>
+			<th class="tg-0lax"> </th>
+			<th class="tg-0lax">Min Players</th>
+			<th class="tg-0lax"> </th>
+			<th class="tg-0lax">Max Players</th>
+			<th class="tg-0lax"> </th>
+			<th class="tg-0lax">Playtime</th>
+			<th class="tg-0lax"> </th>
+			<th class="tg-0lax">Age</th>
+			<th class="tg-0lax"> </th>
+			<th class="tg-0lax">Weight</th>
+			<th class="tg-0lax"> </th>
+			<th class="tg-0lax">Number of Iterations</th>
+			<th class="tg-0lax"> </th>
+			<th class="tg-0lax">Number of Expansions</th>
+			<th class="tg-0lax"> </th>
+		  </tr>
+		  <tr>
+			<td class="tg-s268"></td>
+			<td class="tg-s268"></td>
+			<td class="tg-s268"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+			<td class="tg-0lax"></td>
+		  </tr>
+		  <tr>
+			<td class="tg-s268">Mean</td>
+			<td class="tg-s268">8518.837743</td>
+			<td class="tg-s268">Mean</td>
+			<td class="tg-0lax">6.353785177</td>
+			<td class="tg-0lax">Mean</td>
+			<td class="tg-0lax">1259.812346</td>
+			<td class="tg-0lax">Mean</td>
+			<td class="tg-0lax">1983.644092</td>
+			<td class="tg-0lax">Mean</td>
+			<td class="tg-0lax">2.041563786</td>
+			<td class="tg-0lax">Mean</td>
+			<td class="tg-0lax">5.550793651</td>
+			<td class="tg-0lax">Mean</td>
+			<td class="tg-0lax">97.12939447</td>
+			<td class="tg-0lax">Mean</td>
+			<td class="tg-0lax">9.53127572</td>
+			<td class="tg-0lax">Mean</td>
+			<td class="tg-0lax">2.004005056</td>
+			<td class="tg-0lax">Mean</td>
+			<td class="tg-0lax">0.267195767</td>
+			<td class="tg-0lax">Mean</td>
+			<td class="tg-0lax">1.246854791</td>
+		  </tr>
+		  <tr>
+			<td class="tg-0lax">Standard Error</td>
+			<td class="tg-0lax">37.74501506</td>
+			<td class="tg-0lax">Standard Error</td>
+			<td class="tg-0lax">0.007002049</td>
+			<td class="tg-0lax">Standard Error</td>
+			<td class="tg-0lax">32.76843364</td>
+			<td class="tg-0lax">Standard Error</td>
+			<td class="tg-0lax">1.600160443</td>
+			<td class="tg-0lax">Standard Error</td>
+			<td class="tg-0lax">0.005177458</td>
+			<td class="tg-0lax">Standard Error</td>
+			<td class="tg-0lax">0.121479244</td>
+			<td class="tg-0lax">Standard Error</td>
+			<td class="tg-0lax">8.316837767</td>
+			<td class="tg-0lax">Standard Error</td>
+			<td class="tg-0lax">0.028011142</td>
+			<td class="tg-0lax">Standard Error</td>
+			<td class="tg-0lax">0.006456315</td>
+			<td class="tg-0lax">Standard Error</td>
+			<td class="tg-0lax">0.006335386</td>
+			<td class="tg-0lax">Standard Error</td>
+			<td class="tg-0lax">0.053690742</td>
+		  </tr>
+		  <tr>
+			<td class="tg-0lax">Median</td>
+			<td class="tg-0lax">8512.5</td>
+			<td class="tg-0lax">Median</td>
+			<td class="tg-0lax">6.38584</td>
+			<td class="tg-0lax">Median</td>
+			<td class="tg-0lax">297</td>
+			<td class="tg-0lax">Median</td>
+			<td class="tg-0lax">2009</td>
+			<td class="tg-0lax">Median</td>
+			<td class="tg-0lax">2</td>
+			<td class="tg-0lax">Median</td>
+			<td class="tg-0lax">4</td>
+			<td class="tg-0lax">Median</td>
+			<td class="tg-0lax">45</td>
+			<td class="tg-0lax">Median</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">Median</td>
+			<td class="tg-0lax">1.9825</td>
+			<td class="tg-0lax">Median</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">Median</td>
+			<td class="tg-0lax">0</td>
+		  </tr>
+		  <tr>
+			<td class="tg-0lax">Mode</td>
+			<td class="tg-0lax">9113</td>
+			<td class="tg-0lax">Mode</td>
+			<td class="tg-0lax">6</td>
+			<td class="tg-0lax">Mode</td>
+			<td class="tg-0lax">98</td>
+			<td class="tg-0lax">Mode</td>
+			<td class="tg-0lax">2016</td>
+			<td class="tg-0lax">Mode</td>
+			<td class="tg-0lax">2</td>
+			<td class="tg-0lax">Mode</td>
+			<td class="tg-0lax">4</td>
+			<td class="tg-0lax">Mode</td>
+			<td class="tg-0lax">30</td>
+			<td class="tg-0lax">Mode</td>
+			<td class="tg-0lax">12</td>
+			<td class="tg-0lax">Mode</td>
+			<td class="tg-0lax">1</td>
+			<td class="tg-0lax">Mode</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">Mode</td>
+			<td class="tg-0lax">0</td>
+		  </tr>
+		  <tr>
+			<td class="tg-0lax">Standard Deviation</td>
+			<td class="tg-0lax">4922.795102</td>
+			<td class="tg-0lax">Standard Deviation</td>
+			<td class="tg-0lax">0.913224001</td>
+			<td class="tg-0lax">Standard Deviation</td>
+			<td class="tg-0lax">4273.737455</td>
+			<td class="tg-0lax">Standard Deviation</td>
+			<td class="tg-0lax">208.6967505</td>
+			<td class="tg-0lax">Standard Deviation</td>
+			<td class="tg-0lax">0.675256407</td>
+			<td class="tg-0lax">Standard Deviation</td>
+			<td class="tg-0lax">15.84361336</td>
+			<td class="tg-0lax">Standard Deviation</td>
+			<td class="tg-0lax">1084.701865</td>
+			<td class="tg-0lax">Standard Deviation</td>
+			<td class="tg-0lax">3.653280099</td>
+			<td class="tg-0lax">Standard Deviation</td>
+			<td class="tg-0lax">0.84204809</td>
+			<td class="tg-0lax">Standard Deviation</td>
+			<td class="tg-0lax">0.82627622</td>
+			<td class="tg-0lax">Standard Deviation</td>
+			<td class="tg-0lax">7.002474961</td>
+		  </tr>
+		  <tr>
+			<td class="tg-0lax">Sample Variance</td>
+			<td class="tg-0lax">24233911.61</td>
+			<td class="tg-0lax">Sample Variance</td>
+			<td class="tg-0lax">0.833978076</td>
+			<td class="tg-0lax">Sample Variance</td>
+			<td class="tg-0lax">18264831.83</td>
+			<td class="tg-0lax">Sample Variance</td>
+			<td class="tg-0lax">43554.33367</td>
+			<td class="tg-0lax">Sample Variance</td>
+			<td class="tg-0lax">0.455971215</td>
+			<td class="tg-0lax">Sample Variance</td>
+			<td class="tg-0lax">251.0200843</td>
+			<td class="tg-0lax">Sample Variance</td>
+			<td class="tg-0lax">1176578.135</td>
+			<td class="tg-0lax">Sample Variance</td>
+			<td class="tg-0lax">13.34645548</td>
+			<td class="tg-0lax">Sample Variance</td>
+			<td class="tg-0lax">0.709044986</td>
+			<td class="tg-0lax">Sample Variance</td>
+			<td class="tg-0lax">0.682732391</td>
+			<td class="tg-0lax">Sample Variance</td>
+			<td class="tg-0lax">49.03465558</td>
+		  </tr>
+		  <tr>
+			<td class="tg-0lax">Kurtosis</td>
+			<td class="tg-0lax">-1.199494738</td>
+			<td class="tg-0lax">Kurtosis</td>
+			<td class="tg-0lax">0.728742845</td>
+			<td class="tg-0lax">Kurtosis</td>
+			<td class="tg-0lax">209.3585942</td>
+			<td class="tg-0lax">Kurtosis</td>
+			<td class="tg-0lax">155.6960859</td>
+			<td class="tg-0lax">Kurtosis</td>
+			<td class="tg-0lax">10.55320004</td>
+			<td class="tg-0lax">Kurtosis</td>
+			<td class="tg-0lax">2748.975384</td>
+			<td class="tg-0lax">Kurtosis</td>
+			<td class="tg-0lax">9343.916183</td>
+			<td class="tg-0lax">Kurtosis</td>
+			<td class="tg-0lax">1.001033222</td>
+			<td class="tg-0lax">Kurtosis</td>
+			<td class="tg-0lax">-0.010484353</td>
+			<td class="tg-0lax">Kurtosis</td>
+			<td class="tg-0lax">455.7289496</td>
+			<td class="tg-0lax">Kurtosis</td>
+			<td class="tg-0lax">1033.679534</td>
+		  </tr>
+		  <tr>
+			<td class="tg-0lax">Skewness</td>
+			<td class="tg-0lax">0.002478751</td>
+			<td class="tg-0lax">Skewness</td>
+			<td class="tg-0lax">-0.323634669</td>
+			<td class="tg-0lax">Skewness</td>
+			<td class="tg-0lax">11.70365011</td>
+			<td class="tg-0lax">Skewness</td>
+			<td class="tg-0lax">-11.41682422</td>
+			<td class="tg-0lax">Skewness</td>
+			<td class="tg-0lax">1.64362919</td>
+			<td class="tg-0lax">Skewness</td>
+			<td class="tg-0lax">45.64887913</td>
+			<td class="tg-0lax">Skewness</td>
+			<td class="tg-0lax">90.5099768</td>
+			<td class="tg-0lax">Skewness</td>
+			<td class="tg-0lax">-0.894279562</td>
+			<td class="tg-0lax">Skewness</td>
+			<td class="tg-0lax">0.4220625</td>
+			<td class="tg-0lax">Skewness</td>
+			<td class="tg-0lax">14.63839803</td>
+			<td class="tg-0lax">Skewness</td>
+			<td class="tg-0lax">23.51501824</td>
+		  </tr>
+		  <tr>
+			<td class="tg-0lax">Range</td>
+			<td class="tg-0lax">17056</td>
+			<td class="tg-0lax">Range</td>
+			<td class="tg-0lax">8.5446</td>
+			<td class="tg-0lax">Range</td>
+			<td class="tg-0lax">124188</td>
+			<td class="tg-0lax">Range</td>
+			<td class="tg-0lax">5520</td>
+			<td class="tg-0lax">Range</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">Range</td>
+			<td class="tg-0lax">999</td>
+			<td class="tg-0lax">Range</td>
+			<td class="tg-0lax">120000</td>
+			<td class="tg-0lax">Range</td>
+			<td class="tg-0lax">25</td>
+			<td class="tg-0lax">Range</td>
+			<td class="tg-0lax">5</td>
+			<td class="tg-0lax">Range</td>
+			<td class="tg-0lax">37</td>
+			<td class="tg-0lax">Range</td>
+			<td class="tg-0lax">433</td>
+		  </tr>
+		  <tr>
+			<td class="tg-0lax">Minimum</td>
+			<td class="tg-0lax">1</td>
+			<td class="tg-0lax">Minimum</td>
+			<td class="tg-0lax">1.05254</td>
+			<td class="tg-0lax">Minimum</td>
+			<td class="tg-0lax">3</td>
+			<td class="tg-0lax">Minimum</td>
+			<td class="tg-0lax">-3500</td>
+			<td class="tg-0lax">Minimum</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">Minimum</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">Minimum</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">Minimum</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">Minimum</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">Minimum</td>
+			<td class="tg-0lax">0</td>
+			<td class="tg-0lax">Minimum</td>
+			<td class="tg-0lax">0</td>
+		  </tr>
+		  <tr>
+			<td class="tg-0lax">Maximum</td>
+			<td class="tg-0lax">17057</td>
+			<td class="tg-0lax">Maximum</td>
+			<td class="tg-0lax">9.59714</td>
+			<td class="tg-0lax">Maximum</td>
+			<td class="tg-0lax">124191</td>
+			<td class="tg-0lax">Maximum</td>
+			<td class="tg-0lax">2020</td>
+			<td class="tg-0lax">Maximum</td>
+			<td class="tg-0lax">10</td>
+			<td class="tg-0lax">Maximum</td>
+			<td class="tg-0lax">999</td>
+			<td class="tg-0lax">Maximum</td>
+			<td class="tg-0lax">120000</td>
+			<td class="tg-0lax">Maximum</td>
+			<td class="tg-0lax">25</td>
+			<td class="tg-0lax">Maximum</td>
+			<td class="tg-0lax">5</td>
+			<td class="tg-0lax">Maximum</td>
+			<td class="tg-0lax">37</td>
+			<td class="tg-0lax">Maximum</td>
+			<td class="tg-0lax">433</td>
+		  </tr>
+		  <tr>
+			<td class="tg-0lax">Sum</td>
+			<td class="tg-0lax">144905430</td>
+			<td class="tg-0lax">Sum</td>
+			<td class="tg-0lax">108077.8859</td>
+			<td class="tg-0lax">Sum</td>
+			<td class="tg-0lax">21429408</td>
+			<td class="tg-0lax">Sum</td>
+			<td class="tg-0lax">33741786</td>
+			<td class="tg-0lax">Sum</td>
+			<td class="tg-0lax">34727</td>
+			<td class="tg-0lax">Sum</td>
+			<td class="tg-0lax">94419</td>
+			<td class="tg-0lax">Sum</td>
+			<td class="tg-0lax">1652171</td>
+			<td class="tg-0lax">Sum</td>
+			<td class="tg-0lax">162127</td>
+			<td class="tg-0lax">Sum</td>
+			<td class="tg-0lax">34088.126</td>
+			<td class="tg-0lax">Sum</td>
+			<td class="tg-0lax">4545</td>
+			<td class="tg-0lax">Sum</td>
+			<td class="tg-0lax">21209</td>
+		  </tr>
+		  <tr>
+			<td class="tg-0lax">Count</td>
+			<td class="tg-0lax">17010</td>
+			<td class="tg-0lax">Count</td>
+			<td class="tg-0lax">17010</td>
+			<td class="tg-0lax">Count</td>
+			<td class="tg-0lax">17010</td>
+			<td class="tg-0lax">Count</td>
+			<td class="tg-0lax">17010</td>
+			<td class="tg-0lax">Count</td>
+			<td class="tg-0lax">17010</td>
+			<td class="tg-0lax">Count</td>
+			<td class="tg-0lax">17010</td>
+			<td class="tg-0lax">Count</td>
+			<td class="tg-0lax">17010</td>
+			<td class="tg-0lax">Count</td>
+			<td class="tg-0lax">17010</td>
+			<td class="tg-0lax">Count</td>
+			<td class="tg-0lax">17010</td>
+			<td class="tg-0lax">Count</td>
+			<td class="tg-0lax">17010</td>
+			<td class="tg-0lax">Count</td>
+			<td class="tg-0lax">17010</td>
+		  </tr>
+		</table>
+		<hr>
+	</body>
+</html>

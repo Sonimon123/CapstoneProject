@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Board Game Data Analysis</title>
+	</head>
+	<body>
+	
+		<ul>
+		  <li><a href="#Introduction">Introduction</a></li>
+		  <li><a href="#Dataset Info">Dataset Info</a></li>
+		  <li><a href="#Summary Statistics">Summary Statistics</a></li>
+		  <li><a href="#Correlations">Correlations</a></li>
+		  <li><a href="#Regression Analysis">Regression Analysis</a></li>
+		  <li><a href="topbottom5.html">Top and Bottom 5 Games</a></li>
+		  <li><a href="correlationtable.html">Correlation Table</a></li>
+		  <li><a href="summarystats.html">Summary Statistic Table</a></li>
+		  
+		</ul>		
+		
+		<h1>Board Game Data Analysis</h1>
+		<h3>An analysis of data from BoardGameGeek.com covering over 15000 games</h3>
+		<h3>A project by JR Kargbo</h3>
+		<p><img src="JRPicture3.jpg" alt="JR Kargbo"></p>
+		
+		<hr>
+		
+		<h1 id="Introduction">Introduction</h1>
+		<p>This is a webpage describing an analysis of some data collected from BoardGameGeek.com. Board Game Geek is the internet's largest database on board games, with information on tens of thousands of titles. The site also has a large community of users, who mainly consist of a group of fans of more niche, modern, hobbyist games rather than more traditional classic games. Users use the site to rate games, log their collections, and discuss their thoughts, opinions, and strategies with others. This project is an attempt to see how much different aspects of a game can relate to it's popularity amongst the site's users. It does this by looking at 3 dependant variables: the game's rank, the game's average rating, and the amount of people who own the game. We find out how much of a correlation there is between these dependant variables and many different factors, such as the mechanics a game uses, its complexity and it's player count. Finally, on the 5 variables with the most positive and negative correlation, we drill deeper in on the relationship with a multivariable linear regression. For an idea of what kind of games the site's users like and dislike, here's a page showing the top and bottom 5 ranked games on the site:</p>
+		<p><a href="topbottom5.html">Top and Bottom 5 Games</a></p>
+		
+		<hr>
+		
+		<h1 id="Dataset Info">Dataset Info</h1>
+		<p>While there are tens of thousands of games on the site, many of them are not ranked due to a low number of votes. These are usually titles that either haven't been released yet or are so obscure that most member's won't care about them. As such, as a way to reasonably limit the dataset, as well as to help improve the quality of the data, I've decided to only track ranked games. Since this still leaves us with over 17000 games being analyzed, I considered this to be more than enough to gain a good picture of the site. In addition, we're not looking at expansions that require the original game, only standalone releases.</p>
+		<p>To explain our dependant variables, the Ranking of a game is controlled mainly by it's Geek Rating (a variable we're not tracking). The precice way the Rank and Geek Rating are determined are not 100 percent known (in order to prevent people from gaming the system), but what we do know is that a Bayesian Average, where we add a good amount of dummy ratings to the game's score, skewing most games closer to a baseline level. This means that games require more ratings to increase it's Rank and Geek Rating compared to its average score. Thankfully, the average rating and the number of owners are much simpler variables: The average rating is simply an average of all of the ratings users have given a game (each game can only be rated by a user once), and the amount of owners are the amount of people on the site who have logged that they currently own the game.</p>
+		<p>There's 3 categories of indepedent variables we're looking at: </p>
+		<h3>General Variables</h3>
+		<p>'Year', 'Min Players', 'Max Players', 'Playtime', 'Age', 'Weight', 'Number of Iterations', 'Number of Expansions'</p>
+		<h3>Game Mechanics</h3>
+		<p>'Acting Mechanic', 'Action Point Allowance System Mechanic', 'Area Enclosure Mechanic', 'Area-Impulse Mechanic', 'Betting/Wagering Mechanic', 'Card Drafting Mechanic', 'Commodity Speculation Mechanic', 'Crayon Rail System Mechanic', 'Dice Rolling Mechanic', 'Hand Management Mechanic', 'Hidden Traitor Mechanic', 'Memory Mechanic', 'Paper-and-Pencil Mechanic', 'Pattern Building Mechanic', 'Pick-up and Deliver Mechanic', 'Point to Point Movement Mechanic', 'Rock-Paper-Scissors Mechanic', 'Roll and Move Mechanic', 'Route/Network Building Mechanic', 'Set Collection Mechanic', 'Simultaneous Action Selection Mechanic', 'Stock Holding Mechanic', 'Take That Mechanic', 'Time Track Mechanic', 'Trick-Taking Mechanic', 'Variable Player Power Mechanic', 'Worker Placement Mechanic', 'Action Programming Mechanic', 'Area Control Mechanic', 'Area Movement Mechanic', 'Auction Mechanic', 'Battle Card Mechanic', 'Chit-Pull System Mechanic', 'Cooperative Mechanic', 'Deckbuilding Mechanic', 'Grid Movement Mechanic', 'Hex-and-Counter Mechanic', 'Line Drawing Mechanic', 'Modular Board Mechanic', 'Partnership Mechanic', 'Pattern Recognition Mechanic', 'Player Elimination Mechanic', 'Press Your Luck Mechanic', 'Role Playing Mechanic', 'Rondel Mechanic', 'Secret Unit Deployment Mechanic', 'Simulation Mechanic', 'Singing Mechanic', 'Storytelling Mechanic', 'Tile Placement Mechanic', 'Trading Mechanic', 'Variable Phase Order Mechanic', 'Voting Mechanic'</p>
+		<h3>Game Categories/Themes</h3>
+		<p>'Abstract Strategy Category', 'Adventure Category', 'American Civil War Category', 'American Revolutionary War Category', 'Ancient Category', 'Arabian Category', 'Bluffing Category', 'Card Game Category', 'City Building Category', 'Civilization Category', 'Comic Book/Strip Category', 'Dice Category', 'Educational Category', 'Environmental Category', 'Exploration Category', 'Fantasy Category', 'Fighting Category', 'Horror Category', 'Industry/Manufacturing Category', 'Mafia Category', 'Mature/Adult Category', 'Medical Category', 'Memory Category', 'Modern Warfare Category', 'Murder/Mystery Category', 'Mythology Category', 'Nautical Category', 'Novel-based Category', 'Party Game Category', 'Pirate Category', 'Post-Napoleonic Category', 'Print and Play Category', 'Racing Category', 'Religious Category', 'Science Fiction Category', 'Spy/Secret Agent Category', 'Territory Building Category', 'Transportation Category', 'Trivia Category', 'Vietnam War Category', 'Word Game Category', 'World War II Category', 'Action/Dexterity Category', 'Age of Reason Category', 'American Indian Wars Category', 'American West Category', 'Animals Category', 'Aviation/Flight Category', 'Book Category', 'Childrens Game Category', 'Civil War Category', 'Collectible Components Category', 'Deduction Category', 'Economic Category', 'Electronic Category', 'Expansion for Base Game Category', 'Fan Expansion Category', 'Farming Category', 'Game System Category', 'Humor Category', 'Korean War Category', 'Math Category', 'Maze Category', 'Medieval Category', 'Miniatures Category', 'Movies/TV/Radio Category', 'Music Category', 'Napoleonic Category', 'Negotiation Category', 'Number Category', 'Pike and Shot Category', 'Political Category', 'Prehistoric Category', 'Puzzle Category', 'Real-time Category', 'Renaissance Category', 'Space Exploration Category', 'Sports Category', 'Trains Category', 'Travel Category', 'Video Game Theme Category', 'Wargame Category', 'World War I Category', 'Zombies Category'</p>
+		
+		<hr>
+		
+		<h1 id="Summary Statistics">Summary Statistics</h1>
+		<p>For those who would like to see data such as the mean, median, and mode of a vew variables in the dataset, please see this link:</p>
+		<li><a href="summarystats.html">Summary Statistic Table</a></li>
+		
+		<hr>
+		
+		<h1 id="Correlations">Correlations</h1>
+		<p>To save time, correlation data was found using Excel, due to the simplicity involved in exporting and viewing the data. Here are the top 5 positive and negative correlations for each of the variables we want to look at:</p>
+		<h2>Positive Correlation</h2>
+		<h3>Ranking (Note that a lower rank is better, so a positive corelation is bad)</h3>
+		<ol>
+			<li>Roll and Move Mechanic: 0.24</li>
+			<li>Children's Game: 0.19</li>
+			<li>Trivia: 0.14</li>
+			<li>Movies/TV/Radio: 0.12</li>
+			<li>Party Game: 0.10</li>
+		</ol>
+		<h3>Average Rating</h3>
+		<ol>
+			<li>Weight: 0.48</li>
+			<li>Wargame: 0.23</li>
+			<li>Variable Player Powers: 0.19</li>
+			<li>Owners: 0.19</li>
+			<li>Miniatures: 0.19</li>
+		</ol>
+		<h3>Owners</h3>
+		<ol>
+			<li>Number of Iterations: 0.36</li>
+			<li>Number of Expansions: 0.29</li>
+			<li>Rating: 0.19</li>
+			<li>Variable Player Powers: 0.12</li>
+			<li>Hand Management Mechanic: 0.12</li>
+		</ol>
+		<h2>Negative Correlations</h2>
+		<h3>Ranking (Note once again that a lower rank is better, so a negative correlation is good)</h3>
+		<h4>Also, rating is very heavily correlated, but is due to the fact that it is a large, obvious, and public factor in determining rating, we aren't looking at it</h4>
+		<ol>
+			<li>Weight: -0.38</li>
+			<li>Owners: -0.34</li>
+			<li>Age: -0.21</li>
+			<li>Number of Expansions: -0.19</li>
+			<li>Variable Player Powers: -0.18</li>
+		</ol>
+		<h3>Average Rating</h3>
+		<h4>Once again, ranking is heavily correlated, but obvious</h4>
+		<ol>
+			<li>Roll and Move: -0.27</li>
+			<li>Children's Game: -0.22</li>
+			<li>Trivia: -0.15</li>
+			<li>Movies/TV/Radio: -0.14</li>
+			<li>Minimum Player Count: -0.14</li>
+		</ol>
+		<h3>Owners</h3>
+		<ol>
+			<li>Rating: -0.34</li>
+			<li>Hex-and-Counter Mechanic: -0.07</li>
+			<li>Wargame Category: -0.06</li>
+			<li>Children's Game: -0.05</li>
+			<li>World War II: -0.04</li>
+		</ol>
+		<p>Usually, a weak correlation will be from 0 to 0.3, a medium correlation will be about 0.3 to 0.7, and a strong correlation will be about 0.7 or higher (stick a negative symbol next to each value if we're talking about negative correlations). As such we can see that most of these correlations are pretty weak. More specifically, we see that, since the most negatively correlated values for owners are, other than Rating, incredibly weak, it shows that there aren't many themes or mechanics that can cause people to completely lose faith in a game and not buy it.</p>
+		<p>For more in depth info on the correlations in the data, please see the full table here:</p>
+		<p><a href="correlationtable.html">Correlation Table</a></p>
+		
+		<hr>
+	
+		<h1 id="Regression Analysis">Regression Analysis</h1>
+		<p>INSERT TEXT HERE</p>
+		
+		<hr>
+	
+	</body>
+</html>
