@@ -14,6 +14,7 @@
 		  <li><a href="topbottom5.html">Top and Bottom 5 Games</a></li>
 		  <li><a href="correlationtable.html">Correlation Table</a></li>
 		  <li><a href="summarystats.html">Summary Statistic Table</a></li>
+		  <li><a href="regression.html">Regression Analysis</a></li>
 		  
 		</ul>		
 		
@@ -25,7 +26,7 @@
 		<hr>
 		
 		<h1 id="Introduction">Introduction</h1>
-		<p>This is a webpage describing an analysis of some data collected from BoardGameGeek.com. Board Game Geek is the internet's largest database on board games, with information on tens of thousands of titles. The site also has a large community of users, who mainly consist of a group of fans of more niche, modern, hobbyist games rather than more traditional classic games. Users use the site to rate games, log their collections, and discuss their thoughts, opinions, and strategies with others. This project is an attempt to see how much different aspects of a game can relate to it's popularity amongst the site's users. It does this by looking at 3 dependant variables: the game's rank, the game's average rating, and the amount of people who own the game. We find out how much of a correlation there is between these dependant variables and many different factors, such as the mechanics a game uses, its complexity and it's player count. Finally, on the 5 variables with the most positive and negative correlation, we drill deeper in on the relationship with a multivariable linear regression. For an idea of what kind of games the site's users like and dislike, here's a page showing the top and bottom 5 ranked games on the site:</p>
+		<p>This is a webpage describing an analysis of some data collected from BoardGameGeek.com. Board Game Geek is the internet's largest database on board games, with information on tens of thousands of titles. The site also has a large community of users, who mainly consist of a group of fans of more niche, modern, hobbyist games rather than more traditional classic games. Users use the site to rate games, log their collections, and discuss their thoughts, opinions, and strategies with others. This project is an attempt to see how much different aspects of a game can relate to it's popularity amongst the site's users. It does this by looking at 3 dependant variables: the game's rank, the game's average rating, and the amount of people who own the game. We find out how much of a correlation there is between these dependant variables and many different factors, such as the mechanics a game uses, its complexity and it's player count. Finally, on the 5 variables with the most positive and negative correlation, we drill deeper in on the relationship with a multivariable linear regression. Hopefully, this analysis will help people create more games that appeal to this demographic. For an idea of what kind of games the site's users like and dislike, here's a page showing the top and bottom 5 ranked games on the site:</p>
 		<p><a href="topbottom5.html">Top and Bottom 5 Games</a></p>
 		
 		<hr>
@@ -36,16 +37,16 @@
 		<p>There's 3 categories of indepedent variables we're looking at: </p>
 		<h3>General Variables</h3>
 		<p>'Year', 'Min Players', 'Max Players', 'Playtime', 'Age', 'Weight', 'Number of Iterations', 'Number of Expansions'</p>
-		<h3>Game Mechanics</h3>
+		<h3>Game Mechanics (Booleans)</h3>
 		<p>'Acting Mechanic', 'Action Point Allowance System Mechanic', 'Area Enclosure Mechanic', 'Area-Impulse Mechanic', 'Betting/Wagering Mechanic', 'Card Drafting Mechanic', 'Commodity Speculation Mechanic', 'Crayon Rail System Mechanic', 'Dice Rolling Mechanic', 'Hand Management Mechanic', 'Hidden Traitor Mechanic', 'Memory Mechanic', 'Paper-and-Pencil Mechanic', 'Pattern Building Mechanic', 'Pick-up and Deliver Mechanic', 'Point to Point Movement Mechanic', 'Rock-Paper-Scissors Mechanic', 'Roll and Move Mechanic', 'Route/Network Building Mechanic', 'Set Collection Mechanic', 'Simultaneous Action Selection Mechanic', 'Stock Holding Mechanic', 'Take That Mechanic', 'Time Track Mechanic', 'Trick-Taking Mechanic', 'Variable Player Power Mechanic', 'Worker Placement Mechanic', 'Action Programming Mechanic', 'Area Control Mechanic', 'Area Movement Mechanic', 'Auction Mechanic', 'Battle Card Mechanic', 'Chit-Pull System Mechanic', 'Cooperative Mechanic', 'Deckbuilding Mechanic', 'Grid Movement Mechanic', 'Hex-and-Counter Mechanic', 'Line Drawing Mechanic', 'Modular Board Mechanic', 'Partnership Mechanic', 'Pattern Recognition Mechanic', 'Player Elimination Mechanic', 'Press Your Luck Mechanic', 'Role Playing Mechanic', 'Rondel Mechanic', 'Secret Unit Deployment Mechanic', 'Simulation Mechanic', 'Singing Mechanic', 'Storytelling Mechanic', 'Tile Placement Mechanic', 'Trading Mechanic', 'Variable Phase Order Mechanic', 'Voting Mechanic'</p>
-		<h3>Game Categories/Themes</h3>
+		<h3>Game Categories/Themes (Booleans)</h3>
 		<p>'Abstract Strategy Category', 'Adventure Category', 'American Civil War Category', 'American Revolutionary War Category', 'Ancient Category', 'Arabian Category', 'Bluffing Category', 'Card Game Category', 'City Building Category', 'Civilization Category', 'Comic Book/Strip Category', 'Dice Category', 'Educational Category', 'Environmental Category', 'Exploration Category', 'Fantasy Category', 'Fighting Category', 'Horror Category', 'Industry/Manufacturing Category', 'Mafia Category', 'Mature/Adult Category', 'Medical Category', 'Memory Category', 'Modern Warfare Category', 'Murder/Mystery Category', 'Mythology Category', 'Nautical Category', 'Novel-based Category', 'Party Game Category', 'Pirate Category', 'Post-Napoleonic Category', 'Print and Play Category', 'Racing Category', 'Religious Category', 'Science Fiction Category', 'Spy/Secret Agent Category', 'Territory Building Category', 'Transportation Category', 'Trivia Category', 'Vietnam War Category', 'Word Game Category', 'World War II Category', 'Action/Dexterity Category', 'Age of Reason Category', 'American Indian Wars Category', 'American West Category', 'Animals Category', 'Aviation/Flight Category', 'Book Category', 'Childrens Game Category', 'Civil War Category', 'Collectible Components Category', 'Deduction Category', 'Economic Category', 'Electronic Category', 'Expansion for Base Game Category', 'Fan Expansion Category', 'Farming Category', 'Game System Category', 'Humor Category', 'Korean War Category', 'Math Category', 'Maze Category', 'Medieval Category', 'Miniatures Category', 'Movies/TV/Radio Category', 'Music Category', 'Napoleonic Category', 'Negotiation Category', 'Number Category', 'Pike and Shot Category', 'Political Category', 'Prehistoric Category', 'Puzzle Category', 'Real-time Category', 'Renaissance Category', 'Space Exploration Category', 'Sports Category', 'Trains Category', 'Travel Category', 'Video Game Theme Category', 'Wargame Category', 'World War I Category', 'Zombies Category'</p>
 		
 		<hr>
 		
 		<h1 id="Summary Statistics">Summary Statistics</h1>
 		<p>For those who would like to see data such as the mean, median, and mode of a vew variables in the dataset, please see this link:</p>
-		<li><a href="summarystats.html">Summary Statistic Table</a></li>
+		<a href="summarystats.html">Summary Statistic Table</a>
 		
 		<hr>
 		
@@ -97,7 +98,7 @@
 		</ol>
 		<h3>Owners</h3>
 		<ol>
-			<li>Rating: -0.34</li>
+			<li>Rank: -0.34</li>
 			<li>Hex-and-Counter Mechanic: -0.07</li>
 			<li>Wargame Category: -0.06</li>
 			<li>Children's Game: -0.05</li>
@@ -110,8 +111,9 @@
 		<hr>
 	
 		<h1 id="Regression Analysis">Regression Analysis</h1>
-		<p>INSERT TEXT HERE</p>
-		
+		<p>The regression on this dataset was done using a Python module called Statsmodels, which allows you to perform a large amount of statisitc analysis techniques, including regression.</p>
+		<p>To go deep into the result of the regression analysis performed, please see this link</p>
+		<p><a href="regression.html">Regression Analysis</a></p>
 		<hr>
 	
 	</body>

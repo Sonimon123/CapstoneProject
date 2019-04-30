@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Board Game Data Analysis</title>
+	</head>
+	<body>
+	
+		<ul>
+		  <li><a href="index.html">Back to Main Page</a></li>
+		  
+		</ul>		
+		
+		<h1>Board Game Data Analysis</h1>
+		<hr>
+		<h2>Regression 1: Positive Correlation with Rankings</h2>
+		<p>The variables used here were: Roll and Move Mechanic, Childrens Game Category, Trivia Category, Movies/TV/Radio Category, Party Game Category</p>
+		<p><img src="posRank.png" alt="Positive Rank Correlation Regression"></p>
+		<h3>Analysis</h3>
+		<p>The coeffcient for each of these variables is:</p>
+		<ul>
+			<li>Constant: 7819.1829</li>
+			<p>(Assuming everything else is 0, this is what we expect the rank to be)</p>
+			<li>Roll and Move Mechanic: 3578.9839</li>
+			<p>(If a game uses a Roll and Move Mechanic, I can predict that its rank will increase by about this amount)</p>
+			<li>Childrens Game Category: 2859.5685</li>
+			<p>(If a game is a Children's game, I can predict that its rank will increase by about this amount)</p>
+			<li>Trivia Category: 2428.3206</li>
+			<p>(If a game is a Trivia game, I can predict that its rank will increase by about this amount)</p>
+			<li>Movies/TV/Radio Category: 1527.3248</li>
+			<p>(If a game is based on a Movie/TV Show/Radio Play, I can predict that its rank will increase by about this amount)</p>
+			<li>Party Game Category: 1185.0895</li>
+			<p>(If a game is a party game, I can predict that its rank will increase by about this amount)</p>
+		</ul>
+		<p>In addition, since the t-values for all of these are greater than 1.96, these are all statistically significant at the 5% level</p>
+		<hr>
+		<h2>Regression 2: Positive Correlation with Average Rating</h2>
+		<p>The variables used here were: Weight, Wargame Category, Variable Player Power Mechanic, Miniatures Category</p>
+		<p>Owners has been dropped dues to potential problems of multicolinearity</p>
+		<p><img src="posRating.png" alt="Positive Rating Correlation Regression"></p>
+		<h3>Analysis</h3>
+		<p>The coeffcient for each of these variables is:</p>
+		<ul>
+			<li>Constant: 5.3402</li>
+			<p>(Assuming everything else is 0, this is what we expect the average rating to be)</p>
+			<li>Weight: 0.4661</li>
+			<p>(If a game increases its Weight (A measure of difficulty or complexity, not of mass), I can predict that its rating will increase by about this amount)</p>
+			<li>Wargame Category: 0.0464</li>
+			<p>(If a game is a Wargame, I can predict that its rating will increase by about this amount)</p>
+			<li>Variable Player Power Mechanic: 0.2865</li>
+			<p>(If a game has a Variable Player Power Mechanic, I can predict that its rating will increase by about this amount)</p>
+			<li>Miniatures Category: 0.3669</li>
+			<p>(If a game includes Plastic Miniatures, I can predict that its rating will increase by about this amount)</p>
+		</ul>
+		<p>In addition, since the t-values for all of these are greater than 1.96, these are all statistically significant at the 5% level</p>
+		<hr>
+		<h2>Regression 3: Positive Correlation with Owners</h2>
+		<p>The variables used here were: Number of Iterations, Number of Expansions, Rating, Variable Player Power Mechanic, Hand Management Mechanic</p>
+		<p>Owners has been dropped dues to potential problems of multicolinearity</p>
+		<p><img src="posOwners.png" alt="Positive Owners Correlation Regression"></p>
+		<h3>Analysis</h3>
+		<p>The coeffcient for each of these variables is:</p>
+		<ul>
+			<li>Constant: -3017.7203</li>
+			<p>(Assuming everything else is 0, this is what we expect the amount of people who own the game to be)</p>
+			<li>Number of Iterations: 1560.9686</li>
+			<p>(If a game is remade or redeveloped one more time, I can predict that this many more people will own it)</p>
+			<li>Number of Expansions: 119.9280</li>
+			<p>(If a game gets another expansion, I can predict that this many more people will own it)</p>
+			<li>Rating: 547.1752</li>
+			<p>(If a game's rating increases by 1, I can predict that this many more people will own it))</p>
+			<li>Variable Player Power Mechanic: 524.4883</li>
+			<p>(If a game includes a Variable Player Power Mechanic, I can predict that this many more people will own it)</p>
+			<li>Hand Management Mechanic: 861.2538</li>
+			<p>(If a game includes a Hand Management Mechanic, I can predict that this many more people will own it)</p>
+		</ul>
+		<p>The t-value for all of these are greater than 1.95, except for the constant. This means that the constant is not statistically significant, but the rest of the variables are</p>
+		<hr>
+		<h2>Regression 4: Negative Correlation with Rankings</h2>
+		<p>The variables used here were: Weight, Age, Number of Expansions, Variable Player Power Mechanic</p>
+		<p>Owners has been dropped dues to potential problems of multicolinearity</p>
+		<p><img src="negRank.png" alt="Negative Rank Correlation Regression"></p>
+		<h3>Analysis</h3>
+		<p>The coeffcient for each of these variables is:</p>
+		<ul>
+			<li>Constant: 1.379e+04</li>
+			<p>(Assuming everything else is 0, this is what we expect the rank to be)</p>
+			<li>Weight: -1909.8402</li>
+			<p>(If a game increases its Weight (A measure of difficulty or complexity, not of mass), I can predict that its rank will increase by about this amount. Since the coefficient is negative, this means it will reduce)</p>
+			<li>Age: -121.9346</li>
+			<p>(If a game's suggested minimum age is 1 year later, I can predict that its rank will increase by about this amount. Since the coefficient is negative, this means it will reduce)</p>
+			<li>Number of Expansions: -90.6682</li>
+			<p>(If a game gets another expansion, I can predict that its rank will increase by about this amount. Since the coefficient is negative, this means it will reduce)</p>
+			<li>Variable Player Power Mechanic: -1433.7355</li>
+			<p>(If a game includes a Variable Player Power Mechanic, I can predict that its rank will increase by about this amount. Since the coefficient is negative, this means it will reduce)</p>
+		</ul>
+		<p>In addition, since the absolute value of the t-values for all of these are greater than 1.96, these are all statistically significant at the 5% level</p>
+		<hr>
+		<h2>Regression 5: Negative Correlation with Average Rating</h2>
+		<p>The variables used here were: Roll and Move Mechanic, Children's Game Category, Trivia Category, Movies/TV/Radio Category, Minimum Player Count</p>
+		<p><img src="negRating.png" alt="Negative Rating Correlation Regression"></p>
+		<h3>Analysis</h3>
+		<p>The coeffcient for each of these variables is:</p>
+		<ul>
+			<li>Constant: 6.8613</li>
+			<p>(Assuming everything else is 0, this is what we expect the rating to be)</p>
+			<li>Roll and Move Mechanic: -0.7379</li>
+			<p>(If a game uses a Roll and Move Mechanic, I can predict that its rating will increase by about this amount. Since the coefficient is negative, this means it will reduce)</p>
+			<li>Children's Game Category: -0.6540</li>
+			<p>(If a game is a Children's Game, I can predict that its rating will increase by about this amount. Since the coefficient is negative, this means it will reduce)</p>
+			<li>Trivia Category: 0.5500</li>
+			<p>(If a game involves Trivia, I can predict that its rating will increase by about this amount. Since the coefficient is negative, this means it will reduce)</p>
+			<li>Movies/TV/Radio Category: -0.3451</li>
+			<p>(If a game is based on a Movie/TV Show/Radio Play, I can predict that its rating will increase by about this amount. Since the coefficient is negative, this means it will reduce)</p>
+			<li>Min Players: -0.1844</li>
+			<p>(If a game's minimum player count increases by 1, I can predict that its rating will increase by about this amount. Since the coefficient is negative, this means it will reduce)</p>
+		</ul>
+		<p>In addition, since the absolute value of the t-values for all of these are greater than 1.96, these are all statistically significant at the 5% level</p>
+		<hr>
+		<h2>Regression 6: Negative Correlation with Owners</h2>
+		<p>The variables used here were: Hex-And-Counter Machanic, Wargame Category, Childrens Game Category, World War II Category</p>
+		<p>Rank was removed due to potential problems of multicolinearity</p>
+		<p><img src="negOwners.png" alt="Negative Owner Correlation Regression"></p>
+		<h3>Analysis</h3>
+		<p>The coeffcient for each of these variables is:</p>
+		<ul>
+			<li>Constant: 1465.1938</li>
+			<p>(Assuming everything else is 0, this is how many people we expect to own the game)</p>
+			<li>Hex-and-Counter Category: -669.9230</li>
+			<p>(If a game involves a Hex-and-Counter mechanic, I can predict that this many more people will own it. Since the coefficient is negative, this means it will reduce)</p>
+			<li>Wargame Category: -303.8578</li>
+			<p>(If a game is a Wargame, I can predict that this many more people will own it. Since the coefficient is negative, this means it will reduce)</p>
+			<li>Children's Game Category: -907.7979</li>
+			<p>(If a game is a Children's Game, I can predict that this many more people will own it.)</p>
+			<li>World War II Category: -77.8471</li>
+			<p>(If a game is about World War II, I can predict that this many more people will own it. Since the coefficient is negative, this means it will reduce)</p>
+		</ul>
+		<p>The absolute value of the t-values for the constant, Children's Game Category, Hex-and-Counter Mechanic, and Wargame Category are greater than 1.96, so these are all statistically significant at the 5% level. The World War II Category is not statistically significant, as it falls below this threashold</p>
+		<hr>
+	</body>
+</html>
